@@ -43,7 +43,7 @@
     </nav>
 
     <div class="container mx-auto p-6">
-        <p class="mb-6">Wygenerowano: 2025-10-14 12:04:23</p>
+        <p class="mb-6">Wygenerowano: 2025-10-14 13:24:43</p>
 
         <!-- Podsumowanie -->
         <section id="summary" class="mb-8 fade-in">
@@ -183,14 +183,18 @@ document.addEventListener('DOMContentLoaded', async () => {
         return;
     }
 
-    // --- Pobierz indeks i pocięte tabele ---
+    // --- Pobierz indeks RELATYWNIE do bieżącego index.html ---
     let data = null;
     try {
-        const resp = await fetch('data_index.json');
-        if (!resp.ok) throw new Error('HTTP ' + resp.status);
-        const index = await resp.json();
+        const indexUrl = new URL('data_index.json', location.href).href;
+        console.info('Ładowanie indeksu:', indexUrl);
+        const indexResp = await fetch(indexUrl);
+        if (!indexResp.ok) {
+            console.error('Błąd HTTP przy ładowaniu data_index.json', indexResp.status, indexResp);
+            throw new Error('Nie udało się pobrać data_index.json: ' + indexResp.status);
+        }
+        const index = await indexResp.json();
 
-        // przenieś lżejsze pola do data
         data = {
             charts: index.charts || {},
             summaries: index.summaries || {},
@@ -199,37 +203,49 @@ document.addEventListener('DOMContentLoaded', async () => {
             tables: { errors: [], warnings: [], sessions: [], admin: [], mods: [] }
         };
 
-        // jeśli nie ma części tablic, kontynuuj normalnie (brak dużych tabel)
         const parts = (index.tables_index && index.tables_index.parts) ? index.tables_index.parts : [];
+        console.info('index.tables_index.counts', index.tables_index && index.tables_index.counts);
+        console.info('Liczba części do pobrania:', parts.length);
+
         for (const p of parts) {
+            const partUrl = new URL(p.file, location.href).href;
             try {
-                const partResp = await fetch(p.file);
+                console.debug('Pobieram część:', partUrl);
+                const partResp = await fetch(partUrl);
                 if (!partResp.ok) {
-                    console.error('Nie udało się pobrać części tabeli:', p.file, partResp.status);
+                    console.error('Nie udało się pobrać części tabeli:', partUrl, partResp.status);
                     continue;
                 }
                 const partData = await partResp.json();
-                // partData jest listą obiektów {table: "...", row: {...}}
+                if (!Array.isArray(partData)) {
+                    console.error('Oczekiwano listy w części tabeli, otrzymano:', typeof partData, partUrl);
+                    continue;
+                }
                 for (const rec of partData) {
                     const t = rec.table;
                     const row = rec.row;
+                    if (!t || typeof row !== 'object') {
+                        console.warn('Pominięto nieprawidłowy rekord w', partUrl, rec);
+                        continue;
+                    }
                     if (!data.tables[t]) data.tables[t] = [];
                     data.tables[t].push(row);
                 }
+                console.debug(`Załadowano ${partData.length} rekordów z ${partUrl}`);
             } catch (e) {
-                console.error('Błąd pobierania/parsowania części tabeli', p.file, e);
+                console.error('Błąd pobierania/parsowania części tabeli', partUrl, e);
             }
         }
     } catch (e) {
         const errorDiv = document.createElement('div');
         errorDiv.className = 'text-center text-red-500 dark:text-red-400 p-4';
-        errorDiv.textContent = 'Błąd: Nie udało się załadować data_index.json. Sprawdź reports/data_index.json oraz uprawnienia.';
+        errorDiv.textContent = 'Błąd: Nie udało się załadować data_index.json. Sprawdź uprawnienia i ścieżki.';
         document.querySelector('.container').prepend(errorDiv);
         console.error('Błąd ładowania data_index.json', e);
         return;
     }
 
-    // mapy stylów i helpery (takie same jak wcześniej)
+    // dalej: render wykresów i tabel tak jak wcześniej (używa data.charts i data.tables)
     const styleMap = {
         other_charts:   { title: 'Inne zdarzenia', color: '#3b82f6', bg: 'rgba(59,130,246,0.35)', defaultType: 'bar', horizontal: false },
         save_charts:    { title: 'Zapisy gry (dzień)', color: '#10b981', bg: 'rgba(16,185,129,0.35)', defaultType: 'line', horizontal: false },
@@ -247,12 +263,10 @@ document.addEventListener('DOMContentLoaded', async () => {
         return Math.max(380, Math.min(1000, h));
     }
 
-    // Funkcja renderująca wykresy, tabelki — używa data.charts i data.tables
     const chartsData = data.charts || {};
     const summaries = data.summaries || {};
     const tables = data.tables || {};
 
-    // Render każdego obszaru tak jak wcześniej — placeholdery jeśli brak danych
     Object.entries({
         other_charts: chartsData.other_charts || {},
         save_charts: chartsData.save_charts || {},
@@ -348,7 +362,6 @@ document.addEventListener('DOMContentLoaded', async () => {
 
     // Render tabel (errors, warnings, sessions) korzystając z data.tables i data.summaries
     try {
-        // Errors summary table
         const errorsSummary = summaries.errors_summary || [];
         const errorsSection = document.querySelector('#errors');
         if (errorsSection) {
@@ -367,8 +380,6 @@ document.addEventListener('DOMContentLoaded', async () => {
     } catch (e) {
         console.error('Błąd renderowania tabel błędów', e);
     }
-
-    // Możesz dodać dodatkowe rendery tabel warnings, sessions tak jak powyżej wykorzystując tables.warnings / tables.sessions
 
 });
 
