@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2025-10-14 13:52:16",
+    "generated_at": "2025-10-14 14:18:54",
     "events_count": 1642012
   },
   "charts": {
@@ -530,21 +530,26 @@
     },
     "parts": [
       {
-        "file": "tables/tables_part_1.json",
-        "bytes": 35669667,
-        "count": 142910
+        "file": "tables\\tables_part_1.json",
+        "bytes": 21372188,
+        "count": 85375
       },
       {
-        "file": "tables/tables_part_2.json",
-        "bytes": 17145324,
-        "count": 81276
+        "file": "tables\\tables_part_2.json",
+        "bytes": 21429614,
+        "count": 86592
+      },
+      {
+        "file": "tables\\tables_part_3.json",
+        "bytes": 10013192,
+        "count": 52219
       }
     ]
   },
   "raw_event_counts": {
-    "system_info": 5001,
+    "system_info": 4497,
     "direct_storage": 60,
-    "other": 1535187,
+    "other": 1524933,
     "dlc_load": 75,
     "mod_load": 10334,
     "duplicate_l10n": 105,
@@ -553,6 +558,7 @@
     "info_add": 991,
     "forestry_helper": 154,
     "warning": 836,
+    "file_load": 10758,
     "real_dirt_color": 697,
     "memory_warning": 7,
     "save_game": 105,

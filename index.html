@@ -33,19 +33,14 @@
                 <a href="#charts" class="text-white hover:underline">Wykresy</a>
                 <a href="#errors" class="text-white hover:underline">Błędy</a>
                 <a href="#warnings" class="text-white hover:underline">Ostrzeżenia</a>
-                <a href="#sessions" class="text-white hover:underline">Sesje Graczy</a>
-                <a href="#admin" class="text-white hover:underline">Akcje Admina</a>
-                <a href="#mods" class="text-white hover:underline">Mody</a>
-                <a href="#mod-issues" class="text-white hover:underline">Problemy z modami</a>
                 <button id="theme-toggle" class="px-4 py-2 bg-blue-500 text-white rounded hover:bg-blue-600">Przełącz motyw</button>
             </div>
         </div>
     </nav>
 
     <div class="container mx-auto p-6">
-        <p class="mb-6">Wygenerowano: 2025-10-14 13:52:21</p>
+        <p class="mb-6">Wygenerowano: 2025-10-14 14:18:58</p>
 
-        <!-- Podsumowanie -->
         <section id="summary" class="mb-8 fade-in">
             <h2 class="text-2xl font-semibold mb-4">Podsumowanie</h2>
             <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
@@ -61,22 +56,9 @@
                     <h3 class="text-lg font-medium">Ostrzeżenia</h3>
                     <p class="text-2xl">43771</p>
                 </div>
-                <div class="bg-white dark:bg-gray-800 p-4 rounded shadow">
-                    <h3 class="text-lg font-medium">Mody</h3>
-                    <p class="text-2xl">10334</p>
-                </div>
-                <div class="bg-white dark:bg-gray-800 p-4 rounded shadow">
-                    <h3 class="text-lg font-medium">DLC</h3>
-                    <p class="text-2xl">75</p>
-                </div>
-                <div class="bg-white dark:bg-gray-800 p-4 rounded shadow">
-                    <h3 class="text-lg font-medium">Sesje graczy</h3>
-                    <p class="text-2xl">74</p>
-                </div>
             </div>
         </section>
 
-        <!-- Wykresy -->
         <section id="charts" class="mb-8 fade-in">
             <h2 class="text-2xl font-semibold mb-4">Wykresy</h2>
             <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
@@ -84,45 +66,12 @@
                 <div id="save_charts" class="chart-container"></div>
                 <div id="warning_charts" class="chart-container"></div>
                 <div id="sessions_charts" class="chart-container"></div>
-                <div id="admin_charts" class="chart-container"></div>
-                <div id="mod_issues" class="chart-container"></div>
             </div>
         </section>
 
-        <!-- Błędy -->
         <section id="errors" class="mb-8 fade-in">
             <h2 class="text-2xl font-semibold mb-4">Błędy</h2>
             <div id="errors_section"></div>
-        </section>
-
-        <!-- Ostrzeżenia -->
-        <section id="warnings" class="mb-8 fade-in">
-            <h2 class="text-2xl font-semibold mb-4">Ostrzeżenia</h2>
-            <div id="warnings_section"></div>
-        </section>
-
-        <!-- Sesje -->
-        <section id="sessions" class="mb-8 fade-in">
-            <h2 class="text-2xl font-semibold mb-4">Sesje graczy</h2>
-            <div id="sessions_section"></div>
-        </section>
-
-        <!-- Admin -->
-        <section id="admin" class="mb-8 fade-in">
-            <h2 class="text-2xl font-semibold mb-4">Akcje admina</h2>
-            <div id="admin_section"></div>
-        </section>
-
-        <!-- Mody -->
-        <section id="mods" class="mb-8 fade-in">
-            <h2 class="text-2xl font-semibold mb-4">Mody</h2>
-            <div id="mods_section"></div>
-        </section>
-
-        <!-- Problemy z modami -->
-        <section id="mod-issues" class="mb-8 fade-in">
-            <h2 class="text-2xl font-semibold mb-4">Problemy z modami</h2>
-            <div id="mod_issues_section"></div>
         </section>
 
         <footer class="text-center text-gray-600 dark:text-gray-400">
@@ -144,8 +93,8 @@ document.addEventListener('DOMContentLoaded', async () => {
         }
     }
 
-    // Sortowanie tabel (jak wcześniej)
-    document.querySelectorAll('.sortable th').forEach(header => {
+    // Sortowanie tabel
+    document.querySelectorAll('th.table-header').forEach(header => {
         header.addEventListener('click', () => {
             const table = header.closest('table');
             const index = Array.from(header.parentElement.children).indexOf(header);
@@ -166,15 +115,6 @@ document.addEventListener('DOMContentLoaded', async () => {
         });
     });
 
-    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
-        anchor.addEventListener('click', (e) => {
-            e.preventDefault();
-            const target = document.querySelector(anchor.getAttribute('href'));
-            if (!target) return;
-            target.scrollIntoView({ behavior: 'smooth' });
-        });
-    });
-
     if (typeof Chart === 'undefined') {
         const errorDiv = document.createElement('div');
         errorDiv.className = 'text-center text-red-500 dark:text-red-400 p-4';
@@ -183,17 +123,12 @@ document.addEventListener('DOMContentLoaded', async () => {
         return;
     }
 
-    // --- Pobierz indeks RELATYWNIE do bieżącego index.html ---
+    // Pobierz indeks i części tabel
     let data = null;
     try {
-        const indexUrl = new URL('data_index.json', location.href).href;
-        console.info('Ładowanie indeksu:', indexUrl);
-        const indexResp = await fetch(indexUrl);
-        if (!indexResp.ok) {
-            console.error('Błąd HTTP przy ładowaniu data_index.json', indexResp.status, indexResp);
-            throw new Error('Nie udało się pobrać data_index.json: ' + indexResp.status);
-        }
-        const index = await indexResp.json();
+        const resp = await fetch('data_index.json');
+        if (!resp.ok) throw new Error('HTTP ' + resp.status);
+        const index = await resp.json();
 
         data = {
             charts: index.charts || {},
@@ -204,183 +139,48 @@ document.addEventListener('DOMContentLoaded', async () => {
         };
 
         const parts = (index.tables_index && index.tables_index.parts) ? index.tables_index.parts : [];
-        console.info('index.tables_index.counts', index.tables_index && index.tables_index.counts);
-        console.info('Liczba części do pobrania:', parts.length);
-
         for (const p of parts) {
-            const partUrl = new URL(p.file, location.href).href;
             try {
-                console.debug('Pobieram część:', partUrl);
-                const partResp = await fetch(partUrl);
+                const partResp = await fetch(p.file);
                 if (!partResp.ok) {
-                    console.error('Nie udało się pobrać części tabeli:', partUrl, partResp.status);
+                    console.error('Nie udało się pobrać części tabeli:', p.file, partResp.status);
                     continue;
                 }
                 const partData = await partResp.json();
-                if (!Array.isArray(partData)) {
-                    console.error('Oczekiwano listy w części tabeli, otrzymano:', typeof partData, partUrl);
-                    continue;
-                }
                 for (const rec of partData) {
                     const t = rec.table;
                     const row = rec.row;
-                    if (!t || typeof row !== 'object') {
-                        console.warn('Pominięto nieprawidłowy rekord w', partUrl, rec);
-                        continue;
-                    }
                     if (!data.tables[t]) data.tables[t] = [];
                     data.tables[t].push(row);
                 }
-                console.debug(`Załadowano ${partData.length} rekordów z ${partUrl}`);
             } catch (e) {
-                console.error('Błąd pobierania/parsowania części tabeli', partUrl, e);
+                console.error('Błąd pobierania/parsowania części tabeli', p.file, e);
             }
         }
     } catch (e) {
         const errorDiv = document.createElement('div');
         errorDiv.className = 'text-center text-red-500 dark:text-red-400 p-4';
-        errorDiv.textContent = 'Błąd: Nie udało się załadować data_index.json. Sprawdź uprawnienia i ścieżki.';
+        errorDiv.textContent = 'Błąd: Nie udało się załadować data_index.json. Sprawdź reports/data_index.json oraz uprawnienia.';
         document.querySelector('.container').prepend(errorDiv);
         console.error('Błąd ładowania data_index.json', e);
         return;
     }
 
-    // dalej: render wykresów i tabel tak jak wcześniej (używa data.charts i data.tables)
-    const styleMap = {
-        other_charts:   { title: 'Inne zdarzenia', color: '#3b82f6', bg: 'rgba(59,130,246,0.35)', defaultType: 'bar', horizontal: false },
-        save_charts:    { title: 'Zapisy gry (dzień)', color: '#10b981', bg: 'rgba(16,185,129,0.35)', defaultType: 'line', horizontal: false },
-        warning_charts: { title: 'Ostrzeżenia (dzień)', color: '#ef4444', bg: 'rgba(239,68,68,0.35)',  defaultType: 'line', horizontal: false },
-        sessions_charts:{ title: 'Sesje graczy',   color: '#6366f1', bg: 'rgba(99,102,241,0.35)', defaultType: 'bar', horizontal: true },
-        admin_charts:   { title: 'Akcje admina',   color: '#14b8a6', bg: 'rgba(20,184,166,0.35)', defaultType: 'bar', horizontal: true },
-        mod_issues:     { title: 'Problemy z modami', color: '#8b5cf6', bg: 'rgba(139,92,246,0.35)', defaultType: 'bar', horizontal: true },
-    };
-
-    function computeHeight(labels, horizontal) {
-        if (!Array.isArray(labels)) return 420;
-        const base = horizontal ? 90 : 120;
-        const perLabel = horizontal ? 28 : 20;
-        const h = base + labels.length * perLabel;
-        return Math.max(380, Math.min(1000, h));
-    }
-
-    const chartsData = data.charts || {};
-    const summaries = data.summaries || {};
-    const tables = data.tables || {};
-
-    Object.entries({
-        other_charts: chartsData.other_charts || {},
-        save_charts: chartsData.save_charts || {},
-        warning_charts: chartsData.warning_charts || {},
-        sessions_charts: chartsData.sessions_charts || {},
-        admin_charts: chartsData.admin_charts || {},
-        mod_issues: chartsData.mod_issues || {}
-    }).forEach(([sectionKey, group]) => {
-        const container = document.getElementById(sectionKey);
-        const style = styleMap[sectionKey] || { title: sectionKey, color: '#374151', bg: 'rgba(55,65,81,0.3)', defaultType: 'bar', horizontal: false };
-        if (!container) return;
-
-        if (!group || Object.keys(group).length === 0) {
-            const ph = document.createElement('div');
-            ph.className = 'chart-container flex items-center justify-center';
-            ph.style.minHeight = '160px';
-            ph.innerHTML = `<div class="text-center"><div style="font-weight:600;margin-bottom:6px">${style.title}</div><div style="color:#6b7280">Obecnie brak danych</div></div>`;
-            container.appendChild(ph);
-            return;
-        }
-
-        Object.entries(group).forEach(([subKey, chartData]) => {
-            const labels = chartData?.labels ?? [];
-            const dataSet = chartData?.data ?? [];
-            const type = chartData?.type || style.defaultType;
-            const horizontal = !!chartData?.horizontal || style.horizontal;
-
-            if (!Array.isArray(labels) || labels.length === 0 || !Array.isArray(dataSet) || dataSet.length === 0) {
-                const ph = document.createElement('div');
-                ph.className = 'chart-container flex items-center justify-center';
-                ph.style.minHeight = '160px';
-                ph.innerHTML = `<div class="text-center"><div style="font-weight:600;margin-bottom:6px">${style.title}: ${subKey}</div><div style="color:#6b7280">Obecnie brak danych</div></div>`;
-                container.appendChild(ph);
-                return;
-            }
-
-            const height = computeHeight(labels, horizontal);
-            const wrapper = document.createElement('div');
-            wrapper.className = 'chart-container';
-            wrapper.style.height = `${height}px`;
-            container.appendChild(wrapper);
-
-            const canvas = document.createElement('canvas');
-            wrapper.appendChild(canvas);
-
-            try {
-                new Chart(canvas, {
-                    type,
-                    data: {
-                        labels,
-                        datasets: [{
-                            label: `${style.title}: ${subKey}`,
-                            data: dataSet,
-                            borderColor: style.color,
-                            backgroundColor: style.bg,
-                            fill: type === 'line',
-                            tension: type === 'line' ? 0.35 : 0
-                        }]
-                    },
-                    options: {
-                        responsive: true,
-                        maintainAspectRatio: false,
-                        layout: {
-                            padding: { left: horizontal ? 24 : 8, right: 12, top: 12, bottom: 18 }
-                        },
-                        plugins: {
-                            legend: { display: true, labels: { boxWidth: 18, boxHeight: 12 } },
-                            title: { display: true, text: `${style.title}: ${subKey}`, font: { size: 14 } }
-                        },
-                        scales: {
-                            x: {
-                                ticks: { maxRotation: horizontal ? 0 : 45, minRotation: horizontal ? 0 : 45, autoSkip: false, font: { size: 12 } },
-                                title: { display: true, text: horizontal ? 'Wartość' : 'Godzina', font: { size: 12 } }
-                            },
-                            y: {
-                                ticks: { autoSkip: false, font: { size: 12 } },
-                                title: { display: true, text: horizontal ? 'Kategoria' : 'Liczba', font: { size: 12 } }
-                            }
-                        },
-                        indexAxis: horizontal ? 'y' : 'x'
-                    }
-                });
-            } catch (e) {
-                const ph = document.createElement('div');
-                ph.className = 'chart-container flex items-center justify-center';
-                ph.style.minHeight = '160px';
-                ph.innerHTML = `<div class="text-center"><div style="font-weight:600;margin-bottom:6px">Błąd renderu: ${style.title}: ${subKey}</div><div style="color:#ef4444">Sprawdź logi</div></div>`;
-                container.appendChild(ph);
-                console.error(`Błąd renderowania wykresu ${sectionKey}:${subKey}`, e);
-            }
-        });
-    });
-
-    // Render tabel (errors, warnings, sessions) korzystając z data.tables i data.summaries
+    // Render błędów (przykładowo)
     try {
-        const errorsSummary = summaries.errors_summary || [];
-        const errorsSection = document.querySelector('#errors');
+        const errorsSummary = data.summaries.errors_summary || [];
+        const errorsSection = document.querySelector('#errors_section');
         if (errorsSection) {
             const tbodyRows = errorsSummary.map(r => `<tr><td class="p-2">${r.Message || ''}</td><td class="p-2">${r.Count || 0}</td></tr>`).join('');
-            const detailsRows = (tables.errors || []).slice(0, 100).map(row => `<tr><td class="p-2">${row.Timestamp || ''}</td><td class="p-2">${row.EventType || ''}</td><td class="p-2">${JSON.stringify(row.Details || {})}</td></tr>`).join('');
-            const html = `
-                <table class="w-full bg-white dark:bg-gray-800 rounded shadow mb-4 sortable">
-                    <thead><tr class="bg-gray-200 dark:bg-gray-700"><th class="p-2 table-header">Wiadomość</th><th class="p-2 table-header">Liczba</th></tr></thead>
-                    <tbody>${tbodyRows}</tbody>
-                </table>
+            const detailsRows = (data.tables.errors || []).slice(0, 100).map(row => `<tr><td class="p-2">${row.Timestamp || ''}</td><td class="p-2">${row.EventType || ''}</td><td class="p-2">${JSON.stringify(row.Details || {})}</td></tr>`).join('');
+            const html = `<table class="w-full bg-white dark:bg-gray-800 rounded shadow mb-4 sortable"><thead><tr class="bg-gray-200 dark:bg-gray-700"><th class="p-2 table-header">Wiadomość</th><th class="p-2 table-header">Liczba</th></tr></thead><tbody>${tbodyRows}</tbody></table>
                 <details class="mb-4"><summary class="cursor-pointer text-blue-600 dark:text-blue-400">Pokaż pełne dane błędów (pierwsze 100)</summary>
-                <table class="w-full bg-white dark:bg-gray-800 rounded shadow sortable"><thead><tr class="bg-gray-200 dark:bg-gray-700"><th class="p-2 table-header">Timestamp</th><th class="p-2 table-header">Typ zdarzenia</th><th class="p-2 table-header">Szczegóły</th></tr></thead><tbody>${detailsRows}</tbody></table></details>
-            `;
+                <table class="w-full bg-white dark:bg-gray-800 rounded shadow sortable"><thead><tr class="bg-gray-200 dark:bg-gray-700"><th class="p-2 table-header">Timestamp</th><th class="p-2 table-header">Typ zdarzenia</th><th class="p-2 table-header">Szczegóły</th></tr></thead><tbody>${detailsRows}</tbody></table></details>`;
             errorsSection.innerHTML = html;
         }
     } catch (e) {
         console.error('Błąd renderowania tabel błędów', e);
     }
-
 });
 
     </script>
