@@ -7,25 +7,64 @@
     <script src="https://cdn.tailwindcss.com"></script>
     <script src="https://cdn.jsdelivr.net/npm/chart.js@4.5.0/dist/chart.umd.min.js"></script>
     <style>
+        body {
+            min-height: 100vh;
+            transition: background-color 0.3s ease, color 0.3s ease;
+        }
         .chart-container {
             position: relative;
             width: 100%;
-            overflow: hidden;
             margin-bottom: 1.5rem;
-            padding: 0.5rem 1rem;
-            background-color: #fff;
+            padding: 1rem;
             border-radius: 0.5rem;
-            box-shadow: 0 4px 6px rgba(0,0,0,0.08);
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+            background-color: rgba(255,255,255,0.95);
+        }
+        .dark .chart-container {
+            background-color: rgba(31,41,55,0.95); /* Ciemne tło dla wykresów w trybie ciemnym */
+        }
+        .chart-container.flex {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+        canvas {
+            width: 100% !important;
+            height: 100% !important;
             display: block;
         }
-        .chart-container.flex { display:flex; align-items:center; justify-content:center; }
-        .dark .chart-container { background-color: #111827 }
-        canvas { width: 100%; height: 100%; display: block; }
-        .table-header { cursor: pointer; }
+        .table-header {
+            cursor: pointer;
+            user-select: none;
+        }
+        .sortable th::after {
+            content: '↕';
+            margin-left: 0.5rem;
+            font-size: 0.8rem;
+        }
+        .sortable th.asc::after {
+            content: '↑';
+        }
+        .sortable th:not(.asc)::after {
+            content: '↓';
+        }
+        details summary {
+            outline: none;
+        }
+        details[open] summary {
+            margin-bottom: 1rem;
+        }
+        .fade-in {
+            animation: fadeIn 0.5s ease-in;
+        }
+        @keyframes fadeIn {
+            from { opacity: 0; }
+            to { opacity: 1; }
+        }
     </style>
 </head>
-<body class="bg-gray-100 dark:bg-gray-900 text-gray-900 dark:text-gray-100 transition-colors duration-300">
-    <nav class="bg-blue-600 dark:bg-blue-800 p-4">
+<body class="bg-gray-100 dark:bg-gray-900 text-gray-900 dark:text-gray-100">
+    <nav class="bg-blue-600 dark:bg-blue-800 p-4 sticky top-0 z-10">
         <div class="container mx-auto flex justify-between items-center">
             <h1 class="text-xl font-bold text-white">Raport FS25</h1>
             <div class="space-x-4">
@@ -36,28 +75,40 @@
                 <a href="#sessions" class="text-white hover:underline">Sesje</a>
                 <a href="#admin" class="text-white hover:underline">Admin</a>
                 <a href="#mods" class="text-white hover:underline">Mody</a>
-                <button id="theme-toggle" class="px-4 py-2 bg-blue-500 text-white rounded hover:bg-blue-600">Przełącz motyw</button>
+                <button id="theme-toggle" class="px-4 py-2 bg-blue-500 text-white rounded hover:bg-blue-600 transition">Przełącz motyw</button>
             </div>
         </div>
     </nav>
 
     <div class="container mx-auto p-6">
-        <p class="mb-6">Wygenerowano: 2025-10-14 15:02:13</p>
+        <p class="mb-6 text-gray-600 dark:text-gray-400">Wygenerowano: {datetime.now().strftime("%Y-%m-%d %H:%M:%S")}</p>
 
         <section id="summary" class="mb-8 fade-in">
             <h2 class="text-2xl font-semibold mb-4">Podsumowanie</h2>
-            <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
-                <div class="bg-white dark:bg-gray-800 p-4 rounded shadow">
+            <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4">
+                <div class="bg-white dark:bg-gray-800 p-4 rounded-lg shadow">
                     <h3 class="text-lg font-medium">Liczba zdarzeń</h3>
-                    <p id="summary-events" class="text-2xl">Ładowanie...</p>
+                    <p id="summary-events" class="text-2xl font-bold">Ładowanie...</p>
                 </div>
-                <div class="bg-white dark:bg-gray-800 p-4 rounded shadow">
+                <div class="bg-white dark:bg-gray-800 p-4 rounded-lg shadow">
                     <h3 class="text-lg font-medium">Błędy</h3>
-                    <p id="summary-errors" class="text-2xl">Ładowanie...</p>
+                    <p id="summary-errors" class="text-2xl font-bold">Ładowanie...</p>
                 </div>
-                <div class="bg-white dark:bg-gray-800 p-4 rounded shadow">
+                <div class="bg-white dark:bg-gray-800 p-4 rounded-lg shadow">
                     <h3 class="text-lg font-medium">Ostrzeżenia</h3>
-                    <p id="summary-warnings" class="text-2xl">Ładowanie...</p>
+                    <p id="summary-warnings" class="text-2xl font-bold">Ładowanie...</p>
+                </div>
+                <div class="bg-white dark:bg-gray-800 p-4 rounded-lg shadow">
+                    <h3 class="text-lg font-medium">Mody</h3>
+                    <p id="summary-mods" class="text-2xl font-bold">Ładowanie...</p>
+                </div>
+                <div class="bg-white dark:bg-gray-800 p-4 rounded-lg shadow">
+                    <h3 class="text-lg font-medium">DLC</h3>
+                    <p id="summary-dlcs" class="text-2xl font-bold">Ładowanie...</p>
+                </div>
+                <div class="bg-white dark:bg-gray-800 p-4 rounded-lg shadow">
+                    <h3 class="text-lg font-medium">Sesje graczy</h3>
+                    <p id="summary-sessions" class="text-2xl font-bold">Ładowanie...</p>
                 </div>
             </div>
         </section>
@@ -65,10 +116,12 @@
         <section id="charts" class="mb-8 fade-in">
             <h2 class="text-2xl font-semibold mb-4">Wykresy</h2>
             <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
-                <div id="other_charts" class="chart-container"><h3 class="text-center">Problemy z modami</h3></div>
-                <div id="save_charts" class="chart-container"><h3 class="text-center">Zapisów na godzinę</h3></div>
-                <div id="warning_charts" class="chart-container"><h3 class="text-center">Ostrzeżeń na godzinę</h3></div>
-                <div id="sessions_charts" class="chart-container"><h3 class="text-center">Czas sesji graczy</h3></div>
+                <div id="other_charts" class="chart-container"></div>
+                <div id="save_charts" class="chart-container"></div>
+                <div id="warning_charts" class="chart-container"></div>
+                <div id="sessions_charts" class="chart-container"></div>
+                <div id="admin_charts" class="chart-container"></div>
+                <div id="mod_issues" class="chart-container"></div>
             </div>
         </section>
 
@@ -97,244 +150,268 @@
             <div id="mods_section"></div>
         </section>
 
-        <footer class="text-center text-gray-600 dark:text-gray-400">
+        <footer class="text-center text-gray-600 dark:text-gray-400 py-4">
             <p>Wygenerowano przez logs_analyzer.py</p>
         </footer>
     </div>
 
     <script>
-        
-document.addEventListener('DOMContentLoaded', async () => {
-    const toggleButton = document.getElementById('theme-toggle');
-    if (toggleButton) {
-        toggleButton.addEventListener('click', () => {
-            document.body.classList.toggle('dark');
-            localStorage.setItem('theme', document.body.classList.contains('dark') ? 'dark' : 'light');
-        });
-        if (localStorage.getItem('theme') === 'dark') {
-            document.body.classList.add('dark');
-        }
-    }
-
-    // Sortowanie tabel
-    document.querySelectorAll('th.table-header').forEach(header => {
-        header.addEventListener('click', () => {
-            const table = header.closest('table');
-            const index = Array.from(header.parentElement.children).indexOf(header);
-            const tbody = table.querySelector('tbody');
-            if (!tbody) return;
-            const rows = Array.from(tbody.rows);
-            const isAscending = header.classList.contains('asc');
-            rows.sort((a, b) => {
-                const aText = a.cells[index]?.textContent?.trim() ?? '';
-                const bText = b.cells[index]?.textContent?.trim() ?? '';
-                return isAscending
-                    ? bText.localeCompare(aText, undefined, { numeric: true })
-                    : aText.localeCompare(bText, undefined, { numeric: true });
-            });
-            header.classList.toggle('asc');
-            tbody.innerHTML = '';
-            rows.forEach(row => tbody.appendChild(row));
-        });
-    });
-
-    if (typeof Chart === 'undefined') {
-        const errorDiv = document.createElement('div');
-        errorDiv.className = 'text-center text-red-500 dark:text-red-400 p-4';
-        errorDiv.textContent = 'Błąd: Nie załadowano Chart.js. Otwórz raport przez serwer HTTP (np. python -m http.server).';
-        document.querySelector('.container').prepend(errorDiv);
-        return;
-    }
-
-    // Pobierz indeks i części tabel
-    let data = null;
-    try {
-        const resp = await fetch('data_index.json');
-        if (!resp.ok) throw new Error('HTTP ' + resp.status);
-        const index = await resp.json();
-
-        data = {
-            charts: index.charts || {},
-            summaries: index.summaries || {},
-            meta: index.meta || {},
-            raw_event_counts: index.raw_event_counts || {},
-            tables: { errors: [], warnings: [], sessions: [], admin: [], mods: [] }
-        };
-
-        const parts = (index.tables_index && index.tables_index.parts) ? index.tables_index.parts : [];
-        for (const p of parts) {
-            try {
-                const partResp = await fetch(p.file);
-                if (!partResp.ok) {
-                    console.error('Nie udało się pobrać części tabeli:', p.file, partResp.status);
-                    continue;
+        document.addEventListener('DOMContentLoaded', async () => {
+            // Przełączanie motywu
+            const toggleButton = document.getElementById('theme-toggle');
+            if (toggleButton) {
+                toggleButton.addEventListener('click', () => {
+                    document.body.classList.toggle('dark');
+                    localStorage.setItem('theme', document.body.classList.contains('dark') ? 'dark' : 'light');
+                });
+                if (localStorage.getItem('theme') === 'dark') {
+                    document.body.classList.add('dark');
                 }
-                const partData = await partResp.json();
-                for (const rec of partData) {
-                    const t = rec.table;
-                    const row = rec.row;
-                    if (!data.tables[t]) data.tables[t] = [];
-                    data.tables[t].push(row);
+            }
+
+            // Sortowanie tabel
+            document.querySelectorAll('th.table-header').forEach(header => {
+                header.addEventListener('click', () => {
+                    const table = header.closest('table');
+                    const index = Array.from(header.parentElement.children).indexOf(header);
+                    const tbody = table.querySelector('tbody');
+                    if (!tbody) return;
+                    const rows = Array.from(tbody.rows);
+                    const isAscending = header.classList.contains('asc');
+                    rows.sort((a, b) => {
+                        const aText = a.cells[index]?.textContent?.trim() ?? '';
+                        const bText = b.cells[index]?.textContent?.trim() ?? '';
+                        return isAscending
+                            ? bText.localeCompare(aText, undefined, { numeric: true })
+                            : aText.localeCompare(bText, undefined, { numeric: true });
+                    });
+                    header.classList.toggle('asc');
+                    tbody.innerHTML = '';
+                    rows.forEach(row => tbody.appendChild(row));
+                });
+            });
+
+            // Sprawdzenie Chart.js
+            if (typeof Chart === 'undefined') {
+                const errorDiv = document.createElement('div');
+                errorDiv.className = 'text-center text-red-500 dark:text-red-400 p-4';
+                errorDiv.textContent = 'Błąd: Nie załadowano Chart.js. Otwórz raport przez serwer HTTP (np. python -m http.server).';
+                document.querySelector('.container').prepend(errorDiv);
+                return;
+            }
+
+            // Pobieranie danych z data_index.json
+            let data = null;
+            try {
+                const resp = await fetch('data_index.json');
+                if (!resp.ok) throw new Error('HTTP ' + resp.status);
+                const index = await resp.json();
+
+                data = {
+                    charts: index.charts || {},
+                    summaries: index.summaries || {},
+                    meta: index.meta || {},
+                    raw_event_counts: index.raw_event_counts || {},
+                    tables: { errors: [], warnings: [], sessions: [], admin: [], mods: [] }
+                };
+
+                const parts = (index.tables_index && index.tables_index.parts) ? index.tables_index.parts : [];
+                for (const p of parts) {
+                    try {
+                        const partResp = await fetch(p.file);
+                        if (!partResp.ok) {
+                            console.error('Nie udało się pobrać części tabeli:', p.file, partResp.status);
+                            continue;
+                        }
+                        const partData = await partResp.json();
+                        for (const rec of partData) {
+                            const t = rec.table;
+                            const row = rec.row;
+                            if (!data.tables[t]) data.tables[t] = [];
+                            data.tables[t].push(row);
+                        }
+                    } catch (e) {
+                        console.error('Błąd pobierania/parsowania części tabeli', p.file, e);
+                    }
                 }
             } catch (e) {
-                console.error('Błąd pobierania/parsowania części tabeli', p.file, e);
+                const errorDiv = document.createElement('div');
+                errorDiv.className = 'text-center text-red-500 dark:text-red-400 p-4';
+                errorDiv.textContent = 'Błąd: Nie udało się załadować data_index.json. Sprawdź reports/FS25Logs/data_index.json.';
+                document.querySelector('.container').prepend(errorDiv);
+                console.error('Błąd ładowania data_index.json', e);
+                return;
             }
-        }
-    } catch (e) {
-        const errorDiv = document.createElement('div');
-        errorDiv.className = 'text-center text-red-500 dark:text-red-400 p-4';
-        errorDiv.textContent = 'Błąd: Nie udało się załadować data_index.json. Sprawdź reports/data_index.json oraz uprawnienia.';
-        document.querySelector('.container').prepend(errorDiv);
-        console.error('Błąd ładowania data_index.json', e);
-        return;
-    }
 
-    // Aktualizuj podsumowanie dynamicznie
-    try {
-        const summaryEvents = document.getElementById('summary-events');
-        const summaryErrors = document.getElementById('summary-errors');
-        const summaryWarnings = document.getElementById('summary-warnings');
-        if (summaryEvents) summaryEvents.textContent = data.meta.events_count || 0;
-        if (summaryErrors) summaryErrors.textContent = data.tables.errors.length || 0;
-        if (summaryWarnings) summaryWarnings.textContent = data.tables.warnings.length || 0;
-    } catch (e) {
-        console.error('Błąd aktualizacji podsumowania', e);
-    }
+            // Aktualizacja podsumowania
+            try {
+                document.getElementById('summary-events').textContent = data.meta.events_count || 0;
+                document.getElementById('summary-errors').textContent = data.tables.errors.length || 0;
+                document.getElementById('summary-warnings').textContent = data.tables.warnings.length || 0;
+                document.getElementById('summary-mods').textContent = data.tables.mods.length || 0;
+                document.getElementById('summary-dlcs').textContent = data.raw_event_counts.dlc_load || 0;
+                document.getElementById('summary-sessions').textContent = data.tables.sessions.length || 0;
+            } catch (e) {
+                console.error('Błąd aktualizacji podsumowania', e);
+            }
 
-    // Render wykresów
-    try {
-        // Wykres saves_all (line)
-        const saveCanvas = document.createElement('canvas');
-        document.getElementById('save_charts').appendChild(saveCanvas);
-        new Chart(saveCanvas, {
-            type: 'line',
-            data: {
-                labels: data.charts.save_charts.saves_all?.labels || [],
-                datasets: [{
-                    label: 'Zapisów na godzinę',
-                    data: data.charts.save_charts.saves_all?.data || [],
-                    borderColor: 'rgba(75, 192, 192, 1)',
-                    backgroundColor: 'rgba(75, 192, 192, 0.2)',
-                    fill: true
-                }]
-            },
-            options: { responsive: true, scales: { y: { beginAtZero: true } } }
+            // Style wykresów
+            const styleMap = {
+                mod_issues: { title: 'Problemy z modami', color: '#8b5cf6', bg: 'rgba(139,92,246,0.4)', defaultType: 'bar', horizontal: true },
+                save_charts: { title: 'Zapisy gry', color: '#10b981', bg: 'rgba(16,185,129,0.4)', defaultType: 'line', horizontal: false },
+                warning_charts: { title: 'Ostrzeżenia', color: '#ef4444', bg: 'rgba(239,68,68,0.4)', defaultType: 'line', horizontal: false },
+                sessions_charts: { title: 'Sesje graczy', color: '#6366f1', bg: 'rgba(99,102,241,0.4)', defaultType: 'bar', horizontal: true },
+                admin_charts: { title: 'Akcje admina', color: '#14b8a6', bg: 'rgba(20,184,166,0.4)', defaultType: 'bar', horizontal: true },
+                other_charts: { title: 'Inne zdarzenia', color: '#3b82f6', bg: 'rgba(59,130,246,0.4)', defaultType: 'bar', horizontal: false }
+            };
+
+            function computeHeight(labels, horizontal) {
+                if (!Array.isArray(labels)) return 400;
+                const base = horizontal ? 100 : 120;
+                const perLabel = horizontal ? 30 : 20;
+                const h = base + labels.length * perLabel;
+                return Math.max(400, Math.min(1200, h));
+            }
+
+            // Renderowanie wykresów
+            Object.entries(data.charts).forEach(([sectionKey, group]) => {
+                const container = document.getElementById(sectionKey);
+                if (!container) return;
+
+                const style = styleMap[sectionKey] || { title: sectionKey, color: '#374151', bg: 'rgba(55,65,81,0.3)', defaultType: 'bar', horizontal: false };
+
+                if (!group || Object.keys(group).length === 0) {
+                    const ph = document.createElement('div');
+                    ph.className = 'chart-container flex items-center justify-center';
+                    ph.style.minHeight = '200px';
+                    ph.innerHTML = `<div class="text-center"><div class="font-semibold mb-2">${style.title}</div><div class="text-gray-500 dark:text-gray-400">Brak danych</div></div>`;
+                    container.appendChild(ph);
+                    return;
+                }
+
+                Object.entries(group).forEach(([subKey, chartData]) => {
+                    const labels = chartData?.labels ?? [];
+                    const dataPoints = chartData?.data ?? [];
+                    const type = chartData?.type || style.defaultType;
+                    const horizontal = chartData?.horizontal ?? style.horizontal;
+
+                    if (!Array.isArray(labels) || labels.length === 0 || !Array.isArray(dataPoints) || dataPoints.length === 0) {
+                        const ph = document.createElement('div');
+                        ph.className = 'chart-container flex items-center justify-center';
+                        ph.style.minHeight = '200px';
+                        ph.innerHTML = `<div class="text-center"><div class="font-semibold mb-2">${style.title}: ${subKey}</div><div class="text-gray-500 dark:text-gray-400">Brak danych</div></div>`;
+                        container.appendChild(ph);
+                        return;
+                    }
+
+                    const height = computeHeight(labels, horizontal);
+                    const wrapper = document.createElement('div');
+                    wrapper.className = 'chart-container';
+                    wrapper.style.height = `${height}px`;
+                    container.appendChild(wrapper);
+
+                    const canvas = document.createElement('canvas');
+                    wrapper.appendChild(canvas);
+
+                    try {
+                        new Chart(canvas, {
+                            type,
+                            data: {
+                                labels,
+                                datasets: [{
+                                    label: style.title,
+                                    data: dataPoints,
+                                    borderColor: style.color,
+                                    backgroundColor: style.bg,
+                                    fill: type === 'line',
+                                    tension: type === 'line' ? 0.3 : 0,
+                                    borderWidth: 2
+                                }]
+                            },
+                            options: {
+                                responsive: true,
+                                maintainAspectRatio: false,
+                                layout: {
+                                    padding: { left: horizontal ? 20 : 10, right: 20, top: 10, bottom: 20 }
+                                },
+                                plugins: {
+                                    legend: { display: true, labels: { boxWidth: 15, font: { size: 12 } } },
+                                    title: { display: true, text: `${style.title}: ${subKey}`, font: { size: 14 } }
+                                },
+                                scales: {
+                                    x: {
+                                        ticks: { maxRotation: horizontal ? 0 : 45, minRotation: horizontal ? 0 : 45, font: { size: 11 } },
+                                        title: { display: true, text: horizontal ? 'Wartość' : 'Czas', font: { size: 12 } }
+                                    },
+                                    y: {
+                                        ticks: { font: { size: 11 } },
+                                        title: { display: true, text: horizontal ? 'Kategoria' : 'Liczba', font: { size: 12 } },
+                                        beginAtZero: true
+                                    }
+                                },
+                                indexAxis: horizontal ? 'y' : 'x'
+                            }
+                        });
+                    } catch (e) {
+                        console.error(`Błąd renderowania wykresu ${sectionKey}:${subKey}`, e);
+                        wrapper.innerHTML = `<div class="text-center text-red-500 dark:text-red-400">Błąd renderowania wykresu: ${style.title}: ${subKey}</div>`;
+                    }
+                });
+            });
+
+            // Funkcje renderowania tabel
+            function renderSummaryTable(sectionId, summaryData, headers) {
+                const section = document.getElementById(sectionId);
+                if (!section) return;
+                const tbodyRows = summaryData.map(r => `<tr>${headers.map(h => `<td class="p-2">${r[h] || ''}</td>`).join('')}</tr>`).join('');
+                const html = `<table class="w-full bg-white dark:bg-gray-800 rounded-lg shadow mb-4 sortable"><thead><tr class="bg-gray-200 dark:bg-gray-700">${headers.map(h => `<th class="p-2 table-header">${h}</th>`).join('')}</tr></thead><tbody>${tbodyRows}</tbody></table>`;
+                section.innerHTML += html;
+            }
+
+            function renderDetailsTable(sectionId, tableData, headers) {
+                const section = document.getElementById(sectionId);
+                if (!section) return;
+                const detailsRows = (tableData || []).slice(0, 100).map(row => `<tr>${headers.map(h => `<td class="p-2">${h === 'Details' ? JSON.stringify(row.Details || {}, null, 2).replace(/"/g, '&quot;') : (row[h] || '')}</td>`).join('')}</tr>`).join('');
+                const detailsHtml = `<details class="mb-4"><summary class="cursor-pointer text-blue-600 dark:text-blue-400 font-semibold">Pokaż szczegóły (pierwsze 100)</summary><div class="overflow-x-auto"><table class="w-full bg-white dark:bg-gray-800 rounded-lg shadow sortable"><thead><tr class="bg-gray-200 dark:bg-gray-700">${headers.map(h => `<th class="p-2 table-header">${h}</th>`).join('')}</tr></thead><tbody>${detailsRows}</tbody></table></div></details>`;
+                section.innerHTML += detailsHtml;
+            }
+
+            // Renderowanie sekcji
+            try {
+                renderSummaryTable('errors_section', data.summaries.errors_summary || [], ['Message', 'Count']);
+                renderDetailsTable('errors_section', data.tables.errors, ['Timestamp', 'EventType', 'Details']);
+            } catch (e) {
+                console.error('Błąd renderowania błędów', e);
+            }
+
+            try {
+                renderSummaryTable('warnings_section', data.summaries.warnings_summary || [], ['Message', 'Count']);
+                renderDetailsTable('warnings_section', data.tables.warnings, ['Timestamp', 'EventType', 'Details']);
+            } catch (e) {
+                console.error('Błąd renderowania ostrzeżeń', e);
+            }
+
+            try {
+                renderSummaryTable('sessions_section', data.summaries.sessions_summary || [], ['Player', 'Duration']);
+                renderDetailsTable('sessions_section', data.tables.sessions, ['Player', 'Start', 'End', 'Duration']);
+            } catch (e) {
+                console.error('Błąd renderowania sesji', e);
+            }
+
+            try {
+                const adminSummary = Object.entries(data.summaries.admin_summary || {}).map(([key, value]) => ({Command: key, Count: value}));
+                renderSummaryTable('admin_section', adminSummary, ['Command', 'Count']);
+                renderDetailsTable('admin_section', data.tables.admin, ['Timestamp', 'EventType', 'Details']);
+            } catch (e) {
+                console.error('Błąd renderowania admin', e);
+            }
+
+            try {
+                renderDetailsTable('mods_section', data.tables.mods, ['Details']);
+            } catch (e) {
+                console.error('Błąd renderowania modów', e);
+            }
         });
-
-        // Wykres warnings_per_hour (line)
-        const warningCanvas = document.createElement('canvas');
-        document.getElementById('warning_charts').appendChild(warningCanvas);
-        new Chart(warningCanvas, {
-            type: 'line',
-            data: {
-                labels: data.charts.warning_charts.warnings_per_hour?.labels || [],
-                datasets: [{
-                    label: 'Ostrzeżeń na godzinę',
-                    data: data.charts.warning_charts.warnings_per_hour?.data || [],
-                    borderColor: 'rgba(255, 206, 86, 1)',
-                    backgroundColor: 'rgba(255, 206, 86, 0.2)',
-                    fill: true
-                }]
-            },
-            options: { responsive: true, scales: { y: { beginAtZero: true } } }
-        });
-
-        // Wykres mod_issues (bar)
-        const modCanvas = document.createElement('canvas');
-        document.getElementById('other_charts').appendChild(modCanvas);
-        new Chart(modCanvas, {
-            type: 'bar',
-            data: {
-                labels: data.charts.mod_issues?.labels || [],
-                datasets: [{
-                    label: 'Problemy z modami',
-                    data: data.charts.mod_issues?.data || [],
-                    backgroundColor: 'rgba(153, 102, 255, 0.6)'
-                }]
-            },
-            options: { responsive: true, scales: { y: { beginAtZero: true } } }
-        });
-
-        // Wykres sessions (bar) z summaries.sessions_summary
-        const sessionsCanvas = document.createElement('canvas');
-        document.getElementById('sessions_charts').appendChild(sessionsCanvas);
-        const sessionsSummary = data.summaries.sessions_summary || [];
-        new Chart(sessionsCanvas, {
-            type: 'bar',
-            data: {
-                labels: sessionsSummary.map(s => s.Player || 'Unknown'),
-                datasets: [{
-                    label: 'Czas sesji (min)',
-                    data: sessionsSummary.map(s => s.Duration || 0),
-                    backgroundColor: 'rgba(54, 162, 235, 0.6)'
-                }]
-            },
-            options: { responsive: true, scales: { y: { beginAtZero: true } } }
-        });
-    } catch (e) {
-        console.error('Błąd renderowania wykresów', e);
-    }
-
-    // Funkcja do renderowania tabeli podsumowania
-    function renderSummaryTable(sectionId, summaryData, headers) {
-        const section = document.getElementById(sectionId);
-        if (!section) return;
-        const tbodyRows = summaryData.map(r => `<tr>${headers.map(h => `<td class="p-2">${r[h] || ''}</td>`).join('')}</tr>`).join('');
-        const html = `<table class="w-full bg-white dark:bg-gray-800 rounded shadow mb-4 sortable"><thead><tr class="bg-gray-200 dark:bg-gray-700">${headers.map(h => `<th class="p-2 table-header">${h}</th>`).join('')}</tr></thead><tbody>${tbodyRows}</tbody></table>`;
-        section.innerHTML += html;
-    }
-
-    // Funkcja do renderowania pełnej tabeli (pierwsze 100 wierszy)
-    function renderDetailsTable(sectionId, tableData, headers) {
-        const section = document.getElementById(sectionId);
-        if (!section) return;
-        const detailsRows = (tableData || []).slice(0, 100).map(row => `<tr>${headers.map(h => `<td class="p-2">${h === 'Details' ? JSON.stringify(row.Details || {}) : (row[h] || '')}</td>`).join('')}</tr>`).join('');
-        const detailsHtml = `<details class="mb-4"><summary class="cursor-pointer text-blue-600 dark:text-blue-400">Pokaż pełne dane (pierwsze 100)</summary>
-            <table class="w-full bg-white dark:bg-gray-800 rounded shadow sortable"><thead><tr class="bg-gray-200 dark:bg-gray-700">${headers.map(h => `<th class="p-2 table-header">${h}</th>`).join('')}</tr></thead><tbody>${detailsRows}</tbody></table></details>`;
-        section.innerHTML += detailsHtml;
-    }
-
-    // Render błędów
-    try {
-        renderSummaryTable('errors_section', data.summaries.errors_summary || [], ['Message', 'Count']);
-        renderDetailsTable('errors_section', data.tables.errors, ['Timestamp', 'EventType', 'Details']);
-    } catch (e) {
-        console.error('Błąd renderowania błędów', e);
-    }
-
-    // Render ostrzeżeń
-    try {
-        renderSummaryTable('warnings_section', data.summaries.warnings_summary || [], ['Message', 'Count']);
-        renderDetailsTable('warnings_section', data.tables.warnings, ['Timestamp', 'EventType', 'Details']);
-    } catch (e) {
-        console.error('Błąd renderowania ostrzeżeń', e);
-    }
-
-    // Render sesji
-    try {
-        renderSummaryTable('sessions_section', data.summaries.sessions_summary || [], ['Player', 'Duration']);
-        renderDetailsTable('sessions_section', data.tables.sessions, ['Player', 'Start', 'End', 'Duration']);
-    } catch (e) {
-        console.error('Błąd renderowania sesji', e);
-    }
-
-    // Render admin
-    try {
-        const adminSummary = Object.entries(data.summaries.admin_summary || {}).map(([key, value]) => ({Command: key, Count: value}));
-        renderSummaryTable('admin_section', adminSummary, ['Command', 'Count']);
-        renderDetailsTable('admin_section', data.tables.admin, ['Timestamp', 'EventType', 'Details']);
-    } catch (e) {
-        console.error('Błąd renderowania admin', e);
-    }
-
-    // Render modów
-    try {
-        renderDetailsTable('mods_section', data.tables.mods, ['Details']);
-    } catch (e) {
-        console.error('Błąd renderowania modów', e);
-    }
-});
-
     </script>
 </body>
 </html>
