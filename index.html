@@ -1,188 +1,93 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="pl">
 <head>
-    <meta charset="UTF-8">
-    <title>Raport FS25</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <script src="https://cdn.tailwindcss.com"></script>
-    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.5.0/dist/chart.umd.min.js"></script>
-    <style>
-        .chart-container {
-            position: relative;
-            width: 100%;
-            overflow: hidden;
-            margin-bottom: 1.5rem;
-            padding: 0.5rem 1rem;
-            background-color: #fff;
-            border-radius: 0.5rem;
-            box-shadow: 0 4px 6px rgba(0,0,0,0.08);
-            display: block;
-        }
-        .chart-container.flex { display:flex; align-items:center; justify-content:center; }
-        .dark .chart-container { background-color: #111827 }
-        canvas { width: 100%; height: 100%; display: block; }
-        .table-header { cursor: pointer; }
-    </style>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>FS25 Logs Report</title>
+<style>body{font-family:system-ui,Segoe UI,Roboto,Arial;line-height:1.4;background:#f3f4f6;color:#0f172a}.container{max-width:1100px;margin:18px auto;padding:18px;}</style>
 </head>
-<body class="bg-gray-100 dark:bg-gray-900 text-gray-900 dark:text-gray-100 transition-colors duration-300">
-    <nav class="bg-blue-600 dark:bg-blue-800 p-4">
-        <div class="container mx-auto flex justify-between items-center">
-            <h1 class="text-xl font-bold text-white">Raport FS25</h1>
-            <div class="space-x-4">
-                <a href="#summary" class="text-white hover:underline">Podsumowanie</a>
-                <a href="#charts" class="text-white hover:underline">Wykresy</a>
-                <a href="#errors" class="text-white hover:underline">Błędy</a>
-                <a href="#warnings" class="text-white hover:underline">Ostrzeżenia</a>
-                <button id="theme-toggle" class="px-4 py-2 bg-blue-500 text-white rounded hover:bg-blue-600">Przełącz motyw</button>
-            </div>
-        </div>
-    </nav>
-
-    <div class="container mx-auto p-6">
-        <p class="mb-6">Wygenerowano: 2025-10-14 14:18:58</p>
-
-        <section id="summary" class="mb-8 fade-in">
-            <h2 class="text-2xl font-semibold mb-4">Podsumowanie</h2>
-            <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
-                <div class="bg-white dark:bg-gray-800 p-4 rounded shadow">
-                    <h3 class="text-lg font-medium">Liczba zdarzeń</h3>
-                    <p class="text-2xl">1642012</p>
-                </div>
-                <div class="bg-white dark:bg-gray-800 p-4 rounded shadow">
-                    <h3 class="text-lg font-medium">Błędy</h3>
-                    <p class="text-2xl">170007</p>
-                </div>
-                <div class="bg-white dark:bg-gray-800 p-4 rounded shadow">
-                    <h3 class="text-lg font-medium">Ostrzeżenia</h3>
-                    <p class="text-2xl">43771</p>
-                </div>
-            </div>
-        </section>
-
-        <section id="charts" class="mb-8 fade-in">
-            <h2 class="text-2xl font-semibold mb-4">Wykresy</h2>
-            <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
-                <div id="other_charts" class="chart-container"></div>
-                <div id="save_charts" class="chart-container"></div>
-                <div id="warning_charts" class="chart-container"></div>
-                <div id="sessions_charts" class="chart-container"></div>
-            </div>
-        </section>
-
-        <section id="errors" class="mb-8 fade-in">
-            <h2 class="text-2xl font-semibold mb-4">Błędy</h2>
-            <div id="errors_section"></div>
-        </section>
-
-        <footer class="text-center text-gray-600 dark:text-gray-400">
-            <p>Wygenerowano przez logs_analyzer.py</p>
-        </footer>
-    </div>
-
-    <script>
-        
+<body>
+<div class="container">
+  <h1>FS25 Logs Report</h1>
+  <p>Generated: 2025-10-14 14:27:27</p>
+  <section id="summary"><h2>Summary</h2></section>
+  <section id="charts"><h2>Charts</h2></section>
+  <section id="errors"><h2>Errors</h2><div id="errors_section"><em>Loading...</em></div></section>
+  <section id="warnings"><h2>Warnings</h2></section>
+  <section id="sessions"><h2>Sessions</h2></section>
+  <section id="admin"><h2>Admin actions</h2></section>
+  <section id="mods"><h2>Mods</h2></section>
+  <hr>
+  <p>Open DevTools console and inspect window.__FS25_REPORT__ for full loaded data.</p>
+</div>
+<script>
 document.addEventListener('DOMContentLoaded', async () => {
-    const toggleButton = document.getElementById('theme-toggle');
-    if (toggleButton) {
-        toggleButton.addEventListener('click', () => {
-            document.body.classList.toggle('dark');
-            localStorage.setItem('theme', document.body.classList.contains('dark') ? 'dark' : 'light');
-        });
-        if (localStorage.getItem('theme') === 'dark') {
-            document.body.classList.add('dark');
-        }
-    }
-
-    // Sortowanie tabel
-    document.querySelectorAll('th.table-header').forEach(header => {
-        header.addEventListener('click', () => {
-            const table = header.closest('table');
-            const index = Array.from(header.parentElement.children).indexOf(header);
-            const tbody = table.querySelector('tbody');
-            if (!tbody) return;
-            const rows = Array.from(tbody.rows);
-            const isAscending = header.classList.contains('asc');
-            rows.sort((a, b) => {
-                const aText = a.cells[index]?.textContent?.trim() ?? '';
-                const bText = b.cells[index]?.textContent?.trim() ?? '';
-                return isAscending
-                    ? bText.localeCompare(aText, undefined, { numeric: true })
-                    : aText.localeCompare(bText, undefined, { numeric: true });
-            });
-            header.classList.toggle('asc');
-            tbody.innerHTML = '';
-            rows.forEach(row => tbody.appendChild(row));
-        });
-    });
-
-    if (typeof Chart === 'undefined') {
-        const errorDiv = document.createElement('div');
-        errorDiv.className = 'text-center text-red-500 dark:text-red-400 p-4';
-        errorDiv.textContent = 'Błąd: Nie załadowano Chart.js. Otwórz raport przez serwer HTTP (np. python -m http.server).';
-        document.querySelector('.container').prepend(errorDiv);
-        return;
-    }
-
-    // Pobierz indeks i części tabel
-    let data = null;
+  const show = (m, lvl='log') => {
     try {
-        const resp = await fetch('data_index.json');
-        if (!resp.ok) throw new Error('HTTP ' + resp.status);
-        const index = await resp.json();
+      const c = document.querySelector('.container') || document.body;
+      const d = document.createElement('div'); d.style.borderBottom='1px solid #eee'; d.style.padding='6px 0';
+      d.textContent = '[loader] ' + m; c.prepend(d);
+      if(lvl==='error') console.error(m); else if(lvl==='warn') console.warn(m); else console.log(m);
+    } catch(e){ console.log(m); }
+  };
 
-        data = {
-            charts: index.charts || {},
-            summaries: index.summaries || {},
-            meta: index.meta || {},
-            raw_event_counts: index.raw_event_counts || {},
-            tables: { errors: [], warnings: [], sessions: [], admin: [], mods: [] }
-        };
+  // load index relative to this index.html
+  let index = null;
+  try {
+    const idxResp = await fetch(new URL('data_index.json', location.href).href);
+    if (!idxResp.ok) { show('Failed to fetch data_index.json: ' + idxResp.status, 'error'); return; }
+    index = await idxResp.json();
+    show('Loaded data_index.json');
+  } catch (e) {
+    show('Error loading data_index.json: ' + e, 'error');
+    return;
+  }
 
-        const parts = (index.tables_index && index.tables_index.parts) ? index.tables_index.parts : [];
-        for (const p of parts) {
-            try {
-                const partResp = await fetch(p.file);
-                if (!partResp.ok) {
-                    console.error('Nie udało się pobrać części tabeli:', p.file, partResp.status);
-                    continue;
-                }
-                const partData = await partResp.json();
-                for (const rec of partData) {
-                    const t = rec.table;
-                    const row = rec.row;
-                    if (!data.tables[t]) data.tables[t] = [];
-                    data.tables[t].push(row);
-                }
-            } catch (e) {
-                console.error('Błąd pobierania/parsowania części tabeli', p.file, e);
-            }
+  const tables = { errors:[], warnings:[], sessions:[], admin:[], mods:[] };
+  const parts = (index.tables_index && Array.isArray(index.tables_index.parts)) ? index.tables_index.parts : [];
+  show('Declared parts: ' + parts.length);
+
+  for (const p of parts) {
+    if (!p || !p.file) { show('Skipping malformed part entry', 'warn'); continue; }
+    const candidates = [
+      new URL(p.file, location.href).href,
+      new URL('./' + p.file, location.href).href
+    ];
+    let ok=false;
+    for (const url of candidates) {
+      try {
+        show('Trying part: ' + url);
+        const r = await fetch(url);
+        if (!r.ok) { show('Not found: ' + url + ' status=' + r.status, 'warn'); continue; }
+        const arr = await r.json();
+        if (!Array.isArray(arr)) { show('Part returned non-array JSON: ' + url, 'warn'); continue; }
+        for (const rec of arr) {
+          if (!rec || !rec.table || typeof rec.row !== 'object') continue;
+          if (!tables[rec.table]) tables[rec.table] = [];
+          tables[rec.table].push(rec.row);
         }
-    } catch (e) {
-        const errorDiv = document.createElement('div');
-        errorDiv.className = 'text-center text-red-500 dark:text-red-400 p-4';
-        errorDiv.textContent = 'Błąd: Nie udało się załadować data_index.json. Sprawdź reports/data_index.json oraz uprawnienia.';
-        document.querySelector('.container').prepend(errorDiv);
-        console.error('Błąd ładowania data_index.json', e);
-        return;
+        show('Loaded ' + arr.length + ' records from ' + url);
+        ok=true;
+        break;
+      } catch (e) {
+        show('Error fetching part ' + url + ': ' + e, 'warn');
+      }
     }
+    if (!ok) show('Failed to load part: ' + p.file, 'error');
+  }
 
-    // Render błędów (przykładowo)
-    try {
-        const errorsSummary = data.summaries.errors_summary || [];
-        const errorsSection = document.querySelector('#errors_section');
-        if (errorsSection) {
-            const tbodyRows = errorsSummary.map(r => `<tr><td class="p-2">${r.Message || ''}</td><td class="p-2">${r.Count || 0}</td></tr>`).join('');
-            const detailsRows = (data.tables.errors || []).slice(0, 100).map(row => `<tr><td class="p-2">${row.Timestamp || ''}</td><td class="p-2">${row.EventType || ''}</td><td class="p-2">${JSON.stringify(row.Details || {})}</td></tr>`).join('');
-            const html = `<table class="w-full bg-white dark:bg-gray-800 rounded shadow mb-4 sortable"><thead><tr class="bg-gray-200 dark:bg-gray-700"><th class="p-2 table-header">Wiadomość</th><th class="p-2 table-header">Liczba</th></tr></thead><tbody>${tbodyRows}</tbody></table>
-                <details class="mb-4"><summary class="cursor-pointer text-blue-600 dark:text-blue-400">Pokaż pełne dane błędów (pierwsze 100)</summary>
-                <table class="w-full bg-white dark:bg-gray-800 rounded shadow sortable"><thead><tr class="bg-gray-200 dark:bg-gray-700"><th class="p-2 table-header">Timestamp</th><th class="p-2 table-header">Typ zdarzenia</th><th class="p-2 table-header">Szczegóły</th></tr></thead><tbody>${detailsRows}</tbody></table></details>`;
-            errorsSection.innerHTML = html;
-        }
-    } catch (e) {
-        console.error('Błąd renderowania tabel błędów', e);
+  // quick render sample for errors (first 100)
+  try {
+    const errorsEl = document.getElementById('errors_section');
+    if (errorsEl) {
+      const ds = (tables.errors || []).slice(0,100).map(r => '<tr><td>' + (r.Timestamp||'') + '</td><td>' + (r.EventType||'') + '</td><td>' + JSON.stringify(r.Details||{}) + '</td></tr>').join('');
+      errorsEl.innerHTML = '<details><summary>Show first 100 error rows</summary><table style="width:100%"><thead><tr><th>Timestamp</th><th>EventType</th><th>Details</th></tr></thead><tbody>' + ds + '</tbody></table></details>';
     }
+  } catch(e) { console.error(e); }
+
+  // expose for console inspection
+  window.__FS25_REPORT__ = { index: index, tables: tables };
+  show('Finished loading parts. Table counts: ' + JSON.stringify(Object.fromEntries(Object.keys(tables).map(k=>[k, (tables[k]||[]).length]))));
 });
-
-    </script>
+</script>
 </body>
 </html>
