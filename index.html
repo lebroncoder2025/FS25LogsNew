@@ -133,245 +133,154 @@
     <script>
         
 document.addEventListener('DOMContentLoaded', async () => {
-  const toggleButton = document.getElementById('theme-toggle');
-  if (toggleButton) {
-    toggleButton.addEventListener('click', () => {
-      document.body.classList.toggle('dark');
-      localStorage.setItem('theme', document.body.classList.contains('dark') ? 'dark' : 'light');
-    });
-    if (localStorage.getItem('theme') === 'dark') document.body.classList.add('dark');
-  }
+  function mkEl(tag, cls, txt) { const e = document.createElement(tag); if (cls) e.className = cls; if (txt!==undefined) e.textContent = txt; return e; }
+  const dbg = mkEl('div', 'debug-panel p-4 bg-white dark:bg-gray-800 text-sm rounded shadow mb-4');
+  dbg.style.maxHeight='45vh'; dbg.style.overflow='auto';
+  dbg.appendChild(mkEl('h3','text-lg font-semibold mb-2','DEBUG: data_index.json + parts loader'));
+  const container = document.querySelector('.container') || document.body;
+  container.prepend(dbg);
+  function log(msg, lvl='log') { const r=mkEl('div','debug-row'); r.style.borderBottom='1px solid rgba(0,0,0,0.06)'; r.style.padding='6px 0'; r.innerHTML=`<strong>[${(new Date()).toLocaleTimeString()}]</strong> ${msg}`; dbg.appendChild(r); if(lvl==='error') console.error(msg); else if(lvl==='warn') console.warn(msg); else console.log(msg); }
+  async function fetchJson(url) { try { const r = await fetch(url); const txt = await r.text(); try { const j = JSON.parse(txt); return {ok:r.ok, status:r.status, json:j}; } catch(e){ return {ok:r.ok, status:r.status, text:txt}; } } catch(e){ return {ok:false, status:'NETWORK', err:e}; } }
 
-  // helper: try fetch and return parsed json or null
-  async function tryFetchJson(url) {
-    try {
-      const resp = await fetch(url);
-      if (!resp.ok) return null;
-      return await resp.json();
-    } catch (e) {
-      return null;
-    }
-  }
-
-  // find data_index.json in several possible relative locations
-  const candidatePaths = [
-    'data_index.json',
-    './data_index.json',
-    'reports/FS25Logs/data_index.json',
-    './reports/FS25Logs/data_index.json',
-    'reports/data_index.json',
-    './reports/data_index.json',
-    'FS25Logs/data_index.json',
-    './FS25Logs/data_index.json'
+  // candidate data_index.json locations (relative to index.html and common repo folders)
+  const candidates = [
+    'data_index.json','./data_index.json',
+    'reports/FS25Logs/data_index.json','./reports/FS25Logs/data_index.json',
+    'reports/data_index.json','./reports/data_index.json',
+    'FS25Logs/data_index.json','./FS25Logs/data_index.json',
+    'data/data_index.json','./data/data_index.json'
   ];
 
-  let index = null;
-  let indexUrl = null;
-  for (const p of candidatePaths) {
+  // also compose raw.githubusercontent URL possibility if served via github pages from a repo
+  function asRawGithub(url) {
+    try {
+      const u = new URL(url);
+      // only transform if host includes github.io or raw.githubusercontent not already
+      if (u.hostname.endsWith('github.io') || u.hostname === location.hostname) {
+        // try derive repo path from pathname: /owner/repo/... -> raw.githubusercontent.com/owner/repo/HEAD/...
+        const parts = u.pathname.split('/').filter(Boolean);
+        if (parts.length >= 2) {
+          const owner = parts[0], repo = parts[1];
+          // try file path after owner/repo
+          const filePath = parts.slice(2).join('/');
+          if (filePath) return `https://raw.githubusercontent.com/${owner}/${repo}/HEAD/${filePath}`;
+        }
+      }
+    } catch(e){}
+    return null;
+  }
+
+  let index = null, indexUrl = null;
+  for (const p of candidates) {
     const url = new URL(p, location.href).href;
-    console.info('Checking data_index at', url);
-    const parsed = await tryFetchJson(url);
-    if (parsed) {
-      index = parsed;
-      indexUrl = url;
-      console.info('Found data_index.json at', url);
-      break;
-    } else {
-      console.debug('Not found (or invalid JSON) at', url);
+    log('Checking index at: ' + url);
+    const res = await fetchJson(url);
+    if (res.ok && res.json) { index = res.json; indexUrl = url; log('✅ Loaded index from ' + url); break; }
+    log(`✖ result for ${url}: status=${res.status}`,'warn');
+    // try raw.github alternative
+    const raw = asRawGithub(url);
+    if (raw) {
+      log('Trying raw github url: ' + raw);
+      const r2 = await fetchJson(raw);
+      if (r2.ok && r2.json) { index = r2.json; indexUrl = raw; log('✅ Loaded index from raw github ' + raw); break; }
+      log(`✖ raw github ${raw}: status=${r2.status}`,'warn');
     }
   }
 
-  if (!index) {
-    console.error('data_index.json not found in any candidate path. Check file placement in the repo.');
-    const errorDiv = document.createElement('div');
-    errorDiv.className = 'text-center text-red-500 dark:text-red-400 p-4';
-    errorDiv.textContent = 'Błąd: Nie znaleziono data_index.json. Sprawdź strukturę plików.';
-    const container = document.querySelector('.container');
-    if (container) container.prepend(errorDiv);
-    return;
-  }
+  if (!index) { log('❌ data_index.json not found in any candidate path. Ensure it is committed and published.', 'error'); return; }
 
-  // Prepare data skeleton
-  const data = {
-    charts: index.charts || {},
-    summaries: index.summaries || {},
-    meta: index.meta || {},
-    raw_event_counts: index.raw_event_counts || {},
-    tables: { errors: [], warnings: [], sessions: [], admin: [], mods: [] }
-  };
+  // show top-level keys and a few fields
+  try { log('Index keys: ' + JSON.stringify(Object.keys(index).slice(0,30))); } catch(e){ log('Cannot stringify index keys','warn'); }
 
   const parts = (index.tables_index && Array.isArray(index.tables_index.parts)) ? index.tables_index.parts : [];
-  console.info('tables_index counts:', index.tables_index && index.tables_index.counts);
-  console.info('Number of parts to fetch:', parts.length);
+  log('Declared parts count: ' + parts.length);
 
-  // fetch each part; allow for parts.file being absolute or relative
-  for (const p of parts) {
-    if (!p || !p.file) {
-      console.warn('Skipping invalid part entry', p);
-      continue;
-    }
-    const partUrl = new URL(p.file, indexUrl || location.href).href;
+  // data skeleton
+  const data = { charts: index.charts||{}, summaries: index.summaries||{}, meta: index.meta||{}, raw_event_counts: index.raw_event_counts||{}, tables: {errors:[], warnings:[], sessions:[], admin:[], mods:[]} };
+
+  // helper to try variations of part path
+  function variantsFor(partFile) {
+    const vars = [];
     try {
-      console.debug('Fetching part', partUrl);
-      const partResp = await fetch(partUrl);
-      if (!partResp.ok) {
-        console.error('Failed to fetch part', partUrl, 'status', partResp.status);
-        continue;
-      }
-      const partData = await partResp.json();
-      if (!Array.isArray(partData)) {
-        console.error('Part is not an array', partUrl);
-        continue;
-      }
-      for (const rec of partData) {
-        if (!rec || !rec.table || typeof rec.row !== 'object') {
-          console.warn('Skipping malformed record in', partUrl, rec);
-          continue;
-        }
-        if (!data.tables[rec.table]) data.tables[rec.table] = [];
+      // as-is relative to indexUrl
+      const v1 = new URL(partFile, indexUrl || location.href).href; vars.push(v1);
+      // relative to location (index.html)
+      const v2 = new URL(partFile, location.href).href; if (v2 !== v1) vars.push(v2);
+      // if partFile already contains 'reports/' try without reports prefix
+      if (partFile.startsWith('reports/')) { vars.push(new URL(partFile.replace(/^reports\//,''), indexUrl || location.href).href); }
+      // try prefixing with repo root path inferred from location.pathname (useful on github pages subpath)
+      const base = location.pathname.replace(/\/[^/]*$/, '/'); // parent path
+      try { vars.push(new URL(partFile, location.origin + base).href); } catch(e){}
+      // raw github transformation
+      const raw = asRawGithub(new URL(partFile, indexUrl || location.href).href);
+      if (raw) vars.push(raw);
+    } catch(e){}
+    // unique
+    return Array.from(new Set(vars));
+  }
+
+  const loaded = {};
+  for (let i=0;i<parts.length;i++){
+    const p = parts[i];
+    if (!p || !p.file) { log(`Skipping malformed part #${i}: ${JSON.stringify(p)}`,'warn'); continue; }
+    const tryList = variantsFor(p.file);
+    log(`Part #${i} declared file: ${p.file}; trying variants (${tryList.length})`);
+    let ok=false;
+    for (const u of tryList) {
+      log(' -> try: ' + u);
+      const r = await fetchJson(u);
+      if (!r.ok) { log(`    ✖ ${u} status=${r.status}`,'warn'); continue; }
+      if (!Array.isArray(r.json)) { log(`    ✖ ${u} returned non-array JSON (type ${typeof r.json})`,'warn'); continue; }
+      // merge records
+      for (const rec of r.json) {
+        if (!rec || !rec.table || typeof rec.row !== 'object') continue;
+        if (!data.tables[rec.table]) data.tables[rec.table]=[];
         data.tables[rec.table].push(rec.row);
       }
-      console.debug(`Loaded ${partData.length} records from ${partUrl}`);
-    } catch (e) {
-      console.error('Error fetching/parsing part', partUrl, e);
+      loaded[u] = r.json.length;
+      log(`    ✅ Loaded ${r.json.length} records from ${u}`);
+      ok=true; break;
     }
+    if (!ok) log(`Part #${i} failed for all variants`, 'error');
   }
 
-  // ---- rendering logic (charts + tables) ----
-  // minimal defensive rendering: populate simple summaries and first rows where available
+  log('--- Loaded parts summary ---');
+  try { log(JSON.stringify(loaded)); } catch(e){ log('Cannot stringify loaded summary','warn'); }
 
-  // Update summary counts if available
+  // quick DOM rendering for counts
   try {
-    const summarySection = document.querySelector('#summary');
-    if (summarySection) {
-      const eventsCountEl = summarySection.querySelector('.text-2xl');
-      // leave as-is; summary generated server-side. no-op.
-    }
-  } catch (e) {
-    console.warn('Summary render skipped', e);
+    const summaryDiv = mkEl('div','mt-3 p-3 bg-gray-50 dark:bg-gray-900 rounded','');
+    const tableCounts = Object.fromEntries(Object.entries(data.tables).map(([k,v])=>[k, (v||[]).length]));
+    summaryDiv.innerHTML = `<strong>Tables loaded counts:</strong> ${JSON.stringify(tableCounts)}`;
+    dbg.appendChild(summaryDiv);
+  } catch(e){ log('DOM summary render failed','warn'); }
+
+  // If no records loaded, show guidance
+  const totalLoaded = Object.values(Object.fromEntries(Object.entries(data.tables).map(([k,v])=>[k,(v||[]).length]))).reduce((a,b)=>a+b,0);
+  if (totalLoaded===0) {
+    log('❗ No records were loaded from parts. Likely causes: parts paths in index.json are not relative to index.html location OR parts were not published to GitHub Pages. Inspect index.json.parts entries and repo tree.', 'warn');
+  } else {
+    log(`✅ Total records loaded: ${totalLoaded}`);
   }
 
-  // Render charts: reuse existing data.charts structure (if present)
-  const styleMap = {
-    other_charts:   { title: 'Inne zdarzenia', color: '#3b82f6', bg: 'rgba(59,130,246,0.35)', defaultType: 'bar', horizontal: false },
-    save_charts:    { title: 'Zapisy gry (dzień)', color: '#10b981', bg: 'rgba(16,185,129,0.35)', defaultType: 'line', horizontal: false },
-    warning_charts: { title: 'Ostrzeżenia (dzień)', color: '#ef4444', bg: 'rgba(239,68,68,0.35)', defaultType: 'line', horizontal: false },
-    sessions_charts:{ title: 'Sesje graczy',   color: '#6366f1', bg: 'rgba(99,102,241,0.35)', defaultType: 'bar', horizontal: true },
-    admin_charts:   { title: 'Akcje admina',   color: '#14b8a6', bg: 'rgba(20,184,166,0.35)', defaultType: 'bar', horizontal: true },
-    mod_issues:     { title: 'Problemy z modami', color: '#8b5cf6', bg: 'rgba(139,92,246,0.35)', defaultType: 'bar', horizontal: true },
-  };
+  // Expose data to window for interactive debugging in console
+  window.__FS25_DEBUG__ = { indexUrl, index, data, loaded };
 
-  function computeHeight(labels, horizontal) {
-    if (!Array.isArray(labels)) return 420;
-    const base = horizontal ? 90 : 120;
-    const perLabel = horizontal ? 28 : 20;
-    const h = base + labels.length * perLabel;
-    return Math.max(380, Math.min(1000, h));
-  }
-
-  const chartsData = data.charts || {};
-  Object.entries({
-    other_charts: chartsData.other_charts || {},
-    save_charts: chartsData.save_charts || {},
-    warning_charts: chartsData.warning_charts || {},
-    sessions_charts: chartsData.sessions_charts || {},
-    admin_charts: chartsData.admin_charts || {},
-    mod_issues: chartsData.mod_issues || {}
-  }).forEach(([sectionKey, group]) => {
-    const container = document.getElementById(sectionKey);
-    const style = styleMap[sectionKey] || { title: sectionKey, color: '#374151', bg: 'rgba(55,65,81,0.3)', defaultType: 'bar', horizontal: false };
-    if (!container) return;
-
-    if (!group || Object.keys(group).length === 0) {
-      const ph = document.createElement('div');
-      ph.className = 'chart-container flex items-center justify-center';
-      ph.style.minHeight = '160px';
-      ph.innerHTML = `<div class="text-center"><div style="font-weight:600;margin-bottom:6px">${style.title}</div><div style="color:#6b7280">Obecnie brak danych</div></div>`;
-      container.appendChild(ph);
-      return;
-    }
-
-    Object.entries(group).forEach(([subKey, chartData]) => {
-      const labels = chartData?.labels ?? [];
-      const dataSet = chartData?.data ?? [];
-      const type = chartData?.type || style.defaultType;
-      const horizontal = !!chartData?.horizontal || style.horizontal;
-
-      if (!Array.isArray(labels) || labels.length === 0 || !Array.isArray(dataSet) || dataSet.length === 0) {
-        const ph = document.createElement('div');
-        ph.className = 'chart-container flex items-center justify-center';
-        ph.style.minHeight = '160px';
-        ph.innerHTML = `<div class="text-center"><div style="font-weight:600;margin-bottom:6px">${style.title}: ${subKey}</div><div style="color:#6b7280">Brak danych</div></div>`;
-        container.appendChild(ph);
-        return;
-      }
-
-      const height = computeHeight(labels, horizontal);
-      const wrapper = document.createElement('div');
-      wrapper.className = 'chart-container';
-      wrapper.style.height = `${height}px`;
-      container.appendChild(wrapper);
-
-      const canvas = document.createElement('canvas');
-      wrapper.appendChild(canvas);
-
-      try {
-        new Chart(canvas, {
-          type,
-          data: {
-            labels,
-            datasets: [{
-              label: `${style.title}: ${subKey}`,
-              data: dataSet,
-              borderColor: style.color,
-              backgroundColor: style.bg,
-              fill: type === 'line',
-              tension: type === 'line' ? 0.35 : 0
-            }]
-          },
-          options: {
-            responsive: true,
-            maintainAspectRatio: false,
-            layout: { padding: { left: horizontal ? 24 : 8, right: 12, top: 12, bottom: 18 } },
-            plugins: { legend: { display: true }, title: { display: true, text: `${style.title}: ${subKey}` } },
-            indexAxis: horizontal ? 'y' : 'x'
-          }
-        });
-      } catch (e) {
-        const ph = document.createElement('div');
-        ph.className = 'chart-container flex items-center justify-center';
-        ph.style.minHeight = '160px';
-        ph.innerHTML = `<div class="text-center"><div style="font-weight:600;margin-bottom:6px">Błąd renderu: ${style.title}: ${subKey}</div><div style="color:#ef4444">Sprawdź logi</div></div>`;
-        container.appendChild(ph);
-        console.error('Chart render error', sectionKey, subKey, e);
-      }
-    });
-  });
-
-  // Render basic tables: errors (summary + first 100 rows)
+  // Optionally, if you want to auto-render the errors table (first 100) like before:
   try {
-    const errorsSummary = data.summaries?.errors_summary || [];
     const errorsSection = document.querySelector('#errors');
     if (errorsSection) {
-      const tbodyRows = errorsSummary.map(r => `<tr><td class="p-2">${r.Message || ''}</td><td class="p-2">${r.Count || 0}</td></tr>`).join('');
-      const detailsRows = (data.tables.errors || []).slice(0, 100).map(row => `<tr><td class="p-2">${row.Timestamp || ''}</td><td class="p-2">${row.EventType || ''}</td><td class="p-2">${JSON.stringify(row.Details || {})}</td></tr>`).join('');
-      const html = `
-        <table class="w-full bg-white dark:bg-gray-800 rounded shadow mb-4 sortable">
-          <thead><tr class="bg-gray-200 dark:bg-gray-700"><th class="p-2 table-header">Wiadomość</th><th class="p-2 table-header">Liczba</th></tr></thead>
-          <tbody>${tbodyRows}</tbody>
-        </table>
-        <details class="mb-4"><summary class="cursor-pointer text-blue-600 dark:text-blue-400">Pokaż pełne dane błędów (pierwsze 100)</summary>
-        <table class="w-full bg-white dark:bg-gray-800 rounded shadow sortable"><thead><tr class="bg-gray-200 dark:bg-gray-700"><th class="p-2 table-header">Timestamp</th><th class="p-2 table-header">Typ zdarzenia</th><th class="p-2 table-header">Szczegóły</th></tr></thead><tbody>${detailsRows}</tbody></table></details>
-      `;
+      const errorsSummary = data.summaries?.errors_summary || [];
+      const tbodyRows = errorsSummary.map(r => `<tr><td class="p-2">${r.Message||''}</td><td class="p-2">${r.Count||0}</td></tr>`).join('');
+      const detailsRows = (data.tables.errors||[]).slice(0,100).map(row=>`<tr><td class="p-2">${row.Timestamp||''}</td><td class="p-2">${row.EventType||''}</td><td class="p-2">${JSON.stringify(row.Details||{})}</td></tr>`).join('');
+      const html = `<table class="w-full bg-white dark:bg-gray-800 rounded shadow mb-4 sortable"><thead><tr class="bg-gray-200 dark:bg-gray-700"><th class="p-2 table-header">Wiadomość</th><th class="p-2 table-header">Liczba</th></tr></thead><tbody>${tbodyRows}</tbody></table><details class="mb-4"><summary class="cursor-pointer text-blue-600 dark:text-blue-400">Pokaż pełne dane błędów (pierwsze 100)</summary><table class="w-full bg-white dark:bg-gray-800 rounded shadow sortable"><thead><tr class="bg-gray-200 dark:bg-gray-700"><th class="p-2 table-header">Timestamp</th><th class="p-2 table-header">Typ zdarzenia</th><th class="p-2 table-header">Szczegóły</th></tr></thead><tbody>${detailsRows}</tbody></table></details>`;
       errorsSection.innerHTML = html;
     }
-  } catch (e) {
-    console.error('Error rendering errors table', e);
-  }
+  } catch(e){ log('Error rendering sample errors table: ' + e,'warn'); }
 
-  // finished
-  console.info('Client-side data load finished; tables sizes:', Object.fromEntries(Object.entries(data.tables).map(([k,v])=>[k, (v||[]).length])));
+  log('DEBUG finished. You can inspect window.__FS25_DEBUG__ in console for full objects.');
 });
+
 
     </script>
 </body>
