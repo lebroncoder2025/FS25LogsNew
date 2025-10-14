@@ -1,192 +1,13 @@
 {
   "meta": {
-    "generated_at": "2025-10-14 17:34:37",
+    "generated_at": "2025-10-14 17:50:20",
     "events_count": 1642012
   },
   "charts": {
     "other_charts": {
-      "event_types": {
+      "events_2025-10-07": {
         "labels": [
-          "OTHER",
-          "ERROR",
-          "WARNING",
-          "INFO"
-        ],
-        "data": [
-          1427004,
-          170007,
-          43771,
-          1230
-        ],
-        "type": "bar",
-        "horizontal": false
-      },
-      "events_per_day": {
-        "events_2025-10-07": {
-          "labels": [
-            "18:00",
-            "19:00",
-            "20:00",
-            "21:00",
-            "22:00",
-            "23:00"
-          ],
-          "data": [
-            3702,
-            200,
-            44037,
-            12222,
-            17257,
-            110
-          ],
-          "type": "line",
-          "horizontal": false
-        },
-        "events_2025-10-08": {
-          "labels": [
-            "00:00",
-            "01:00",
-            "02:00",
-            "03:00",
-            "04:00",
-            "05:00",
-            "06:00",
-            "07:00",
-            "08:00",
-            "09:00",
-            "10:00",
-            "11:00",
-            "12:00",
-            "13:00",
-            "14:00",
-            "15:00",
-            "16:00",
-            "17:00",
-            "18:00",
-            "19:00",
-            "20:00",
-            "21:00",
-            "22:00"
-          ],
-          "data": [
-            117,
-            16,
-            16,
-            16,
-            28,
-            53,
-            4,
-            48,
-            12,
-            14,
-            20,
-            10,
-            6,
-            41,
-            31,
-            59,
-            63,
-            49,
-            24,
-            54,
-            85,
-            7330,
-            30
-          ],
-          "type": "line",
-          "horizontal": false
-        },
-        "events_2025-10-10": {
-          "labels": [
-            "17:00",
-            "18:00",
-            "19:00",
-            "20:00",
-            "21:00",
-            "22:00",
-            "23:00"
-          ],
-          "data": [
-            3723,
-            15,
-            86,
-            6,
-            78,
-            39,
-            151
-          ],
-          "type": "line",
-          "horizontal": false
-        },
-        "events_2025-10-11": {
-          "labels": [
-            "00:00",
-            "01:00",
-            "02:00",
-            "03:00",
-            "04:00",
-            "05:00",
-            "06:00",
-            "07:00",
-            "08:00",
-            "09:00",
-            "10:00",
-            "11:00",
-            "12:00",
-            "13:00",
-            "14:00",
-            "15:00"
-          ],
-          "data": [
-            15,
-            5,
-            4,
-            4,
-            4,
-            5,
-            4,
-            38,
-            4,
-            5,
-            21,
-            20,
-            26,
-            92,
-            165,
-            25171
-          ],
-          "type": "line",
-          "horizontal": false
-        },
-        "events_2025-10-13": {
-          "labels": [
-            "02:00",
-            "03:00",
-            "04:00",
-            "05:00",
-            "06:00"
-          ],
-          "data": [
-            841,
-            71636,
-            69736,
-            10,
-            6
-          ],
-          "type": "line",
-          "horizontal": false
-        }
-      },
-      "admin_commands": {
-        "labels": [],
-        "data": [],
-        "type": "bar",
-        "horizontal": true
-      }
-    },
-    "save_charts": {
-      "saves_2025-10-07": {
-        "labels": [
+          "18:00",
           "19:00",
           "20:00",
           "21:00",
@@ -194,16 +15,18 @@
           "23:00"
         ],
         "data": [
-          2,
-          1,
-          2,
-          1,
-          2
+          3702,
+          200,
+          44037,
+          12222,
+          17257,
+          110
         ],
         "type": "line",
-        "horizontal": false
+        "horizontal": false,
+        "title": "Zdarzenia: 2025-10-07"
       },
-      "saves_2025-10-08": {
+      "events_2025-10-08": {
         "labels": [
           "00:00",
           "01:00",
@@ -226,37 +49,41 @@
           "18:00",
           "19:00",
           "20:00",
+          "21:00",
           "22:00"
         ],
         "data": [
-          2,
-          2,
-          2,
-          2,
-          2,
-          2,
-          2,
-          2,
-          2,
-          2,
-          2,
-          2,
-          2,
-          2,
-          5,
-          3,
-          2,
-          2,
-          3,
-          2,
-          2,
-          1
+          117,
+          16,
+          16,
+          16,
+          28,
+          53,
+          4,
+          48,
+          12,
+          14,
+          20,
+          10,
+          6,
+          41,
+          31,
+          59,
+          63,
+          49,
+          24,
+          54,
+          85,
+          7330,
+          30
         ],
         "type": "line",
-        "horizontal": false
+        "horizontal": false,
+        "title": "Zdarzenia: 2025-10-08"
       },
-      "saves_2025-10-10": {
+      "events_2025-10-10": {
         "labels": [
+          "17:00",
           "18:00",
           "19:00",
           "20:00",
@@ -265,17 +92,19 @@
           "23:00"
         ],
         "data": [
-          3,
-          3,
-          2,
-          2,
-          2,
-          2
+          3723,
+          15,
+          86,
+          6,
+          78,
+          39,
+          151
         ],
         "type": "line",
-        "horizontal": false
+        "horizontal": false,
+        "title": "Zdarzenia: 2025-10-10"
       },
-      "saves_2025-10-11": {
+      "events_2025-10-11": {
         "labels": [
           "00:00",
           "01:00",
@@ -295,39 +124,48 @@
           "15:00"
         ],
         "data": [
-          2,
-          2,
-          2,
-          2,
-          2,
-          2,
-          2,
-          2,
-          2,
-          2,
-          2,
-          2,
-          2,
-          2,
-          2,
-          1
+          15,
+          5,
+          4,
+          4,
+          4,
+          5,
+          4,
+          38,
+          4,
+          5,
+          21,
+          20,
+          26,
+          92,
+          165,
+          25171
         ],
         "type": "line",
-        "horizontal": false
+        "horizontal": false,
+        "title": "Zdarzenia: 2025-10-11"
       },
-      "saves_2025-10-13": {
+      "events_2025-10-13": {
         "labels": [
+          "02:00",
+          "03:00",
+          "04:00",
           "05:00",
           "06:00"
         ],
         "data": [
-          2,
-          2
+          841,
+          71636,
+          69736,
+          10,
+          6
         ],
         "type": "line",
-        "horizontal": false
+        "horizontal": false,
+        "title": "Zdarzenia: 2025-10-13"
       }
     },
+    "save_charts": "                      Timestamp  EventType                                            RawLine LineType          Details  Count        Date   Hour\n6687    2025-10-07 19:19:41.643  save_game  2025-10-07 19:19:41.643 Game saved successfull...    OTHER  {'Saved': True}      1  2025-10-07  19:00\n6812    2025-10-07 19:49:40.053  save_game  2025-10-07 19:49:40.053 Game saved successfull...    OTHER  {'Saved': True}      1  2025-10-07  19:00\n7240    2025-10-07 20:19:42.079  save_game  2025-10-07 20:19:42.079 Game saved successfull...    OTHER  {'Saved': True}      1  2025-10-07  20:00\n54570   2025-10-07 21:19:17.362  save_game  2025-10-07 21:19:17.362 Game saved successfull...    OTHER  {'Saved': True}      1  2025-10-07  21:00\n54572   2025-10-07 21:19:22.672  save_game  2025-10-07 21:19:22.672 Game saved successfull...    OTHER  {'Saved': True}      1  2025-10-07  21:00\n...                         ...        ...                                                ...      ...              ...    ...         ...    ...\n156601  2025-10-11 15:03:58.304  save_game  2025-10-11 15:03:58.304 Game saved successfull...    OTHER  {'Saved': True}      1  2025-10-11  15:00\n1641999 2025-10-13 05:27:09.114  save_game  2025-10-13 05:27:09.114 Game saved successfull...    OTHER  {'Saved': True}      1  2025-10-13  05:00\n1642005 2025-10-13 05:57:18.515  save_game  2025-10-13 05:57:18.515 Game saved successfull...    OTHER  {'Saved': True}      1  2025-10-13  05:00\n1642007 2025-10-13 06:27:28.257  save_game  2025-10-13 06:27:28.257 Game saved successfull...    OTHER  {'Saved': True}      1  2025-10-13  06:00\n1642011 2025-10-13 06:57:38.267  save_game  2025-10-13 06:57:38.267 Game saved successfull...    OTHER  {'Saved': True}      1  2025-10-13  06:00\n\n[105 rows x 8 columns]",
     "warning_charts": {
       "warnings_2025-10-07": {
         "labels": [
@@ -347,7 +185,8 @@
           1
         ],
         "type": "line",
-        "horizontal": false
+        "horizontal": false,
+        "title": "Ostrzeżenia: 2025-10-07"
       },
       "warnings_2025-10-08": {
         "labels": [
@@ -369,7 +208,8 @@
           499
         ],
         "type": "line",
-        "horizontal": false
+        "horizontal": false,
+        "title": "Ostrzeżenia: 2025-10-08"
       },
       "warnings_2025-10-10": {
         "labels": [
@@ -385,7 +225,8 @@
           25
         ],
         "type": "line",
-        "horizontal": false
+        "horizontal": false,
+        "title": "Ostrzeżenia: 2025-10-10"
       },
       "warnings_2025-10-11": {
         "labels": [
@@ -401,7 +242,8 @@
           2
         ],
         "type": "line",
-        "horizontal": false
+        "horizontal": false,
+        "title": "Ostrzeżenia: 2025-10-11"
       },
       "warnings_2025-10-13": {
         "labels": [
@@ -411,7 +253,8 @@
           251
         ],
         "type": "line",
-        "horizontal": false
+        "horizontal": false,
+        "title": "Ostrzeżenia: 2025-10-13"
       }
     },
     "sessions_charts": {
@@ -447,17 +290,32 @@
           17.0781
         ],
         "type": "bar",
-        "horizontal": true
+        "horizontal": true,
+        "title": "Całkowity czas sesji graczy"
       }
     },
-    "admin_charts": {},
-    "mod_issues": {
-      "mod_issues_count": {
+    "admin_charts": {
+      "admin_actions": {
         "labels": [],
         "data": [],
         "type": "bar",
-        "horizontal": true
+        "horizontal": true,
+        "title": "Komendy admina: Brak danych"
       }
+    },
+    "mod_issues": {
+      "labels": [],
+      "data": [],
+      "type": "bar",
+      "horizontal": true,
+      "title": "Liczba problemów z modami"
+    },
+    "mod_issues_by_warning": {
+      "labels": [],
+      "data": [],
+      "type": "bar",
+      "horizontal": true,
+      "title": "Problemy z modami według typu ostrzeżenia"
     }
   },
   "summaries": {

@@ -75,13 +75,13 @@
                 <a href="#sessions" class="text-white hover:underline">Sesje</a>
                 <a href="#admin" class="text-white hover:underline">Admin</a>
                 <a href="#mods" class="text-white hover:underline">Mody</a>
-                <button id="theme-toggle" class="px-4 py-2 bg-blue-500 text-white rounded hover:bg-blue-600 transition">Przełącz motyw</button>
+                <button id="theme-toggle" class="px-4 py-2 bg-blue-500 text-white rounded hover:bg-blue-700 transition">Przełącz motyw</button>
             </div>
         </div>
     </nav>
 
     <div class="container mx-auto p-6">
-        <p class="mb-6 text-gray-600 dark:text-gray-400">Wygenerowano: 2025-10-14 17:34:37</p>
+        <p class="mb-6 text-gray-600 dark:text-gray-400">Wygenerowano: 2025-10-14 17:50:20</p>
 
         <section id="summary" class="mb-8 fade-in">
             <h2 class="text-2xl font-semibold mb-4">Podsumowanie</h2>
@@ -122,6 +122,7 @@
                 <div id="sessions_charts" class="chart-container"></div>
                 <div id="admin_charts" class="chart-container"></div>
                 <div id="mod_issues" class="chart-container"></div>
+                <div id="mod_issues_by_warning" class="chart-container"></div>
             </div>
         </section>
 
@@ -249,12 +250,13 @@
 
             // Style wykresów
             const styleMap = {
-                mod_issues: { title: 'Problemy z modami', color: '#8b5cf6', bg: 'rgba(139,92,246,0.4)', defaultType: 'bar', horizontal: true },
+                other_charts: { title: 'Zdarzenia', color: '#3b82f6', bg: 'rgba(59,130,246,0.4)', defaultType: 'line', horizontal: false },
                 save_charts: { title: 'Zapisy gry', color: '#10b981', bg: 'rgba(16,185,129,0.4)', defaultType: 'line', horizontal: false },
                 warning_charts: { title: 'Ostrzeżenia', color: '#ef4444', bg: 'rgba(239,68,68,0.4)', defaultType: 'line', horizontal: false },
                 sessions_charts: { title: 'Sesje graczy', color: '#6366f1', bg: 'rgba(99,102,241,0.4)', defaultType: 'bar', horizontal: true },
                 admin_charts: { title: 'Akcje admina', color: '#14b8a6', bg: 'rgba(20,184,166,0.4)', defaultType: 'bar', horizontal: true },
-                other_charts: { title: 'Inne zdarzenia', color: '#3b82f6', bg: 'rgba(59,130,246,0.4)', defaultType: 'bar', horizontal: false }
+                mod_issues: { title: 'Liczba problemów z modami', color: '#8b5cf6', bg: 'rgba(139,92,246,0.4)', defaultType: 'bar', horizontal: true },
+                mod_issues_by_warning: { title: 'Problemy z modami według typu', color: '#d946ef', bg: 'rgba(217,70,239,0.4)', defaultType: 'bar', horizontal: true }
             };
 
             function computeHeight(labels, horizontal) {
@@ -268,7 +270,10 @@
             // Renderowanie wykresów
             Object.entries(data.charts || {}).forEach(([sectionKey, group]) => {
                 const container = document.getElementById(sectionKey);
-                if (!container) return;
+                if (!container) {
+                    console.warn(`Brak kontenera dla sekcji: ${sectionKey}`);
+                    return;
+                }
 
                 const style = styleMap[sectionKey] || { title: sectionKey, color: '#374151', bg: 'rgba(55,65,81,0.3)', defaultType: 'bar', horizontal: false };
 
@@ -278,6 +283,7 @@
                     ph.style.minHeight = '200px';
                     ph.innerHTML = `<div class="text-center"><div class="font-semibold mb-2">${style.title}</div><div class="text-gray-500 dark:text-gray-400">Brak danych</div></div>`;
                     container.appendChild(ph);
+                    console.warn(`Brak danych dla sekcji: ${sectionKey}`);
                     return;
                 }
 
@@ -286,13 +292,15 @@
                     const dataPoints = chartData?.data ?? [];
                     const type = chartData?.type || style.defaultType;
                     const horizontal = chartData?.horizontal ?? style.horizontal;
+                    const title = chartData?.title || `${style.title}: ${subKey}`;
 
                     if (!Array.isArray(labels) || labels.length === 0 || !Array.isArray(dataPoints) || dataPoints.length === 0) {
                         const ph = document.createElement('div');
                         ph.className = 'chart-container flex items-center justify-center';
                         ph.style.minHeight = '200px';
-                        ph.innerHTML = `<div class="text-center"><div class="font-semibold mb-2">${style.title}: ${subKey}</div><div class="text-gray-500 dark:text-gray-400">Brak danych</div></div>`;
+                        ph.innerHTML = `<div class="text-center"><div class="font-semibold mb-2">${title}</div><div class="text-gray-500 dark:text-gray-400">Brak danych</div></div>`;
                         container.appendChild(ph);
+                        console.warn(`Brak danych dla wykresu: ${sectionKey}:${subKey}`);
                         return;
                     }
 
@@ -311,7 +319,7 @@
                             data: {
                                 labels,
                                 datasets: [{
-                                    label: style.title,
+                                    label: title,
                                     data: dataPoints,
                                     borderColor: style.color,
                                     backgroundColor: style.bg,
@@ -328,7 +336,7 @@
                                 },
                                 plugins: {
                                     legend: { display: true, labels: { boxWidth: 15, font: { size: 12 } } },
-                                    title: { display: true, text: `${style.title}: ${subKey}`, font: { size: 14 } }
+                                    title: { display: true, text: title, font: { size: 14 } }
                                 },
                                 scales: {
                                     x: {
@@ -344,9 +352,10 @@
                                 indexAxis: horizontal ? 'y' : 'x'
                             }
                         });
+                        console.log(`Wyrenderowano wykres: ${sectionKey}:${subKey}`);
                     } catch (e) {
                         console.error(`Błąd renderowania wykresu ${sectionKey}:${subKey}`, e);
-                        wrapper.innerHTML = `<div class="text-center text-red-500 dark:text-red-400">Błąd renderowania wykresu: ${style.title}: ${subKey}</div>`;
+                        wrapper.innerHTML = `<div class="text-center text-red-500 dark:text-red-400">Błąd renderowania wykresu: ${title}</div>`;
                     }
                 });
             });
