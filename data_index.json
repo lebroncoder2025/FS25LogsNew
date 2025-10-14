@@ -1,0 +1,571 @@
+{
+  "meta": {
+    "generated_at": "2025-10-14 12:04:19",
+    "events_count": 1642012
+  },
+  "charts": {
+    "save_charts": {
+      "saves_all": {
+        "labels": [
+          "2025-10-07 19:00",
+          "2025-10-07 20:00",
+          "2025-10-07 21:00",
+          "2025-10-07 22:00",
+          "2025-10-07 23:00",
+          "2025-10-08 00:00",
+          "2025-10-08 01:00",
+          "2025-10-08 02:00",
+          "2025-10-08 03:00",
+          "2025-10-08 04:00",
+          "2025-10-08 05:00",
+          "2025-10-08 06:00",
+          "2025-10-08 07:00",
+          "2025-10-08 08:00",
+          "2025-10-08 09:00",
+          "2025-10-08 10:00",
+          "2025-10-08 11:00",
+          "2025-10-08 12:00",
+          "2025-10-08 13:00",
+          "2025-10-08 14:00",
+          "2025-10-08 15:00",
+          "2025-10-08 16:00",
+          "2025-10-08 17:00",
+          "2025-10-08 18:00",
+          "2025-10-08 19:00",
+          "2025-10-08 20:00",
+          "2025-10-08 22:00",
+          "2025-10-10 18:00",
+          "2025-10-10 19:00",
+          "2025-10-10 20:00",
+          "2025-10-10 21:00",
+          "2025-10-10 22:00",
+          "2025-10-10 23:00",
+          "2025-10-11 00:00",
+          "2025-10-11 01:00",
+          "2025-10-11 02:00",
+          "2025-10-11 03:00",
+          "2025-10-11 04:00",
+          "2025-10-11 05:00",
+          "2025-10-11 06:00",
+          "2025-10-11 07:00",
+          "2025-10-11 08:00",
+          "2025-10-11 09:00",
+          "2025-10-11 10:00",
+          "2025-10-11 11:00",
+          "2025-10-11 12:00",
+          "2025-10-11 13:00",
+          "2025-10-11 14:00",
+          "2025-10-11 15:00",
+          "2025-10-13 05:00",
+          "2025-10-13 06:00"
+        ],
+        "data": [
+          2,
+          1,
+          2,
+          1,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          5,
+          3,
+          2,
+          2,
+          3,
+          2,
+          2,
+          1,
+          3,
+          3,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          1,
+          2,
+          2
+        ]
+      },
+      "saves_2025-10-07": {
+        "labels": [
+          "19:00",
+          "20:00",
+          "21:00",
+          "22:00",
+          "23:00"
+        ],
+        "data": [
+          2,
+          1,
+          2,
+          1,
+          2
+        ]
+      },
+      "saves_2025-10-08": {
+        "labels": [
+          "00:00",
+          "01:00",
+          "02:00",
+          "03:00",
+          "04:00",
+          "05:00",
+          "06:00",
+          "07:00",
+          "08:00",
+          "09:00",
+          "10:00",
+          "11:00",
+          "12:00",
+          "13:00",
+          "14:00",
+          "15:00",
+          "16:00",
+          "17:00",
+          "18:00",
+          "19:00",
+          "20:00",
+          "22:00"
+        ],
+        "data": [
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          5,
+          3,
+          2,
+          2,
+          3,
+          2,
+          2,
+          1
+        ]
+      },
+      "saves_2025-10-10": {
+        "labels": [
+          "18:00",
+          "19:00",
+          "20:00",
+          "21:00",
+          "22:00",
+          "23:00"
+        ],
+        "data": [
+          3,
+          3,
+          2,
+          2,
+          2,
+          2
+        ]
+      },
+      "saves_2025-10-11": {
+        "labels": [
+          "00:00",
+          "01:00",
+          "02:00",
+          "03:00",
+          "04:00",
+          "05:00",
+          "06:00",
+          "07:00",
+          "08:00",
+          "09:00",
+          "10:00",
+          "11:00",
+          "12:00",
+          "13:00",
+          "14:00",
+          "15:00"
+        ],
+        "data": [
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          1
+        ]
+      },
+      "saves_2025-10-13": {
+        "labels": [
+          "05:00",
+          "06:00"
+        ],
+        "data": [
+          2,
+          2
+        ]
+      }
+    },
+    "warning_charts": {
+      "warnings_per_hour": {
+        "labels": [
+          "2025-10-07 18:00",
+          "2025-10-07 19:00",
+          "2025-10-07 20:00",
+          "2025-10-07 21:00",
+          "2025-10-07 22:00",
+          "2025-10-07 23:00",
+          "2025-10-08 00:00",
+          "2025-10-08 05:00",
+          "2025-10-08 14:00",
+          "2025-10-08 15:00",
+          "2025-10-08 17:00",
+          "2025-10-08 19:00",
+          "2025-10-08 21:00",
+          "2025-10-10 17:00",
+          "2025-10-10 19:00",
+          "2025-10-10 22:00",
+          "2025-10-10 23:00",
+          "2025-10-11 00:00",
+          "2025-10-11 13:00",
+          "2025-10-11 14:00",
+          "2025-10-11 15:00",
+          "2025-10-13 04:00"
+        ],
+        "data": [
+          238,
+          7,
+          40149,
+          826,
+          1120,
+          1,
+          20,
+          2,
+          1,
+          1,
+          1,
+          3,
+          499,
+          271,
+          1,
+          19,
+          25,
+          1,
+          2,
+          1,
+          2,
+          251
+        ]
+      },
+      "warnings_per_hour_2025-10-07": {
+        "labels": [
+          "18:00",
+          "19:00",
+          "20:00",
+          "21:00",
+          "22:00",
+          "23:00"
+        ],
+        "data": [
+          238,
+          7,
+          40149,
+          826,
+          1120,
+          1
+        ]
+      },
+      "warnings_per_hour_2025-10-08": {
+        "labels": [
+          "00:00",
+          "05:00",
+          "14:00",
+          "15:00",
+          "17:00",
+          "19:00",
+          "21:00"
+        ],
+        "data": [
+          20,
+          2,
+          1,
+          1,
+          1,
+          3,
+          499
+        ]
+      },
+      "warnings_per_hour_2025-10-10": {
+        "labels": [
+          "17:00",
+          "19:00",
+          "22:00",
+          "23:00"
+        ],
+        "data": [
+          271,
+          1,
+          19,
+          25
+        ]
+      },
+      "warnings_per_hour_2025-10-11": {
+        "labels": [
+          "00:00",
+          "13:00",
+          "14:00",
+          "15:00"
+        ],
+        "data": [
+          1,
+          2,
+          1,
+          2
+        ]
+      },
+      "warnings_per_hour_2025-10-13": {
+        "labels": [
+          "04:00"
+        ],
+        "data": [
+          251
+        ]
+      }
+    },
+    "other_charts": {
+      "mod_issues": {
+        "labels": [
+          "FS25_Eicher2090T",
+          "FS25_JohnDeere_9X30T",
+          "FS25_Landini_Serie7_SWB",
+          "FS25_McHale_Fusion_4",
+          "FS25_NH_T8",
+          "FS25_Stara_Reboke_25000",
+          "FS25_ursus1614",
+          "FS25_Ursus6v2"
+        ],
+        "data": [
+          15,
+          15,
+          15,
+          15,
+          15,
+          15,
+          15,
+          225
+        ]
+      }
+    },
+    "mod_issues": {
+      "labels": [
+        "FS25_Eicher2090T",
+        "FS25_JohnDeere_9X30T",
+        "FS25_Landini_Serie7_SWB",
+        "FS25_McHale_Fusion_4",
+        "FS25_NH_T8",
+        "FS25_Stara_Reboke_25000",
+        "FS25_ursus1614",
+        "FS25_Ursus6v2"
+      ],
+      "data": [
+        15,
+        15,
+        15,
+        15,
+        15,
+        15,
+        15,
+        225
+      ]
+    }
+  },
+  "summaries": {
+    "errors_summary": [
+      {
+        "Message": "",
+        "Count": 40988
+      },
+      {
+        "Message": "Script error in getWorldRotation: Unknown entity id 0 for 'object' in method 'getWorldRotation'.",
+        "Count": 40927
+      },
+      {
+        "Message": "Script error in getWorldTranslation: Unknown entity id 0 for 'object' in method 'getWorldTranslation'.",
+        "Count": 40926
+      },
+      {
+        "Message": "Script error in getIsSleeping: Unknown entity id 0 for 'object' in method 'getIsSleeping'.",
+        "Count": 40925
+      },
+      {
+        "Message": "g_configurationManager is not available anymore. Please adjust mod script to use new g_vehicleConfigurationManager and VehicleConfigurationItems instead",
+        "Count": 1305
+      }
+    ],
+    "warnings_summary": [
+      {
+        "Message": "Unknown",
+        "Count": 40244
+      },
+      {
+        "Message": "Failed to parse parameter '4' into the number. (vector '0.924 0.816 0.62 ')",
+        "Count": 345
+      },
+      {
+        "Message": "Failed to parse parameter '4' into the number. (vector '0.87 0.87 0.87 ')",
+        "Count": 75
+      },
+      {
+        "Message": "'SAZLAModding' is an unknown brand! Using 'LIZARD' instead!",
+        "Count": 75
+      },
+      {
+        "Message": "Mesh cooking 'col_10m'",
+        "Count": 44
+      }
+    ],
+    "sessions_summary": [
+      {
+        "Player": "siejA",
+        "Duration": 2146.5025
+      },
+      {
+        "Player": "Piotrek",
+        "Duration": 1910.0832500000001
+      },
+      {
+        "Player": "Dawid",
+        "Duration": 1289.0040999999999
+      },
+      {
+        "Player": "zone",
+        "Duration": 893.6799833333333
+      },
+      {
+        "Player": "M@rcin",
+        "Duration": 867.1364666666667
+      },
+      {
+        "Player": "Jolero",
+        "Duration": 336.6341333333333
+      },
+      {
+        "Player": "wiciu",
+        "Duration": 288.24591666666663
+      },
+      {
+        "Player": "Juan Pablo Alvarez",
+        "Duration": 170.17586666666668
+      },
+      {
+        "Player": "Figuana",
+        "Duration": 106.05324999999999
+      },
+      {
+        "Player": "symonixprime serwerkaput",
+        "Duration": 85.11704999999999
+      },
+      {
+        "Player": "KIL666LER",
+        "Duration": 78.95211666666667
+      },
+      {
+        "Player": "Darcia",
+        "Duration": 69.7013
+      },
+      {
+        "Player": "Daniel",
+        "Duration": 17.0781
+      }
+    ],
+    "admin_summary": {}
+  },
+  "tables_index": {
+    "counts": {
+      "errors": 170007,
+      "warnings": 43771,
+      "sessions": 74,
+      "admin": 0,
+      "mods": 10334
+    },
+    "parts": [
+      {
+        "file": "tables\\tables_part_1.json",
+        "bytes": 21372188,
+        "count": 85375
+      },
+      {
+        "file": "tables\\tables_part_2.json",
+        "bytes": 21429614,
+        "count": 86592
+      },
+      {
+        "file": "tables\\tables_part_3.json",
+        "bytes": 10013192,
+        "count": 52219
+      }
+    ]
+  },
+  "raw_event_counts": {
+    "system_info": 5001,
+    "direct_storage": 60,
+    "other": 1535187,
+    "dlc_load": 75,
+    "mod_load": 10334,
+    "duplicate_l10n": 105,
+    "error": 6082,
+    "mod_warning": 225,
+    "info_add": 991,
+    "forestry_helper": 154,
+    "warning": 836,
+    "real_dirt_color": 697,
+    "memory_warning": 7,
+    "save_game": 105,
+    "player_connected": 92,
+    "value_line": 1104,
+    "player_disconnected": 70,
+    "lua_error": 40988,
+    "network_unknown_target": 18057,
+    "network_decrypt_error": 21842
+  }
+}
