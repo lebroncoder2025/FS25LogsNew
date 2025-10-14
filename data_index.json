@@ -1,9 +1,149 @@
 {
   "meta": {
-    "generated_at": "2025-10-14 15:02:09",
+    "generated_at": "2025-10-14 17:08:59",
     "events_count": 1642012
   },
   "charts": {
+    "other_charts": {
+      "event_types": {
+        "labels": [
+          "OTHER",
+          "ERROR",
+          "WARNING",
+          "INFO"
+        ],
+        "data": [
+          1427004,
+          170007,
+          43771,
+          1230
+        ]
+      },
+      "events_per_hour": {
+        "labels": [
+          "2025-10-07 18:00",
+          "2025-10-07 19:00",
+          "2025-10-07 20:00",
+          "2025-10-07 21:00",
+          "2025-10-07 22:00",
+          "2025-10-07 23:00",
+          "2025-10-08 00:00",
+          "2025-10-08 01:00",
+          "2025-10-08 02:00",
+          "2025-10-08 03:00",
+          "2025-10-08 04:00",
+          "2025-10-08 05:00",
+          "2025-10-08 06:00",
+          "2025-10-08 07:00",
+          "2025-10-08 08:00",
+          "2025-10-08 09:00",
+          "2025-10-08 10:00",
+          "2025-10-08 11:00",
+          "2025-10-08 12:00",
+          "2025-10-08 13:00",
+          "2025-10-08 14:00",
+          "2025-10-08 15:00",
+          "2025-10-08 16:00",
+          "2025-10-08 17:00",
+          "2025-10-08 18:00",
+          "2025-10-08 19:00",
+          "2025-10-08 20:00",
+          "2025-10-08 21:00",
+          "2025-10-08 22:00",
+          "2025-10-10 17:00",
+          "2025-10-10 18:00",
+          "2025-10-10 19:00",
+          "2025-10-10 20:00",
+          "2025-10-10 21:00",
+          "2025-10-10 22:00",
+          "2025-10-10 23:00",
+          "2025-10-11 00:00",
+          "2025-10-11 01:00",
+          "2025-10-11 02:00",
+          "2025-10-11 03:00",
+          "2025-10-11 04:00",
+          "2025-10-11 05:00",
+          "2025-10-11 06:00",
+          "2025-10-11 07:00",
+          "2025-10-11 08:00",
+          "2025-10-11 09:00",
+          "2025-10-11 10:00",
+          "2025-10-11 11:00",
+          "2025-10-11 12:00",
+          "2025-10-11 13:00",
+          "2025-10-11 14:00",
+          "2025-10-11 15:00",
+          "2025-10-13 02:00",
+          "2025-10-13 03:00",
+          "2025-10-13 04:00",
+          "2025-10-13 05:00",
+          "2025-10-13 06:00"
+        ],
+        "data": [
+          3702,
+          200,
+          44037,
+          12222,
+          17257,
+          110,
+          117,
+          16,
+          16,
+          16,
+          28,
+          53,
+          4,
+          48,
+          12,
+          14,
+          20,
+          10,
+          6,
+          41,
+          31,
+          59,
+          63,
+          49,
+          24,
+          54,
+          85,
+          7330,
+          30,
+          3723,
+          15,
+          86,
+          6,
+          78,
+          39,
+          151,
+          15,
+          5,
+          4,
+          4,
+          4,
+          5,
+          4,
+          38,
+          4,
+          5,
+          21,
+          20,
+          26,
+          92,
+          165,
+          25171,
+          841,
+          71636,
+          69736,
+          10,
+          6
+        ]
+      },
+      "admin_commands": {
+        "labels": [],
+        "data": []
+      }
+    },
     "save_charts": {
       "saves_all": {
         "labels": [
@@ -112,138 +252,6 @@
           2,
           2
         ]
-      },
-      "saves_2025-10-07": {
-        "labels": [
-          "19:00",
-          "20:00",
-          "21:00",
-          "22:00",
-          "23:00"
-        ],
-        "data": [
-          2,
-          1,
-          2,
-          1,
-          2
-        ]
-      },
-      "saves_2025-10-08": {
-        "labels": [
-          "00:00",
-          "01:00",
-          "02:00",
-          "03:00",
-          "04:00",
-          "05:00",
-          "06:00",
-          "07:00",
-          "08:00",
-          "09:00",
-          "10:00",
-          "11:00",
-          "12:00",
-          "13:00",
-          "14:00",
-          "15:00",
-          "16:00",
-          "17:00",
-          "18:00",
-          "19:00",
-          "20:00",
-          "22:00"
-        ],
-        "data": [
-          2,
-          2,
-          2,
-          2,
-          2,
-          2,
-          2,
-          2,
-          2,
-          2,
-          2,
-          2,
-          2,
-          2,
-          5,
-          3,
-          2,
-          2,
-          3,
-          2,
-          2,
-          1
-        ]
-      },
-      "saves_2025-10-10": {
-        "labels": [
-          "18:00",
-          "19:00",
-          "20:00",
-          "21:00",
-          "22:00",
-          "23:00"
-        ],
-        "data": [
-          3,
-          3,
-          2,
-          2,
-          2,
-          2
-        ]
-      },
-      "saves_2025-10-11": {
-        "labels": [
-          "00:00",
-          "01:00",
-          "02:00",
-          "03:00",
-          "04:00",
-          "05:00",
-          "06:00",
-          "07:00",
-          "08:00",
-          "09:00",
-          "10:00",
-          "11:00",
-          "12:00",
-          "13:00",
-          "14:00",
-          "15:00"
-        ],
-        "data": [
-          2,
-          2,
-          2,
-          2,
-          2,
-          2,
-          2,
-          2,
-          2,
-          2,
-          2,
-          2,
-          2,
-          2,
-          2,
-          1
-        ]
-      },
-      "saves_2025-10-13": {
-        "labels": [
-          "05:00",
-          "06:00"
-        ],
-        "data": [
-          2,
-          2
-        ]
       }
     },
     "warning_charts": {
@@ -296,167 +304,88 @@
           2,
           251
         ]
-      },
-      "warnings_per_hour_2025-10-07": {
-        "labels": [
-          "18:00",
-          "19:00",
-          "20:00",
-          "21:00",
-          "22:00",
-          "23:00"
-        ],
-        "data": [
-          238,
-          7,
-          40149,
-          826,
-          1120,
-          1
-        ]
-      },
-      "warnings_per_hour_2025-10-08": {
-        "labels": [
-          "00:00",
-          "05:00",
-          "14:00",
-          "15:00",
-          "17:00",
-          "19:00",
-          "21:00"
-        ],
-        "data": [
-          20,
-          2,
-          1,
-          1,
-          1,
-          3,
-          499
-        ]
-      },
-      "warnings_per_hour_2025-10-10": {
-        "labels": [
-          "17:00",
-          "19:00",
-          "22:00",
-          "23:00"
-        ],
-        "data": [
-          271,
-          1,
-          19,
-          25
-        ]
-      },
-      "warnings_per_hour_2025-10-11": {
-        "labels": [
-          "00:00",
-          "13:00",
-          "14:00",
-          "15:00"
-        ],
-        "data": [
-          1,
-          2,
-          1,
-          2
-        ]
-      },
-      "warnings_per_hour_2025-10-13": {
-        "labels": [
-          "04:00"
-        ],
-        "data": [
-          251
-        ]
       }
     },
-    "other_charts": {
-      "mod_issues": {
+    "sessions_charts": {
+      "sessions_total": {
         "labels": [
-          "FS25_Eicher2090T",
-          "FS25_JohnDeere_9X30T",
-          "FS25_Landini_Serie7_SWB",
-          "FS25_McHale_Fusion_4",
-          "FS25_NH_T8",
-          "FS25_Stara_Reboke_25000",
-          "FS25_ursus1614",
-          "FS25_Ursus6v2"
+          "Piotrek",
+          "siejA",
+          "Dawid",
+          "zone",
+          "M@rcin",
+          "Jolero",
+          "wiciu",
+          "Juan Pablo Alvarez",
+          "Figuana",
+          "symonixprime serwerkaput",
+          "KIL666LER",
+          "Darcia",
+          "Daniel"
         ],
         "data": [
-          15,
-          15,
-          15,
-          15,
-          15,
-          15,
-          15,
-          225
-        ]
+          3444.194,
+          3436.6226500000002,
+          1289.0040999999999,
+          893.6799833333333,
+          867.1364666666667,
+          336.6341333333333,
+          288.24591666666663,
+          170.17586666666668,
+          106.05324999999999,
+          85.11704999999999,
+          78.95211666666667,
+          69.7013,
+          17.0781
+        ],
+        "type": "bar",
+        "horizontal": true
       }
     },
+    "admin_charts": {},
     "mod_issues": {
-      "labels": [
-        "FS25_Eicher2090T",
-        "FS25_JohnDeere_9X30T",
-        "FS25_Landini_Serie7_SWB",
-        "FS25_McHale_Fusion_4",
-        "FS25_NH_T8",
-        "FS25_Stara_Reboke_25000",
-        "FS25_ursus1614",
-        "FS25_Ursus6v2"
-      ],
-      "data": [
-        15,
-        15,
-        15,
-        15,
-        15,
-        15,
-        15,
-        225
-      ]
+      "labels": [],
+      "data": []
     }
   },
   "summaries": {
     "errors_summary": [
       {
-        "Message": "",
-        "Count": 40988
-      },
-      {
-        "Message": "Script error in getWorldRotation: Unknown entity id 0 for 'object' in method 'getWorldRotation'.",
-        "Count": 40927
-      },
-      {
-        "Message": "Script error in getWorldTranslation: Unknown entity id 0 for 'object' in method 'getWorldTranslation'.",
-        "Count": 40926
-      },
-      {
-        "Message": "Script error in getIsSleeping: Unknown entity id 0 for 'object' in method 'getIsSleeping'.",
-        "Count": 40925
+        "Message": "Unknown",
+        "Count": 163925
       },
       {
         "Message": "g_configurationManager is not available anymore. Please adjust mod script to use new g_vehicleConfigurationManager and VehicleConfigurationItems instead",
         "Count": 1305
+      },
+      {
+        "Message": "ConfigurationUtil.registerColorConfigurationXMLPaths is not available anymore",
+        "Count": 1305
+      },
+      {
+        "Message": "Failed to find child 3 from node \"RootNode|PZK 7|Rama|2|2.003\", only 0 children given",
+        "Count": 1008
+      },
+      {
+        "Message": "BaseMaterial.registerBaseMaterialConfigurationsXMLPaths is not available anymore",
+        "Count": 690
       }
     ],
     "warnings_summary": [
       {
         "Message": "Unknown",
-        "Count": 40244
+        "Count": 42935
       },
       {
         "Message": "Failed to parse parameter '4' into the number. (vector '0.924 0.816 0.62 ')",
         "Count": 345
       },
       {
-        "Message": "Failed to parse parameter '4' into the number. (vector '0.87 0.87 0.87 ')",
+        "Message": "'SAZLAModding' is an unknown brand! Using 'LIZARD' instead!",
         "Count": 75
       },
       {
-        "Message": "'SAZLAModding' is an unknown brand! Using 'LIZARD' instead!",
+        "Message": "Failed to parse parameter '4' into the number. (vector '0.87 0.87 0.87 ')",
         "Count": 75
       },
       {
@@ -466,12 +395,12 @@
     ],
     "sessions_summary": [
       {
-        "Player": "siejA",
-        "Duration": 2146.5025
+        "Player": "Piotrek",
+        "Duration": 3444.194
       },
       {
-        "Player": "Piotrek",
-        "Duration": 1910.0832500000001
+        "Player": "siejA",
+        "Duration": 3436.6226500000002
       },
       {
         "Player": "Dawid",
@@ -524,25 +453,25 @@
     "counts": {
       "errors": 170007,
       "warnings": 43771,
-      "sessions": 74,
-      "admin": 0,
-      "mods": 10334
+      "sessions": 162,
+      "mods": 10334,
+      "admin": 0
     },
     "parts": [
       {
-        "file": "tables\\tables_part_1.json",
-        "bytes": 21372188,
-        "count": 85375
+        "file": "tables/tables_part_1.json",
+        "bytes": 15725777,
+        "count": 107079
       },
       {
-        "file": "tables\\tables_part_2.json",
-        "bytes": 21429614,
-        "count": 86592
+        "file": "tables/tables_part_2.json",
+        "bytes": 15284079,
+        "count": 99753
       },
       {
-        "file": "tables\\tables_part_3.json",
-        "bytes": 10013192,
-        "count": 52219
+        "file": "tables/tables_part_3.json",
+        "bytes": 3397158,
+        "count": 17442
       }
     ]
   },

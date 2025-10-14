@@ -5,7 +5,7 @@
     <title>Raport FS25</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <script src="https://cdn.tailwindcss.com"></script>
-    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.5.0/dist/chart.umd.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.3/dist/chart.umd.min.js"></script>
     <style>
         body {
             min-height: 100vh;
@@ -21,7 +21,7 @@
             background-color: rgba(255,255,255,0.95);
         }
         .dark .chart-container {
-            background-color: rgba(31,41,55,0.95); /* Ciemne tło dla wykresów w trybie ciemnym */
+            background-color: rgba(31,41,55,0.95);
         }
         .chart-container.flex {
             display: flex;
@@ -81,7 +81,7 @@
     </nav>
 
     <div class="container mx-auto p-6">
-        <p class="mb-6 text-gray-600 dark:text-gray-400">Wygenerowano: {datetime.now().strftime("%Y-%m-%d %H:%M:%S")}</p>
+        <p class="mb-6 text-gray-600 dark:text-gray-400">Wygenerowano: 2025-10-14 17:08:59</p>
 
         <section id="summary" class="mb-8 fade-in">
             <h2 class="text-2xl font-semibold mb-4">Podsumowanie</h2>
@@ -205,17 +205,9 @@
             try {
                 const resp = await fetch('data_index.json');
                 if (!resp.ok) throw new Error('HTTP ' + resp.status);
-                const index = await resp.json();
+                data = await resp.json();
 
-                data = {
-                    charts: index.charts || {},
-                    summaries: index.summaries || {},
-                    meta: index.meta || {},
-                    raw_event_counts: index.raw_event_counts || {},
-                    tables: { errors: [], warnings: [], sessions: [], admin: [], mods: [] }
-                };
-
-                const parts = (index.tables_index && index.tables_index.parts) ? index.tables_index.parts : [];
+                const parts = (data.tables_index && data.tables_index.parts) ? data.tables_index.parts : [];
                 for (const p of parts) {
                     try {
                         const partResp = await fetch(p.file);
@@ -226,9 +218,9 @@
                         const partData = await partResp.json();
                         for (const rec of partData) {
                             const t = rec.table;
-                            const row = rec.row;
+                            if (!data.tables) data.tables = {};
                             if (!data.tables[t]) data.tables[t] = [];
-                            data.tables[t].push(row);
+                            data.tables[t].push(rec.row);
                         }
                     } catch (e) {
                         console.error('Błąd pobierania/parsowania części tabeli', p.file, e);
@@ -246,11 +238,11 @@
             // Aktualizacja podsumowania
             try {
                 document.getElementById('summary-events').textContent = data.meta.events_count || 0;
-                document.getElementById('summary-errors').textContent = data.tables.errors.length || 0;
-                document.getElementById('summary-warnings').textContent = data.tables.warnings.length || 0;
-                document.getElementById('summary-mods').textContent = data.tables.mods.length || 0;
+                document.getElementById('summary-errors').textContent = data.tables_index.counts.errors || 0;
+                document.getElementById('summary-warnings').textContent = data.tables_index.counts.warnings || 0;
+                document.getElementById('summary-mods').textContent = data.tables_index.counts.mods || 0;
                 document.getElementById('summary-dlcs').textContent = data.raw_event_counts.dlc_load || 0;
-                document.getElementById('summary-sessions').textContent = data.tables.sessions.length || 0;
+                document.getElementById('summary-sessions').textContent = data.tables_index.counts.sessions || 0;
             } catch (e) {
                 console.error('Błąd aktualizacji podsumowania', e);
             }
@@ -274,7 +266,7 @@
             }
 
             // Renderowanie wykresów
-            Object.entries(data.charts).forEach(([sectionKey, group]) => {
+            Object.entries(data.charts || {}).forEach(([sectionKey, group]) => {
                 const container = document.getElementById(sectionKey);
                 if (!container) return;
 
@@ -371,7 +363,7 @@
             function renderDetailsTable(sectionId, tableData, headers) {
                 const section = document.getElementById(sectionId);
                 if (!section) return;
-                const detailsRows = (tableData || []).slice(0, 100).map(row => `<tr>${headers.map(h => `<td class="p-2">${h === 'Details' ? JSON.stringify(row.Details || {}, null, 2).replace(/"/g, '&quot;') : (row[h] || '')}</td>`).join('')}</tr>`).join('');
+                const detailsRows = (tableData || []).slice(0, 100).map(row => `<tr>${headers.map(h => `<td class="p-2">${h === 'Details' ? `<pre>${JSON.stringify(row[h] || {}, null, 2).replace(/"/g, '&quot;')}</pre>` : (row[h] || '')}</td>`).join('')}</tr>`).join('');
                 const detailsHtml = `<details class="mb-4"><summary class="cursor-pointer text-blue-600 dark:text-blue-400 font-semibold">Pokaż szczegóły (pierwsze 100)</summary><div class="overflow-x-auto"><table class="w-full bg-white dark:bg-gray-800 rounded-lg shadow sortable"><thead><tr class="bg-gray-200 dark:bg-gray-700">${headers.map(h => `<th class="p-2 table-header">${h}</th>`).join('')}</tr></thead><tbody>${detailsRows}</tbody></table></div></details>`;
                 section.innerHTML += detailsHtml;
             }
@@ -379,21 +371,21 @@
             // Renderowanie sekcji
             try {
                 renderSummaryTable('errors_section', data.summaries.errors_summary || [], ['Message', 'Count']);
-                renderDetailsTable('errors_section', data.tables.errors, ['Timestamp', 'EventType', 'Details']);
+                renderDetailsTable('errors_section', data.tables?.errors, ['Timestamp', 'EventType', 'Details']);
             } catch (e) {
                 console.error('Błąd renderowania błędów', e);
             }
 
             try {
                 renderSummaryTable('warnings_section', data.summaries.warnings_summary || [], ['Message', 'Count']);
-                renderDetailsTable('warnings_section', data.tables.warnings, ['Timestamp', 'EventType', 'Details']);
+                renderDetailsTable('warnings_section', data.tables?.warnings, ['Timestamp', 'EventType', 'Details']);
             } catch (e) {
                 console.error('Błąd renderowania ostrzeżeń', e);
             }
 
             try {
                 renderSummaryTable('sessions_section', data.summaries.sessions_summary || [], ['Player', 'Duration']);
-                renderDetailsTable('sessions_section', data.tables.sessions, ['Player', 'Start', 'End', 'Duration']);
+                renderDetailsTable('sessions_section', data.tables?.sessions, ['Player', 'Timestamp', 'EventType']);
             } catch (e) {
                 console.error('Błąd renderowania sesji', e);
             }
@@ -401,13 +393,13 @@
             try {
                 const adminSummary = Object.entries(data.summaries.admin_summary || {}).map(([key, value]) => ({Command: key, Count: value}));
                 renderSummaryTable('admin_section', adminSummary, ['Command', 'Count']);
-                renderDetailsTable('admin_section', data.tables.admin, ['Timestamp', 'EventType', 'Details']);
+                renderDetailsTable('admin_section', data.tables?.admin, ['Timestamp', 'EventType', 'Details']);
             } catch (e) {
                 console.error('Błąd renderowania admin', e);
             }
 
             try {
-                renderDetailsTable('mods_section', data.tables.mods, ['Details']);
+                renderDetailsTable('mods_section', data.tables?.mods, ['Details']);
             } catch (e) {
                 console.error('Błąd renderowania modów', e);
             }
