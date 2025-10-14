@@ -1,35 +1,121 @@
 {
   "meta": {
-    "generated_at": "2025-10-14 14:27:24",
+    "generated_at": "2025-10-14 14:46:17",
     "events_count": 1642012
   },
   "charts": {},
   "summaries": {},
   "tables_index": {
     "counts": {
-      "errors": 170007,
-      "warnings": 43771,
-      "sessions": 162,
-      "admin": 105,
-      "mods": 10334
+      "events": 1642012
     },
     "parts": [
       {
         "file": "tables/tables_part_1.json",
-        "bytes": 23538865,
-        "count": 169788
+        "bytes": 20195344,
+        "count": 59343
       },
       {
         "file": "tables/tables_part_2.json",
-        "bytes": 8371087,
-        "count": 54591
+        "bytes": 19921869,
+        "count": 60668
+      },
+      {
+        "file": "tables/tables_part_3.json",
+        "bytes": 21214046,
+        "count": 90593
+      },
+      {
+        "file": "tables/tables_part_4.json",
+        "bytes": 21226892,
+        "count": 90902
+      },
+      {
+        "file": "tables/tables_part_5.json",
+        "bytes": 21226964,
+        "count": 90903
+      },
+      {
+        "file": "tables/tables_part_6.json",
+        "bytes": 21226854,
+        "count": 90902
+      },
+      {
+        "file": "tables/tables_part_7.json",
+        "bytes": 21227024,
+        "count": 90903
+      },
+      {
+        "file": "tables/tables_part_8.json",
+        "bytes": 21227021,
+        "count": 90903
+      },
+      {
+        "file": "tables/tables_part_9.json",
+        "bytes": 21227046,
+        "count": 90903
+      },
+      {
+        "file": "tables/tables_part_10.json",
+        "bytes": 21226881,
+        "count": 90903
+      },
+      {
+        "file": "tables/tables_part_11.json",
+        "bytes": 21227019,
+        "count": 90903
+      },
+      {
+        "file": "tables/tables_part_12.json",
+        "bytes": 21227035,
+        "count": 90903
+      },
+      {
+        "file": "tables/tables_part_13.json",
+        "bytes": 21227026,
+        "count": 90903
+      },
+      {
+        "file": "tables/tables_part_14.json",
+        "bytes": 21227033,
+        "count": 90903
+      },
+      {
+        "file": "tables/tables_part_15.json",
+        "bytes": 21227035,
+        "count": 90903
+      },
+      {
+        "file": "tables/tables_part_16.json",
+        "bytes": 21226923,
+        "count": 90903
+      },
+      {
+        "file": "tables/tables_part_17.json",
+        "bytes": 21227047,
+        "count": 90903
+      },
+      {
+        "file": "tables/tables_part_18.json",
+        "bytes": 21226993,
+        "count": 90903
+      },
+      {
+        "file": "tables/tables_part_19.json",
+        "bytes": 16429297,
+        "count": 67865
       }
     ]
   },
   "raw_event_counts": {
-    "other": 1631336,
+    "other": 1532308,
+    "directstorage": 105,
     "dlc_load": 75,
     "mod_load": 10334,
+    "warning": 41065,
+    "error": 47070,
+    "file_load": 10758,
+    "performance_warning": 30,
     "save_game": 105,
     "player_connected": 92,
     "player_disconnected": 70

@@ -1,93 +1,91 @@
 <!doctype html>
 <html lang="pl">
 <head>
-<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<title>FS25 Logs Report</title>
-<style>body{font-family:system-ui,Segoe UI,Roboto,Arial;line-height:1.4;background:#f3f4f6;color:#0f172a}.container{max-width:1100px;margin:18px auto;padding:18px;}</style>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>FS25 Logs Report</title>
+    <style>
+        body { font-family: Arial, sans-serif; }
+        table { border-collapse: collapse; width: 100%; margin-bottom: 20px; }
+        th, td { border: 1px solid #ddd; padding: 8px; text-align: left; }
+        th { background-color: #f2f2f2; }
+        h2 { margin-top: 40px; }
+        .loading { color: gray; }
+        pre { white-space: pre-wrap; word-wrap: break-word; }
+    </style>
 </head>
 <body>
-<div class="container">
-  <h1>FS25 Logs Report</h1>
-  <p>Generated: 2025-10-14 14:27:27</p>
-  <section id="summary"><h2>Summary</h2></section>
-  <section id="charts"><h2>Charts</h2></section>
-  <section id="errors"><h2>Errors</h2><div id="errors_section"><em>Loading...</em></div></section>
-  <section id="warnings"><h2>Warnings</h2></section>
-  <section id="sessions"><h2>Sessions</h2></section>
-  <section id="admin"><h2>Admin actions</h2></section>
-  <section id="mods"><h2>Mods</h2></section>
-  <hr>
-  <p>Open DevTools console and inspect window.__FS25_REPORT__ for full loaded data.</p>
-</div>
-<script>
-document.addEventListener('DOMContentLoaded', async () => {
-  const show = (m, lvl='log') => {
-    try {
-      const c = document.querySelector('.container') || document.body;
-      const d = document.createElement('div'); d.style.borderBottom='1px solid #eee'; d.style.padding='6px 0';
-      d.textContent = '[loader] ' + m; c.prepend(d);
-      if(lvl==='error') console.error(m); else if(lvl==='warn') console.warn(m); else console.log(m);
-    } catch(e){ console.log(m); }
-  };
-
-  // load index relative to this index.html
-  let index = null;
-  try {
-    const idxResp = await fetch(new URL('data_index.json', location.href).href);
-    if (!idxResp.ok) { show('Failed to fetch data_index.json: ' + idxResp.status, 'error'); return; }
-    index = await idxResp.json();
-    show('Loaded data_index.json');
-  } catch (e) {
-    show('Error loading data_index.json: ' + e, 'error');
-    return;
-  }
-
-  const tables = { errors:[], warnings:[], sessions:[], admin:[], mods:[] };
-  const parts = (index.tables_index && Array.isArray(index.tables_index.parts)) ? index.tables_index.parts : [];
-  show('Declared parts: ' + parts.length);
-
-  for (const p of parts) {
-    if (!p || !p.file) { show('Skipping malformed part entry', 'warn'); continue; }
-    const candidates = [
-      new URL(p.file, location.href).href,
-      new URL('./' + p.file, location.href).href
-    ];
-    let ok=false;
-    for (const url of candidates) {
-      try {
-        show('Trying part: ' + url);
-        const r = await fetch(url);
-        if (!r.ok) { show('Not found: ' + url + ' status=' + r.status, 'warn'); continue; }
-        const arr = await r.json();
-        if (!Array.isArray(arr)) { show('Part returned non-array JSON: ' + url, 'warn'); continue; }
-        for (const rec of arr) {
-          if (!rec || !rec.table || typeof rec.row !== 'object') continue;
-          if (!tables[rec.table]) tables[rec.table] = [];
-          tables[rec.table].push(rec.row);
+    <h1>FS25 Logs Report</h1>
+    <p>Generated: 2025-10-14 14:46:54</p>
+    
+    <h2>Event Counts</h2>
+    <div id="event-counts" class="loading">Loading...</div>
+    
+    <h2>All Events</h2>
+    <table id="events-table">
+        <thead><tr><th>Timestamp</th><th>Line Type</th><th>Event Type</th><th>Details</th><th>Raw Line</th></tr></thead>
+        <tbody><tr><td colspan="5" class="loading">Loading...</td></tr></tbody>
+    </table>
+    
+    <script>
+    async function loadReport() {
+        try {
+            const response = await fetch('data_index.json');
+            if (!response.ok) {
+                throw new Error('Failed to load data_index.json: ' + response.status);
+            }
+            const index = await response.json();
+            
+            // Render event counts
+            const countsDiv = document.getElementById('event-counts');
+            countsDiv.innerHTML = '';
+            Object.entries(index.raw_event_counts).forEach(([key, value]) => {
+                countsDiv.innerHTML += `<p><strong>${key}:</strong> ${value}</p>`;
+            });
+            
+            // Load parts
+            const parts = index.tables_index.parts || [];
+            let allRows = [];
+            for (const part of parts) {
+                const partResponse = await fetch(part.file);
+                if (!partResponse.ok) {
+                    console.error('Failed to load part: ' + part.file);
+                    continue;
+                }
+                const rows = await partResponse.json();
+                allRows = allRows.concat(rows);
+            }
+            
+            // Group rows by table (tutaj tylko 'events')
+            const tables = {};
+            allRows.forEach(item => {
+                const tname = item.table;
+                if (!tables[tname]) tables[tname] = [];
+                tables[tname].push(item.row);
+            });
+            
+            // Render tabelę events
+            const tbody = document.getElementById('events-table').querySelector('tbody');
+            tbody.innerHTML = '';
+            const rows = tables['events'] || [];
+            if (rows.length === 0) {
+                tbody.innerHTML = '<tr><td colspan="5">No data available</td></tr>';
+            } else {
+                rows.forEach(row => {
+                    const timestamp = row.Timestamp || 'N/A';
+                    const lineType = row.LineType || 'N/A';
+                    const eventType = row.EventType || 'N/A';
+                    const details = JSON.stringify(row.Details || {}, null, 2).replace(/\n/g, '<br>');
+                    const rawLine = row.RawLine ? row.RawLine.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;') : 'N/A';
+                    tbody.innerHTML += `<tr><td>${timestamp}</td><td>${lineType}</td><td>${eventType}</td><td><pre>${details}</pre></td><td><pre>${rawLine}</pre></td></tr>`;
+                });
+            }
+        } catch (error) {
+            console.error('Error loading report:', error);
+            document.body.innerHTML += '<p style="color: red;">Error loading report. Check console for details.</p>';
         }
-        show('Loaded ' + arr.length + ' records from ' + url);
-        ok=true;
-        break;
-      } catch (e) {
-        show('Error fetching part ' + url + ': ' + e, 'warn');
-      }
     }
-    if (!ok) show('Failed to load part: ' + p.file, 'error');
-  }
-
-  // quick render sample for errors (first 100)
-  try {
-    const errorsEl = document.getElementById('errors_section');
-    if (errorsEl) {
-      const ds = (tables.errors || []).slice(0,100).map(r => '<tr><td>' + (r.Timestamp||'') + '</td><td>' + (r.EventType||'') + '</td><td>' + JSON.stringify(r.Details||{}) + '</td></tr>').join('');
-      errorsEl.innerHTML = '<details><summary>Show first 100 error rows</summary><table style="width:100%"><thead><tr><th>Timestamp</th><th>EventType</th><th>Details</th></tr></thead><tbody>' + ds + '</tbody></table></details>';
-    }
-  } catch(e) { console.error(e); }
-
-  // expose for console inspection
-  window.__FS25_REPORT__ = { index: index, tables: tables };
-  show('Finished loading parts. Table counts: ' + JSON.stringify(Object.fromEntries(Object.keys(tables).map(k=>[k, (tables[k]||[]).length]))));
-});
-</script>
+    loadReport();
+    </script>
 </body>
 </html>
