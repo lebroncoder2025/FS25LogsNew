@@ -32,6 +32,7 @@ jobs:
 
       - name: Run analyzer
         run: |
+          set -x
           python3 logs_analyzer.py
 
       - name: Commit updated index.html
