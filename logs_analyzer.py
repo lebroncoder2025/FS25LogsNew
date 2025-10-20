@@ -9,6 +9,7 @@ from datetime import datetime
 from collections import Counter
 import pandas as pd
 import logging
+import traceback
 
 # Konfiguracja logging
 os.makedirs("logs", exist_ok=True)
@@ -1145,24 +1146,29 @@ document.addEventListener('DOMContentLoaded', () => {
         logging.error(f"❌ Błąd w generate_html_report: {e}")
 
 # Główna funkcja
-def main():
-    try:
-        download_logs(FTP_DIR)
-        download_logs(FTP_DIR2)
-        events, event_counts = analyze_logs()
-        errors, warnings, warning_types, mod_issues, sessions_df, admin_cmds = detect_errors_and_stats(events)
-        df_saves, save_charts = handle_saves(events)
-        warning_charts = monitor_and_predict(warnings)
-        other_charts = generate_charts(pd.DataFrame(events), sessions_df, admin_cmds)
-        df = export_data(events, sessions_df)
-        mod_charts = export_mod_issues(df, mod_issues)
-        other_charts.update(mod_charts)
-        generate_html_report(events, event_counts, errors, warnings, warning_types, mod_issues, sessions_df, admin_cmds, save_charts, warning_charts, other_charts)
-        logging.info("✅ Analiza zakończona pomyślnie.")
-    except Exception as e:
-        with open(ERROR_LOG, "a", encoding="utf-8") as f:
-            f.write(f"{datetime.now()}: Błąd w main: {e}\n{traceback.format_exc()}\n")
-        logging.error(f"❌ Błąd w main: {e}")
+try:
+    def main():
+        try:
+            download_logs(FTP_DIR)
+            download_logs(FTP_DIR2)
+            events, event_counts = analyze_logs()
+            errors, warnings, warning_types, mod_issues, sessions_df, admin_cmds = detect_errors_and_stats(events)
+            df_saves, save_charts = handle_saves(events)
+            warning_charts = monitor_and_predict(warnings)
+            other_charts = generate_charts(pd.DataFrame(events), sessions_df, admin_cmds)
+            df = export_data(events, sessions_df)
+            mod_charts = export_mod_issues(df, mod_issues)
+            other_charts.update(mod_charts)
+            generate_html_report(events, event_counts, errors, warnings, warning_types, mod_issues, sessions_df, admin_cmds, save_charts, warning_charts, other_charts)
+            logging.info("✅ Analiza zakończona pomyślnie.")
+        except Exception as e:
+            with open(ERROR_LOG, "a", encoding="utf-8") as f:
+                f.write(f"{datetime.now()}: Błąd w main: {e}\n{traceback.format_exc()}\n")
+            logging.error(f"❌ Błąd w main: {e}")
 
-if __name__ == "__main__":
-    main()
+    if __name__ == "__main__":
+        main()
+        
+except Exception as e:
+    print("❌ Błąd:", e)
+    traceback.print_exc()
