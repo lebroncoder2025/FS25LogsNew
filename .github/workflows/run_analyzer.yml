@@ -12,23 +12,32 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v3
 
-      - name: Set up Python
+      - name: Set up Python 3.11
         uses: actions/setup-python@v4
         with:
-          python-version: '3.9.0'
+          python-version: '3.11.6'
+          architecture: 'x64'
+
+      - name: Check Python version and path
+        run: |
+          which python
+          which python3
+          python --version
+          python3 --version
 
       - name: Install dependencies
         run: |
-          pip install -r requirements.txt
+          python3 -m pip install --upgrade pip
+          python3 -m pip install -r requirements.txt
 
       - name: Run analyzer
         run: |
-          python logs_analyzer.py
+          python3 logs_analyzer.py
 
       - name: Commit updated index.html
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
           git add index.html
-          git commit -m "Auto update $(date)"
+          git commit -m "Auto update $(date)" || echo "No changes to commit"
           git push
