@@ -12,7 +12,7 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v3
 
-      - name: Set up Python 3.11
+      - name: Set up Python 3.9
         uses: actions/setup-python@v4
         with:
           python-version: '3.9.13'
@@ -29,9 +29,6 @@ jobs:
         run: |
           python3 -m pip install --upgrade pip
           python3 -m pip install -r requirements.txt
-          
-      - name: List files
-        run: ls -la
 
       - name: Run analyzer
         env:
@@ -43,6 +40,17 @@ jobs:
           FTP_PORT: ${{ secrets.FTP_PORT }}
         run: |
           python3 logs_analyzer.py
+
+      - name: Show logs
+        run: |
+          echo "📄 software_logs.log:"
+          cat logs/software_logs.log || echo "Brak logs/software_logs.log"
+
+          echo "📄 error_log.txt:"
+          cat logs/error_log.txt || echo "Brak logs/error_log.txt"
+
+          echo "📄 debug.txt:"
+          cat debug.txt || echo "Brak debug.txt"
 
       - name: Commit updated index.html
         run: |

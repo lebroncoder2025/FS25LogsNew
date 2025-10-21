@@ -11,8 +11,22 @@ import pandas as pd
 import logging
 import traceback
 
-# Konfiguracja logging
+# Awaryjny wpis do debug.txt
+with open("debug.txt", "a", encoding="utf-8") as f:
+    f.write("✅ Skrypt uruchomiony\n")
+
+# Foldery
 os.makedirs("logs", exist_ok=True)
+LOG_DIR = "log_cache"
+REPORT_DIR = "report"
+os.makedirs(LOG_DIR, exist_ok=True)
+os.makedirs(REPORT_DIR, exist_ok=True)
+
+# Pliki do logowania
+ERROR_LOG = os.path.join("logs", "error_log.txt")
+UNPARSED_LOG = os.path.join("logs", "unparsed_lines.txt")
+
+# Konfiguracja logging
 logging.basicConfig(
     filename="logs/software_logs.log",
     level=logging.INFO,
@@ -20,23 +34,24 @@ logging.basicConfig(
     encoding="utf-8"
 )
 
-# Przekierowanie stdout do logging
+# Przekierowanie stdout/stderr do logging
 class LoggerWriter:
     def __init__(self, logger, level):
         self.logger = logger
         self.level = level
 
     def write(self, message):
-        if message.rstrip() != "":
+        if message.rstrip():
             self.logger.log(self.level, message.rstrip())
 
     def flush(self):
-        pass
+        for handler in self.logger.handlers:
+            handler.flush()
 
 sys.stdout = LoggerWriter(logging.getLogger(), logging.INFO)
 sys.stderr = LoggerWriter(logging.getLogger(), logging.ERROR)
 
-
+# Zmienne środowiskowe
 FTP_HOST = os.environ.get("FTP_HOST")
 FTP_PORT = int(os.environ.get("FTP_PORT", "21"))
 FTP_USER = os.environ.get("FTP_USER")
@@ -44,15 +59,7 @@ FTP_PASS = os.environ.get("FTP_PASS")
 FTP_DIR = os.environ.get("FTP_DIR")
 FTP_DIR2 = os.environ.get("FTP_DIR2")
 
-# Foldery
-LOG_DIR = "log_cache"
-os.makedirs(LOG_DIR, exist_ok=True)
-REPORT_DIR = ""
-os.makedirs(REPORT_DIR, exist_ok=True)
-
-# Pliki do logowania
-ERROR_LOG = os.path.join("logs", "error_log.txt")
-UNPARSED_LOG = os.path.join("logs", "unparsed_lines.txt")
+print("✅ Konfiguracja zakończona — startuję analizę...")
 
 # Wzorce do parsowania
 TIMESTAMP = re.compile(r"(\d{4}-\d{2}-\d{2} \d{2}:\d{2}:\d{2}\.\d{3})")
