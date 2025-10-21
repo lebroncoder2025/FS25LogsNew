@@ -6558,3 +6558,24 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-10-21 15:05:50.737 FS25_UnloadBalesEarly: Done sending new settings
 2025-10-21 15:16:16.679   Info: Super Strength disabled by Jolero
 2025-10-21 15:25:02.994 Game saved successfully (savegame1).
+2025-10-21 15:36:54.386 zone joined the game
+2025-10-21 15:36:54.408 FS25_UnloadBalesEarly: Sending new settings
+2025-10-21 15:36:54.408 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-21 15:36:54.410 FS25_UnloadBalesEarly: Sending new settings
+2025-10-21 15:36:54.410 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-21 15:36:54.521 dataS/character/playerM/jacket/caseIH/caseIHTop.i3d (119.12 ms)
+2025-10-21 15:36:54.528 dataS/character/playerM/attachments/caseIHhat.i3d (6.42 ms)
+2025-10-21 15:36:54.567 dataS/character/playerM/hairStyles/hairStyleFringe.i3d (37.95 ms)
+2025-10-21 15:37:11.348 FS25_UnloadBalesEarly: Sending new settings
+2025-10-21 15:37:11.348 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-21 15:37:11.350 FS25_UnloadBalesEarly: Sending new settings
+2025-10-21 15:37:11.350 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-21 15:37:11.350 FS25_UnloadBalesEarly: Sending new settings
+2025-10-21 15:37:11.350 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-21 15:37:11.350 FS25_UnloadBalesEarly: Sending new settings
+2025-10-21 15:37:11.350 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-21 15:39:29.240 Game saved successfully (savegame1).
+2025-10-21 15:40:34.036 data/objects/pallets/liquidTank/liquidTank.i3d (1.19 ms)
+2025-10-21 15:41:48.989 data/objects/pallets/liquidTank/liquidTank.i3d (1.51 ms)
+2025-10-21 15:44:22.832 data/objects/pallets/liquidTank/liquidTank.i3d (1.20 ms)
+2025-10-21 15:44:22.875 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_lsfmBigBagPack/objects/bigBag/bigBag.i3d (3.52 ms)
