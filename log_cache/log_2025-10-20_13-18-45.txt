@@ -6612,3 +6612,33 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-10-21 16:13:33.168 dataS/character/playerM/pants/botLeather.i3d (25.32 ms)
 2025-10-21 16:13:33.398 dataS/character/playerM/heads/mHead03.i3d (229.24 ms)
 2025-10-21 16:13:33.434 dataS/character/playerM/hairStyles/hairStyleMidParted01.i3d (36.17 ms)
+2025-10-21 16:25:04.508 Game saved successfully (savegame1).
+2025-10-21 16:25:51.732 Piotrek joined the game
+2025-10-21 16:25:51.760 FS25_UnloadBalesEarly: Sending new settings
+2025-10-21 16:25:51.760 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-21 16:25:51.761 FS25_UnloadBalesEarly: Sending new settings
+2025-10-21 16:25:51.761 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-21 16:25:51.762 dataS/character/playerM/pants/botJeanShorts.i3d (16.56 ms)
+2025-10-21 16:25:51.763 FS25_UnloadBalesEarly: Sending new settings
+2025-10-21 16:25:51.763 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-21 16:25:51.763 FS25_UnloadBalesEarly: Sending new settings
+2025-10-21 16:25:51.763 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-21 16:25:51.824 dataS/character/playerM/shirts/topTankTop.i3d (61.97 ms)
+2025-10-21 16:25:51.830 dataS/character/playerM/gloves/glovesGeneric.i3d (5.65 ms)
+2025-10-21 16:25:51.841 dataS/character/playerM/attachments/headgearCowboy.i3d (11.09 ms)
+2025-10-21 16:26:10.440 FS25_UnloadBalesEarly: Sending new settings
+2025-10-21 16:26:10.440 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-21 16:26:10.441 FS25_UnloadBalesEarly: Sending new settings
+2025-10-21 16:26:10.441 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-21 16:26:10.442 FS25_UnloadBalesEarly: Sending new settings
+2025-10-21 16:26:10.442 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-21 16:26:10.442 FS25_UnloadBalesEarly: Sending new settings
+2025-10-21 16:26:10.442 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-21 16:26:10.442 FS25_UnloadBalesEarly: Sending new settings
+2025-10-21 16:26:10.442 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-21 16:26:10.442 FS25_UnloadBalesEarly: Sending new settings
+2025-10-21 16:26:10.442 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-21 16:34:21.790 Warning: Saving while already saving
+2025-10-21 16:34:23.660 Game saved successfully (savegame1).
+2025-10-21 16:34:23.837 Jolero left the game
+2025-10-21 16:35:10.325 symonixprime serwerkaput lost connection to the game
