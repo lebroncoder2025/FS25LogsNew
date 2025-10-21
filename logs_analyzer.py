@@ -1142,6 +1142,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
 def main():
     try:
+        print("✅ Skrypt uruchomiony — zaczynam analizę...")
         download_logs(FTP_DIR)
         download_logs(FTP_DIR2)
         events, event_counts = analyze_logs()
