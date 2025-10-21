@@ -6987,3 +6987,7 @@ LUA call stack:
 2025-10-21 22:30:53.793 Figuana lost connection to the game
 2025-10-21 22:31:46.648 Kuno lis lost connection to the game
 2025-10-21 22:38:04.776 Game saved successfully (savegame1).
+2025-10-21 22:46:27.714 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_TowingChain/hook.i3d (1.13 ms)
+2025-10-21 22:49:37.858 zwierek left the game
+2025-10-21 22:50:14.068 siejA lost connection to the game
+2025-10-21 23:08:16.447 Game saved successfully (savegame1).
