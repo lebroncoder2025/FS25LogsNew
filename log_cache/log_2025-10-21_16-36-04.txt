@@ -5316,3 +5316,43 @@ LUA call stack:
 2025-10-21 18:42:25.157 data/objects/pallets/liquidTank/liquidTank.i3d (1.47 ms)
 2025-10-21 18:42:42.929 data/objects/pallets/liquidTank/liquidTank.i3d (1.43 ms)
 2025-10-21 18:42:42.930 data/objects/bigBagPallet/bigBagPallet.i3d (1.37 ms)
+2025-10-21 18:42:51.378 data/objects/bigBagPallet/bigBagPallet.i3d (1.63 ms)
+2025-10-21 18:42:52.372 data/objects/pallets/liquidTank/liquidTank.i3d (1.49 ms)
+2025-10-21 18:47:30.085 Warning: Send called with unknown target address.
+2025-10-21 18:47:30.090 siejA left the game
+2025-10-21 19:05:26.680   Info: No 'ExhaustExtension' particle system added to vehicle 'Kärcher HDS 9/18-4 M' because it has no exhaust
+2025-10-21 19:07:48.799 Game saved successfully (savegame1).
+2025-10-21 19:10:26.271 siejA joined the game
+2025-10-21 19:10:26.294 FS25_UnloadBalesEarly: Sending new settings
+2025-10-21 19:10:26.294 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-21 19:10:26.296 FS25_UnloadBalesEarly: Sending new settings
+2025-10-21 19:10:26.296 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-21 19:10:26.297 FS25_UnloadBalesEarly: Sending new settings
+2025-10-21 19:10:26.297 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-21 19:10:26.297 FS25_UnloadBalesEarly: Sending new settings
+2025-10-21 19:10:26.297 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-21 19:10:26.396 dataS/character/playerM/fullBody/strauss/motion2020PantsVariant2ndVariant.i3d (107.53 ms)
+2025-10-21 19:10:36.335 FS25_UnloadBalesEarly: Sending new settings
+2025-10-21 19:10:36.335 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-21 19:10:36.336 FS25_UnloadBalesEarly: Sending new settings
+2025-10-21 19:10:36.336 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-21 19:10:36.336 FS25_UnloadBalesEarly: Sending new settings
+2025-10-21 19:10:36.336 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-21 19:10:36.336 FS25_UnloadBalesEarly: Sending new settings
+2025-10-21 19:10:36.336 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-21 19:10:36.336 FS25_UnloadBalesEarly: Sending new settings
+2025-10-21 19:10:36.336 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-21 19:10:36.336 FS25_UnloadBalesEarly: Sending new settings
+2025-10-21 19:10:36.336 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-21 19:15:48.892   Info: Successfully set fill unit 1 of KRONE Turbo 2500 to Grass with a fill level of 25,000 liters.
+2025-10-21 19:19:41.627 Figuana joined the game
+2025-10-21 19:19:41.663 FS25_UnloadBalesEarly: Sending new settings
+2025-10-21 19:19:41.663 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-21 19:19:41.665 FS25_UnloadBalesEarly: Sending new settings
+2025-10-21 19:19:41.665 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-21 19:19:41.666 FS25_UnloadBalesEarly: Sending new settings
+2025-10-21 19:19:41.666 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-21 19:19:41.667 FS25_UnloadBalesEarly: Sending new settings
+2025-10-21 19:19:41.667 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-21 19:19:41.667 FS25_UnloadBalesEarly: Sending new settings
+2025-10-21 19:19:41.668 FS25_UnloadBalesEarly: Done sending new settings
