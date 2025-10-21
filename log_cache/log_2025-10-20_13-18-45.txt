@@ -6556,3 +6556,5 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-10-21 15:05:50.737 FS25_UnloadBalesEarly: Done sending new settings
 2025-10-21 15:05:50.737 FS25_UnloadBalesEarly: Sending new settings
 2025-10-21 15:05:50.737 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-21 15:16:16.679   Info: Super Strength disabled by Jolero
+2025-10-21 15:25:02.994 Game saved successfully (savegame1).
