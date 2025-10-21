@@ -6456,3 +6456,78 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-10-21 12:24:40.154 Game saved successfully (savegame1).
 2025-10-21 12:54:40.321 Game saved successfully (savegame1).
 2025-10-21 13:06:07.552 zwierek left the game
+2025-10-21 13:24:51.484 Game saved successfully (savegame1).
+2025-10-21 13:55:01.468 Game saved successfully (savegame1).
+2025-10-21 14:12:13.389 Jolero joined the game
+2025-10-21 14:12:13.591 dataS/character/playerM/shirts/topTShirt01.i3d (2.11 ms)
+2025-10-21 14:12:13.634 dataS/character/playerM/hairStyles/hairStyleTopKnot.i3d (42.66 ms)
+2025-10-21 14:12:13.656 dataS/character/playerM/facialHair/mHead01/goatee01.i3d (22.65 ms)
+2025-10-21 14:12:31.282 FS25_UnloadBalesEarly: Sending new settings
+2025-10-21 14:12:31.282 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-21 14:12:31.284 FS25_UnloadBalesEarly: Sending new settings
+2025-10-21 14:12:31.284 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-21 14:12:46.982 zwierek joined the game
+2025-10-21 14:12:47.015 dataS/character/playerM/pants/botJeanShorts.i3d (16.37 ms)
+2025-10-21 14:12:47.016 dataS/character/playerM/attachments/glassesAviators.i3d (0.85 ms)
+2025-10-21 14:12:47.017 FS25_UnloadBalesEarly: Sending new settings
+2025-10-21 14:12:47.017 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-21 14:12:47.107 dataS/character/playerM/shoes/sandalM03.i3d (91.71 ms)
+2025-10-21 14:12:47.137 dataS/character/playerM/hairStyles/hairStyleBaldTop.i3d (29.29 ms)
+2025-10-21 14:12:47.145 dataS/character/playerM/facialHair/mHead01/walrusXL.i3d (7.96 ms)
+2025-10-21 14:13:07.730 FS25_UnloadBalesEarly: Sending new settings
+2025-10-21 14:13:07.730 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-21 14:13:07.732 FS25_UnloadBalesEarly: Sending new settings
+2025-10-21 14:13:07.732 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-21 14:13:07.732 FS25_UnloadBalesEarly: Sending new settings
+2025-10-21 14:13:07.732 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-21 14:13:23.196   Info: [Easy Development Controls] User Jolero has logged in as master user.
+2025-10-21 14:25:01.463 Game saved successfully (savegame1).
+2025-10-21 14:30:29.800 zwierek left the game
+2025-10-21 14:31:06.713   Info: Moved 4 vehicles to coordinates 920, 882 successfully.
+2025-10-21 14:31:53.165   Info: Moved 4 vehicles to coordinates 620, 802 successfully.
+2025-10-21 14:32:11.672   Info: Super Strength enabled by Jolero
+2025-10-21 14:33:21.628   Info: Moved 4 vehicles to coordinates 917, 884 successfully.
+2025-10-21 14:34:08.161   Info: Moved 4 vehicles to coordinates 620, 799 successfully.
+2025-10-21 14:34:40.034   Info: Moved 4 vehicles to coordinates 920, 889 successfully.
+2025-10-21 14:35:24.712   Info: Moved 4 vehicles to coordinates 627, 799 successfully.
+2025-10-21 14:35:39.850 Next available Farm ID identified:
+2025-10-21 14:35:39.850 9.000000
+2025-10-21 14:35:39.851 FarmID => 9
+2025-10-21 14:35:39.851 newFarm FarmID => 9
+2025-10-21 14:36:10.079 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_NewHollandT8_Frontloader/t8.i3d (99.17 ms)
+2025-10-21 14:36:10.225 data/shared/wheels/tires/trelleborg/TM1000/600_70R30.i3d (1.85 ms)
+2025-10-21 14:36:10.227 data/shared/wheels/tires/trelleborg/TM1000/710_75R42.i3d (1.38 ms)
+2025-10-21 14:36:10.345 data/shared/assets/upperLinks/walterscheidHO_140_750.i3d (1.50 ms)
+2025-10-21 14:36:10.346 data/shared/assets/upperLinks/walterscheidSO_65_560.i3d (0.87 ms)
+2025-10-21 14:36:10.473 data/vehicles/caseIH/shared/displays/displays.i3d (2.76 ms)
+2025-10-21 14:36:12.813   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'New Holland T8.435 GENESIS'
+2025-10-21 14:36:23.335 data/vehicles/bergmann/shuttle490S/shuttle490S.i3d (47.15 ms)
+2025-10-21 14:36:23.485 data/shared/wheels/tires/trelleborg/TwinRadial/710_50R26_5.i3d (2.54 ms)
+2025-10-21 14:36:23.491 data/shared/wheels/tires/trelleborg/T510/16x6_50R8.i3d (0.97 ms)
+2025-10-21 14:36:23.537 data/shared/assets/lights/lizard/rearLight23.i3d (2.15 ms)
+2025-10-21 14:36:23.539 data/shared/assets/lights/lizard/rearLight13.i3d (1.53 ms)
+2025-10-21 14:36:23.678 data/shared/assets/powerTakeOffs/walterscheidWWZ.i3d (2.08 ms)
+2025-10-21 14:36:46.611   Info: Moved 2 vehicles to coordinates 616, 809 successfully.
+2025-10-21 14:37:12.744   Info: Moved 2 vehicles to coordinates 921, 882 successfully.
+2025-10-21 14:37:54.875   Info: Moved 2 vehicles to coordinates 582, 793 successfully.
+2025-10-21 14:39:18.872   Info: Moved 2 vehicles to coordinates 922, 886 successfully.
+2025-10-21 14:39:26.088   Info: Moved 2 vehicles to coordinates 922, 886 successfully.
+2025-10-21 14:39:44.172 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Krone_R100/i3d/Krone_R100.i3d (509.03 ms)
+2025-10-21 14:39:44.335 data/shared/wheels/tires/bkt/sierraMaxPro/25x8R12.i3d (2.71 ms)
+2025-10-21 14:39:44.368 data/shared/assets/lights/lizard/workingLight19.i3d (2.25 ms)
+2025-10-21 14:39:44.369 data/shared/assets/reflectors/lizard/whiteRound_03.i3d (0.69 ms)
+2025-10-21 14:39:44.369 data/shared/assets/reflectors/lizard/redRound_03.i3d (0.62 ms)
+2025-10-21 14:39:54.856   Info: Moved 2 vehicles to coordinates 1206, 585 successfully.
+2025-10-21 14:40:26.664   Info: Added € 10,000 to farm account. (3)
+2025-10-21 14:40:43.632 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Krone_R100/i3d/Krone_R100.i3d (201.12 ms)
+2025-10-21 14:40:43.797 data/shared/wheels/tires/bkt/sierraMaxPro/25x8R12.i3d (1.72 ms)
+2025-10-21 14:40:43.830 data/shared/assets/lights/lizard/workingLight19.i3d (1.43 ms)
+2025-10-21 14:40:43.831 data/shared/assets/reflectors/lizard/whiteRound_03.i3d (0.70 ms)
+2025-10-21 14:40:43.832 data/shared/assets/reflectors/lizard/redRound_03.i3d (0.61 ms)
+2025-10-21 14:43:02.726   Info: Moved 2 vehicles to coordinates 620, 792 successfully.
+2025-10-21 14:43:43.267   Info: Moved 2 vehicles to coordinates 925, 758 successfully.
+2025-10-21 14:45:47.975   Info: Moved 2 vehicles to coordinates 583, 851 successfully.
+2025-10-21 14:46:30.159   Info: Moved 2 vehicles to coordinates 898, 774 successfully.
+2025-10-21 14:47:40.644   Info: Moved 2 vehicles to coordinates 603, 855 successfully.
+2025-10-21 14:47:46.730   Info: Moved 2 vehicles to coordinates 594, 848 successfully.
+2025-10-21 14:48:04.378   Info: Successfully set fill unit 1 of BERGMANN SHUTTLE 490 S to Grass with a fill level of 49,500 liters.
