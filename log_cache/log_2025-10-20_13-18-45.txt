@@ -6579,3 +6579,36 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-10-21 15:41:48.989 data/objects/pallets/liquidTank/liquidTank.i3d (1.51 ms)
 2025-10-21 15:44:22.832 data/objects/pallets/liquidTank/liquidTank.i3d (1.20 ms)
 2025-10-21 15:44:22.875 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_lsfmBigBagPack/objects/bigBag/bigBag.i3d (3.52 ms)
+2025-10-21 15:49:50.718 data/placeables/brandless/greenhouses/greenHouseMushrooms/greenHouseMushroomsSmall.i3d (11.38 ms)
+2025-10-21 15:49:50.793 data/placeables/brandless/greenhouses/vegetables/enoki/enoki.i3d (4.08 ms)
+2025-10-21 15:49:50.797 data/placeables/brandless/greenhouses/vegetables/oyster/oyster.i3d (3.59 ms)
+2025-10-21 15:50:59.453 data/objects/pallets/liquidTank/liquidTank.i3d (1.17 ms)
+2025-10-21 15:51:10.336   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'STEYR 8130 Super Elite'
+2025-10-21 15:55:03.530 Game saved successfully (savegame1).
+2025-10-21 15:57:18.798 data/objects/pallets/liquidTank/liquidTank.i3d (1.20 ms)
+2025-10-21 15:57:46.767 data/objects/pallets/liquidTank/liquidTank.i3d (1.35 ms)
+2025-10-21 15:58:22.252 data/placeables/brandless/waterTanks/level01/waterTankLevel01.i3d (6.09 ms)
+2025-10-21 16:00:37.982 data/placeables/brandless/waterTanks/level01/waterTankLevel01.i3d (1.28 ms)
+2025-10-21 16:03:48.808 data/objects/pallets/liquidTank/liquidTank.i3d (1.14 ms)
+2025-10-21 16:04:40.258 siejA joined the game
+2025-10-21 16:04:40.283 FS25_UnloadBalesEarly: Sending new settings
+2025-10-21 16:04:40.283 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-21 16:04:40.284 FS25_UnloadBalesEarly: Sending new settings
+2025-10-21 16:04:40.284 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-21 16:04:40.285 FS25_UnloadBalesEarly: Sending new settings
+2025-10-21 16:04:40.285 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-21 16:04:40.406 dataS/character/playerM/fullBody/strauss/motion2020PantsVariant2ndVariant.i3d (132.37 ms)
+2025-10-21 16:05:07.470 FS25_UnloadBalesEarly: Sending new settings
+2025-10-21 16:05:07.470 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-21 16:05:07.472 FS25_UnloadBalesEarly: Sending new settings
+2025-10-21 16:05:07.472 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-21 16:05:07.472 FS25_UnloadBalesEarly: Sending new settings
+2025-10-21 16:05:07.472 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-21 16:05:07.472 FS25_UnloadBalesEarly: Sending new settings
+2025-10-21 16:05:07.472 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-21 16:05:07.472 FS25_UnloadBalesEarly: Sending new settings
+2025-10-21 16:05:07.472 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-21 16:07:36.012 data/objects/pallets/liquidTank/liquidTank.i3d (1.17 ms)
+2025-10-21 16:13:33.168 dataS/character/playerM/pants/botLeather.i3d (25.32 ms)
+2025-10-21 16:13:33.398 dataS/character/playerM/heads/mHead03.i3d (229.24 ms)
+2025-10-21 16:13:33.434 dataS/character/playerM/hairStyles/hairStyleMidParted01.i3d (36.17 ms)
