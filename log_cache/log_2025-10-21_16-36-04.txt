@@ -5372,3 +5372,64 @@ LUA call stack:
 2025-10-21 19:20:38.302 FS25_UnloadBalesEarly: Done sending new settings
 2025-10-21 19:23:57.617   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Ursus C-385A Fast transmission'
 2025-10-21 19:24:01.546   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Massey Ferguson 310'
+2025-10-21 19:37:50.887 Game saved successfully (savegame1).
+2025-10-21 19:40:39.257 M@rcin joined the game
+2025-10-21 19:40:39.282 FS25_UnloadBalesEarly: Sending new settings
+2025-10-21 19:40:39.282 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-21 19:40:39.284 FS25_UnloadBalesEarly: Sending new settings
+2025-10-21 19:40:39.284 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-21 19:40:39.284 FS25_UnloadBalesEarly: Sending new settings
+2025-10-21 19:40:39.284 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-21 19:40:39.285 FS25_UnloadBalesEarly: Sending new settings
+2025-10-21 19:40:39.285 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-21 19:40:39.286 FS25_UnloadBalesEarly: Sending new settings
+2025-10-21 19:40:39.286 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-21 19:40:39.290 dataS/character/playerM/jacket/topAviatorJacket.i3d (17.41 ms)
+2025-10-21 19:40:39.322 dataS/character/playerM/hairStyles/hairStyleDiablo.i3d (31.61 ms)
+2025-10-21 19:40:39.324 dataS/character/playerM/facialHair/mHead01/beardStubble.i3d (1.17 ms)
+2025-10-21 19:40:56.146 FS25_UnloadBalesEarly: Sending new settings
+2025-10-21 19:40:56.146 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-21 19:40:56.147 FS25_UnloadBalesEarly: Sending new settings
+2025-10-21 19:40:56.147 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-21 19:40:56.147 FS25_UnloadBalesEarly: Sending new settings
+2025-10-21 19:40:56.147 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-21 19:40:56.147 FS25_UnloadBalesEarly: Sending new settings
+2025-10-21 19:40:56.147 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-21 19:40:56.147 FS25_UnloadBalesEarly: Sending new settings
+2025-10-21 19:40:56.147 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-21 19:40:56.147 FS25_UnloadBalesEarly: Sending new settings
+2025-10-21 19:40:56.147 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-21 19:40:56.147 FS25_UnloadBalesEarly: Sending new settings
+2025-10-21 19:40:56.147 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-21 19:42:32.618   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'STEYR 8130 Turbo'
+2025-10-21 19:43:18.366 Warning: Send called with unknown target address.
+2025-10-21 19:43:18.373 siejA left the game
+2025-10-21 19:59:20.436 M@rcin left the game
+2025-10-21 20:07:53.432 Game saved successfully (savegame1).
+2025-10-21 20:10:53.722 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.81 ms)
+2025-10-21 20:10:53.776 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_mrhHandLiftableConsumables/bagsStack/bagsStack.i3d (1.31 ms)
+2025-10-21 20:28:25.730 M@rcin joined the game
+2025-10-21 20:28:25.755 FS25_UnloadBalesEarly: Sending new settings
+2025-10-21 20:28:25.755 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-21 20:28:25.757 FS25_UnloadBalesEarly: Sending new settings
+2025-10-21 20:28:25.757 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-21 20:28:25.758 FS25_UnloadBalesEarly: Sending new settings
+2025-10-21 20:28:25.758 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-21 20:28:25.759 FS25_UnloadBalesEarly: Sending new settings
+2025-10-21 20:28:25.759 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-21 20:28:25.765 dataS/character/playerM/jacket/topAviatorJacket.i3d (17.60 ms)
+2025-10-21 20:28:25.796 dataS/character/playerM/hairStyles/hairStyleDiablo.i3d (31.45 ms)
+2025-10-21 20:28:25.798 dataS/character/playerM/facialHair/mHead01/beardStubble.i3d (1.16 ms)
+2025-10-21 20:28:45.208 FS25_UnloadBalesEarly: Sending new settings
+2025-10-21 20:28:45.208 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-21 20:28:45.209 FS25_UnloadBalesEarly: Sending new settings
+2025-10-21 20:28:45.209 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-21 20:28:45.209 FS25_UnloadBalesEarly: Sending new settings
+2025-10-21 20:28:45.209 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-21 20:28:45.209 FS25_UnloadBalesEarly: Sending new settings
+2025-10-21 20:28:45.209 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-21 20:28:45.209 FS25_UnloadBalesEarly: Sending new settings
+2025-10-21 20:28:45.209 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-21 20:28:45.210 FS25_UnloadBalesEarly: Sending new settings
+2025-10-21 20:28:45.210 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-21 20:29:01.868 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_HayLoft/Dmuchawa1_5M.i3d (2.67 ms)
