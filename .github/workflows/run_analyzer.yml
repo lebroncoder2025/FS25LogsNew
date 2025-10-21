@@ -31,8 +31,14 @@ jobs:
           python3 -m pip install -r requirements.txt
 
       - name: Run analyzer
+        env:
+          FTP_HOST: ${{ secrets.FTP_HOST }}
+          FTP_USER: ${{ secrets.FTP_USER }}
+          FTP_PASS: ${{ secrets.FTP_PASS }}
+          FTP_DIR: ${{ secrets.FTP_DIR }}
+          FTP_DIR2: ${{ secrets.FTP_DIR2 }}
+          FTP_PORT: ${{ secrets.FTP_PORT }}
         run: |
-          set -x
           python3 logs_analyzer.py
 
       - name: Commit updated index.html

@@ -36,20 +36,13 @@ class LoggerWriter:
 sys.stdout = LoggerWriter(logging.getLogger(), logging.INFO)
 sys.stderr = LoggerWriter(logging.getLogger(), logging.ERROR)
 
-# Wczytanie konfiguracji FTP z config.json
-try:
-    with open("config.json", "r", encoding="utf-8") as f:
-        config = json.load(f)
-    FTP_HOST = config["FTP_HOST"]
-    FTP_PORT = int(config["FTP_PORT"])
-    FTP_USER = config["FTP_USER"]
-    FTP_PASS = config["FTP_PASS"]
-    FTP_DIR = config["FTP_DIR"]
-    FTP_DIR2 = config["FTP_DIR2"]
-    logging.info("✅ Wczytano konfigurację FTP z config.json")
-except Exception as e:
-    logging.error(f"❌ Błąd wczytywania config.json: {e}")
-    raise
+
+FTP_HOST = os.environ.get("FTP_HOST")
+FTP_PORT = int(os.environ.get("FTP_PORT", "21"))
+FTP_USER = os.environ.get("FTP_USER")
+FTP_PASS = os.environ.get("FTP_PASS")
+FTP_DIR = os.environ.get("FTP_DIR")
+FTP_DIR2 = os.environ.get("FTP_DIR2")
 
 # Foldery
 LOG_DIR = "log_cache"
@@ -1168,7 +1161,7 @@ try:
 
     if __name__ == "__main__":
         main()
-        
+
 except Exception as e:
     print("❌ Błąd:", e)
     traceback.print_exc()
