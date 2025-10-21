@@ -5272,3 +5272,18 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-10-21 17:38:28.680 FS25_UnloadBalesEarly: Done sending new settings
 2025-10-21 17:38:28.680 FS25_UnloadBalesEarly: Sending new settings
 2025-10-21 17:38:28.680 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-21 17:51:47.686 dataS/character/playerF/pants/botChinos.i3d (12.45 ms)
+2025-10-21 17:51:47.789 dataS/character/playerF/heads/fHead06.i3d (102.27 ms)
+2025-10-21 17:51:47.842 dataS/character/playerF/shirts/topBlouse.i3d (53.05 ms)
+2025-10-21 17:51:47.897 dataS/character/playerF/shoes/sneaker01.i3d (2.57 ms)
+2025-10-21 17:51:47.930 dataS/character/playerF/hairStyles/hairStyleMidSideParted.i3d (33.16 ms)
+2025-10-21 17:52:37.542 dataS/character/playerF/pants/botCargo.i3d (18.35 ms)
+2025-10-21 17:52:37.566 dataS/character/playerF/jacket/topVest.i3d (24.15 ms)
+2025-10-21 17:52:37.569 dataS/character/playerF/shoes/workboot02.i3d (2.85 ms)
+2025-10-21 17:52:37.602 dataS/character/playerF/hairStyles/hairStylePonyTail03.i3d (32.94 ms)
+2025-10-21 17:53:18.920 dataS/character/playerM/pants/botLeather.i3d (16.91 ms)
+2025-10-21 17:53:18.949 dataS/character/playerM/jacket/topVest.i3d (29.07 ms)
+2025-10-21 18:07:45.320 Game saved successfully (savegame1).
+2025-10-21 18:10:42.848 symonixprime serwerkaput lost connection to the game
+2025-10-21 18:11:59.492   Info: No 'ExhaustExtension' particle system added to vehicle 'Kärcher HDS 9/18-4 M' because it has no exhaust
+2025-10-21 18:19:10.292 Game saved successfully (savegame1).
