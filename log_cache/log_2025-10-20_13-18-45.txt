@@ -6531,3 +6531,28 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-10-21 14:47:40.644   Info: Moved 2 vehicles to coordinates 603, 855 successfully.
 2025-10-21 14:47:46.730   Info: Moved 2 vehicles to coordinates 594, 848 successfully.
 2025-10-21 14:48:04.378   Info: Successfully set fill unit 1 of BERGMANN SHUTTLE 490 S to Grass with a fill level of 49,500 liters.
+2025-10-21 14:55:03.157 Game saved successfully (savegame1).
+2025-10-21 15:04:10.484   Info: Added € 60,000 to farm account. (3)
+2025-10-21 15:04:15.426 data/vehicles/krone/swadroTS970/swadroTS970.i3d (26.09 ms)
+2025-10-21 15:04:15.566 data/shared/wheels/tires/trelleborg/AW305/380_55R17.i3d (2.16 ms)
+2025-10-21 15:04:15.567 data/shared/wheels/tires/trelleborg/T510/16x6_50R8.i3d (0.93 ms)
+2025-10-21 15:04:15.603 data/shared/assets/lights/krone/kroneRearLight01.i3d (1.53 ms)
+2025-10-21 15:04:15.603 data/shared/assets/lights/lizard/sideMarker06White.i3d (0.69 ms)
+2025-10-21 15:04:15.709 data/shared/assets/powerTakeOffs/walterscheidWWZ.i3d (1.75 ms)
+2025-10-21 15:04:21.053   Info: Moved 3 vehicles to coordinates 1206, 587 successfully.
+2025-10-21 15:04:33.006 symonixprime serwerkaput joined the game
+2025-10-21 15:04:33.037 FS25_UnloadBalesEarly: Sending new settings
+2025-10-21 15:04:33.037 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-21 15:04:33.191 dataS/character/playerM/pants/poettinger/poettingerShort.i3d (173.66 ms)
+2025-10-21 15:04:33.201 dataS/character/playerM/heads/mHead02.i3d (9.71 ms)
+2025-10-21 15:04:33.315 dataS/character/playerM/shirts/topTShirt02.i3d (113.98 ms)
+2025-10-21 15:04:33.406 dataS/character/playerM/shoes/sandalM02.i3d (90.79 ms)
+2025-10-21 15:04:33.421 dataS/character/playerM/facialHair/mHead02/fullBeard.i3d (15.06 ms)
+2025-10-21 15:04:37.526   Info: Moved 4 vehicles to coordinates 689, 726 successfully.
+2025-10-21 15:04:58.719   Info: Removed € 50,999 from farm account. (3)
+2025-10-21 15:05:50.735 FS25_UnloadBalesEarly: Sending new settings
+2025-10-21 15:05:50.736 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-21 15:05:50.737 FS25_UnloadBalesEarly: Sending new settings
+2025-10-21 15:05:50.737 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-21 15:05:50.737 FS25_UnloadBalesEarly: Sending new settings
+2025-10-21 15:05:50.737 FS25_UnloadBalesEarly: Done sending new settings
