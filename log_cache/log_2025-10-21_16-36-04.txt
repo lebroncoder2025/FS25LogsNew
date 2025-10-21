@@ -5245,3 +5245,30 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-10-21 17:20:16.609 FS25_UnloadBalesEarly: Done sending new settings
 2025-10-21 17:20:16.610 FS25_UnloadBalesEarly: Sending new settings
 2025-10-21 17:20:16.610 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-21 17:37:41.871 Game saved successfully (savegame1).
+2025-10-21 17:38:18.306 siejA joined the game
+2025-10-21 17:38:18.332 FS25_UnloadBalesEarly: Sending new settings
+2025-10-21 17:38:18.332 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-21 17:38:18.334 FS25_UnloadBalesEarly: Sending new settings
+2025-10-21 17:38:18.334 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-21 17:38:18.335 FS25_UnloadBalesEarly: Sending new settings
+2025-10-21 17:38:18.335 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-21 17:38:18.335 FS25_UnloadBalesEarly: Sending new settings
+2025-10-21 17:38:18.335 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-21 17:38:18.336 FS25_UnloadBalesEarly: Sending new settings
+2025-10-21 17:38:18.336 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-21 17:38:18.431 dataS/character/playerM/fullBody/strauss/motion2020PantsVariant2ndVariant.i3d (109.60 ms)
+2025-10-21 17:38:28.679 FS25_UnloadBalesEarly: Sending new settings
+2025-10-21 17:38:28.679 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-21 17:38:28.680 FS25_UnloadBalesEarly: Sending new settings
+2025-10-21 17:38:28.680 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-21 17:38:28.680 FS25_UnloadBalesEarly: Sending new settings
+2025-10-21 17:38:28.680 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-21 17:38:28.680 FS25_UnloadBalesEarly: Sending new settings
+2025-10-21 17:38:28.680 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-21 17:38:28.680 FS25_UnloadBalesEarly: Sending new settings
+2025-10-21 17:38:28.680 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-21 17:38:28.680 FS25_UnloadBalesEarly: Sending new settings
+2025-10-21 17:38:28.680 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-21 17:38:28.680 FS25_UnloadBalesEarly: Sending new settings
+2025-10-21 17:38:28.680 FS25_UnloadBalesEarly: Done sending new settings
