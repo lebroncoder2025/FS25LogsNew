@@ -5287,3 +5287,32 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-10-21 18:10:42.848 symonixprime serwerkaput lost connection to the game
 2025-10-21 18:11:59.492   Info: No 'ExhaustExtension' particle system added to vehicle 'Kärcher HDS 9/18-4 M' because it has no exhaust
 2025-10-21 18:19:10.292 Game saved successfully (savegame1).
+2025-10-21 18:34:28.500 
+Script error in getHasClassId: Unknown entity id 5678566 for 'object' in method 'getHasClassId'.
+
+LUA call stack:
+  =[C]:-1 getHasClassId
+  =dataS/scripts/triggers/WoodUnloadTrigger.lua:295 woodTriggerCallback
+2025-10-21 18:34:28.501 
+Script error in getHasClassId: Unknown entity id 5678566 for 'object' in method 'getHasClassId'.
+
+LUA call stack:
+  =[C]:-1 getHasClassId
+  =dataS/scripts/triggers/WoodUnloadTrigger.lua:295 woodTriggerCallback
+2025-10-21 18:34:28.501 
+Script error in getRigidBodyType: Unknown entity id 5678566 for 'object' in method 'getRigidBodyType'.
+
+LUA call stack:
+  =[C]:-1 getRigidBodyType
+  =dataS/scripts/vehicles/specializations/BaleLoader.lua:2875 baleLoaderMoveTriggerCallback
+2025-10-21 18:34:28.501 
+Script error in getRigidBodyType: Unknown entity id 5678566 for 'object' in method 'getRigidBodyType'.
+
+LUA call stack:
+  =[C]:-1 getRigidBodyType
+  =dataS/scripts/vehicles/specializations/BaleWrapper.lua:1141 baleGrabberTriggerCallback
+2025-10-21 18:37:47.284 Game saved successfully (savegame1).
+2025-10-21 18:42:24.061 data/objects/bigBagPallet/bigBagPallet.i3d (1.72 ms)
+2025-10-21 18:42:25.157 data/objects/pallets/liquidTank/liquidTank.i3d (1.47 ms)
+2025-10-21 18:42:42.929 data/objects/pallets/liquidTank/liquidTank.i3d (1.43 ms)
+2025-10-21 18:42:42.930 data/objects/bigBagPallet/bigBagPallet.i3d (1.37 ms)
