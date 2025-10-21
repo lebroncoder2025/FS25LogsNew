@@ -1,0 +1,22 @@
+2025-10-21 11:33:03.879091: Błąd FTP: 
+Traceback (most recent call last):
+  File "/home/runner/work/FS25LogsNew/FS25LogsNew/logs_analyzer.py", line 116, in download_logs
+    ftp.retrlines("MLSD", entries.append)
+  File "/opt/hostedtoolcache/Python/3.9.13/x64/lib/python3.9/ftplib.py", line 462, in retrlines
+    with self.transfercmd(cmd) as conn, \
+  File "/opt/hostedtoolcache/Python/3.9.13/x64/lib/python3.9/ftplib.py", line 393, in transfercmd
+    return self.ntransfercmd(cmd, rest)[0]
+  File "/opt/hostedtoolcache/Python/3.9.13/x64/lib/python3.9/ftplib.py", line 353, in ntransfercmd
+    host, port = self.makepasv()
+  File "/opt/hostedtoolcache/Python/3.9.13/x64/lib/python3.9/ftplib.py", line 327, in makepasv
+    untrusted_host, port = parse227(self.sendcmd('PASV'))
+  File "/opt/hostedtoolcache/Python/3.9.13/x64/lib/python3.9/ftplib.py", line 281, in sendcmd
+    return self.getresp()
+  File "/opt/hostedtoolcache/Python/3.9.13/x64/lib/python3.9/ftplib.py", line 244, in getresp
+    resp = self.getmultiline()
+  File "/opt/hostedtoolcache/Python/3.9.13/x64/lib/python3.9/ftplib.py", line 230, in getmultiline
+    line = self.getline()
+  File "/opt/hostedtoolcache/Python/3.9.13/x64/lib/python3.9/ftplib.py", line 218, in getline
+    raise EOFError
+EOFError
+
