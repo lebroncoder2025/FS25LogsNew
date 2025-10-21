@@ -6442,3 +6442,13 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-10-21 10:24:25.111 Game saved successfully (savegame1).
 2025-10-21 10:54:33.086 Game saved successfully (savegame1).
 2025-10-21 11:24:42.434 Game saved successfully (savegame1).
+2025-10-21 11:31:21.933 zwierek joined the game
+2025-10-21 11:31:22.156 dataS/character/playerM/pants/botJeanShorts.i3d (21.86 ms)
+2025-10-21 11:31:22.157 dataS/character/playerM/attachments/glassesAviators.i3d (0.83 ms)
+2025-10-21 11:31:22.270 dataS/character/playerM/shoes/sandalM03.i3d (112.85 ms)
+2025-10-21 11:31:22.307 dataS/character/playerM/hairStyles/hairStyleBaldTop.i3d (36.81 ms)
+2025-10-21 11:31:22.316 dataS/character/playerM/facialHair/mHead01/walrusXL.i3d (9.65 ms)
+2025-10-21 11:32:16.992 FS25_UnloadBalesEarly: Sending new settings
+2025-10-21 11:32:16.992 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-21 11:32:16.994 FS25_UnloadBalesEarly: Sending new settings
+2025-10-21 11:32:16.994 FS25_UnloadBalesEarly: Done sending new settings
