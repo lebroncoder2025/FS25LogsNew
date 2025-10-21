@@ -10,6 +10,7 @@ from collections import Counter
 import pandas as pd
 import logging
 import traceback
+from zoneinfo import ZoneInfo
 
 # Awaryjny wpis do debug.txt
 with open("debug.txt", "a", encoding="utf-8") as f:
@@ -607,7 +608,7 @@ def generate_html_report(
 ):
     try:
         df = pd.DataFrame(events)
-        report_time = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+        report_time = datetime.now(ZoneInfo("Europe/Warsaw")).strftime("%Y-%m-%d %H:%M:%S")
 
         # Bezpieczne records
         def safe_records(df_obj, cols):
