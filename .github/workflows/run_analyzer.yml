@@ -2,8 +2,9 @@ name: Run FS25 Logs Analyzer
 
 on:
   schedule:
-    - cron: '0 3 * * *'  # codziennie o 3:00 UTC
-  workflow_dispatch:     # ręczne uruchomienie z GitHub UI
+    - cron: '0 * * * *'   # o każdej pełnej godzinie (00, 01, 02, ..., 23)
+    - cron: '30 * * * *'  # o każdej półgodzinie (00:30, 01:30, ..., 23:30)
+  workflow_dispatch:      # ręczne uruchomienie z GitHub UI
 
 permissions:
   contents: write
