@@ -18,7 +18,7 @@ with open("debug.txt", "a", encoding="utf-8") as f:
 # Foldery
 os.makedirs("logs", exist_ok=True)
 LOG_DIR = "log_cache"
-REPORT_DIR = "report"
+REPORT_DIR = "docs"
 os.makedirs(LOG_DIR, exist_ok=True)
 os.makedirs(REPORT_DIR, exist_ok=True)
 
