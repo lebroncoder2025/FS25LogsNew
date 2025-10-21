@@ -5356,3 +5356,19 @@ LUA call stack:
 2025-10-21 19:19:41.667 FS25_UnloadBalesEarly: Done sending new settings
 2025-10-21 19:19:41.667 FS25_UnloadBalesEarly: Sending new settings
 2025-10-21 19:19:41.668 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-21 19:20:21.474 Jolero left the game
+2025-10-21 19:20:21.919 Game saved successfully (savegame1).
+2025-10-21 19:20:38.301 FS25_UnloadBalesEarly: Sending new settings
+2025-10-21 19:20:38.301 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-21 19:20:38.301 FS25_UnloadBalesEarly: Sending new settings
+2025-10-21 19:20:38.301 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-21 19:20:38.301 FS25_UnloadBalesEarly: Sending new settings
+2025-10-21 19:20:38.301 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-21 19:20:38.301 FS25_UnloadBalesEarly: Sending new settings
+2025-10-21 19:20:38.301 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-21 19:20:38.302 FS25_UnloadBalesEarly: Sending new settings
+2025-10-21 19:20:38.302 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-21 19:20:38.302 FS25_UnloadBalesEarly: Sending new settings
+2025-10-21 19:20:38.302 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-21 19:23:57.617   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Ursus C-385A Fast transmission'
+2025-10-21 19:24:01.546   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Massey Ferguson 310'
