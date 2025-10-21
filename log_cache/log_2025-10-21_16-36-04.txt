@@ -6892,3 +6892,9 @@ LUA call stack:
 2025-10-21 21:01:05.812 data/objects/bigBagPallet/bigBagPallet.i3d (1.70 ms)
 2025-10-21 21:07:59.424 Game saved successfully (savegame1).
 2025-10-21 21:17:05.697 M@rcin lost connection to the game
+2025-10-21 21:22:56.329 dataS/character/playerF/pants/botChinos.i3d (12.67 ms)
+2025-10-21 21:22:56.612 dataS/character/playerF/heads/fHead04.i3d (229.23 ms)
+2025-10-21 21:22:56.631 dataS/character/playerF/jacket/topAviatorJacket.i3d (18.54 ms)
+2025-10-21 21:22:56.726 dataS/character/playerF/shoes/laceUpSneaker.i3d (94.57 ms)
+2025-10-21 21:22:56.796 dataS/character/playerF/hairStyles/hairStylePonyTail01.i3d (41.52 ms)
+2025-10-21 21:26:34.851   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'KamAZ 53228(740.13-260)'
