@@ -5,6 +5,9 @@ on:
     - cron: '0 3 * * *'  # codziennie o 3:00 UTC
   workflow_dispatch:     # ręczne uruchomienie z GitHub UI
 
+permissions:
+  contents: write
+
 jobs:
   run-script:
     runs-on: ubuntu-latest
@@ -52,10 +55,11 @@ jobs:
           echo "📄 debug.txt:"
           cat debug.txt || echo "Brak debug.txt"
 
-      - name: Commit updated index.html
+      - name: Commit updated files
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
-          git add index.html
+          git add index.html debug.txt logs/ log_cache/ report/
           git commit -m "Auto update $(date)" || echo "No changes to commit"
-          git push
+          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }} HEAD:main
+
