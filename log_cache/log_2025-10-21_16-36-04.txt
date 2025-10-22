@@ -7008,3 +7008,13 @@ LUA call stack:
 2025-10-22 05:40:26.004 Game saved successfully (savegame1).
 2025-10-22 06:10:36.664 Game saved successfully (savegame1).
 2025-10-22 06:40:46.944 Game saved successfully (savegame1).
+2025-10-22 07:07:52.539 M@rcin joined the game
+2025-10-22 07:07:52.764 dataS/character/playerM/jacket/topAviatorJacket.i3d (26.35 ms)
+2025-10-22 07:07:52.765 dataS/character/playerM/attachments/glassesAviators.i3d (0.81 ms)
+2025-10-22 07:07:52.802 dataS/character/playerM/hairStyles/hairStyleDiablo.i3d (37.14 ms)
+2025-10-22 07:07:52.804 dataS/character/playerM/facialHair/mHead01/beardStubble.i3d (1.16 ms)
+2025-10-22 07:08:47.641 FS25_UnloadBalesEarly: Sending new settings
+2025-10-22 07:08:47.641 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-22 07:08:47.642 FS25_UnloadBalesEarly: Sending new settings
+2025-10-22 07:08:47.642 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-22 07:10:51.146 Game saved successfully (savegame1).
