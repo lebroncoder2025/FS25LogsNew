@@ -7022,3 +7022,33 @@ LUA call stack:
 2025-10-22 07:40:59.554 Game saved successfully (savegame1).
 2025-10-22 08:11:09.136 Game saved successfully (savegame1).
 2025-10-22 08:41:19.031 Game saved successfully (savegame1).
+2025-10-22 09:11:29.406 Game saved successfully (savegame1).
+2025-10-22 09:15:30.937 Jolero joined the game
+2025-10-22 09:15:31.139 dataS/character/playerM/shirts/topTShirt01.i3d (2.09 ms)
+2025-10-22 09:15:31.177 dataS/character/playerM/hairStyles/hairStyleTopKnot.i3d (38.25 ms)
+2025-10-22 09:15:31.197 dataS/character/playerM/facialHair/mHead01/goatee01.i3d (19.32 ms)
+2025-10-22 09:15:52.434 FS25_UnloadBalesEarly: Sending new settings
+2025-10-22 09:15:52.434 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-22 09:15:52.435 FS25_UnloadBalesEarly: Sending new settings
+2025-10-22 09:15:52.435 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-22 09:16:43.197   Info: [Easy Development Controls] User Jolero has logged in as master user.
+2025-10-22 09:20:06.743 Next available Farm ID identified:
+2025-10-22 09:20:06.743 9.000000
+2025-10-22 09:20:06.744 FarmID => 9
+2025-10-22 09:20:06.744 newFarm FarmID => 9
+2025-10-22 09:20:22.242   Info: Moved player to coordinates 1202, 588 successfully.
+2025-10-22 09:20:37.309 data/vehicles/fendt/vario1000/vario1000.i3d (46.53 ms)
+2025-10-22 09:20:37.457 data/shared/wheels/tires/trelleborg/TM1000/650_65R38.i3d (3.42 ms)
+2025-10-22 09:20:37.459 data/shared/wheels/tires/trelleborg/TM1000/750_75R46.i3d (2.52 ms)
+2025-10-22 09:20:37.560 data/shared/assets/beaconLights/lizard/beaconLight13.i3d (1.93 ms)
+2025-10-22 09:20:37.578 data/shared/assets/upperLinks/walterscheidHO_140_750.i3d (1.70 ms)
+2025-10-22 09:20:37.653 data/vehicles/fendt/shared/oneDisplays.i3d (2.24 ms)
+2025-10-22 09:20:41.241   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Fendt 1050 Vario'
+2025-10-22 09:21:12.139 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Krone_ZX560_GD/i3d/ZX560_GD.i3d (337.88 ms)
+2025-10-22 09:21:12.276 data/shared/wheels/tires/michelin/cargoXBib/800_45R26_5.i3d (3.62 ms)
+2025-10-22 09:21:12.281 data/shared/wheels/tires/trelleborg/T510/16x6_50R8.i3d (1.15 ms)
+2025-10-22 09:21:12.323 data/shared/assets/lights/lizard/sideMarker05Red.i3d (1.79 ms)
+2025-10-22 09:21:12.325 data/shared/assets/lights/lizard/rearLight07.i3d (1.98 ms)
+2025-10-22 09:21:12.326 data/shared/assets/reflectors/lizard/yellowRound_01.i3d (0.69 ms)
+2025-10-22 09:21:12.466 data/shared/assets/powerTakeOffs/walterscheidWWZ.i3d (2.15 ms)
+2025-10-22 09:21:37.733   Info: Moved 2 vehicles to coordinates 638, 798 successfully.
