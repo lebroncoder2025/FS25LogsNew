@@ -5109,3 +5109,29 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-10-22 12:40:22.963 FS25_UnloadBalesEarly: Done sending new settings
 2025-10-22 12:40:22.963 FS25_UnloadBalesEarly: Sending new settings
 2025-10-22 12:40:22.963 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-22 12:48:16.273 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_exhaustExtension/particles/smokeParticles.i3d (11.86 ms)
+2025-10-22 12:48:16.273 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_exhaustExtension/particles/smokeEmitterShape.i3d (0.13 ms)
+2025-10-22 12:48:16.274   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Zetor 10145 Fast transmission'
+2025-10-22 12:53:38.789   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Ursus C-385A Fast transmission'
+2025-10-22 12:59:30.205 Game saved successfully (savegame1).
+2025-10-22 13:10:49.346   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'STEYR 8130 Super Elite'
+2025-10-22 13:13:41.074 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_BigCowBarn/BigObora.i3d (207.10 ms)
+2025-10-22 13:13:41.154 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_BigCowBarn/BigObora_navmesh.i3d (0.29 ms)
+2025-10-22 13:15:35.221 szagh joined the game
+2025-10-22 13:15:35.241 dataS/character/playerM/shirts/topTShirt01.i3d (2.05 ms)
+2025-10-22 13:15:35.242 FS25_UnloadBalesEarly: Sending new settings
+2025-10-22 13:15:35.242 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-22 13:15:35.250 dataS/character/playerM/attachments/headgearBeanie.i3d (8.43 ms)
+2025-10-22 13:15:35.251 dataS/character/playerM/attachments/glassesSports01.i3d (1.25 ms)
+2025-10-22 13:15:35.268 dataS/character/playerM/facialHair/mHead01/muttonChops03.i3d (16.60 ms)
+2025-10-22 13:15:52.620 FS25_UnloadBalesEarly: Sending new settings
+2025-10-22 13:15:52.620 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-22 13:15:52.620 FS25_UnloadBalesEarly: Sending new settings
+2025-10-22 13:15:52.620 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-22 13:15:52.620 FS25_UnloadBalesEarly: Sending new settings
+2025-10-22 13:15:52.620 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-22 13:17:13.716   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'KAMA3 6x6 740.62 ZF9'
+2025-10-22 13:17:39.036   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Ford 8930'
+2025-10-22 13:18:07.206   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'KamAZ 53228(740.13-260)'
+2025-10-22 13:18:29.275   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Schäffer  9660 T-2'
+2025-10-22 13:19:11.045 zwierek left the game
