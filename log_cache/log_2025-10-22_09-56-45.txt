@@ -5136,3 +5136,8 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-10-22 13:18:29.275   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Schäffer  9660 T-2'
 2025-10-22 13:19:11.045 zwierek left the game
 2025-10-22 13:29:30.493 Game saved successfully (savegame1).
+2025-10-22 13:40:23.373   Info: [Easy Development Controls] User szagh has logged in as master user.
+2025-10-22 13:59:30.737 Game saved successfully (savegame1).
+2025-10-22 14:26:04.572   Info: Super Strength enabled by szagh
+2025-10-22 14:29:31.169 Game saved successfully (savegame1).
+2025-10-22 14:31:04.299   Info: Super Strength disabled by szagh
