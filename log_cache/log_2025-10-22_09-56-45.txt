@@ -5181,3 +5181,44 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-10-22 15:36:02.648 FS25_UnloadBalesEarly: Sending new settings
 2025-10-22 15:36:02.648 FS25_UnloadBalesEarly: Done sending new settings
 2025-10-22 15:36:40.958   Info: [Easy Development Controls] User Jolero has logged in as master user.
+2025-10-22 15:59:34.997 Game saved successfully (savegame1).
+2025-10-22 16:01:27.358 zwierek joined the game
+2025-10-22 16:01:27.387 dataS/character/playerM/pants/botJeanShorts.i3d (16.38 ms)
+2025-10-22 16:01:27.388 dataS/character/playerM/attachments/glassesAviators.i3d (0.82 ms)
+2025-10-22 16:01:27.392 FS25_UnloadBalesEarly: Sending new settings
+2025-10-22 16:01:27.392 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-22 16:01:27.393 FS25_UnloadBalesEarly: Sending new settings
+2025-10-22 16:01:27.393 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-22 16:01:27.479 dataS/character/playerM/shoes/sandalM03.i3d (90.81 ms)
+2025-10-22 16:01:27.508 dataS/character/playerM/hairStyles/hairStyleBaldTop.i3d (29.35 ms)
+2025-10-22 16:01:27.516 dataS/character/playerM/facialHair/mHead01/walrusXL.i3d (8.18 ms)
+2025-10-22 16:02:17.420 FS25_UnloadBalesEarly: Sending new settings
+2025-10-22 16:02:17.420 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-22 16:02:17.420 FS25_UnloadBalesEarly: Sending new settings
+2025-10-22 16:02:17.420 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-22 16:02:17.420 FS25_UnloadBalesEarly: Sending new settings
+2025-10-22 16:02:17.420 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-22 16:02:17.421 FS25_UnloadBalesEarly: Sending new settings
+2025-10-22 16:02:17.421 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-22 16:15:56.526 zone joined the game
+2025-10-22 16:15:56.553 dataS/character/playerM/heads/mHead02.i3d (13.86 ms)
+2025-10-22 16:15:56.561 FS25_UnloadBalesEarly: Sending new settings
+2025-10-22 16:15:56.561 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-22 16:15:56.561 FS25_UnloadBalesEarly: Sending new settings
+2025-10-22 16:15:56.562 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-22 16:15:56.563 FS25_UnloadBalesEarly: Sending new settings
+2025-10-22 16:15:56.563 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-22 16:15:56.668 dataS/character/playerM/jacket/caseIH/caseIHTop.i3d (115.46 ms)
+2025-10-22 16:15:56.678 dataS/character/playerM/attachments/caseIHhat.i3d (9.57 ms)
+2025-10-22 16:15:56.696 dataS/character/playerM/facialHair/mHead02/fullBeard.i3d (17.62 ms)
+2025-10-22 16:16:13.232 FS25_UnloadBalesEarly: Sending new settings
+2025-10-22 16:16:13.233 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-22 16:16:13.233 FS25_UnloadBalesEarly: Sending new settings
+2025-10-22 16:16:13.233 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-22 16:16:13.233 FS25_UnloadBalesEarly: Sending new settings
+2025-10-22 16:16:13.233 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-22 16:16:13.234 FS25_UnloadBalesEarly: Sending new settings
+2025-10-22 16:16:13.234 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-22 16:16:13.234 FS25_UnloadBalesEarly: Sending new settings
+2025-10-22 16:16:13.234 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-22 16:23:44.050   Info: Successfully emptied fill unit 1 of KRONE Turbo 2500.
