@@ -5347,3 +5347,66 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-10-22 17:29:18.710 FS25_UnloadBalesEarly: Forcing early unload possibility for baler Sipma 'Z279'
 2025-10-22 17:29:39.720 Game saved successfully (savegame1).
 2025-10-22 17:34:17.718 siejA left the game
+2025-10-22 17:52:41.008 wiciu lost connection to the game
+2025-10-22 17:59:40.681 Game saved successfully (savegame1).
+2025-10-22 18:04:52.993 szagh joined the game
+2025-10-22 18:04:53.015 dataS/character/playerM/attachments/headgearBeanie.i3d (4.20 ms)
+2025-10-22 18:04:53.016 dataS/character/playerM/attachments/glassesSports01.i3d (0.83 ms)
+2025-10-22 18:04:53.020 FS25_UnloadBalesEarly: Sending new settings
+2025-10-22 18:04:53.020 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-22 18:04:53.021 FS25_UnloadBalesEarly: Sending new settings
+2025-10-22 18:04:53.021 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-22 18:04:53.022 FS25_UnloadBalesEarly: Sending new settings
+2025-10-22 18:04:53.022 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-22 18:04:53.031 dataS/character/playerM/facialHair/mHead01/muttonChops03.i3d (14.95 ms)
+2025-10-22 18:05:10.940 FS25_UnloadBalesEarly: Sending new settings
+2025-10-22 18:05:10.940 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-22 18:05:10.941 FS25_UnloadBalesEarly: Sending new settings
+2025-10-22 18:05:10.941 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-22 18:05:10.941 FS25_UnloadBalesEarly: Sending new settings
+2025-10-22 18:05:10.941 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-22 18:05:10.941 FS25_UnloadBalesEarly: Sending new settings
+2025-10-22 18:05:10.941 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-22 18:05:10.941 FS25_UnloadBalesEarly: Sending new settings
+2025-10-22 18:05:10.941 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-22 18:11:46.261   Info: Super Strength enabled by szagh
+2025-10-22 18:14:22.771   Info: Super Strength disabled by szagh
+2025-10-22 18:20:00.338   Info: Added € 200,000 to farm account. (6)
+2025-10-22 18:22:07.592 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_CaseIH_Pack_1_1/i3d/puma_old.i3d (690.37 ms)
+2025-10-22 18:22:07.913 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_CaseIH_Pack_1_1/wheels/rims/cnh_rims.i3d (25.76 ms)
+2025-10-22 18:22:07.916 data/shared/wheels/tires/bkt/agrimaxForce/600_70R30.i3d (3.16 ms)
+2025-10-22 18:22:07.919 data/shared/wheels/tires/bkt/agrimaxForce/800_70R38.i3d (2.92 ms)
+2025-10-22 18:22:07.923 data/shared/assets/lights/lizard/frontLight01.i3d (3.09 ms)
+2025-10-22 18:22:07.924 data/shared/assets/lights/lizard/workingLight04.i3d (1.43 ms)
+2025-10-22 18:22:07.927 data/shared/assets/lights/lizard/workingLight05.i3d (2.73 ms)
+2025-10-22 18:22:08.041 data/shared/assets/lights/hella/hellaWorkingLight05.i3d (1.63 ms)
+2025-10-22 18:22:08.042 data/shared/assets/beaconLights/lizard/beaconLight10.i3d (0.95 ms)
+2025-10-22 18:22:08.044 data/shared/assets/beaconLights/lizard/beaconLight12.i3d (1.39 ms)
+2025-10-22 18:22:08.045 data/shared/assets/beaconLights/lizard/beaconLight06.i3d (1.55 ms)
+2025-10-22 18:22:13.610   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Case IH Puma 230 CVX - 50 km/h'
+2025-10-22 18:25:24.934 siejA joined the game
+2025-10-22 18:25:24.957 FS25_UnloadBalesEarly: Sending new settings
+2025-10-22 18:25:24.957 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-22 18:25:24.959 FS25_UnloadBalesEarly: Sending new settings
+2025-10-22 18:25:24.959 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-22 18:25:24.960 FS25_UnloadBalesEarly: Sending new settings
+2025-10-22 18:25:24.960 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-22 18:25:24.961 FS25_UnloadBalesEarly: Sending new settings
+2025-10-22 18:25:24.961 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-22 18:25:25.061 dataS/character/playerM/fullBody/strauss/motion2020PantsVariant2ndVariant.i3d (112.75 ms)
+2025-10-22 18:25:25.160 dataS/character/playerM/hairStyles/hairStyleFringe.i3d (32.27 ms)
+2025-10-22 18:25:34.910 FS25_UnloadBalesEarly: Sending new settings
+2025-10-22 18:25:34.910 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-22 18:25:34.911 FS25_UnloadBalesEarly: Sending new settings
+2025-10-22 18:25:34.911 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-22 18:25:34.911 FS25_UnloadBalesEarly: Sending new settings
+2025-10-22 18:25:34.911 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-22 18:25:34.912 FS25_UnloadBalesEarly: Sending new settings
+2025-10-22 18:25:34.912 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-22 18:25:34.912 FS25_UnloadBalesEarly: Sending new settings
+2025-10-22 18:25:34.912 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-22 18:25:34.912 FS25_UnloadBalesEarly: Sending new settings
+2025-10-22 18:25:34.912 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-22 18:29:41.901 Game saved successfully (savegame1).
+2025-10-22 18:29:49.539 data/placeables/brandless/animalHusbandries/pigBarnSmall/pigBarnSmall.i3d (6.04 ms)
+2025-10-22 18:29:49.559 data/placeables/brandless/fences/husbandries/level01/fencesFarmLevel01.i3d (2.12 ms)
