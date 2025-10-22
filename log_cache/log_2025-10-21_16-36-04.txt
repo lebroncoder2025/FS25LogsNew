@@ -7076,3 +7076,22 @@ LUA call stack:
 2025-10-22 09:33:54.576   Info: Moved 2 vehicles to coordinates 604, 800 successfully.
 2025-10-22 09:34:46.747   Info: Moved 2 vehicles to coordinates 696, 950 successfully.
 2025-10-22 09:35:08.823   Info: Moved 2 vehicles to coordinates 595, 799 successfully.
+2025-10-22 09:36:52.016   Info: Moved 2 vehicles to coordinates 698, 952 successfully.
+2025-10-22 09:37:10.740   Info: Moved 2 vehicles to coordinates 608, 802 successfully.
+2025-10-22 09:37:33.140   Info: Updated field 39 successfully (3) (1)
+2025-10-22 09:37:44.231   Info: Updated field 46 successfully (3) (1)
+2025-10-22 09:38:07.139   Info: Successfully set fill unit 1 of KRONE ZX 560 GD to Grass with a fill level of 56,000 liters.
+2025-10-22 09:38:26.045   Info: Successfully set fill unit 1 of KRONE ZX 560 GD to Grass with a fill level of 56,000 liters.
+2025-10-22 09:38:47.034   Info: Successfully set fill unit 1 of KRONE ZX 560 GD to Grass with a fill level of 56,000 liters.
+2025-10-22 09:41:25.628 Game saved successfully (savegame1).
+2025-10-22 09:50:45.753 data/vehicles/amazone/zgts10001/zgts10001.i3d (16.14 ms)
+2025-10-22 09:50:45.883 data/shared/wheels/tires/trelleborg/TM600/520_85R38.i3d (1.81 ms)
+2025-10-22 09:50:45.899 data/shared/assets/reflectors/lizard/redRectangle_01.i3d (1.04 ms)
+2025-10-22 09:52:10.784   Info: Moved 1 vehicles to coordinates 1207, 578 successfully.
+2025-10-22 09:52:29.758   Info: Successfully set fill unit 1 of AMAZONE ZG-TS 10001 to Solid Fertilizer with a fill level of 10,000 liters.
+2025-10-22 09:53:17.190   Info: Moved 2 vehicles to coordinates 764, 731 successfully.
+2025-10-22 09:53:26.131   Info: Moved 2 vehicles to coordinates 656, 1039 successfully.
+2025-10-22 09:54:23.708   Info: Moved 2 vehicles to coordinates 1163, 1513 successfully.
+2025-10-22 09:55:36.920 Warning: Saving while already saving
+2025-10-22 09:55:38.679 Game saved successfully (savegame1).
+2025-10-22 09:55:38.752 Jolero left the game
