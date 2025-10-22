@@ -5544,3 +5544,85 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-10-22 18:42:34.726 data/objects/pallets/liquidTank/liquidTank.i3d (1.23 ms)
 2025-10-22 18:45:17.658   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'KamAZ 53228(740.13-280)'
 2025-10-22 18:47:05.614 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_HydrantPack/6.i3d (2.19 ms)
+2025-10-22 18:49:09.805 Game saved successfully (savegame1).
+2025-10-22 18:54:24.872   Info: No 'ExhaustExtension' particle system added to vehicle 'Lizard S-710' because it has no exhaust
+2025-10-22 18:54:32.198   Info: No 'ExhaustExtension' particle system added to vehicle 'Grimme SL 80-22 Quantum' because it has no exhaust
+2025-10-22 18:59:46.072 Game saved successfully (savegame1).
+2025-10-22 19:09:49.783 M@rcin joined the game
+2025-10-22 19:09:49.814 FS25_UnloadBalesEarly: Sending new settings
+2025-10-22 19:09:49.814 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-22 19:09:49.816 FS25_UnloadBalesEarly: Sending new settings
+2025-10-22 19:09:49.816 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-22 19:09:49.818 FS25_UnloadBalesEarly: Sending new settings
+2025-10-22 19:09:49.818 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-22 19:09:49.819 FS25_UnloadBalesEarly: Sending new settings
+2025-10-22 19:09:49.819 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-22 19:09:49.820 FS25_UnloadBalesEarly: Sending new settings
+2025-10-22 19:09:49.820 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-22 19:09:49.821 FS25_UnloadBalesEarly: Sending new settings
+2025-10-22 19:09:49.821 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-22 19:09:49.822 FS25_UnloadBalesEarly: Sending new settings
+2025-10-22 19:09:49.822 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-22 19:09:49.826 dataS/character/playerM/jacket/topAviatorJacket.i3d (27.46 ms)
+2025-10-22 19:09:49.865 dataS/character/playerM/hairStyles/hairStyleDiablo.i3d (39.03 ms)
+2025-10-22 19:09:49.925 dataS/character/playerM/facialHair/mHead01/beardStubble.i3d (1.27 ms)
+2025-10-22 19:10:19.112 FS25_UnloadBalesEarly: Sending new settings
+2025-10-22 19:10:19.113 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-22 19:10:19.113 FS25_UnloadBalesEarly: Sending new settings
+2025-10-22 19:10:19.113 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-22 19:10:19.113 FS25_UnloadBalesEarly: Sending new settings
+2025-10-22 19:10:19.114 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-22 19:10:19.114 FS25_UnloadBalesEarly: Sending new settings
+2025-10-22 19:10:19.114 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-22 19:10:19.114 FS25_UnloadBalesEarly: Sending new settings
+2025-10-22 19:10:19.114 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-22 19:10:19.114 FS25_UnloadBalesEarly: Sending new settings
+2025-10-22 19:10:19.114 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-22 19:10:19.114 FS25_UnloadBalesEarly: Sending new settings
+2025-10-22 19:10:19.114 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-22 19:10:19.114 FS25_UnloadBalesEarly: Sending new settings
+2025-10-22 19:10:19.114 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-22 19:10:19.114 FS25_UnloadBalesEarly: Sending new settings
+2025-10-22 19:10:19.114 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-22 19:14:07.550 wiciu joined the game
+2025-10-22 19:14:07.582 dataS/character/playerM/pants/botChinos.i3d (12.37 ms)
+2025-10-22 19:14:07.591 FS25_UnloadBalesEarly: Sending new settings
+2025-10-22 19:14:07.591 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-22 19:14:07.593 FS25_UnloadBalesEarly: Sending new settings
+2025-10-22 19:14:07.593 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-22 19:14:07.595 FS25_UnloadBalesEarly: Sending new settings
+2025-10-22 19:14:07.595 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-22 19:14:07.596 FS25_UnloadBalesEarly: Sending new settings
+2025-10-22 19:14:07.596 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-22 19:14:07.598 FS25_UnloadBalesEarly: Sending new settings
+2025-10-22 19:14:07.598 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-22 19:14:07.599 FS25_UnloadBalesEarly: Sending new settings
+2025-10-22 19:14:07.599 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-22 19:14:07.600 FS25_UnloadBalesEarly: Sending new settings
+2025-10-22 19:14:07.600 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-22 19:14:07.601 FS25_UnloadBalesEarly: Sending new settings
+2025-10-22 19:14:07.601 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-22 19:14:07.676 dataS/character/playerM/shirts/zipNeckPullover.i3d (93.50 ms)
+2025-10-22 19:14:07.776 dataS/character/playerM/shoes/leatherChelsea01.i3d (23.97 ms)
+2025-10-22 19:15:16.461 FS25_UnloadBalesEarly: Sending new settings
+2025-10-22 19:15:16.462 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-22 19:15:16.462 FS25_UnloadBalesEarly: Sending new settings
+2025-10-22 19:15:16.462 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-22 19:15:16.462 FS25_UnloadBalesEarly: Sending new settings
+2025-10-22 19:15:16.463 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-22 19:15:16.463 FS25_UnloadBalesEarly: Sending new settings
+2025-10-22 19:15:16.463 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-22 19:15:16.463 FS25_UnloadBalesEarly: Sending new settings
+2025-10-22 19:15:16.463 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-22 19:15:16.463 FS25_UnloadBalesEarly: Sending new settings
+2025-10-22 19:15:16.463 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-22 19:15:16.463 FS25_UnloadBalesEarly: Sending new settings
+2025-10-22 19:15:16.463 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-22 19:15:16.463 FS25_UnloadBalesEarly: Sending new settings
+2025-10-22 19:15:16.463 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-22 19:15:16.463 FS25_UnloadBalesEarly: Sending new settings
+2025-10-22 19:15:16.463 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-22 19:15:16.463 FS25_UnloadBalesEarly: Sending new settings
+2025-10-22 19:15:16.463 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-22 19:16:11.749 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.74 ms)
+2025-10-22 19:16:11.831 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_mrhHandLiftableConsumables/bagsStack/bagsStack.i3d (2.59 ms)
