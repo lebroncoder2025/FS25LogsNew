@@ -7052,3 +7052,27 @@ LUA call stack:
 2025-10-22 09:21:12.326 data/shared/assets/reflectors/lizard/yellowRound_01.i3d (0.69 ms)
 2025-10-22 09:21:12.466 data/shared/assets/powerTakeOffs/walterscheidWWZ.i3d (2.15 ms)
 2025-10-22 09:21:37.733   Info: Moved 2 vehicles to coordinates 638, 798 successfully.
+2025-10-22 09:22:14.060   Info: Moved 2 vehicles to coordinates 701, 1003 successfully.
+2025-10-22 09:22:56.181   Info: Super Strength enabled by Jolero
+2025-10-22 09:23:28.497   Info: Moved 2 vehicles to coordinates 640, 800 successfully.
+2025-10-22 09:24:04.267   Info: Moved 2 vehicles to coordinates 692, 952 successfully.
+2025-10-22 09:24:31.323   Info: Moved 2 vehicles to coordinates 617, 802 successfully.
+2025-10-22 09:25:29.945   Info: Moved 2 vehicles to coordinates 693, 951 successfully.
+2025-10-22 09:26:24.601   Info: Moved 2 vehicles to coordinates 599, 798 successfully.
+2025-10-22 09:27:05.097   Info: Moved 2 vehicles to coordinates 691, 952 successfully.
+2025-10-22 09:27:30.411   Info: Moved 2 vehicles to coordinates 625, 798 successfully.
+2025-10-22 09:27:57.607   Info: Moved 2 vehicles to coordinates 693, 951 successfully.
+2025-10-22 09:28:05.286   Info: Super Strength disabled by Jolero
+2025-10-22 09:28:27.164   Info: Moved 2 vehicles to coordinates 619, 801 successfully.
+2025-10-22 09:29:07.837   Info: Moved 2 vehicles to coordinates 695, 951 successfully.
+2025-10-22 09:29:59.172   Info: Moved 2 vehicles to coordinates 617, 803 successfully.
+2025-10-22 09:30:27.078   Info: Moved 2 vehicles to coordinates 698, 951 successfully.
+2025-10-22 09:30:48.029   Info: Moved 2 vehicles to coordinates 612, 801 successfully.
+2025-10-22 09:31:29.319   Info: Moved 2 vehicles to coordinates 694, 949 successfully.
+2025-10-22 09:31:51.379   Info: Moved 2 vehicles to coordinates 624, 807 successfully.
+2025-10-22 09:32:43.828   Info: Moved 2 vehicles to coordinates 698, 951 successfully.
+2025-10-22 09:33:04.442   Info: Moved 2 vehicles to coordinates 601, 798 successfully.
+2025-10-22 09:33:31.657   Info: Moved 2 vehicles to coordinates 697, 952 successfully.
+2025-10-22 09:33:54.576   Info: Moved 2 vehicles to coordinates 604, 800 successfully.
+2025-10-22 09:34:46.747   Info: Moved 2 vehicles to coordinates 696, 950 successfully.
+2025-10-22 09:35:08.823   Info: Moved 2 vehicles to coordinates 595, 799 successfully.
