@@ -5410,3 +5410,137 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-10-22 18:29:41.901 Game saved successfully (savegame1).
 2025-10-22 18:29:49.539 data/placeables/brandless/animalHusbandries/pigBarnSmall/pigBarnSmall.i3d (6.04 ms)
 2025-10-22 18:29:49.559 data/placeables/brandless/fences/husbandries/level01/fencesFarmLevel01.i3d (2.12 ms)
+2025-10-22 18:35:47.449   Info: Added € 35,000 to farm account. (1)
+2025-10-22 18:37:44.554 Piotrek joined the game
+2025-10-22 18:37:44.584 FS25_UnloadBalesEarly: Sending new settings
+2025-10-22 18:37:44.585 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-22 18:37:44.587 FS25_UnloadBalesEarly: Sending new settings
+2025-10-22 18:37:44.587 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-22 18:37:44.588 FS25_UnloadBalesEarly: Sending new settings
+2025-10-22 18:37:44.588 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-22 18:37:44.590 FS25_UnloadBalesEarly: Sending new settings
+2025-10-22 18:37:44.590 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-22 18:37:44.591 FS25_UnloadBalesEarly: Sending new settings
+2025-10-22 18:37:44.591 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-22 18:37:44.640 dataS/character/playerM/shirts/topTankTop.i3d (70.94 ms)
+2025-10-22 18:37:44.677 dataS/character/playerM/gloves/glovesGeneric.i3d (36.86 ms)
+2025-10-22 18:37:44.746 dataS/character/playerM/attachments/headgearCowboy.i3d (35.13 ms)
+2025-10-22 18:37:44.760 dataS/character/playerM/shoes/sandalM02.i3d (14.01 ms)
+2025-10-22 18:37:59.603 FS25_UnloadBalesEarly: Sending new settings
+2025-10-22 18:37:59.603 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-22 18:37:59.604 FS25_UnloadBalesEarly: Sending new settings
+2025-10-22 18:37:59.604 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-22 18:37:59.604 FS25_UnloadBalesEarly: Sending new settings
+2025-10-22 18:37:59.604 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-22 18:37:59.604 FS25_UnloadBalesEarly: Sending new settings
+2025-10-22 18:37:59.604 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-22 18:37:59.605 FS25_UnloadBalesEarly: Sending new settings
+2025-10-22 18:37:59.605 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-22 18:37:59.605 FS25_UnloadBalesEarly: Sending new settings
+2025-10-22 18:37:59.605 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-22 18:37:59.605 FS25_UnloadBalesEarly: Sending new settings
+2025-10-22 18:37:59.605 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-22 18:39:52.740 zone joined the game
+2025-10-22 18:39:52.762 dataS/character/playerM/heads/mHead02.i3d (7.90 ms)
+2025-10-22 18:39:52.781 FS25_UnloadBalesEarly: Sending new settings
+2025-10-22 18:39:52.781 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-22 18:39:52.783 FS25_UnloadBalesEarly: Sending new settings
+2025-10-22 18:39:52.783 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-22 18:39:52.784 FS25_UnloadBalesEarly: Sending new settings
+2025-10-22 18:39:52.784 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-22 18:39:52.785 FS25_UnloadBalesEarly: Sending new settings
+2025-10-22 18:39:52.785 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-22 18:39:52.786 FS25_UnloadBalesEarly: Sending new settings
+2025-10-22 18:39:52.786 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-22 18:39:52.787 FS25_UnloadBalesEarly: Sending new settings
+2025-10-22 18:39:52.787 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-22 18:39:52.857 dataS/character/playerM/jacket/caseIH/caseIHTop.i3d (94.52 ms)
+2025-10-22 18:39:52.863 dataS/character/playerM/attachments/caseIHhat.i3d (6.25 ms)
+2025-10-22 18:39:52.877 dataS/character/playerM/facialHair/mHead02/fullBeard.i3d (13.91 ms)
+2025-10-22 18:40:08.923 FS25_UnloadBalesEarly: Sending new settings
+2025-10-22 18:40:08.923 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-22 18:40:08.924 FS25_UnloadBalesEarly: Sending new settings
+2025-10-22 18:40:08.924 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-22 18:40:08.924 FS25_UnloadBalesEarly: Sending new settings
+2025-10-22 18:40:08.924 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-22 18:40:08.924 FS25_UnloadBalesEarly: Sending new settings
+2025-10-22 18:40:08.924 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-22 18:40:08.924 FS25_UnloadBalesEarly: Sending new settings
+2025-10-22 18:40:08.924 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-22 18:40:08.924 FS25_UnloadBalesEarly: Sending new settings
+2025-10-22 18:40:08.924 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-22 18:40:08.924 FS25_UnloadBalesEarly: Sending new settings
+2025-10-22 18:40:08.924 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-22 18:40:08.924 FS25_UnloadBalesEarly: Sending new settings
+2025-10-22 18:40:08.924 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-22 18:40:51.314   Info: Added € 10,000 to farm account. (6)
+2025-10-22 18:41:15.590 data/placeables/brandless/animalHusbandries/pigBarnSmall/pigBarnSmall.i3d (1.03 ms)
+2025-10-22 18:41:15.615 data/placeables/brandless/fences/husbandries/level01/fencesFarmLevel01.i3d (2.13 ms)
+2025-10-22 18:41:47.384 Error: Can't load resource ''.
+2025-10-22 18:41:47.384 Error: Can't load resource ''.
+2025-10-22 18:41:47.385 Error: Can't load resource ''.
+2025-10-22 18:41:47.385 Error: Can't load resource 'gen_singleColorTexture_0_4287993237'.
+2025-10-22 18:41:47.385   DevWarning: material 'tyreMaterial' is having the albedo map removed by script. This can cause problems on consoles as the correct shader will not be built for this case.
+2025-10-22 18:41:47.385 Warning: Missing texture 'detailSpecular' in 'tyreMaterial' (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_useYourTyres/shaders/vehicleShader50keda.xml).
+2025-10-22 18:41:47.385 Warning: Missing texture 'detailNormal' in 'tyreMaterial' (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_useYourTyres/shaders/vehicleShader50keda.xml).
+2025-10-22 18:41:47.385 Warning: Missing texture 'detailDiffuse' in 'tyreMaterial' (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_useYourTyres/shaders/vehicleShader50keda.xml).
+2025-10-22 18:41:47.385 Error: Can't load resource ''.
+2025-10-22 18:41:47.385 Error: Can't load resource ''.
+2025-10-22 18:41:47.385 Error: Can't load resource ''.
+2025-10-22 18:41:47.385 Error: Can't load resource 'gen_singleColorTexture_0_4287993237'.
+2025-10-22 18:41:47.385   DevWarning: material 'tyreMaterial' is having the albedo map removed by script. This can cause problems on consoles as the correct shader will not be built for this case.
+2025-10-22 18:41:47.385 Error: Can't load resource ''.
+2025-10-22 18:41:47.385 Error: Can't load resource ''.
+2025-10-22 18:41:47.385 Error: Can't load resource ''.
+2025-10-22 18:41:47.386 Error: Can't load resource 'gen_singleColorTexture_0_4287993237'.
+2025-10-22 18:41:47.386   DevWarning: material 'tyreMaterial' is having the albedo map removed by script. This can cause problems on consoles as the correct shader will not be built for this case.
+2025-10-22 18:41:47.386 Error: Can't load resource ''.
+2025-10-22 18:41:47.386 Error: Can't load resource ''.
+2025-10-22 18:41:47.386 Error: Can't load resource ''.
+2025-10-22 18:41:47.386 Error: Can't load resource 'gen_singleColorTexture_0_4287993237'.
+2025-10-22 18:41:47.386   DevWarning: material 'tyreMaterial' is having the albedo map removed by script. This can cause problems on consoles as the correct shader will not be built for this case.
+2025-10-22 18:41:47.386 Error: Can't load resource ''.
+2025-10-22 18:41:47.386 Error: Can't load resource ''.
+2025-10-22 18:41:47.386 Error: Can't load resource ''.
+2025-10-22 18:41:47.386 Error: Can't load resource 'gen_singleColorTexture_0_4287993237'.
+2025-10-22 18:41:47.386   DevWarning: material 'tyreMaterial' is having the albedo map removed by script. This can cause problems on consoles as the correct shader will not be built for this case.
+2025-10-22 18:41:47.386 Error: Can't load resource ''.
+2025-10-22 18:41:47.386 Error: Can't load resource ''.
+2025-10-22 18:41:47.386 Error: Can't load resource ''.
+2025-10-22 18:41:47.386 Error: Can't load resource 'gen_singleColorTexture_0_4287993237'.
+2025-10-22 18:41:47.386   DevWarning: material 'tyreMaterial' is having the albedo map removed by script. This can cause problems on consoles as the correct shader will not be built for this case.
+2025-10-22 18:41:47.386 Error: Can't load resource ''.
+2025-10-22 18:41:47.386 Error: Can't load resource ''.
+2025-10-22 18:41:47.386 Error: Can't load resource ''.
+2025-10-22 18:41:47.386 Error: Can't load resource 'gen_singleColorTexture_0_4287993237'.
+2025-10-22 18:41:47.386   DevWarning: material 'tyreMaterial' is having the albedo map removed by script. This can cause problems on consoles as the correct shader will not be built for this case.
+2025-10-22 18:41:47.387 Error: Can't load resource ''.
+2025-10-22 18:41:47.387 Error: Can't load resource ''.
+2025-10-22 18:41:47.387 Error: Can't load resource ''.
+2025-10-22 18:41:47.387 Error: Can't load resource 'gen_singleColorTexture_0_4287993237'.
+2025-10-22 18:41:47.387   DevWarning: material 'tyreMaterial' is having the albedo map removed by script. This can cause problems on consoles as the correct shader will not be built for this case.
+2025-10-22 18:41:47.387 Error: Can't load resource ''.
+2025-10-22 18:41:47.387 Error: Can't load resource ''.
+2025-10-22 18:41:47.387 Error: Can't load resource ''.
+2025-10-22 18:41:47.387 Error: Can't load resource 'gen_singleColorTexture_0_4287993237'.
+2025-10-22 18:41:47.387   DevWarning: material 'tyreMaterial' is having the albedo map removed by script. This can cause problems on consoles as the correct shader will not be built for this case.
+2025-10-22 18:41:47.387 Error: Can't load resource ''.
+2025-10-22 18:41:47.387 Error: Can't load resource ''.
+2025-10-22 18:41:47.387 Error: Can't load resource ''.
+2025-10-22 18:41:47.387 Error: Can't load resource 'gen_singleColorTexture_0_4287993237'.
+2025-10-22 18:41:47.387   DevWarning: material 'tyreMaterial' is having the albedo map removed by script. This can cause problems on consoles as the correct shader will not be built for this case.
+2025-10-22 18:41:47.420 Warning: Missing texture 'detailDiffuse' in 'tyreMaterial' (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_useYourTyres/shaders/vehicleShader50keda.xml).
+2025-10-22 18:41:47.420 Warning: Missing texture 'detailNormal' in 'tyreMaterial' (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_useYourTyres/shaders/vehicleShader50keda.xml).
+2025-10-22 18:41:47.421 Warning: Missing texture 'detailDiffuse' in 'tyreMaterial' (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_useYourTyres/shaders/vehicleShader50keda.xml).
+2025-10-22 18:41:47.421 Warning: Missing texture 'detailSpecular' in 'tyreMaterial' (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_useYourTyres/shaders/vehicleShader50keda.xml).
+2025-10-22 18:41:47.421 Warning: Missing texture 'detailNormal' in 'tyreMaterial' (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_useYourTyres/shaders/vehicleShader50keda.xml).
+2025-10-22 18:41:47.421 Warning: Missing texture 'detailDiffuse' in 'tyreMaterial' (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_useYourTyres/shaders/vehicleShader50keda.xml).
+2025-10-22 18:41:47.421 Warning: Missing texture 'detailSpecular' in 'tyreMaterial' (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_useYourTyres/shaders/vehicleShader50keda.xml).
+2025-10-22 18:41:47.421 Warning: Missing texture 'detailNormal' in 'tyreMaterial' (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_useYourTyres/shaders/vehicleShader50keda.xml).
+2025-10-22 18:41:47.421 Warning: Missing texture 'detailDiffuse' in 'tyreMaterial' (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_useYourTyres/shaders/vehicleShader50keda.xml).
+2025-10-22 18:41:47.421 Warning: Missing texture 'detailSpecular' in 'tyreMaterial' (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_useYourTyres/shaders/vehicleShader50keda.xml).
+2025-10-22 18:41:47.421 Warning: Missing texture 'detailNormal' in 'tyreMaterial' (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_useYourTyres/shaders/vehicleShader50keda.xml).
+2025-10-22 18:41:47.421 Warning: Missing texture 'detailDiffuse' in 'tyreMaterial' (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_useYourTyres/shaders/vehicleShader50keda.xml).
+2025-10-22 18:42:34.726 data/objects/pallets/liquidTank/liquidTank.i3d (1.23 ms)
+2025-10-22 18:45:17.658   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'KamAZ 53228(740.13-280)'
+2025-10-22 18:47:05.614 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_HydrantPack/6.i3d (2.19 ms)
