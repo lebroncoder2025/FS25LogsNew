@@ -5342,3 +5342,8 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-10-22 17:14:48.990 FS25_UnloadBalesEarly: Sending new settings
 2025-10-22 17:14:48.990 FS25_UnloadBalesEarly: Done sending new settings
 2025-10-22 17:15:28.571   Info: [Easy Development Controls] User Jolero has logged in as master user.
+2025-10-22 17:26:46.033   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Zetor 7745 Turbo'
+2025-10-22 17:29:18.679 zone left the game
+2025-10-22 17:29:18.710 FS25_UnloadBalesEarly: Forcing early unload possibility for baler Sipma 'Z279'
+2025-10-22 17:29:39.720 Game saved successfully (savegame1).
+2025-10-22 17:34:17.718 siejA left the game
