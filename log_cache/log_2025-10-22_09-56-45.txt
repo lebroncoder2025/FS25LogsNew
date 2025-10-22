@@ -5892,3 +5892,9 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-10-22 22:21:49.426 FS25_UnloadBalesEarly: Done sending new settings
 2025-10-22 22:21:49.426 FS25_UnloadBalesEarly: Sending new settings
 2025-10-22 22:21:49.426 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-22 22:28:41.280 siejA lost connection to the game
+2025-10-22 22:30:03.008 Game saved successfully (savegame1).
+2025-10-22 22:37:47.373 Next available Farm ID identified:
+2025-10-22 22:37:47.373 9.000000
+2025-10-22 22:37:47.374 FarmID => 9
+2025-10-22 22:37:47.374 newFarm FarmID => 9
