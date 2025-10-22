@@ -5626,3 +5626,12 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-10-22 19:15:16.463 FS25_UnloadBalesEarly: Done sending new settings
 2025-10-22 19:16:11.749 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.74 ms)
 2025-10-22 19:16:11.831 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_mrhHandLiftableConsumables/bagsStack/bagsStack.i3d (2.59 ms)
+2025-10-22 19:21:19.896 Figuana lost connection to the game
+2025-10-22 19:21:44.801   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Ursus C-360'
+2025-10-22 19:22:10.302 Jolero left the game
+2025-10-22 19:22:11.787 Game saved successfully (savegame1).
+2025-10-22 19:23:45.519 M@rcin left the game
+2025-10-22 19:26:46.849   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'STEYR 8100'
+2025-10-22 19:27:59.445 szagh left the game
+2025-10-22 19:29:50.364 Game saved successfully (savegame1).
+2025-10-22 19:31:35.814 siejA lost connection to the game
