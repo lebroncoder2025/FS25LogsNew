@@ -5758,3 +5758,16 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-10-22 20:46:29.788 FS25_UnloadBalesEarly: Done sending new settings
 2025-10-22 20:46:29.788 FS25_UnloadBalesEarly: Sending new settings
 2025-10-22 20:46:29.788 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-22 20:50:31.660 data/shared/wheels/tires/trelleborg/TM100/270_95R32.i3d (4.40 ms)
+2025-10-22 20:50:31.663 data/shared/wheels/tires/trelleborg/TM100/300_95R46.i3d (2.83 ms)
+2025-10-22 20:50:34.086   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'New Holland 8340'
+2025-10-22 20:54:05.147 data/objects/pallets/liquidTank/liquidTank.i3d (1.15 ms)
+2025-10-22 20:59:57.609 Game saved successfully (savegame1).
+2025-10-22 21:00:59.003 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.58 ms)
+2025-10-22 21:00:59.061 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_mrhHandLiftableConsumables/bagsStack/bagsStack.i3d (1.16 ms)
+2025-10-22 21:01:01.931 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.61 ms)
+2025-10-22 21:01:53.379 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_OP2000_sprayer/op2000.i3d (140.67 ms)
+2025-10-22 21:02:03.996 Daniel lost connection to the game
+2025-10-22 21:02:45.911 data/objects/pallets/liquidTank/liquidTank.i3d (1.30 ms)
+2025-10-22 21:09:39.869 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.53 ms)
+2025-10-22 21:09:39.924 data/objects/pallets/liquidTank/liquidTank.i3d (1.33 ms)
