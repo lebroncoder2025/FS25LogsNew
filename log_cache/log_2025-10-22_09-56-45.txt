@@ -5169,3 +5169,15 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-10-22 15:25:15.118   Info: [Easy Development Controls] User szagh has logged in as master user.
 2025-10-22 15:28:49.207 szagh left the game
 2025-10-22 15:29:34.770 Game saved successfully (savegame1).
+2025-10-22 15:35:45.837 Jolero joined the game
+2025-10-22 15:35:45.851 dataS/character/playerM/shirts/topTShirt01.i3d (2.04 ms)
+2025-10-22 15:35:45.869 FS25_UnloadBalesEarly: Sending new settings
+2025-10-22 15:35:45.869 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-22 15:35:45.898 dataS/character/playerM/hairStyles/hairStyleTopKnot.i3d (47.05 ms)
+2025-10-22 15:36:02.647 FS25_UnloadBalesEarly: Sending new settings
+2025-10-22 15:36:02.647 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-22 15:36:02.647 FS25_UnloadBalesEarly: Sending new settings
+2025-10-22 15:36:02.647 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-22 15:36:02.648 FS25_UnloadBalesEarly: Sending new settings
+2025-10-22 15:36:02.648 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-22 15:36:40.958   Info: [Easy Development Controls] User Jolero has logged in as master user.
