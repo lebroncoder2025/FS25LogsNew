@@ -5142,3 +5142,30 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-10-22 14:29:31.169 Game saved successfully (savegame1).
 2025-10-22 14:31:04.299   Info: Super Strength disabled by szagh
 2025-10-22 14:59:31.367 Game saved successfully (savegame1).
+2025-10-22 15:08:23.097 szagh left the game
+2025-10-22 15:18:39.334 siejA joined the game
+2025-10-22 15:18:39.676 dataS/character/playerM/fullBody/strauss/motion2020PantsVariant2ndVariant.i3d (141.06 ms)
+2025-10-22 15:18:39.716 dataS/character/playerM/hairStyles/hairStyleFringe.i3d (39.91 ms)
+2025-10-22 15:18:39.738 dataS/character/playerM/facialHair/mHead01/goatee01.i3d (22.50 ms)
+2025-10-22 15:19:06.882 FS25_UnloadBalesEarly: Sending new settings
+2025-10-22 15:19:06.882 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-22 15:19:06.882 FS25_UnloadBalesEarly: Sending new settings
+2025-10-22 15:19:06.882 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-22 15:20:10.930   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'New Holland 8340'
+2025-10-22 15:22:53.704   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'CLAAS DOMINATOR 105'
+2025-10-22 15:24:04.657 szagh joined the game
+2025-10-22 15:24:04.678 dataS/character/playerM/shirts/topTShirt01.i3d (2.05 ms)
+2025-10-22 15:24:04.680 FS25_UnloadBalesEarly: Sending new settings
+2025-10-22 15:24:04.680 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-22 15:24:04.682 dataS/character/playerM/attachments/headgearBeanie.i3d (3.94 ms)
+2025-10-22 15:24:04.683 dataS/character/playerM/attachments/glassesSports01.i3d (0.79 ms)
+2025-10-22 15:24:04.698 dataS/character/playerM/facialHair/mHead01/muttonChops03.i3d (14.68 ms)
+2025-10-22 15:24:22.039 FS25_UnloadBalesEarly: Sending new settings
+2025-10-22 15:24:22.039 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-22 15:24:22.040 FS25_UnloadBalesEarly: Sending new settings
+2025-10-22 15:24:22.040 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-22 15:24:22.040 FS25_UnloadBalesEarly: Sending new settings
+2025-10-22 15:24:22.040 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-22 15:25:15.118   Info: [Easy Development Controls] User szagh has logged in as master user.
+2025-10-22 15:28:49.207 szagh left the game
+2025-10-22 15:29:34.770 Game saved successfully (savegame1).
