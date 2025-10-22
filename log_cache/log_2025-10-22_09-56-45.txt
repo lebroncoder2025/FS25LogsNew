@@ -5222,3 +5222,8 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-10-22 16:16:13.234 FS25_UnloadBalesEarly: Sending new settings
 2025-10-22 16:16:13.234 FS25_UnloadBalesEarly: Done sending new settings
 2025-10-22 16:23:44.050   Info: Successfully emptied fill unit 1 of KRONE Turbo 2500.
+2025-10-22 16:29:35.247 Game saved successfully (savegame1).
+2025-10-22 16:34:36.391 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Old_Manure_Heap/Old_Manure_Heap_Small.i3d (47.66 ms)
+2025-10-22 16:38:09.780   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Zetor 10111 Fast transmission'
+2025-10-22 16:39:35.562 data/objects/pallets/liquidTank/liquidTank.i3d (1.18 ms)
+2025-10-22 16:41:07.622 data/objects/pallets/liquidTank/liquidTank.i3d (1.18 ms)
