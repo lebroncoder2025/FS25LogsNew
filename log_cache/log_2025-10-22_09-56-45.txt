@@ -5936,3 +5936,6 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-10-22 23:00:04.938 Game saved successfully (savegame1).
 2025-10-22 23:00:08.542 data/placeables/brandless/fences/EU/fence19/fence19.i3d (6.31 ms)
 2025-10-22 23:03:55.549 Daniel left the game
+2025-10-22 23:22:22.001 szagh left the game
+2025-10-22 23:24:24.453 zwierek left the game
+2025-10-22 23:30:12.389 Game saved successfully (savegame1).
