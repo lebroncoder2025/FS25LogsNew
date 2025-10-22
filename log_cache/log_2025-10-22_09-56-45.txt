@@ -5135,3 +5135,4 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-10-22 13:18:07.206   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'KamAZ 53228(740.13-260)'
 2025-10-22 13:18:29.275   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Schäffer  9660 T-2'
 2025-10-22 13:19:11.045 zwierek left the game
+2025-10-22 13:29:30.493 Game saved successfully (savegame1).
