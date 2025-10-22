@@ -7018,3 +7018,4 @@ LUA call stack:
 2025-10-22 07:08:47.642 FS25_UnloadBalesEarly: Sending new settings
 2025-10-22 07:08:47.642 FS25_UnloadBalesEarly: Done sending new settings
 2025-10-22 07:10:51.146 Game saved successfully (savegame1).
+2025-10-22 07:33:01.069 M@rcin lost connection to the game
