@@ -6030,3 +6030,20 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-10-23 12:33:48.683 Jolero left the game
 2025-10-23 12:33:49.947 Game saved successfully (savegame1).
 2025-10-23 13:03:46.715 Game saved successfully (savegame1).
+2025-10-23 13:31:31.319 Jolero joined the game
+2025-10-23 13:31:31.333 dataS/character/playerM/shirts/topTShirt01.i3d (2.03 ms)
+2025-10-23 13:31:31.351 FS25_UnloadBalesEarly: Sending new settings
+2025-10-23 13:31:31.351 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-23 13:31:31.353 FS25_UnloadBalesEarly: Sending new settings
+2025-10-23 13:31:31.353 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-23 13:31:31.364 dataS/character/playerM/hairStyles/hairStyleTopKnot.i3d (31.43 ms)
+2025-10-23 13:31:31.383 dataS/character/playerM/facialHair/mHead01/goatee01.i3d (18.37 ms)
+2025-10-23 13:31:47.187 FS25_UnloadBalesEarly: Sending new settings
+2025-10-23 13:31:47.188 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-23 13:31:47.189 FS25_UnloadBalesEarly: Sending new settings
+2025-10-23 13:31:47.189 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-23 13:31:47.189 FS25_UnloadBalesEarly: Sending new settings
+2025-10-23 13:31:47.189 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-23 13:31:47.189 FS25_UnloadBalesEarly: Sending new settings
+2025-10-23 13:31:47.189 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-23 13:32:25.978   Info: [Easy Development Controls] User Jolero has logged in as master user.
