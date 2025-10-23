@@ -6217,3 +6217,4 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-10-23 17:14:58.548 FS25_UnloadBalesEarly: Sending new settings
 2025-10-23 17:14:58.548 FS25_UnloadBalesEarly: Done sending new settings
 2025-10-23 17:19:11.218   Info: Successfully set fill unit 1 of KRONE Turbo 2500 to Grass with a fill level of 25,000 liters.
+2025-10-23 17:33:55.318 Game saved successfully (savegame1).
