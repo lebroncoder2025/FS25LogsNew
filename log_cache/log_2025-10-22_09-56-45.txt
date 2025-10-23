@@ -5992,3 +5992,36 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-10-23 10:52:19.998 FS25_UnloadBalesEarly: Done sending new settings
 2025-10-23 11:03:43.274 Game saved successfully (savegame1).
 2025-10-23 11:33:43.187 Game saved successfully (savegame1).
+2025-10-23 11:40:34.731 Jolero joined the game
+2025-10-23 11:40:34.751 dataS/character/playerM/shirts/topTShirt01.i3d (2.04 ms)
+2025-10-23 11:40:34.754 FS25_UnloadBalesEarly: Sending new settings
+2025-10-23 11:40:34.754 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-23 11:40:34.787 dataS/character/playerM/hairStyles/hairStyleTopKnot.i3d (35.95 ms)
+2025-10-23 11:40:34.806 dataS/character/playerM/facialHair/mHead01/goatee01.i3d (18.31 ms)
+2025-10-23 11:40:53.608 FS25_UnloadBalesEarly: Sending new settings
+2025-10-23 11:40:53.608 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-23 11:40:53.610 FS25_UnloadBalesEarly: Sending new settings
+2025-10-23 11:40:53.610 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-23 11:40:53.610 FS25_UnloadBalesEarly: Sending new settings
+2025-10-23 11:40:53.610 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-23 11:41:34.633   Info: [Easy Development Controls] User Jolero has logged in as master user.
+2025-10-23 11:43:40.748 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_ScrewConveyor/Zmijka.i3d (68.78 ms)
+2025-10-23 11:46:18.082 Piotrek joined the game
+2025-10-23 11:46:18.104 FS25_UnloadBalesEarly: Sending new settings
+2025-10-23 11:46:18.104 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-23 11:46:18.106 FS25_UnloadBalesEarly: Sending new settings
+2025-10-23 11:46:18.106 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-23 11:46:18.157 dataS/character/playerM/shirts/topTankTop.i3d (58.48 ms)
+2025-10-23 11:46:18.163 dataS/character/playerM/gloves/glovesGeneric.i3d (6.51 ms)
+2025-10-23 11:46:18.175 dataS/character/playerM/attachments/headgearCowboy.i3d (11.18 ms)
+2025-10-23 11:46:18.176 dataS/character/playerM/shoes/sandalM02.i3d (0.89 ms)
+2025-10-23 11:46:38.528 FS25_UnloadBalesEarly: Sending new settings
+2025-10-23 11:46:38.529 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-23 11:46:38.530 FS25_UnloadBalesEarly: Sending new settings
+2025-10-23 11:46:38.530 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-23 11:46:38.530 FS25_UnloadBalesEarly: Sending new settings
+2025-10-23 11:46:38.530 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-23 11:46:38.530 FS25_UnloadBalesEarly: Sending new settings
+2025-10-23 11:46:38.530 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-23 11:48:09.256   Info: No 'ExhaustExtension' particle system added to vehicle 'Lizard Screw conveyor' because it has no exhaust
+2025-10-23 12:03:43.973 Game saved successfully (savegame1).
