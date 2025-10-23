@@ -6218,3 +6218,83 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-10-23 17:14:58.548 FS25_UnloadBalesEarly: Done sending new settings
 2025-10-23 17:19:11.218   Info: Successfully set fill unit 1 of KRONE Turbo 2500 to Grass with a fill level of 25,000 liters.
 2025-10-23 17:33:55.318 Game saved successfully (savegame1).
+2025-10-23 17:47:29.319 szagh joined the game
+2025-10-23 17:47:29.343 dataS/character/playerM/attachments/headgearBeanie.i3d (9.64 ms)
+2025-10-23 17:47:29.356 FS25_UnloadBalesEarly: Sending new settings
+2025-10-23 17:47:29.356 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-23 17:47:29.358 FS25_UnloadBalesEarly: Sending new settings
+2025-10-23 17:47:29.358 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-23 17:47:29.359 FS25_UnloadBalesEarly: Sending new settings
+2025-10-23 17:47:29.359 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-23 17:47:29.359 FS25_UnloadBalesEarly: Sending new settings
+2025-10-23 17:47:29.359 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-23 17:47:29.360 FS25_UnloadBalesEarly: Sending new settings
+2025-10-23 17:47:29.360 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-23 17:47:29.361 FS25_UnloadBalesEarly: Sending new settings
+2025-10-23 17:47:29.361 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-23 17:47:29.367 dataS/character/playerM/attachments/glassesSports01.i3d (0.90 ms)
+2025-10-23 17:47:29.386 dataS/character/playerM/facialHair/mHead01/muttonChops03.i3d (18.34 ms)
+2025-10-23 17:47:47.111 FS25_UnloadBalesEarly: Sending new settings
+2025-10-23 17:47:47.111 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-23 17:47:47.112 FS25_UnloadBalesEarly: Sending new settings
+2025-10-23 17:47:47.112 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-23 17:47:47.112 FS25_UnloadBalesEarly: Sending new settings
+2025-10-23 17:47:47.112 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-23 17:47:47.112 FS25_UnloadBalesEarly: Sending new settings
+2025-10-23 17:47:47.113 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-23 17:47:47.113 FS25_UnloadBalesEarly: Sending new settings
+2025-10-23 17:47:47.113 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-23 17:47:47.113 FS25_UnloadBalesEarly: Sending new settings
+2025-10-23 17:47:47.113 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-23 17:47:47.113 FS25_UnloadBalesEarly: Sending new settings
+2025-10-23 17:47:47.113 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-23 17:47:47.113 FS25_UnloadBalesEarly: Sending new settings
+2025-10-23 17:47:47.113 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-23 17:55:45.130 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.57 ms)
+2025-10-23 17:55:45.204 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_mrhHandLiftableConsumables/bagsStack/bagsStack.i3d (2.76 ms)
+2025-10-23 18:03:58.214 Game saved successfully (savegame1).
+2025-10-23 18:07:00.628 Daniel joined the game
+2025-10-23 18:07:00.660 FS25_UnloadBalesEarly: Sending new settings
+2025-10-23 18:07:00.660 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-23 18:07:00.663 FS25_UnloadBalesEarly: Sending new settings
+2025-10-23 18:07:00.663 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-23 18:07:00.665 FS25_UnloadBalesEarly: Sending new settings
+2025-10-23 18:07:00.665 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-23 18:07:00.666 FS25_UnloadBalesEarly: Sending new settings
+2025-10-23 18:07:00.666 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-23 18:07:00.667 FS25_UnloadBalesEarly: Sending new settings
+2025-10-23 18:07:00.667 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-23 18:07:00.669 FS25_UnloadBalesEarly: Sending new settings
+2025-10-23 18:07:00.669 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-23 18:07:00.671 FS25_UnloadBalesEarly: Sending new settings
+2025-10-23 18:07:00.671 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-23 18:07:00.679 dataS/character/playerM/jacket/topDenimJacket.i3d (32.63 ms)
+2025-10-23 18:07:00.726 dataS/character/playerM/gloves/glovesKevlar.i3d (4.85 ms)
+2025-10-23 18:07:00.874 dataS/character/playerM/shoes/laceUpSneaker.i3d (148.56 ms)
+2025-10-23 18:07:00.892 dataS/character/playerM/facialHair/mHead02/trimmedBeard.i3d (10.30 ms)
+2025-10-23 18:07:15.439 FS25_UnloadBalesEarly: Sending new settings
+2025-10-23 18:07:15.439 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-23 18:07:15.440 FS25_UnloadBalesEarly: Sending new settings
+2025-10-23 18:07:15.440 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-23 18:07:15.440 FS25_UnloadBalesEarly: Sending new settings
+2025-10-23 18:07:15.440 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-23 18:07:15.440 FS25_UnloadBalesEarly: Sending new settings
+2025-10-23 18:07:15.440 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-23 18:07:15.440 FS25_UnloadBalesEarly: Sending new settings
+2025-10-23 18:07:15.441 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-23 18:07:15.441 FS25_UnloadBalesEarly: Sending new settings
+2025-10-23 18:07:15.441 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-23 18:07:15.441 FS25_UnloadBalesEarly: Sending new settings
+2025-10-23 18:07:15.441 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-23 18:07:15.441 FS25_UnloadBalesEarly: Sending new settings
+2025-10-23 18:07:15.441 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-23 18:07:15.441 FS25_UnloadBalesEarly: Sending new settings
+2025-10-23 18:07:15.441 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-23 18:12:40.775 dataS/character/playerF/pants/botChinos.i3d (15.88 ms)
+2025-10-23 18:12:40.924 dataS/character/playerF/heads/fHead06.i3d (127.61 ms)
+2025-10-23 18:12:41.673 dataS/character/playerF/shirts/topBlouse.i3d (704.71 ms)
+2025-10-23 18:12:41.681 dataS/character/playerF/shoes/sneaker01.i3d (8.35 ms)
+2025-10-23 18:12:41.726 dataS/character/playerF/hairStyles/hairStyleMidSideParted.i3d (45.23 ms)
+2025-10-23 18:14:08.716 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_BigWhiteCowBarn/bunkerSiloMedium.i3d (30.08 ms)
+2025-10-23 18:26:56.531 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_BuildingKolonia/cow.i3d (248.39 ms)
+2025-10-23 18:26:56.678 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_BuildingKolonia/navigationMesh.i3d (0.61 ms)
