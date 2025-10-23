@@ -5578,3 +5578,58 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-10-23 21:29:15.707   Info: Moved 1 vehicles to coordinates 786, 1407 successfully.
 2025-10-23 21:31:13.003 M@rcin lost connection to the game
 2025-10-23 21:32:05.229 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_LizardPS/LizardPS15.i3d (60.52 ms)
+2025-10-23 21:33:55.125   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_ursus385_A_PL/xml/385A.xml): Direction alignment and rotation alignment used at the same time for movingPart 'movingPartRightHand_group' in 'vehicle.cylindered.movingParts.movingPart(45)'
+2025-10-23 21:33:55.125   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_ursus385_A_PL/xml/385A.xml): Direction alignment and rotation alignment used at the same time for movingPart 'movingPartLeftHand_group' in 'vehicle.cylindered.movingParts.movingPart(46)'
+2025-10-23 21:33:55.443   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_ursus385_A_PL/xml/385A.xml): Failed to find material by material slot name 'DachMat' in 'vehicle.designColor5Configurations.material(0)'
+2025-10-23 21:33:58.601   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Ursus C-385A'
+2025-10-23 21:36:49.166   Info: Super Strength enabled by szagh
+2025-10-23 21:39:01.668   Info: Super Strength disabled by szagh
+2025-10-23 21:41:20.397   Info: Super Strength enabled by szagh
+2025-10-23 21:41:44.432   Info: Super Strength disabled by szagh
+2025-10-23 21:42:22.029   Info: Moved player to coordinates 1202, 591 successfully.
+2025-10-23 21:42:24.216 data/objects/bigBagPallet/bigBagPallet.i3d (1.50 ms)
+2025-10-23 21:45:01.544   Info: Moved player to coordinates 1204, 587 successfully.
+2025-10-23 21:45:07.855 data/objects/pallets/liquidTank/liquidTank.i3d (1.20 ms)
+2025-10-23 21:45:07.875 data/objects/bigBagPallet/bigBagPallet.i3d (1.49 ms)
+2025-10-23 21:45:17.999 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.61 ms)
+2025-10-23 21:45:18.055 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_lsfmBigBagPack/objects/bigBag/bigBag.i3d (1.55 ms)
+2025-10-23 21:48:41.342 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Fortschritt_ZT300_Pack/vehicles/ZT_303.i3d (1207.62 ms)
+2025-10-23 21:48:42.072 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Fortschritt_ZT300_Pack/Wheels/R20.i3d (594.99 ms)
+2025-10-23 21:48:42.217 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Fortschritt_ZT300_Pack/Wheels/R34.i3d (144.48 ms)
+2025-10-23 21:48:42.232 Error: Can't load resource 'gen_singleColorTexture_0_4286479998'.
+2025-10-23 21:48:42.232   DevWarning: material 'tyreMaterial' is having the albedo map removed by script. This can cause problems on consoles as the correct shader will not be built for this case.
+2025-10-23 21:48:42.232 Error: Can't load resource 'gen_singleColorTexture_0_4286479998'.
+2025-10-23 21:48:42.232   DevWarning: material 'tyreMaterial' is having the albedo map removed by script. This can cause problems on consoles as the correct shader will not be built for this case.
+2025-10-23 21:48:47.497   Info: Added € 4,000 to farm account. (9)
+2025-10-23 21:48:58.177   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Fortschritt ZT 303'
+2025-10-23 21:50:32.968 Game saved successfully (savegame1).
+2025-10-23 21:52:00.803   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_ursus385_A_PL/xml/385.xml): Direction alignment and rotation alignment used at the same time for movingPart 'movingPartRightHand_group' in 'vehicle.cylindered.movingParts.movingPart(45)'
+2025-10-23 21:52:00.803   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_ursus385_A_PL/xml/385.xml): Direction alignment and rotation alignment used at the same time for movingPart 'movingPartLeftHand_group' in 'vehicle.cylindered.movingParts.movingPart(46)'
+2025-10-23 21:52:01.139   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_ursus385_A_PL/xml/385.xml): Failed to find material by material slot name 'DachMat' in 'vehicle.designColor5Configurations.material(0)'
+2025-10-23 21:52:05.008   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Ursus C-385 Fast transmission'
+2025-10-23 21:53:59.902 Error: Can't load resource 'gen_singleColorTexture_0_4286479998'.
+2025-10-23 21:53:59.902   DevWarning: material 'tyreMaterial' is having the albedo map removed by script. This can cause problems on consoles as the correct shader will not be built for this case.
+2025-10-23 21:53:59.903 Error: Can't load resource 'gen_singleColorTexture_0_4286479998'.
+2025-10-23 21:53:59.903   DevWarning: material 'tyreMaterial' is having the albedo map removed by script. This can cause problems on consoles as the correct shader will not be built for this case.
+2025-10-23 21:54:04.410   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Fortschritt ZT 303-D'
+2025-10-23 21:54:45.549   Info: Added € 800 to farm account. (9)
+2025-10-23 22:01:19.687 zwierek left the game
+2025-10-23 22:02:39.258   Info: Super Strength enabled by szagh
+2025-10-23 22:04:59.576   Info: Super Strength disabled by szagh
+2025-10-23 22:05:14.600 data/objects/bigBagPallet/bigBagPallet.i3d (1.50 ms)
+2025-10-23 22:06:22.501   Info: Added € 150 to farm account. (6)
+2025-10-23 22:06:40.165   Info: Added € 150 to farm account. (9)
+2025-10-23 22:08:11.328 szagh left the game
+2025-10-23 22:11:55.772   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_ursus385_A_PL/xml/385.xml): Direction alignment and rotation alignment used at the same time for movingPart 'movingPartRightHand_group' in 'vehicle.cylindered.movingParts.movingPart(45)'
+2025-10-23 22:11:55.772   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_ursus385_A_PL/xml/385.xml): Direction alignment and rotation alignment used at the same time for movingPart 'movingPartLeftHand_group' in 'vehicle.cylindered.movingParts.movingPart(46)'
+2025-10-23 22:11:55.997   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_ursus385_A_PL/xml/385.xml): Top arm filename is referring to the i3d file. Please use the xml file instead. (data/shared/assets/upperLinks/walterscheid02.i3d)
+2025-10-23 22:11:55.998   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_ursus385_A_PL/xml/385.xml): Top arm has been renamed from 'walterscheid02' to 'walterscheidSO_65_660' in 'vehicle.attacherJoints.attacherJointConfigurations.attacherJointConfiguration(3).attacherJoint(0).topArm' (Names now include type, diameter and min. length)
+2025-10-23 22:11:55.999   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_ursus385_A_PL/xml/385.xml): Invalid vehicle material template '' in 'vehicle.attacherJoints.attacherJointConfigurations.attacherJointConfiguration(3).attacherJoint(0).topArm#materialTemplateName2'.
+2025-10-23 22:11:55.999   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_ursus385_A_PL/xml/385.xml): Missing categoryRange or widthRange attribute for bottom arm in 'vehicle.attacherJoints.attacherJointConfigurations.attacherJointConfiguration(3).attacherJoint(0)'
+2025-10-23 22:11:56.001   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_ursus385_A_PL/xml/385.xml): Top arm filename is referring to the i3d file. Please use the xml file instead. (data/shared/assets/upperLinks/walterscheid01.i3d)
+2025-10-23 22:11:56.001   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_ursus385_A_PL/xml/385.xml): Top arm has been renamed from 'walterscheid01' to 'walterscheidSO_65_460' in 'vehicle.attacherJoints.attacherJointConfigurations.attacherJointConfiguration(3).attacherJoint(4).topArm' (Names now include type, diameter and min. length)
+2025-10-23 22:11:56.002   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_ursus385_A_PL/xml/385.xml): Invalid vehicle material template '' in 'vehicle.attacherJoints.attacherJointConfigurations.attacherJointConfiguration(3).attacherJoint(4).topArm#materialTemplateName2'.
+2025-10-23 22:11:56.002   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_ursus385_A_PL/xml/385.xml): Missing categoryRange or widthRange attribute for bottom arm in 'vehicle.attacherJoints.attacherJointConfigurations.attacherJointConfiguration(3).attacherJoint(4)'
+2025-10-23 22:11:56.125   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_ursus385_A_PL/xml/385.xml): Failed to find material by material slot name 'DachMat' in 'vehicle.designColor5Configurations.material(0)'
+2025-10-23 22:11:57.586   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Ursus C-385 Fast transmission'
+2025-10-23 22:20:33.780 Game saved successfully (savegame1).
