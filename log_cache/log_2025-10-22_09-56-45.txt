@@ -6298,3 +6298,10 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-10-23 18:14:08.716 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_BigWhiteCowBarn/bunkerSiloMedium.i3d (30.08 ms)
 2025-10-23 18:26:56.531 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_BuildingKolonia/cow.i3d (248.39 ms)
 2025-10-23 18:26:56.678 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_BuildingKolonia/navigationMesh.i3d (0.61 ms)
+2025-10-23 18:34:01.614 Game saved successfully (savegame1).
+2025-10-23 18:34:40.540 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_ModernCowsBarn28x17/I3D/Obora.i3d (189.17 ms)
+2025-10-23 18:34:40.573 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_ModernCowsBarn28x17/I3D/NavMesh.i3d (0.46 ms)
+2025-10-23 18:34:47.845 Kuno lis lost connection to the game
+2025-10-23 18:35:57.827   Info: Set farm account balance to € 21,608. (6)
+2025-10-23 18:38:49.349 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.78 ms)
+2025-10-23 18:38:49.408 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_mrhHandLiftableConsumables/bagsStack/bagsStack.i3d (1.15 ms)
