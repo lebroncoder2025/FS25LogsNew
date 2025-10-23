@@ -5643,3 +5643,35 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-10-23 22:31:45.991 FS25_UnloadBalesEarly: Done sending new settings
 2025-10-23 22:31:45.992 FS25_UnloadBalesEarly: Sending new settings
 2025-10-23 22:31:45.992 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-23 22:42:54.081 hubsonwaliszot lost connection to the game
+2025-10-23 22:48:40.841 hubsonwaliszot joined the game
+2025-10-23 22:48:40.864 FS25_UnloadBalesEarly: Sending new settings
+2025-10-23 22:48:40.864 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-23 22:50:11.752 FS25_UnloadBalesEarly: Sending new settings
+2025-10-23 22:50:11.752 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-23 22:50:11.752 FS25_UnloadBalesEarly: Sending new settings
+2025-10-23 22:50:11.752 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-23 22:50:11.753 FS25_UnloadBalesEarly: Sending new settings
+2025-10-23 22:50:11.753 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-23 22:50:34.323 Game saved successfully (savegame1).
+2025-10-23 23:06:04.464 data/objects/bigBagPallet/bigBagPallet.i3d (2.50 ms)
+2025-10-23 23:06:05.453 data/objects/pallets/liquidTank/liquidTank.i3d (1.48 ms)
+2025-10-23 23:07:35.780 data/objects/bigBagPallet/bigBagPallet.i3d (1.55 ms)
+2025-10-23 23:13:02.037 siejA joined the game
+2025-10-23 23:13:02.059 FS25_UnloadBalesEarly: Sending new settings
+2025-10-23 23:13:02.059 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-23 23:13:02.060 FS25_UnloadBalesEarly: Sending new settings
+2025-10-23 23:13:02.060 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-23 23:13:02.199 dataS/character/playerM/fullBody/strauss/motion2020PantsVariant2ndVariant.i3d (145.49 ms)
+2025-10-23 23:13:02.237 dataS/character/playerM/hairStyles/hairStyleFringe.i3d (37.75 ms)
+2025-10-23 23:13:02.259 dataS/character/playerM/facialHair/mHead01/goatee01.i3d (22.52 ms)
+2025-10-23 23:13:20.612 FS25_UnloadBalesEarly: Sending new settings
+2025-10-23 23:13:20.612 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-23 23:13:20.613 FS25_UnloadBalesEarly: Sending new settings
+2025-10-23 23:13:20.613 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-23 23:13:20.614 FS25_UnloadBalesEarly: Sending new settings
+2025-10-23 23:13:20.614 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-23 23:13:20.614 FS25_UnloadBalesEarly: Sending new settings
+2025-10-23 23:13:20.614 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-23 23:18:50.099 Warning: Send called with unknown target address.
+2025-10-23 23:18:50.108 siejA left the game
