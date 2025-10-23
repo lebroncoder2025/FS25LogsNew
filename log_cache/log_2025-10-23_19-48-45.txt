@@ -5530,3 +5530,16 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-10-23 20:30:16.835   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_ursus385_A_PL/xml/385.xml): Failed to find material by material slot name 'DachMat' in 'vehicle.designColor5Configurations.material(0)'
 2025-10-23 20:30:20.257   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Ursus C-385 Fast transmission'
 2025-10-23 20:32:33.682 zone lost connection to the game
+2025-10-23 20:33:13.079 Piotrek left the game
+2025-10-23 20:34:11.226 data/shared/wheels/tires/trelleborg/TM800/480_65R28.i3d (6.92 ms)
+2025-10-23 20:34:11.229 data/shared/wheels/tires/trelleborg/TM800/600_65R38.i3d (2.52 ms)
+2025-10-23 20:34:18.467   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Landini 8880 Pumped'
+2025-10-23 20:34:58.533 Jolero left the game
+2025-10-23 20:34:59.429 Game saved successfully (savegame1).
+2025-10-23 20:36:15.335   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Massey Ferguson 310'
+2025-10-23 20:36:17.329 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_MetalFach_T229/T229.i3d (209.56 ms)
+2025-10-23 20:39:06.269 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_UrsusC355xC360Pack/frontloaders/TurUrsus.i3d (2.77 ms)
+2025-10-23 20:39:39.486 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Suer_Weight_pack/vehicles/SB700.i3d (0.63 ms)
+2025-10-23 20:39:44.936   Info: [Easy Development Controls] User szagh has logged in as master user.
+2025-10-23 20:39:55.834   Info: Moved player to coordinates 1209, 598 successfully.
+2025-10-23 20:46:07.001 Kuno lis lost connection to the game
