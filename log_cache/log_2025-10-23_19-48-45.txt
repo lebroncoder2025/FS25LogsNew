@@ -5685,3 +5685,6 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-10-24 00:14:04.513 data/objects/pallets/liquidTank/liquidTank.i3d (1.19 ms)
 2025-10-24 00:14:31.961 data/objects/pallets/liquidTank/liquidTank.i3d (1.16 ms)
 2025-10-24 00:14:37.592 data/objects/pallets/liquidTank/liquidTank.i3d (1.45 ms)
+2025-10-24 00:20:38.964 Game saved successfully (savegame1).
+2025-10-24 00:32:01.086 Daniel left the game
+2025-10-24 00:32:07.731 hubsonwaliszot left the game
