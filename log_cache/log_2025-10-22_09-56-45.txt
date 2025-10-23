@@ -6487,3 +6487,5 @@ dataS/scripts/placeables/specializations/PlaceableObjectStorage.lua:348: attempt
 2025-10-23 19:20:58.487 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.62 ms)
 2025-10-23 19:21:46.520 data/objects/pallets/liquidTank/liquidTank.i3d (1.12 ms)
 2025-10-23 19:34:12.045 Game saved successfully (savegame1).
+2025-10-23 19:38:07.687   Info: Moved player to coordinates 565, 820 successfully.
+2025-10-23 19:39:10.273   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Zetor 10045'
