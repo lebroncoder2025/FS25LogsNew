@@ -6134,3 +6134,86 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-10-23 16:39:40.909 FS25_UnloadBalesEarly: Done sending new settings
 2025-10-23 16:39:40.909 FS25_UnloadBalesEarly: Sending new settings
 2025-10-23 16:39:40.909 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-23 16:46:53.419 zone lost connection to the game
+2025-10-23 16:52:07.321   Info: Successfully set fill unit 1 of KRONE Turbo 2500 to Grass with a fill level of 25,000 liters.
+2025-10-23 16:52:39.176 zone joined the game
+2025-10-23 16:52:39.200 FS25_UnloadBalesEarly: Sending new settings
+2025-10-23 16:52:39.200 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-23 16:52:39.201 dataS/character/playerM/heads/mHead02.i3d (8.04 ms)
+2025-10-23 16:52:39.201 FS25_UnloadBalesEarly: Sending new settings
+2025-10-23 16:52:39.201 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-23 16:52:39.202 FS25_UnloadBalesEarly: Sending new settings
+2025-10-23 16:52:39.202 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-23 16:52:39.297 dataS/character/playerM/jacket/caseIH/caseIHTop.i3d (95.98 ms)
+2025-10-23 16:52:39.304 dataS/character/playerM/attachments/caseIHhat.i3d (6.43 ms)
+2025-10-23 16:52:39.337 dataS/character/playerM/hairStyles/hairStyleFringe.i3d (32.94 ms)
+2025-10-23 16:52:39.346 dataS/character/playerM/facialHair/mHead02/fullBeard.i3d (8.77 ms)
+2025-10-23 16:52:55.966 FS25_UnloadBalesEarly: Sending new settings
+2025-10-23 16:52:55.966 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-23 16:52:55.968 FS25_UnloadBalesEarly: Sending new settings
+2025-10-23 16:52:55.968 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-23 16:52:55.968 FS25_UnloadBalesEarly: Sending new settings
+2025-10-23 16:52:55.968 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-23 16:52:55.968 FS25_UnloadBalesEarly: Sending new settings
+2025-10-23 16:52:55.968 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-23 16:52:55.968 FS25_UnloadBalesEarly: Sending new settings
+2025-10-23 16:52:55.968 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-23 16:53:28.606 data/objects/bigBag/bigBag.i3d (2.14 ms)
+2025-10-23 16:53:42.630 siejA joined the game
+2025-10-23 16:53:42.666 FS25_UnloadBalesEarly: Sending new settings
+2025-10-23 16:53:42.666 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-23 16:53:42.667 FS25_UnloadBalesEarly: Sending new settings
+2025-10-23 16:53:42.667 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-23 16:53:42.668 FS25_UnloadBalesEarly: Sending new settings
+2025-10-23 16:53:42.668 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-23 16:53:42.669 FS25_UnloadBalesEarly: Sending new settings
+2025-10-23 16:53:42.669 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-23 16:53:42.781 dataS/character/playerM/fullBody/strauss/motion2020PantsVariant2ndVariant.i3d (137.71 ms)
+2025-10-23 16:54:16.053 FS25_UnloadBalesEarly: Sending new settings
+2025-10-23 16:54:16.053 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-23 16:54:16.054 FS25_UnloadBalesEarly: Sending new settings
+2025-10-23 16:54:16.054 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-23 16:54:16.054 FS25_UnloadBalesEarly: Sending new settings
+2025-10-23 16:54:16.054 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-23 16:54:16.054 FS25_UnloadBalesEarly: Sending new settings
+2025-10-23 16:54:16.054 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-23 16:54:16.054 FS25_UnloadBalesEarly: Sending new settings
+2025-10-23 16:54:16.054 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-23 16:54:16.054 FS25_UnloadBalesEarly: Sending new settings
+2025-10-23 16:54:16.054 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-23 17:00:49.824 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.60 ms)
+2025-10-23 17:03:53.049 Game saved successfully (savegame1).
+2025-10-23 17:04:47.596 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.63 ms)
+2025-10-23 17:12:55.145   Info: Successfully set fill unit 1 of Lizard Self Made Water Tank to Water with a fill level of 1,000 liters.
+2025-10-23 17:13:06.000   Info: Successfully set fill unit 1 of Lizard Self Made Water Tank to Water with a fill level of 1,000 liters.
+2025-10-23 17:13:23.252   Info: Successfully set fill unit 1 of Lizard Self Made Water Tank to Water with a fill level of 1,000 liters.
+2025-10-23 17:14:45.204 Piotrek joined the game
+2025-10-23 17:14:45.244 FS25_UnloadBalesEarly: Sending new settings
+2025-10-23 17:14:45.244 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-23 17:14:45.245 FS25_UnloadBalesEarly: Sending new settings
+2025-10-23 17:14:45.245 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-23 17:14:45.246 FS25_UnloadBalesEarly: Sending new settings
+2025-10-23 17:14:45.246 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-23 17:14:45.247 FS25_UnloadBalesEarly: Sending new settings
+2025-10-23 17:14:45.247 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-23 17:14:45.248 FS25_UnloadBalesEarly: Sending new settings
+2025-10-23 17:14:45.248 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-23 17:14:45.267 dataS/character/playerM/shirts/topTankTop.i3d (48.46 ms)
+2025-10-23 17:14:45.272 dataS/character/playerM/gloves/glovesGeneric.i3d (4.75 ms)
+2025-10-23 17:14:45.282 dataS/character/playerM/attachments/headgearCowboy.i3d (10.26 ms)
+2025-10-23 17:14:45.283 dataS/character/playerM/shoes/sandalM02.i3d (0.81 ms)
+2025-10-23 17:14:58.546 FS25_UnloadBalesEarly: Sending new settings
+2025-10-23 17:14:58.546 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-23 17:14:58.548 FS25_UnloadBalesEarly: Sending new settings
+2025-10-23 17:14:58.548 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-23 17:14:58.548 FS25_UnloadBalesEarly: Sending new settings
+2025-10-23 17:14:58.548 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-23 17:14:58.548 FS25_UnloadBalesEarly: Sending new settings
+2025-10-23 17:14:58.548 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-23 17:14:58.548 FS25_UnloadBalesEarly: Sending new settings
+2025-10-23 17:14:58.548 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-23 17:14:58.548 FS25_UnloadBalesEarly: Sending new settings
+2025-10-23 17:14:58.548 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-23 17:14:58.548 FS25_UnloadBalesEarly: Sending new settings
+2025-10-23 17:14:58.548 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-23 17:19:11.218   Info: Successfully set fill unit 1 of KRONE Turbo 2500 to Grass with a fill level of 25,000 liters.
