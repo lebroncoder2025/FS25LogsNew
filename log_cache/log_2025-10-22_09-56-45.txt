@@ -5943,3 +5943,17 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-10-23 00:30:30.272 Game saved successfully (savegame1).
 2025-10-23 01:00:44.257 Game saved successfully (savegame1).
 2025-10-23 01:30:55.056 Game saved successfully (savegame1).
+2025-10-23 01:58:07.100 M@rcin joined the game
+2025-10-23 01:58:07.380 dataS/character/playerM/jacket/topAviatorJacket.i3d (79.34 ms)
+2025-10-23 01:58:07.381 dataS/character/playerM/attachments/glassesAviators.i3d (0.82 ms)
+2025-10-23 01:58:07.419 dataS/character/playerM/hairStyles/hairStyleDiablo.i3d (37.51 ms)
+2025-10-23 01:58:07.420 dataS/character/playerM/facialHair/mHead01/beardStubble.i3d (1.12 ms)
+2025-10-23 01:58:43.873 FS25_UnloadBalesEarly: Sending new settings
+2025-10-23 01:58:43.873 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-23 01:58:43.875 FS25_UnloadBalesEarly: Sending new settings
+2025-10-23 01:58:43.875 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-23 02:00:59.291 Game saved successfully (savegame1).
+2025-10-23 02:30:59.443 Game saved successfully (savegame1).
+2025-10-23 02:53:44.636 M@rcin lost connection to the game
+2025-10-23 03:01:09.974 Game saved successfully (savegame1).
+2025-10-23 03:31:17.279 Game saved successfully (savegame1).
