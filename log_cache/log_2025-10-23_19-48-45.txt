@@ -5675,3 +5675,4 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-10-23 23:13:20.614 FS25_UnloadBalesEarly: Done sending new settings
 2025-10-23 23:18:50.099 Warning: Send called with unknown target address.
 2025-10-23 23:18:50.108 siejA left the game
+2025-10-23 23:20:35.315 Game saved successfully (savegame1).
