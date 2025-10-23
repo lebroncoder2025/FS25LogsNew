@@ -6305,3 +6305,182 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-10-23 18:35:57.827   Info: Set farm account balance to € 21,608. (6)
 2025-10-23 18:38:49.349 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.78 ms)
 2025-10-23 18:38:49.408 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_mrhHandLiftableConsumables/bagsStack/bagsStack.i3d (1.15 ms)
+2025-10-23 18:44:56.452 dataS/character/playerF/pants/botCargo.i3d (22.37 ms)
+2025-10-23 18:44:56.481 dataS/character/playerF/jacket/topVest.i3d (29.71 ms)
+2025-10-23 18:44:56.485 dataS/character/playerF/shoes/workboot02.i3d (3.87 ms)
+2025-10-23 18:44:56.526 dataS/character/playerF/hairStyles/hairStylePonyTail03.i3d (40.78 ms)
+2025-10-23 18:59:31.224   Info: [Easy Development Controls] User szagh has logged in as master user.
+2025-10-23 19:00:12.184   Info: Updated field 139 successfully (9) (1)
+2025-10-23 19:01:22.378   Info: Updated field 139 successfully (9) (1)
+2025-10-23 19:01:25.505 data/placeables/brandless/lightsResidential/lightPole03/lightPole03.i3d (1.27 ms)
+2025-10-23 19:01:45.030 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_productionDecorationPack/plasticCrates.i3d (7.22 ms)
+2025-10-23 19:01:56.771 data/placeables/brandless/decoration/statues/scarecrow.i3d (538.40 ms)
+2025-10-23 19:03:43.019   Info: Updated field 156 successfully (9) (1)
+2025-10-23 19:04:08.666 Game saved successfully (savegame1).
+2025-10-23 19:04:12.182   Info: Set farm account balance to € 120,000. (9)
+2025-10-23 19:05:04.426 M@rcin joined the game
+2025-10-23 19:05:04.464 dataS/character/playerM/jacket/topAviatorJacket.i3d (22.64 ms)
+2025-10-23 19:05:04.467 FS25_UnloadBalesEarly: Sending new settings
+2025-10-23 19:05:04.467 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-23 19:05:04.468 FS25_UnloadBalesEarly: Sending new settings
+2025-10-23 19:05:04.468 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-23 19:05:04.469 FS25_UnloadBalesEarly: Sending new settings
+2025-10-23 19:05:04.469 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-23 19:05:04.470 FS25_UnloadBalesEarly: Sending new settings
+2025-10-23 19:05:04.470 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-23 19:05:04.471 FS25_UnloadBalesEarly: Sending new settings
+2025-10-23 19:05:04.471 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-23 19:05:04.472 FS25_UnloadBalesEarly: Sending new settings
+2025-10-23 19:05:04.472 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-23 19:05:04.473 FS25_UnloadBalesEarly: Sending new settings
+2025-10-23 19:05:04.473 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-23 19:05:04.503 dataS/character/playerM/hairStyles/hairStyleDiablo.i3d (39.66 ms)
+2025-10-23 19:05:04.505 dataS/character/playerM/facialHair/mHead01/beardStubble.i3d (1.22 ms)
+2025-10-23 19:05:18.654 Kuno lis joined the game
+2025-10-23 19:05:18.681 FS25_UnloadBalesEarly: Sending new settings
+2025-10-23 19:05:18.681 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-23 19:05:18.682 FS25_UnloadBalesEarly: Sending new settings
+2025-10-23 19:05:18.682 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-23 19:05:18.683 FS25_UnloadBalesEarly: Sending new settings
+2025-10-23 19:05:18.683 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-23 19:05:18.684 FS25_UnloadBalesEarly: Sending new settings
+2025-10-23 19:05:18.684 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-23 19:05:18.685 FS25_UnloadBalesEarly: Sending new settings
+2025-10-23 19:05:18.685 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-23 19:05:18.686 FS25_UnloadBalesEarly: Sending new settings
+2025-10-23 19:05:18.686 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-23 19:05:18.688 FS25_UnloadBalesEarly: Sending new settings
+2025-10-23 19:05:18.688 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-23 19:05:18.763 dataS/character/playerM/pants/tweedTrousers.i3d (93.66 ms)
+2025-10-23 19:05:18.764 dataS/character/playerM/attachments/glassesSports02.i3d (0.85 ms)
+2025-10-23 19:05:18.788 dataS/character/playerM/shoes/cowboy.i3d (24.62 ms)
+2025-10-23 19:05:18.797 dataS/character/playerM/facialHair/mHead01/fullBeard.i3d (8.80 ms)
+2025-10-23 19:05:26.000 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_AgromaszFalcon3/falcon.i3d (165.76 ms)
+2025-10-23 19:05:26.115 data/shared/wheels/tires/trelleborg/SK800/23x8_5R12.i3d (1.63 ms)
+2025-10-23 19:05:56.144 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.60 ms)
+2025-10-23 19:05:56.205 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_mrhHandLiftableConsumables/bagsStack/bagsStack.i3d (1.17 ms)
+2025-10-23 19:06:00.119 FS25_UnloadBalesEarly: Sending new settings
+2025-10-23 19:06:00.119 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-23 19:06:00.120 FS25_UnloadBalesEarly: Sending new settings
+2025-10-23 19:06:00.120 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-23 19:06:00.120 FS25_UnloadBalesEarly: Sending new settings
+2025-10-23 19:06:00.120 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-23 19:06:00.120 FS25_UnloadBalesEarly: Sending new settings
+2025-10-23 19:06:00.120 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-23 19:06:00.120 FS25_UnloadBalesEarly: Sending new settings
+2025-10-23 19:06:00.120 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-23 19:06:00.120 FS25_UnloadBalesEarly: Sending new settings
+2025-10-23 19:06:00.120 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-23 19:06:00.120 FS25_UnloadBalesEarly: Sending new settings
+2025-10-23 19:06:00.120 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-23 19:06:00.121 FS25_UnloadBalesEarly: Sending new settings
+2025-10-23 19:06:00.121 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-23 19:06:00.121 FS25_UnloadBalesEarly: Sending new settings
+2025-10-23 19:06:00.121 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-23 19:06:00.121 FS25_UnloadBalesEarly: Sending new settings
+2025-10-23 19:06:00.121 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-23 19:06:14.112 FS25_UnloadBalesEarly: Sending new settings
+2025-10-23 19:06:14.112 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-23 19:06:14.113 FS25_UnloadBalesEarly: Sending new settings
+2025-10-23 19:06:14.113 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-23 19:06:14.113 FS25_UnloadBalesEarly: Sending new settings
+2025-10-23 19:06:14.113 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-23 19:06:14.113 FS25_UnloadBalesEarly: Sending new settings
+2025-10-23 19:06:14.113 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-23 19:06:14.113 FS25_UnloadBalesEarly: Sending new settings
+2025-10-23 19:06:14.113 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-23 19:06:14.113 FS25_UnloadBalesEarly: Sending new settings
+2025-10-23 19:06:14.113 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-23 19:06:14.113 FS25_UnloadBalesEarly: Sending new settings
+2025-10-23 19:06:14.114 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-23 19:06:14.114 FS25_UnloadBalesEarly: Sending new settings
+2025-10-23 19:06:14.114 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-23 19:06:14.114 FS25_UnloadBalesEarly: Sending new settings
+2025-10-23 19:06:14.114 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-23 19:06:14.114 FS25_UnloadBalesEarly: Sending new settings
+2025-10-23 19:06:14.114 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-23 19:06:54.908 Error: Running LUA method 'update'.
+dataS/scripts/placeables/specializations/PlaceableObjectStorage.lua:348: attempt to index nil with 'ABSTRACT_OBJECT_ID'
+2025-10-23 19:06:54.935 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-10-23 19:06:54.935 Error: Running LUA method 'update'.
+dataS/scripts/placeables/specializations/PlaceableObjectStorage.lua:348: attempt to index nil with 'ABSTRACT_OBJECT_ID'
+2025-10-23 19:06:54.960 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-10-23 19:06:55.004 Error: Running LUA method 'update'.
+dataS/scripts/placeables/specializations/PlaceableObjectStorage.lua:348: attempt to index nil with 'ABSTRACT_OBJECT_ID'
+2025-10-23 19:06:55.025 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-10-23 19:06:55.026 Error: Running LUA method 'update'.
+dataS/scripts/placeables/specializations/PlaceableObjectStorage.lua:348: attempt to index nil with 'ABSTRACT_OBJECT_ID'
+2025-10-23 19:06:55.049 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-10-23 19:06:55.091 Error: Running LUA method 'update'.
+dataS/scripts/placeables/specializations/PlaceableObjectStorage.lua:348: attempt to index nil with 'ABSTRACT_OBJECT_ID'
+2025-10-23 19:06:55.115 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-10-23 19:06:55.115 Error: Running LUA method 'update'.
+dataS/scripts/placeables/specializations/PlaceableObjectStorage.lua:348: attempt to index nil with 'ABSTRACT_OBJECT_ID'
+2025-10-23 19:06:55.139 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-10-23 19:06:55.182 Error: Running LUA method 'update'.
+dataS/scripts/placeables/specializations/PlaceableObjectStorage.lua:348: attempt to index nil with 'ABSTRACT_OBJECT_ID'
+2025-10-23 19:06:55.205 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-10-23 19:06:55.205 Error: Running LUA method 'update'.
+dataS/scripts/placeables/specializations/PlaceableObjectStorage.lua:348: attempt to index nil with 'ABSTRACT_OBJECT_ID'
+2025-10-23 19:06:55.229 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-10-23 19:06:55.271 Error: Running LUA method 'update'.
+dataS/scripts/placeables/specializations/PlaceableObjectStorage.lua:348: attempt to index nil with 'ABSTRACT_OBJECT_ID'
+2025-10-23 19:06:55.295 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-10-23 19:06:55.296 Error: Running LUA method 'update'.
+dataS/scripts/placeables/specializations/PlaceableObjectStorage.lua:348: attempt to index nil with 'ABSTRACT_OBJECT_ID'
+2025-10-23 19:06:55.318 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-10-23 19:06:55.361 Error: Running LUA method 'update'.
+dataS/scripts/placeables/specializations/PlaceableObjectStorage.lua:348: attempt to index nil with 'ABSTRACT_OBJECT_ID'
+2025-10-23 19:06:55.384 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-10-23 19:06:55.384 Error: Running LUA method 'update'.
+dataS/scripts/placeables/specializations/PlaceableObjectStorage.lua:348: attempt to index nil with 'ABSTRACT_OBJECT_ID'
+2025-10-23 19:06:55.408 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-10-23 19:06:55.439 data/objects/pallets/liquidTank/liquidTank.i3d (1.30 ms)
+2025-10-23 19:08:22.901 data/objects/pallets/liquidTank/liquidTank.i3d (1.25 ms)
+2025-10-23 19:10:53.186 Kuno lis was kicked from the game
+2025-10-23 19:11:52.243 Kuno lis joined the game
+2025-10-23 19:11:52.266 FS25_UnloadBalesEarly: Sending new settings
+2025-10-23 19:11:52.266 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-23 19:11:52.269 FS25_UnloadBalesEarly: Sending new settings
+2025-10-23 19:11:52.269 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-23 19:11:52.270 FS25_UnloadBalesEarly: Sending new settings
+2025-10-23 19:11:52.270 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-23 19:11:52.271 FS25_UnloadBalesEarly: Sending new settings
+2025-10-23 19:11:52.271 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-23 19:11:52.272 FS25_UnloadBalesEarly: Sending new settings
+2025-10-23 19:11:52.272 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-23 19:11:52.273 FS25_UnloadBalesEarly: Sending new settings
+2025-10-23 19:11:52.273 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-23 19:11:52.274 FS25_UnloadBalesEarly: Sending new settings
+2025-10-23 19:11:52.274 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-23 19:11:52.275 FS25_UnloadBalesEarly: Sending new settings
+2025-10-23 19:11:52.275 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-23 19:11:52.358 dataS/character/playerM/pants/tweedTrousers.i3d (101.42 ms)
+2025-10-23 19:11:52.359 dataS/character/playerM/attachments/glassesSports02.i3d (0.87 ms)
+2025-10-23 19:11:52.385 dataS/character/playerM/shoes/cowboy.i3d (26.39 ms)
+2025-10-23 19:11:52.394 dataS/character/playerM/facialHair/mHead01/fullBeard.i3d (8.75 ms)
+2025-10-23 19:11:52.885 data/objects/pallets/liquidTank/liquidTank.i3d (1.50 ms)
+2025-10-23 19:12:10.096 FS25_UnloadBalesEarly: Sending new settings
+2025-10-23 19:12:10.096 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-23 19:12:10.097 FS25_UnloadBalesEarly: Sending new settings
+2025-10-23 19:12:10.097 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-23 19:12:10.098 FS25_UnloadBalesEarly: Sending new settings
+2025-10-23 19:12:10.098 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-23 19:12:10.098 FS25_UnloadBalesEarly: Sending new settings
+2025-10-23 19:12:10.098 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-23 19:12:10.098 FS25_UnloadBalesEarly: Sending new settings
+2025-10-23 19:12:10.098 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-23 19:12:10.098 FS25_UnloadBalesEarly: Sending new settings
+2025-10-23 19:12:10.098 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-23 19:12:10.098 FS25_UnloadBalesEarly: Sending new settings
+2025-10-23 19:12:10.098 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-23 19:12:10.098 FS25_UnloadBalesEarly: Sending new settings
+2025-10-23 19:12:10.098 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-23 19:12:10.098 FS25_UnloadBalesEarly: Sending new settings
+2025-10-23 19:12:10.098 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-23 19:12:10.098 FS25_UnloadBalesEarly: Sending new settings
+2025-10-23 19:12:10.099 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-23 19:15:09.587 data/objects/pallets/liquidTank/liquidTank.i3d (1.49 ms)
+2025-10-23 19:15:13.461 data/objects/pallets/liquidTank/liquidTank.i3d (1.44 ms)
+2025-10-23 19:15:26.730 data/objects/pallets/liquidTank/liquidTank.i3d (1.27 ms)
+2025-10-23 19:15:40.460 data/objects/pallets/liquidTank/liquidTank.i3d (1.36 ms)
