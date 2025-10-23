@@ -6057,3 +6057,31 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-10-23 15:36:12.199 data/objects/pallets/liquidTank/liquidTank.i3d (1.24 ms)
 2025-10-23 15:36:22.582 data/objects/pallets/liquidTank/liquidTank.i3d (1.25 ms)
 2025-10-23 15:36:44.274 data/objects/pallets/liquidTank/liquidTank.i3d (1.23 ms)
+2025-10-23 16:03:50.820 Game saved successfully (savegame1).
+2025-10-23 16:04:48.833   Info: Successfully set fill unit 1 of KRONE Turbo 2500 to Grass with a fill level of 25,000 liters.
+2025-10-23 16:06:53.075   Info: Operating time of Ursus C-385A Fast transmission changed to 20 h.
+2025-10-23 16:08:24.458 Piotrek left the game
+2025-10-23 16:11:54.452 zwierek left the game
+2025-10-23 16:14:06.836 Kuno lis joined the game
+2025-10-23 16:14:06.871 FS25_UnloadBalesEarly: Sending new settings
+2025-10-23 16:14:06.871 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-23 16:14:07.092 dataS/character/playerM/pants/tweedTrousers.i3d (239.63 ms)
+2025-10-23 16:14:07.093 dataS/character/playerM/attachments/glassesSports02.i3d (1.25 ms)
+2025-10-23 16:14:07.125 dataS/character/playerM/shoes/cowboy.i3d (31.38 ms)
+2025-10-23 16:14:07.155 dataS/character/playerM/hairStyles/hairStyleBaldTop.i3d (30.31 ms)
+2025-10-23 16:14:07.173 dataS/character/playerM/facialHair/mHead01/fullBeard.i3d (17.83 ms)
+2025-10-23 16:15:07.336 FS25_UnloadBalesEarly: Sending new settings
+2025-10-23 16:15:07.336 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-23 16:15:07.337 FS25_UnloadBalesEarly: Sending new settings
+2025-10-23 16:15:07.337 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-23 16:15:07.337 FS25_UnloadBalesEarly: Sending new settings
+2025-10-23 16:15:07.337 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-23 16:23:16.439 zwierek joined the game
+2025-10-23 16:23:16.467 dataS/character/playerM/pants/botJeanShorts.i3d (16.15 ms)
+2025-10-23 16:23:16.468 dataS/character/playerM/attachments/glassesAviators.i3d (0.82 ms)
+2025-10-23 16:23:16.471 FS25_UnloadBalesEarly: Sending new settings
+2025-10-23 16:23:16.471 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-23 16:23:16.472 FS25_UnloadBalesEarly: Sending new settings
+2025-10-23 16:23:16.472 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-23 16:23:16.562 dataS/character/playerM/shoes/sandalM03.i3d (94.03 ms)
+2025-10-23 16:23:16.570 dataS/character/playerM/facialHair/mHead01/walrusXL.i3d (8.08 ms)
