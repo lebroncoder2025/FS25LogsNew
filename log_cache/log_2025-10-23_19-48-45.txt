@@ -5633,3 +5633,13 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-10-23 22:11:56.125   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_ursus385_A_PL/xml/385.xml): Failed to find material by material slot name 'DachMat' in 'vehicle.designColor5Configurations.material(0)'
 2025-10-23 22:11:57.586   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Ursus C-385 Fast transmission'
 2025-10-23 22:20:33.780 Game saved successfully (savegame1).
+2025-10-23 22:26:56.868 hubsonwaliszot lost connection to the game
+2025-10-23 22:30:07.653 hubsonwaliszot joined the game
+2025-10-23 22:30:07.689 FS25_UnloadBalesEarly: Sending new settings
+2025-10-23 22:30:07.689 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-23 22:31:45.991 FS25_UnloadBalesEarly: Sending new settings
+2025-10-23 22:31:45.991 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-23 22:31:45.991 FS25_UnloadBalesEarly: Sending new settings
+2025-10-23 22:31:45.991 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-23 22:31:45.992 FS25_UnloadBalesEarly: Sending new settings
+2025-10-23 22:31:45.992 FS25_UnloadBalesEarly: Done sending new settings
