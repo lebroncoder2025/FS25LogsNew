@@ -5678,3 +5678,123 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-10-24 19:36:00.078 FS25_UnloadBalesEarly: Sending new settings
 2025-10-24 19:36:00.078 FS25_UnloadBalesEarly: Done sending new settings
 2025-10-24 19:36:30.692 zone lost connection to the game
+2025-10-24 19:37:24.131 data/objects/pallets/liquidTank/liquidTank.i3d (1.44 ms)
+2025-10-24 19:37:24.133 data/objects/bigBagPallet/bigBagPallet.i3d (1.43 ms)
+2025-10-24 19:37:32.624 data/objects/bigBagPallet/bigBagPallet.i3d (1.66 ms)
+2025-10-24 19:37:33.678 data/objects/pallets/liquidTank/liquidTank.i3d (1.48 ms)
+2025-10-24 19:38:11.926 Game saved successfully (savegame1).
+2025-10-24 19:43:04.011 Piotrek lost connection to the game
+2025-10-24 19:46:54.774 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_lsfmBigBagPack/objects/bigBag/bigBag.i3d (1.62 ms)
+2025-10-24 19:46:55.764 data/objects/pallets/liquidTank/liquidTank.i3d (1.35 ms)
+2025-10-24 19:46:55.839 data/objects/bigBagPallet/bigBagPallet.i3d (1.65 ms)
+2025-10-24 19:47:29.224   Info: No 'ExhaustExtension' particle system added to vehicle 'Lizard Screw conveyor' because it has no exhaust
+2025-10-24 19:51:43.323 data/objects/bigBagPallet/bigBagPallet.i3d (1.62 ms)
+2025-10-24 19:51:44.632 data/objects/pallets/liquidTank/liquidTank.i3d (1.46 ms)
+2025-10-24 19:52:06.586   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'STEYR 8130 Super Elite'
+2025-10-24 19:53:46.160 data/objects/pallets/liquidTank/liquidTank.i3d (1.44 ms)
+2025-10-24 19:56:52.914 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Gorenc_Transfer_Pack/Supra.i3d (52.62 ms)
+2025-10-24 19:57:00.976 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Z263/z263.i3d (301.99 ms)
+2025-10-24 19:57:01.095 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Z263/wheels/wheels.i3d (15.49 ms)
+2025-10-24 19:57:01.178 FS25_UnloadBalesEarly: Forcing early unload possibility for baler Sipma 'z263'
+2025-10-24 19:59:49.066   Info: Added € 6,500 to farm account. (9)
+2025-10-24 20:00:51.681 data/objects/pallets/liquidTank/liquidTank.i3d (1.35 ms)
+2025-10-24 20:00:51.699 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_lsfmBigBagPack/objects/bigBag/bigBag.i3d (1.59 ms)
+2025-10-24 20:01:47.499   Info: Added € 150,000 to farm account. (6)
+2025-10-24 20:02:38.797   Info: No 'ExhaustExtension' particle system added to vehicle 'Kärcher HDS 9/18-4 M' because it has no exhaust
+2025-10-24 20:03:54.245 hubsonwaliszot joined the game
+2025-10-24 20:03:54.284 FS25_UnloadBalesEarly: Sending new settings
+2025-10-24 20:03:54.284 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-24 20:03:54.286 FS25_UnloadBalesEarly: Sending new settings
+2025-10-24 20:03:54.286 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-24 20:03:54.287 FS25_UnloadBalesEarly: Sending new settings
+2025-10-24 20:03:54.288 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-24 20:03:54.288 FS25_UnloadBalesEarly: Sending new settings
+2025-10-24 20:03:54.288 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-24 20:04:58.144 FS25_UnloadBalesEarly: Sending new settings
+2025-10-24 20:04:58.144 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-24 20:04:58.145 FS25_UnloadBalesEarly: Sending new settings
+2025-10-24 20:04:58.145 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-24 20:04:58.145 FS25_UnloadBalesEarly: Sending new settings
+2025-10-24 20:04:58.145 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-24 20:04:58.145 FS25_UnloadBalesEarly: Sending new settings
+2025-10-24 20:04:58.145 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-24 20:04:58.146 FS25_UnloadBalesEarly: Sending new settings
+2025-10-24 20:04:58.146 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-24 20:04:58.146 FS25_UnloadBalesEarly: Sending new settings
+2025-10-24 20:04:58.146 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-24 20:08:13.166 Game saved successfully (savegame1).
+2025-10-24 20:10:45.971   Info: Added € 15,000 to farm account. (6)
+2025-10-24 20:11:29.556 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_volvoF16/f16.i3d (290.93 ms)
+2025-10-24 20:11:29.657 data/shared/assets/wheelChocks/wheelChock02.i3d (1.12 ms)
+2025-10-24 20:11:29.698 data/shared/wheels/tires/continental/contiHybridHD3/315_80R22_5.i3d (1.90 ms)
+2025-10-24 20:11:29.788 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_volvoF16/shared/assets/lights/volvo/rearLight02.i3d (3.29 ms)
+2025-10-24 20:11:29.790 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_volvoF16/shared/assets/lights/volvo/workLight02.i3d (1.66 ms)
+2025-10-24 20:11:55.435 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_semiLowloader3A/semiLowloader3A.i3d (149.29 ms)
+2025-10-24 20:11:55.586 data/shared/assets/lights/lizard/rearLight32.i3d (3.12 ms)
+2025-10-24 20:11:58.442   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Volvo F16 500'
+2025-10-24 20:17:19.215 M@rcin joined the game
+2025-10-24 20:17:19.251 FS25_UnloadBalesEarly: Sending new settings
+2025-10-24 20:17:19.251 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-24 20:17:19.251 dataS/character/playerM/jacket/topAviatorJacket.i3d (22.36 ms)
+2025-10-24 20:17:19.253 FS25_UnloadBalesEarly: Sending new settings
+2025-10-24 20:17:19.253 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-24 20:17:19.254 FS25_UnloadBalesEarly: Sending new settings
+2025-10-24 20:17:19.254 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-24 20:17:19.254 FS25_UnloadBalesEarly: Sending new settings
+2025-10-24 20:17:19.254 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-24 20:17:19.255 FS25_UnloadBalesEarly: Sending new settings
+2025-10-24 20:17:19.255 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-24 20:17:19.333 dataS/character/playerM/hairStyles/hairStyleDiablo.i3d (37.71 ms)
+2025-10-24 20:17:19.367 dataS/character/playerM/facialHair/mHead01/beardStubble.i3d (1.24 ms)
+2025-10-24 20:18:13.514 FS25_UnloadBalesEarly: Sending new settings
+2025-10-24 20:18:13.514 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-24 20:18:13.514 FS25_UnloadBalesEarly: Sending new settings
+2025-10-24 20:18:13.514 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-24 20:18:13.515 FS25_UnloadBalesEarly: Sending new settings
+2025-10-24 20:18:13.515 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-24 20:18:13.515 FS25_UnloadBalesEarly: Sending new settings
+2025-10-24 20:18:13.515 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-24 20:18:13.515 FS25_UnloadBalesEarly: Sending new settings
+2025-10-24 20:18:13.515 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-24 20:18:13.515 FS25_UnloadBalesEarly: Sending new settings
+2025-10-24 20:18:13.515 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-24 20:18:13.516 FS25_UnloadBalesEarly: Sending new settings
+2025-10-24 20:18:13.516 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-24 20:19:43.477   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Ursus C-360'
+2025-10-24 20:20:54.590 szagh left the game
+2025-10-24 20:23:02.677 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Farmtech_EDK650/edk650.i3d (26.56 ms)
+2025-10-24 20:23:02.832 data/shared/wheels/tires/bkt/ridemaxFL693M/425_55R17.i3d (4.61 ms)
+2025-10-24 20:23:02.847 data/shared/assets/lights/lizard/rearLight52.i3d (2.22 ms)
+2025-10-24 20:23:02.849 data/shared/assets/lights/lizard/plateNumberLight04.i3d (2.55 ms)
+2025-10-24 20:23:02.852 data/shared/assets/lights/lizard/sideMarker24.i3d (2.27 ms)
+2025-10-24 20:23:02.855 data/shared/assets/lights/lizard/sideMarker30.i3d (3.21 ms)
+2025-10-24 20:23:13.291 Daniel joined the game
+2025-10-24 20:23:13.316 FS25_UnloadBalesEarly: Sending new settings
+2025-10-24 20:23:13.316 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-24 20:23:13.318 FS25_UnloadBalesEarly: Sending new settings
+2025-10-24 20:23:13.318 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-24 20:23:13.320 FS25_UnloadBalesEarly: Sending new settings
+2025-10-24 20:23:13.320 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-24 20:23:13.321 FS25_UnloadBalesEarly: Sending new settings
+2025-10-24 20:23:13.321 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-24 20:23:13.335 dataS/character/playerM/jacket/topDenimJacket.i3d (28.05 ms)
+2025-10-24 20:23:13.340 dataS/character/playerM/gloves/glovesKevlar.i3d (5.09 ms)
+2025-10-24 20:23:13.357 FS25_UnloadBalesEarly: Sending new settings
+2025-10-24 20:23:13.357 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-24 20:23:13.455 dataS/character/playerM/shoes/laceUpSneaker.i3d (115.20 ms)
+2025-10-24 20:23:13.465 dataS/character/playerM/facialHair/mHead02/trimmedBeard.i3d (10.30 ms)
+2025-10-24 20:23:26.486 FS25_UnloadBalesEarly: Sending new settings
+2025-10-24 20:23:26.486 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-24 20:23:26.486 FS25_UnloadBalesEarly: Sending new settings
+2025-10-24 20:23:26.486 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-24 20:23:26.487 FS25_UnloadBalesEarly: Sending new settings
+2025-10-24 20:23:26.487 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-24 20:23:26.487 FS25_UnloadBalesEarly: Sending new settings
+2025-10-24 20:23:26.487 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-24 20:23:26.487 FS25_UnloadBalesEarly: Sending new settings
+2025-10-24 20:23:26.487 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-24 20:23:26.487 FS25_UnloadBalesEarly: Sending new settings
+2025-10-24 20:23:26.487 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-24 20:23:26.487 FS25_UnloadBalesEarly: Sending new settings
+2025-10-24 20:23:26.487 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-24 20:26:50.148 M@rcin left the game
