@@ -5222,3 +5222,26 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-10-24 15:32:54.058 FS25_UnloadBalesEarly: Done sending new settings
 2025-10-24 15:32:54.058 FS25_UnloadBalesEarly: Sending new settings
 2025-10-24 15:32:54.058 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-24 15:36:51.497 siejA left the game
+2025-10-24 15:37:59.624 Game saved successfully (savegame1).
+2025-10-24 15:39:28.946 siejA joined the game
+2025-10-24 15:39:28.979 FS25_UnloadBalesEarly: Sending new settings
+2025-10-24 15:39:28.979 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-24 15:39:28.981 FS25_UnloadBalesEarly: Sending new settings
+2025-10-24 15:39:28.981 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-24 15:39:28.982 FS25_UnloadBalesEarly: Sending new settings
+2025-10-24 15:39:28.982 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-24 15:39:29.066 dataS/character/playerM/fullBody/strauss/motion2020PantsVariant2ndVariant.i3d (108.28 ms)
+2025-10-24 15:39:29.098 dataS/character/playerM/hairStyles/hairStyleFringe.i3d (32.60 ms)
+2025-10-24 15:39:39.053 FS25_UnloadBalesEarly: Sending new settings
+2025-10-24 15:39:39.053 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-24 15:39:39.053 FS25_UnloadBalesEarly: Sending new settings
+2025-10-24 15:39:39.053 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-24 15:39:39.053 FS25_UnloadBalesEarly: Sending new settings
+2025-10-24 15:39:39.053 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-24 15:39:39.053 FS25_UnloadBalesEarly: Sending new settings
+2025-10-24 15:39:39.054 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-24 15:39:39.054 FS25_UnloadBalesEarly: Sending new settings
+2025-10-24 15:39:39.054 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-24 15:41:55.821 siejA left the game
+2025-10-24 15:42:47.006   Info: Added € 46,500 to farm account. (1)
