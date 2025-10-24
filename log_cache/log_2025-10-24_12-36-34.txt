@@ -5518,3 +5518,50 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-10-24 17:31:46.356 data/objects/bigBag/bigBag.i3d (2.11 ms)
 2025-10-24 17:38:04.534 Game saved successfully (savegame1).
 2025-10-24 17:38:18.267 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_HydrantPack/6.i3d (2.25 ms)
+2025-10-24 17:39:06.135 data/objects/bigBag/bigBag.i3d (2.17 ms)
+2025-10-24 17:40:23.542 hubsonwaliszot joined the game
+2025-10-24 17:40:23.579 FS25_UnloadBalesEarly: Sending new settings
+2025-10-24 17:40:23.579 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-24 17:40:23.581 FS25_UnloadBalesEarly: Sending new settings
+2025-10-24 17:40:23.581 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-24 17:40:23.582 FS25_UnloadBalesEarly: Sending new settings
+2025-10-24 17:40:23.582 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-24 17:40:23.583 FS25_UnloadBalesEarly: Sending new settings
+2025-10-24 17:40:23.583 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-24 17:40:23.584 FS25_UnloadBalesEarly: Sending new settings
+2025-10-24 17:40:23.584 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-24 17:40:23.584 FS25_UnloadBalesEarly: Sending new settings
+2025-10-24 17:40:23.584 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-24 17:41:44.372 FS25_UnloadBalesEarly: Sending new settings
+2025-10-24 17:41:44.372 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-24 17:41:44.373 FS25_UnloadBalesEarly: Sending new settings
+2025-10-24 17:41:44.373 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-24 17:41:44.373 FS25_UnloadBalesEarly: Sending new settings
+2025-10-24 17:41:44.373 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-24 17:41:44.373 FS25_UnloadBalesEarly: Sending new settings
+2025-10-24 17:41:44.373 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-24 17:41:44.373 FS25_UnloadBalesEarly: Sending new settings
+2025-10-24 17:41:44.373 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-24 17:41:44.374 FS25_UnloadBalesEarly: Sending new settings
+2025-10-24 17:41:44.374 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-24 17:41:44.374 FS25_UnloadBalesEarly: Sending new settings
+2025-10-24 17:41:44.374 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-24 17:41:44.374 FS25_UnloadBalesEarly: Sending new settings
+2025-10-24 17:41:44.374 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-24 17:43:27.728   Info: Moved player to coordinates 636, 810 successfully.
+2025-10-24 17:49:02.506 zwierek left the game
+2025-10-24 17:49:09.795 Jolero left the game
+2025-10-24 17:49:11.216 Game saved successfully (savegame1).
+2025-10-24 18:01:08.987 data/shared/wheels/tires/trelleborg/TM700/420_70R28.i3d (2.12 ms)
+2025-10-24 18:01:08.990 data/shared/wheels/tires/trelleborg/TM700/520_70R38.i3d (1.69 ms)
+2025-10-24 18:01:12.390   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'New Holland 8340'
+2025-10-24 18:02:45.726 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Quickebox800/ballast800.i3d (16.68 ms)
+2025-10-24 18:06:10.663 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.73 ms)
+2025-10-24 18:06:10.711 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_mrhHandLiftableConsumables/bagsStack/bagsStack.i3d (2.85 ms)
+2025-10-24 18:06:47.616 Warning: Send called with unknown target address.
+2025-10-24 18:06:47.623 hubsonwaliszot left the game
+2025-10-24 18:08:06.563 Game saved successfully (savegame1).
+2025-10-24 18:20:28.742 dataS/character/playerM/heads/mHead05.i3d (233.24 ms)
+2025-10-24 18:20:28.858 dataS/character/playerM/shirts/zipNeckPullover.i3d (116.62 ms)
+2025-10-24 18:20:28.898 dataS/character/playerM/hairStyles/hairStyleManBun.i3d (39.82 ms)
+2025-10-24 18:20:28.911 dataS/character/playerM/facialHair/mHead05/goatee02.i3d (12.38 ms)
