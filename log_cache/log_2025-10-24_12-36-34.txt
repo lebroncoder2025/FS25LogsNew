@@ -5922,3 +5922,18 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-10-24 22:36:12.868 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_MBP/mbp.i3d (409.85 ms)
 2025-10-24 22:36:13.094 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_MBP/wheels/wheels.i3d (69.25 ms)
 2025-10-24 22:38:19.033 Game saved successfully (savegame1).
+2025-10-24 22:39:50.191 Daniel left the game
+2025-10-24 22:42:50.427 Warning: Send called with unknown target address.
+2025-10-24 22:42:50.439 hubsonwaliszot left the game
+2025-10-24 23:07:50.868 Warning: Send called with unknown target address.
+2025-10-24 23:07:50.882 zwierek left the game
+2025-10-24 23:08:25.966 Game saved successfully (savegame1).
+2025-10-24 23:10:43.827 siejA joined the game
+2025-10-24 23:10:44.163 dataS/character/playerM/fullBody/strauss/motion2020PantsVariant2ndVariant.i3d (136.16 ms)
+2025-10-24 23:10:44.202 dataS/character/playerM/hairStyles/hairStyleFringe.i3d (39.47 ms)
+2025-10-24 23:10:44.225 dataS/character/playerM/facialHair/mHead01/goatee01.i3d (22.41 ms)
+2025-10-24 23:11:08.963 FS25_UnloadBalesEarly: Sending new settings
+2025-10-24 23:11:08.963 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-24 23:11:08.965 FS25_UnloadBalesEarly: Sending new settings
+2025-10-24 23:11:08.965 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-24 23:13:36.637 siejA lost connection to the game
