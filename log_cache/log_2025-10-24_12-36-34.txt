@@ -5195,3 +5195,30 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-10-24 15:00:29.100 data/objects/bigBagPallet/bigBagPallet.i3d (1.66 ms)
 2025-10-24 15:00:41.610 data/objects/bigBag/bigBag.i3d (2.27 ms)
 2025-10-24 15:02:17.615   Info: Moved 1 vehicles to coordinates 562, 822 successfully.
+2025-10-24 15:04:42.833 data/objects/bigBag/bigBag.i3d (2.07 ms)
+2025-10-24 15:05:20.973 data/objects/bigBag/bigBag.i3d (2.28 ms)
+2025-10-24 15:07:54.715 Game saved successfully (savegame1).
+2025-10-24 15:15:46.361   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Case IH Puma 230 CVX - 50 km/h'
+2025-10-24 15:17:26.698   Info: Successfully set fill unit 1 of KRONE Turbo 2500 to Grass with a fill level of 25,000 liters.
+2025-10-24 15:18:07.413 Game saved successfully (savegame1).
+2025-10-24 15:26:43.716   Info: No 'ExhaustExtension' particle system added to vehicle 'Lizard S-710' because it has no exhaust
+2025-10-24 15:27:07.905   Info: No 'ExhaustExtension' particle system added to vehicle 'Grimme SL 80-22 Quantum' because it has no exhaust
+2025-10-24 15:32:43.440 siejA joined the game
+2025-10-24 15:32:43.462 FS25_UnloadBalesEarly: Sending new settings
+2025-10-24 15:32:43.462 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-24 15:32:43.463 FS25_UnloadBalesEarly: Sending new settings
+2025-10-24 15:32:43.463 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-24 15:32:43.464 FS25_UnloadBalesEarly: Sending new settings
+2025-10-24 15:32:43.464 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-24 15:32:43.597 dataS/character/playerM/fullBody/strauss/motion2020PantsVariant2ndVariant.i3d (142.15 ms)
+2025-10-24 15:32:43.637 dataS/character/playerM/hairStyles/hairStyleFringe.i3d (40.01 ms)
+2025-10-24 15:32:54.057 FS25_UnloadBalesEarly: Sending new settings
+2025-10-24 15:32:54.057 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-24 15:32:54.057 FS25_UnloadBalesEarly: Sending new settings
+2025-10-24 15:32:54.057 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-24 15:32:54.057 FS25_UnloadBalesEarly: Sending new settings
+2025-10-24 15:32:54.057 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-24 15:32:54.058 FS25_UnloadBalesEarly: Sending new settings
+2025-10-24 15:32:54.058 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-24 15:32:54.058 FS25_UnloadBalesEarly: Sending new settings
+2025-10-24 15:32:54.058 FS25_UnloadBalesEarly: Done sending new settings
