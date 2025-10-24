@@ -5914,3 +5914,6 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-10-24 21:23:52.664 FS25_UnloadBalesEarly: Done sending new settings
 2025-10-24 21:23:52.664 FS25_UnloadBalesEarly: Sending new settings
 2025-10-24 21:23:52.664 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-24 21:38:18.610 Game saved successfully (savegame1).
+2025-10-24 21:49:08.682 siejA lost connection to the game
+2025-10-24 22:08:18.916 Game saved successfully (savegame1).
