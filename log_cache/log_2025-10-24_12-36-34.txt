@@ -5245,3 +5245,104 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-10-24 15:39:39.054 FS25_UnloadBalesEarly: Done sending new settings
 2025-10-24 15:41:55.821 siejA left the game
 2025-10-24 15:42:47.006   Info: Added € 46,500 to farm account. (1)
+2025-10-24 15:50:57.928 data/objects/bigBag/bigBag.i3d (2.18 ms)
+2025-10-24 15:51:01.021 data/objects/bigBag/bigBag.i3d (2.18 ms)
+2025-10-24 15:51:03.784 data/objects/bigBag/bigBag.i3d (2.27 ms)
+2025-10-24 15:51:05.390 data/objects/bigBag/bigBag.i3d (2.13 ms)
+2025-10-24 15:51:10.134 data/objects/bigBag/bigBag.i3d (2.11 ms)
+2025-10-24 16:00:26.367 siejA joined the game
+2025-10-24 16:00:26.393 FS25_UnloadBalesEarly: Sending new settings
+2025-10-24 16:00:26.393 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-24 16:00:26.394 FS25_UnloadBalesEarly: Sending new settings
+2025-10-24 16:00:26.394 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-24 16:00:26.395 FS25_UnloadBalesEarly: Sending new settings
+2025-10-24 16:00:26.395 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-24 16:00:26.493 dataS/character/playerM/fullBody/strauss/motion2020PantsVariant2ndVariant.i3d (108.72 ms)
+2025-10-24 16:00:26.526 dataS/character/playerM/hairStyles/hairStyleFringe.i3d (32.55 ms)
+2025-10-24 16:00:36.253 FS25_UnloadBalesEarly: Sending new settings
+2025-10-24 16:00:36.253 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-24 16:00:36.254 FS25_UnloadBalesEarly: Sending new settings
+2025-10-24 16:00:36.254 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-24 16:00:36.254 FS25_UnloadBalesEarly: Sending new settings
+2025-10-24 16:00:36.254 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-24 16:00:36.254 FS25_UnloadBalesEarly: Sending new settings
+2025-10-24 16:00:36.255 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-24 16:00:36.255 FS25_UnloadBalesEarly: Sending new settings
+2025-10-24 16:00:36.255 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-24 16:06:28.856   Info: Successfully set fill unit 1 of KRONE Turbo 2500 to Hay with a fill level of 25,000 liters.
+2025-10-24 16:07:06.229 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_BizonPack/Z058.i3d (994.98 ms)
+2025-10-24 16:07:06.492 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_BizonPack/wheels/rims.i3d (122.51 ms)
+2025-10-24 16:07:06.495 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_BizonPack/Beacon/Beacon01.i3d (3.17 ms)
+2025-10-24 16:07:06.631   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_BizonPack/z058.xml): Unable to find functionName 'ATTACHERJOINT_LIFT_LOWER' for InteractiveActorFunction 'vehicle.interactiveControl.interactiveControlConfigurations.interactiveControlConfiguration(0).interactiveControls.interactiveControl(11).function(0)'
+2025-10-24 16:07:06.631   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_BizonPack/z058.xml): Could not load interactiveActor for 'vehicle.interactiveControl.interactiveControlConfigurations.interactiveControlConfiguration(0).interactiveControls.interactiveControl(11).function(0)'
+2025-10-24 16:07:06.797 Error: Can't load resource 'gen_singleColorTexture_0_4294967295'.
+2025-10-24 16:07:06.797   DevWarning: material 'tyreMaterial' is having the albedo map removed by script. This can cause problems on consoles as the correct shader will not be built for this case.
+2025-10-24 16:07:06.797 Error: Can't load resource 'gen_singleColorTexture_0_4294967295'.
+2025-10-24 16:07:06.797   DevWarning: material 'tyreMaterial' is having the albedo map removed by script. This can cause problems on consoles as the correct shader will not be built for this case.
+2025-10-24 16:07:06.797 Error: Can't load resource 'gen_singleColorTexture_0_4294967295'.
+2025-10-24 16:07:06.797   DevWarning: material 'tyreMaterial' is having the albedo map removed by script. This can cause problems on consoles as the correct shader will not be built for this case.
+2025-10-24 16:07:06.797 Error: Can't load resource 'gen_singleColorTexture_0_4294967295'.
+2025-10-24 16:07:06.798   DevWarning: material 'tyreMaterial' is having the albedo map removed by script. This can cause problems on consoles as the correct shader will not be built for this case.
+2025-10-24 16:07:19.156 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_BizonSuperZ056/bizonHeader.i3d (60.53 ms)
+2025-10-24 16:07:23.986   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'FMŻ BIZON REKORD'
+2025-10-24 16:08:00.535 Game saved successfully (savegame1).
+2025-10-24 16:08:27.776   Info: Successfully emptied fill unit 1 of KRONE Turbo 2500.
+2025-10-24 16:09:18.455   Info: Successfully emptied fill unit 1 of KRONE Turbo 2500.
+2025-10-24 16:09:48.059   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_BizonPack/z058.xml): Unable to find functionName 'ATTACHERJOINT_LIFT_LOWER' for InteractiveActorFunction 'vehicle.interactiveControl.interactiveControlConfigurations.interactiveControlConfiguration(0).interactiveControls.interactiveControl(11).function(0)'
+2025-10-24 16:09:48.059   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_BizonPack/z058.xml): Could not load interactiveActor for 'vehicle.interactiveControl.interactiveControlConfigurations.interactiveControlConfiguration(0).interactiveControls.interactiveControl(11).function(0)'
+2025-10-24 16:09:48.210 Error: Can't load resource 'gen_singleColorTexture_0_4294967295'.
+2025-10-24 16:09:48.210   DevWarning: material 'tyreMaterial' is having the albedo map removed by script. This can cause problems on consoles as the correct shader will not be built for this case.
+2025-10-24 16:09:48.211 Error: Can't load resource 'gen_singleColorTexture_0_4294967295'.
+2025-10-24 16:09:48.211   DevWarning: material 'tyreMaterial' is having the albedo map removed by script. This can cause problems on consoles as the correct shader will not be built for this case.
+2025-10-24 16:09:48.211 Error: Can't load resource 'gen_singleColorTexture_0_4294967295'.
+2025-10-24 16:09:48.211   DevWarning: material 'tyreMaterial' is having the albedo map removed by script. This can cause problems on consoles as the correct shader will not be built for this case.
+2025-10-24 16:09:48.211 Error: Can't load resource 'gen_singleColorTexture_0_4294967295'.
+2025-10-24 16:09:48.211   DevWarning: material 'tyreMaterial' is having the albedo map removed by script. This can cause problems on consoles as the correct shader will not be built for this case.
+2025-10-24 16:10:02.952   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'FMŻ BIZON REKORD'
+2025-10-24 16:11:36.493 Jolero lost connection to the game
+2025-10-24 16:13:08.686 Jolero joined the game
+2025-10-24 16:13:08.707 FS25_UnloadBalesEarly: Sending new settings
+2025-10-24 16:13:08.707 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-24 16:13:08.709 FS25_UnloadBalesEarly: Sending new settings
+2025-10-24 16:13:08.709 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-24 16:13:08.710 FS25_UnloadBalesEarly: Sending new settings
+2025-10-24 16:13:08.710 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-24 16:13:08.737 dataS/character/playerM/hairStyles/hairStyleTopKnot.i3d (36.00 ms)
+2025-10-24 16:13:22.536 FS25_UnloadBalesEarly: Sending new settings
+2025-10-24 16:13:22.536 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-24 16:13:22.536 FS25_UnloadBalesEarly: Sending new settings
+2025-10-24 16:13:22.536 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-24 16:13:22.537 FS25_UnloadBalesEarly: Sending new settings
+2025-10-24 16:13:22.537 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-24 16:13:22.537 FS25_UnloadBalesEarly: Sending new settings
+2025-10-24 16:13:22.537 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-24 16:13:22.537 FS25_UnloadBalesEarly: Sending new settings
+2025-10-24 16:13:22.537 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-24 16:13:53.044   Info: [Easy Development Controls] User Jolero has logged in as master user.
+2025-10-24 16:14:06.126   Info: Moved player to coordinates 817, 568 successfully.
+2025-10-24 16:19:43.846   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'New Holland 8340'
+2025-10-24 16:21:31.250 Piotrek joined the game
+2025-10-24 16:21:31.286 FS25_UnloadBalesEarly: Sending new settings
+2025-10-24 16:21:31.286 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-24 16:21:31.288 FS25_UnloadBalesEarly: Sending new settings
+2025-10-24 16:21:31.288 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-24 16:21:31.288 FS25_UnloadBalesEarly: Sending new settings
+2025-10-24 16:21:31.288 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-24 16:21:31.289 FS25_UnloadBalesEarly: Sending new settings
+2025-10-24 16:21:31.289 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-24 16:21:31.324 dataS/character/playerM/shirts/topTankTop.i3d (60.73 ms)
+2025-10-24 16:21:31.331 dataS/character/playerM/gloves/glovesGeneric.i3d (6.57 ms)
+2025-10-24 16:21:31.396 dataS/character/playerM/attachments/headgearCowboy.i3d (14.37 ms)
+2025-10-24 16:21:31.397 dataS/character/playerM/shoes/sandalM02.i3d (1.23 ms)
+2025-10-24 16:21:50.858 FS25_UnloadBalesEarly: Sending new settings
+2025-10-24 16:21:50.859 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-24 16:21:50.859 FS25_UnloadBalesEarly: Sending new settings
+2025-10-24 16:21:50.859 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-24 16:21:50.859 FS25_UnloadBalesEarly: Sending new settings
+2025-10-24 16:21:50.859 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-24 16:21:50.859 FS25_UnloadBalesEarly: Sending new settings
+2025-10-24 16:21:50.859 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-24 16:21:50.860 FS25_UnloadBalesEarly: Sending new settings
+2025-10-24 16:21:50.860 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-24 16:21:50.860 FS25_UnloadBalesEarly: Sending new settings
+2025-10-24 16:21:50.860 FS25_UnloadBalesEarly: Done sending new settings
