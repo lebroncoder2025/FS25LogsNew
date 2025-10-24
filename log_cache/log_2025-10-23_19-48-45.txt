@@ -5742,3 +5742,14 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-10-24 08:39:53.014 FS25_UnloadBalesEarly: Done sending new settings
 2025-10-24 08:39:53.015 FS25_UnloadBalesEarly: Sending new settings
 2025-10-24 08:39:53.015 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-24 08:53:07.061 Game saved successfully (savegame1).
+2025-10-24 09:01:04.263 szagh left the game
+2025-10-24 09:02:33.352 szagh joined the game
+2025-10-24 09:02:33.554 dataS/character/playerM/shirts/topTShirt01.i3d (2.03 ms)
+2025-10-24 09:02:33.558 dataS/character/playerM/attachments/headgearBeanie.i3d (4.09 ms)
+2025-10-24 09:02:33.559 dataS/character/playerM/attachments/glassesSports01.i3d (0.81 ms)
+2025-10-24 09:02:33.574 dataS/character/playerM/facialHair/mHead01/muttonChops03.i3d (14.83 ms)
+2025-10-24 09:02:50.655 FS25_UnloadBalesEarly: Sending new settings
+2025-10-24 09:02:50.655 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-24 09:02:50.656 FS25_UnloadBalesEarly: Sending new settings
+2025-10-24 09:02:50.656 FS25_UnloadBalesEarly: Done sending new settings
