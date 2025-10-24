@@ -5054,3 +5054,59 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-10-24 12:40:21.773 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_exhaustExtension/particles/smokeParticles.i3d (11.94 ms)
 2025-10-24 12:40:21.773 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_exhaustExtension/particles/smokeEmitterShape.i3d (0.13 ms)
 2025-10-24 12:40:21.773   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Ursus C-385A Fast transmission'
+2025-10-24 12:47:07.176   Info: Successfully set fill unit 1 of KRONE Turbo 2500 to Grass with a fill level of 25,000 liters.
+2025-10-24 12:47:40.734   Info: Successfully set fill unit 1 of KRONE Turbo 2500 to Grass with a fill level of 25,000 liters.
+2025-10-24 12:48:18.720   Info: Successfully set fill unit 1 of KRONE Turbo 2500 to Grass with a fill level of 25,000 liters.
+2025-10-24 12:49:07.615   Info: Successfully set fill unit 1 of KRONE Turbo 2500 to Grass with a fill level of 25,000 liters.
+2025-10-24 12:50:01.117   Info: Successfully set fill unit 1 of KRONE Turbo 2500 to Grass with a fill level of 25,000 liters.
+2025-10-24 12:50:16.404 zwierek joined the game
+2025-10-24 12:50:16.432 dataS/character/playerM/pants/botJeanShorts.i3d (16.16 ms)
+2025-10-24 12:50:16.436 FS25_UnloadBalesEarly: Sending new settings
+2025-10-24 12:50:16.437 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-24 12:50:16.442 dataS/character/playerM/attachments/glassesAviators.i3d (0.95 ms)
+2025-10-24 12:50:16.533 dataS/character/playerM/shoes/sandalM03.i3d (90.84 ms)
+2025-10-24 12:50:16.562 dataS/character/playerM/hairStyles/hairStyleBaldTop.i3d (29.55 ms)
+2025-10-24 12:50:16.570 dataS/character/playerM/facialHair/mHead01/walrusXL.i3d (8.03 ms)
+2025-10-24 12:50:33.953 FS25_UnloadBalesEarly: Sending new settings
+2025-10-24 12:50:33.953 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-24 12:50:33.953 FS25_UnloadBalesEarly: Sending new settings
+2025-10-24 12:50:33.953 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-24 12:50:33.954 FS25_UnloadBalesEarly: Sending new settings
+2025-10-24 12:50:33.954 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-24 12:50:48.607   Info: Successfully set fill unit 1 of KRONE Turbo 2500 to Grass with a fill level of 25,000 liters.
+2025-10-24 12:52:24.789   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Zetor 10145 Fast transmission'
+2025-10-24 12:54:43.536 szagh joined the game
+2025-10-24 12:54:43.558 dataS/character/playerM/attachments/headgearBeanie.i3d (4.27 ms)
+2025-10-24 12:54:43.559 dataS/character/playerM/attachments/glassesSports01.i3d (0.86 ms)
+2025-10-24 12:54:43.559 FS25_UnloadBalesEarly: Sending new settings
+2025-10-24 12:54:43.559 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-24 12:54:43.560 FS25_UnloadBalesEarly: Sending new settings
+2025-10-24 12:54:43.560 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-24 12:54:43.574 dataS/character/playerM/facialHair/mHead01/muttonChops03.i3d (15.04 ms)
+2025-10-24 12:55:01.869 FS25_UnloadBalesEarly: Sending new settings
+2025-10-24 12:55:01.869 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-24 12:55:01.869 FS25_UnloadBalesEarly: Sending new settings
+2025-10-24 12:55:01.869 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-24 12:55:01.869 FS25_UnloadBalesEarly: Sending new settings
+2025-10-24 12:55:01.869 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-24 12:55:01.869 FS25_UnloadBalesEarly: Sending new settings
+2025-10-24 12:55:01.869 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-24 12:58:54.335   Info: Added € 40,000 to farm account. (6)
+2025-10-24 12:59:20.940 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_SkodaKodiaq_RS_Plus/kodiaq.i3d (50.69 ms)
+2025-10-24 12:59:21.070 data/shared/wheels/rims/skoda/sagitarius.i3d (5.23 ms)
+2025-10-24 12:59:21.073 data/shared/wheels/tires/continental/ultraContactNXT/235_45R20.i3d (2.65 ms)
+2025-10-24 12:59:25.145   Info: Successfully added 'ExhaustExtension' particle system to 2 nodes of vehicle 'Skoda Kodiaq'
+2025-10-24 13:00:56.590 Warning: Send called with unknown target address.
+2025-10-24 13:00:56.601 szagh left the game
+2025-10-24 13:06:55.003   Info: Operating time of Zetor 10145 Fast transmission changed to 30 h.
+2025-10-24 13:07:40.472 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_CasePumaCVX_Tier3/CasePuma160.i3d (398.60 ms)
+2025-10-24 13:07:40.586 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_CasePumaCVX_Tier3/wheels/hubsNH.i3d (0.82 ms)
+2025-10-24 13:07:40.594 data/shared/wheels/rims/rim006.i3d (7.85 ms)
+2025-10-24 13:07:40.596 data/shared/wheels/tires/trelleborg/TM800/600_65R28.i3d (1.96 ms)
+2025-10-24 13:07:40.597 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_CasePumaCVX_Tier3/wheels/rimBack.i3d (0.73 ms)
+2025-10-24 13:07:40.599 data/shared/wheels/tires/trelleborg/TM800/710_70R38.i3d (2.69 ms)
+2025-10-24 13:07:40.696 data/shared/assets/lights/lizard/workingLight03.i3d (3.77 ms)
+2025-10-24 13:07:40.726 data/shared/assets/upperLinks/walterscheidHO_140_750.i3d (1.81 ms)
+2025-10-24 13:07:40.727 data/shared/assets/upperLinks/walterscheidSO_65_560.i3d (0.96 ms)
+2025-10-24 13:07:43.970   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Case IH 160 CVX'
+2025-10-24 13:07:52.839 Game saved successfully (savegame1).
