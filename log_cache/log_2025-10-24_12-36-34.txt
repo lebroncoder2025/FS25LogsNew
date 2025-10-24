@@ -5346,3 +5346,14 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-10-24 16:21:50.860 FS25_UnloadBalesEarly: Done sending new settings
 2025-10-24 16:21:50.860 FS25_UnloadBalesEarly: Sending new settings
 2025-10-24 16:21:50.860 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-24 16:25:26.434   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Zetor 10111 Fast transmission'
+2025-10-24 16:26:08.490 data/shared/wheels/tires/trelleborg/TM100/300_95R46.i3d (3.50 ms)
+2025-10-24 16:26:12.944   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'New Holland 8340'
+2025-10-24 16:27:27.483 data/objects/pallets/liquidTank/liquidTank.i3d (1.36 ms)
+2025-10-24 16:28:01.287 data/objects/pallets/liquidTank/liquidTank.i3d (1.55 ms)
+2025-10-24 16:28:52.426 data/objects/pallets/liquidTank/liquidTank.i3d (1.35 ms)
+2025-10-24 16:29:15.663 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.84 ms)
+2025-10-24 16:29:15.717 data/objects/pallets/liquidTank/liquidTank.i3d (1.37 ms)
+2025-10-24 16:30:59.045   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'KamAZ 53228(740.13-280)'
+2025-10-24 16:33:27.137   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'KAMA3 6x6 740.62 ZF9'
+2025-10-24 16:38:03.823 Game saved successfully (savegame1).
