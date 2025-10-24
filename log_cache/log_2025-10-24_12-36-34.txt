@@ -5834,3 +5834,57 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-10-24 20:33:13.851 data/shared/assets/lights/lizard/workingLight14.i3d (1.40 ms)
 2025-10-24 20:33:17.356   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Kubota R640'
 2025-10-24 20:38:13.586 Game saved successfully (savegame1).
+2025-10-24 20:45:00.703 symonixprime serwerkaput lost connection to the game
+2025-10-24 20:52:05.027 M@rcin joined the game
+2025-10-24 20:52:05.060 dataS/character/playerM/jacket/topAviatorJacket.i3d (17.38 ms)
+2025-10-24 20:52:05.064 FS25_UnloadBalesEarly: Sending new settings
+2025-10-24 20:52:05.064 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-24 20:52:05.065 FS25_UnloadBalesEarly: Sending new settings
+2025-10-24 20:52:05.065 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-24 20:52:05.066 FS25_UnloadBalesEarly: Sending new settings
+2025-10-24 20:52:05.066 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-24 20:52:05.067 FS25_UnloadBalesEarly: Sending new settings
+2025-10-24 20:52:05.067 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-24 20:52:05.068 FS25_UnloadBalesEarly: Sending new settings
+2025-10-24 20:52:05.068 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-24 20:52:05.091 dataS/character/playerM/hairStyles/hairStyleDiablo.i3d (31.41 ms)
+2025-10-24 20:52:05.093 dataS/character/playerM/facialHair/mHead01/beardStubble.i3d (1.16 ms)
+2025-10-24 20:52:25.163 FS25_UnloadBalesEarly: Sending new settings
+2025-10-24 20:52:25.163 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-24 20:52:25.163 FS25_UnloadBalesEarly: Sending new settings
+2025-10-24 20:52:25.163 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-24 20:52:25.164 FS25_UnloadBalesEarly: Sending new settings
+2025-10-24 20:52:25.164 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-24 20:52:25.164 FS25_UnloadBalesEarly: Sending new settings
+2025-10-24 20:52:25.164 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-24 20:52:25.164 FS25_UnloadBalesEarly: Sending new settings
+2025-10-24 20:52:25.164 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-24 20:52:25.164 FS25_UnloadBalesEarly: Sending new settings
+2025-10-24 20:52:25.164 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-24 20:52:25.164 FS25_UnloadBalesEarly: Sending new settings
+2025-10-24 20:52:25.165 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-24 20:54:56.246 Error: Can't load resource 'gen_singleColorTexture_0_4291611852'.
+2025-10-24 20:54:56.246   DevWarning: material 'tyreMaterial' is having the albedo map removed by script. This can cause problems on consoles as the correct shader will not be built for this case.
+2025-10-24 20:54:56.247 Error: Can't load resource 'gen_singleColorTexture_0_4291611852'.
+2025-10-24 20:54:56.247   DevWarning: material 'tyreMaterial' is having the albedo map removed by script. This can cause problems on consoles as the correct shader will not be built for this case.
+2025-10-24 20:54:56.247 Error: Can't load resource 'gen_singleColorTexture_0_4291611852'.
+2025-10-24 20:54:56.247   DevWarning: material 'tyreMaterial' is having the albedo map removed by script. This can cause problems on consoles as the correct shader will not be built for this case.
+2025-10-24 20:54:56.247 Error: Can't load resource 'gen_singleColorTexture_0_4291611852'.
+2025-10-24 20:54:56.247   DevWarning: material 'tyreMaterial' is having the albedo map removed by script. This can cause problems on consoles as the correct shader will not be built for this case.
+2025-10-24 20:54:59.984   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Ursus C-360'
+2025-10-24 20:58:02.668 Warning: Send called with unknown target address.
+2025-10-24 20:58:02.675 szagh left the game
+2025-10-24 20:58:03.962 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_UrsusC355xC360Pack/frontloaders/TurUrsus.i3d (2.72 ms)
+2025-10-24 20:58:36.507 Error: Can't load resource 'gen_singleColorTexture_0_4291611852'.
+2025-10-24 20:58:36.507   DevWarning: material 'tyreMaterial' is having the albedo map removed by script. This can cause problems on consoles as the correct shader will not be built for this case.
+2025-10-24 20:58:36.508 Error: Can't load resource 'gen_singleColorTexture_0_4291611852'.
+2025-10-24 20:58:36.508   DevWarning: material 'tyreMaterial' is having the albedo map removed by script. This can cause problems on consoles as the correct shader will not be built for this case.
+2025-10-24 20:58:36.508 Error: Can't load resource 'gen_singleColorTexture_0_4291611852'.
+2025-10-24 20:58:36.508   DevWarning: material 'tyreMaterial' is having the albedo map removed by script. This can cause problems on consoles as the correct shader will not be built for this case.
+2025-10-24 20:58:36.508 Error: Can't load resource 'gen_singleColorTexture_0_4291611852'.
+2025-10-24 20:58:36.508   DevWarning: material 'tyreMaterial' is having the albedo map removed by script. This can cause problems on consoles as the correct shader will not be built for this case.
+2025-10-24 20:59:07.330   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Ursus C-360'
+2025-10-24 21:00:36.354 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_tenwinkelWeightPackage/rearWeight900.i3d (0.95 ms)
+2025-10-24 21:08:15.768 Game saved successfully (savegame1).
+2025-10-24 21:08:41.415 data/objects/pallets/oysterBoxPallet/oysterBoxPallet.i3d (7.01 ms)
+2025-10-24 21:17:47.992 M@rcin lost connection to the game
