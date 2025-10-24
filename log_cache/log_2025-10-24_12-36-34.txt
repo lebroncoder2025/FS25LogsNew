@@ -5798,3 +5798,39 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-10-24 20:23:26.487 FS25_UnloadBalesEarly: Sending new settings
 2025-10-24 20:23:26.487 FS25_UnloadBalesEarly: Done sending new settings
 2025-10-24 20:26:50.148 M@rcin left the game
+2025-10-24 20:30:50.213 szagh joined the game
+2025-10-24 20:30:50.229 dataS/character/playerM/shirts/topTShirt01.i3d (2.08 ms)
+2025-10-24 20:30:50.233 dataS/character/playerM/attachments/headgearBeanie.i3d (3.99 ms)
+2025-10-24 20:30:50.234 dataS/character/playerM/attachments/glassesSports01.i3d (0.84 ms)
+2025-10-24 20:30:50.248 dataS/character/playerM/facialHair/mHead01/muttonChops03.i3d (14.47 ms)
+2025-10-24 20:30:50.250 FS25_UnloadBalesEarly: Sending new settings
+2025-10-24 20:30:50.250 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-24 20:30:50.251 FS25_UnloadBalesEarly: Sending new settings
+2025-10-24 20:30:50.251 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-24 20:30:50.252 FS25_UnloadBalesEarly: Sending new settings
+2025-10-24 20:30:50.252 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-24 20:30:50.253 FS25_UnloadBalesEarly: Sending new settings
+2025-10-24 20:30:50.253 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-24 20:30:50.253 FS25_UnloadBalesEarly: Sending new settings
+2025-10-24 20:30:50.253 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-24 20:31:08.876 FS25_UnloadBalesEarly: Sending new settings
+2025-10-24 20:31:08.876 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-24 20:31:08.877 FS25_UnloadBalesEarly: Sending new settings
+2025-10-24 20:31:08.877 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-24 20:31:08.877 FS25_UnloadBalesEarly: Sending new settings
+2025-10-24 20:31:08.877 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-24 20:31:08.877 FS25_UnloadBalesEarly: Sending new settings
+2025-10-24 20:31:08.877 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-24 20:31:08.878 FS25_UnloadBalesEarly: Sending new settings
+2025-10-24 20:31:08.878 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-24 20:31:08.878 FS25_UnloadBalesEarly: Sending new settings
+2025-10-24 20:31:08.878 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-24 20:31:08.878 FS25_UnloadBalesEarly: Sending new settings
+2025-10-24 20:31:08.878 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-24 20:32:38.354   Info: Added € 10,000 to farm account. (6)
+2025-10-24 20:33:13.632 data/vehicles/kubota/r640/r640.i3d (23.11 ms)
+2025-10-24 20:33:13.770 data/shared/wheels/tires/trelleborg/TH400/400_70R18.i3d (3.61 ms)
+2025-10-24 20:33:13.781 data/shared/wheels/rims/dual001.i3d (11.35 ms)
+2025-10-24 20:33:13.851 data/shared/assets/lights/lizard/workingLight14.i3d (1.40 ms)
+2025-10-24 20:33:17.356   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Kubota R640'
+2025-10-24 20:38:13.586 Game saved successfully (savegame1).
