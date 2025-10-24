@@ -5757,3 +5757,67 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-10-24 09:44:28.621 szagh left the game
 2025-10-24 09:53:16.274 Game saved successfully (savegame1).
 2025-10-24 10:23:25.854 Game saved successfully (savegame1).
+2025-10-24 10:53:36.465 Game saved successfully (savegame1).
+2025-10-24 11:05:27.389 Jolero joined the game
+2025-10-24 11:05:27.590 dataS/character/playerM/shirts/topTShirt01.i3d (2.01 ms)
+2025-10-24 11:05:27.627 dataS/character/playerM/hairStyles/hairStyleTopKnot.i3d (36.59 ms)
+2025-10-24 11:05:27.645 dataS/character/playerM/facialHair/mHead01/goatee01.i3d (18.21 ms)
+2025-10-24 11:05:43.474 FS25_UnloadBalesEarly: Sending new settings
+2025-10-24 11:05:43.474 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-24 11:05:43.475 FS25_UnloadBalesEarly: Sending new settings
+2025-10-24 11:05:43.475 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-24 11:06:26.599   Info: [Easy Development Controls] User Jolero has logged in as master user.
+2025-10-24 11:08:39.796   Info: No 'ExhaustExtension' particle system added to vehicle 'Lizard Screw conveyor' because it has no exhaust
+2025-10-24 11:08:43.794   Info: Super Strength enabled by Jolero
+2025-10-24 11:09:05.610   Info: Super Strength disabled by Jolero
+2025-10-24 11:09:15.330 Next available Farm ID identified:
+2025-10-24 11:09:15.330 10.000000
+2025-10-24 11:09:15.331 FarmID => 10
+2025-10-24 11:09:15.331 newFarm FarmID => 10
+2025-10-24 11:09:37.134 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_claasXerion5000/xerion5000.i3d (586.90 ms)
+2025-10-24 11:09:37.231 data/shared/assets/wheelChocks/wheelChock05.i3d (1.58 ms)
+2025-10-24 11:09:37.286 data/shared/wheels/hubs/claas_n12x01.i3d (1.20 ms)
+2025-10-24 11:09:37.290 data/shared/wheels/tires/trelleborg/TM1000/710_75R42.i3d (2.64 ms)
+2025-10-24 11:09:37.392 data/shared/assets/lights/hella/hellaWorkingLight02.i3d (1.56 ms)
+2025-10-24 11:09:37.399 data/shared/assets/lights/lizard/rearLight54.i3d (2.30 ms)
+2025-10-24 11:09:37.401 data/shared/assets/beaconLights/lizard/beaconLight08.i3d (1.65 ms)
+2025-10-24 11:09:48.424 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Krone_ZX560_GD/i3d/ZX560_GD.i3d (338.28 ms)
+2025-10-24 11:09:48.556 data/shared/wheels/tires/michelin/cargoXBib/800_45R26_5.i3d (1.74 ms)
+2025-10-24 11:09:48.562 data/shared/wheels/tires/trelleborg/T510/16x6_50R8.i3d (0.94 ms)
+2025-10-24 11:09:48.593 data/shared/assets/lights/lizard/sideMarker05Red.i3d (1.75 ms)
+2025-10-24 11:09:48.595 data/shared/assets/lights/lizard/rearLight07.i3d (2.04 ms)
+2025-10-24 11:09:48.596 data/shared/assets/reflectors/lizard/yellowRound_01.i3d (0.64 ms)
+2025-10-24 11:09:48.752 data/shared/assets/powerTakeOffs/walterscheidWWZ.i3d (1.94 ms)
+2025-10-24 11:10:12.618   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'CLAAS XERION 5000 Anniversary'
+2025-10-24 11:10:34.306   Info: Moved 2 vehicles to coordinates 607, 795 successfully.
+2025-10-24 11:11:12.249   Info: Moved 2 vehicles to coordinates 690, 950 successfully.
+2025-10-24 11:11:18.343   Info: Moved 2 vehicles to coordinates 697, 954 successfully.
+2025-10-24 11:11:24.242   Info: Moved 2 vehicles to coordinates 690, 948 successfully.
+2025-10-24 11:11:33.508   Info: Moved 2 vehicles to coordinates 695, 954 successfully.
+2025-10-24 11:11:44.585   Info: Moved 2 vehicles to coordinates 701, 955 successfully.
+2025-10-24 11:12:06.820   Info: Moved 2 vehicles to coordinates 607, 793 successfully.
+2025-10-24 11:12:37.184   Info: Super Strength enabled by Jolero
+2025-10-24 11:12:50.628   Info: Super Strength disabled by Jolero
+2025-10-24 11:12:56.277   Info: Moved 2 vehicles to coordinates 693, 951 successfully.
+2025-10-24 11:13:20.007   Info: Moved 2 vehicles to coordinates 586, 793 successfully.
+2025-10-24 11:13:37.027   Info: Moved 2 vehicles to coordinates 695, 953 successfully.
+2025-10-24 11:13:58.789   Info: Moved 2 vehicles to coordinates 596, 793 successfully.
+2025-10-24 11:14:17.419   Info: Successfully emptied fill unit 1 of KRONE ZX 560 GD.
+2025-10-24 11:14:38.655   Info: Moved 2 vehicles to coordinates 695, 952 successfully.
+2025-10-24 11:15:01.342   Info: Moved 2 vehicles to coordinates 591, 794 successfully.
+2025-10-24 11:15:20.736   Info: Successfully emptied fill unit 1 of KRONE ZX 560 GD.
+2025-10-24 11:15:43.241   Info: Super Strength enabled by Jolero
+2025-10-24 11:16:06.396   Info: Moved 2 vehicles to coordinates 696, 951 successfully.
+2025-10-24 11:16:12.977   Info: Super Strength disabled by Jolero
+2025-10-24 11:16:28.460   Info: Moved 2 vehicles to coordinates 596, 789 successfully.
+2025-10-24 11:17:10.892   Info: Moved 2 vehicles to coordinates 697, 952 successfully.
+2025-10-24 11:17:31.183   Info: Moved 2 vehicles to coordinates 607, 792 successfully.
+2025-10-24 11:18:21.687   Info: Moved 2 vehicles to coordinates 696, 952 successfully.
+2025-10-24 11:18:45.378   Info: Moved 2 vehicles to coordinates 605, 792 successfully.
+2025-10-24 11:19:39.553   Info: Moved 2 vehicles to coordinates 699, 955 successfully.
+2025-10-24 11:20:00.188   Info: Moved 2 vehicles to coordinates 604, 792 successfully.
+2025-10-24 11:20:27.513   Info: Super Strength enabled by Jolero
+2025-10-24 11:22:26.294   Info: Moved 2 vehicles to coordinates 697, 952 successfully.
+2025-10-24 11:22:33.122   Info: Super Strength disabled by Jolero
+2025-10-24 11:22:47.990   Info: Moved 2 vehicles to coordinates 596, 793 successfully.
+2025-10-24 11:23:34.945 Game saved successfully (savegame1).
