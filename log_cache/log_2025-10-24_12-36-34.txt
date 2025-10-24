@@ -5513,3 +5513,8 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-10-24 17:14:26.436 data/objects/pallets/liquidTank/liquidTank.i3d (1.54 ms)
 2025-10-24 17:16:14.281 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.70 ms)
 2025-10-24 17:20:10.459   Info: Successfully set fill unit 1 of Unia Special 3 to Lime with a fill level of 900 liters.
+2025-10-24 17:27:06.375 data/objects/bigBag/bigBag.i3d (2.29 ms)
+2025-10-24 17:30:57.973 data/objects/bigBagPallet/bigBagPallet.i3d (1.69 ms)
+2025-10-24 17:31:46.356 data/objects/bigBag/bigBag.i3d (2.11 ms)
+2025-10-24 17:38:04.534 Game saved successfully (savegame1).
+2025-10-24 17:38:18.267 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_HydrantPack/6.i3d (2.25 ms)
