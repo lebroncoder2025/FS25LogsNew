@@ -5186,3 +5186,12 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-10-24 14:37:54.046 Game saved successfully (savegame1).
 2025-10-24 14:45:44.251   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Ford 8930'
 2025-10-24 14:48:07.449 data/objects/bigBag/bigBag.i3d (2.19 ms)
+2025-10-24 14:53:02.037   Info: No 'ExhaustExtension' particle system added to vehicle 'Kärcher HDS 9/18-4 M' because it has no exhaust
+2025-10-24 14:55:15.790 data/objects/bigBag/bigBag.i3d (2.13 ms)
+2025-10-24 14:59:29.427 data/objects/bigBag/bigBag.i3d (2.12 ms)
+2025-10-24 14:59:32.607 data/objects/bigBag/bigBag.i3d (2.20 ms)
+2025-10-24 14:59:34.305 data/objects/bigBag/bigBag.i3d (2.19 ms)
+2025-10-24 14:59:47.830 data/objects/bigBag/bigBag.i3d (2.12 ms)
+2025-10-24 15:00:29.100 data/objects/bigBagPallet/bigBagPallet.i3d (1.66 ms)
+2025-10-24 15:00:41.610 data/objects/bigBag/bigBag.i3d (2.27 ms)
+2025-10-24 15:02:17.615   Info: Moved 1 vehicles to coordinates 562, 822 successfully.
