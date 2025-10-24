@@ -5565,3 +5565,16 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-10-24 18:20:28.858 dataS/character/playerM/shirts/zipNeckPullover.i3d (116.62 ms)
 2025-10-24 18:20:28.898 dataS/character/playerM/hairStyles/hairStyleManBun.i3d (39.82 ms)
 2025-10-24 18:20:28.911 dataS/character/playerM/facialHair/mHead05/goatee02.i3d (12.38 ms)
+2025-10-24 18:38:07.968 Game saved successfully (savegame1).
+2025-10-24 18:43:08.121 symonixprime serwerkaput joined the game
+2025-10-24 18:43:08.147 FS25_UnloadBalesEarly: Sending new settings
+2025-10-24 18:43:08.147 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-24 18:43:08.148 FS25_UnloadBalesEarly: Sending new settings
+2025-10-24 18:43:08.148 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-24 18:43:08.149 FS25_UnloadBalesEarly: Sending new settings
+2025-10-24 18:43:08.149 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-24 18:43:08.150 FS25_UnloadBalesEarly: Sending new settings
+2025-10-24 18:43:08.150 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-24 18:43:08.315 dataS/character/playerM/pants/poettinger/poettingerShort.i3d (177.77 ms)
+2025-10-24 18:43:08.434 dataS/character/playerM/shirts/topTShirt02.i3d (119.34 ms)
+2025-10-24 18:43:08.471 dataS/character/playerM/hairStyles/hairStyleTopKnot.i3d (37.14 ms)
