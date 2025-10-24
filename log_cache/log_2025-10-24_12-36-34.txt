@@ -5110,3 +5110,79 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-10-24 13:07:40.727 data/shared/assets/upperLinks/walterscheidSO_65_560.i3d (0.96 ms)
 2025-10-24 13:07:43.970   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Case IH 160 CVX'
 2025-10-24 13:07:52.839 Game saved successfully (savegame1).
+2025-10-24 13:37:53.057 Game saved successfully (savegame1).
+2025-10-24 13:41:26.318 Daniel joined the game
+2025-10-24 13:41:26.339 dataS/character/playerM/heads/mHead02.i3d (8.10 ms)
+2025-10-24 13:41:26.352 FS25_UnloadBalesEarly: Sending new settings
+2025-10-24 13:41:26.352 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-24 13:41:26.353 FS25_UnloadBalesEarly: Sending new settings
+2025-10-24 13:41:26.353 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-24 13:41:26.361 dataS/character/playerM/jacket/topDenimJacket.i3d (21.66 ms)
+2025-10-24 13:41:26.386 dataS/character/playerM/gloves/glovesKevlar.i3d (4.08 ms)
+2025-10-24 13:41:26.480 dataS/character/playerM/shoes/laceUpSneaker.i3d (93.86 ms)
+2025-10-24 13:41:26.491 dataS/character/playerM/facialHair/mHead02/trimmedBeard.i3d (10.71 ms)
+2025-10-24 13:41:40.639 FS25_UnloadBalesEarly: Sending new settings
+2025-10-24 13:41:40.639 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-24 13:41:40.640 FS25_UnloadBalesEarly: Sending new settings
+2025-10-24 13:41:40.640 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-24 13:41:40.640 FS25_UnloadBalesEarly: Sending new settings
+2025-10-24 13:41:40.640 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-24 13:41:40.640 FS25_UnloadBalesEarly: Sending new settings
+2025-10-24 13:41:40.640 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-24 13:41:46.140 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Krone_R100/i3d/Krone_R100.i3d (353.91 ms)
+2025-10-24 13:41:46.311 data/shared/wheels/tires/bkt/sierraMaxPro/25x8R12.i3d (3.62 ms)
+2025-10-24 13:41:46.338 data/shared/assets/lights/lizard/workingLight19.i3d (2.73 ms)
+2025-10-24 13:41:46.340 data/shared/assets/reflectors/lizard/whiteRound_03.i3d (1.79 ms)
+2025-10-24 13:41:46.341 data/shared/assets/reflectors/lizard/redRound_03.i3d (1.46 ms)
+2025-10-24 13:48:31.601   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Fortschritt ZT 303-D'
+2025-10-24 13:48:49.199   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Ursus C-385 Fast transmission'
+2025-10-24 13:50:56.809   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_ursus385_A_PL/xml/385.xml): Direction alignment and rotation alignment used at the same time for movingPart 'movingPartRightHand_group' in 'vehicle.cylindered.movingParts.movingPart(45)'
+2025-10-24 13:50:56.809   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_ursus385_A_PL/xml/385.xml): Direction alignment and rotation alignment used at the same time for movingPart 'movingPartLeftHand_group' in 'vehicle.cylindered.movingParts.movingPart(46)'
+2025-10-24 13:50:56.893   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_ursus385_A_PL/xml/385.xml): Missing exactFillRootNode for fuel fill unit (1).
+2025-10-24 13:50:57.033   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_ursus385_A_PL/xml/385.xml): Top arm filename is referring to the i3d file. Please use the xml file instead. (data/shared/assets/upperLinks/walterscheid02.i3d)
+2025-10-24 13:50:57.033   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_ursus385_A_PL/xml/385.xml): Top arm has been renamed from 'walterscheid02' to 'walterscheidSO_65_660' in 'vehicle.attacherJoints.attacherJointConfigurations.attacherJointConfiguration(2).attacherJoint(0).topArm' (Names now include type, diameter and min. length)
+2025-10-24 13:50:57.034   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_ursus385_A_PL/xml/385.xml): Invalid vehicle material template '' in 'vehicle.attacherJoints.attacherJointConfigurations.attacherJointConfiguration(2).attacherJoint(0).topArm#materialTemplateName2'.
+2025-10-24 13:50:57.035   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_ursus385_A_PL/xml/385.xml): Missing categoryRange or widthRange attribute for bottom arm in 'vehicle.attacherJoints.attacherJointConfigurations.attacherJointConfiguration(2).attacherJoint(0)'
+2025-10-24 13:50:57.037   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_ursus385_A_PL/xml/385.xml): Top arm filename is referring to the i3d file. Please use the xml file instead. (data/shared/assets/upperLinks/walterscheid01.i3d)
+2025-10-24 13:50:57.037   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_ursus385_A_PL/xml/385.xml): Top arm has been renamed from 'walterscheid01' to 'walterscheidSO_65_460' in 'vehicle.attacherJoints.attacherJointConfigurations.attacherJointConfiguration(2).attacherJoint(4).topArm' (Names now include type, diameter and min. length)
+2025-10-24 13:50:57.037   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_ursus385_A_PL/xml/385.xml): Invalid vehicle material template '' in 'vehicle.attacherJoints.attacherJointConfigurations.attacherJointConfiguration(2).attacherJoint(4).topArm#materialTemplateName2'.
+2025-10-24 13:50:57.038   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_ursus385_A_PL/xml/385.xml): Missing categoryRange or widthRange attribute for bottom arm in 'vehicle.attacherJoints.attacherJointConfigurations.attacherJointConfiguration(2).attacherJoint(4)'
+2025-10-24 13:50:57.162   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_ursus385_A_PL/xml/385.xml): Failed to find material by material slot name 'DachMat' in 'vehicle.designColor5Configurations.material(0)'
+2025-10-24 13:51:01.187   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Ursus C-385 Fast transmission'
+2025-10-24 13:51:35.370 data/objects/pallets/liquidTank/liquidTank.i3d (1.41 ms)
+2025-10-24 14:03:53.120 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_CasePumaCVX_Tier3/wheels/rimFront.i3d (1.04 ms)
+2025-10-24 14:03:53.124 data/shared/wheels/tires/michelin/machXbib/600_70R28.i3d (4.21 ms)
+2025-10-24 14:03:53.127 data/shared/wheels/weights/weight001.i3d (2.79 ms)
+2025-10-24 14:03:53.130 data/shared/wheels/tires/michelin/machXbib/710_70R38.i3d (2.79 ms)
+2025-10-24 14:03:55.057   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Case IH 160 CVX'
+2025-10-24 14:05:48.618   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'STEYR 8130 Super Elite'
+2025-10-24 14:07:53.526 Game saved successfully (savegame1).
+2025-10-24 14:19:53.180 data/placeables/brandless/greenhouses/greenHousesTarp/greenHousesTarpMedium.i3d (15.58 ms)
+2025-10-24 14:19:53.264 data/placeables/brandless/greenhouses/vegetables/lettuce/lettuce.i3d (3.17 ms)
+2025-10-24 14:19:53.266 data/placeables/brandless/greenhouses/vegetables/strawberry/strawberry.i3d (2.25 ms)
+2025-10-24 14:19:53.268 data/placeables/brandless/greenhouses/vegetables/tomatoes/tomatoes.i3d (1.95 ms)
+2025-10-24 14:19:53.270 data/placeables/brandless/greenhouses/vegetables/springOnion/springOnion.i3d (2.12 ms)
+2025-10-24 14:19:53.273 data/placeables/brandless/greenhouses/vegetables/napaCabbage/napaCabbage.i3d (2.40 ms)
+2025-10-24 14:19:53.456 data/placeables/brandless/greenhouses/vegetables/chilli/chilli.i3d (2.41 ms)
+2025-10-24 14:19:53.458 data/placeables/brandless/greenhouses/vegetables/garlic/garlic.i3d (1.98 ms)
+2025-10-24 14:30:01.849 Warning: Send called with unknown target address.
+2025-10-24 14:30:01.853 Daniel left the game
+2025-10-24 14:35:50.614 szagh joined the game
+2025-10-24 14:35:50.637 dataS/character/playerM/attachments/headgearBeanie.i3d (4.11 ms)
+2025-10-24 14:35:50.637 FS25_UnloadBalesEarly: Sending new settings
+2025-10-24 14:35:50.637 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-24 14:35:50.638 dataS/character/playerM/attachments/glassesSports01.i3d (0.85 ms)
+2025-10-24 14:35:50.638 FS25_UnloadBalesEarly: Sending new settings
+2025-10-24 14:35:50.638 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-24 14:35:50.652 dataS/character/playerM/facialHair/mHead01/muttonChops03.i3d (14.53 ms)
+2025-10-24 14:36:09.096 FS25_UnloadBalesEarly: Sending new settings
+2025-10-24 14:36:09.097 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-24 14:36:09.097 FS25_UnloadBalesEarly: Sending new settings
+2025-10-24 14:36:09.097 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-24 14:36:09.097 FS25_UnloadBalesEarly: Sending new settings
+2025-10-24 14:36:09.097 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-24 14:36:09.097 FS25_UnloadBalesEarly: Sending new settings
+2025-10-24 14:36:09.098 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-24 14:37:54.046 Game saved successfully (savegame1).
+2025-10-24 14:45:44.251   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Ford 8930'
+2025-10-24 14:48:07.449 data/objects/bigBag/bigBag.i3d (2.19 ms)
