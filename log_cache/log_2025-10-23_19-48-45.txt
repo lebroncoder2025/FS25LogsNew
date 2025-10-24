@@ -5728,3 +5728,6 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-10-24 07:20:16.525 FS25_UnloadBalesEarly: Sending new settings
 2025-10-24 07:20:16.525 FS25_UnloadBalesEarly: Done sending new settings
 2025-10-24 07:20:53.770   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'STEYR 8130 Turbo'
+2025-10-24 07:22:42.048 Game saved successfully (savegame1).
+2025-10-24 07:25:55.897 M@rcin lost connection to the game
+2025-10-24 07:26:22.566 siejA lost connection to the game
