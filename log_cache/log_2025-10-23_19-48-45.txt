@@ -5821,3 +5821,38 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-10-24 11:22:33.122   Info: Super Strength disabled by Jolero
 2025-10-24 11:22:47.990   Info: Moved 2 vehicles to coordinates 596, 793 successfully.
 2025-10-24 11:23:34.945 Game saved successfully (savegame1).
+2025-10-24 11:25:27.072   Info: Super Strength enabled by Jolero
+2025-10-24 11:25:27.496   Info: Super Strength disabled by Jolero
+2025-10-24 11:25:31.069   Info: Moved 2 vehicles to coordinates 698, 952 successfully.
+2025-10-24 11:25:51.496   Info: Moved 2 vehicles to coordinates 597, 790 successfully.
+2025-10-24 11:26:31.871   Info: Moved 2 vehicles to coordinates 699, 951 successfully.
+2025-10-24 11:26:45.341   Info: Moved 2 vehicles to coordinates 606, 793 successfully.
+2025-10-24 11:27:20.597   Info: Moved 4 vehicles to coordinates 695, 951 successfully.
+2025-10-24 11:28:08.173   Info: Moved 4 vehicles to coordinates 648, 838 successfully.
+2025-10-24 11:28:30.994   Info: Updated field 39 successfully (3) (1)
+2025-10-24 11:28:43.852   Info: Updated field 16 successfully (3) (1)
+2025-10-24 11:28:54.819   Info: Moved 2 vehicles to coordinates 612, 795 successfully.
+2025-10-24 11:29:13.333   Info: Successfully set fill unit 1 of KRONE ZX 560 GD to Grass with a fill level of 56,000 liters.
+2025-10-24 11:29:39.751   Info: Successfully set fill unit 1 of KRONE ZX 560 GD to Grass with a fill level of 56,000 liters.
+2025-10-24 11:30:14.366   Info: Successfully set fill unit 1 of KRONE ZX 560 GD to Grass with a fill level of 56,000 liters.
+2025-10-24 11:30:50.524   Info: Updated field 46 successfully (3) (1)
+2025-10-24 11:31:04.016   Info: Successfully set fill unit 1 of KRONE ZX 560 GD to Grass with a fill level of 56,000 liters.
+2025-10-24 11:31:30.933   Info: Successfully set fill unit 1 of KRONE ZX 560 GD to Grass with a fill level of 56,000 liters.
+2025-10-24 11:32:20.813   Info: Updated field 125 successfully (3) (1)
+2025-10-24 11:32:40.647   Info: Successfully set fill unit 1 of KRONE ZX 560 GD to Grass with a fill level of 56,000 liters.
+2025-10-24 11:33:42.788   Info: Successfully set fill unit 1 of KRONE Turbo 2500 to Grass with a fill level of 14,576 liters.
+2025-10-24 11:34:14.105 zwierek joined the game
+2025-10-24 11:34:14.127 FS25_UnloadBalesEarly: Sending new settings
+2025-10-24 11:34:14.127 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-24 11:34:14.147 dataS/character/playerM/pants/botJeanShorts.i3d (24.17 ms)
+2025-10-24 11:34:14.147 dataS/character/playerM/attachments/glassesAviators.i3d (0.80 ms)
+2025-10-24 11:34:14.336 dataS/character/playerM/shoes/sandalM03.i3d (188.45 ms)
+2025-10-24 11:34:14.373 dataS/character/playerM/hairStyles/hairStyleBaldTop.i3d (36.69 ms)
+2025-10-24 11:34:14.381 dataS/character/playerM/facialHair/mHead01/walrusXL.i3d (8.83 ms)
+2025-10-24 11:34:46.772   Info: Operating time of Ursus C-385A Fast transmission changed to 28.2 h.
+2025-10-24 11:35:05.136 FS25_UnloadBalesEarly: Sending new settings
+2025-10-24 11:35:05.137 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-24 11:35:05.138 FS25_UnloadBalesEarly: Sending new settings
+2025-10-24 11:35:05.138 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-24 11:35:05.138 FS25_UnloadBalesEarly: Sending new settings
+2025-10-24 11:35:05.138 FS25_UnloadBalesEarly: Done sending new settings
