@@ -5647,3 +5647,34 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-10-24 19:16:52.670 data/objects/pallets/liquidTank/liquidTank.i3d (6.28 ms)
 2025-10-24 19:16:58.047 data/objects/pallets/liquidTank/liquidTank.i3d (1.51 ms)
 2025-10-24 19:17:01.353 data/objects/pallets/liquidTank/liquidTank.i3d (1.49 ms)
+2025-10-24 19:20:20.675 szagh left the game
+2025-10-24 19:35:42.202 szagh joined the game
+2025-10-24 19:35:42.218 dataS/character/playerM/shirts/topTShirt01.i3d (2.10 ms)
+2025-10-24 19:35:42.223 dataS/character/playerM/attachments/headgearBeanie.i3d (5.63 ms)
+2025-10-24 19:35:42.237 FS25_UnloadBalesEarly: Sending new settings
+2025-10-24 19:35:42.237 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-24 19:35:42.238 FS25_UnloadBalesEarly: Sending new settings
+2025-10-24 19:35:42.238 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-24 19:35:42.239 FS25_UnloadBalesEarly: Sending new settings
+2025-10-24 19:35:42.239 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-24 19:35:42.240 FS25_UnloadBalesEarly: Sending new settings
+2025-10-24 19:35:42.240 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-24 19:35:42.241 FS25_UnloadBalesEarly: Sending new settings
+2025-10-24 19:35:42.241 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-24 19:35:42.281 dataS/character/playerM/attachments/glassesSports01.i3d (0.92 ms)
+2025-10-24 19:35:42.298 dataS/character/playerM/facialHair/mHead01/muttonChops03.i3d (16.61 ms)
+2025-10-24 19:36:00.076 FS25_UnloadBalesEarly: Sending new settings
+2025-10-24 19:36:00.077 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-24 19:36:00.077 FS25_UnloadBalesEarly: Sending new settings
+2025-10-24 19:36:00.077 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-24 19:36:00.077 FS25_UnloadBalesEarly: Sending new settings
+2025-10-24 19:36:00.078 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-24 19:36:00.078 FS25_UnloadBalesEarly: Sending new settings
+2025-10-24 19:36:00.078 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-24 19:36:00.078 FS25_UnloadBalesEarly: Sending new settings
+2025-10-24 19:36:00.078 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-24 19:36:00.078 FS25_UnloadBalesEarly: Sending new settings
+2025-10-24 19:36:00.078 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-24 19:36:00.078 FS25_UnloadBalesEarly: Sending new settings
+2025-10-24 19:36:00.078 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-24 19:36:30.692 zone lost connection to the game
