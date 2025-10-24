@@ -5856,3 +5856,33 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-10-24 11:35:05.138 FS25_UnloadBalesEarly: Done sending new settings
 2025-10-24 11:35:05.138 FS25_UnloadBalesEarly: Sending new settings
 2025-10-24 11:35:05.138 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-24 11:53:35.923 Game saved successfully (savegame1).
+2025-10-24 11:59:13.269   Info: Moved player to coordinates 1713, 1575 successfully.
+2025-10-24 11:59:22.511   Info: Moved player to coordinates 653, 817 successfully.
+2025-10-24 12:10:14.007   Info: Moved player to coordinates 1506, 841 successfully.
+2025-10-24 12:10:38.362   Info: Moved player to coordinates 1414, 1162 successfully.
+2025-10-24 12:12:08.008   Info: Moved player to coordinates 666, 882 successfully.
+2025-10-24 12:14:15.341 Next available Farm ID identified:
+2025-10-24 12:14:15.341 10.000000
+2025-10-24 12:14:15.342 FarmID => 10
+2025-10-24 12:14:15.342 newFarm FarmID => 10
+2025-10-24 12:20:20.660 szagh joined the game
+2025-10-24 12:20:20.687 dataS/character/playerM/attachments/headgearBeanie.i3d (11.88 ms)
+2025-10-24 12:20:20.688 dataS/character/playerM/attachments/glassesSports01.i3d (0.86 ms)
+2025-10-24 12:20:20.695 FS25_UnloadBalesEarly: Sending new settings
+2025-10-24 12:20:20.695 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-24 12:20:20.696 FS25_UnloadBalesEarly: Sending new settings
+2025-10-24 12:20:20.696 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-24 12:20:20.710 dataS/character/playerM/facialHair/mHead01/muttonChops03.i3d (22.67 ms)
+2025-10-24 12:20:38.623 Jolero left the game
+2025-10-24 12:20:39.528 Game saved successfully (savegame1).
+2025-10-24 12:20:39.643 FS25_UnloadBalesEarly: Sending new settings
+2025-10-24 12:20:39.643 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-24 12:20:39.644 FS25_UnloadBalesEarly: Sending new settings
+2025-10-24 12:20:39.644 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-24 12:20:39.644 FS25_UnloadBalesEarly: Sending new settings
+2025-10-24 12:20:39.644 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-24 12:22:44.521 zwierek left the game
+2025-10-24 12:23:00.718 Game saved successfully (savegame1).
+2025-10-24 12:23:05.926 szagh left the game
+2025-10-24 12:23:44.772 Game saved successfully (savegame1).
