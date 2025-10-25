@@ -6025,3 +6025,7 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-10-25 07:20:33.784 data/shared/wheels/tires/continental/terrainContactHT/235_80R17.i3d (3.43 ms)
 2025-10-25 07:20:33.800 data/shared/assets/lights/lizard/rearLight23.i3d (2.48 ms)
 2025-10-25 07:20:33.803 data/shared/assets/lights/lizard/sideMarker07.i3d (1.94 ms)
+2025-10-25 07:25:44.190 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_semiLowloader3A/semiLowloader3A.i3d (121.11 ms)
+2025-10-25 07:25:44.338 data/shared/assets/lights/lizard/rearLight32.i3d (2.78 ms)
+2025-10-25 07:30:50.403   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'STEYR 8130 Turbo'
+2025-10-25 07:31:08.033 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_ErmoLevante/i3d/ErmoLevante.i3d (81.93 ms)
