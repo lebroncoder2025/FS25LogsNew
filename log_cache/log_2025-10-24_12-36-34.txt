@@ -6200,3 +6200,63 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
   =dataS/scripts/network/ConnectionManager.lua:27 packetReceived
 2025-10-25 11:24:25.088 data/objects/bigBag/bigBag.i3d (2.10 ms)
 2025-10-25 11:26:25.219 Jolero left the game
+2025-10-25 11:37:33.987 dataS/character/playerM/jacket/topDenimJacket.i3d (27.84 ms)
+2025-10-25 11:37:34.023 dataS/character/playerM/hairStyles/hairStyleMidParted01.i3d (35.94 ms)
+2025-10-25 11:37:34.025 dataS/character/playerM/facialHair/mHead01/beardStubble.i3d (1.18 ms)
+2025-10-25 11:39:42.627 Game saved successfully (savegame1).
+2025-10-25 11:41:01.128 symonixprime serwerkaput joined the game
+2025-10-25 11:41:01.161 FS25_UnloadBalesEarly: Sending new settings
+2025-10-25 11:41:01.161 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-25 11:41:01.163 FS25_UnloadBalesEarly: Sending new settings
+2025-10-25 11:41:01.163 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-25 11:41:01.393 dataS/character/playerM/pants/poettinger/poettingerShort.i3d (252.72 ms)
+2025-10-25 11:41:01.507 dataS/character/playerM/shirts/topTShirt02.i3d (114.31 ms)
+2025-10-25 11:41:01.507 dataS/character/playerM/shoes/sandalM02.i3d (0.80 ms)
+2025-10-25 11:41:01.538 dataS/character/playerM/hairStyles/hairStyleTopKnot.i3d (30.58 ms)
+2025-10-25 11:42:16.133 FS25_UnloadBalesEarly: Sending new settings
+2025-10-25 11:42:16.133 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-25 11:42:16.135 FS25_UnloadBalesEarly: Sending new settings
+2025-10-25 11:42:16.135 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-25 11:42:16.135 FS25_UnloadBalesEarly: Sending new settings
+2025-10-25 11:42:16.135 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-25 11:42:16.135 FS25_UnloadBalesEarly: Sending new settings
+2025-10-25 11:42:16.135 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-25 11:47:18.662 data/objects/pallets/lettuceBoxPallet/lettuceBoxPallet.i3d (3.29 ms)
+2025-10-25 12:00:06.914 data/objects/pallets/liquidTank/liquidTank.i3d (1.37 ms)
+2025-10-25 12:00:06.936 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_lsfmBigBagPack/objects/bigBag/bigBag.i3d (3.62 ms)
+2025-10-25 12:01:11.895 data/objects/pallets/liquidTank/liquidTank.i3d (1.31 ms)
+2025-10-25 12:01:11.913 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_lsfmBigBagPack/objects/bigBag/bigBag.i3d (1.61 ms)
+2025-10-25 12:02:24.185 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_BalePitchforkPack/widly3.i3d (105.64 ms)
+2025-10-25 12:04:33.388 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_MetalFach_Z560/z560.i3d (32.92 ms)
+2025-10-25 12:05:25.774 dataS/character/playerM/fullBody/onePieceMechanic.i3d (39.65 ms)
+2025-10-25 12:05:25.796 dataS/character/playerM/shoes/riding.i3d (21.44 ms)
+2025-10-25 12:05:25.837 dataS/character/playerM/hairStyles/hairStyleUnkempt.i3d (41.08 ms)
+2025-10-25 12:05:25.858 dataS/character/playerM/facialHair/mHead02/goatee01.i3d (20.95 ms)
+2025-10-25 12:07:19.010 data/objects/pallets/liquidTank/liquidTank.i3d (1.29 ms)
+2025-10-25 12:07:19.029 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_lsfmBigBagPack/objects/bigBag/bigBag.i3d (1.58 ms)
+2025-10-25 12:08:39.484 data/objects/pallets/liquidTank/liquidTank.i3d (1.32 ms)
+2025-10-25 12:08:39.502 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_lsfmBigBagPack/objects/bigBag/bigBag.i3d (1.58 ms)
+2025-10-25 12:09:44.018 Game saved successfully (savegame1).
+2025-10-25 12:09:53.722 data/objects/pallets/liquidTank/liquidTank.i3d (1.30 ms)
+2025-10-25 12:09:53.741 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_lsfmBigBagPack/objects/bigBag/bigBag.i3d (1.64 ms)
+2025-10-25 12:10:29.404 data/objects/pallets/liquidTank/liquidTank.i3d (1.31 ms)
+2025-10-25 12:11:17.507 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_lsfmBigBagPack/objects/bigBag/bigBag.i3d (1.62 ms)
+2025-10-25 12:12:20.291 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_lsfmBigBagPack/objects/bigBag/bigBag.i3d (1.69 ms)
+2025-10-25 12:13:05.548 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_ChickenCoop31x12/ChickenCoop.i3d (267.22 ms)
+2025-10-25 12:13:05.687 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_ChickenCoop31x12/navigationMesh.i3d (0.31 ms)
+2025-10-25 12:14:13.996 data/objects/pallets/liquidTank/liquidTank.i3d (1.59 ms)
+2025-10-25 12:15:03.041 data/objects/pallets/liquidTank/liquidTank.i3d (1.32 ms)
+2025-10-25 12:15:03.059 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_lsfmBigBagPack/objects/bigBag/bigBag.i3d (1.61 ms)
+2025-10-25 12:16:11.205 data/objects/pallets/liquidTank/liquidTank.i3d (1.29 ms)
+2025-10-25 12:16:11.223 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_lsfmBigBagPack/objects/bigBag/bigBag.i3d (1.63 ms)
+2025-10-25 12:16:14.884 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/BaleWrapper.lua:1508: attempt to index nil with 'getSupportsWrapping'
+2025-10-25 12:16:43.520 data/objects/pallets/liquidTank/liquidTank.i3d (1.32 ms)
+2025-10-25 12:16:43.540 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_lsfmBigBagPack/objects/bigBag/bigBag.i3d (1.58 ms)
+2025-10-25 12:17:21.427 data/objects/pallets/liquidTank/liquidTank.i3d (1.30 ms)
+2025-10-25 12:17:21.443 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_lsfmBigBagPack/objects/bigBag/bigBag.i3d (1.63 ms)
+2025-10-25 12:17:35.843 data/objects/pallets/liquidTank/liquidTank.i3d (1.30 ms)
+2025-10-25 12:17:35.862 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_lsfmBigBagPack/objects/bigBag/bigBag.i3d (1.60 ms)
+2025-10-25 12:17:57.178 data/objects/pallets/liquidTank/liquidTank.i3d (1.32 ms)
+2025-10-25 12:17:57.197 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_lsfmBigBagPack/objects/bigBag/bigBag.i3d (1.56 ms)
+2025-10-25 12:18:48.436 zone left the game
