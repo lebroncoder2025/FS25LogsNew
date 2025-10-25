@@ -5952,3 +5952,20 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-10-25 00:38:33.210 Game saved successfully (savegame1).
 2025-10-25 00:48:29.163 zone left the game
 2025-10-25 01:08:45.399 Game saved successfully (savegame1).
+2025-10-25 01:32:59.488 zone joined the game
+2025-10-25 01:32:59.701 dataS/character/playerM/heads/mHead02.i3d (12.86 ms)
+2025-10-25 01:32:59.815 dataS/character/playerM/jacket/caseIH/caseIHTop.i3d (114.01 ms)
+2025-10-25 01:32:59.821 dataS/character/playerM/attachments/caseIHhat.i3d (6.39 ms)
+2025-10-25 01:32:59.859 dataS/character/playerM/hairStyles/hairStyleFringe.i3d (37.71 ms)
+2025-10-25 01:32:59.893 dataS/character/playerM/facialHair/mHead02/fullBeard.i3d (34.48 ms)
+2025-10-25 01:33:14.772 FS25_UnloadBalesEarly: Sending new settings
+2025-10-25 01:33:14.773 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-25 01:33:14.774 FS25_UnloadBalesEarly: Sending new settings
+2025-10-25 01:33:14.774 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-25 01:38:47.930 Game saved successfully (savegame1).
+2025-10-25 01:45:19.322 data/objects/pallets/preservedFoodCarrotsPallet/preservedFoodCarrotsPallet.i3d (7.91 ms)
+2025-10-25 01:59:35.744   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Massey Ferguson 310'
+2025-10-25 02:08:50.682 Game saved successfully (savegame1).
+2025-10-25 02:38:50.625 Game saved successfully (savegame1).
+2025-10-25 03:08:50.867 Game saved successfully (savegame1).
+2025-10-25 03:38:51.289 Game saved successfully (savegame1).
