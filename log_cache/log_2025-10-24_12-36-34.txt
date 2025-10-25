@@ -6260,3 +6260,59 @@ dataS/scripts/vehicles/specializations/BaleWrapper.lua:1508: attempt to index ni
 2025-10-25 12:17:57.178 data/objects/pallets/liquidTank/liquidTank.i3d (1.32 ms)
 2025-10-25 12:17:57.197 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_lsfmBigBagPack/objects/bigBag/bigBag.i3d (1.56 ms)
 2025-10-25 12:18:48.436 zone left the game
+2025-10-25 12:24:49.103 zone joined the game
+2025-10-25 12:24:49.127 FS25_UnloadBalesEarly: Sending new settings
+2025-10-25 12:24:49.127 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-25 12:24:49.129 FS25_UnloadBalesEarly: Sending new settings
+2025-10-25 12:24:49.129 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-25 12:24:49.237 dataS/character/playerM/jacket/caseIH/caseIHTop.i3d (118.25 ms)
+2025-10-25 12:24:49.244 dataS/character/playerM/attachments/caseIHhat.i3d (6.51 ms)
+2025-10-25 12:24:49.282 dataS/character/playerM/hairStyles/hairStyleFringe.i3d (38.03 ms)
+2025-10-25 12:25:08.980 FS25_UnloadBalesEarly: Sending new settings
+2025-10-25 12:25:08.980 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-25 12:25:08.982 FS25_UnloadBalesEarly: Sending new settings
+2025-10-25 12:25:08.982 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-25 12:25:08.982 FS25_UnloadBalesEarly: Sending new settings
+2025-10-25 12:25:08.982 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-25 12:25:08.983 FS25_UnloadBalesEarly: Sending new settings
+2025-10-25 12:25:08.983 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-25 12:26:25.261 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_ChickenCoop31x12/ChickenCoop.i3d (134.42 ms)
+2025-10-25 12:26:25.354 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_ChickenCoop31x12/navigationMesh.i3d (0.28 ms)
+2025-10-25 12:28:59.233 Jolero joined the game
+2025-10-25 12:28:59.252 dataS/character/playerM/shirts/topTShirt01.i3d (2.08 ms)
+2025-10-25 12:28:59.261 FS25_UnloadBalesEarly: Sending new settings
+2025-10-25 12:28:59.261 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-25 12:28:59.262 FS25_UnloadBalesEarly: Sending new settings
+2025-10-25 12:28:59.262 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-25 12:28:59.263 FS25_UnloadBalesEarly: Sending new settings
+2025-10-25 12:28:59.263 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-25 12:28:59.270 dataS/character/playerM/facialHair/mHead01/goatee01.i3d (18.02 ms)
+2025-10-25 12:29:15.161 FS25_UnloadBalesEarly: Sending new settings
+2025-10-25 12:29:15.161 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-25 12:29:15.163 FS25_UnloadBalesEarly: Sending new settings
+2025-10-25 12:29:15.163 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-25 12:29:15.163 FS25_UnloadBalesEarly: Sending new settings
+2025-10-25 12:29:15.163 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-25 12:29:15.164 FS25_UnloadBalesEarly: Sending new settings
+2025-10-25 12:29:15.164 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-25 12:29:15.164 FS25_UnloadBalesEarly: Sending new settings
+2025-10-25 12:29:15.164 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-25 12:29:21.990 data/objects/pallets/liquidTank/liquidTank.i3d (1.36 ms)
+2025-10-25 12:29:22.007 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_lsfmBigBagPack/objects/bigBag/bigBag.i3d (1.63 ms)
+2025-10-25 12:29:58.134   Info: [Easy Development Controls] User Jolero has logged in as master user.
+2025-10-25 12:30:11.135   Info: Added € 21,000 to farm account. (3)
+2025-10-25 12:30:45.459 data/objects/pallets/liquidTank/liquidTank.i3d (1.31 ms)
+2025-10-25 12:30:45.478 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_lsfmBigBagPack/objects/bigBag/bigBag.i3d (1.59 ms)
+2025-10-25 12:31:27.165 data/objects/pallets/liquidTank/liquidTank.i3d (1.29 ms)
+2025-10-25 12:31:27.185 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_lsfmBigBagPack/objects/bigBag/bigBag.i3d (1.76 ms)
+2025-10-25 12:32:20.611 data/objects/pallets/liquidTank/liquidTank.i3d (1.32 ms)
+2025-10-25 12:32:20.630 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_lsfmBigBagPack/objects/bigBag/bigBag.i3d (1.60 ms)
+2025-10-25 12:33:07.158 data/objects/pallets/liquidTank/liquidTank.i3d (1.31 ms)
+2025-10-25 12:33:07.177 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_lsfmBigBagPack/objects/bigBag/bigBag.i3d (1.63 ms)
+2025-10-25 12:34:11.515 data/objects/pallets/liquidTank/liquidTank.i3d (1.32 ms)
+2025-10-25 12:34:11.534 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_lsfmBigBagPack/objects/bigBag/bigBag.i3d (1.65 ms)
+2025-10-25 12:35:04.290 data/objects/pallets/liquidTank/liquidTank.i3d (1.32 ms)
+2025-10-25 12:35:04.310 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_lsfmBigBagPack/objects/bigBag/bigBag.i3d (1.58 ms)
+2025-10-25 12:36:02.767 data/objects/bigBag/bigBag.i3d (2.12 ms)
+2025-10-25 12:36:31.428 data/objects/pallets/liquidTank/liquidTank.i3d (1.33 ms)
+2025-10-25 12:36:31.448 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_lsfmBigBagPack/objects/bigBag/bigBag.i3d (1.60 ms)
