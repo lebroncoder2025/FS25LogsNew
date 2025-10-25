@@ -6152,3 +6152,9 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-10-25 10:25:31.016 FS25_UnloadBalesEarly: Done sending new settings
 2025-10-25 10:25:31.016 FS25_UnloadBalesEarly: Sending new settings
 2025-10-25 10:25:31.016 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-25 10:26:20.248   Info: [Easy Development Controls] User Jolero has logged in as master user.
+2025-10-25 10:27:36.870   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Ursus C-385A Fast transmission'
+2025-10-25 10:28:54.114 szagh left the game
+2025-10-25 10:30:20.629 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Tarpaulin/i3d/tarpaulinBlueStorageSmall.i3d (2.19 ms)
+2025-10-25 10:35:45.623 data/objects/pallets/lettuceBoxPallet/lettuceBoxPallet.i3d (10.95 ms)
+2025-10-25 10:39:39.463 Game saved successfully (savegame1).
