@@ -6904,3 +6904,29 @@ dataS/scripts/vehicles/specializations/BaleWrapper.lua:1508: attempt to index ni
 2025-10-25 21:10:21.251 Game saved successfully (savegame1).
 2025-10-25 21:15:17.846 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_UrsusC355xC360Pack/frontloaders/Szufla3B.i3d (2.01 ms)
 2025-10-25 21:19:37.991 data/objects/bigBagPallet/bigBagPallet.i3d (5.72 ms)
+2025-10-25 21:34:37.656 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_concrete_ramps_and_platforms_pack/ramp1_medium.i3d (0.67 ms)
+2025-10-25 21:40:23.864 Game saved successfully (savegame1).
+2025-10-25 21:51:04.530 Warning: Send called with unknown target address.
+2025-10-25 21:51:04.537 siejA left the game
+2025-10-25 21:52:21.353   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'STEYR 8100'
+2025-10-25 22:02:08.738   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'STEYR 8130 Turbo'
+2025-10-25 22:03:23.826 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.72 ms)
+2025-10-25 22:03:23.882 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_mrhHandLiftableConsumables/bagsStack/bagsStack.i3d (2.84 ms)
+2025-10-25 22:03:37.449 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.70 ms)
+2025-10-25 22:09:35.897   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_ursus385_A_PL/xml/385.xml): Direction alignment and rotation alignment used at the same time for movingPart 'movingPartRightHand_group' in 'vehicle.cylindered.movingParts.movingPart(45)'
+2025-10-25 22:09:35.897   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_ursus385_A_PL/xml/385.xml): Direction alignment and rotation alignment used at the same time for movingPart 'movingPartLeftHand_group' in 'vehicle.cylindered.movingParts.movingPart(46)'
+2025-10-25 22:09:36.002   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_ursus385_A_PL/xml/385.xml): Missing exactFillRootNode for fuel fill unit (1).
+2025-10-25 22:09:36.167   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_ursus385_A_PL/xml/385.xml): Top arm filename is referring to the i3d file. Please use the xml file instead. (data/shared/assets/upperLinks/walterscheid02.i3d)
+2025-10-25 22:09:36.167   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_ursus385_A_PL/xml/385.xml): Top arm has been renamed from 'walterscheid02' to 'walterscheidSO_65_660' in 'vehicle.attacherJoints.attacherJointConfigurations.attacherJointConfiguration(2).attacherJoint(0).topArm' (Names now include type, diameter and min. length)
+2025-10-25 22:09:36.558   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_ursus385_A_PL/xml/385.xml): Invalid vehicle material template '' in 'vehicle.attacherJoints.attacherJointConfigurations.attacherJointConfiguration(2).attacherJoint(0).topArm#materialTemplateName2'.
+2025-10-25 22:09:36.558   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_ursus385_A_PL/xml/385.xml): Missing categoryRange or widthRange attribute for bottom arm in 'vehicle.attacherJoints.attacherJointConfigurations.attacherJointConfiguration(2).attacherJoint(0)'
+2025-10-25 22:09:36.561   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_ursus385_A_PL/xml/385.xml): Top arm filename is referring to the i3d file. Please use the xml file instead. (data/shared/assets/upperLinks/walterscheid01.i3d)
+2025-10-25 22:09:36.561   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_ursus385_A_PL/xml/385.xml): Top arm has been renamed from 'walterscheid01' to 'walterscheidSO_65_460' in 'vehicle.attacherJoints.attacherJointConfigurations.attacherJointConfiguration(2).attacherJoint(4).topArm' (Names now include type, diameter and min. length)
+2025-10-25 22:09:36.561   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_ursus385_A_PL/xml/385.xml): Invalid vehicle material template '' in 'vehicle.attacherJoints.attacherJointConfigurations.attacherJointConfiguration(2).attacherJoint(4).topArm#materialTemplateName2'.
+2025-10-25 22:09:36.562   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_ursus385_A_PL/xml/385.xml): Missing categoryRange or widthRange attribute for bottom arm in 'vehicle.attacherJoints.attacherJointConfigurations.attacherJointConfiguration(2).attacherJoint(4)'
+2025-10-25 22:09:36.675   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_ursus385_A_PL/xml/385.xml): Failed to find material by material slot name 'DachMat' in 'vehicle.designColor5Configurations.material(0)'
+2025-10-25 22:09:38.236   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Ursus C-385 Fast transmission'
+2025-10-25 22:10:27.154 Game saved successfully (savegame1).
+2025-10-25 22:10:40.988 data/objects/pallets/liquidTank/liquidTank.i3d (2.33 ms)
+2025-10-25 22:10:58.181 data/objects/pallets/liquidTank/liquidTank.i3d (1.31 ms)
+2025-10-25 22:11:23.521 M@rcin lost connection to the game
