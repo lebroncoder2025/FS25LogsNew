@@ -6578,3 +6578,5 @@ dataS/scripts/vehicles/specializations/BaleWrapper.lua:1508: attempt to index ni
 2025-10-25 16:04:38.291 symonixprime serwerkaput lost connection to the game
 2025-10-25 16:10:04.740 Game saved successfully (savegame1).
 2025-10-25 16:11:32.916   Info: Added € 2,000 to farm account. (3)
+2025-10-25 16:20:26.420 data/objects/pallets/preservedFoodCarrotsPallet/preservedFoodCarrotsPallet.i3d (3.94 ms)
+2025-10-25 16:33:24.056 data/objects/pallets/lettuceBoxPallet/lettuceBoxPallet.i3d (208.36 ms)
