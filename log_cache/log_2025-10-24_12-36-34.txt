@@ -6158,3 +6158,43 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-10-25 10:30:20.629 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Tarpaulin/i3d/tarpaulinBlueStorageSmall.i3d (2.19 ms)
 2025-10-25 10:35:45.623 data/objects/pallets/lettuceBoxPallet/lettuceBoxPallet.i3d (10.95 ms)
 2025-10-25 10:39:39.463 Game saved successfully (savegame1).
+2025-10-25 10:55:52.428 Warning: Send called with unknown target address.
+2025-10-25 10:55:52.434 Jolero left the game
+2025-10-25 10:55:53.916 Game saved successfully (savegame1).
+2025-10-25 11:09:40.992 Game saved successfully (savegame1).
+2025-10-25 11:12:27.220 Jolero joined the game
+2025-10-25 11:12:27.239 dataS/character/playerM/shirts/topTShirt01.i3d (2.08 ms)
+2025-10-25 11:12:27.246 FS25_UnloadBalesEarly: Sending new settings
+2025-10-25 11:12:27.246 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-25 11:12:27.247 FS25_UnloadBalesEarly: Sending new settings
+2025-10-25 11:12:27.247 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-25 11:12:27.270 dataS/character/playerM/hairStyles/hairStyleTopKnot.i3d (30.97 ms)
+2025-10-25 11:12:27.288 dataS/character/playerM/facialHair/mHead01/goatee01.i3d (18.33 ms)
+2025-10-25 11:12:40.046 FS25_UnloadBalesEarly: Sending new settings
+2025-10-25 11:12:40.046 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-25 11:12:40.047 FS25_UnloadBalesEarly: Sending new settings
+2025-10-25 11:12:40.048 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-25 11:12:40.048 FS25_UnloadBalesEarly: Sending new settings
+2025-10-25 11:12:40.048 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-25 11:12:40.048 FS25_UnloadBalesEarly: Sending new settings
+2025-10-25 11:12:40.048 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-25 11:13:11.379   Info: [Easy Development Controls] User Jolero has logged in as master user.
+2025-10-25 11:15:36.906 data/objects/bigBag/bigBag.i3d (7.24 ms)
+2025-10-25 11:16:19.438 Error: Event "onAIFieldCourseSettingsInitialized" is not registered for type "bigBag"!
+2025-10-25 11:16:19.438 LUA call stack:
+  =dataS/scripts/specialization/SpecializationUtil.lua:49 raiseEvent
+  =dataS/scripts/field/course/FieldCourseSettings.lua:548 generate
+  =dataS/scripts/vehicles/specializations/AIModeSelection.lua:367 setAIModeFieldCourseSettings
+  =dataS/scripts/vehicles/specializations/events/AIModeSelectionSettingsEvent.lua:61 run
+  =dataS/scripts/vehicles/specializations/events/AIModeSelectionSettingsEvent.lua:43 readStream
+  =dataS/scripts/network/Server.lua:541 packetReceived
+  =dataS/scripts/network/ConnectionManager.lua:27 packetReceived
+2025-10-25 11:16:19.439 Error: Event "onPostAIFieldCourseSettingsInitialized" is not registered for type "bigBag"!
+2025-10-25 11:16:19.439 LUA call stack:
+  =dataS/scripts/specialization/SpecializationUtil.lua:49 raiseEvent
+  =dataS/scripts/field/course/FieldCourseSettings.lua:549 generate
+  =dataS/scripts/vehicles/specializations/AIModeSelection.lua:367 setAIModeFieldCourseSettings
+  =dataS/scripts/vehicles/specializations/events/AIModeSelectionSettingsEvent.lua:61 run
+  =dataS/scripts/vehicles/specializations/events/AIModeSelectionSettingsEvent.lua:43 readStream
+  =dataS/scripts/network/Server.lua:541 packetReceived
+  =dataS/scripts/network/ConnectionManager.lua:27 packetReceived
