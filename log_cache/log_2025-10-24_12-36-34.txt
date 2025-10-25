@@ -5985,3 +5985,43 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-10-25 06:09:33.927 Game saved successfully (savegame1).
 2025-10-25 06:12:39.504 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_HydrantPack/6.i3d (2.27 ms)
 2025-10-25 06:33:28.808 siejA lost connection to the game
+2025-10-25 06:39:41.453 Game saved successfully (savegame1).
+2025-10-25 06:40:24.363 M@rcin joined the game
+2025-10-25 06:40:24.591 dataS/character/playerM/jacket/topAviatorJacket.i3d (26.78 ms)
+2025-10-25 06:40:24.592 dataS/character/playerM/attachments/glassesAviators.i3d (0.81 ms)
+2025-10-25 06:40:24.630 dataS/character/playerM/hairStyles/hairStyleDiablo.i3d (38.54 ms)
+2025-10-25 06:40:24.631 dataS/character/playerM/facialHair/mHead01/beardStubble.i3d (1.12 ms)
+2025-10-25 06:41:00.129 FS25_UnloadBalesEarly: Sending new settings
+2025-10-25 06:41:00.130 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-25 06:41:00.131 FS25_UnloadBalesEarly: Sending new settings
+2025-10-25 06:41:00.131 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-25 06:42:39.257 szagh joined the game
+2025-10-25 06:42:39.276 dataS/character/playerM/shirts/topTShirt01.i3d (2.08 ms)
+2025-10-25 06:42:39.278 FS25_UnloadBalesEarly: Sending new settings
+2025-10-25 06:42:39.278 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-25 06:42:39.286 dataS/character/playerM/attachments/headgearBeanie.i3d (9.29 ms)
+2025-10-25 06:42:39.287 dataS/character/playerM/attachments/glassesSports01.i3d (0.79 ms)
+2025-10-25 06:42:39.303 dataS/character/playerM/facialHair/mHead01/muttonChops03.i3d (16.62 ms)
+2025-10-25 06:42:41.372 data/objects/bigBag/bigBag.i3d (7.70 ms)
+2025-10-25 06:42:41.375 data/objects/pallets/pioneer/pioneerPallet.i3d (2.90 ms)
+2025-10-25 06:42:41.402 data/objects/pallets/preservedFoodCarrotsPallet/preservedFoodCarrotsPallet.i3d (3.47 ms)
+2025-10-25 06:42:57.816 FS25_UnloadBalesEarly: Sending new settings
+2025-10-25 06:42:57.817 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-25 06:42:57.818 FS25_UnloadBalesEarly: Sending new settings
+2025-10-25 06:42:57.818 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-25 06:42:57.818 FS25_UnloadBalesEarly: Sending new settings
+2025-10-25 06:42:57.818 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-25 06:45:59.698 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_MerloP417/MerloP417.i3d (106.99 ms)
+2025-10-25 06:45:59.839 data/shared/wheels/rims/rim009.i3d (1.88 ms)
+2025-10-25 06:45:59.843 data/shared/wheels/tires/bkt/multimaxMP527/460_70R24.i3d (3.55 ms)
+2025-10-25 06:45:59.930 data/shared/assets/lights/lizard/rearLight22White.i3d (1.52 ms)
+2025-10-25 06:46:08.970 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_JCB_Attachments/adapters/adapters.i3d (215.24 ms)
+2025-10-25 06:46:19.820   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'MERLO P41.7'
+2025-10-25 06:50:36.341   Info: Set farm account balance to € 32,767. (6)
+2025-10-25 07:09:36.827 Game saved successfully (savegame1).
+2025-10-25 07:13:07.672 data/vehicles/demco/steelDropDeck/steelDropDeck.i3d (17.71 ms)
+2025-10-25 07:13:07.782 data/shared/wheels/tires/continental/contiUrbanHA3/275_70R22_5.i3d (2.15 ms)
+2025-10-25 07:20:33.664 data/vehicles/lodeKing/renownTriAxleBeavertailLowDrop/renownTriAxleBeavertailLowDrop.i3d (41.46 ms)
+2025-10-25 07:20:33.784 data/shared/wheels/tires/continental/terrainContactHT/235_80R17.i3d (3.43 ms)
+2025-10-25 07:20:33.800 data/shared/assets/lights/lizard/rearLight23.i3d (2.48 ms)
+2025-10-25 07:20:33.803 data/shared/assets/lights/lizard/sideMarker07.i3d (1.94 ms)
