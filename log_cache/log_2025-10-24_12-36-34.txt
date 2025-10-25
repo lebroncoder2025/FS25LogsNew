@@ -6448,3 +6448,69 @@ dataS/scripts/vehicles/specializations/BaleWrapper.lua:1508: attempt to index ni
 2025-10-25 14:51:13.983 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_lsfmBigBagPack/objects/bigBag/bigBag.i3d (1.62 ms)
 2025-10-25 14:51:30.514 data/objects/pallets/liquidTank/liquidTank.i3d (1.35 ms)
 2025-10-25 14:51:30.532 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_lsfmBigBagPack/objects/bigBag/bigBag.i3d (1.60 ms)
+2025-10-25 15:01:11.262 Jolero joined the game
+2025-10-25 15:01:11.279 dataS/character/playerM/shirts/topTShirt01.i3d (2.07 ms)
+2025-10-25 15:01:11.304 FS25_UnloadBalesEarly: Sending new settings
+2025-10-25 15:01:11.304 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-25 15:01:11.306 FS25_UnloadBalesEarly: Sending new settings
+2025-10-25 15:01:11.306 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-25 15:01:11.307 FS25_UnloadBalesEarly: Sending new settings
+2025-10-25 15:01:11.307 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-25 15:01:11.308 FS25_UnloadBalesEarly: Sending new settings
+2025-10-25 15:01:11.308 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-25 15:01:27.191 FS25_UnloadBalesEarly: Sending new settings
+2025-10-25 15:01:27.191 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-25 15:01:27.193 FS25_UnloadBalesEarly: Sending new settings
+2025-10-25 15:01:27.193 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-25 15:01:27.193 FS25_UnloadBalesEarly: Sending new settings
+2025-10-25 15:01:27.193 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-25 15:01:27.193 FS25_UnloadBalesEarly: Sending new settings
+2025-10-25 15:01:27.193 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-25 15:01:27.193 FS25_UnloadBalesEarly: Sending new settings
+2025-10-25 15:01:27.193 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-25 15:01:27.193 FS25_UnloadBalesEarly: Sending new settings
+2025-10-25 15:01:27.193 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-25 15:02:11.324   Info: [Easy Development Controls] User Jolero has logged in as master user.
+2025-10-25 15:02:51.238 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Vaderstad_Tempo_VTPV8/i3d/FH_2200.i3d (23.90 ms)
+2025-10-25 15:02:51.335 data/shared/assets/lights/lizard/frontLight04.i3d (2.62 ms)
+2025-10-25 15:03:50.478 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.67 ms)
+2025-10-25 15:04:23.528   Info: Successfully set fill unit 1 of Väderstad FH 2200 to Solid Fertilizer with a fill level of 2,200 liters.
+2025-10-25 15:09:54.418 Game saved successfully (savegame1).
+2025-10-25 15:10:49.010 Warning: Send called with unknown target address.
+2025-10-25 15:10:49.015 Jolero left the game
+2025-10-25 15:14:50.040 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_GVWJ4027/przyczepka.i3d (87.28 ms)
+2025-10-25 15:14:50.137 data/shared/wheels/rims/bockmann/rim001.i3d (4.71 ms)
+2025-10-25 15:14:50.140 data/shared/wheels/tires/continental/terrainContactHT/245_65R17.i3d (2.66 ms)
+2025-10-25 15:14:50.241 data/shared/assets/lights/lizard/sideMarker19.i3d (2.96 ms)
+2025-10-25 15:14:50.243 data/shared/assets/lights/lizard/rearLight13.i3d (1.33 ms)
+2025-10-25 15:17:58.343 Jolero joined the game
+2025-10-25 15:17:58.360 dataS/character/playerM/shirts/topTShirt01.i3d (2.09 ms)
+2025-10-25 15:17:58.370 FS25_UnloadBalesEarly: Sending new settings
+2025-10-25 15:17:58.370 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-25 15:17:58.371 FS25_UnloadBalesEarly: Sending new settings
+2025-10-25 15:17:58.371 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-25 15:17:58.372 FS25_UnloadBalesEarly: Sending new settings
+2025-10-25 15:17:58.372 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-25 15:17:58.373 FS25_UnloadBalesEarly: Sending new settings
+2025-10-25 15:17:58.373 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-25 15:18:10.948 FS25_UnloadBalesEarly: Sending new settings
+2025-10-25 15:18:10.948 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-25 15:18:10.950 FS25_UnloadBalesEarly: Sending new settings
+2025-10-25 15:18:10.950 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-25 15:18:10.950 FS25_UnloadBalesEarly: Sending new settings
+2025-10-25 15:18:10.950 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-25 15:18:10.951 FS25_UnloadBalesEarly: Sending new settings
+2025-10-25 15:18:10.951 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-25 15:18:10.951 FS25_UnloadBalesEarly: Sending new settings
+2025-10-25 15:18:10.951 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-25 15:18:10.951 FS25_UnloadBalesEarly: Sending new settings
+2025-10-25 15:18:10.951 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-25 15:18:37.990   Info: [Easy Development Controls] User Jolero has logged in as master user.
+2025-10-25 15:19:22.269   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'STEYR 8130 Super Elite'
+2025-10-25 15:19:33.146 data/vehicles/kverneland/optimaRS9m/optimaRS9m.i3d (71.31 ms)
+2025-10-25 15:19:33.269 data/shared/wheels/tires/trelleborg/T421/320_60R12.i3d (1.88 ms)
+2025-10-25 15:19:33.275 data/shared/wheels/tires/trelleborg/AW305/10_80R12.i3d (3.35 ms)
+2025-10-25 15:19:57.525   Info: Added € 25,000 to farm account. (3)
+2025-10-25 15:20:12.598 data/vehicles/hauer/xb150/xb150.i3d (7.05 ms)
+2025-10-25 15:23:05.290   Info: Super Strength enabled by Jolero
+2025-10-25 15:24:12.855   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'STEYR 8130 Super Elite'
