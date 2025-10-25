@@ -6835,3 +6835,8 @@ dataS/scripts/vehicles/specializations/BaleWrapper.lua:1508: attempt to index ni
 2025-10-25 20:27:08.948 FS25_UnloadBalesEarly: Done sending new settings
 2025-10-25 20:27:08.948 FS25_UnloadBalesEarly: Sending new settings
 2025-10-25 20:27:08.948 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-25 20:30:36.301 data/objects/pallets/liquidTank/liquidTank.i3d (1.37 ms)
+2025-10-25 20:30:36.338 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_lsfmBigBagPack/objects/bigBag/bigBag.i3d (1.69 ms)
+2025-10-25 20:30:36.511 data/objects/bigBagPallet/bigBagPallet.i3d (1.65 ms)
+2025-10-25 20:40:17.244 Game saved successfully (savegame1).
+2025-10-25 20:41:53.181 M@rcin left the game
