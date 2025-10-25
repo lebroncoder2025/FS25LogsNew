@@ -5984,3 +5984,4 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-10-25 06:08:18.351 FS25_UnloadBalesEarly: Done sending new settings
 2025-10-25 06:09:33.927 Game saved successfully (savegame1).
 2025-10-25 06:12:39.504 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_HydrantPack/6.i3d (2.27 ms)
+2025-10-25 06:33:28.808 siejA lost connection to the game
