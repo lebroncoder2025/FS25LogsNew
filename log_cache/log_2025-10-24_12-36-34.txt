@@ -6514,3 +6514,16 @@ dataS/scripts/vehicles/specializations/BaleWrapper.lua:1508: attempt to index ni
 2025-10-25 15:20:12.598 data/vehicles/hauer/xb150/xb150.i3d (7.05 ms)
 2025-10-25 15:23:05.290   Info: Super Strength enabled by Jolero
 2025-10-25 15:24:12.855   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'STEYR 8130 Super Elite'
+2025-10-25 15:27:16.805   Info: Super Strength disabled by Jolero
+2025-10-25 15:29:48.992 data/objects/pallets/liquidTank/liquidTank.i3d (1.33 ms)
+2025-10-25 15:29:49.015 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_lsfmBigBagPack/objects/bigBag/bigBag.i3d (1.63 ms)
+2025-10-25 15:30:03.136 data/objects/pallets/liquidTank/liquidTank.i3d (1.28 ms)
+2025-10-25 15:30:03.156 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_lsfmBigBagPack/objects/bigBag/bigBag.i3d (1.59 ms)
+2025-10-25 15:30:21.804 data/objects/pallets/liquidTank/liquidTank.i3d (1.33 ms)
+2025-10-25 15:30:21.828 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_lsfmBigBagPack/objects/bigBag/bigBag.i3d (1.63 ms)
+2025-10-25 15:31:26.810   Info: Successfully set fill unit 1 of KRONE Turbo 2500 to Grass with a fill level of 25,000 liters.
+2025-10-25 15:31:54.989 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Kverneland_iXter_B18/i3d/iXter_B18.i3d (356.88 ms)
+2025-10-25 15:31:55.180 data/shared/assets/lights/lizard/rearLight44.i3d (3.73 ms)
+2025-10-25 15:32:51.941 data/objects/bigBagPallet/bigBagPallet.i3d (6.67 ms)
+2025-10-25 15:34:39.409 zone lost connection to the game
+2025-10-25 15:35:54.273   Info: Successfully set fill unit 1 of Kverneland iXter B18 to Herbicide with a fill level of 1,800 liters.
