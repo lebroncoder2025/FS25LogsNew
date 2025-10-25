@@ -6048,3 +6048,7 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-10-25 08:20:47.989 data/objects/pallets/preservedFoodCarrotsPallet/preservedFoodCarrotsPallet.i3d (2.15 ms)
 2025-10-25 08:39:37.592 Game saved successfully (savegame1).
 2025-10-25 08:43:22.524   Info: Super Strength enabled by szagh
+2025-10-25 08:44:46.525   Info: Super Strength disabled by szagh
+2025-10-25 08:45:02.419   Info: Super Strength enabled by szagh
+2025-10-25 08:48:53.295   Info: Super Strength disabled by szagh
+2025-10-25 09:09:37.777 Game saved successfully (savegame1).
