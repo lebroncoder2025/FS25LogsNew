@@ -6069,3 +6069,86 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-10-25 09:27:50.944 FS25_UnloadBalesEarly: Done sending new settings
 2025-10-25 09:27:57.920   Info: Super Strength disabled by szagh
 2025-10-25 09:31:13.793   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'MERLO P41.7'
+2025-10-25 09:39:38.296 Game saved successfully (savegame1).
+2025-10-25 09:50:20.680 zwierek joined the game
+2025-10-25 09:50:20.715 FS25_UnloadBalesEarly: Sending new settings
+2025-10-25 09:50:20.715 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-25 09:50:20.716 FS25_UnloadBalesEarly: Sending new settings
+2025-10-25 09:50:20.716 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-25 09:50:20.719 dataS/character/playerM/pants/botJeanShorts.i3d (24.17 ms)
+2025-10-25 09:50:20.720 dataS/character/playerM/attachments/glassesAviators.i3d (0.82 ms)
+2025-10-25 09:50:20.832 dataS/character/playerM/shoes/sandalM03.i3d (111.95 ms)
+2025-10-25 09:50:20.869 dataS/character/playerM/hairStyles/hairStyleBaldTop.i3d (36.66 ms)
+2025-10-25 09:50:20.879 dataS/character/playerM/facialHair/mHead01/walrusXL.i3d (9.75 ms)
+2025-10-25 09:51:11.767 FS25_UnloadBalesEarly: Sending new settings
+2025-10-25 09:51:11.767 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-25 09:51:11.768 FS25_UnloadBalesEarly: Sending new settings
+2025-10-25 09:51:11.768 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-25 09:51:11.769 FS25_UnloadBalesEarly: Sending new settings
+2025-10-25 09:51:11.769 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-25 09:51:11.769 FS25_UnloadBalesEarly: Sending new settings
+2025-10-25 09:51:11.769 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-25 09:56:36.953 zone lost connection to the game
+2025-10-25 09:57:27.574 dataS/character/playerF/pants/botChinos.i3d (16.50 ms)
+2025-10-25 09:57:27.804 dataS/character/playerF/heads/fHead04.i3d (229.28 ms)
+2025-10-25 09:57:27.826 dataS/character/playerF/jacket/topAviatorJacket.i3d (22.56 ms)
+2025-10-25 09:57:27.921 dataS/character/playerF/shoes/laceUpSneaker.i3d (94.73 ms)
+2025-10-25 09:57:27.962 dataS/character/playerF/hairStyles/hairStylePonyTail01.i3d (41.13 ms)
+2025-10-25 09:58:52.464 zone joined the game
+2025-10-25 09:58:52.485 dataS/character/playerM/heads/mHead02.i3d (7.95 ms)
+2025-10-25 09:58:52.502 FS25_UnloadBalesEarly: Sending new settings
+2025-10-25 09:58:52.502 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-25 09:58:52.503 FS25_UnloadBalesEarly: Sending new settings
+2025-10-25 09:58:52.503 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-25 09:58:52.578 dataS/character/playerM/jacket/caseIH/caseIHTop.i3d (93.18 ms)
+2025-10-25 09:58:52.585 dataS/character/playerM/attachments/caseIHhat.i3d (6.30 ms)
+2025-10-25 09:58:52.617 dataS/character/playerM/hairStyles/hairStyleFringe.i3d (32.18 ms)
+2025-10-25 09:58:52.631 dataS/character/playerM/facialHair/mHead02/fullBeard.i3d (13.90 ms)
+2025-10-25 09:59:08.857 FS25_UnloadBalesEarly: Sending new settings
+2025-10-25 09:59:08.857 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-25 09:59:08.858 FS25_UnloadBalesEarly: Sending new settings
+2025-10-25 09:59:08.858 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-25 09:59:08.859 FS25_UnloadBalesEarly: Sending new settings
+2025-10-25 09:59:08.859 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-25 09:59:08.859 FS25_UnloadBalesEarly: Sending new settings
+2025-10-25 09:59:08.859 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-25 10:09:38.875 Game saved successfully (savegame1).
+2025-10-25 10:17:57.569   Info: Added € 60,000 to farm account. (6)
+2025-10-25 10:18:07.548 data/vehicles/schwarzmueller/lowloader4A/lowloader4A.i3d (41.44 ms)
+2025-10-25 10:18:07.707 data/shared/assets/lights/lizard/rearLight46.i3d (3.28 ms)
+2025-10-25 10:18:07.708 data/shared/assets/lights/lizard/workingLight14.i3d (1.41 ms)
+2025-10-25 10:18:07.710 data/shared/assets/lights/lizard/sideMarker06Orange.i3d (1.40 ms)
+2025-10-25 10:18:07.713 data/shared/assets/lights/lizard/sideMarker06White.i3d (0.89 ms)
+2025-10-25 10:18:07.714 data/shared/assets/beaconLights/lizard/beaconLight08.i3d (1.57 ms)
+2025-10-25 10:19:26.397 data/vehicles/schwarzmueller/lowloader4A/lowloader4A.i3d (24.58 ms)
+2025-10-25 10:19:26.554 data/shared/assets/lights/lizard/rearLight46.i3d (2.12 ms)
+2025-10-25 10:19:26.555 data/shared/assets/lights/lizard/workingLight14.i3d (1.07 ms)
+2025-10-25 10:19:26.557 data/shared/assets/lights/lizard/sideMarker06Orange.i3d (1.42 ms)
+2025-10-25 10:19:26.560 data/shared/assets/lights/lizard/sideMarker06White.i3d (0.91 ms)
+2025-10-25 10:19:26.561 data/shared/assets/beaconLights/lizard/beaconLight08.i3d (1.62 ms)
+2025-10-25 10:19:48.061   DevWarning: material 'tyreMaterial' is having the normal map alpha channel added by script. This can cause problems on consoles as the correct shader will not be built for this case.
+2025-10-25 10:19:48.061   DevWarning: material 'tyreMaterial' is having the normal map alpha channel added by script. This can cause problems on consoles as the correct shader will not be built for this case.
+2025-10-25 10:19:48.062   DevWarning: material 'tyreMaterial' is having the normal map alpha channel added by script. This can cause problems on consoles as the correct shader will not be built for this case.
+2025-10-25 10:19:48.062   DevWarning: material 'tyreMaterial' is having the normal map alpha channel added by script. This can cause problems on consoles as the correct shader will not be built for this case.
+2025-10-25 10:19:48.062   DevWarning: material 'tyreMaterial' is having the normal map alpha channel added by script. This can cause problems on consoles as the correct shader will not be built for this case.
+2025-10-25 10:19:48.062   DevWarning: material 'tyreMaterial' is having the normal map alpha channel added by script. This can cause problems on consoles as the correct shader will not be built for this case.
+2025-10-25 10:19:53.819   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'KAMA3 6x6 740.62 ZF9'
+2025-10-25 10:25:13.228 Jolero joined the game
+2025-10-25 10:25:13.264 FS25_UnloadBalesEarly: Sending new settings
+2025-10-25 10:25:13.264 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-25 10:25:13.266 FS25_UnloadBalesEarly: Sending new settings
+2025-10-25 10:25:13.266 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-25 10:25:13.267 FS25_UnloadBalesEarly: Sending new settings
+2025-10-25 10:25:13.267 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-25 10:25:13.281 dataS/character/playerM/hairStyles/hairStyleTopKnot.i3d (40.99 ms)
+2025-10-25 10:25:13.305 dataS/character/playerM/facialHair/mHead01/goatee01.i3d (22.67 ms)
+2025-10-25 10:25:31.014 FS25_UnloadBalesEarly: Sending new settings
+2025-10-25 10:25:31.014 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-25 10:25:31.015 FS25_UnloadBalesEarly: Sending new settings
+2025-10-25 10:25:31.015 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-25 10:25:31.016 FS25_UnloadBalesEarly: Sending new settings
+2025-10-25 10:25:31.016 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-25 10:25:31.016 FS25_UnloadBalesEarly: Sending new settings
+2025-10-25 10:25:31.016 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-25 10:25:31.016 FS25_UnloadBalesEarly: Sending new settings
+2025-10-25 10:25:31.016 FS25_UnloadBalesEarly: Done sending new settings
