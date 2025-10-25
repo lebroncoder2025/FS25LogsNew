@@ -6985,3 +6985,50 @@ dataS/scripts/vehicles/specializations/BaleWrapper.lua:1508: attempt to index ni
 2025-10-25 23:06:56.232 FS25_UnloadBalesEarly: Sending new settings
 2025-10-25 23:06:56.232 FS25_UnloadBalesEarly: Done sending new settings
 2025-10-25 23:10:31.383 Game saved successfully (savegame1).
+2025-10-25 23:21:22.177 data/objects/bigBag/bigBag.i3d (3.49 ms)
+2025-10-25 23:21:39.200 data/objects/bigBag/bigBag.i3d (1.97 ms)
+2025-10-25 23:21:59.396 data/objects/bigBag/bigBag.i3d (2.01 ms)
+2025-10-25 23:22:09.334 data/objects/bigBag/bigBag.i3d (2.06 ms)
+2025-10-25 23:25:23.556 Error: Event "onAIFieldCourseSettingsInitialized" is not registered for type "bigBag"!
+2025-10-25 23:25:23.556 LUA call stack:
+  =dataS/scripts/specialization/SpecializationUtil.lua:49 raiseEvent
+  =dataS/scripts/field/course/FieldCourseSettings.lua:548 generate
+  =dataS/scripts/vehicles/specializations/AIModeSelection.lua:367 setAIModeFieldCourseSettings
+  =dataS/scripts/vehicles/specializations/events/AIModeSelectionSettingsEvent.lua:61 run
+  =dataS/scripts/vehicles/specializations/events/AIModeSelectionSettingsEvent.lua:43 readStream
+  =dataS/scripts/network/Server.lua:541 packetReceived
+  =dataS/scripts/network/ConnectionManager.lua:27 packetReceived
+2025-10-25 23:25:23.556 Error: Event "onPostAIFieldCourseSettingsInitialized" is not registered for type "bigBag"!
+2025-10-25 23:25:23.556 LUA call stack:
+  =dataS/scripts/specialization/SpecializationUtil.lua:49 raiseEvent
+  =dataS/scripts/field/course/FieldCourseSettings.lua:549 generate
+  =dataS/scripts/vehicles/specializations/AIModeSelection.lua:367 setAIModeFieldCourseSettings
+  =dataS/scripts/vehicles/specializations/events/AIModeSelectionSettingsEvent.lua:61 run
+  =dataS/scripts/vehicles/specializations/events/AIModeSelectionSettingsEvent.lua:43 readStream
+  =dataS/scripts/network/Server.lua:541 packetReceived
+  =dataS/scripts/network/ConnectionManager.lua:27 packetReceived
+2025-10-25 23:27:23.486 Jolero joined the game
+2025-10-25 23:27:23.504 dataS/character/playerM/shirts/topTShirt01.i3d (2.07 ms)
+2025-10-25 23:27:23.523 FS25_UnloadBalesEarly: Sending new settings
+2025-10-25 23:27:23.524 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-25 23:27:23.525 FS25_UnloadBalesEarly: Sending new settings
+2025-10-25 23:27:23.525 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-25 23:27:23.527 FS25_UnloadBalesEarly: Sending new settings
+2025-10-25 23:27:23.527 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-25 23:27:23.527 FS25_UnloadBalesEarly: Sending new settings
+2025-10-25 23:27:23.527 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-25 23:27:39.228 FS25_UnloadBalesEarly: Sending new settings
+2025-10-25 23:27:39.228 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-25 23:27:39.230 FS25_UnloadBalesEarly: Sending new settings
+2025-10-25 23:27:39.230 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-25 23:27:39.230 FS25_UnloadBalesEarly: Sending new settings
+2025-10-25 23:27:39.230 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-25 23:27:39.230 FS25_UnloadBalesEarly: Sending new settings
+2025-10-25 23:27:39.230 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-25 23:27:39.231 FS25_UnloadBalesEarly: Sending new settings
+2025-10-25 23:27:39.231 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-25 23:27:39.231 FS25_UnloadBalesEarly: Sending new settings
+2025-10-25 23:27:39.231 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-25 23:28:27.057   Info: [Easy Development Controls] User Jolero has logged in as master user.
+2025-10-25 23:29:01.600 siejA lost connection to the game
+2025-10-25 23:30:31.912   Info: Moved 3 vehicles to coordinates 638, 814 successfully.
