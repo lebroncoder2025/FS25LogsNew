@@ -6930,3 +6930,58 @@ dataS/scripts/vehicles/specializations/BaleWrapper.lua:1508: attempt to index ni
 2025-10-25 22:10:40.988 data/objects/pallets/liquidTank/liquidTank.i3d (2.33 ms)
 2025-10-25 22:10:58.181 data/objects/pallets/liquidTank/liquidTank.i3d (1.31 ms)
 2025-10-25 22:11:23.521 M@rcin lost connection to the game
+2025-10-25 22:40:30.786 Game saved successfully (savegame1).
+2025-10-25 22:50:44.735 data/objects/pallets/liquidTank/liquidTank.i3d (2.53 ms)
+2025-10-25 22:50:55.699 data/objects/pallets/liquidTank/liquidTank.i3d (1.35 ms)
+2025-10-25 22:50:56.808 data/objects/pallets/liquidTank/liquidTank.i3d (1.40 ms)
+2025-10-25 22:53:24.464 Daniel left the game
+2025-10-25 22:57:59.470 hubsonwaliszot left the game
+2025-10-25 22:59:03.636 siejA joined the game
+2025-10-25 22:59:03.675 FS25_UnloadBalesEarly: Sending new settings
+2025-10-25 22:59:03.675 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-25 22:59:03.789 dataS/character/playerM/fullBody/strauss/motion2020PantsVariant2ndVariant.i3d (134.17 ms)
+2025-10-25 22:59:03.827 dataS/character/playerM/hairStyles/hairStyleFringe.i3d (37.98 ms)
+2025-10-25 22:59:03.847 dataS/character/playerM/facialHair/mHead01/goatee01.i3d (19.87 ms)
+2025-10-25 22:59:13.614 FS25_UnloadBalesEarly: Sending new settings
+2025-10-25 22:59:13.614 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-25 22:59:13.615 FS25_UnloadBalesEarly: Sending new settings
+2025-10-25 22:59:13.615 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-25 22:59:13.616 FS25_UnloadBalesEarly: Sending new settings
+2025-10-25 22:59:13.616 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-25 23:03:41.779 hubsonwaliszot joined the game
+2025-10-25 23:03:41.802 FS25_UnloadBalesEarly: Sending new settings
+2025-10-25 23:03:41.802 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-25 23:03:41.803 FS25_UnloadBalesEarly: Sending new settings
+2025-10-25 23:03:41.803 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-25 23:05:15.606 FS25_UnloadBalesEarly: Sending new settings
+2025-10-25 23:05:15.606 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-25 23:05:15.608 FS25_UnloadBalesEarly: Sending new settings
+2025-10-25 23:05:15.608 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-25 23:05:15.608 FS25_UnloadBalesEarly: Sending new settings
+2025-10-25 23:05:15.608 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-25 23:05:15.608 FS25_UnloadBalesEarly: Sending new settings
+2025-10-25 23:05:15.608 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-25 23:06:41.413 Daniel joined the game
+2025-10-25 23:06:41.437 FS25_UnloadBalesEarly: Sending new settings
+2025-10-25 23:06:41.437 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-25 23:06:41.439 FS25_UnloadBalesEarly: Sending new settings
+2025-10-25 23:06:41.439 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-25 23:06:41.440 dataS/character/playerM/heads/mHead02.i3d (9.04 ms)
+2025-10-25 23:06:41.440 FS25_UnloadBalesEarly: Sending new settings
+2025-10-25 23:06:41.441 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-25 23:06:41.468 dataS/character/playerM/jacket/topDenimJacket.i3d (27.53 ms)
+2025-10-25 23:06:41.473 dataS/character/playerM/gloves/glovesKevlar.i3d (4.68 ms)
+2025-10-25 23:06:41.586 dataS/character/playerM/shoes/laceUpSneaker.i3d (113.65 ms)
+2025-10-25 23:06:41.622 dataS/character/playerM/hairStyles/hairStyleTopKnot.i3d (35.97 ms)
+2025-10-25 23:06:41.633 dataS/character/playerM/facialHair/mHead02/trimmedBeard.i3d (10.33 ms)
+2025-10-25 23:06:56.230 FS25_UnloadBalesEarly: Sending new settings
+2025-10-25 23:06:56.230 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-25 23:06:56.231 FS25_UnloadBalesEarly: Sending new settings
+2025-10-25 23:06:56.231 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-25 23:06:56.232 FS25_UnloadBalesEarly: Sending new settings
+2025-10-25 23:06:56.232 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-25 23:06:56.232 FS25_UnloadBalesEarly: Sending new settings
+2025-10-25 23:06:56.232 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-25 23:06:56.232 FS25_UnloadBalesEarly: Sending new settings
+2025-10-25 23:06:56.232 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-25 23:10:31.383 Game saved successfully (savegame1).
