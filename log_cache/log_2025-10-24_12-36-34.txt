@@ -6052,3 +6052,20 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-10-25 08:45:02.419   Info: Super Strength enabled by szagh
 2025-10-25 08:48:53.295   Info: Super Strength disabled by szagh
 2025-10-25 09:09:37.777 Game saved successfully (savegame1).
+2025-10-25 09:27:29.026   Info: Super Strength enabled by szagh
+2025-10-25 09:27:34.653 zone joined the game
+2025-10-25 09:27:34.682 dataS/character/playerM/heads/mHead02.i3d (12.86 ms)
+2025-10-25 09:27:34.688 FS25_UnloadBalesEarly: Sending new settings
+2025-10-25 09:27:34.688 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-25 09:27:34.796 dataS/character/playerM/jacket/caseIH/caseIHTop.i3d (114.34 ms)
+2025-10-25 09:27:34.803 dataS/character/playerM/attachments/caseIHhat.i3d (6.55 ms)
+2025-10-25 09:27:34.834 dataS/character/playerM/hairStyles/hairStyleFringe.i3d (31.85 ms)
+2025-10-25 09:27:34.849 dataS/character/playerM/facialHair/mHead02/fullBeard.i3d (15.06 ms)
+2025-10-25 09:27:50.942 FS25_UnloadBalesEarly: Sending new settings
+2025-10-25 09:27:50.942 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-25 09:27:50.943 FS25_UnloadBalesEarly: Sending new settings
+2025-10-25 09:27:50.943 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-25 09:27:50.944 FS25_UnloadBalesEarly: Sending new settings
+2025-10-25 09:27:50.944 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-25 09:27:57.920   Info: Super Strength disabled by szagh
+2025-10-25 09:31:13.793   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'MERLO P41.7'
