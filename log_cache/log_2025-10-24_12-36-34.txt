@@ -6666,3 +6666,19 @@ dataS/scripts/vehicles/specializations/BaleWrapper.lua:1508: attempt to index ni
 2025-10-25 18:33:15.093 FS25_UnloadBalesEarly: Done sending new settings
 2025-10-25 18:34:05.655   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Massey Ferguson 310'
 2025-10-25 18:40:09.691 Game saved successfully (savegame1).
+2025-10-25 18:55:38.385 siejA lost connection to the game
+2025-10-25 19:10:10.377 Game saved successfully (savegame1).
+2025-10-25 19:14:13.162 zwierek joined the game
+2025-10-25 19:14:13.186 FS25_UnloadBalesEarly: Sending new settings
+2025-10-25 19:14:13.186 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-25 19:14:13.203 dataS/character/playerM/pants/botJeanShorts.i3d (24.37 ms)
+2025-10-25 19:14:13.204 dataS/character/playerM/attachments/glassesAviators.i3d (0.82 ms)
+2025-10-25 19:14:13.316 dataS/character/playerM/shoes/sandalM03.i3d (111.81 ms)
+2025-10-25 19:14:13.351 dataS/character/playerM/hairStyles/hairStyleBaldTop.i3d (35.01 ms)
+2025-10-25 19:14:13.361 dataS/character/playerM/facialHair/mHead01/walrusXL.i3d (9.89 ms)
+2025-10-25 19:14:58.927 FS25_UnloadBalesEarly: Sending new settings
+2025-10-25 19:14:58.927 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-25 19:14:58.929 FS25_UnloadBalesEarly: Sending new settings
+2025-10-25 19:14:58.929 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-25 19:14:58.930 FS25_UnloadBalesEarly: Sending new settings
+2025-10-25 19:14:58.930 FS25_UnloadBalesEarly: Done sending new settings
