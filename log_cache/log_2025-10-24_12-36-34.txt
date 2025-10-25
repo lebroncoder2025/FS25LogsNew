@@ -6633,3 +6633,36 @@ dataS/scripts/vehicles/specializations/BaleWrapper.lua:1508: attempt to index ni
 2025-10-25 17:52:31.571 FS25_UnloadBalesEarly: Done sending new settings
 2025-10-25 18:01:03.573 zone lost connection to the game
 2025-10-25 18:10:08.467 Game saved successfully (savegame1).
+2025-10-25 18:25:15.609 siejA lost connection to the game
+2025-10-25 18:27:25.905 siejA joined the game
+2025-10-25 18:27:26.262 dataS/character/playerM/fullBody/strauss/motion2020PantsVariant2ndVariant.i3d (157.74 ms)
+2025-10-25 18:27:26.305 dataS/character/playerM/hairStyles/hairStyleFringe.i3d (42.93 ms)
+2025-10-25 18:27:26.330 dataS/character/playerM/facialHair/mHead01/goatee01.i3d (24.34 ms)
+2025-10-25 18:27:37.167 FS25_UnloadBalesEarly: Sending new settings
+2025-10-25 18:27:37.167 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-25 18:27:37.169 FS25_UnloadBalesEarly: Sending new settings
+2025-10-25 18:27:37.169 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-25 18:28:25.567 hubsonwaliszot joined the game
+2025-10-25 18:28:25.602 FS25_UnloadBalesEarly: Sending new settings
+2025-10-25 18:28:25.602 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-25 18:29:34.699 FS25_UnloadBalesEarly: Sending new settings
+2025-10-25 18:29:34.699 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-25 18:29:34.701 FS25_UnloadBalesEarly: Sending new settings
+2025-10-25 18:29:34.701 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-25 18:29:34.701 FS25_UnloadBalesEarly: Sending new settings
+2025-10-25 18:29:34.701 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-25 18:31:38.018 siejA lost connection to the game
+2025-10-25 18:33:04.079 siejA joined the game
+2025-10-25 18:33:04.101 FS25_UnloadBalesEarly: Sending new settings
+2025-10-25 18:33:04.101 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-25 18:33:04.205 dataS/character/playerM/fullBody/strauss/motion2020PantsVariant2ndVariant.i3d (107.68 ms)
+2025-10-25 18:33:04.237 dataS/character/playerM/hairStyles/hairStyleFringe.i3d (32.14 ms)
+2025-10-25 18:33:04.255 dataS/character/playerM/facialHair/mHead01/goatee01.i3d (18.08 ms)
+2025-10-25 18:33:15.091 FS25_UnloadBalesEarly: Sending new settings
+2025-10-25 18:33:15.091 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-25 18:33:15.093 FS25_UnloadBalesEarly: Sending new settings
+2025-10-25 18:33:15.093 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-25 18:33:15.093 FS25_UnloadBalesEarly: Sending new settings
+2025-10-25 18:33:15.093 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-25 18:34:05.655   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Massey Ferguson 310'
+2025-10-25 18:40:09.691 Game saved successfully (savegame1).
