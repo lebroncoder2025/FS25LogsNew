@@ -6903,3 +6903,4 @@ dataS/scripts/vehicles/specializations/BaleWrapper.lua:1508: attempt to index ni
 2025-10-25 21:02:17.538 symonixprime serwerkaput lost connection to the game
 2025-10-25 21:10:21.251 Game saved successfully (savegame1).
 2025-10-25 21:15:17.846 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_UrsusC355xC360Pack/frontloaders/Szufla3B.i3d (2.01 ms)
+2025-10-25 21:19:37.991 data/objects/bigBagPallet/bigBagPallet.i3d (5.72 ms)
