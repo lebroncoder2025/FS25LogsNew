@@ -6198,3 +6198,5 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
   =dataS/scripts/vehicles/specializations/events/AIModeSelectionSettingsEvent.lua:43 readStream
   =dataS/scripts/network/Server.lua:541 packetReceived
   =dataS/scripts/network/ConnectionManager.lua:27 packetReceived
+2025-10-25 11:24:25.088 data/objects/bigBag/bigBag.i3d (2.10 ms)
+2025-10-25 11:26:25.219 Jolero left the game
