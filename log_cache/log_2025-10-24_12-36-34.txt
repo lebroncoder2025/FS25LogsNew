@@ -6580,3 +6580,39 @@ dataS/scripts/vehicles/specializations/BaleWrapper.lua:1508: attempt to index ni
 2025-10-25 16:11:32.916   Info: Added € 2,000 to farm account. (3)
 2025-10-25 16:20:26.420 data/objects/pallets/preservedFoodCarrotsPallet/preservedFoodCarrotsPallet.i3d (3.94 ms)
 2025-10-25 16:33:24.056 data/objects/pallets/lettuceBoxPallet/lettuceBoxPallet.i3d (208.36 ms)
+2025-10-25 16:36:25.094   Info: Successfully set fill unit 1 of Kverneland iXter B18 to Herbicide with a fill level of 1,800 liters.
+2025-10-25 16:36:33.575 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (1.23 ms)
+2025-10-25 16:36:33.629 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_mrhHandLiftableConsumables/bagsStack/bagsStack.i3d (2.77 ms)
+2025-10-25 16:40:05.503 Game saved successfully (savegame1).
+2025-10-25 16:41:03.780 Jolero left the game
+2025-10-25 16:48:02.089 Jolero joined the game
+2025-10-25 16:48:02.109 dataS/character/playerM/shirts/topTShirt01.i3d (2.11 ms)
+2025-10-25 16:48:02.112 FS25_UnloadBalesEarly: Sending new settings
+2025-10-25 16:48:02.113 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-25 16:48:02.113 FS25_UnloadBalesEarly: Sending new settings
+2025-10-25 16:48:02.113 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-25 16:48:02.151 dataS/character/playerM/hairStyles/hairStyleTopKnot.i3d (41.70 ms)
+2025-10-25 16:48:15.190 FS25_UnloadBalesEarly: Sending new settings
+2025-10-25 16:48:15.190 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-25 16:48:15.192 FS25_UnloadBalesEarly: Sending new settings
+2025-10-25 16:48:15.192 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-25 16:48:15.192 FS25_UnloadBalesEarly: Sending new settings
+2025-10-25 16:48:15.192 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-25 16:48:15.193 FS25_UnloadBalesEarly: Sending new settings
+2025-10-25 16:48:15.193 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-25 16:49:13.731   Info: [Easy Development Controls] User Jolero has logged in as master user.
+2025-10-25 16:53:06.003   Info: Super Strength enabled by Jolero
+2025-10-25 16:53:14.247   Info: Super Strength disabled by Jolero
+2025-10-25 16:53:52.948   Info: Added € 12,000 to farm account. (3)
+2025-10-25 16:55:08.439 data/vehicles/hardi/mega1200L/mega1200L.i3d (29.45 ms)
+2025-10-25 16:55:08.556 data/shared/assets/lights/hella/hellaWorkingLight02.i3d (1.76 ms)
+2025-10-25 16:55:30.879   Info: Successfully set fill unit 1 of Hardi MEGA 1200L to Herbicide with a fill level of 1,200 liters.
+2025-10-25 16:59:00.412 data/objects/bigBagPallet/bigBagPallet.i3d (6.70 ms)
+2025-10-25 16:59:23.011 data/objects/bigBagPallet/bigBagPallet.i3d (1.71 ms)
+2025-10-25 17:06:23.424 data/objects/bigBagPallet/bigBagPallet.i3d (1.64 ms)
+2025-10-25 17:06:36.948 data/objects/bigBagPallet/bigBagPallet.i3d (1.79 ms)
+2025-10-25 17:08:36.625 Jolero left the game
+2025-10-25 17:08:37.418 Game saved successfully (savegame1).
+2025-10-25 17:09:14.713 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.73 ms)
+2025-10-25 17:09:14.794 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_mrhHandLiftableConsumables/barrelPlastic/barrelPlastic.i3d (33.11 ms)
+2025-10-25 17:10:07.609 Game saved successfully (savegame1).
