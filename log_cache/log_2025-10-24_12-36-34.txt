@@ -5974,3 +5974,13 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-10-25 04:39:10.168 Game saved successfully (savegame1).
 2025-10-25 05:09:19.889 Game saved successfully (savegame1).
 2025-10-25 05:39:30.013 Game saved successfully (savegame1).
+2025-10-25 06:07:55.814 siejA joined the game
+2025-10-25 06:07:56.150 dataS/character/playerM/fullBody/strauss/motion2020PantsVariant2ndVariant.i3d (135.11 ms)
+2025-10-25 06:07:56.187 dataS/character/playerM/hairStyles/hairStyleFringe.i3d (37.69 ms)
+2025-10-25 06:07:56.206 dataS/character/playerM/facialHair/mHead01/goatee01.i3d (19.27 ms)
+2025-10-25 06:08:18.349 FS25_UnloadBalesEarly: Sending new settings
+2025-10-25 06:08:18.349 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-25 06:08:18.351 FS25_UnloadBalesEarly: Sending new settings
+2025-10-25 06:08:18.351 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-25 06:09:33.927 Game saved successfully (savegame1).
+2025-10-25 06:12:39.504 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_HydrantPack/6.i3d (2.27 ms)
