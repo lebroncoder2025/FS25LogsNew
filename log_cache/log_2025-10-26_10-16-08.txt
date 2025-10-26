@@ -5247,3 +5247,70 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-10-26 12:29:16.452 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.59 ms)
 2025-10-26 12:29:16.511 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_mrhHandLiftableConsumables/bagsStack/bagsStack.i3d (1.20 ms)
 2025-10-26 12:31:06.578   Info: No 'ExhaustExtension' particle system added to vehicle 'Lizard Screw conveyor' because it has no exhaust
+2025-10-26 12:34:15.345 zwierek left the game
+2025-10-26 12:35:46.848 symonixprime serwerkaput lost connection to the game
+2025-10-26 12:36:59.557 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.64 ms)
+2025-10-26 12:36:59.626 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_mrhHandLiftableConsumables/baleTwine/baleTwine.i3d (0.37 ms)
+2025-10-26 12:45:57.499 dataS/character/playerM/heads/mHead05.i3d (227.87 ms)
+2025-10-26 12:45:57.615 dataS/character/playerM/shirts/zipNeckPullover.i3d (115.65 ms)
+2025-10-26 12:45:57.654 dataS/character/playerM/hairStyles/hairStyleManBun.i3d (38.90 ms)
+2025-10-26 12:45:57.664 dataS/character/playerM/facialHair/mHead05/goatee02.i3d (10.66 ms)
+2025-10-26 12:47:49.270 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.60 ms)
+2025-10-26 12:47:49.291 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_mrhHandLiftableConsumables/bagsStack/bagsStack.i3d (2.75 ms)
+2025-10-26 12:47:49.996 Game saved successfully (savegame1).
+2025-10-26 13:01:14.924 data/objects/bigBagPallet/bigBagPallet.i3d (122.95 ms)
+2025-10-26 13:01:47.329 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.72 ms)
+2025-10-26 13:01:47.382 data/objects/bigBagPallet/bigBagPallet.i3d (1.55 ms)
+2025-10-26 13:02:22.098 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.60 ms)
+2025-10-26 13:02:22.401 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_mrhHandLiftableConsumables/barrelPlastic/barrelPlastic.i3d (178.83 ms)
+2025-10-26 13:03:21.225 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_mrhHandLiftableConsumables/bagsStack/bagsStack.i3d (1.20 ms)
+2025-10-26 13:09:01.617 Figuana lost connection to the game
+2025-10-26 13:17:53.386 Game saved successfully (savegame1).
+2025-10-26 13:20:22.431 Jolero joined the game
+2025-10-26 13:20:22.446 dataS/character/playerM/shirts/topTShirt01.i3d (2.04 ms)
+2025-10-26 13:20:22.464 FS25_UnloadBalesEarly: Sending new settings
+2025-10-26 13:20:22.464 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-26 13:20:22.466 FS25_UnloadBalesEarly: Sending new settings
+2025-10-26 13:20:22.466 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-26 13:20:22.488 dataS/character/playerM/hairStyles/hairStyleTopKnot.i3d (41.63 ms)
+2025-10-26 13:20:38.701 FS25_UnloadBalesEarly: Sending new settings
+2025-10-26 13:20:38.701 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-26 13:20:38.702 FS25_UnloadBalesEarly: Sending new settings
+2025-10-26 13:20:38.702 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-26 13:20:38.702 FS25_UnloadBalesEarly: Sending new settings
+2025-10-26 13:20:38.702 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-26 13:20:38.702 FS25_UnloadBalesEarly: Sending new settings
+2025-10-26 13:20:38.702 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-26 13:21:19.650   Info: [Easy Development Controls] User Jolero has logged in as master user.
+2025-10-26 13:24:11.484 hubsonwaliszot joined the game
+2025-10-26 13:24:11.508 FS25_UnloadBalesEarly: Sending new settings
+2025-10-26 13:24:11.508 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-26 13:24:11.510 FS25_UnloadBalesEarly: Sending new settings
+2025-10-26 13:24:11.510 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-26 13:24:11.511 FS25_UnloadBalesEarly: Sending new settings
+2025-10-26 13:24:11.511 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-26 13:24:11.874 dataS/character/playerM/shirts/poettinger/poettingerTshirt.i3d (372.47 ms)
+2025-10-26 13:25:25.829 FS25_UnloadBalesEarly: Sending new settings
+2025-10-26 13:25:25.829 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-26 13:25:25.829 FS25_UnloadBalesEarly: Sending new settings
+2025-10-26 13:25:25.829 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-26 13:25:25.830 FS25_UnloadBalesEarly: Sending new settings
+2025-10-26 13:25:25.830 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-26 13:25:25.830 FS25_UnloadBalesEarly: Sending new settings
+2025-10-26 13:25:25.830 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-26 13:25:25.830 FS25_UnloadBalesEarly: Sending new settings
+2025-10-26 13:25:25.830 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-26 13:28:34.979 data/objects/pallets/lettuceBoxPallet/lettuceBoxPallet.i3d (11.48 ms)
+2025-10-26 13:30:24.345 data/objects/pallets/lettuceBoxPallet/lettuceBoxPallet.i3d (3.12 ms)
+2025-10-26 13:30:24.431   Info: Adding pallet.
+2025-10-26 13:30:24.485 data/objects/pallets/lettuceBoxPallet/lettuceBoxPallet.i3d (3.25 ms)
+2025-10-26 13:30:24.572   Info: Adding pallet.
+2025-10-26 13:30:25.066 data/objects/pallets/lettuceBoxPallet/lettuceBoxPallet.i3d (3.28 ms)
+2025-10-26 13:30:25.134   Info: Adding pallet.
+2025-10-26 13:30:26.158 data/objects/pallets/lettuceBoxPallet/lettuceBoxPallet.i3d (3.36 ms)
+2025-10-26 13:32:32.915   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Fortschritt ZT 303-D'
+2025-10-26 13:33:19.841 siejA lost connection to the game
+2025-10-26 13:33:20.793 Jolero left the game
+2025-10-26 13:33:21.741 Game saved successfully (savegame1).
+2025-10-26 13:33:31.333 hubsonwaliszot left the game
+2025-10-26 13:36:16.166 zone lost connection to the game
