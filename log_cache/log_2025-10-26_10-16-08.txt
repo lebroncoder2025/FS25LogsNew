@@ -5591,3 +5591,5 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-10-26 16:18:43.177 Game saved successfully (savegame1).
 2025-10-26 16:19:35.249   Info: Moved player to coordinates 796, 1392 successfully.
 2025-10-26 16:19:46.973   Info: Moved player to coordinates 572, 804 successfully.
+2025-10-26 16:21:01.002 M@rcin lost connection to the game
+2025-10-26 16:28:23.008 045 Polskinoob left the game
