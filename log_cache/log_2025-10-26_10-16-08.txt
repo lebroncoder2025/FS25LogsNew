@@ -5114,3 +5114,6 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-10-26 11:12:29.270 FS25_UnloadBalesEarly: Done sending new settings
 2025-10-26 11:14:46.145   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Ursus C-385A Fast transmission'
 2025-10-26 11:17:41.427 Game saved successfully (savegame1).
+2025-10-26 11:35:16.285 data/objects/bigBagPallet/bigBagPallet.i3d (1.53 ms)
+2025-10-26 11:36:08.834 data/objects/bigBag/bigBag.i3d (1.85 ms)
+2025-10-26 11:36:17.873   Info: No 'ExhaustExtension' particle system added to vehicle 'Kärcher HDS 9/18-4 M' because it has no exhaust
