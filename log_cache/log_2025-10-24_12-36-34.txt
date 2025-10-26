@@ -7268,3 +7268,51 @@ dataS/scripts/vehicles/specializations/BaleWrapper.lua:1508: attempt to index ni
 2025-10-26 07:41:48.973 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_lsfmBigBagPack/objects/bigBag/bigBag.i3d (1.66 ms)
 2025-10-26 07:41:49.065 data/objects/bigBagPallet/bigBagPallet.i3d (1.62 ms)
 2025-10-26 07:42:40.159 Game saved successfully (savegame1).
+2025-10-26 07:45:30.228 M@rcin lost connection to the game
+2025-10-26 07:56:56.567 data/objects/pallets/liquidTank/liquidTank.i3d (1.33 ms)
+2025-10-26 07:56:56.588 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_lsfmBigBagPack/objects/bigBag/bigBag.i3d (1.62 ms)
+2025-10-26 07:56:56.659 data/objects/bigBagPallet/bigBagPallet.i3d (1.63 ms)
+2025-10-26 07:57:55.667 hubsonwaliszot joined the game
+2025-10-26 07:57:55.703 FS25_UnloadBalesEarly: Sending new settings
+2025-10-26 07:57:55.703 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-26 07:57:55.705 FS25_UnloadBalesEarly: Sending new settings
+2025-10-26 07:57:55.705 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-26 07:57:55.706 FS25_UnloadBalesEarly: Sending new settings
+2025-10-26 07:57:55.706 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-26 07:57:56.033 dataS/character/playerM/shirts/poettinger/poettingerTshirt.i3d (351.71 ms)
+2025-10-26 07:59:13.761 FS25_UnloadBalesEarly: Sending new settings
+2025-10-26 07:59:13.761 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-26 07:59:13.763 FS25_UnloadBalesEarly: Sending new settings
+2025-10-26 07:59:13.763 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-26 07:59:13.763 FS25_UnloadBalesEarly: Sending new settings
+2025-10-26 07:59:13.763 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-26 07:59:13.763 FS25_UnloadBalesEarly: Sending new settings
+2025-10-26 07:59:13.763 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-26 07:59:13.764 FS25_UnloadBalesEarly: Sending new settings
+2025-10-26 07:59:13.764 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-26 08:00:15.722 data/objects/bigBagPallet/bigBagPallet.i3d (1.58 ms)
+2025-10-26 08:08:32.883 hubsonwaliszot lost connection to the game
+2025-10-26 08:12:09.795 hubsonwaliszot joined the game
+2025-10-26 08:12:09.815 FS25_UnloadBalesEarly: Sending new settings
+2025-10-26 08:12:09.815 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-26 08:12:09.817 FS25_UnloadBalesEarly: Sending new settings
+2025-10-26 08:12:09.817 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-26 08:12:09.818 FS25_UnloadBalesEarly: Sending new settings
+2025-10-26 08:12:09.818 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-26 08:12:10.094 dataS/character/playerM/shirts/poettinger/poettingerTshirt.i3d (285.90 ms)
+2025-10-26 08:12:41.208 Game saved successfully (savegame1).
+2025-10-26 08:13:13.618 FS25_UnloadBalesEarly: Sending new settings
+2025-10-26 08:13:13.618 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-26 08:13:13.620 FS25_UnloadBalesEarly: Sending new settings
+2025-10-26 08:13:13.620 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-26 08:13:13.621 FS25_UnloadBalesEarly: Sending new settings
+2025-10-26 08:13:13.621 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-26 08:13:13.621 FS25_UnloadBalesEarly: Sending new settings
+2025-10-26 08:13:13.621 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-26 08:13:13.621 FS25_UnloadBalesEarly: Sending new settings
+2025-10-26 08:13:13.621 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-26 08:13:50.549 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_BigWhiteCowBarn/bunkerSiloMedium.i3d (33.62 ms)
+2025-10-26 08:14:45.915 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.66 ms)
+2025-10-26 08:14:45.977 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_mrhHandLiftableConsumables/bagsStack/bagsStack.i3d (2.83 ms)
+2025-10-26 08:16:02.941 data/placeables/brandless/animalHusbandries/sheepBarnSmall/sheepBarnSmall.i3d (6.03 ms)
+2025-10-26 08:16:02.965 data/placeables/brandless/fences/husbandries/sheepNetFence/sheepNetFence.i3d (2.36 ms)
