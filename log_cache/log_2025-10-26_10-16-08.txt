@@ -5497,3 +5497,51 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-10-26 15:17:38.497   Info: Updated field 60 successfully (8) (1)
 2025-10-26 15:18:04.244   Info: Set farm account balance to € 120,000. (8)
 2025-10-26 15:18:33.871 Game saved successfully (savegame1).
+2025-10-26 15:19:57.552   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_ursus385_A_PL/xml/385.xml): Direction alignment and rotation alignment used at the same time for movingPart 'movingPartRightHand_group' in 'vehicle.cylindered.movingParts.movingPart(45)'
+2025-10-26 15:19:57.552   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_ursus385_A_PL/xml/385.xml): Direction alignment and rotation alignment used at the same time for movingPart 'movingPartLeftHand_group' in 'vehicle.cylindered.movingParts.movingPart(46)'
+2025-10-26 15:19:57.969   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_ursus385_A_PL/xml/385.xml): Failed to find material by material slot name 'DachMat' in 'vehicle.designColor5Configurations.material(0)'
+2025-10-26 15:20:49.036 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_NH_M135/M135.i3d (594.13 ms)
+2025-10-26 15:20:49.204 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_NH_M135/wheels/rims.i3d (33.84 ms)
+2025-10-26 15:20:49.571 Error: Can't load resource 'gen_singleColorTexture_0_4294967295'.
+2025-10-26 15:20:49.571   DevWarning: material 'tyreMaterial' is having the albedo map removed by script. This can cause problems on consoles as the correct shader will not be built for this case.
+2025-10-26 15:20:49.572 Error: Can't load resource 'gen_singleColorTexture_0_4294967295'.
+2025-10-26 15:20:49.572   DevWarning: material 'tyreMaterial' is having the albedo map removed by script. This can cause problems on consoles as the correct shader will not be built for this case.
+2025-10-26 15:20:49.572 Error: Can't load resource 'gen_singleColorTexture_0_4294967295'.
+2025-10-26 15:20:49.572   DevWarning: material 'tyreMaterial' is having the albedo map removed by script. This can cause problems on consoles as the correct shader will not be built for this case.
+2025-10-26 15:20:49.572 Error: Can't load resource 'gen_singleColorTexture_0_4294967295'.
+2025-10-26 15:20:49.572   DevWarning: material 'tyreMaterial' is having the albedo map removed by script. This can cause problems on consoles as the correct shader will not be built for this case.
+2025-10-26 15:21:00.569 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_NH_M135/Header.i3d (275.20 ms)
+2025-10-26 15:22:55.070 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_UniaGrudziadzUPlows/U0231.i3d (90.06 ms)
+2025-10-26 15:23:37.800 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Isaria6000S/Isaria6000S.i3d (63.58 ms)
+2025-10-26 15:23:37.928 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Isaria6000S/Kola.i3d (26.26 ms)
+2025-10-26 15:23:38.129 Error: Can't load resource ''.
+2025-10-26 15:23:38.129 Error: Can't load resource ''.
+2025-10-26 15:23:38.130 Error: Can't load resource ''.
+2025-10-26 15:23:38.130 Error: Can't load resource 'gen_singleColorTexture_0_4278453252'.
+2025-10-26 15:23:38.130   DevWarning: material 'tyreMaterial' is having the albedo map removed by script. This can cause problems on consoles as the correct shader will not be built for this case.
+2025-10-26 15:23:38.130 Warning: Missing texture 'detailSpecular' in 'tyreMaterial' (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_useYourTyres/shaders/vehicleShader50keda.xml).
+2025-10-26 15:23:38.130 Warning: Missing texture 'detailNormal' in 'tyreMaterial' (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_useYourTyres/shaders/vehicleShader50keda.xml).
+2025-10-26 15:23:38.130 Warning: Missing texture 'detailDiffuse' in 'tyreMaterial' (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_useYourTyres/shaders/vehicleShader50keda.xml).
+2025-10-26 15:23:38.130 Error: Can't load resource ''.
+2025-10-26 15:23:38.130 Error: Can't load resource ''.
+2025-10-26 15:23:38.130 Error: Can't load resource ''.
+2025-10-26 15:23:38.130 Error: Can't load resource 'gen_singleColorTexture_0_4278453252'.
+2025-10-26 15:23:38.130   DevWarning: material 'tyreMaterial' is having the albedo map removed by script. This can cause problems on consoles as the correct shader will not be built for this case.
+2025-10-26 15:23:38.152 Warning: Missing texture 'detailDiffuse' in 'tyreMaterial' (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_useYourTyres/shaders/vehicleShader50keda.xml).
+2025-10-26 15:23:38.152 Warning: Missing texture 'detailNormal' in 'tyreMaterial' (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_useYourTyres/shaders/vehicleShader50keda.xml).
+2025-10-26 15:23:38.152 Warning: Missing texture 'detailDiffuse' in 'tyreMaterial' (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_useYourTyres/shaders/vehicleShader50keda.xml).
+2025-10-26 15:23:38.152 Warning: Missing texture 'detailSpecular' in 'tyreMaterial' (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_useYourTyres/shaders/vehicleShader50keda.xml).
+2025-10-26 15:23:38.152 Warning: Missing texture 'detailNormal' in 'tyreMaterial' (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_useYourTyres/shaders/vehicleShader50keda.xml).
+2025-10-26 15:23:38.153 Warning: Missing texture 'detailDiffuse' in 'tyreMaterial' (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_useYourTyres/shaders/vehicleShader50keda.xml).
+2025-10-26 15:23:38.153 Warning: Missing texture 'detailSpecular' in 'tyreMaterial' (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_useYourTyres/shaders/vehicleShader50keda.xml).
+2025-10-26 15:23:38.153 Warning: Missing texture 'detailNormal' in 'tyreMaterial' (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_useYourTyres/shaders/vehicleShader50keda.xml).
+2025-10-26 15:23:38.153 Warning: Missing texture 'detailDiffuse' in 'tyreMaterial' (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_useYourTyres/shaders/vehicleShader50keda.xml).
+2025-10-26 15:23:38.153 Warning: Missing texture 'detailSpecular' in 'tyreMaterial' (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_useYourTyres/shaders/vehicleShader50keda.xml).
+2025-10-26 15:23:38.153 Warning: Missing texture 'detailNormal' in 'tyreMaterial' (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_useYourTyres/shaders/vehicleShader50keda.xml).
+2025-10-26 15:23:38.153 Warning: Missing texture 'detailDiffuse' in 'tyreMaterial' (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_useYourTyres/shaders/vehicleShader50keda.xml).
+2025-10-26 15:25:31.342   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Ursus C-385'
+2025-10-26 15:26:44.443   Info: Added € 5,000 to farm account. (8)
+2025-10-26 15:28:04.395 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_MTZ_82_Narew/MTZ_82.i3d (1291.30 ms)
+2025-10-26 15:28:04.788 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_MTZ_82_Narew/Wheels/Kerekek.i3d (258.93 ms)
+2025-10-26 15:28:45.107 data/vehicles/albutt/frontloaderPalletFork/frontloaderPalletFork.i3d (3.53 ms)
+2025-10-26 15:28:47.463   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'BELARUS 82'
