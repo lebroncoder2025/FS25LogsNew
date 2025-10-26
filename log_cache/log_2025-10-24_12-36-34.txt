@@ -7098,3 +7098,52 @@ dataS/scripts/vehicles/specializations/BaleWrapper.lua:1508: attempt to index ni
 2025-10-26 00:12:21.017 zwierek left the game
 2025-10-26 00:40:50.221 Game saved successfully (savegame1).
 2025-10-26 01:11:00.218 Game saved successfully (savegame1).
+2025-10-26 01:41:08.725 Game saved successfully (savegame1).
+2025-10-26 02:05:57.256 data/objects/pallets/lettuceBoxPallet/lettuceBoxPallet.i3d (6.59 ms)
+2025-10-26 02:11:18.319 Game saved successfully (savegame1).
+2025-10-26 02:30:12.454 Daniel joined the game
+2025-10-26 02:30:12.677 dataS/character/playerM/pants/botJeanShorts.i3d (23.94 ms)
+2025-10-26 02:30:12.686 dataS/character/playerM/heads/mHead02.i3d (8.79 ms)
+2025-10-26 02:30:12.713 dataS/character/playerM/jacket/topDenimJacket.i3d (27.24 ms)
+2025-10-26 02:30:12.717 dataS/character/playerM/gloves/glovesKevlar.i3d (3.82 ms)
+2025-10-26 02:30:12.830 dataS/character/playerM/shoes/laceUpSneaker.i3d (111.49 ms)
+2025-10-26 02:30:12.866 dataS/character/playerM/hairStyles/hairStyleTopKnot.i3d (35.95 ms)
+2025-10-26 02:30:12.876 dataS/character/playerM/facialHair/mHead02/trimmedBeard.i3d (10.25 ms)
+2025-10-26 02:30:25.111 FS25_UnloadBalesEarly: Sending new settings
+2025-10-26 02:30:25.111 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-26 02:30:25.113 FS25_UnloadBalesEarly: Sending new settings
+2025-10-26 02:30:25.113 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-26 02:30:29.325 Daniel left the game
+2025-10-26 02:31:30.065 hubsonwaliszot joined the game
+2025-10-26 02:32:46.662 FS25_UnloadBalesEarly: Sending new settings
+2025-10-26 02:32:46.662 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-26 02:32:46.664 FS25_UnloadBalesEarly: Sending new settings
+2025-10-26 02:32:46.664 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-26 02:33:08.817 Daniel joined the game
+2025-10-26 02:33:08.854 dataS/character/playerM/pants/botJeanShorts.i3d (16.75 ms)
+2025-10-26 02:33:08.861 dataS/character/playerM/heads/mHead02.i3d (7.79 ms)
+2025-10-26 02:33:08.883 dataS/character/playerM/jacket/topDenimJacket.i3d (21.43 ms)
+2025-10-26 02:33:08.887 dataS/character/playerM/gloves/glovesKevlar.i3d (3.76 ms)
+2025-10-26 02:33:08.980 dataS/character/playerM/shoes/laceUpSneaker.i3d (92.00 ms)
+2025-10-26 02:33:09.010 dataS/character/playerM/hairStyles/hairStyleTopKnot.i3d (30.50 ms)
+2025-10-26 02:33:09.021 dataS/character/playerM/facialHair/mHead02/trimmedBeard.i3d (10.26 ms)
+2025-10-26 02:33:12.431 FS25_UnloadBalesEarly: Sending new settings
+2025-10-26 02:33:12.431 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-26 02:33:22.561 FS25_UnloadBalesEarly: Sending new settings
+2025-10-26 02:33:22.561 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-26 02:33:22.563 FS25_UnloadBalesEarly: Sending new settings
+2025-10-26 02:33:22.563 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-26 02:33:22.563 FS25_UnloadBalesEarly: Sending new settings
+2025-10-26 02:33:22.563 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-26 02:36:28.706 data/objects/pallets/liquidTank/liquidTank.i3d (1.39 ms)
+2025-10-26 02:41:18.891 Game saved successfully (savegame1).
+2025-10-26 02:42:51.101 data/objects/pallets/liquidTank/liquidTank.i3d (1.38 ms)
+2025-10-26 02:43:05.319 data/objects/pallets/liquidTank/liquidTank.i3d (1.31 ms)
+2025-10-26 02:43:06.418 data/objects/pallets/liquidTank/liquidTank.i3d (1.40 ms)
+2025-10-26 02:44:52.294 data/vehicles/gorenc/puler600/puler600.i3d (29.52 ms)
+2025-10-26 02:44:52.392 data/shared/wheels/tires/trelleborg/T510/16x6_50R8.i3d (1.28 ms)
+2025-10-26 02:52:13.383 dataS/character/playerM/shirts/poettinger/poettingerTshirt.i3d (356.53 ms)
+2025-10-26 02:54:38.028 Daniel left the game
+2025-10-26 02:55:18.156 hubsonwaliszot left the game
+2025-10-26 02:11:29.121 Game saved successfully (savegame1).
+2025-10-26 02:41:37.570 Game saved successfully (savegame1).
