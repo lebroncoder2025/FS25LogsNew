@@ -5545,3 +5545,49 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-10-26 15:28:04.788 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_MTZ_82_Narew/Wheels/Kerekek.i3d (258.93 ms)
 2025-10-26 15:28:45.107 data/vehicles/albutt/frontloaderPalletFork/frontloaderPalletFork.i3d (3.53 ms)
 2025-10-26 15:28:47.463   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'BELARUS 82'
+2025-10-26 15:43:43.743   Info: Successfully set fill unit 1 of Metaltech DBL to Soybeans with a fill level of 17,500 liters.
+2025-10-26 15:44:43.764   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_KroneTurbo2500/xml/kroneTurbo2500.xml): Invalid vector 3 for 'vehicle.base.components.joint(0)#rotDriveRotation'.
+2025-10-26 15:44:43.865   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_KroneTurbo2500/xml/kroneTurbo2500.xml): Unable to find material template '' in 'vehicle.wheels.hubMaterial'
+2025-10-26 15:44:43.970   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_KroneTurbo2500/xml/kroneTurbo2500.xml): Node 'scratchingFloor' has no shader parameter 'scrollPosition' for animationNode 'vehicle.trailer.trailerConfigurations.trailerConfiguration(0).trailer.tipSide(0).animationNodes.animationNode(0)'!
+2025-10-26 15:44:43.971   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_KroneTurbo2500/xml/kroneTurbo2500.xml): Node 'scratchingFloor' has no shader parameter 'scrollPosition' for animationNode 'vehicle.turnOnVehicle.animationNodes.animationNode(2)'!
+2025-10-26 15:48:37.695 Game saved successfully (savegame1).
+2025-10-26 15:54:46.531   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Ursus C-360'
+2025-10-26 16:03:44.590 data/objects/pallets/preservedFoodCarrotsPallet/preservedFoodCarrotsPallet.i3d (8.45 ms)
+2025-10-26 16:03:45.655 data/objects/bigBag/bigBag.i3d (4.98 ms)
+2025-10-26 16:03:45.659 data/objects/pallets/pioneer/pioneerPallet.i3d (3.84 ms)
+2025-10-26 16:03:45.716 data/objects/bigBagPallet/bigBagPallet.i3d (5.36 ms)
+2025-10-26 16:08:35.914 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_OrkanZ320/Z320.i3d (433.09 ms)
+2025-10-26 16:08:36.068 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_OrkanZ320/Wheels/korkan_rims.i3d (56.94 ms)
+2025-10-26 16:08:36.319 Error: Can't load resource 'gen_singleColorTexture_0_4294967295'.
+2025-10-26 16:08:36.319   DevWarning: material 'tyreMaterial' is having the albedo map removed by script. This can cause problems on consoles as the correct shader will not be built for this case.
+2025-10-26 16:08:36.320 Error: Can't load resource 'gen_singleColorTexture_0_4294967295'.
+2025-10-26 16:08:36.320   DevWarning: material 'tyreMaterial' is having the albedo map removed by script. This can cause problems on consoles as the correct shader will not be built for this case.
+2025-10-26 16:08:36.320 Error: Can't load resource 'gen_singleColorTexture_0_4294967295'.
+2025-10-26 16:08:36.320   DevWarning: material 'tyreMaterial' is having the albedo map removed by script. This can cause problems on consoles as the correct shader will not be built for this case.
+2025-10-26 16:08:36.320 Error: Can't load resource 'gen_singleColorTexture_0_4294967295'.
+2025-10-26 16:08:36.320   DevWarning: material 'tyreMaterial' is having the albedo map removed by script. This can cause problems on consoles as the correct shader will not be built for this case.
+2025-10-26 16:08:44.101 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_OrkanZ320/z306.i3d (62.89 ms)
+2025-10-26 16:08:44.252 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_OrkanZ320/PTOs/beltPTO.i3d (0.52 ms)
+2025-10-26 16:08:49.270   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'FMŻ Z-310'
+2025-10-26 16:09:47.530   Info: Successfully emptied fill unit 1 of Case IH 160 CVX.
+2025-10-26 16:09:50.936   Info: Successfully set fill unit 1 of Case IH 160 CVX to Diesel with a fill level of 390 liters.
+2025-10-26 16:09:55.151   Info: Successfully emptied fill unit 1 of KRONE Turbo 2500.
+2025-10-26 16:10:03.514 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_OrkanZ320/z311.i3d (1905.94 ms)
+2025-10-26 16:10:03.686 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_OrkanZ320/PTOs/beltPTO.i3d (0.53 ms)
+2025-10-26 16:10:47.203 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_OrkanZ320/trailerZ311.i3d (9.01 ms)
+2025-10-26 16:10:47.383 Error: Can't load resource 'gen_singleColorTexture_0_4294967295'.
+2025-10-26 16:10:47.384   DevWarning: material 'tyreMaterial' is having the albedo map removed by script. This can cause problems on consoles as the correct shader will not be built for this case.
+2025-10-26 16:10:47.384 Error: Can't load resource 'gen_singleColorTexture_0_4294967295'.
+2025-10-26 16:10:47.384   DevWarning: material 'tyreMaterial' is having the albedo map removed by script. This can cause problems on consoles as the correct shader will not be built for this case.
+2025-10-26 16:14:59.664 data/objects/bigBagPallet/bigBagPallet.i3d (1.47 ms)
+2025-10-26 16:15:11.449   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'New Holland Clayson M135'
+2025-10-26 16:15:51.381 data/objects/bigBag/bigBag.i3d (7.19 ms)
+2025-10-26 16:15:51.382 data/objects/pallets/pioneer/pioneerPallet.i3d (1.14 ms)
+2025-10-26 16:15:51.438 data/objects/bigBagPallet/bigBagPallet.i3d (1.48 ms)
+2025-10-26 16:16:41.383 data/objects/bigBag/bigBag.i3d (1.86 ms)
+2025-10-26 16:16:41.384 data/objects/pallets/pioneer/pioneerPallet.i3d (1.14 ms)
+2025-10-26 16:16:41.445 data/objects/bigBagPallet/bigBagPallet.i3d (1.49 ms)
+2025-10-26 16:18:13.330   Info: No 'ExhaustExtension' particle system added to vehicle 'Lizard Pallet Truck' because it has no exhaust
+2025-10-26 16:18:43.177 Game saved successfully (savegame1).
+2025-10-26 16:19:35.249   Info: Moved player to coordinates 796, 1392 successfully.
+2025-10-26 16:19:46.973   Info: Moved player to coordinates 572, 804 successfully.
