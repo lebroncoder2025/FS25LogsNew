@@ -5117,3 +5117,122 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-10-26 11:35:16.285 data/objects/bigBagPallet/bigBagPallet.i3d (1.53 ms)
 2025-10-26 11:36:08.834 data/objects/bigBag/bigBag.i3d (1.85 ms)
 2025-10-26 11:36:17.873   Info: No 'ExhaustExtension' particle system added to vehicle 'Kärcher HDS 9/18-4 M' because it has no exhaust
+2025-10-26 11:39:20.434 data/objects/bigBagPallet/bigBagPallet.i3d (1.48 ms)
+2025-10-26 11:41:06.142 Figuana joined the game
+2025-10-26 11:41:06.164 FS25_UnloadBalesEarly: Sending new settings
+2025-10-26 11:41:06.164 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-26 11:41:06.166 FS25_UnloadBalesEarly: Sending new settings
+2025-10-26 11:41:06.166 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-26 11:41:06.167 FS25_UnloadBalesEarly: Sending new settings
+2025-10-26 11:41:06.167 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-26 11:41:06.168 FS25_UnloadBalesEarly: Sending new settings
+2025-10-26 11:41:06.168 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-26 11:41:57.892 FS25_UnloadBalesEarly: Sending new settings
+2025-10-26 11:41:57.892 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-26 11:41:57.893 FS25_UnloadBalesEarly: Sending new settings
+2025-10-26 11:41:57.893 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-26 11:41:57.893 FS25_UnloadBalesEarly: Sending new settings
+2025-10-26 11:41:57.893 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-26 11:41:57.893 FS25_UnloadBalesEarly: Sending new settings
+2025-10-26 11:41:57.893 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-26 11:41:57.893 FS25_UnloadBalesEarly: Sending new settings
+2025-10-26 11:41:57.893 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-26 11:41:57.894 FS25_UnloadBalesEarly: Sending new settings
+2025-10-26 11:41:57.894 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-26 11:44:24.453 Jolero left the game
+2025-10-26 11:44:25.515 Game saved successfully (savegame1).
+2025-10-26 11:44:40.680   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Ursus C-385A Fast transmission'
+2025-10-26 11:47:43.851 Game saved successfully (savegame1).
+2025-10-26 12:01:44.911 siejA lost connection to the game
+2025-10-26 12:02:42.969 siejA joined the game
+2025-10-26 12:02:43.008 FS25_UnloadBalesEarly: Sending new settings
+2025-10-26 12:02:43.008 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-26 12:02:43.010 FS25_UnloadBalesEarly: Sending new settings
+2025-10-26 12:02:43.010 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-26 12:02:43.011 FS25_UnloadBalesEarly: Sending new settings
+2025-10-26 12:02:43.011 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-26 12:02:43.091 dataS/character/playerM/fullBody/strauss/motion2020PantsVariant2ndVariant.i3d (108.09 ms)
+2025-10-26 12:02:43.110 dataS/character/playerM/facialHair/mHead01/goatee01.i3d (18.20 ms)
+2025-10-26 12:02:53.420 FS25_UnloadBalesEarly: Sending new settings
+2025-10-26 12:02:53.420 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-26 12:02:53.421 FS25_UnloadBalesEarly: Sending new settings
+2025-10-26 12:02:53.421 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-26 12:02:53.421 FS25_UnloadBalesEarly: Sending new settings
+2025-10-26 12:02:53.421 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-26 12:02:53.421 FS25_UnloadBalesEarly: Sending new settings
+2025-10-26 12:02:53.421 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-26 12:02:53.422 FS25_UnloadBalesEarly: Sending new settings
+2025-10-26 12:02:53.422 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-26 12:04:20.805 siejA lost connection to the game
+2025-10-26 12:04:58.123 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.70 ms)
+2025-10-26 12:04:58.178 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_mrhHandLiftableConsumables/bagsStack/bagsStack.i3d (2.79 ms)
+2025-10-26 12:05:01.726 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.60 ms)
+2025-10-26 12:07:10.199 siejA joined the game
+2025-10-26 12:07:10.227 FS25_UnloadBalesEarly: Sending new settings
+2025-10-26 12:07:10.228 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-26 12:07:10.229 FS25_UnloadBalesEarly: Sending new settings
+2025-10-26 12:07:10.229 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-26 12:07:10.230 FS25_UnloadBalesEarly: Sending new settings
+2025-10-26 12:07:10.230 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-26 12:07:10.319 dataS/character/playerM/fullBody/strauss/motion2020PantsVariant2ndVariant.i3d (108.25 ms)
+2025-10-26 12:07:10.338 dataS/character/playerM/facialHair/mHead01/goatee01.i3d (18.35 ms)
+2025-10-26 12:07:39.362 FS25_UnloadBalesEarly: Sending new settings
+2025-10-26 12:07:39.362 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-26 12:07:39.362 FS25_UnloadBalesEarly: Sending new settings
+2025-10-26 12:07:39.362 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-26 12:07:39.363 FS25_UnloadBalesEarly: Sending new settings
+2025-10-26 12:07:39.363 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-26 12:07:39.363 FS25_UnloadBalesEarly: Sending new settings
+2025-10-26 12:07:39.363 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-26 12:07:39.363 FS25_UnloadBalesEarly: Sending new settings
+2025-10-26 12:07:39.363 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-26 12:07:55.067 siejA lost connection to the game
+2025-10-26 12:09:20.088 siejA joined the game
+2025-10-26 12:09:20.109 FS25_UnloadBalesEarly: Sending new settings
+2025-10-26 12:09:20.109 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-26 12:09:20.110 FS25_UnloadBalesEarly: Sending new settings
+2025-10-26 12:09:20.110 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-26 12:09:20.111 FS25_UnloadBalesEarly: Sending new settings
+2025-10-26 12:09:20.111 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-26 12:09:20.209 dataS/character/playerM/fullBody/strauss/motion2020PantsVariant2ndVariant.i3d (108.17 ms)
+2025-10-26 12:09:20.227 dataS/character/playerM/facialHair/mHead01/goatee01.i3d (18.10 ms)
+2025-10-26 12:09:30.088 FS25_UnloadBalesEarly: Sending new settings
+2025-10-26 12:09:30.088 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-26 12:09:30.089 FS25_UnloadBalesEarly: Sending new settings
+2025-10-26 12:09:30.089 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-26 12:09:30.089 FS25_UnloadBalesEarly: Sending new settings
+2025-10-26 12:09:30.089 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-26 12:09:30.089 FS25_UnloadBalesEarly: Sending new settings
+2025-10-26 12:09:30.089 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-26 12:09:30.089 FS25_UnloadBalesEarly: Sending new settings
+2025-10-26 12:09:30.089 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-26 12:10:07.666 symonixprime serwerkaput joined the game
+2025-10-26 12:10:07.702 FS25_UnloadBalesEarly: Sending new settings
+2025-10-26 12:10:07.702 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-26 12:10:07.704 FS25_UnloadBalesEarly: Sending new settings
+2025-10-26 12:10:07.704 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-26 12:10:07.705 FS25_UnloadBalesEarly: Sending new settings
+2025-10-26 12:10:07.705 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-26 12:10:07.778 FS25_UnloadBalesEarly: Sending new settings
+2025-10-26 12:10:07.778 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-26 12:10:07.859 dataS/character/playerM/pants/poettinger/poettingerShort.i3d (179.25 ms)
+2025-10-26 12:10:07.974 dataS/character/playerM/shirts/topTShirt02.i3d (115.89 ms)
+2025-10-26 12:10:07.976 dataS/character/playerM/shoes/sandalM02.i3d (1.18 ms)
+2025-10-26 12:10:08.013 dataS/character/playerM/hairStyles/hairStyleTopKnot.i3d (37.36 ms)
+2025-10-26 12:11:18.142 FS25_UnloadBalesEarly: Sending new settings
+2025-10-26 12:11:18.142 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-26 12:11:18.143 FS25_UnloadBalesEarly: Sending new settings
+2025-10-26 12:11:18.143 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-26 12:11:18.143 FS25_UnloadBalesEarly: Sending new settings
+2025-10-26 12:11:18.143 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-26 12:11:18.143 FS25_UnloadBalesEarly: Sending new settings
+2025-10-26 12:11:18.143 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-26 12:11:18.143 FS25_UnloadBalesEarly: Sending new settings
+2025-10-26 12:11:18.143 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-26 12:11:18.143 FS25_UnloadBalesEarly: Sending new settings
+2025-10-26 12:11:18.144 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-26 12:13:56.932 data/objects/bigBag/bigBag.i3d (2.10 ms)
+2025-10-26 12:13:59.968 data/objects/bigBag/bigBag.i3d (2.11 ms)
+2025-10-26 12:14:15.379 data/objects/bigBagPallet/bigBagPallet.i3d (1.47 ms)
+2025-10-26 12:14:16.359 data/objects/bigBag/bigBag.i3d (1.80 ms)
+2025-10-26 12:14:37.231   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'STEYR 8130 Super Elite'
