@@ -5651,3 +5651,7 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-10-26 17:14:54.279   Info: Successfully set fill unit 1 of Kverneland Optima RS to Seeds with a fill level of 660 liters.
 2025-10-26 17:16:28.658 symonixprime serwerkaput lost connection to the game
 2025-10-26 17:18:50.916 Game saved successfully (savegame1).
+2025-10-26 17:36:31.642 data/objects/bigBag/bigBag.i3d (37.23 ms)
+2025-10-26 17:38:19.736 data/objects/pallets/liquidTank/liquidTank.i3d (2.05 ms)
+2025-10-26 17:38:33.608 data/objects/pallets/liquidTank/liquidTank.i3d (1.16 ms)
+2025-10-26 17:39:49.064 data/objects/bigBag/bigBag.i3d (1.82 ms)
