@@ -7154,3 +7154,94 @@ dataS/scripts/vehicles/specializations/BaleWrapper.lua:1508: attempt to index ni
 2025-10-26 05:12:20.035 Game saved successfully (savegame1).
 2025-10-26 05:42:29.261 Game saved successfully (savegame1).
 2025-10-26 06:12:37.175 Game saved successfully (savegame1).
+2025-10-26 06:38:58.784 M@rcin joined the game
+2025-10-26 06:38:59.011 dataS/character/playerM/jacket/topAviatorJacket.i3d (26.75 ms)
+2025-10-26 06:38:59.012 dataS/character/playerM/attachments/glassesAviators.i3d (0.81 ms)
+2025-10-26 06:38:59.050 dataS/character/playerM/hairStyles/hairStyleDiablo.i3d (38.54 ms)
+2025-10-26 06:38:59.052 dataS/character/playerM/facialHair/mHead01/beardStubble.i3d (1.12 ms)
+2025-10-26 06:39:53.672 FS25_UnloadBalesEarly: Sending new settings
+2025-10-26 06:39:53.672 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-26 06:39:53.674 FS25_UnloadBalesEarly: Sending new settings
+2025-10-26 06:39:53.674 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-26 06:42:39.479 Game saved successfully (savegame1).
+2025-10-26 07:12:39.777 Game saved successfully (savegame1).
+2025-10-26 07:13:27.603   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Anna_Z644/Kombajn_Anna.xml): I3D file offers '2' objects, but '1' components have been loaded!
+2025-10-26 07:13:27.604   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Anna_Z644/Kombajn_Anna.xml): 'vehicle.base.schemaOverlay.default#name' is not supported anymore, use 'vehicle.base.schemaOverlay#name' instead!
+2025-10-26 07:13:27.604   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Anna_Z644/Kombajn_Anna.xml): 'vehicle.base.schemaOverlay.turnedOn#name' is not supported anymore!
+2025-10-26 07:13:27.604   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Anna_Z644/Kombajn_Anna.xml): 'vehicle.base.schemaOverlay.selected#name' is not supported anymore!
+2025-10-26 07:13:27.604   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Anna_Z644/Kombajn_Anna.xml): 'vehicle.base.schemaOverlay.turnedOnSelected#name' is not supported anymore!
+2025-10-26 07:13:27.621   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Anna_Z644/Kombajn_Anna.xml): Missing ai agent attachment definition for attachable vehicle
+2025-10-26 07:13:27.657   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Anna_Z644/Kombajn_Anna.xml): No max. update distance set for isActiveDirty moving part 'Silownik_ref'! Use #maxUpdateDistance attribute.
+2025-10-26 07:13:27.657   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Anna_Z644/Kombajn_Anna.xml): No max. update distance set for isActiveDirty moving part 'Silownik'! Use #maxUpdateDistance attribute.
+2025-10-26 07:13:27.658   Error: Index not found: movepipe
+2025-10-26 07:13:27.658   Error (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Anna_Z644/Kombajn_Anna.xml): Sound template 'DEFAULT_HYDRAULIC_SOUND' was not found in vehicle.cylindered.sounds.hydraulic
+2025-10-26 07:13:27.693   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Anna_Z644/Kombajn_Anna.xml): 'vehicle.attachable.brakeForce' is not supported anymore, use 'vehicle.attachable.brakeForce#force' instead!
+2025-10-26 07:13:27.711   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Anna_Z644/Kombajn_Anna.xml): Defined node is not a light source 'vehicle.lights.realLights.high.light(0)'
+2025-10-26 07:13:27.748   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Anna_Z644/Kombajn_Anna.xml): ParticleEffect 'vehicle.dischargeable.dischargeNode(0).effects.effectNode(5)' is missing the 'materialType' attribute.
+2025-10-26 07:13:27.749   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Anna_Z644/Kombajn_Anna.xml): Failed to load effect 'vehicle.dischargeable.dischargeNode(0).effects.effectNode(5)' from node
+2025-10-26 07:13:27.749   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Anna_Z644/Kombajn_Anna.xml): ParticleEffect 'vehicle.dischargeable.dischargeNode(0).effects.effectNode(6)' is missing the 'materialType' attribute.
+2025-10-26 07:13:27.749   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Anna_Z644/Kombajn_Anna.xml): Failed to load effect 'vehicle.dischargeable.dischargeNode(0).effects.effectNode(6)' from node
+2025-10-26 07:13:27.768   Error (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Anna_Z644/Kombajn_Anna.xml): Sound template 'DEFOLIATOR_01' was not found in vehicle.combine.sounds.work
+2025-10-26 07:13:27.801   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Anna_Z644/Kombajn_Anna.xml): 'vehicle.pipe.pipeNodes.pipeNode(0).state1' is not supported anymore, use 'vehicle.pipe.pipeNodes.pipeNode(0).state' instead!
+2025-10-26 07:13:27.856   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Anna_Z644/Kombajn_Anna.xml): Unknown wheel index '0' defined in 'vehicle.ai.turningRadiusLimitation#wheelIndices'
+2025-10-26 07:13:33.277   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'STEYR 8130 Turbo'
+2025-10-26 07:14:14.485 siejA joined the game
+2025-10-26 07:14:14.520 FS25_UnloadBalesEarly: Sending new settings
+2025-10-26 07:14:14.520 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-26 07:14:14.635 dataS/character/playerM/fullBody/strauss/motion2020PantsVariant2ndVariant.i3d (134.75 ms)
+2025-10-26 07:14:14.673 dataS/character/playerM/hairStyles/hairStyleFringe.i3d (37.76 ms)
+2025-10-26 07:14:14.694 dataS/character/playerM/facialHair/mHead01/goatee01.i3d (19.38 ms)
+2025-10-26 07:14:41.552 FS25_UnloadBalesEarly: Sending new settings
+2025-10-26 07:14:41.552 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-26 07:14:41.554 FS25_UnloadBalesEarly: Sending new settings
+2025-10-26 07:14:41.554 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-26 07:14:41.555 FS25_UnloadBalesEarly: Sending new settings
+2025-10-26 07:14:41.555 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-26 07:15:07.022 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_amazoneD9/vehicles/amazoneD9_4000.i3d (191.30 ms)
+2025-10-26 07:15:07.186 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_amazoneD9/rims/rims.i3d (46.20 ms)
+2025-10-26 07:15:07.189 data/shared/wheels/tires/bkt/i1/11L__15.i3d (2.73 ms)
+2025-10-26 07:15:07.215 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_amazoneD9/shared/amazoneLights.i3d (25.69 ms)
+2025-10-26 07:15:28.481 symonixprime serwerkaput joined the game
+2025-10-26 07:15:28.503 FS25_UnloadBalesEarly: Sending new settings
+2025-10-26 07:15:28.503 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-26 07:15:28.505 FS25_UnloadBalesEarly: Sending new settings
+2025-10-26 07:15:28.505 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-26 07:15:28.745 dataS/character/playerM/pants/poettinger/poettingerShort.i3d (247.23 ms)
+2025-10-26 07:15:28.754 dataS/character/playerM/heads/mHead02.i3d (9.01 ms)
+2025-10-26 07:15:28.868 dataS/character/playerM/shirts/topTShirt02.i3d (113.19 ms)
+2025-10-26 07:15:28.980 dataS/character/playerM/shoes/sandalM02.i3d (112.46 ms)
+2025-10-26 07:15:29.016 dataS/character/playerM/hairStyles/hairStyleTopKnot.i3d (36.05 ms)
+2025-10-26 07:15:29.033 dataS/character/playerM/facialHair/mHead02/fullBeard.i3d (16.96 ms)
+2025-10-26 07:16:34.499 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (5.28 ms)
+2025-10-26 07:16:34.550 data/objects/bigBag/bigBag.i3d (3.02 ms)
+2025-10-26 07:16:42.156 FS25_UnloadBalesEarly: Sending new settings
+2025-10-26 07:16:42.156 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-26 07:16:42.158 FS25_UnloadBalesEarly: Sending new settings
+2025-10-26 07:16:42.158 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-26 07:16:42.158 FS25_UnloadBalesEarly: Sending new settings
+2025-10-26 07:16:42.158 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-26 07:16:42.158 FS25_UnloadBalesEarly: Sending new settings
+2025-10-26 07:16:42.158 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-26 07:19:07.060 symonixprime serwerkaput lost connection to the game
+2025-10-26 07:21:50.054 symonixprime serwerkaput joined the game
+2025-10-26 07:21:50.076 FS25_UnloadBalesEarly: Sending new settings
+2025-10-26 07:21:50.076 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-26 07:21:50.078 FS25_UnloadBalesEarly: Sending new settings
+2025-10-26 07:21:50.078 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-26 07:21:50.212 dataS/character/playerM/pants/poettinger/poettingerShort.i3d (139.92 ms)
+2025-10-26 07:21:50.220 dataS/character/playerM/heads/mHead02.i3d (7.99 ms)
+2025-10-26 07:21:50.312 dataS/character/playerM/shirts/topTShirt02.i3d (92.12 ms)
+2025-10-26 07:21:50.403 dataS/character/playerM/shoes/sandalM02.i3d (91.32 ms)
+2025-10-26 07:21:50.434 dataS/character/playerM/hairStyles/hairStyleTopKnot.i3d (30.85 ms)
+2025-10-26 07:21:50.448 dataS/character/playerM/facialHair/mHead02/fullBeard.i3d (14.01 ms)
+2025-10-26 07:23:02.126 FS25_UnloadBalesEarly: Sending new settings
+2025-10-26 07:23:02.126 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-26 07:23:02.128 FS25_UnloadBalesEarly: Sending new settings
+2025-10-26 07:23:02.128 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-26 07:23:02.129 FS25_UnloadBalesEarly: Sending new settings
+2025-10-26 07:23:02.129 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-26 07:23:02.129 FS25_UnloadBalesEarly: Sending new settings
+2025-10-26 07:23:02.129 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-26 07:25:39.337 data/objects/pallets/liquidTank/liquidTank.i3d (1.35 ms)
+2025-10-26 07:25:39.356 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_lsfmBigBagPack/objects/bigBag/bigBag.i3d (3.43 ms)
+2025-10-26 07:25:39.444 data/objects/bigBagPallet/bigBagPallet.i3d (1.68 ms)
