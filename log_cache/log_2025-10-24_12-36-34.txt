@@ -7316,3 +7316,6 @@ dataS/scripts/vehicles/specializations/BaleWrapper.lua:1508: attempt to index ni
 2025-10-26 08:14:45.977 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_mrhHandLiftableConsumables/bagsStack/bagsStack.i3d (2.83 ms)
 2025-10-26 08:16:02.941 data/placeables/brandless/animalHusbandries/sheepBarnSmall/sheepBarnSmall.i3d (6.03 ms)
 2025-10-26 08:16:02.965 data/placeables/brandless/fences/husbandries/sheepNetFence/sheepNetFence.i3d (2.36 ms)
+2025-10-26 08:19:26.143 hubsonwaliszot lost connection to the game
+2025-10-26 08:27:16.760 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.74 ms)
+2025-10-26 08:27:16.815 data/objects/bigBagPallet/bigBagPallet.i3d (1.66 ms)
