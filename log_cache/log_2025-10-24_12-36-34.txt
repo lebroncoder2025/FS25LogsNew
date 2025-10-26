@@ -7245,3 +7245,26 @@ dataS/scripts/vehicles/specializations/BaleWrapper.lua:1508: attempt to index ni
 2025-10-26 07:25:39.337 data/objects/pallets/liquidTank/liquidTank.i3d (1.35 ms)
 2025-10-26 07:25:39.356 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_lsfmBigBagPack/objects/bigBag/bigBag.i3d (3.43 ms)
 2025-10-26 07:25:39.444 data/objects/bigBagPallet/bigBagPallet.i3d (1.68 ms)
+2025-10-26 07:36:06.176 zone joined the game
+2025-10-26 07:36:06.202 FS25_UnloadBalesEarly: Sending new settings
+2025-10-26 07:36:06.202 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-26 07:36:06.204 FS25_UnloadBalesEarly: Sending new settings
+2025-10-26 07:36:06.204 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-26 07:36:06.205 FS25_UnloadBalesEarly: Sending new settings
+2025-10-26 07:36:06.205 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-26 07:36:06.308 dataS/character/playerM/jacket/caseIH/caseIHTop.i3d (114.71 ms)
+2025-10-26 07:36:06.315 dataS/character/playerM/attachments/caseIHhat.i3d (6.85 ms)
+2025-10-26 07:36:24.206 FS25_UnloadBalesEarly: Sending new settings
+2025-10-26 07:36:24.206 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-26 07:36:24.208 FS25_UnloadBalesEarly: Sending new settings
+2025-10-26 07:36:24.208 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-26 07:36:24.208 FS25_UnloadBalesEarly: Sending new settings
+2025-10-26 07:36:24.208 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-26 07:36:24.208 FS25_UnloadBalesEarly: Sending new settings
+2025-10-26 07:36:24.208 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-26 07:36:24.208 FS25_UnloadBalesEarly: Sending new settings
+2025-10-26 07:36:24.208 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-26 07:41:48.954 data/objects/pallets/liquidTank/liquidTank.i3d (1.35 ms)
+2025-10-26 07:41:48.973 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_lsfmBigBagPack/objects/bigBag/bigBag.i3d (1.66 ms)
+2025-10-26 07:41:49.065 data/objects/bigBagPallet/bigBagPallet.i3d (1.62 ms)
+2025-10-26 07:42:40.159 Game saved successfully (savegame1).
