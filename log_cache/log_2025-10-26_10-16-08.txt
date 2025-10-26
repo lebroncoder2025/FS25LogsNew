@@ -5033,3 +5033,84 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-10-26 10:23:23.795   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Massey Ferguson 310'
 2025-10-26 10:25:10.669   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Zetor 10111 Fast transmission'
 2025-10-26 10:30:07.015   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'New Holland 8340'
+2025-10-26 10:34:43.140 zwierek joined the game
+2025-10-26 10:34:43.169 dataS/character/playerM/pants/botJeanShorts.i3d (16.22 ms)
+2025-10-26 10:34:43.175 FS25_UnloadBalesEarly: Sending new settings
+2025-10-26 10:34:43.175 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-26 10:34:43.175 FS25_UnloadBalesEarly: Sending new settings
+2025-10-26 10:34:43.175 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-26 10:34:43.176 FS25_UnloadBalesEarly: Sending new settings
+2025-10-26 10:34:43.176 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-26 10:34:43.176 FS25_UnloadBalesEarly: Sending new settings
+2025-10-26 10:34:43.176 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-26 10:34:43.261 dataS/character/playerM/shoes/sandalM03.i3d (92.11 ms)
+2025-10-26 10:34:43.292 dataS/character/playerM/hairStyles/hairStyleBaldTop.i3d (30.85 ms)
+2025-10-26 10:34:43.300 dataS/character/playerM/facialHair/mHead01/walrusXL.i3d (8.16 ms)
+2025-10-26 10:34:59.540 FS25_UnloadBalesEarly: Sending new settings
+2025-10-26 10:34:59.540 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-26 10:34:59.541 FS25_UnloadBalesEarly: Sending new settings
+2025-10-26 10:34:59.541 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-26 10:34:59.541 FS25_UnloadBalesEarly: Sending new settings
+2025-10-26 10:34:59.541 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-26 10:34:59.541 FS25_UnloadBalesEarly: Sending new settings
+2025-10-26 10:34:59.541 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-26 10:34:59.541 FS25_UnloadBalesEarly: Sending new settings
+2025-10-26 10:34:59.541 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-26 10:34:59.541 FS25_UnloadBalesEarly: Sending new settings
+2025-10-26 10:34:59.541 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-26 10:37:13.341   Info: Successfully set fill unit 1 of Kverneland Optima RS to Seeds with a fill level of 660 liters.
+2025-10-26 10:37:14.435   Info: Successfully set fill unit 2 of Kverneland Optima RS to Solid Fertilizer with a fill level of 2,000 liters.
+2025-10-26 10:44:23.586 zwierek left the game
+2025-10-26 10:44:38.236 data/objects/pallets/lettuceBoxPallet/lettuceBoxPallet.i3d (3.20 ms)
+2025-10-26 10:44:38.735 M@rcin lost connection to the game
+2025-10-26 10:46:02.626 dataS/character/playerF/pants/botChinos.i3d (12.76 ms)
+2025-10-26 10:46:02.815 dataS/character/playerF/heads/fHead04.i3d (189.86 ms)
+2025-10-26 10:46:02.833 dataS/character/playerF/jacket/topAviatorJacket.i3d (17.99 ms)
+2025-10-26 10:46:02.910 dataS/character/playerF/shoes/laceUpSneaker.i3d (76.68 ms)
+2025-10-26 10:46:02.944 dataS/character/playerF/hairStyles/hairStylePonyTail01.i3d (33.88 ms)
+2025-10-26 10:46:56.759   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Zetor 7745 Turbo'
+2025-10-26 10:47:39.218 Game saved successfully (savegame1).
+2025-10-26 11:04:37.992   Info: Successfully set fill unit 2 of Kverneland Optima RS to Solid Fertilizer with a fill level of 2,000 liters.
+2025-10-26 11:04:39.030   Info: Successfully set fill unit 1 of Kverneland Optima RS to Seeds with a fill level of 660 liters.
+2025-10-26 11:06:17.672 dataS/character/playerF/pants/botCargo.i3d (27.48 ms)
+2025-10-26 11:06:17.703 dataS/character/playerF/jacket/topVest.i3d (31.01 ms)
+2025-10-26 11:06:17.707 dataS/character/playerF/shoes/workboot02.i3d (3.90 ms)
+2025-10-26 11:06:17.747 dataS/character/playerF/hairStyles/hairStylePonyTail03.i3d (40.12 ms)
+2025-10-26 11:06:32.048 dataS/character/playerF/pants/botYogaPants.i3d (14.52 ms)
+2025-10-26 11:06:32.175 dataS/character/playerF/heads/fHead02.i3d (127.22 ms)
+2025-10-26 11:06:32.223 dataS/character/playerF/shirts/topTankTop.i3d (48.73 ms)
+2025-10-26 11:06:32.339 dataS/character/playerF/shoes/sportSneaker.i3d (115.79 ms)
+2025-10-26 11:06:32.379 dataS/character/playerF/hairStyles/hairStyleLongSideParted.i3d (39.57 ms)
+2025-10-26 11:06:52.178 dataS/character/playerM/heads/mHead05.i3d (234.31 ms)
+2025-10-26 11:06:52.298 dataS/character/playerM/shirts/zipNeckPullover.i3d (119.07 ms)
+2025-10-26 11:06:52.337 dataS/character/playerM/hairStyles/hairStyleManBun.i3d (39.51 ms)
+2025-10-26 11:06:52.468 dataS/character/playerM/facialHair/mHead05/goatee02.i3d (130.65 ms)
+2025-10-26 11:07:25.370 dataS/character/playerF/pants/botYogaPants.i3d (10.84 ms)
+2025-10-26 11:07:25.476 dataS/character/playerF/heads/fHead02.i3d (105.11 ms)
+2025-10-26 11:07:25.524 dataS/character/playerF/shirts/topTankTop.i3d (48.67 ms)
+2025-10-26 11:07:25.617 dataS/character/playerF/shoes/sportSneaker.i3d (92.81 ms)
+2025-10-26 11:07:25.649 dataS/character/playerF/hairStyles/hairStyleLongSideParted.i3d (32.08 ms)
+2025-10-26 11:12:12.811 zwierek joined the game
+2025-10-26 11:12:12.841 dataS/character/playerM/pants/botJeanShorts.i3d (16.18 ms)
+2025-10-26 11:12:12.841 FS25_UnloadBalesEarly: Sending new settings
+2025-10-26 11:12:12.841 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-26 11:12:12.842 dataS/character/playerM/attachments/glassesAviators.i3d (0.87 ms)
+2025-10-26 11:12:12.843 FS25_UnloadBalesEarly: Sending new settings
+2025-10-26 11:12:12.843 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-26 11:12:12.844 FS25_UnloadBalesEarly: Sending new settings
+2025-10-26 11:12:12.844 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-26 11:12:12.933 dataS/character/playerM/shoes/sandalM03.i3d (91.67 ms)
+2025-10-26 11:12:12.963 dataS/character/playerM/hairStyles/hairStyleBaldTop.i3d (29.86 ms)
+2025-10-26 11:12:13.006 dataS/character/playerM/facialHair/mHead01/walrusXL.i3d (8.52 ms)
+2025-10-26 11:12:29.268 FS25_UnloadBalesEarly: Sending new settings
+2025-10-26 11:12:29.268 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-26 11:12:29.269 FS25_UnloadBalesEarly: Sending new settings
+2025-10-26 11:12:29.269 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-26 11:12:29.269 FS25_UnloadBalesEarly: Sending new settings
+2025-10-26 11:12:29.269 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-26 11:12:29.269 FS25_UnloadBalesEarly: Sending new settings
+2025-10-26 11:12:29.269 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-26 11:12:29.270 FS25_UnloadBalesEarly: Sending new settings
+2025-10-26 11:12:29.270 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-26 11:14:46.145   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Ursus C-385A Fast transmission'
+2025-10-26 11:17:41.427 Game saved successfully (savegame1).
