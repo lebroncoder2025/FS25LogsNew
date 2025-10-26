@@ -4989,3 +4989,47 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-10-26 10:19:57.289 FS25_UnloadBalesEarly: Done sending new settings
 2025-10-26 10:19:57.289 FS25_UnloadBalesEarly: Sending new settings
 2025-10-26 10:19:57.289 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-26 10:20:02.645   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'CLAAS MEGA 218'
+2025-10-26 10:21:05.462   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Zetor 10145 Fast transmission (AI worker F)'
+2025-10-26 10:21:17.186 M@rcin joined the game
+2025-10-26 10:21:17.208 FS25_UnloadBalesEarly: Sending new settings
+2025-10-26 10:21:17.208 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-26 10:21:17.210 FS25_UnloadBalesEarly: Sending new settings
+2025-10-26 10:21:17.210 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-26 10:21:17.221 dataS/character/playerM/jacket/topAviatorJacket.i3d (18.10 ms)
+2025-10-26 10:21:17.222 dataS/character/playerM/attachments/glassesAviators.i3d (0.85 ms)
+2025-10-26 10:21:17.253 dataS/character/playerM/hairStyles/hairStyleDiablo.i3d (31.82 ms)
+2025-10-26 10:21:17.271 dataS/character/playerM/facialHair/mHead01/beardStubble.i3d (1.27 ms)
+2025-10-26 10:21:37.834 FS25_UnloadBalesEarly: Sending new settings
+2025-10-26 10:21:37.834 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-26 10:21:37.834 FS25_UnloadBalesEarly: Sending new settings
+2025-10-26 10:21:37.834 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-26 10:21:37.834 FS25_UnloadBalesEarly: Sending new settings
+2025-10-26 10:21:37.834 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-26 10:21:37.834 FS25_UnloadBalesEarly: Sending new settings
+2025-10-26 10:21:37.834 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-26 10:22:12.074 zone joined the game
+2025-10-26 10:22:12.095 dataS/character/playerM/heads/mHead02.i3d (8.27 ms)
+2025-10-26 10:22:12.110 FS25_UnloadBalesEarly: Sending new settings
+2025-10-26 10:22:12.110 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-26 10:22:12.111 FS25_UnloadBalesEarly: Sending new settings
+2025-10-26 10:22:12.111 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-26 10:22:12.112 FS25_UnloadBalesEarly: Sending new settings
+2025-10-26 10:22:12.112 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-26 10:22:12.189 dataS/character/playerM/jacket/caseIH/caseIHTop.i3d (94.32 ms)
+2025-10-26 10:22:12.215 dataS/character/playerM/attachments/caseIHhat.i3d (6.91 ms)
+2025-10-26 10:22:12.230 dataS/character/playerM/facialHair/mHead02/fullBeard.i3d (14.57 ms)
+2025-10-26 10:22:28.590 FS25_UnloadBalesEarly: Sending new settings
+2025-10-26 10:22:28.590 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-26 10:22:28.591 FS25_UnloadBalesEarly: Sending new settings
+2025-10-26 10:22:28.591 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-26 10:22:28.591 FS25_UnloadBalesEarly: Sending new settings
+2025-10-26 10:22:28.591 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-26 10:22:28.591 FS25_UnloadBalesEarly: Sending new settings
+2025-10-26 10:22:28.591 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-26 10:22:28.591 FS25_UnloadBalesEarly: Sending new settings
+2025-10-26 10:22:28.591 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-26 10:22:56.811   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'STEYR 8130 Turbo'
+2025-10-26 10:23:23.795   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Massey Ferguson 310'
+2025-10-26 10:25:10.669   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Zetor 10111 Fast transmission'
+2025-10-26 10:30:07.015   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'New Holland 8340'
