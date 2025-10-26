@@ -5236,3 +5236,14 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-10-26 12:14:15.379 data/objects/bigBagPallet/bigBagPallet.i3d (1.47 ms)
 2025-10-26 12:14:16.359 data/objects/bigBag/bigBag.i3d (1.80 ms)
 2025-10-26 12:14:37.231   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'STEYR 8130 Super Elite'
+2025-10-26 12:17:47.040 Game saved successfully (savegame1).
+2025-10-26 12:17:53.162 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_lsfmBigBagPack/objects/bigBag/bigBag.i3d (3.41 ms)
+2025-10-26 12:17:54.186 data/objects/pallets/liquidTank/liquidTank.i3d (1.15 ms)
+2025-10-26 12:18:35.328 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.58 ms)
+2025-10-26 12:18:35.383 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_mrhHandLiftableConsumables/bagsStack/bagsStack.i3d (1.14 ms)
+2025-10-26 12:18:47.458 data/objects/bigBag/bigBag.i3d (1.81 ms)
+2025-10-26 12:23:56.730 data/objects/bigBag/bigBag.i3d (1.80 ms)
+2025-10-26 12:24:57.948   Info: No 'ExhaustExtension' particle system added to vehicle 'Kärcher HDS 9/18-4 M' because it has no exhaust
+2025-10-26 12:29:16.452 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.59 ms)
+2025-10-26 12:29:16.511 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_mrhHandLiftableConsumables/bagsStack/bagsStack.i3d (1.20 ms)
+2025-10-26 12:31:06.578   Info: No 'ExhaustExtension' particle system added to vehicle 'Lizard Screw conveyor' because it has no exhaust
