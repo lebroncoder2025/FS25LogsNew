@@ -7148,3 +7148,5 @@ dataS/scripts/vehicles/specializations/BaleWrapper.lua:1508: attempt to index ni
 2025-10-26 02:11:29.121 Game saved successfully (savegame1).
 2025-10-26 02:41:37.570 Game saved successfully (savegame1).
 2025-10-26 03:11:45.833 Game saved successfully (savegame1).
+2025-10-26 03:41:53.781 Game saved successfully (savegame1).
+2025-10-26 04:12:02.350 Game saved successfully (savegame1).
