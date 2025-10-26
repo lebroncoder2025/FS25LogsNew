@@ -7402,3 +7402,28 @@ dataS/scripts/vehicles/specializations/BaleWrapper.lua:1508: attempt to index ni
 2025-10-26 09:25:25.668 FS25_UnloadBalesEarly: Done sending new settings
 2025-10-26 09:25:25.691 dataS/character/playerM/hairStyles/hairStyleDiablo.i3d (31.36 ms)
 2025-10-26 09:25:25.693 dataS/character/playerM/facialHair/mHead01/beardStubble.i3d (1.15 ms)
+2025-10-26 09:26:17.501 FS25_UnloadBalesEarly: Sending new settings
+2025-10-26 09:26:17.501 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-26 09:26:17.503 FS25_UnloadBalesEarly: Sending new settings
+2025-10-26 09:26:17.503 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-26 09:26:17.503 FS25_UnloadBalesEarly: Sending new settings
+2025-10-26 09:26:17.503 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-26 09:26:17.503 FS25_UnloadBalesEarly: Sending new settings
+2025-10-26 09:26:17.504 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-26 09:26:17.504 FS25_UnloadBalesEarly: Sending new settings
+2025-10-26 09:26:17.504 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-26 09:26:17.504 FS25_UnloadBalesEarly: Sending new settings
+2025-10-26 09:26:17.504 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-26 09:26:17.504 FS25_UnloadBalesEarly: Sending new settings
+2025-10-26 09:26:17.504 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-26 09:32:53.252 data/objects/bigBagPallet/bigBagPallet.i3d (1.69 ms)
+2025-10-26 09:33:26.758 data/objects/bigBagPallet/bigBagPallet.i3d (1.66 ms)
+2025-10-26 09:33:49.283 data/objects/bigBagPallet/bigBagPallet.i3d (1.64 ms)
+2025-10-26 09:34:23.834 data/objects/bigBagPallet/bigBagPallet.i3d (1.63 ms)
+2025-10-26 09:35:57.454 data/objects/pallets/lettuceBoxPallet/lettuceBoxPallet.i3d (11.15 ms)
+2025-10-26 09:38:15.384   Info: Moved player to coordinates 1378, 1813 successfully.
+2025-10-26 09:38:27.140   Info: Updated field 123 successfully (3) (1)
+2025-10-26 09:39:55.033 Next available Farm ID identified:
+2025-10-26 09:39:55.033 8.000000
+2025-10-26 09:39:55.034 FarmID => 8
+2025-10-26 09:39:55.034 newFarm FarmID => 8
