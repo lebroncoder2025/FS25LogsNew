@@ -7427,3 +7427,53 @@ dataS/scripts/vehicles/specializations/BaleWrapper.lua:1508: attempt to index ni
 2025-10-26 09:39:55.033 8.000000
 2025-10-26 09:39:55.034 FarmID => 8
 2025-10-26 09:39:55.034 newFarm FarmID => 8
+2025-10-26 09:41:14.784   Info: Updated field 123 successfully (8) (2)
+2025-10-26 09:42:47.978 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_classic_barrel/beczka_stara.i3d (53.97 ms)
+2025-10-26 09:42:48.112 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_classic_barrel/rims/rims.i3d (45.88 ms)
+2025-10-26 09:42:48.114 data/shared/wheels/tires/bkt/TF8181/7_50__18.i3d (2.53 ms)
+2025-10-26 09:42:59.300 Game saved successfully (savegame1).
+2025-10-26 09:43:54.755 zone lost connection to the game
+2025-10-26 09:48:42.831 data/objects/pallets/honeyBoxPallet/honeyBoxPallet.i3d (1.39 ms)
+2025-10-26 09:57:17.511   Info: Added € 11,000 to farm account. (3)
+2025-10-26 10:03:29.276 dataS/character/playerM/pants/botLeather.i3d (21.30 ms)
+2025-10-26 10:03:29.311 dataS/character/playerM/jacket/topVest.i3d (35.19 ms)
+2025-10-26 10:08:02.372 zone joined the game
+2025-10-26 10:08:02.397 FS25_UnloadBalesEarly: Sending new settings
+2025-10-26 10:08:02.397 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-26 10:08:02.398 FS25_UnloadBalesEarly: Sending new settings
+2025-10-26 10:08:02.398 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-26 10:08:02.399 FS25_UnloadBalesEarly: Sending new settings
+2025-10-26 10:08:02.399 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-26 10:08:02.400 FS25_UnloadBalesEarly: Sending new settings
+2025-10-26 10:08:02.400 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-26 10:08:02.401 FS25_UnloadBalesEarly: Sending new settings
+2025-10-26 10:08:02.401 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-26 10:08:02.482 dataS/character/playerM/jacket/caseIH/caseIHTop.i3d (93.56 ms)
+2025-10-26 10:08:02.489 dataS/character/playerM/attachments/caseIHhat.i3d (6.29 ms)
+2025-10-26 10:08:18.933 FS25_UnloadBalesEarly: Sending new settings
+2025-10-26 10:08:18.933 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-26 10:08:18.934 FS25_UnloadBalesEarly: Sending new settings
+2025-10-26 10:08:18.934 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-26 10:08:18.934 FS25_UnloadBalesEarly: Sending new settings
+2025-10-26 10:08:18.934 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-26 10:08:18.934 FS25_UnloadBalesEarly: Sending new settings
+2025-10-26 10:08:18.934 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-26 10:08:18.934 FS25_UnloadBalesEarly: Sending new settings
+2025-10-26 10:08:18.935 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-26 10:08:18.936 FS25_UnloadBalesEarly: Sending new settings
+2025-10-26 10:08:18.936 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-26 10:08:18.936 FS25_UnloadBalesEarly: Sending new settings
+2025-10-26 10:08:18.936 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-26 10:09:56.929 dataS/character/playerF/pants/botChinos.i3d (21.58 ms)
+2025-10-26 10:09:57.060 dataS/character/playerF/heads/fHead06.i3d (131.74 ms)
+2025-10-26 10:09:57.114 dataS/character/playerF/shirts/topBlouse.i3d (53.45 ms)
+2025-10-26 10:09:57.118 dataS/character/playerF/shoes/sneaker01.i3d (3.38 ms)
+2025-10-26 10:09:57.159 dataS/character/playerF/hairStyles/hairStyleMidSideParted.i3d (41.05 ms)
+2025-10-26 10:10:52.206 Warning: Saving while already saving
+2025-10-26 10:10:54.347 Game saved successfully (savegame1).
+2025-10-26 10:10:54.351 Jolero left the game
+2025-10-26 10:11:00.021 zwierek left the game
+2025-10-26 10:11:13.342 zone left the game
+2025-10-26 10:11:15.468 M@rcin lost connection to the game
+2025-10-26 10:11:16.680 symonixprime serwerkaput lost connection to the game
+2025-10-26 10:13:01.826 Game saved successfully (savegame1).

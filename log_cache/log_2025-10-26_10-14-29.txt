@@ -1,0 +1,132 @@
+GIANTS Engine Runtime 10.0.0 (42197) 64bit (Build Date: Sep 16 2025)
+Copyright (c) 2008-2025, GIANTS Software GmbH (giants-software.com), All Rights Reserved.
+Copyright (c) 2003-2025, Christian Ammann and Stefan Geiger, All Rights Reserved.
+Application: profile
+PID: 24004
+Main System
+  CPU: AMD EPYC 9224 24-Core Processor                
+  Virtual Cores: 48
+  Memory: 392922 MB
+  OS: Windows NT 10.0 64-bit
+[DirectStorage] Configured for base game on a SSD drive
+[DirectStorage] No GPU decompression for GDeflate
+[DirectStorage] No GPU decompression for GDeflate
+[DirectStorage] GDeflate Compression Support for 'FileQueueHigh' : DSTORAGE_COMPRESSION_SUPPORT_CPU_FALLBACK
+[DirectStorage] GDeflate Compression Support for 'FileQueueNormal' : DSTORAGE_COMPRESSION_SUPPORT_CPU_FALLBACK
+[DirectStorage] GDeflate Compression Support for 'MemoryQueueRealtime' : DSTORAGE_COMPRESSION_SUPPORT_CPU_FALLBACK
+[DirectStorage] Init success
+Physics System
+  Version: 6.3.7
+  Thread(s): 2
+Sound System
+  Driver: NULL
+Render System
+  Driver: NULL
+  NullConsoleDevice initialized
+Started 3 threads for threadpool 'GIANTS Render threadpool'
+Hardware Profile
+  Level: Low (forced)
+  Recommended Window Size: 1280 x 720px
+  UI Scaling Factor: 1.000000
+  3D Scaling Factor: 1.000000
+  View Distance Factor: 0.750000
+  LOD Distance Factor: 0.750000
+  Terrain LOD Distance Factor: 0.750000
+  Foliage View Distance Factor: 1.000000
+  Foliage LOD Distance Factor: 0.800000
+  Displacement View Distance Factor: 1.200000
+  Foliage Shadows: false
+  Volume Mesh Tesselation Factor: 1.500000
+  Tyre Track Segments Factor: 0.500000
+  Shadow Quality: 0.000000
+  Shadow Distance Quality: Low
+  Allow Shadow Focus Box: false
+  Shadowmap Size: 1024
+  Shadowmap Filter Size: 4
+  Max. Number of Shadow Lights: 1
+  Shader Quality: Low
+  Skip Mipmaps: 1
+  Texture Filtering mode: Bilinear
+  Reflection Map Ratio: 0.000000
+  Terrain Quality: Medium
+  MSAA: Off
+  Post-process AA: TAA
+  DLSS Quality: Off
+  DLSS Frame Generation: Off
+  AMD FidelityFx SR Quality: Off
+  AMD FidelityFx SR 3.0 Quality: Off
+  AMD FidelityFx SR 3.0 Frame Interpolation Mode: false
+  Intel XeSS Quality: Off
+  Intel XeSS Frame Generation: false
+  DRS Quality: Off
+  DRS Target FPS: 60
+  Sharpness: 1.000000
+  Max. Number of Lights: 64
+  Max. Number of Dir Lights: 4
+  Max. Number of Lights Per Cluster: 32
+  SSAO Quality: Low
+  Bloom Quality: Off
+  Depth-of-Field Quality: Off
+  Lensflare Quality: Off
+  Enable Texture Streaming: true
+  Enable Envmap Blending: true
+  Enable Dynamic Specular Envmap: false
+  Atmosphere Quality: Low
+  Volumetric Fog Quality: Low
+  Max. Number of Volumetric Lights: 0
+  Shading Rate Quality: Low
+  Texture Streaming Memory Budget: 2147483648
+  Texture Streaming Downgrade Delay: 2000.000000
+  Texture Streaming Target Texel-to-Pixel Ratio: 1.000000
+  Shadow Filter Quality: PCF
+  Shadow Denoising Quality: Off
+  Intel VALAR Quality: Off
+  Intel VALAR Power Mode: Low
+  Screenspace Shadows Quality: Off
+  Cloud Shadows Quality: Off
+  Rain Amount Factor: 0.250000
+  Shadow Buffer Pixel Quality: 8 Bit
+  Screenspace Reflections Quality: Off
+  Screenspace Reflections Upsampling Quality: Off
+  Precipitation Quality: Low
+Input System
+  Keyboard disabled
+  Mouse disabled
+  Gamepad/Joystick disabled
+  Force Feedback disabled
+[ImageDescIndexer] Loaded 23920 imageDescs from database
+ Used Start Parameters:
+    profile D:/home/sid_8377223/farmingSim_2025/profile
+    server 
+    name FarmingSimulator2025
+    exe D:/home/sid_8377223/farmingSim_2025/game/x64/FarmingSimulator2025Game.exe
+Platform: loading defaults
+  Setting 'Master Volume': 1.000
+  Setting 'Is Train Tabbable': true
+  Setting 'Radio Vehicle Only': true
+  Setting 'Radio Active': false
+  Setting 'Use Colorblind Mode': false
+  Setting 'Easy Arm Control': true
+  Setting 'Show Trigger Marker': true
+  Setting 'Show Help Trigger': true
+  Setting 'Show Field-Info': true
+  Setting 'Invert Y-Look': false
+  Setting 'Show Help Icons': true
+  Setting 'Radio Volume': 0.600
+  Setting 'Vehicle Volume': 1.000
+  Setting 'Environment Volume': 0.700
+  Setting 'Character Volume': 0.700
+  Setting 'GUI Volume': 0.500
+  Setting 'Game Volume While Not In Focus': 0.000
+  Setting 'Master Volume': 1.000
+  Setting 'Music Volume': 0.450
+Farming Simulator 25 (Server)
+  Version: 1.13.0.0 b35731
+  Available Languages: en
+  Language: en
+  Time: 2025-10-26 10:14:39
+  ModDesc Version: 103
+  Mod Directory: D:/home/sid_8377223/farmingSim_2025/profile/mods/
+dataS/character/playerAnimations/animations.i3d (152.61 ms)
+dataS/character/playerAnimations/animationsVehicleCharacter.i3d (1.24 ms)
+dataS/character/playerAnimations/animationsPedestrians.i3d (29.42 ms)
