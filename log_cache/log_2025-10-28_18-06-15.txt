@@ -6128,3 +6128,45 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-10-28 23:38:15.774 FS25_UnloadBalesEarly: Done sending new settings
 2025-10-28 23:38:15.774 FS25_UnloadBalesEarly: Sending new settings
 2025-10-28 23:38:15.774 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 23:39:22.387 zwierek left the game
+2025-10-28 23:39:57.131 zwierek joined the game
+2025-10-28 23:39:57.159 dataS/character/playerM/pants/botJeanShorts.i3d (16.86 ms)
+2025-10-28 23:39:57.161 dataS/character/playerM/attachments/glassesAviators.i3d (1.50 ms)
+2025-10-28 23:39:57.166 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 23:39:57.166 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 23:39:57.255 dataS/character/playerM/shoes/sandalM03.i3d (93.91 ms)
+2025-10-28 23:39:57.287 dataS/character/playerM/hairStyles/hairStyleBaldTop.i3d (31.55 ms)
+2025-10-28 23:39:57.295 dataS/character/playerM/facialHair/mHead01/walrusXL.i3d (8.78 ms)
+2025-10-28 23:40:26.648 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 23:40:26.648 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 23:40:26.649 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 23:40:26.649 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 23:40:26.649 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 23:40:26.649 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 23:43:43.614 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.66 ms)
+2025-10-28 23:44:23.555 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.68 ms)
+2025-10-28 23:45:37.667 dataS/character/playerM/jacket/topDenimJacket.i3d (23.18 ms)
+2025-10-28 23:45:37.701 dataS/character/playerM/hairStyles/hairStyleMidParted01.i3d (33.82 ms)
+2025-10-28 23:45:37.703 dataS/character/playerM/facialHair/mHead01/beardStubble.i3d (1.43 ms)
+2025-10-28 23:53:42.666 data/objects/pallets/liquidTank/liquidTank.i3d (2.89 ms)
+2025-10-28 23:53:42.742 data/objects/bigBagPallet/bigBagPallet.i3d (3.99 ms)
+2025-10-29 00:07:52.001 Jolero joined the game
+2025-10-29 00:07:52.020 dataS/character/playerM/shirts/topTShirt01.i3d (2.42 ms)
+2025-10-29 00:07:52.023 FS25_UnloadBalesEarly: Sending new settings
+2025-10-29 00:07:52.023 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-29 00:07:52.025 FS25_UnloadBalesEarly: Sending new settings
+2025-10-29 00:07:52.025 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-29 00:07:52.054 dataS/character/playerM/hairStyles/hairStyleTopKnot.i3d (34.09 ms)
+2025-10-29 00:07:52.073 dataS/character/playerM/facialHair/mHead01/goatee01.i3d (19.38 ms)
+2025-10-29 00:08:08.343 FS25_UnloadBalesEarly: Sending new settings
+2025-10-29 00:08:08.343 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-29 00:08:08.343 FS25_UnloadBalesEarly: Sending new settings
+2025-10-29 00:08:08.343 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-29 00:08:08.344 FS25_UnloadBalesEarly: Sending new settings
+2025-10-29 00:08:08.344 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-29 00:08:08.344 FS25_UnloadBalesEarly: Sending new settings
+2025-10-29 00:08:08.344 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-29 00:08:08.909 Game saved successfully (savegame1).
+2025-10-29 00:09:07.407   Info: [Easy Development Controls] User Jolero has logged in as master user.
+2025-10-29 00:11:39.919   Info: Operating time of Mercedes-Benz Trucks MB-trac 900 optimized changed to 13.8 h.
+2025-10-29 00:12:08.987 Jolero left the game
