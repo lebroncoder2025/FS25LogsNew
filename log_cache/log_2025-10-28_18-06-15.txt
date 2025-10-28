@@ -5645,3 +5645,32 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-10-28 19:48:01.121 FS25_UnloadBalesEarly: Done sending new settings
 2025-10-28 19:48:01.121 FS25_UnloadBalesEarly: Sending new settings
 2025-10-28 19:48:01.121 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 19:51:20.801 siejA lost connection to the game
+2025-10-28 19:59:07.237 szagh joined the game
+2025-10-28 19:59:07.255 dataS/character/playerM/shirts/topTShirt01.i3d (2.44 ms)
+2025-10-28 19:59:07.259 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 19:59:07.259 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 19:59:07.260 dataS/character/playerM/attachments/headgearBeanie.i3d (4.53 ms)
+2025-10-28 19:59:07.260 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 19:59:07.260 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 19:59:07.262 dataS/character/playerM/attachments/glassesSports01.i3d (1.75 ms)
+2025-10-28 19:59:07.278 dataS/character/playerM/facialHair/mHead01/muttonChops03.i3d (16.09 ms)
+2025-10-28 19:59:28.869 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 19:59:28.869 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 19:59:28.870 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 19:59:28.870 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 19:59:28.870 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 19:59:28.870 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 19:59:28.870 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 19:59:28.870 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 20:01:35.829   Info: No 'ExhaustExtension' particle system added to vehicle 'Grimme SL 80-22 Quantum' because it has no exhaust
+2025-10-28 20:02:58.517 zwierek lost connection to the game
+2025-10-28 20:05:54.364 data/objects/bigBagPallet/bigBagPallet.i3d (4.41 ms)
+2025-10-28 20:07:00.269 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.65 ms)
+2025-10-28 20:07:15.555   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'MERLO P41.7'
+2025-10-28 20:07:21.238 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.68 ms)
+2025-10-28 20:07:38.134 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.69 ms)
+2025-10-28 20:07:41.563 Game saved successfully (savegame1).
+2025-10-28 20:09:07.934 Warning: Send called with unknown target address.
+2025-10-28 20:09:07.944 szagh left the game
+2025-10-28 20:11:30.807 zone lost connection to the game
