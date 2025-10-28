@@ -6102,3 +6102,29 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-10-28 23:16:14.285 data/objects/pallets/liquidTank/liquidTank.i3d (3.01 ms)
 2025-10-28 23:17:07.499 zone lost connection to the game
 2025-10-28 23:21:20.022 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.65 ms)
+2025-10-28 23:22:39.791 dataS/character/playerM/heads/mHead05.i3d (199.40 ms)
+2025-10-28 23:22:39.888 dataS/character/playerM/shirts/zipNeckPullover.i3d (96.75 ms)
+2025-10-28 23:22:39.922 dataS/character/playerM/hairStyles/hairStyleManBun.i3d (33.82 ms)
+2025-10-28 23:22:39.932 dataS/character/playerM/facialHair/mHead05/goatee02.i3d (10.12 ms)
+2025-10-28 23:23:17.566 dataS/character/playerM/jacket/topDenimJacket.i3d (23.20 ms)
+2025-10-28 23:23:17.600 dataS/character/playerM/hairStyles/hairStyleMidParted01.i3d (33.98 ms)
+2025-10-28 23:23:17.601 dataS/character/playerM/facialHair/mHead01/beardStubble.i3d (1.40 ms)
+2025-10-28 23:24:57.327 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.63 ms)
+2025-10-28 23:24:57.384 data/objects/bigBagPallet/bigBagPallet.i3d (4.06 ms)
+2025-10-28 23:34:17.395 data/objects/bigBagPallet/bigBagPallet.i3d (4.47 ms)
+2025-10-28 23:37:06.598 zwierek left the game
+2025-10-28 23:37:45.342 zwierek joined the game
+2025-10-28 23:37:45.371 dataS/character/playerM/pants/botJeanShorts.i3d (16.99 ms)
+2025-10-28 23:37:45.373 dataS/character/playerM/attachments/glassesAviators.i3d (1.52 ms)
+2025-10-28 23:37:45.378 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 23:37:45.378 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 23:37:45.467 dataS/character/playerM/shoes/sandalM03.i3d (94.31 ms)
+2025-10-28 23:37:45.499 dataS/character/playerM/hairStyles/hairStyleBaldTop.i3d (31.67 ms)
+2025-10-28 23:37:45.508 dataS/character/playerM/facialHair/mHead01/walrusXL.i3d (8.93 ms)
+2025-10-28 23:38:06.969 Game saved successfully (savegame1).
+2025-10-28 23:38:15.773 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 23:38:15.773 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 23:38:15.774 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 23:38:15.774 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 23:38:15.774 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 23:38:15.774 FS25_UnloadBalesEarly: Done sending new settings
