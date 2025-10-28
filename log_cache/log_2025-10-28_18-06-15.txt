@@ -5864,3 +5864,129 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-10-28 22:18:11.818 FS25_UnloadBalesEarly: Done sending new settings
 2025-10-28 22:18:11.818 FS25_UnloadBalesEarly: Sending new settings
 2025-10-28 22:18:11.818 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 22:23:55.766 Error: Can't load resource ''.
+2025-10-28 22:23:55.766 Error: Can't load resource ''.
+2025-10-28 22:23:55.766 Error: Can't load resource ''.
+2025-10-28 22:23:55.766 Error: Can't load resource 'gen_singleColorTexture_0_4278453252'.
+2025-10-28 22:23:55.766   DevWarning: material 'tyreMaterial' is having the albedo map removed by script. This can cause problems on consoles as the correct shader will not be built for this case.
+2025-10-28 22:23:55.766 Warning: Missing texture 'detailSpecular' in 'tyreMaterial' (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_useYourTyres/shaders/vehicleShader50keda.xml).
+2025-10-28 22:23:55.767 Warning: Missing texture 'detailNormal' in 'tyreMaterial' (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_useYourTyres/shaders/vehicleShader50keda.xml).
+2025-10-28 22:23:55.767 Warning: Missing texture 'detailDiffuse' in 'tyreMaterial' (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_useYourTyres/shaders/vehicleShader50keda.xml).
+2025-10-28 22:23:55.767 Error: Can't load resource ''.
+2025-10-28 22:23:55.767 Error: Can't load resource ''.
+2025-10-28 22:23:55.767 Error: Can't load resource ''.
+2025-10-28 22:23:55.767 Error: Can't load resource 'gen_singleColorTexture_0_4278453252'.
+2025-10-28 22:23:55.767   DevWarning: material 'tyreMaterial' is having the albedo map removed by script. This can cause problems on consoles as the correct shader will not be built for this case.
+2025-10-28 22:23:55.779 Warning: Missing texture 'detailDiffuse' in 'tyreMaterial' (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_useYourTyres/shaders/vehicleShader50keda.xml).
+2025-10-28 22:23:55.779 Warning: Missing texture 'detailNormal' in 'tyreMaterial' (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_useYourTyres/shaders/vehicleShader50keda.xml).
+2025-10-28 22:23:55.779 Warning: Missing texture 'detailDiffuse' in 'tyreMaterial' (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_useYourTyres/shaders/vehicleShader50keda.xml).
+2025-10-28 22:23:55.779 Warning: Missing texture 'detailSpecular' in 'tyreMaterial' (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_useYourTyres/shaders/vehicleShader50keda.xml).
+2025-10-28 22:23:55.779 Warning: Missing texture 'detailNormal' in 'tyreMaterial' (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_useYourTyres/shaders/vehicleShader50keda.xml).
+2025-10-28 22:23:55.779 Warning: Missing texture 'detailDiffuse' in 'tyreMaterial' (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_useYourTyres/shaders/vehicleShader50keda.xml).
+2025-10-28 22:23:55.779 Warning: Missing texture 'detailSpecular' in 'tyreMaterial' (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_useYourTyres/shaders/vehicleShader50keda.xml).
+2025-10-28 22:23:55.779 Warning: Missing texture 'detailNormal' in 'tyreMaterial' (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_useYourTyres/shaders/vehicleShader50keda.xml).
+2025-10-28 22:23:55.779 Warning: Missing texture 'detailDiffuse' in 'tyreMaterial' (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_useYourTyres/shaders/vehicleShader50keda.xml).
+2025-10-28 22:23:55.779 Warning: Missing texture 'detailSpecular' in 'tyreMaterial' (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_useYourTyres/shaders/vehicleShader50keda.xml).
+2025-10-28 22:23:55.779 Warning: Missing texture 'detailNormal' in 'tyreMaterial' (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_useYourTyres/shaders/vehicleShader50keda.xml).
+2025-10-28 22:23:55.779 Warning: Missing texture 'detailDiffuse' in 'tyreMaterial' (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_useYourTyres/shaders/vehicleShader50keda.xml).
+2025-10-28 22:24:37.095 zone lost connection to the game
+2025-10-28 22:27:03.647 hubsonwaliszot left the game
+2025-10-28 22:27:08.724 zone joined the game
+2025-10-28 22:27:08.744 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 22:27:08.744 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 22:27:08.754 dataS/character/playerM/heads/mHead02.i3d (13.99 ms)
+2025-10-28 22:27:08.851 dataS/character/playerM/jacket/caseIH/caseIHTop.i3d (97.20 ms)
+2025-10-28 22:27:08.858 dataS/character/playerM/attachments/caseIHhat.i3d (6.67 ms)
+2025-10-28 22:27:08.893 dataS/character/playerM/hairStyles/hairStyleFringe.i3d (34.96 ms)
+2025-10-28 22:27:08.908 dataS/character/playerM/facialHair/mHead02/fullBeard.i3d (14.95 ms)
+2025-10-28 22:27:25.792 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 22:27:25.792 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 22:27:25.793 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 22:27:25.793 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 22:27:25.793 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 22:27:25.793 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 22:28:49.498 hubsonwaliszot joined the game
+2025-10-28 22:28:49.524 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 22:28:49.524 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 22:28:49.525 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 22:28:49.525 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 22:28:49.807 dataS/character/playerM/shirts/poettinger/poettingerTshirt.i3d (290.79 ms)
+2025-10-28 22:30:12.031 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 22:30:12.031 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 22:30:12.031 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 22:30:12.031 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 22:30:12.032 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 22:30:12.032 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 22:30:12.032 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 22:30:12.032 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 22:32:29.523 zwierek joined the game
+2025-10-28 22:32:29.551 dataS/character/playerM/pants/botJeanShorts.i3d (17.02 ms)
+2025-10-28 22:32:29.552 dataS/character/playerM/attachments/glassesAviators.i3d (1.44 ms)
+2025-10-28 22:32:29.556 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 22:32:29.557 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 22:32:29.557 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 22:32:29.558 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 22:32:29.558 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 22:32:29.558 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 22:32:29.647 dataS/character/playerM/shoes/sandalM03.i3d (94.14 ms)
+2025-10-28 22:32:29.679 dataS/character/playerM/hairStyles/hairStyleBaldTop.i3d (32.02 ms)
+2025-10-28 22:32:29.688 dataS/character/playerM/facialHair/mHead01/walrusXL.i3d (8.98 ms)
+2025-10-28 22:32:36.913 siejA joined the game
+2025-10-28 22:32:36.947 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 22:32:36.948 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 22:32:36.949 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 22:32:36.949 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 22:32:36.950 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 22:32:36.950 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 22:32:37.038 dataS/character/playerM/fullBody/strauss/motion2020PantsVariant2ndVariant.i3d (112.44 ms)
+2025-10-28 22:32:37.058 dataS/character/playerM/facialHair/mHead01/goatee01.i3d (19.53 ms)
+2025-10-28 22:32:46.331 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.67 ms)
+2025-10-28 22:32:46.384 data/objects/pallets/pioneer/pioneerPallet.i3d (1.63 ms)
+2025-10-28 22:32:49.078 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 22:32:49.078 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 22:32:49.078 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 22:32:49.078 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 22:32:49.078 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 22:32:49.078 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 22:32:49.079 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 22:32:49.079 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 22:32:49.079 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 22:32:49.079 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 22:32:49.079 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 22:32:49.079 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 22:33:13.609 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 22:33:13.609 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 22:33:13.609 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 22:33:13.610 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 22:33:13.610 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 22:33:13.610 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 22:33:13.610 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 22:33:13.610 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 22:33:13.610 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 22:33:13.610 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 22:33:13.610 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 22:33:13.610 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 22:33:15.038 siejA lost connection to the game
+2025-10-28 22:34:18.754 siejA joined the game
+2025-10-28 22:34:18.788 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 22:34:18.788 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 22:34:18.790 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 22:34:18.790 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 22:34:18.791 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 22:34:18.791 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 22:34:18.791 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 22:34:18.791 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 22:34:18.881 dataS/character/playerM/fullBody/strauss/motion2020PantsVariant2ndVariant.i3d (113.13 ms)
+2025-10-28 22:34:18.900 dataS/character/playerM/facialHair/mHead01/goatee01.i3d (19.66 ms)
+2025-10-28 22:34:32.305 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 22:34:32.305 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 22:34:32.306 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 22:34:32.306 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 22:34:32.306 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 22:34:32.306 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 22:34:32.306 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 22:34:32.306 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 22:34:32.306 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 22:34:32.306 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 22:34:32.306 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 22:34:32.306 FS25_UnloadBalesEarly: Done sending new settings
