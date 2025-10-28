@@ -5674,3 +5674,80 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-10-28 20:09:07.934 Warning: Send called with unknown target address.
 2025-10-28 20:09:07.944 szagh left the game
 2025-10-28 20:11:30.807 zone lost connection to the game
+2025-10-28 20:37:56.019 Game saved successfully (savegame1).
+2025-10-28 20:46:00.328 M@rcin joined the game
+2025-10-28 20:46:00.549 dataS/character/playerM/jacket/topAviatorJacket.i3d (18.89 ms)
+2025-10-28 20:46:00.551 dataS/character/playerM/attachments/glassesAviators.i3d (1.49 ms)
+2025-10-28 20:46:00.584 dataS/character/playerM/hairStyles/hairStyleDiablo.i3d (33.78 ms)
+2025-10-28 20:46:00.586 dataS/character/playerM/facialHair/mHead01/beardStubble.i3d (1.42 ms)
+2025-10-28 20:46:08.369 hubsonwaliszot joined the game
+2025-10-28 20:46:08.861 dataS/character/playerM/shirts/poettinger/poettingerTshirt.i3d (291.25 ms)
+2025-10-28 20:46:56.627 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 20:46:56.627 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 20:46:56.628 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 20:46:56.628 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 20:46:56.628 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 20:46:56.628 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 20:47:39.272 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 20:47:39.272 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 20:47:39.272 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 20:47:39.272 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 20:47:39.272 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 20:47:39.272 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 20:48:07.942 Jolero joined the game
+2025-10-28 20:48:07.964 dataS/character/playerM/shirts/topTShirt01.i3d (2.36 ms)
+2025-10-28 20:48:07.999 dataS/character/playerM/hairStyles/hairStyleTopKnot.i3d (34.61 ms)
+2025-10-28 20:48:08.018 dataS/character/playerM/facialHair/mHead01/goatee01.i3d (19.20 ms)
+2025-10-28 20:48:08.754 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 20:48:08.754 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 20:48:08.755 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 20:48:08.755 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 20:48:24.084 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 20:48:24.084 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 20:48:24.085 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 20:48:24.085 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 20:48:24.085 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 20:48:24.085 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 20:48:24.085 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 20:48:24.085 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 20:49:08.771   Info: [Easy Development Controls] User Jolero has logged in as master user.
+2025-10-28 20:49:19.193   Info: Moved player to coordinates 1195, 383 successfully.
+2025-10-28 20:56:40.512   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Massey Ferguson 310'
+2025-10-28 21:04:17.579 M@rcin lost connection to the game
+2025-10-28 21:05:33.530 M@rcin joined the game
+2025-10-28 21:05:33.561 dataS/character/playerM/jacket/topAviatorJacket.i3d (19.29 ms)
+2025-10-28 21:05:33.563 dataS/character/playerM/attachments/glassesAviators.i3d (1.63 ms)
+2025-10-28 21:05:33.563 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 21:05:33.563 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 21:05:33.564 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 21:05:33.564 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 21:05:33.597 dataS/character/playerM/hairStyles/hairStyleDiablo.i3d (34.23 ms)
+2025-10-28 21:05:33.599 dataS/character/playerM/facialHair/mHead01/beardStubble.i3d (1.44 ms)
+2025-10-28 21:05:55.436 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 21:05:55.436 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 21:05:55.437 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 21:05:55.437 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 21:05:55.437 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 21:05:55.437 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 21:05:55.437 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 21:05:55.437 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 21:07:06.452   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'STEYR 8130 Turbo'
+2025-10-28 21:07:54.389 Game saved successfully (savegame1).
+2025-10-28 21:08:20.011 M@rcin lost connection to the game
+2025-10-28 21:09:37.299 M@rcin joined the game
+2025-10-28 21:09:37.332 dataS/character/playerM/jacket/topAviatorJacket.i3d (18.98 ms)
+2025-10-28 21:09:37.333 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 21:09:37.333 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 21:09:37.334 dataS/character/playerM/attachments/glassesAviators.i3d (1.50 ms)
+2025-10-28 21:09:37.334 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 21:09:37.334 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 21:09:37.367 dataS/character/playerM/hairStyles/hairStyleDiablo.i3d (33.58 ms)
+2025-10-28 21:09:37.369 dataS/character/playerM/facialHair/mHead01/beardStubble.i3d (1.39 ms)
+2025-10-28 21:09:59.085 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 21:09:59.085 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 21:09:59.085 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 21:09:59.085 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 21:09:59.086 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 21:09:59.086 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 21:09:59.086 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 21:09:59.086 FS25_UnloadBalesEarly: Done sending new settings
