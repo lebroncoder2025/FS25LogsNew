@@ -5292,3 +5292,222 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-10-28 16:25:47.010 FS25_UnloadBalesEarly: Done sending new settings
 2025-10-28 16:25:47.019 dataS/character/playerM/hairStyles/hairStyleTopKnot.i3d (35.53 ms)
 2025-10-28 16:25:47.073 dataS/character/playerM/facialHair/mHead01/goatee01.i3d (20.29 ms)
+2025-10-28 16:25:57.329 Game saved successfully (savegame1).
+2025-10-28 16:26:00.495 zone joined the game
+2025-10-28 16:26:00.518 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 16:26:00.519 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 16:26:00.520 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 16:26:00.521 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 16:26:00.522 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 16:26:00.522 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 16:26:00.523 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 16:26:00.523 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 16:26:00.605 dataS/character/playerM/jacket/caseIH/caseIHTop.i3d (96.48 ms)
+2025-10-28 16:26:00.612 dataS/character/playerM/attachments/caseIHhat.i3d (6.83 ms)
+2025-10-28 16:26:00.668 dataS/character/playerM/hairStyles/hairStyleFringe.i3d (35.16 ms)
+2025-10-28 16:26:00.684 dataS/character/playerM/facialHair/mHead02/fullBeard.i3d (15.32 ms)
+2025-10-28 16:26:07.000 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 16:26:07.001 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 16:26:07.001 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 16:26:07.001 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 16:26:07.001 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 16:26:07.001 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 16:26:07.001 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 16:26:07.001 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 16:26:07.001 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 16:26:07.002 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 16:26:07.002 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 16:26:07.002 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 16:26:07.002 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 16:26:07.002 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 16:26:25.527 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 16:26:25.527 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 16:26:25.528 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 16:26:25.528 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 16:26:25.528 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 16:26:25.528 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 16:26:25.528 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 16:26:25.528 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 16:26:25.528 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 16:26:25.528 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 16:26:25.528 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 16:26:25.528 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 16:26:25.528 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 16:26:25.528 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 16:26:41.971   Info: [Easy Development Controls] User Jolero has logged in as master user.
+2025-10-28 16:27:40.055   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Case IH 160 CVX'
+2025-10-28 16:27:59.789 M@rcin joined the game
+2025-10-28 16:27:59.823 dataS/character/playerM/jacket/topAviatorJacket.i3d (19.49 ms)
+2025-10-28 16:27:59.832 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 16:27:59.832 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 16:27:59.833 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 16:27:59.833 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 16:27:59.834 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 16:27:59.834 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 16:27:59.835 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 16:27:59.835 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 16:27:59.836 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 16:27:59.836 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 16:27:59.837 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 16:27:59.837 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 16:27:59.857 dataS/character/playerM/hairStyles/hairStyleDiablo.i3d (34.00 ms)
+2025-10-28 16:27:59.886 dataS/character/playerM/facialHair/mHead01/beardStubble.i3d (1.62 ms)
+2025-10-28 16:28:15.286 data/objects/bigBag/bigBag.i3d (6.19 ms)
+2025-10-28 16:28:25.175 data/objects/bigBag/bigBag.i3d (5.33 ms)
+2025-10-28 16:28:26.270 data/objects/bigBag/bigBag.i3d (6.14 ms)
+2025-10-28 16:28:28.300 data/objects/bigBag/bigBag.i3d (5.43 ms)
+2025-10-28 16:28:32.185 data/objects/bigBag/bigBag.i3d (5.01 ms)
+2025-10-28 16:28:43.408 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 16:28:43.408 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 16:28:43.409 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 16:28:43.409 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 16:28:43.409 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 16:28:43.409 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 16:28:43.409 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 16:28:43.409 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 16:28:43.409 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 16:28:43.409 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 16:28:43.409 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 16:28:43.409 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 16:28:43.409 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 16:28:43.409 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 16:28:43.409 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 16:28:43.409 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 16:29:35.021 Jolero lost connection to the game
+2025-10-28 16:31:29.474   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'FMŻ Z-310'
+2025-10-28 16:31:35.427 Jolero joined the game
+2025-10-28 16:31:35.455 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 16:31:35.455 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 16:31:35.457 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 16:31:35.457 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 16:31:35.458 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 16:31:35.458 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 16:31:35.459 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 16:31:35.459 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 16:31:35.460 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 16:31:35.460 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 16:31:35.460 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 16:31:35.461 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 16:31:35.477 dataS/character/playerM/hairStyles/hairStyleTopKnot.i3d (35.24 ms)
+2025-10-28 16:31:35.497 dataS/character/playerM/facialHair/mHead01/goatee01.i3d (19.54 ms)
+2025-10-28 16:31:57.199 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 16:31:57.199 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 16:31:57.200 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 16:31:57.200 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 16:31:57.200 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 16:31:57.200 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 16:31:57.200 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 16:31:57.200 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 16:31:57.200 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 16:31:57.200 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 16:31:57.200 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 16:31:57.200 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 16:31:57.201 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 16:31:57.201 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 16:31:57.201 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 16:31:57.201 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 16:32:30.767   Info: [Easy Development Controls] User Jolero has logged in as master user.
+2025-10-28 16:32:43.905 hubsonwaliszot joined the game
+2025-10-28 16:32:43.935 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 16:32:43.935 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 16:32:43.937 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 16:32:43.937 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 16:32:43.937 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 16:32:43.938 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 16:32:43.938 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 16:32:43.938 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 16:32:43.939 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 16:32:43.939 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 16:32:43.940 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 16:32:43.940 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 16:32:44.213 dataS/character/playerM/shirts/poettinger/poettingerTshirt.i3d (292.38 ms)
+2025-10-28 16:32:54.327 zwierek lost connection to the game
+2025-10-28 16:33:06.787   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'MERLO P41.7'
+2025-10-28 16:33:37.864 Jolero lost connection to the game
+2025-10-28 16:33:50.580 hubsonwaliszot left the game
+2025-10-28 16:35:33.442   Info: No 'ExhaustExtension' particle system added to vehicle 'Grimme SL 80-22 Quantum' because it has no exhaust
+2025-10-28 16:35:36.748 zone left the game
+2025-10-28 16:36:25.471 zone joined the game
+2025-10-28 16:36:25.509 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 16:36:25.509 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 16:36:25.511 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 16:36:25.511 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 16:36:25.512 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 16:36:25.512 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 16:36:25.512 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 16:36:25.512 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 16:36:25.581 dataS/character/playerM/jacket/caseIH/caseIHTop.i3d (96.59 ms)
+2025-10-28 16:36:25.588 dataS/character/playerM/attachments/caseIHhat.i3d (6.78 ms)
+2025-10-28 16:36:25.623 dataS/character/playerM/hairStyles/hairStyleFringe.i3d (35.15 ms)
+2025-10-28 16:36:25.639 dataS/character/playerM/facialHair/mHead02/fullBeard.i3d (15.39 ms)
+2025-10-28 16:36:33.110 hubsonwaliszot joined the game
+2025-10-28 16:36:33.138 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 16:36:33.138 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 16:36:33.140 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 16:36:33.140 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 16:36:33.140 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 16:36:33.140 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 16:36:33.141 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 16:36:33.141 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 16:36:33.421 dataS/character/playerM/shirts/poettinger/poettingerTshirt.i3d (294.46 ms)
+2025-10-28 16:36:55.994 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 16:36:55.994 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 16:36:55.995 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 16:36:55.995 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 16:36:55.995 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 16:36:55.995 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 16:36:55.995 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 16:36:55.995 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 16:36:55.995 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 16:36:55.995 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 16:36:55.995 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 16:36:55.995 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 16:36:55.996 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 16:36:55.996 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 16:37:26.017 Jolero joined the game
+2025-10-28 16:37:26.042 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 16:37:26.042 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 16:37:26.044 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 16:37:26.044 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 16:37:26.045 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 16:37:26.045 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 16:37:26.045 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 16:37:26.045 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 16:37:26.046 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 16:37:26.046 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 16:37:26.065 dataS/character/playerM/hairStyles/hairStyleTopKnot.i3d (34.95 ms)
+2025-10-28 16:37:26.085 dataS/character/playerM/facialHair/mHead01/goatee01.i3d (19.87 ms)
+2025-10-28 16:37:40.383   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'New Holland 8340'
+2025-10-28 16:37:46.931 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 16:37:46.931 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 16:37:46.931 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 16:37:46.931 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 16:37:46.931 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 16:37:46.932 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 16:37:46.932 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 16:37:46.932 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 16:37:46.932 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 16:37:46.932 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 16:37:46.932 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 16:37:46.932 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 16:37:46.932 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 16:37:46.932 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 16:37:46.932 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 16:37:46.932 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 16:37:55.971 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 16:37:55.971 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 16:37:55.972 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 16:37:55.972 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 16:37:55.972 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 16:37:55.972 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 16:37:55.972 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 16:37:55.972 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 16:37:55.972 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 16:37:55.972 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 16:37:55.972 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 16:37:55.972 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 16:37:55.972 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 16:37:55.972 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 16:37:55.973 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 16:37:55.973 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 16:38:46.799   Info: [Easy Development Controls] User Jolero has logged in as master user.
