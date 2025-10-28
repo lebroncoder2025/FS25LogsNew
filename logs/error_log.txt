@@ -20,3 +20,27 @@ Traceback (most recent call last):
     raise EOFError
 EOFError
 
+2025-10-28 13:47:50.438941: Błąd FTP: [Errno 110] Connection timed out
+Traceback (most recent call last):
+  File "/home/runner/work/FS25LogsNew/FS25LogsNew/logs_analyzer.py", line 112, in download_logs
+    ftp.connect(FTP_HOST, FTP_PORT)
+  File "/opt/hostedtoolcache/Python/3.9.13/x64/lib/python3.9/ftplib.py", line 158, in connect
+    self.sock = socket.create_connection((self.host, self.port), self.timeout,
+  File "/opt/hostedtoolcache/Python/3.9.13/x64/lib/python3.9/socket.py", line 844, in create_connection
+    raise err
+  File "/opt/hostedtoolcache/Python/3.9.13/x64/lib/python3.9/socket.py", line 832, in create_connection
+    sock.connect(sa)
+TimeoutError: [Errno 110] Connection timed out
+
+2025-10-28 13:50:05.606912: Błąd FTP: [Errno 110] Connection timed out
+Traceback (most recent call last):
+  File "/home/runner/work/FS25LogsNew/FS25LogsNew/logs_analyzer.py", line 112, in download_logs
+    ftp.connect(FTP_HOST, FTP_PORT)
+  File "/opt/hostedtoolcache/Python/3.9.13/x64/lib/python3.9/ftplib.py", line 158, in connect
+    self.sock = socket.create_connection((self.host, self.port), self.timeout,
+  File "/opt/hostedtoolcache/Python/3.9.13/x64/lib/python3.9/socket.py", line 844, in create_connection
+    raise err
+  File "/opt/hostedtoolcache/Python/3.9.13/x64/lib/python3.9/socket.py", line 832, in create_connection
+    sock.connect(sa)
+TimeoutError: [Errno 110] Connection timed out
+
