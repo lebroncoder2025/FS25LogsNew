@@ -5572,3 +5572,76 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-10-28 19:30:42.694 FS25_UnloadBalesEarly: Sending new settings
 2025-10-28 19:30:42.694 FS25_UnloadBalesEarly: Done sending new settings
 2025-10-28 19:31:03.375   Info: [Easy Development Controls] User Jolero has logged in as master user.
+2025-10-28 19:34:32.490 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.79 ms)
+2025-10-28 19:34:32.546 data/objects/pallets/liquidTank/liquidTank.i3d (3.12 ms)
+2025-10-28 19:35:05.021 Jolero lost connection to the game
+2025-10-28 19:36:00.747 zone left the game
+2025-10-28 19:36:43.435 zone joined the game
+2025-10-28 19:36:43.459 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 19:36:43.459 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 19:36:43.460 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 19:36:43.460 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 19:36:43.461 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 19:36:43.461 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 19:36:43.466 dataS/character/playerM/heads/mHead02.i3d (14.64 ms)
+2025-10-28 19:36:43.564 dataS/character/playerM/jacket/caseIH/caseIHTop.i3d (97.53 ms)
+2025-10-28 19:36:43.570 dataS/character/playerM/attachments/caseIHhat.i3d (6.80 ms)
+2025-10-28 19:36:43.606 dataS/character/playerM/hairStyles/hairStyleFringe.i3d (35.47 ms)
+2025-10-28 19:36:43.621 dataS/character/playerM/facialHair/mHead02/fullBeard.i3d (15.07 ms)
+2025-10-28 19:36:43.694 hubsonwaliszot left the game
+2025-10-28 19:37:14.090 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 19:37:14.090 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 19:37:14.090 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 19:37:14.090 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 19:37:14.090 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 19:37:14.090 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 19:37:14.090 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 19:37:14.091 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 19:37:39.822 Game saved successfully (savegame1).
+2025-10-28 19:40:26.239 data/objects/bigBagPallet/bigBagPallet.i3d (4.25 ms)
+2025-10-28 19:40:45.397 data/objects/bigBagPallet/bigBagPallet.i3d (4.59 ms)
+2025-10-28 19:41:23.832 Piotrek lost connection to the game
+2025-10-28 19:42:14.690 M@rcin lost connection to the game
+2025-10-28 19:42:21.844 siejA joined the game
+2025-10-28 19:42:21.865 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 19:42:21.865 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 19:42:21.975 dataS/character/playerM/fullBody/strauss/motion2020PantsVariant2ndVariant.i3d (113.93 ms)
+2025-10-28 19:42:21.996 dataS/character/playerM/facialHair/mHead01/goatee01.i3d (19.65 ms)
+2025-10-28 19:42:53.236 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 19:42:53.236 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 19:42:53.237 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 19:42:53.237 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 19:42:53.237 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 19:42:53.237 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 19:44:30.216 zone left the game
+2025-10-28 19:45:54.686 zone joined the game
+2025-10-28 19:45:54.708 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 19:45:54.708 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 19:45:54.718 dataS/character/playerM/heads/mHead02.i3d (14.89 ms)
+2025-10-28 19:45:54.815 dataS/character/playerM/jacket/caseIH/caseIHTop.i3d (97.60 ms)
+2025-10-28 19:45:54.822 dataS/character/playerM/attachments/caseIHhat.i3d (6.82 ms)
+2025-10-28 19:45:54.837 dataS/character/playerM/facialHair/mHead02/fullBeard.i3d (15.21 ms)
+2025-10-28 19:46:49.457 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 19:46:49.457 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 19:46:49.457 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 19:46:49.457 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 19:46:49.458 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 19:46:49.458 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 19:47:40.796 zwierek joined the game
+2025-10-28 19:47:40.825 dataS/character/playerM/pants/botJeanShorts.i3d (17.06 ms)
+2025-10-28 19:47:40.827 dataS/character/playerM/attachments/glassesAviators.i3d (1.67 ms)
+2025-10-28 19:47:40.829 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 19:47:40.829 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 19:47:40.830 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 19:47:40.830 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 19:47:40.921 dataS/character/playerM/shoes/sandalM03.i3d (93.77 ms)
+2025-10-28 19:47:40.953 dataS/character/playerM/hairStyles/hairStyleBaldTop.i3d (31.99 ms)
+2025-10-28 19:47:40.962 dataS/character/playerM/facialHair/mHead01/walrusXL.i3d (9.24 ms)
+2025-10-28 19:48:01.120 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 19:48:01.120 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 19:48:01.121 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 19:48:01.121 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 19:48:01.121 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 19:48:01.121 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 19:48:01.121 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 19:48:01.121 FS25_UnloadBalesEarly: Done sending new settings
