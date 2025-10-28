@@ -6170,3 +6170,22 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-10-29 00:09:07.407   Info: [Easy Development Controls] User Jolero has logged in as master user.
 2025-10-29 00:11:39.919   Info: Operating time of Mercedes-Benz Trucks MB-trac 900 optimized changed to 13.8 h.
 2025-10-29 00:12:08.987 Jolero left the game
+2025-10-29 00:26:31.953 Jolero joined the game
+2025-10-29 00:26:31.968 dataS/character/playerM/shirts/topTShirt01.i3d (2.31 ms)
+2025-10-29 00:26:31.986 FS25_UnloadBalesEarly: Sending new settings
+2025-10-29 00:26:31.986 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-29 00:26:31.987 FS25_UnloadBalesEarly: Sending new settings
+2025-10-29 00:26:31.987 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-29 00:26:32.003 dataS/character/playerM/hairStyles/hairStyleTopKnot.i3d (34.65 ms)
+2025-10-29 00:26:32.022 dataS/character/playerM/facialHair/mHead01/goatee01.i3d (19.48 ms)
+2025-10-29 00:26:47.893 FS25_UnloadBalesEarly: Sending new settings
+2025-10-29 00:26:47.894 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-29 00:26:47.894 FS25_UnloadBalesEarly: Sending new settings
+2025-10-29 00:26:47.894 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-29 00:26:47.894 FS25_UnloadBalesEarly: Sending new settings
+2025-10-29 00:26:47.894 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-29 00:26:47.895 FS25_UnloadBalesEarly: Sending new settings
+2025-10-29 00:26:47.895 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-29 00:27:39.267   Info: [Easy Development Controls] User Jolero has logged in as master user.
+2025-10-29 00:30:35.244 Warning: Send called with unknown target address.
+2025-10-29 00:30:35.253 Jolero left the game
