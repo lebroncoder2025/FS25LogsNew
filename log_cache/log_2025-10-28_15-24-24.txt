@@ -5139,3 +5139,156 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-10-28 15:29:52.583 data/objects/pallets/liquidTank/liquidTank.i3d (3.52 ms)
 2025-10-28 15:29:52.587 data/objects/bigBagPallet/bigBagPallet.i3d (4.39 ms)
 2025-10-28 15:29:52.593 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_lsfmBigBagPack/objects/bigBag/bigBag.i3d (5.60 ms)
+2025-10-28 15:55:57.160 Game saved successfully (savegame1).
+2025-10-28 15:57:54.648 zwierek joined the game
+2025-10-28 15:57:54.863 dataS/character/playerM/pants/botJeanShorts.i3d (17.26 ms)
+2025-10-28 15:57:54.865 dataS/character/playerM/attachments/glassesAviators.i3d (1.60 ms)
+2025-10-28 15:57:54.960 dataS/character/playerM/shoes/sandalM03.i3d (93.83 ms)
+2025-10-28 15:57:54.992 dataS/character/playerM/hairStyles/hairStyleBaldTop.i3d (32.15 ms)
+2025-10-28 15:57:55.001 dataS/character/playerM/facialHair/mHead01/walrusXL.i3d (9.28 ms)
+2025-10-28 15:58:53.527 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 15:58:53.527 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 15:58:53.528 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 15:58:53.528 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 16:02:24.803 zwierek lost connection to the game
+2025-10-28 16:03:09.418 zwierek joined the game
+2025-10-28 16:03:09.635 dataS/character/playerM/pants/botJeanShorts.i3d (17.14 ms)
+2025-10-28 16:03:09.636 dataS/character/playerM/attachments/glassesAviators.i3d (1.49 ms)
+2025-10-28 16:03:09.730 dataS/character/playerM/shoes/sandalM03.i3d (93.98 ms)
+2025-10-28 16:03:09.762 dataS/character/playerM/hairStyles/hairStyleBaldTop.i3d (32.07 ms)
+2025-10-28 16:03:09.771 dataS/character/playerM/facialHair/mHead01/walrusXL.i3d (9.08 ms)
+2025-10-28 16:03:28.113 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 16:03:28.113 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 16:03:28.114 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 16:03:28.114 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 16:05:27.290 zwierek left the game
+2025-10-28 16:16:28.693 zwierek joined the game
+2025-10-28 16:16:28.910 dataS/character/playerM/pants/botJeanShorts.i3d (17.10 ms)
+2025-10-28 16:16:28.911 dataS/character/playerM/attachments/glassesAviators.i3d (1.48 ms)
+2025-10-28 16:16:29.005 dataS/character/playerM/shoes/sandalM03.i3d (93.93 ms)
+2025-10-28 16:16:29.037 dataS/character/playerM/hairStyles/hairStyleBaldTop.i3d (31.94 ms)
+2025-10-28 16:16:29.046 dataS/character/playerM/facialHair/mHead01/walrusXL.i3d (9.22 ms)
+2025-10-28 16:17:18.928 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 16:17:18.928 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 16:17:18.929 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 16:17:18.929 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 16:18:07.079 szagh joined the game
+2025-10-28 16:18:07.101 dataS/character/playerM/shirts/topTShirt01.i3d (2.54 ms)
+2025-10-28 16:18:07.103 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 16:18:07.103 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 16:18:07.106 dataS/character/playerM/attachments/headgearBeanie.i3d (4.47 ms)
+2025-10-28 16:18:07.107 dataS/character/playerM/attachments/glassesSports01.i3d (1.53 ms)
+2025-10-28 16:18:07.123 dataS/character/playerM/facialHair/mHead01/muttonChops03.i3d (16.06 ms)
+2025-10-28 16:18:29.583 Piotrek joined the game
+2025-10-28 16:18:29.618 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 16:18:29.618 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 16:18:29.650 dataS/character/playerM/shirts/topTankTop.i3d (49.73 ms)
+2025-10-28 16:18:29.655 dataS/character/playerM/gloves/glovesGeneric.i3d (5.08 ms)
+2025-10-28 16:18:29.666 dataS/character/playerM/attachments/headgearCowboy.i3d (10.86 ms)
+2025-10-28 16:18:29.726 dataS/character/playerM/shoes/sandalM02.i3d (1.34 ms)
+2025-10-28 16:18:35.710 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 16:18:35.710 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 16:18:35.711 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 16:18:35.711 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 16:18:35.711 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 16:18:35.711 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 16:18:35.711 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 16:18:35.711 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 16:18:41.347 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 16:18:41.347 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 16:18:41.348 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 16:18:41.348 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 16:18:41.348 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 16:18:41.348 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 16:18:41.348 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 16:18:41.348 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 16:18:50.983 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_exhaustExtension/particles/smokeParticles.i3d (13.54 ms)
+2025-10-28 16:18:50.983 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_exhaustExtension/particles/smokeEmitterShape.i3d (0.13 ms)
+2025-10-28 16:18:50.983   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'CLAAS MEGA 218'
+2025-10-28 16:19:24.832 Jolero joined the game
+2025-10-28 16:19:24.863 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 16:19:24.863 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 16:19:24.865 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 16:19:24.865 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 16:19:24.866 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 16:19:24.866 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 16:19:24.880 dataS/character/playerM/hairStyles/hairStyleTopKnot.i3d (35.01 ms)
+2025-10-28 16:19:24.900 dataS/character/playerM/facialHair/mHead01/goatee01.i3d (19.71 ms)
+2025-10-28 16:19:35.204   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'FMŻ BIZON REKORD'
+2025-10-28 16:19:45.091 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 16:19:45.091 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 16:19:45.092 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 16:19:45.092 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 16:19:45.092 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 16:19:45.092 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 16:19:45.092 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 16:19:45.092 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 16:19:45.092 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 16:19:45.092 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 16:19:50.800 045 Polskinoob joined the game
+2025-10-28 16:19:50.835 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 16:19:50.835 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 16:19:50.836 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 16:19:50.836 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 16:19:50.837 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 16:19:50.837 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 16:19:50.839 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 16:19:50.839 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 16:19:50.918 dataS/character/playerM/pants/strauss/motionPants.i3d (103.91 ms)
+2025-10-28 16:19:50.941 dataS/character/playerM/heads/mHead02.i3d (15.81 ms)
+2025-10-28 16:19:50.953 dataS/character/playerM/shirts/ero/eroSweater.i3d (12.42 ms)
+2025-10-28 16:19:50.995 dataS/character/playerM/gloves/glovesMechanic.i3d (5.36 ms)
+2025-10-28 16:19:51.008 dataS/character/playerM/attachments/headgearMotorbike.i3d (13.64 ms)
+2025-10-28 16:19:51.120 dataS/character/playerM/shoes/newHolland/newHolland01.i3d (25.32 ms)
+2025-10-28 16:20:15.982 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 16:20:15.982 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 16:20:15.982 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 16:20:15.982 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 16:20:15.982 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 16:20:15.982 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 16:20:15.983 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 16:20:15.983 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 16:20:15.983 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 16:20:15.983 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 16:20:15.983 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 16:20:15.983 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 16:21:20.939   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Volvo F16 500'
+2025-10-28 16:21:37.377   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'BELARUS 82'
+2025-10-28 16:22:56.844 Piotrek lost connection to the game
+2025-10-28 16:23:11.543 data/placeables/brandless/animalHusbandries/doghouse/doghouse.i3d (3.46 ms)
+2025-10-28 16:23:11.564 data/placeables/brandless/animalHusbandries/doghouse/dogball.i3d (1.18 ms)
+2025-10-28 16:23:11.667 dataS/character/animals/domesticated/dog/labradorRetriever/labradorRetriever.i3d (104.99 ms)
+2025-10-28 16:23:14.299 Jolero lost connection to the game
+2025-10-28 16:23:31.593 Piotrek joined the game
+2025-10-28 16:23:31.618 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 16:23:31.619 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 16:23:31.620 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 16:23:31.620 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 16:23:31.621 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 16:23:31.621 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 16:23:31.659 dataS/character/playerM/shirts/topTankTop.i3d (50.15 ms)
+2025-10-28 16:23:31.664 dataS/character/playerM/gloves/glovesGeneric.i3d (5.15 ms)
+2025-10-28 16:23:31.728 dataS/character/playerM/attachments/headgearCowboy.i3d (10.99 ms)
+2025-10-28 16:23:31.729 dataS/character/playerM/shoes/sandalM02.i3d (1.12 ms)
+2025-10-28 16:23:43.655 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 16:23:43.655 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 16:23:43.656 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 16:23:43.656 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 16:23:43.656 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 16:23:43.656 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 16:23:43.656 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 16:23:43.656 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 16:23:43.656 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 16:23:43.656 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 16:24:28.108   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Zetor 10145 Fast transmission'
+2025-10-28 16:25:46.969 Jolero joined the game
+2025-10-28 16:25:47.007 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 16:25:47.007 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 16:25:47.009 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 16:25:47.009 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 16:25:47.009 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 16:25:47.009 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 16:25:47.010 FS25_UnloadBalesEarly: Sending new settings
+2025-10-28 16:25:47.010 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-28 16:25:47.019 dataS/character/playerM/hairStyles/hairStyleTopKnot.i3d (35.53 ms)
+2025-10-28 16:25:47.073 dataS/character/playerM/facialHair/mHead01/goatee01.i3d (20.29 ms)
