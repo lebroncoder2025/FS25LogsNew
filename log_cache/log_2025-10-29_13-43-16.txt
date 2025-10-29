@@ -5224,3 +5224,48 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-10-29 14:58:59.708 data/objects/bigBag/bigBag.i3d (5.70 ms)
 2025-10-29 14:59:06.009 data/objects/bigBag/bigBag.i3d (5.89 ms)
 2025-10-29 15:14:39.770 Game saved successfully (savegame1).
+2025-10-29 15:30:42.610 siejA joined the game
+2025-10-29 15:30:42.636 FS25_UnloadBalesEarly: Sending new settings
+2025-10-29 15:30:42.636 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-29 15:30:42.638 FS25_UnloadBalesEarly: Sending new settings
+2025-10-29 15:30:42.638 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-29 15:30:42.639 FS25_UnloadBalesEarly: Sending new settings
+2025-10-29 15:30:42.639 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-29 15:30:42.741 dataS/character/playerM/fullBody/strauss/motion2020PantsVariant2ndVariant.i3d (114.22 ms)
+2025-10-29 15:30:42.777 dataS/character/playerM/hairStyles/hairStyleFringe.i3d (36.07 ms)
+2025-10-29 15:31:11.479 FS25_UnloadBalesEarly: Sending new settings
+2025-10-29 15:31:11.479 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-29 15:31:11.480 FS25_UnloadBalesEarly: Sending new settings
+2025-10-29 15:31:11.480 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-29 15:31:11.480 FS25_UnloadBalesEarly: Sending new settings
+2025-10-29 15:31:11.480 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-29 15:31:11.480 FS25_UnloadBalesEarly: Sending new settings
+2025-10-29 15:31:11.480 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-29 15:31:11.480 FS25_UnloadBalesEarly: Sending new settings
+2025-10-29 15:31:11.480 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-29 15:32:00.822   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Case IH 160 CVX'
+2025-10-29 15:39:03.394 siwa joined the game
+2025-10-29 15:39:03.417 FS25_UnloadBalesEarly: Sending new settings
+2025-10-29 15:39:03.417 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-29 15:39:03.419 FS25_UnloadBalesEarly: Sending new settings
+2025-10-29 15:39:03.419 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-29 15:39:03.420 FS25_UnloadBalesEarly: Sending new settings
+2025-10-29 15:39:03.420 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-29 15:39:03.421 FS25_UnloadBalesEarly: Sending new settings
+2025-10-29 15:39:03.421 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-29 15:39:40.203 data/objects/bigBagPallet/bigBagPallet.i3d (5.17 ms)
+2025-10-29 15:39:41.371 data/objects/bigBagPallet/bigBagPallet.i3d (5.55 ms)
+2025-10-29 15:39:45.373 FS25_UnloadBalesEarly: Sending new settings
+2025-10-29 15:39:45.373 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-29 15:39:45.374 FS25_UnloadBalesEarly: Sending new settings
+2025-10-29 15:39:45.374 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-29 15:39:45.374 FS25_UnloadBalesEarly: Sending new settings
+2025-10-29 15:39:45.374 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-29 15:39:45.374 FS25_UnloadBalesEarly: Sending new settings
+2025-10-29 15:39:45.374 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-29 15:39:45.374 FS25_UnloadBalesEarly: Sending new settings
+2025-10-29 15:39:45.374 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-29 15:39:45.375 FS25_UnloadBalesEarly: Sending new settings
+2025-10-29 15:39:45.375 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-29 15:42:08.250 data/objects/bigBagPallet/bigBagPallet.i3d (4.20 ms)
+2025-10-29 15:43:08.458 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_rosensteinerSamurai200/rosensteinerSamurai200.i3d (51.66 ms)
