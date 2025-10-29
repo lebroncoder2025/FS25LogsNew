@@ -5445,3 +5445,7 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-10-29 21:22:53.619 dataS/character/playerF/shoes/sportSneaker.i3d (96.28 ms)
 2025-10-29 21:22:53.654 dataS/character/playerF/hairStyles/hairStyleLongSideParted.i3d (35.54 ms)
 2025-10-29 21:25:47.355 M@rcin lost connection to the game
+2025-10-29 21:26:58.144 data/objects/pallets/liquidTank/liquidTank.i3d (4.15 ms)
+2025-10-29 21:26:58.267 data/objects/bigBagPallet/bigBagPallet.i3d (5.24 ms)
+2025-10-29 21:29:48.618 data/objects/bigBag/bigBag.i3d (6.24 ms)
+2025-10-29 21:38:48.266 Game saved successfully (savegame1).
