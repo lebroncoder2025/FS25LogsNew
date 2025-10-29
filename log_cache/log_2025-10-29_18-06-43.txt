@@ -5466,3 +5466,28 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-10-29 22:13:30.768 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_mrhHandLiftableConsumables/barrelPlastic/barrelPlastic.i3d (17.87 ms)
 2025-10-29 22:19:09.660 Figuana lost connection to the game
 2025-10-29 22:32:48.443   Info: No 'ExhaustExtension' particle system added to vehicle 'Lizard Pallet Truck' because it has no exhaust
+2025-10-29 22:38:56.600 Game saved successfully (savegame1).
+2025-10-29 22:39:09.352 symonixprime serwerkaput joined the game
+2025-10-29 22:39:09.373 FS25_UnloadBalesEarly: Sending new settings
+2025-10-29 22:39:09.373 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-29 22:39:09.374 FS25_UnloadBalesEarly: Sending new settings
+2025-10-29 22:39:09.375 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-29 22:39:09.375 FS25_UnloadBalesEarly: Sending new settings
+2025-10-29 22:39:09.375 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-29 22:39:09.519 dataS/character/playerM/pants/poettinger/poettingerShort.i3d (149.97 ms)
+2025-10-29 22:39:09.614 dataS/character/playerM/shirts/topTShirt02.i3d (95.16 ms)
+2025-10-29 22:39:09.708 dataS/character/playerM/shoes/sandalM02.i3d (93.37 ms)
+2025-10-29 22:39:09.743 dataS/character/playerM/hairStyles/hairStyleTopKnot.i3d (35.34 ms)
+2025-10-29 22:40:10.950 zone left the game
+2025-10-29 22:40:36.589 FS25_UnloadBalesEarly: Sending new settings
+2025-10-29 22:40:36.589 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-29 22:40:36.590 FS25_UnloadBalesEarly: Sending new settings
+2025-10-29 22:40:36.590 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-29 22:40:36.590 FS25_UnloadBalesEarly: Sending new settings
+2025-10-29 22:40:36.590 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-29 22:40:36.590 FS25_UnloadBalesEarly: Sending new settings
+2025-10-29 22:40:36.590 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-29 22:42:50.246   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'STEYR 8130 Super Elite'
+2025-10-29 22:49:23.161 siejA lost connection to the game
+2025-10-29 23:06:11.037 symonixprime serwerkaput lost connection to the game
+2025-10-29 23:08:57.883 Game saved successfully (savegame1).
