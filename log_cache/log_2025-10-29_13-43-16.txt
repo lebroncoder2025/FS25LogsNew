@@ -5458,3 +5458,12 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-10-29 17:20:57.510 FS25_UnloadBalesEarly: Done sending new settings
 2025-10-29 17:21:29.981   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Ursus C-385A Fast transmission'
 2025-10-29 17:24:04.362   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Massey Ferguson 310'
+2025-10-29 17:32:00.599   Info: No 'ExhaustExtension' particle system added to vehicle 'Lizard Pallet Truck' because it has no exhaust
+2025-10-29 17:44:50.693 Game saved successfully (savegame1).
+2025-10-29 17:44:55.765 zone lost connection to the game
+2025-10-29 17:45:41.003 Warning: Send called with unknown target address.
+2025-10-29 17:45:41.009 Piotrek left the game
+2025-10-29 17:45:52.310 Warning: Send called with unknown target address.
+2025-10-29 17:45:52.318 siejA left the game
+2025-10-29 17:47:13.884 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_AgrometT050_1/T050.i3d (370.85 ms)
+2025-10-29 17:47:14.170 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_AgrometT050_1/WOM/pto.i3d (6.66 ms)
