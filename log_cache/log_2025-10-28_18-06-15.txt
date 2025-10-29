@@ -6501,3 +6501,119 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-10-29 11:39:02.904 FS25_UnloadBalesEarly: Sending new settings
 2025-10-29 11:39:02.904 FS25_UnloadBalesEarly: Done sending new settings
 2025-10-29 11:41:14.945 Game saved successfully (savegame1).
+2025-10-29 11:47:35.957 Jolero joined the game
+2025-10-29 11:47:35.971 dataS/character/playerM/shirts/topTShirt01.i3d (2.30 ms)
+2025-10-29 11:47:35.989 FS25_UnloadBalesEarly: Sending new settings
+2025-10-29 11:47:35.989 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-29 11:47:36.005 dataS/character/playerM/hairStyles/hairStyleTopKnot.i3d (34.19 ms)
+2025-10-29 11:47:36.025 dataS/character/playerM/facialHair/mHead01/goatee01.i3d (19.31 ms)
+2025-10-29 11:47:51.374 FS25_UnloadBalesEarly: Sending new settings
+2025-10-29 11:47:51.374 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-29 11:47:51.375 FS25_UnloadBalesEarly: Sending new settings
+2025-10-29 11:47:51.375 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-29 11:47:51.375 FS25_UnloadBalesEarly: Sending new settings
+2025-10-29 11:47:51.375 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-29 11:48:38.892   Info: [Easy Development Controls] User Jolero has logged in as master user.
+2025-10-29 11:49:02.612 symonixprime serwerkaput joined the game
+2025-10-29 11:49:02.633 FS25_UnloadBalesEarly: Sending new settings
+2025-10-29 11:49:02.633 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-29 11:49:02.634 FS25_UnloadBalesEarly: Sending new settings
+2025-10-29 11:49:02.634 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-29 11:49:02.773 dataS/character/playerM/pants/poettinger/poettingerShort.i3d (144.98 ms)
+2025-10-29 11:49:02.787 dataS/character/playerM/heads/mHead02.i3d (14.15 ms)
+2025-10-29 11:49:02.881 dataS/character/playerM/shirts/topTShirt02.i3d (94.32 ms)
+2025-10-29 11:49:02.882 dataS/character/playerM/shoes/sandalM02.i3d (1.05 ms)
+2025-10-29 11:49:02.898 dataS/character/playerM/facialHair/mHead02/fullBeard.i3d (15.04 ms)
+2025-10-29 11:50:03.247   Info: Successfully emptied fill unit 1 of Lizard ZJV-F-3.0.
+2025-10-29 11:50:23.654   Info: Moved 2 vehicles to coordinates 919, 878 successfully.
+2025-10-29 11:50:28.275 FS25_UnloadBalesEarly: Sending new settings
+2025-10-29 11:50:28.275 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-29 11:50:28.275 FS25_UnloadBalesEarly: Sending new settings
+2025-10-29 11:50:28.275 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-29 11:50:28.275 FS25_UnloadBalesEarly: Sending new settings
+2025-10-29 11:50:28.275 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-29 11:50:28.275 FS25_UnloadBalesEarly: Sending new settings
+2025-10-29 11:50:28.275 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-29 11:50:52.976   Info: Savegame Setting 'economicDifficulty': NORMAL
+2025-10-29 11:50:57.721   Info: Savegame Setting 'economicDifficulty': EASY
+2025-10-29 11:51:01.852   Info: Savegame Setting 'economicDifficulty': NORMAL
+2025-10-29 11:51:01.994   Info: Savegame Setting 'economicDifficulty': HARD
+2025-10-29 11:51:07.873   Info: Moved 2 vehicles to coordinates 631, 797 successfully.
+2025-10-29 11:51:29.441   Info: Moved 2 vehicles to coordinates 917, 915 successfully.
+2025-10-29 11:51:37.775   Info: Savegame Setting 'economicDifficulty': NORMAL
+2025-10-29 11:51:37.934   Info: Savegame Setting 'economicDifficulty': EASY
+2025-10-29 11:51:48.706   Info: Savegame Setting 'economicDifficulty': NORMAL
+2025-10-29 11:51:48.866   Info: Savegame Setting 'economicDifficulty': HARD
+2025-10-29 11:51:54.765   Info: Moved 2 vehicles to coordinates 639, 807 successfully.
+2025-10-29 11:52:13.572   Info: Moved 2 vehicles to coordinates 907, 921 successfully.
+2025-10-29 11:52:29.631   Info: Successfully set fill unit 1 of Lizard ZJV-F-3.0 to Buffalo Milk with a fill level of 3,000 liters.
+2025-10-29 11:52:38.032   Info: Successfully set fill unit 1 of Lizard ZJV-F-3.0 to Buffalo Milk with a fill level of 3,000 liters.
+2025-10-29 11:54:08.407   Info: Successfully set fill unit 1 of Lizard ZJV-F-3.0 to Buffalo Milk with a fill level of 3,000 liters.
+2025-10-29 11:54:41.559 symonixprime serwerkaput left the game
+2025-10-29 11:55:41.146   Info: Savegame Setting 'economicDifficulty': NORMAL
+2025-10-29 11:55:41.323   Info: Savegame Setting 'economicDifficulty': EASY
+2025-10-29 11:55:49.210 symonixprime serwerkaput joined the game
+2025-10-29 11:55:49.245 FS25_UnloadBalesEarly: Sending new settings
+2025-10-29 11:55:49.245 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-29 11:55:49.246 FS25_UnloadBalesEarly: Sending new settings
+2025-10-29 11:55:49.246 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-29 11:55:49.368 dataS/character/playerM/pants/poettinger/poettingerShort.i3d (145.50 ms)
+2025-10-29 11:55:49.382 dataS/character/playerM/heads/mHead02.i3d (14.50 ms)
+2025-10-29 11:55:49.477 dataS/character/playerM/shirts/topTShirt02.i3d (94.71 ms)
+2025-10-29 11:55:49.478 dataS/character/playerM/shoes/sandalM02.i3d (1.08 ms)
+2025-10-29 11:55:49.493 dataS/character/playerM/facialHair/mHead02/fullBeard.i3d (15.18 ms)
+2025-10-29 11:55:52.457   Info: Savegame Setting 'economicDifficulty': NORMAL
+2025-10-29 11:55:52.618   Info: Savegame Setting 'economicDifficulty': HARD
+2025-10-29 11:56:34.775 FS25_UnloadBalesEarly: Sending new settings
+2025-10-29 11:56:34.775 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-29 11:56:34.776 FS25_UnloadBalesEarly: Sending new settings
+2025-10-29 11:56:34.776 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-29 11:56:34.776 FS25_UnloadBalesEarly: Sending new settings
+2025-10-29 11:56:34.776 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-29 11:56:34.776 FS25_UnloadBalesEarly: Sending new settings
+2025-10-29 11:56:34.776 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-29 11:57:56.736   Info: Successfully added 'ExhaustExtension' particle system to 2 nodes of vehicle '601S Trabant original'
+2025-10-29 12:06:39.983 Piotrek joined the game
+2025-10-29 12:06:40.018 FS25_UnloadBalesEarly: Sending new settings
+2025-10-29 12:06:40.018 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-29 12:06:40.019 FS25_UnloadBalesEarly: Sending new settings
+2025-10-29 12:06:40.019 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-29 12:06:40.020 FS25_UnloadBalesEarly: Sending new settings
+2025-10-29 12:06:40.020 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-29 12:06:40.045 dataS/character/playerM/shirts/topTankTop.i3d (49.89 ms)
+2025-10-29 12:06:40.050 dataS/character/playerM/gloves/glovesGeneric.i3d (4.97 ms)
+2025-10-29 12:06:40.061 dataS/character/playerM/attachments/headgearCowboy.i3d (10.69 ms)
+2025-10-29 12:06:52.639 FS25_UnloadBalesEarly: Sending new settings
+2025-10-29 12:06:52.639 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-29 12:06:52.639 FS25_UnloadBalesEarly: Sending new settings
+2025-10-29 12:06:52.639 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-29 12:06:52.639 FS25_UnloadBalesEarly: Sending new settings
+2025-10-29 12:06:52.639 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-29 12:06:52.640 FS25_UnloadBalesEarly: Sending new settings
+2025-10-29 12:06:52.640 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-29 12:06:52.640 FS25_UnloadBalesEarly: Sending new settings
+2025-10-29 12:06:52.640 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-29 12:11:16.113 Game saved successfully (savegame1).
+2025-10-29 12:14:55.947 Warning: Send called with unknown target address.
+2025-10-29 12:14:55.953 Piotrek left the game
+2025-10-29 12:15:30.311 Piotrek joined the game
+2025-10-29 12:15:30.336 FS25_UnloadBalesEarly: Sending new settings
+2025-10-29 12:15:30.336 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-29 12:15:30.338 FS25_UnloadBalesEarly: Sending new settings
+2025-10-29 12:15:30.338 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-29 12:15:30.339 FS25_UnloadBalesEarly: Sending new settings
+2025-10-29 12:15:30.339 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-29 12:15:30.375 dataS/character/playerM/shirts/topTankTop.i3d (49.98 ms)
+2025-10-29 12:15:30.380 dataS/character/playerM/gloves/glovesGeneric.i3d (4.93 ms)
+2025-10-29 12:15:30.391 dataS/character/playerM/attachments/headgearCowboy.i3d (10.75 ms)
+2025-10-29 12:15:48.989 FS25_UnloadBalesEarly: Sending new settings
+2025-10-29 12:15:48.989 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-29 12:15:48.990 FS25_UnloadBalesEarly: Sending new settings
+2025-10-29 12:15:48.990 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-29 12:15:48.990 FS25_UnloadBalesEarly: Sending new settings
+2025-10-29 12:15:48.990 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-29 12:15:48.990 FS25_UnloadBalesEarly: Sending new settings
+2025-10-29 12:15:48.990 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-29 12:15:48.990 FS25_UnloadBalesEarly: Sending new settings
+2025-10-29 12:15:48.990 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-29 12:16:51.542   Info: Successfully set fill unit 1 of Metaltech DBL to Sorghum with a fill level of 17,500 liters.
