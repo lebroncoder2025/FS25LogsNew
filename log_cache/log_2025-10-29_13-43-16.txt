@@ -5467,3 +5467,11 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-10-29 17:45:52.318 siejA left the game
 2025-10-29 17:47:13.884 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_AgrometT050_1/T050.i3d (370.85 ms)
 2025-10-29 17:47:14.170 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_AgrometT050_1/WOM/pto.i3d (6.66 ms)
+2025-10-29 17:49:17.636   Info: Moved player to coordinates 631, 797 successfully.
+2025-10-29 17:56:11.335   Info: Moved 2 vehicles to coordinates 973, 1232 successfully.
+2025-10-29 18:03:55.716 zwierek lost connection to the game
+2025-10-29 18:05:52.260 Game saved successfully (savegame1).
+2025-10-29 18:05:55.370 Warning: Saving while already saving
+2025-10-29 18:05:57.155 Game saved successfully (savegame1).
+2025-10-29 18:05:57.438 Jolero left the game
+2025-10-29 18:06:21.746 Figuana left the game
