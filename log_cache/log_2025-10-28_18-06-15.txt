@@ -6285,3 +6285,33 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-10-29 05:39:58.740 Game saved successfully (savegame1).
 2025-10-29 06:10:06.174 Game saved successfully (savegame1).
 2025-10-29 06:40:15.298 Game saved successfully (savegame1).
+2025-10-29 06:59:45.344 siejA joined the game
+2025-10-29 06:59:45.681 dataS/character/playerM/fullBody/strauss/motion2020PantsVariant2ndVariant.i3d (137.80 ms)
+2025-10-29 06:59:45.723 dataS/character/playerM/hairStyles/hairStyleFringe.i3d (42.38 ms)
+2025-10-29 06:59:45.744 dataS/character/playerM/facialHair/mHead01/goatee01.i3d (21.00 ms)
+2025-10-29 07:00:14.703 FS25_UnloadBalesEarly: Sending new settings
+2025-10-29 07:00:14.703 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-29 07:00:14.704 FS25_UnloadBalesEarly: Sending new settings
+2025-10-29 07:00:14.704 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-29 07:02:56.137 data/objects/bigBagPallet/bigBagPallet.i3d (3.95 ms)
+2025-10-29 07:03:08.436 data/objects/bigBagPallet/bigBagPallet.i3d (4.04 ms)
+2025-10-29 07:03:41.419 data/objects/bigBagPallet/bigBagPallet.i3d (3.83 ms)
+2025-10-29 07:03:42.948 data/objects/bigBagPallet/bigBagPallet.i3d (3.86 ms)
+2025-10-29 07:04:12.085 data/objects/bigBagPallet/bigBagPallet.i3d (4.32 ms)
+2025-10-29 07:04:38.557 data/objects/bigBagPallet/bigBagPallet.i3d (3.98 ms)
+2025-10-29 07:10:15.658 Game saved successfully (savegame1).
+2025-10-29 07:10:25.265 M@rcin joined the game
+2025-10-29 07:10:25.297 FS25_UnloadBalesEarly: Sending new settings
+2025-10-29 07:10:25.297 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-29 07:10:25.305 dataS/character/playerM/jacket/topAviatorJacket.i3d (27.08 ms)
+2025-10-29 07:10:25.307 dataS/character/playerM/attachments/glassesAviators.i3d (1.55 ms)
+2025-10-29 07:10:25.347 dataS/character/playerM/hairStyles/hairStyleDiablo.i3d (40.29 ms)
+2025-10-29 07:10:25.349 dataS/character/playerM/facialHair/mHead01/beardStubble.i3d (1.45 ms)
+2025-10-29 07:11:20.583 FS25_UnloadBalesEarly: Sending new settings
+2025-10-29 07:11:20.583 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-29 07:11:20.584 FS25_UnloadBalesEarly: Sending new settings
+2025-10-29 07:11:20.584 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-29 07:11:20.585 FS25_UnloadBalesEarly: Sending new settings
+2025-10-29 07:11:20.585 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-29 07:16:40.222 siejA lost connection to the game
+2025-10-29 07:25:23.935 M@rcin lost connection to the game
