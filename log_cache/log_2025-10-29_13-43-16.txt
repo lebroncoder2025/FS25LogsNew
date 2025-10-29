@@ -5175,3 +5175,8 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-10-29 13:47:26.280   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'CLAAS MEGA 218'
 2025-10-29 13:47:36.036   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'FMŻ BIZON REKORD'
 2025-10-29 13:48:19.112   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Case IH 160 CVX'
+2025-10-29 13:50:47.515   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Zetor 10145 Fast transmission'
+2025-10-29 13:50:48.294   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Ursus C-385A Fast transmission'
+2025-10-29 13:51:04.453   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'New Holland 8340'
+2025-10-29 13:53:07.232 data/objects/bigBag/bigBag.i3d (6.23 ms)
+2025-10-29 13:53:54.191 data/objects/bigBag/bigBag.i3d (5.90 ms)
