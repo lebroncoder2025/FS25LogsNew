@@ -6620,3 +6620,72 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-10-29 12:20:33.839 Warning: Send called with unknown target address.
 2025-10-29 12:20:33.846 Jolero left the game
 2025-10-29 12:20:35.066 Game saved successfully (savegame1).
+2025-10-29 12:36:15.161   Info: No 'ExhaustExtension' particle system added to vehicle 'Kärcher HDS 9/18-4 M' because it has no exhaust
+2025-10-29 12:38:15.127 symonixprime serwerkaput lost connection to the game
+2025-10-29 12:41:16.868 Game saved successfully (savegame1).
+2025-10-29 12:42:36.752 Piotrek left the game
+2025-10-29 12:43:07.762 Piotrek joined the game
+2025-10-29 12:43:07.794 FS25_UnloadBalesEarly: Sending new settings
+2025-10-29 12:43:07.794 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-29 12:43:07.824 dataS/character/playerM/shirts/topTankTop.i3d (50.02 ms)
+2025-10-29 12:43:07.829 dataS/character/playerM/gloves/glovesGeneric.i3d (4.99 ms)
+2025-10-29 12:43:07.840 dataS/character/playerM/attachments/headgearCowboy.i3d (10.61 ms)
+2025-10-29 12:43:07.841 dataS/character/playerM/shoes/sandalM02.i3d (1.09 ms)
+2025-10-29 12:43:26.166 FS25_UnloadBalesEarly: Sending new settings
+2025-10-29 12:43:26.166 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-29 12:43:26.167 FS25_UnloadBalesEarly: Sending new settings
+2025-10-29 12:43:26.167 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-29 12:43:26.167 FS25_UnloadBalesEarly: Sending new settings
+2025-10-29 12:43:26.167 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-29 13:00:58.743 data/shared/assets/reflectors/lizard/bigTriangle.i3d (1.55 ms)
+2025-10-29 13:00:58.744 data/shared/assets/reflectors/lizard/redTriangle_02.i3d (0.90 ms)
+2025-10-29 13:00:58.747 data/vehicles/dalbo/powerchain800/powerchain800.i3d (40.41 ms)
+2025-10-29 13:00:58.893 data/shared/wheels/tires/vredestein/flotationTrac/520_50R17.i3d (5.05 ms)
+2025-10-29 13:00:58.896 data/shared/wheels/tires/trelleborg/AW305/260_70R15_3.i3d (3.16 ms)
+2025-10-29 13:00:58.923 data/shared/assets/lights/lizard/sideMarker03.i3d (4.24 ms)
+2025-10-29 13:00:58.928 data/shared/assets/lights/lizard/rearLight26.i3d (5.26 ms)
+2025-10-29 13:11:17.955 Game saved successfully (savegame1).
+2025-10-29 13:17:46.097 Piotrek left the game
+2025-10-29 13:19:01.714 Piotrek joined the game
+2025-10-29 13:19:01.746 FS25_UnloadBalesEarly: Sending new settings
+2025-10-29 13:19:01.746 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-29 13:19:01.777 dataS/character/playerM/shirts/topTankTop.i3d (50.00 ms)
+2025-10-29 13:19:01.782 dataS/character/playerM/gloves/glovesGeneric.i3d (4.99 ms)
+2025-10-29 13:19:01.792 dataS/character/playerM/attachments/headgearCowboy.i3d (10.65 ms)
+2025-10-29 13:19:01.793 dataS/character/playerM/shoes/sandalM02.i3d (1.05 ms)
+2025-10-29 13:19:21.159 FS25_UnloadBalesEarly: Sending new settings
+2025-10-29 13:19:21.159 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-29 13:19:21.160 FS25_UnloadBalesEarly: Sending new settings
+2025-10-29 13:19:21.160 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-29 13:19:21.160 FS25_UnloadBalesEarly: Sending new settings
+2025-10-29 13:19:21.160 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-29 13:26:54.670 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Pomot_UPR10/UPR10.i3d (270.41 ms)
+2025-10-29 13:26:54.808 data/shared/wheels/tires/trelleborg/TwinRadial/600_50R22_5.i3d (5.78 ms)
+2025-10-29 13:26:54.838 data/shared/assets/lights/lizard/rearLight49.i3d (3.75 ms)
+2025-10-29 13:26:54.841 data/shared/assets/lights/lizard/sideMarker29.i3d (3.15 ms)
+2025-10-29 13:26:54.844 data/shared/assets/lights/hella/hellaWorkingLight06.i3d (2.66 ms)
+2025-10-29 13:29:48.702 data/objects/bigBag/bigBag.i3d (5.22 ms)
+2025-10-29 13:30:39.982 data/objects/bigBag/bigBag.i3d (5.08 ms)
+2025-10-29 13:38:06.994 data/objects/bigBag/bigBag.i3d (5.14 ms)
+2025-10-29 13:40:07.763 Jolero joined the game
+2025-10-29 13:40:07.779 dataS/character/playerM/shirts/topTShirt01.i3d (2.40 ms)
+2025-10-29 13:40:07.799 FS25_UnloadBalesEarly: Sending new settings
+2025-10-29 13:40:07.799 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-29 13:40:07.800 FS25_UnloadBalesEarly: Sending new settings
+2025-10-29 13:40:07.800 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-29 13:40:07.814 dataS/character/playerM/hairStyles/hairStyleTopKnot.i3d (34.82 ms)
+2025-10-29 13:40:07.833 dataS/character/playerM/facialHair/mHead01/goatee01.i3d (19.59 ms)
+2025-10-29 13:40:24.327 FS25_UnloadBalesEarly: Sending new settings
+2025-10-29 13:40:24.327 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-29 13:40:24.327 FS25_UnloadBalesEarly: Sending new settings
+2025-10-29 13:40:24.327 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-29 13:40:24.328 FS25_UnloadBalesEarly: Sending new settings
+2025-10-29 13:40:24.328 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-29 13:40:24.328 FS25_UnloadBalesEarly: Sending new settings
+2025-10-29 13:40:24.328 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-29 13:41:09.684   Info: [Easy Development Controls] User Jolero has logged in as master user.
+2025-10-29 13:41:19.054 Game saved successfully (savegame1).
+2025-10-29 13:42:22.876 Warning: Saving while already saving
+2025-10-29 13:42:24.040 Warning: Saving while already saving
+2025-10-29 13:42:24.638 Game saved successfully (savegame1).
+2025-10-29 13:42:28.385 Game saved successfully (savegame1).
