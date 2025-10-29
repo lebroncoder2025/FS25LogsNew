@@ -5465,3 +5465,4 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-10-29 22:13:30.699 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.62 ms)
 2025-10-29 22:13:30.768 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_mrhHandLiftableConsumables/barrelPlastic/barrelPlastic.i3d (17.87 ms)
 2025-10-29 22:19:09.660 Figuana lost connection to the game
+2025-10-29 22:32:48.443   Info: No 'ExhaustExtension' particle system added to vehicle 'Lizard Pallet Truck' because it has no exhaust
