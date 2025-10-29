@@ -5180,3 +5180,36 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-10-29 13:51:04.453   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'New Holland 8340'
 2025-10-29 13:53:07.232 data/objects/bigBag/bigBag.i3d (6.23 ms)
 2025-10-29 13:53:54.191 data/objects/bigBag/bigBag.i3d (5.90 ms)
+2025-10-29 14:08:30.949   Info: Adding bale.
+2025-10-29 14:08:37.139   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Fortschritt ZT 303-D'
+2025-10-29 14:09:14.847 data/objects/bigBag/bigBag.i3d (5.56 ms)
+2025-10-29 14:10:22.894   Info: Successfully set fill unit 1 of Lizard ZJV-F-3.0 to Water with a fill level of 3,000 liters.
+2025-10-29 14:10:34.153   Info: Successfully set fill unit 1 of Lizard ZJV-F-3.0 to Water with a fill level of 3,000 liters.
+2025-10-29 14:14:37.937 Game saved successfully (savegame1).
+2025-10-29 14:16:32.753 Jolero left the game
+2025-10-29 14:16:33.262 Game saved successfully (savegame1).
+2025-10-29 14:22:09.924 data/shared/wheels/tires/trelleborg/TM100/270_95R38.i3d (2.46 ms)
+2025-10-29 14:22:09.927 data/shared/wheels/tires/trelleborg/TM100/300_95R52.i3d (2.40 ms)
+2025-10-29 14:22:12.537   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Case IH 160 CVX'
+2025-10-29 14:24:43.320 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.69 ms)
+2025-10-29 14:24:43.378 data/objects/bigBagPallet/bigBagPallet.i3d (4.27 ms)
+2025-10-29 14:29:50.151 FTG 'D:/home/sid_8377223/farmingSim_2025/profile/savegame1/densityMap_weed.gdm' max needed CPU instances = 0.012451 MB / 3.445312 MB
+2025-10-29 14:32:10.497 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.60 ms)
+2025-10-29 14:32:35.448 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.61 ms)
+2025-10-29 14:33:27.499 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.60 ms)
+2025-10-29 14:34:01.547 Jolero joined the game
+2025-10-29 14:34:01.565 dataS/character/playerM/shirts/topTShirt01.i3d (2.30 ms)
+2025-10-29 14:34:01.568 FS25_UnloadBalesEarly: Sending new settings
+2025-10-29 14:34:01.568 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-29 14:34:01.569 FS25_UnloadBalesEarly: Sending new settings
+2025-10-29 14:34:01.569 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-29 14:34:01.600 dataS/character/playerM/hairStyles/hairStyleTopKnot.i3d (34.91 ms)
+2025-10-29 14:34:01.620 dataS/character/playerM/facialHair/mHead01/goatee01.i3d (19.81 ms)
+2025-10-29 14:34:22.435 FS25_UnloadBalesEarly: Sending new settings
+2025-10-29 14:34:22.435 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-29 14:34:22.436 FS25_UnloadBalesEarly: Sending new settings
+2025-10-29 14:34:22.436 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-29 14:34:22.436 FS25_UnloadBalesEarly: Sending new settings
+2025-10-29 14:34:22.436 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-29 14:34:22.436 FS25_UnloadBalesEarly: Sending new settings
+2025-10-29 14:34:22.436 FS25_UnloadBalesEarly: Done sending new settings
