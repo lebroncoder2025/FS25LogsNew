@@ -6332,3 +6332,11 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-10-29 09:42:55.412 FS25_UnloadBalesEarly: Done sending new settings
 2025-10-29 09:46:04.786 data/shared/wheels/tires/trelleborg/TM100/270_95R38.i3d (3.65 ms)
 2025-10-29 09:46:04.789 data/shared/wheels/tires/trelleborg/TM100/300_95R52.i3d (3.20 ms)
+2025-10-29 09:46:07.733   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Case IH 160 CVX'
+2025-10-29 09:53:25.456 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_CasePumaCVX_Tier3/wheels/rimFront.i3d (1.41 ms)
+2025-10-29 09:53:25.464 data/shared/wheels/tires/michelin/machXbib/600_70R28.i3d (8.46 ms)
+2025-10-29 09:53:25.468 data/shared/wheels/weights/weight001.i3d (3.88 ms)
+2025-10-29 09:53:25.472 data/shared/wheels/tires/michelin/machXbib/710_70R38.i3d (3.31 ms)
+2025-10-29 09:53:27.514   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Case IH 160 CVX'
+2025-10-29 10:07:31.213 zwierek lost connection to the game
+2025-10-29 10:11:06.726 Game saved successfully (savegame1).
