@@ -5232,3 +5232,43 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-10-29 19:44:00.969   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'MERLO P41.7'
 2025-10-29 19:44:16.841   Info: No 'ExhaustExtension' particle system added to vehicle 'Grimme SL 80-22 Quantum' because it has no exhaust
 2025-10-29 19:44:52.397   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'MERLO P41.7'
+2025-10-29 19:55:03.618   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Volvo F16 500'
+2025-10-29 19:55:43.008 M@rcin joined the game
+2025-10-29 19:55:43.033 FS25_UnloadBalesEarly: Sending new settings
+2025-10-29 19:55:43.033 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-29 19:55:43.035 FS25_UnloadBalesEarly: Sending new settings
+2025-10-29 19:55:43.035 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-29 19:55:43.035 FS25_UnloadBalesEarly: Sending new settings
+2025-10-29 19:55:43.036 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-29 19:55:43.036 FS25_UnloadBalesEarly: Sending new settings
+2025-10-29 19:55:43.036 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-29 19:55:43.037 FS25_UnloadBalesEarly: Sending new settings
+2025-10-29 19:55:43.037 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-29 19:55:43.041 dataS/character/playerM/jacket/topAviatorJacket.i3d (19.59 ms)
+2025-10-29 19:55:43.043 dataS/character/playerM/attachments/glassesAviators.i3d (1.82 ms)
+2025-10-29 19:55:43.079 dataS/character/playerM/hairStyles/hairStyleDiablo.i3d (35.10 ms)
+2025-10-29 19:55:43.085 dataS/character/playerM/facialHair/mHead01/beardStubble.i3d (1.62 ms)
+2025-10-29 19:56:40.320 FS25_UnloadBalesEarly: Sending new settings
+2025-10-29 19:56:40.320 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-29 19:56:40.321 FS25_UnloadBalesEarly: Sending new settings
+2025-10-29 19:56:40.321 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-29 19:56:40.321 FS25_UnloadBalesEarly: Sending new settings
+2025-10-29 19:56:40.321 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-29 19:56:40.321 FS25_UnloadBalesEarly: Sending new settings
+2025-10-29 19:56:40.321 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-29 19:56:40.321 FS25_UnloadBalesEarly: Sending new settings
+2025-10-29 19:56:40.321 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-29 19:56:40.321 FS25_UnloadBalesEarly: Sending new settings
+2025-10-29 19:56:40.321 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-29 19:56:40.321 FS25_UnloadBalesEarly: Sending new settings
+2025-10-29 19:56:40.321 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-29 19:58:30.102   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'STEYR 8130 Turbo'
+2025-10-29 20:03:07.446   Info: No 'ExhaustExtension' particle system added to vehicle 'Lizard Screw conveyor' because it has no exhaust
+2025-10-29 20:04:02.700 Warning: Send called with unknown target address.
+2025-10-29 20:04:02.710 Jolero left the game
+2025-10-29 20:04:04.004 Game saved successfully (savegame1).
+2025-10-29 20:08:36.913 Game saved successfully (savegame1).
+2025-10-29 20:17:07.078 data/objects/pallets/liquidTank/liquidTank.i3d (3.33 ms)
+2025-10-29 20:17:07.180 data/objects/bigBagPallet/bigBagPallet.i3d (4.78 ms)
+2025-10-29 20:17:09.861 data/objects/pallets/liquidTank/liquidTank.i3d (3.91 ms)
+2025-10-29 20:17:09.973 data/objects/bigBagPallet/bigBagPallet.i3d (5.23 ms)
