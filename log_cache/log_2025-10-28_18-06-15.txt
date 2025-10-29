@@ -6484,3 +6484,20 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-10-29 11:22:43.914 FS25_UnloadBalesEarly: Sending new settings
 2025-10-29 11:22:43.914 FS25_UnloadBalesEarly: Done sending new settings
 2025-10-29 11:23:31.696 Piotrek left the game
+2025-10-29 11:26:51.888   Info: [Easy Development Controls] User Jolero has logged in as master user.
+2025-10-29 11:26:57.827   Info: The condition of Case IH 160 CVX and all connected implements updated.
+2025-10-29 11:27:03.795 symonixprime serwerkaput lost connection to the game
+2025-10-29 11:28:02.278 Jolero left the game
+2025-10-29 11:28:03.117 Game saved successfully (savegame1).
+2025-10-29 11:37:57.975 zwierek lost connection to the game
+2025-10-29 11:38:43.214 zwierek joined the game
+2025-10-29 11:38:43.427 dataS/character/playerM/pants/botJeanShorts.i3d (16.32 ms)
+2025-10-29 11:38:43.429 dataS/character/playerM/attachments/glassesAviators.i3d (1.47 ms)
+2025-10-29 11:38:43.522 dataS/character/playerM/shoes/sandalM03.i3d (93.36 ms)
+2025-10-29 11:38:43.554 dataS/character/playerM/hairStyles/hairStyleBaldTop.i3d (31.39 ms)
+2025-10-29 11:38:43.562 dataS/character/playerM/facialHair/mHead01/walrusXL.i3d (8.76 ms)
+2025-10-29 11:39:02.903 FS25_UnloadBalesEarly: Sending new settings
+2025-10-29 11:39:02.903 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-29 11:39:02.904 FS25_UnloadBalesEarly: Sending new settings
+2025-10-29 11:39:02.904 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-29 11:41:14.945 Game saved successfully (savegame1).
