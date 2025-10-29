@@ -5491,3 +5491,6 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-10-29 22:49:23.161 siejA lost connection to the game
 2025-10-29 23:06:11.037 symonixprime serwerkaput lost connection to the game
 2025-10-29 23:08:57.883 Game saved successfully (savegame1).
+2025-10-29 23:23:48.826 Warning: Send called with unknown target address.
+2025-10-29 23:23:48.840 hubsonwaliszot left the game
+2025-10-29 23:39:09.963 Game saved successfully (savegame1).
