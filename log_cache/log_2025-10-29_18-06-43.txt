@@ -5272,3 +5272,47 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-10-29 20:17:07.180 data/objects/bigBagPallet/bigBagPallet.i3d (4.78 ms)
 2025-10-29 20:17:09.861 data/objects/pallets/liquidTank/liquidTank.i3d (3.91 ms)
 2025-10-29 20:17:09.973 data/objects/bigBagPallet/bigBagPallet.i3d (5.23 ms)
+2025-10-29 20:18:14.205 data/objects/pallets/liquidTank/liquidTank.i3d (3.94 ms)
+2025-10-29 20:18:14.307 data/objects/bigBagPallet/bigBagPallet.i3d (5.31 ms)
+2025-10-29 20:18:39.625 data/objects/pallets/liquidTank/liquidTank.i3d (3.63 ms)
+2025-10-29 20:18:39.725 data/objects/bigBagPallet/bigBagPallet.i3d (4.82 ms)
+2025-10-29 20:19:04.904 data/objects/pallets/liquidTank/liquidTank.i3d (3.60 ms)
+2025-10-29 20:19:05.011 data/objects/bigBagPallet/bigBagPallet.i3d (5.10 ms)
+2025-10-29 20:19:11.154 Jolero joined the game
+2025-10-29 20:19:11.178 FS25_UnloadBalesEarly: Sending new settings
+2025-10-29 20:19:11.179 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-29 20:19:11.180 FS25_UnloadBalesEarly: Sending new settings
+2025-10-29 20:19:11.180 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-29 20:19:11.181 FS25_UnloadBalesEarly: Sending new settings
+2025-10-29 20:19:11.181 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-29 20:19:11.182 FS25_UnloadBalesEarly: Sending new settings
+2025-10-29 20:19:11.182 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-29 20:19:11.183 FS25_UnloadBalesEarly: Sending new settings
+2025-10-29 20:19:11.183 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-29 20:19:11.205 dataS/character/playerM/hairStyles/hairStyleTopKnot.i3d (36.49 ms)
+2025-10-29 20:19:11.226 dataS/character/playerM/facialHair/mHead01/goatee01.i3d (20.25 ms)
+2025-10-29 20:19:11.368 FS25_UnloadBalesEarly: Sending new settings
+2025-10-29 20:19:11.368 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-29 20:19:30.298 FS25_UnloadBalesEarly: Sending new settings
+2025-10-29 20:19:30.298 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-29 20:19:30.299 FS25_UnloadBalesEarly: Sending new settings
+2025-10-29 20:19:30.299 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-29 20:19:30.299 FS25_UnloadBalesEarly: Sending new settings
+2025-10-29 20:19:30.299 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-29 20:19:30.299 FS25_UnloadBalesEarly: Sending new settings
+2025-10-29 20:19:30.299 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-29 20:19:30.299 FS25_UnloadBalesEarly: Sending new settings
+2025-10-29 20:19:30.299 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-29 20:19:30.299 FS25_UnloadBalesEarly: Sending new settings
+2025-10-29 20:19:30.299 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-29 20:19:30.299 FS25_UnloadBalesEarly: Sending new settings
+2025-10-29 20:19:30.300 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-29 20:20:06.676   Info: [Easy Development Controls] User Jolero has logged in as master user.
+2025-10-29 20:20:44.818   Info: Moved 3 vehicles to coordinates 635, 801 successfully.
+2025-10-29 20:25:20.858   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Ursus C-360'
+2025-10-29 20:25:52.878 szagh left the game
+2025-10-29 20:27:34.252   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'FMŻ BIZON REKORD'
+2025-10-29 20:29:23.950 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_PRT_10/PRT_10.i3d (275.05 ms)
+2025-10-29 20:29:24.102 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_PRT_10/wheels/wheels.i3d (23.72 ms)
+2025-10-29 20:31:46.656 Warning: Send called with unknown target address.
+2025-10-29 20:31:46.663 Piotrek left the game
