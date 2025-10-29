@@ -5269,3 +5269,67 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-10-29 15:39:45.375 FS25_UnloadBalesEarly: Done sending new settings
 2025-10-29 15:42:08.250 data/objects/bigBagPallet/bigBagPallet.i3d (4.20 ms)
 2025-10-29 15:43:08.458 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_rosensteinerSamurai200/rosensteinerSamurai200.i3d (51.66 ms)
+2025-10-29 15:44:41.462 Game saved successfully (savegame1).
+2025-10-29 15:46:04.236 data/objects/bigBag/bigBag.i3d (5.83 ms)
+2025-10-29 15:46:07.684 data/objects/bigBag/bigBag.i3d (5.31 ms)
+2025-10-29 15:55:03.340 data/objects/bigBagPallet/bigBagPallet.i3d (4.85 ms)
+2025-10-29 15:55:14.300 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.59 ms)
+2025-10-29 15:55:29.814 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.61 ms)
+2025-10-29 15:56:06.759 data/objects/bigBagPallet/bigBagPallet.i3d (5.20 ms)
+2025-10-29 15:57:51.393 data/objects/bigBagPallet/bigBagPallet.i3d (4.43 ms)
+2025-10-29 15:58:23.899 data/objects/bigBagPallet/bigBagPallet.i3d (4.70 ms)
+2025-10-29 15:58:59.106 data/objects/bigBagPallet/bigBagPallet.i3d (4.87 ms)
+2025-10-29 15:59:32.183 data/objects/bigBagPallet/bigBagPallet.i3d (4.54 ms)
+2025-10-29 16:05:31.212 data/objects/bigBagPallet/bigBagPallet.i3d (4.35 ms)
+2025-10-29 16:06:56.163 Warning: Send called with unknown target address.
+2025-10-29 16:06:56.168 siejA left the game
+2025-10-29 16:14:43.582 Game saved successfully (savegame1).
+2025-10-29 16:17:23.486 siejA joined the game
+2025-10-29 16:17:23.514 FS25_UnloadBalesEarly: Sending new settings
+2025-10-29 16:17:23.514 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-29 16:17:23.515 FS25_UnloadBalesEarly: Sending new settings
+2025-10-29 16:17:23.515 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-29 16:17:23.516 FS25_UnloadBalesEarly: Sending new settings
+2025-10-29 16:17:23.516 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-29 16:17:23.619 dataS/character/playerM/fullBody/strauss/motion2020PantsVariant2ndVariant.i3d (114.37 ms)
+2025-10-29 16:17:23.655 dataS/character/playerM/hairStyles/hairStyleFringe.i3d (35.99 ms)
+2025-10-29 16:17:27.751 FS25_UnloadBalesEarly: Sending new settings
+2025-10-29 16:17:27.751 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-29 16:17:37.856 FS25_UnloadBalesEarly: Sending new settings
+2025-10-29 16:17:37.856 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-29 16:17:37.856 FS25_UnloadBalesEarly: Sending new settings
+2025-10-29 16:17:37.856 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-29 16:17:37.856 FS25_UnloadBalesEarly: Sending new settings
+2025-10-29 16:17:37.856 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-29 16:17:37.857 FS25_UnloadBalesEarly: Sending new settings
+2025-10-29 16:17:37.857 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-29 16:17:37.857 FS25_UnloadBalesEarly: Sending new settings
+2025-10-29 16:17:37.857 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-29 16:17:37.857 FS25_UnloadBalesEarly: Sending new settings
+2025-10-29 16:17:37.857 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-29 16:19:03.600   Info: No 'ExhaustExtension' particle system added to vehicle 'Lizard Screw conveyor' because it has no exhaust
+2025-10-29 16:20:04.723 Warning: Send called with unknown target address.
+2025-10-29 16:20:04.730 siejA left the game
+2025-10-29 16:20:29.281 siejA joined the game
+2025-10-29 16:20:29.320 FS25_UnloadBalesEarly: Sending new settings
+2025-10-29 16:20:29.320 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-29 16:20:29.322 FS25_UnloadBalesEarly: Sending new settings
+2025-10-29 16:20:29.322 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-29 16:20:29.323 FS25_UnloadBalesEarly: Sending new settings
+2025-10-29 16:20:29.323 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-29 16:20:29.324 FS25_UnloadBalesEarly: Sending new settings
+2025-10-29 16:20:29.324 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-29 16:20:29.409 dataS/character/playerM/fullBody/strauss/motion2020PantsVariant2ndVariant.i3d (114.06 ms)
+2025-10-29 16:20:29.446 dataS/character/playerM/hairStyles/hairStyleFringe.i3d (36.49 ms)
+2025-10-29 16:20:42.934 FS25_UnloadBalesEarly: Sending new settings
+2025-10-29 16:20:42.935 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-29 16:20:42.935 FS25_UnloadBalesEarly: Sending new settings
+2025-10-29 16:20:42.935 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-29 16:20:42.935 FS25_UnloadBalesEarly: Sending new settings
+2025-10-29 16:20:42.935 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-29 16:20:42.935 FS25_UnloadBalesEarly: Sending new settings
+2025-10-29 16:20:42.935 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-29 16:20:42.936 FS25_UnloadBalesEarly: Sending new settings
+2025-10-29 16:20:42.936 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-29 16:20:42.936 FS25_UnloadBalesEarly: Sending new settings
+2025-10-29 16:20:42.936 FS25_UnloadBalesEarly: Done sending new settings
