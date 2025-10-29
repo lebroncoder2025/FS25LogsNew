@@ -5214,3 +5214,13 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-10-29 14:34:22.436 FS25_UnloadBalesEarly: Sending new settings
 2025-10-29 14:34:22.436 FS25_UnloadBalesEarly: Done sending new settings
 2025-10-29 14:44:38.907 Game saved successfully (savegame1).
+2025-10-29 14:48:50.919   Info: [Easy Development Controls] User Jolero has logged in as master user.
+2025-10-29 14:49:24.568   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Mercedes-Benz Trucks MB-trac 900 optimized'
+2025-10-29 14:57:54.413 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_CasePumaCVX_Tier3/wheels/rimFront.i3d (1.38 ms)
+2025-10-29 14:57:54.416 data/shared/wheels/tires/michelin/machXbib/600_70R28.i3d (2.74 ms)
+2025-10-29 14:57:54.419 data/shared/wheels/weights/weight001.i3d (2.65 ms)
+2025-10-29 14:57:54.421 data/shared/wheels/tires/michelin/machXbib/710_70R38.i3d (2.40 ms)
+2025-10-29 14:58:43.814   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Case IH 160 CVX'
+2025-10-29 14:58:59.708 data/objects/bigBag/bigBag.i3d (5.70 ms)
+2025-10-29 14:59:06.009 data/objects/bigBag/bigBag.i3d (5.89 ms)
+2025-10-29 15:14:39.770 Game saved successfully (savegame1).
