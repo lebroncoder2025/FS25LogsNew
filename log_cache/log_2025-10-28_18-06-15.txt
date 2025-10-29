@@ -6617,3 +6617,6 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-10-29 12:15:48.990 FS25_UnloadBalesEarly: Sending new settings
 2025-10-29 12:15:48.990 FS25_UnloadBalesEarly: Done sending new settings
 2025-10-29 12:16:51.542   Info: Successfully set fill unit 1 of Metaltech DBL to Sorghum with a fill level of 17,500 liters.
+2025-10-29 12:20:33.839 Warning: Send called with unknown target address.
+2025-10-29 12:20:33.846 Jolero left the game
+2025-10-29 12:20:35.066 Game saved successfully (savegame1).
