@@ -5811,3 +5811,6 @@ LUA call stack:
   =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:37 readStream
   =dataS/scripts/network/Server.lua:541 packetReceived
   =dataS/scripts/network/ConnectionManager.lua:27 packetReceived
+2025-10-30 14:11:02.037   Info: Moved 2 vehicles to coordinates 356, 1246 successfully.
+2025-10-30 14:11:55.888 Game saved successfully (savegame1).
+2025-10-30 14:31:11.085   Info: Successfully set fill unit 1 of Pomot UPR 10 to Lime with a fill level of 7,900 liters.
