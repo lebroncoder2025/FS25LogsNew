@@ -5814,3 +5814,39 @@ LUA call stack:
 2025-10-30 14:11:02.037   Info: Moved 2 vehicles to coordinates 356, 1246 successfully.
 2025-10-30 14:11:55.888 Game saved successfully (savegame1).
 2025-10-30 14:31:11.085   Info: Successfully set fill unit 1 of Pomot UPR 10 to Lime with a fill level of 7,900 liters.
+2025-10-30 14:34:37.329   Info: Successfully set fill unit 1 of Pomot UPR 10 to Solid Fertilizer with a fill level of 7,900 liters.
+2025-10-30 14:41:57.349 Game saved successfully (savegame1).
+2025-10-30 14:43:26.933 data/objects/bigBagPallet/bigBagPallet.i3d (5.08 ms)
+2025-10-30 14:43:26.998   Info: Adding pallet.
+2025-10-30 14:43:28.027 data/objects/bigBagPallet/bigBagPallet.i3d (4.93 ms)
+2025-10-30 14:43:50.471 data/objects/bigBag/bigBag.i3d (7.89 ms)
+2025-10-30 14:43:50.587   Info: Adding pallet.
+2025-10-30 14:43:50.664 data/objects/bigBag/bigBag.i3d (7.38 ms)
+2025-10-30 14:43:50.801   Info: Adding pallet.
+2025-10-30 14:43:50.926   Info: Adding pallet.
+2025-10-30 14:43:51.051   Info: Adding pallet.
+2025-10-30 14:43:51.176   Info: Adding pallet.
+2025-10-30 14:43:51.281   Info: Adding pallet.
+2025-10-30 14:43:51.404   Info: Adding pallet.
+2025-10-30 14:43:51.525   Info: Adding pallet.
+2025-10-30 14:43:51.649   Info: Adding pallet.
+2025-10-30 14:43:51.773   Info: Adding pallet.
+2025-10-30 14:43:51.896   Info: Adding pallet.
+2025-10-30 14:43:51.976 data/objects/bigBag/bigBag.i3d (7.74 ms)
+2025-10-30 14:43:52.109   Info: Adding pallet.
+2025-10-30 14:43:52.232   Info: Adding pallet.
+2025-10-30 14:43:52.356   Info: Adding pallet.
+2025-10-30 14:43:53.389 data/objects/bigBag/bigBag.i3d (7.65 ms)
+2025-10-30 14:43:58.343 data/objects/bigBag/bigBag.i3d (6.18 ms)
+2025-10-30 14:43:58.458   Info: Adding pallet.
+2025-10-30 14:43:58.584   Info: Adding pallet.
+2025-10-30 14:43:58.703   Info: Adding pallet.
+2025-10-30 14:43:59.737 data/objects/bigBag/bigBag.i3d (8.02 ms)
+2025-10-30 14:44:02.947 data/objects/bigBag/bigBag.i3d (6.55 ms)
+2025-10-30 14:44:03.065   Info: Adding pallet.
+2025-10-30 14:44:03.191   Info: Adding pallet.
+2025-10-30 14:44:04.218 data/objects/bigBag/bigBag.i3d (6.00 ms)
+2025-10-30 14:44:06.640 data/objects/bigBag/bigBag.i3d (6.25 ms)
+2025-10-30 14:44:06.774   Info: Adding pallet.
+2025-10-30 14:44:06.899   Info: Adding pallet.
+2025-10-30 14:44:07.929 data/objects/bigBag/bigBag.i3d (6.08 ms)
