@@ -5541,3 +5541,69 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-10-30 09:28:16.027 FS25_UnloadBalesEarly: Sending new settings
 2025-10-30 09:28:16.027 FS25_UnloadBalesEarly: Done sending new settings
 2025-10-30 09:29:02.521   Info: [Easy Development Controls] User Jolero has logged in as master user.
+2025-10-30 09:30:57.202   Info: Adding pallet.
+2025-10-30 09:30:57.362   Info: Adding pallet.
+2025-10-30 09:30:57.468   Info: Adding pallet.
+2025-10-30 09:30:57.624   Info: Adding pallet.
+2025-10-30 09:30:57.836   Info: Adding pallet.
+2025-10-30 09:30:57.959   Info: Adding pallet.
+2025-10-30 09:30:58.206   Info: Adding pallet.
+2025-10-30 09:30:58.362   Info: Adding pallet.
+2025-10-30 09:30:58.521   Info: Adding pallet.
+2025-10-30 09:30:58.627   Info: Adding pallet.
+2025-10-30 09:30:58.767   Info: Adding pallet.
+2025-10-30 09:30:58.877   Info: Adding pallet.
+2025-10-30 09:30:59.033   Info: Adding pallet.
+2025-10-30 09:30:59.264   Info: Adding pallet.
+2025-10-30 09:30:59.423   Info: Adding pallet.
+2025-10-30 09:30:59.582   Info: Adding pallet.
+2025-10-30 09:30:59.723   Info: Adding pallet.
+2025-10-30 09:30:59.865   Info: Adding pallet.
+2025-10-30 09:30:59.991   Info: Adding pallet.
+2025-10-30 09:31:00.113   Info: Adding pallet.
+2025-10-30 09:31:00.234   Info: Adding pallet.
+2025-10-30 09:31:00.410   Info: Adding pallet.
+2025-10-30 09:31:00.535   Info: Adding pallet.
+2025-10-30 09:31:00.764   Info: Adding pallet.
+2025-10-30 09:31:00.924   Info: Adding pallet.
+2025-10-30 09:31:01.067   Info: Adding pallet.
+2025-10-30 09:31:01.211   Info: Adding pallet.
+2025-10-30 09:31:36.156   Info: The condition of Case IH 160 CVX and all connected implements updated.
+2025-10-30 09:31:38.812   Info: The condition of Case IH 160 CVX and all connected implements updated.
+2025-10-30 09:31:57.096   Info: Moved 3 vehicles to coordinates 1416, 1717 successfully.
+2025-10-30 09:33:10.836   Info: Moved 3 vehicles to coordinates 629, 800 successfully.
+2025-10-30 09:33:17.476   Info: Moved 3 vehicles to coordinates 631, 811 successfully.
+2025-10-30 09:34:11.105   Info: Moved 3 vehicles to coordinates 1351, 1711 successfully.
+2025-10-30 09:34:21.829   Info: Moved 3 vehicles to coordinates 1381, 1716 successfully.
+2025-10-30 09:34:48.491   Info: Moved player to coordinates 1211, 572 successfully.
+2025-10-30 09:34:50.018   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Case IH 160 CVX'
+2025-10-30 09:34:55.608   Info: Moved 1 vehicles to coordinates 1369, 1712 successfully.
+2025-10-30 09:35:28.805   Info: Savegame Setting 'economicDifficulty': NORMAL
+2025-10-30 09:35:28.965   Info: Savegame Setting 'economicDifficulty': EASY
+2025-10-30 09:35:48.427   Info: Savegame Setting 'economicDifficulty': NORMAL
+2025-10-30 09:35:48.586   Info: Savegame Setting 'economicDifficulty': HARD
+2025-10-30 09:35:57.449   Info: Moved 3 vehicles to coordinates 631, 810 successfully.
+2025-10-30 09:36:36.233   Info: Moved 3 vehicles to coordinates 1388, 1712 successfully.
+2025-10-30 09:37:05.939   Info: Savegame Setting 'economicDifficulty': NORMAL
+2025-10-30 09:37:06.098   Info: Savegame Setting 'economicDifficulty': EASY
+2025-10-30 09:37:45.164   Info: Savegame Setting 'economicDifficulty': NORMAL
+2025-10-30 09:37:45.322   Info: Savegame Setting 'economicDifficulty': HARD
+2025-10-30 09:37:53.162   Info: Moved 3 vehicles to coordinates 627, 806 successfully.
+2025-10-30 09:38:18.694 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Fendt600Vario/data/vario600Gen1.i3d (515.49 ms)
+2025-10-30 09:38:18.856 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Fendt600Vario/shared/wheels/vario600Rims.i3d (11.87 ms)
+2025-10-30 09:38:18.859 data/shared/wheels/tires/trelleborg/TM800/540_65R30.i3d (2.33 ms)
+2025-10-30 09:38:18.861 data/shared/wheels/tires/trelleborg/TM800/650_65R42.i3d (2.20 ms)
+2025-10-30 09:38:18.937 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Fendt600Vario/shared/lights/hellaWorkingLight05.i3d (2.53 ms)
+2025-10-30 09:38:18.942 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Fendt600Vario/shared/lights/hellaWorkingLight1GA.i3d (4.57 ms)
+2025-10-30 09:38:18.945 data/shared/assets/beaconLights/lizard/beaconLight13.i3d (3.52 ms)
+2025-10-30 09:38:19.098 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Fendt600Vario/shared/displays/oneDisplays.i3d (19.66 ms)
+2025-10-30 09:38:28.421   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Fendt 614 Vario - 40km/h'
+2025-10-30 09:38:34.240   Info: Moved 1 vehicles to coordinates 620, 853 successfully.
+2025-10-30 09:40:21.476   Info: Added € 100,000 to farm account. (3)
+2025-10-30 09:40:49.374 data/shared/wheels/tires/bkt/agrimaxForce/710_55R30.i3d (3.71 ms)
+2025-10-30 09:40:49.377 data/shared/wheels/tires/bkt/agrimaxForce/900_50R42.i3d (3.17 ms)
+2025-10-30 09:40:57.287   Info: Removed € 100,000 from farm account. (3)
+2025-10-30 09:41:16.145   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Fendt 620 Vario - 50km/h'
+2025-10-30 09:41:42.502 Game saved successfully (savegame1).
+2025-10-30 09:44:07.603 Jolero left the game
+2025-10-30 09:44:08.575 Game saved successfully (savegame1).
