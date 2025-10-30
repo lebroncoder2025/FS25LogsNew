@@ -6760,3 +6760,13 @@ LUA call stack:
 2025-10-30 22:42:41.913 Game saved successfully (savegame1).
 2025-10-30 22:47:30.651 zone lost connection to the game
 2025-10-30 23:12:57.309 Game saved successfully (savegame1).
+2025-10-30 23:35:22.556 zwierek joined the game
+2025-10-30 23:35:22.773 dataS/character/playerM/pants/botJeanShorts.i3d (17.10 ms)
+2025-10-30 23:35:22.775 dataS/character/playerM/attachments/glassesAviators.i3d (1.59 ms)
+2025-10-30 23:35:22.869 dataS/character/playerM/shoes/sandalM03.i3d (94.51 ms)
+2025-10-30 23:35:22.901 dataS/character/playerM/hairStyles/hairStyleBaldTop.i3d (32.12 ms)
+2025-10-30 23:35:22.910 dataS/character/playerM/facialHair/mHead01/walrusXL.i3d (8.94 ms)
+2025-10-30 23:36:14.220 FS25_UnloadBalesEarly: Sending new settings
+2025-10-30 23:36:14.220 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-30 23:36:14.221 FS25_UnloadBalesEarly: Sending new settings
+2025-10-30 23:36:14.221 FS25_UnloadBalesEarly: Done sending new settings
