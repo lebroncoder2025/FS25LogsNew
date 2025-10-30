@@ -6438,3 +6438,9 @@ dataS/scripts/internalMods/FS25_precisionFarming/scripts/specializations/Precisi
 2025-10-30 19:47:06.215 FS25_UnloadBalesEarly: Done sending new settings
 2025-10-30 19:47:06.215 FS25_UnloadBalesEarly: Sending new settings
 2025-10-30 19:47:06.215 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-30 20:01:10.675   Info: Successfully set fill unit 1 of CLAAS MEGA 218 to Soybeans with a fill level of 7,500 liters.
+2025-10-30 20:11:01.539 data/shared/wheels/tires/trelleborg/TM100/270_95R38.i3d (2.65 ms)
+2025-10-30 20:11:01.542 data/shared/wheels/tires/trelleborg/TM100/300_95R52.i3d (3.62 ms)
+2025-10-30 20:11:03.996   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Case IH 160 CVX'
+2025-10-30 20:12:30.119 Game saved successfully (savegame1).
+2025-10-30 20:13:29.275   Info: Moved 2 vehicles to coordinates 697, 1002 successfully.
