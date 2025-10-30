@@ -5708,3 +5708,22 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-10-30 12:21:53.605 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.63 ms)
 2025-10-30 12:31:31.436   Info: Successfully set fill unit 2 of Kverneland Optima RS to Solid Fertilizer with a fill level of 2,000 liters.
 2025-10-30 12:31:43.788   Info: Successfully set fill unit 1 of Kverneland Optima RS to Seeds with a fill level of 660 liters.
+2025-10-30 12:34:02.849 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_MMS_FG2000/mmsFG2000.i3d (49.70 ms)
+2025-10-30 12:34:02.934 data/shared/assets/lights/lizard/sideMarker15.i3d (2.59 ms)
+2025-10-30 12:34:16.141   Info: Moved 1 vehicles to coordinates 1659, 1693 successfully.
+2025-10-30 12:35:03.863 dataS/character/playerF/pants/botCargo.i3d (319.80 ms)
+2025-10-30 12:35:03.913 dataS/character/playerF/jacket/topVest.i3d (49.63 ms)
+2025-10-30 12:35:03.923 dataS/character/playerF/shoes/workboot02.i3d (9.31 ms)
+2025-10-30 12:35:03.971 dataS/character/playerF/hairStyles/hairStylePonyTail03.i3d (48.81 ms)
+2025-10-30 12:35:43.862   Info: Added € 5,000 to farm account. (3)
+2025-10-30 12:41:50.502 Game saved successfully (savegame1).
+2025-10-30 13:10:28.363   Info: Moved 3 vehicles to coordinates 982, 1183 successfully.
+2025-10-30 13:10:42.899   Info: Moved 3 vehicles to coordinates 980, 1187 successfully.
+2025-10-30 13:11:43.859   Info: Moved 3 vehicles to coordinates 637, 827 successfully.
+2025-10-30 13:11:52.209 Game saved successfully (savegame1).
+2025-10-30 13:25:07.957   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_KroneTurbo2500/xml/kroneTurbo2500.xml): Invalid vector 3 for 'vehicle.base.components.joint(0)#rotDriveRotation'.
+2025-10-30 13:25:08.047   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_KroneTurbo2500/xml/kroneTurbo2500.xml): Unable to find material template '' in 'vehicle.wheels.hubMaterial'
+2025-10-30 13:25:08.053 data/shared/wheels/tires/trelleborg/AW305/480_45R17.i3d (3.51 ms)
+2025-10-30 13:25:08.119   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_KroneTurbo2500/xml/kroneTurbo2500.xml): Node 'scratchingFloor' has no shader parameter 'scrollPosition' for animationNode 'vehicle.trailer.trailerConfigurations.trailerConfiguration(0).trailer.tipSide(0).animationNodes.animationNode(0)'!
+2025-10-30 13:25:08.120   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_KroneTurbo2500/xml/kroneTurbo2500.xml): Node 'scratchingFloor' has no shader parameter 'scrollPosition' for animationNode 'vehicle.turnOnVehicle.animationNodes.animationNode(2)'!
+2025-10-30 13:41:54.315 Game saved successfully (savegame1).
