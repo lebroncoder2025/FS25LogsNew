@@ -5983,3 +5983,5 @@ LUA call stack:
 2025-10-30 16:14:19.786 data/shared/assets/lights/lizard/frontLight12.i3d (2.57 ms)
 2025-10-30 16:14:22.591   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Volvo F16 500 CVT'
 2025-10-30 16:24:53.565   Info: Successfully set fill unit 1 of Metaltech DBL to Soybeans with a fill level of 17,500 liters.
+2025-10-30 16:39:34.274   Info: Moved player to coordinates 1130, 1451 successfully.
+2025-10-30 16:39:54.578   Info: Moved player to coordinates 1851, 694 successfully.
