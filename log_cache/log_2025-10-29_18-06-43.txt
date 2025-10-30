@@ -6770,3 +6770,6 @@ LUA call stack:
 2025-10-30 23:36:14.220 FS25_UnloadBalesEarly: Done sending new settings
 2025-10-30 23:36:14.221 FS25_UnloadBalesEarly: Sending new settings
 2025-10-30 23:36:14.221 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-30 23:38:57.199 zwierek left the game
+2025-10-30 23:43:05.832 Game saved successfully (savegame1).
+2025-10-31 00:13:14.144 Game saved successfully (savegame1).
