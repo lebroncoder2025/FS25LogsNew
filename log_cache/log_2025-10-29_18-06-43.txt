@@ -6725,3 +6725,21 @@ LUA call stack:
 2025-10-30 21:36:04.323 FS25_UnloadBalesEarly: Done sending new settings
 2025-10-30 21:36:04.324 FS25_UnloadBalesEarly: Sending new settings
 2025-10-30 21:36:04.324 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-30 21:42:36.902 Game saved successfully (savegame1).
+2025-10-30 22:01:03.723 M@rcin lost connection to the game
+2025-10-30 22:02:51.661 M@rcin joined the game
+2025-10-30 22:02:51.683 FS25_UnloadBalesEarly: Sending new settings
+2025-10-30 22:02:51.683 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-30 22:02:51.698 dataS/character/playerM/jacket/topAviatorJacket.i3d (19.23 ms)
+2025-10-30 22:02:51.699 dataS/character/playerM/attachments/glassesAviators.i3d (1.71 ms)
+2025-10-30 22:02:51.734 dataS/character/playerM/hairStyles/hairStyleDiablo.i3d (34.45 ms)
+2025-10-30 22:02:51.735 dataS/character/playerM/facialHair/mHead01/beardStubble.i3d (1.48 ms)
+2025-10-30 22:03:13.330 FS25_UnloadBalesEarly: Sending new settings
+2025-10-30 22:03:13.330 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-30 22:03:13.331 FS25_UnloadBalesEarly: Sending new settings
+2025-10-30 22:03:13.331 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-30 22:03:13.332 FS25_UnloadBalesEarly: Sending new settings
+2025-10-30 22:03:13.332 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-30 22:11:04.823 Warning: Send called with unknown target address.
+2025-10-30 22:11:04.836 hubsonwaliszot left the game
+2025-10-30 22:12:37.122 Game saved successfully (savegame1).
