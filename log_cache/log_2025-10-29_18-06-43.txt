@@ -6086,3 +6086,307 @@ LUA call stack:
 2025-10-30 18:32:33.850   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Volvo F16 500 CVT'
 2025-10-30 18:35:52.953 data/objects/bigBag/bigBag.i3d (5.82 ms)
 2025-10-30 18:37:58.111 zwierek left the game
+2025-10-30 18:41:24.095 Jolero joined the game
+2025-10-30 18:41:24.117 FS25_UnloadBalesEarly: Sending new settings
+2025-10-30 18:41:24.117 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-30 18:41:24.118 FS25_UnloadBalesEarly: Sending new settings
+2025-10-30 18:41:24.118 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-30 18:41:24.119 FS25_UnloadBalesEarly: Sending new settings
+2025-10-30 18:41:24.119 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-30 18:41:24.147 dataS/character/playerM/hairStyles/hairStyleTopKnot.i3d (35.47 ms)
+2025-10-30 18:41:39.758 FS25_UnloadBalesEarly: Sending new settings
+2025-10-30 18:41:39.758 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-30 18:41:39.758 FS25_UnloadBalesEarly: Sending new settings
+2025-10-30 18:41:39.758 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-30 18:41:39.759 FS25_UnloadBalesEarly: Sending new settings
+2025-10-30 18:41:39.759 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-30 18:41:39.759 FS25_UnloadBalesEarly: Sending new settings
+2025-10-30 18:41:39.759 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-30 18:41:39.759 FS25_UnloadBalesEarly: Sending new settings
+2025-10-30 18:41:39.759 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-30 18:42:21.688 Game saved successfully (savegame1).
+2025-10-30 18:43:15.379   Info: [Easy Development Controls] User Jolero has logged in as master user.
+2025-10-30 18:43:26.558 hubsonwaliszot joined the game
+2025-10-30 18:43:26.592 FS25_UnloadBalesEarly: Sending new settings
+2025-10-30 18:43:26.592 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-30 18:43:26.594 FS25_UnloadBalesEarly: Sending new settings
+2025-10-30 18:43:26.594 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-30 18:43:26.595 FS25_UnloadBalesEarly: Sending new settings
+2025-10-30 18:43:26.595 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-30 18:43:26.596 FS25_UnloadBalesEarly: Sending new settings
+2025-10-30 18:43:26.596 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-30 18:43:26.863 dataS/character/playerM/shirts/poettinger/poettingerTshirt.i3d (291.52 ms)
+2025-10-30 18:43:29.824   Info: Adding pallet.
+2025-10-30 18:43:30.106   Info: Adding pallet.
+2025-10-30 18:43:30.248   Info: Adding pallet.
+2025-10-30 18:43:30.288 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/Dashboard.lua:267: attempt to compare number < nil
+2025-10-30 18:43:30.303 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/FillVolume.lua:297: invalid argument #1 to 'pairs' (table expected, got nil)
+2025-10-30 18:43:30.336   Warning: Server:registerObject() object table: 0x0000022748d36f58 1938 Vehicle already registered
+2025-10-30 18:43:30.407   Info: Adding pallet.
+2025-10-30 18:43:30.530   Info: Adding pallet.
+2025-10-30 18:43:30.652   Info: Adding pallet.
+2025-10-30 18:43:30.728 Warning (script): 'getTranslation': Argument 1 has wrong type. Expected: Int. Actual: Nil
+
+  D:\auto_builder\cache\svn\5e7c1a71ecbc79d8f508d9807d643f79\src\base\scripting\lua\LuauScriptSystem.cpp (1127): expectedType == Value::VoidType || expectedType == Value::ClassType2025-10-30 18:43:30.728 
+Script error: 'getTranslation': Argument 1 has wrong type. Expected: Int. Actual: Nil
+
+LUA call stack:
+  =[C]:-1 getTranslation
+  =dataS/scripts/vehicles/Vehicle.lua:1925 update
+  =dataS/scripts/network/NetworkNode.lua:181 updateActiveObjects
+  =dataS/scripts/network/Server.lua:64 update
+  =dataS/scripts/BaseMission.lua:1023 update
+  =dataS/scripts/FSBaseMission.lua:1913 update
+  =dataS/scripts/mission00.lua:684 update
+  =dataS/scripts/main.lua:1237 update
+2025-10-30 18:43:30.729 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/Vehicle.lua:1935: attempt to compare nil < number
+2025-10-30 18:43:30.743 Warning (script): 'getTranslation': Argument 1 has wrong type. Expected: Int. Actual: Nil
+
+  D:\auto_builder\cache\svn\5e7c1a71ecbc79d8f508d9807d643f79\src\base\scripting\lua\LuauScriptSystem.cpp (1127): expectedType == Value::VoidType || expectedType == Value::ClassType2025-10-30 18:43:30.743 
+Script error: 'getTranslation': Argument 1 has wrong type. Expected: Int. Actual: Nil
+
+LUA call stack:
+  =[C]:-1 getTranslation
+  =dataS/scripts/vehicles/Vehicle.lua:1925 update
+  =dataS/scripts/network/NetworkNode.lua:181 updateActiveObjects
+  =dataS/scripts/network/Server.lua:64 update
+  =dataS/scripts/BaseMission.lua:1023 update
+  =dataS/scripts/FSBaseMission.lua:1913 update
+  =dataS/scripts/mission00.lua:684 update
+  =dataS/scripts/main.lua:1237 update
+2025-10-30 18:43:30.743 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/Vehicle.lua:1935: attempt to compare nil < number
+2025-10-30 18:43:30.759 Warning (script): 'getTranslation': Argument 1 has wrong type. Expected: Int. Actual: Nil
+
+  D:\auto_builder\cache\svn\5e7c1a71ecbc79d8f508d9807d643f79\src\base\scripting\lua\LuauScriptSystem.cpp (1127): expectedType == Value::VoidType || expectedType == Value::ClassType2025-10-30 18:43:30.760 
+Script error: 'getTranslation': Argument 1 has wrong type. Expected: Int. Actual: Nil
+
+LUA call stack:
+  =[C]:-1 getTranslation
+  =dataS/scripts/vehicles/Vehicle.lua:1925 update
+  =dataS/scripts/network/NetworkNode.lua:181 updateActiveObjects
+  =dataS/scripts/network/Server.lua:64 update
+  =dataS/scripts/BaseMission.lua:1023 update
+  =dataS/scripts/FSBaseMission.lua:1913 update
+  =dataS/scripts/mission00.lua:684 update
+  =dataS/scripts/main.lua:1237 update
+2025-10-30 18:43:30.760 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/Vehicle.lua:1935: attempt to compare nil < number
+2025-10-30 18:43:30.777   Info: Adding pallet.
+2025-10-30 18:43:30.779 Warning (script): 'getTranslation': Argument 1 has wrong type. Expected: Int. Actual: Nil
+
+  D:\auto_builder\cache\svn\5e7c1a71ecbc79d8f508d9807d643f79\src\base\scripting\lua\LuauScriptSystem.cpp (1127): expectedType == Value::VoidType || expectedType == Value::ClassType2025-10-30 18:43:30.779 
+Script error: 'getTranslation': Argument 1 has wrong type. Expected: Int. Actual: Nil
+
+LUA call stack:
+  =[C]:-1 getTranslation
+  =dataS/scripts/vehicles/Vehicle.lua:1925 update
+  =dataS/scripts/network/NetworkNode.lua:181 updateActiveObjects
+  =dataS/scripts/network/Server.lua:64 update
+  =dataS/scripts/BaseMission.lua:1023 update
+  =dataS/scripts/FSBaseMission.lua:1913 update
+  =dataS/scripts/mission00.lua:684 update
+  =dataS/scripts/main.lua:1237 update
+2025-10-30 18:43:30.779 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/Vehicle.lua:1935: attempt to compare nil < number
+2025-10-30 18:43:30.797 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/Dashboard.lua:267: attempt to compare number < nil
+2025-10-30 18:43:30.814 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/Dashboard.lua:267: attempt to compare number < nil
+2025-10-30 18:43:30.833 Error: Running LUA method 'update'.
+dataS/scripts/internalMods/FS25_precisionFarming/scripts/specializations/PrecisionFarmingStatistic.lua:63: attempt to perform arithmetic (add) on nil and number
+2025-10-30 18:43:30.899   Info: Adding pallet.
+2025-10-30 18:43:31.039   Info: Adding pallet.
+2025-10-30 18:43:31.125   Info: Adding pallet.
+2025-10-30 18:43:31.218 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/Dashboard.lua:267: attempt to compare number < nil
+2025-10-30 18:43:31.234 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/Dashboard.lua:267: attempt to compare number < nil
+2025-10-30 18:43:31.269   Warning: Server:registerObject() object table: 0x0000022775a49438 1947 Vehicle already registered
+2025-10-30 18:43:31.341   Info: Adding pallet.
+2025-10-30 18:43:31.410   Info: Adding pallet.
+2025-10-30 18:43:31.552   Info: Adding pallet.
+2025-10-30 18:43:31.641   Info: Adding pallet.
+2025-10-30 18:43:31.762   Info: Adding pallet.
+2025-10-30 18:43:31.921   Info: Adding pallet.
+2025-10-30 18:43:32.062   Info: Adding pallet.
+2025-10-30 18:43:32.260 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/Dashboard.lua:267: attempt to compare number < nil
+2025-10-30 18:43:32.275 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/Dashboard.lua:267: attempt to compare number < nil
+2025-10-30 18:43:32.294 Error: Running LUA method 'update'.
+dataS/scripts/internalMods/FS25_precisionFarming/scripts/specializations/PrecisionFarmingStatistic.lua:63: attempt to perform arithmetic (add) on nil and number
+2025-10-30 18:43:32.310   Warning: Server:registerObject() object table: 0x0000022774b83f08 1955 Vehicle already registered
+2025-10-30 18:43:32.934   Info: Adding pallet.
+2025-10-30 18:43:33.042   Info: Adding pallet.
+2025-10-30 18:43:33.099 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/Dashboard.lua:267: attempt to compare number < nil
+2025-10-30 18:43:33.115 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/Dashboard.lua:267: attempt to compare number < nil
+2025-10-30 18:43:33.135 Error: Running LUA method 'update'.
+dataS/scripts/internalMods/FS25_precisionFarming/scripts/specializations/PrecisionFarmingStatistic.lua:63: attempt to perform arithmetic (add) on nil and number
+2025-10-30 18:43:33.149   Warning: Server:registerObject() object table: 0x0000022779b6d7b8 1958 Vehicle already registered
+2025-10-30 18:43:33.805   Info: Adding pallet.
+2025-10-30 18:43:34.715   Info: Adding pallet.
+2025-10-30 18:44:07.525 zone lost connection to the game
+2025-10-30 18:44:42.848   Info: Adding pallet.
+2025-10-30 18:44:42.988   Info: Adding pallet.
+2025-10-30 18:44:43.128   Info: Adding pallet.
+2025-10-30 18:44:43.234   Info: Adding pallet.
+2025-10-30 18:44:43.338   Info: Adding pallet.
+2025-10-30 18:44:43.444   Info: Adding pallet.
+2025-10-30 18:44:43.585   Info: Adding pallet.
+2025-10-30 18:44:43.708   Info: Adding pallet.
+2025-10-30 18:44:43.833   Info: Adding pallet.
+2025-10-30 18:44:43.885 Warning (script): 'getTranslation': Argument 1 has wrong type. Expected: Int. Actual: Nil
+
+  D:\auto_builder\cache\svn\5e7c1a71ecbc79d8f508d9807d643f79\src\base\scripting\lua\LuauScriptSystem.cpp (1127): expectedType == Value::VoidType || expectedType == Value::ClassType2025-10-30 18:44:43.885 
+Script error: 'getTranslation': Argument 1 has wrong type. Expected: Int. Actual: Nil
+
+LUA call stack:
+  =[C]:-1 getTranslation
+  =dataS/scripts/vehicles/Vehicle.lua:1925 update
+  =dataS/scripts/network/NetworkNode.lua:181 updateActiveObjects
+  =dataS/scripts/network/Server.lua:64 update
+  =dataS/scripts/BaseMission.lua:1023 update
+  =dataS/scripts/FSBaseMission.lua:1913 update
+  =dataS/scripts/mission00.lua:684 update
+  =dataS/scripts/main.lua:1237 update
+2025-10-30 18:44:43.886 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/Vehicle.lua:1935: attempt to compare nil < number
+2025-10-30 18:44:43.902 Warning (script): 'getTranslation': Argument 1 has wrong type. Expected: Int. Actual: Nil
+
+  D:\auto_builder\cache\svn\5e7c1a71ecbc79d8f508d9807d643f79\src\base\scripting\lua\LuauScriptSystem.cpp (1127): expectedType == Value::VoidType || expectedType == Value::ClassType2025-10-30 18:44:43.903 
+Script error: 'getTranslation': Argument 1 has wrong type. Expected: Int. Actual: Nil
+
+LUA call stack:
+  =[C]:-1 getTranslation
+  =dataS/scripts/vehicles/Vehicle.lua:1925 update
+  =dataS/scripts/network/NetworkNode.lua:181 updateActiveObjects
+  =dataS/scripts/network/Server.lua:64 update
+  =dataS/scripts/BaseMission.lua:1023 update
+  =dataS/scripts/FSBaseMission.lua:1913 update
+  =dataS/scripts/mission00.lua:684 update
+  =dataS/scripts/main.lua:1237 update
+2025-10-30 18:44:43.903 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/Vehicle.lua:1935: attempt to compare nil < number
+2025-10-30 18:44:43.920   Info: Adding pallet.
+2025-10-30 18:44:43.921 Warning (script): 'getTranslation': Argument 1 has wrong type. Expected: Int. Actual: Nil
+
+  D:\auto_builder\cache\svn\5e7c1a71ecbc79d8f508d9807d643f79\src\base\scripting\lua\LuauScriptSystem.cpp (1127): expectedType == Value::VoidType || expectedType == Value::ClassType2025-10-30 18:44:43.921 
+Script error: 'getTranslation': Argument 1 has wrong type. Expected: Int. Actual: Nil
+
+LUA call stack:
+  =[C]:-1 getTranslation
+  =dataS/scripts/vehicles/Vehicle.lua:1925 update
+  =dataS/scripts/network/NetworkNode.lua:181 updateActiveObjects
+  =dataS/scripts/network/Server.lua:64 update
+  =dataS/scripts/BaseMission.lua:1023 update
+  =dataS/scripts/FSBaseMission.lua:1913 update
+  =dataS/scripts/mission00.lua:684 update
+  =dataS/scripts/main.lua:1237 update
+2025-10-30 18:44:43.921 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/Vehicle.lua:1935: attempt to compare nil < number
+2025-10-30 18:44:43.938 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/Dashboard.lua:267: attempt to compare number < nil
+2025-10-30 18:44:43.958 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/Dashboard.lua:267: attempt to compare number < nil
+2025-10-30 18:44:44.060   Info: Adding pallet.
+2025-10-30 18:44:44.184   Info: Adding pallet.
+2025-10-30 18:44:44.290   Info: Adding pallet.
+2025-10-30 18:44:44.430   Info: Adding pallet.
+2025-10-30 18:44:44.591 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/Dashboard.lua:267: attempt to compare number < nil
+2025-10-30 18:44:44.607 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/Dashboard.lua:267: attempt to compare number < nil
+2025-10-30 18:44:44.626 Error: Running LUA method 'update'.
+dataS/scripts/internalMods/FS25_precisionFarming/scripts/specializations/PrecisionFarmingStatistic.lua:63: attempt to perform arithmetic (add) on nil and number
+2025-10-30 18:44:44.641   Warning: Server:registerObject() object table: 0x000002273da1ac08 1978 Vehicle already registered
+2025-10-30 18:45:06.649 FS25_UnloadBalesEarly: Sending new settings
+2025-10-30 18:45:06.650 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-30 18:45:06.650 FS25_UnloadBalesEarly: Sending new settings
+2025-10-30 18:45:06.650 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-30 18:45:06.650 FS25_UnloadBalesEarly: Sending new settings
+2025-10-30 18:45:06.650 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-30 18:45:06.651 FS25_UnloadBalesEarly: Sending new settings
+2025-10-30 18:45:06.651 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-30 18:45:06.651 FS25_UnloadBalesEarly: Sending new settings
+2025-10-30 18:45:06.651 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-30 18:47:21.757 siejA lost connection to the game
+2025-10-30 19:05:38.875 szagh left the game
+2025-10-30 19:12:21.941 Game saved successfully (savegame1).
+2025-10-30 19:12:47.832   Info: Adding pallet.
+2025-10-30 19:12:47.960   Info: Adding pallet.
+2025-10-30 19:12:48.101   Info: Adding pallet.
+2025-10-30 19:12:48.222   Info: Adding pallet.
+2025-10-30 19:12:50.941   Info: Adding pallet.
+2025-10-30 19:12:51.084   Info: Adding pallet.
+2025-10-30 19:12:51.226   Info: Adding pallet.
+2025-10-30 19:12:51.440   Info: Adding pallet.
+2025-10-30 19:12:51.599   Info: Adding pallet.
+2025-10-30 19:12:51.687   Info: Adding pallet.
+2025-10-30 19:12:51.810   Info: Adding pallet.
+2025-10-30 19:12:51.934   Info: Adding pallet.
+2025-10-30 19:12:52.074   Info: Adding pallet.
+2025-10-30 19:12:52.212   Info: Adding pallet.
+2025-10-30 19:12:52.319   Info: Adding pallet.
+2025-10-30 19:12:52.460   Info: Adding pallet.
+2025-10-30 19:12:52.620   Info: Adding pallet.
+2025-10-30 19:12:52.726   Info: Adding pallet.
+2025-10-30 19:12:52.989   Info: Adding pallet.
+2025-10-30 19:12:53.114   Info: Adding pallet.
+2025-10-30 19:12:53.238   Info: Adding pallet.
+2025-10-30 19:12:53.379   Info: Adding pallet.
+2025-10-30 19:12:53.641   Info: Adding pallet.
+2025-10-30 19:12:53.782   Info: Adding pallet.
+2025-10-30 19:12:53.889   Info: Adding pallet.
+2025-10-30 19:12:54.027   Info: Adding pallet.
+2025-10-30 19:12:54.152   Info: Adding pallet.
+2025-10-30 19:12:54.293   Info: Adding pallet.
+2025-10-30 19:12:54.415   Info: Adding pallet.
+2025-10-30 19:12:57.328   Info: Adding pallet.
+2025-10-30 19:12:57.467   Info: Adding pallet.
+2025-10-30 19:12:57.609   Info: Adding pallet.
+2025-10-30 19:12:57.731   Info: Adding pallet.
+2025-10-30 19:12:57.855   Info: Adding pallet.
+2025-10-30 19:12:57.944   Info: Adding pallet.
+2025-10-30 19:12:58.223   Info: Adding pallet.
+2025-10-30 19:12:58.471   Info: Adding pallet.
+2025-10-30 19:12:58.612   Info: Adding pallet.
+2025-10-30 19:12:58.737   Info: Adding pallet.
+2025-10-30 19:12:58.969   Info: Adding pallet.
+2025-10-30 19:12:59.127   Info: Adding pallet.
+2025-10-30 19:12:59.268   Info: Adding pallet.
+2025-10-30 19:12:59.518   Info: Adding pallet.
+2025-10-30 19:12:59.660   Info: Adding pallet.
+2025-10-30 19:12:59.821   Info: Adding pallet.
+2025-10-30 19:12:59.963   Info: Adding pallet.
+2025-10-30 19:13:00.105   Info: Adding pallet.
+2025-10-30 19:13:00.319   Info: Adding pallet.
+2025-10-30 19:13:00.479   Info: Adding pallet.
+2025-10-30 19:13:00.652   Info: Adding pallet.
+2025-10-30 19:13:00.793   Info: Adding pallet.
+2025-10-30 19:13:00.916   Info: Adding pallet.
+2025-10-30 19:13:01.043   Info: Adding pallet.
+2025-10-30 19:13:01.185   Info: Adding pallet.
+2025-10-30 19:13:01.327   Info: Adding pallet.
+2025-10-30 19:13:01.468   Info: Adding pallet.
+2025-10-30 19:20:16.320 data/objects/bigBag/bigBag.i3d (6.15 ms)
+2025-10-30 19:20:26.329 data/objects/bigBag/bigBag.i3d (5.53 ms)
+2025-10-30 19:20:38.390 data/objects/bigBag/bigBag.i3d (5.23 ms)
+2025-10-30 19:20:53.567 data/objects/bigBag/bigBag.i3d (5.18 ms)
+2025-10-30 19:21:07.867 data/objects/bigBag/bigBag.i3d (5.46 ms)
+2025-10-30 19:23:04.889   Info: Successfully set fill unit 1 of Lizard ZJV-F-3.0 to Water with a fill level of 3,000 liters.
+2025-10-30 19:23:18.012   Info: Successfully set fill unit 1 of Lizard ZJV-F-3.0 to Water with a fill level of 3,000 liters.
+2025-10-30 19:23:28.608   Info: Successfully set fill unit 1 of Lizard ZJV-F-3.0 to Water with a fill level of 3,000 liters.
+2025-10-30 19:23:45.789   Info: Successfully set fill unit 1 of Lizard ZJV-F-3.0 to Water with a fill level of 3,000 liters.
+2025-10-30 19:23:55.572   Info: Successfully set fill unit 1 of Lizard ZJV-F-3.0 to Water with a fill level of 3,000 liters.
+2025-10-30 19:24:08.539   Info: Successfully set fill unit 1 of Lizard ZJV-F-3.0 to Water with a fill level of 3,000 liters.
+2025-10-30 19:24:32.328   Info: Successfully set fill unit 1 of Lizard ZJV-F-3.0 to Water with a fill level of 3,000 liters.
+2025-10-30 19:24:41.397   Info: Successfully set fill unit 1 of Lizard ZJV-F-3.0 to Water with a fill level of 3,000 liters.
+2025-10-30 19:24:50.371   Info: Successfully set fill unit 1 of Lizard ZJV-F-3.0 to Water with a fill level of 3,000 liters.
+2025-10-30 19:25:00.757   Info: Successfully set fill unit 1 of Lizard ZJV-F-3.0 to Water with a fill level of 3,000 liters.
+2025-10-30 19:29:50.372   Info: Successfully set fill unit 1 of Metaltech DBL to Pig Food with a fill level of 15,000 liters.
