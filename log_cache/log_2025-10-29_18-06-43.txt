@@ -6033,3 +6033,32 @@ LUA call stack:
 2025-10-30 17:26:54.633 hubsonwaliszot left the game
 2025-10-30 17:34:45.017 szagh left the game
 2025-10-30 17:42:18.012 Game saved successfully (savegame1).
+2025-10-30 17:48:52.533   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Zetor 10145 Fast transmission'
+2025-10-30 17:49:09.985 siejA joined the game
+2025-10-30 17:49:10.006 FS25_UnloadBalesEarly: Sending new settings
+2025-10-30 17:49:10.006 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-30 17:49:10.008 FS25_UnloadBalesEarly: Sending new settings
+2025-10-30 17:49:10.008 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-30 17:49:10.116 dataS/character/playerM/fullBody/strauss/motion2020PantsVariant2ndVariant.i3d (114.63 ms)
+2025-10-30 17:49:10.136 dataS/character/playerM/facialHair/mHead01/goatee01.i3d (20.06 ms)
+2025-10-30 17:49:23.501 FS25_UnloadBalesEarly: Sending new settings
+2025-10-30 17:49:23.501 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-30 17:49:23.501 FS25_UnloadBalesEarly: Sending new settings
+2025-10-30 17:49:23.501 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-30 17:49:23.502 FS25_UnloadBalesEarly: Sending new settings
+2025-10-30 17:49:23.502 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-30 17:49:23.503 FS25_UnloadBalesEarly: Sending new settings
+2025-10-30 17:49:23.503 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-30 17:51:05.551   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Zetor 10145 Fast transmission'
+2025-10-30 17:52:59.860 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_lemkenSeedPack/azurit9.i3d (157.41 ms)
+2025-10-30 17:53:00.010 data/shared/assets/lights/lizard/rearLight13.i3d (2.71 ms)
+2025-10-30 17:53:00.013 data/shared/assets/lights/lizard/workingLight09.i3d (2.21 ms)
+2025-10-30 17:53:07.671 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_lemkenSeedPack/solitair23.i3d (49.54 ms)
+2025-10-30 17:53:07.784 data/shared/assets/lights/lizard/frontLight05.i3d (3.81 ms)
+2025-10-30 17:53:07.786 data/shared/assets/lights/lizard/workingLight04.i3d (2.13 ms)
+2025-10-30 17:54:01.582 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.60 ms)
+2025-10-30 17:54:06.069 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.68 ms)
+2025-10-30 17:54:06.126 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_mrhHandLiftableConsumables/bag/bag.i3d (4.79 ms)
+2025-10-30 17:56:16.344 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.56 ms)
+2025-10-30 17:56:16.404 data/objects/bigBag/bigBag.i3d (6.12 ms)
+2025-10-30 18:12:19.170 Game saved successfully (savegame1).
