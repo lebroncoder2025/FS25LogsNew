@@ -6444,3 +6444,14 @@ dataS/scripts/internalMods/FS25_precisionFarming/scripts/specializations/Precisi
 2025-10-30 20:11:03.996   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Case IH 160 CVX'
 2025-10-30 20:12:30.119 Game saved successfully (savegame1).
 2025-10-30 20:13:29.275   Info: Moved 2 vehicles to coordinates 697, 1002 successfully.
+2025-10-30 20:23:31.238 Jolero left the game
+2025-10-30 20:23:31.833 Game saved successfully (savegame1).
+2025-10-30 20:24:49.309   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'STEYR 8130 Turbo'
+2025-10-30 20:26:37.585 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_holarasJumbo/holarasjumbo.i3d (97.02 ms)
+2025-10-30 20:26:37.821 data/shared/assets/powerTakeOffs/walterscheidWWE.i3d (7.17 ms)
+2025-10-30 20:26:41.499 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_CasePumaCVX_Tier3/wheels/rimFront.i3d (3.21 ms)
+2025-10-30 20:26:41.504 data/shared/wheels/tires/michelin/machXbib/600_70R28.i3d (4.90 ms)
+2025-10-30 20:26:41.507 data/shared/wheels/weights/weight001.i3d (3.33 ms)
+2025-10-30 20:26:41.510 data/shared/wheels/tires/michelin/machXbib/710_70R38.i3d (3.26 ms)
+2025-10-30 20:26:44.559   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Case IH 160 CVX'
+2025-10-30 20:27:41.628 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Duevelsdorf_Pack/i3d/mss3700.i3d (25.78 ms)
