@@ -6712,3 +6712,16 @@ LUA call stack:
 2025-10-30 21:09:09.173 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_HayLoft/Dmuchawa1_4M.i3d (7.94 ms)
 2025-10-30 21:12:36.482 Game saved successfully (savegame1).
 2025-10-30 21:12:48.015 Piotrek left the game
+2025-10-30 21:35:07.396 M@rcin joined the game
+2025-10-30 21:35:07.418 FS25_UnloadBalesEarly: Sending new settings
+2025-10-30 21:35:07.418 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-30 21:35:07.433 dataS/character/playerM/jacket/topAviatorJacket.i3d (19.28 ms)
+2025-10-30 21:35:07.435 dataS/character/playerM/attachments/glassesAviators.i3d (1.88 ms)
+2025-10-30 21:35:07.470 dataS/character/playerM/hairStyles/hairStyleDiablo.i3d (34.52 ms)
+2025-10-30 21:35:07.471 dataS/character/playerM/facialHair/mHead01/beardStubble.i3d (1.45 ms)
+2025-10-30 21:36:04.322 FS25_UnloadBalesEarly: Sending new settings
+2025-10-30 21:36:04.322 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-30 21:36:04.323 FS25_UnloadBalesEarly: Sending new settings
+2025-10-30 21:36:04.323 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-30 21:36:04.324 FS25_UnloadBalesEarly: Sending new settings
+2025-10-30 21:36:04.324 FS25_UnloadBalesEarly: Done sending new settings
