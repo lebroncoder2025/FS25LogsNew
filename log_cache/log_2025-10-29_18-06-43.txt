@@ -5850,3 +5850,26 @@ LUA call stack:
 2025-10-30 14:44:06.774   Info: Adding pallet.
 2025-10-30 14:44:06.899   Info: Adding pallet.
 2025-10-30 14:44:07.929 data/objects/bigBag/bigBag.i3d (6.08 ms)
+2025-10-30 14:59:11.606 hubsonwaliszot joined the game
+2025-10-30 14:59:11.631 FS25_UnloadBalesEarly: Sending new settings
+2025-10-30 14:59:11.631 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-30 14:59:11.633 FS25_UnloadBalesEarly: Sending new settings
+2025-10-30 14:59:11.633 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-30 14:59:11.634 FS25_UnloadBalesEarly: Sending new settings
+2025-10-30 14:59:11.634 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-30 14:59:11.978 dataS/character/playerM/shirts/poettinger/poettingerTshirt.i3d (352.88 ms)
+2025-10-30 15:00:59.848 FS25_UnloadBalesEarly: Sending new settings
+2025-10-30 15:00:59.848 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-30 15:00:59.849 FS25_UnloadBalesEarly: Sending new settings
+2025-10-30 15:00:59.849 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-30 15:00:59.849 FS25_UnloadBalesEarly: Sending new settings
+2025-10-30 15:00:59.849 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-30 15:00:59.849 FS25_UnloadBalesEarly: Sending new settings
+2025-10-30 15:00:59.849 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-30 15:00:59.850 FS25_UnloadBalesEarly: Sending new settings
+2025-10-30 15:00:59.850 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-30 15:08:47.512 Jolero left the game
+2025-10-30 15:08:48.771 Game saved successfully (savegame1).
+2025-10-30 15:08:53.080 hubsonwaliszot left the game
+2025-10-30 15:08:53.825 siwa left the game
+2025-10-30 15:11:58.480 Game saved successfully (savegame1).
