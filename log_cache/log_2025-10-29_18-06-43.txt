@@ -5873,3 +5873,17 @@ LUA call stack:
 2025-10-30 15:08:53.080 hubsonwaliszot left the game
 2025-10-30 15:08:53.825 siwa left the game
 2025-10-30 15:11:58.480 Game saved successfully (savegame1).
+2025-10-30 15:38:35.399 Jolero joined the game
+2025-10-30 15:38:35.420 dataS/character/playerM/shirts/topTShirt01.i3d (2.33 ms)
+2025-10-30 15:38:35.423 FS25_UnloadBalesEarly: Sending new settings
+2025-10-30 15:38:35.423 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-30 15:38:35.455 dataS/character/playerM/hairStyles/hairStyleTopKnot.i3d (34.83 ms)
+2025-10-30 15:38:35.475 dataS/character/playerM/facialHair/mHead01/goatee01.i3d (20.01 ms)
+2025-10-30 15:38:51.760 FS25_UnloadBalesEarly: Sending new settings
+2025-10-30 15:38:51.760 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-30 15:38:51.761 FS25_UnloadBalesEarly: Sending new settings
+2025-10-30 15:38:51.761 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-30 15:38:51.761 FS25_UnloadBalesEarly: Sending new settings
+2025-10-30 15:38:51.761 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-30 15:39:39.054   Info: [Easy Development Controls] User Jolero has logged in as master user.
+2025-10-30 15:41:59.431 Game saved successfully (savegame1).
