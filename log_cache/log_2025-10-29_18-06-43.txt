@@ -5526,3 +5526,18 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-10-30 07:46:24.966 FS25_UnloadBalesEarly: Done sending new settings
 2025-10-30 08:03:51.815   Info: No 'ExhaustExtension' particle system added to vehicle 'Lizard Screw conveyor' because it has no exhaust
 2025-10-30 08:11:41.452 Game saved successfully (savegame1).
+2025-10-30 08:41:42.113 Game saved successfully (savegame1).
+2025-10-30 09:11:42.297 Game saved successfully (savegame1).
+2025-10-30 09:27:59.953 Jolero joined the game
+2025-10-30 09:27:59.971 dataS/character/playerM/shirts/topTShirt01.i3d (2.30 ms)
+2025-10-30 09:27:59.974 FS25_UnloadBalesEarly: Sending new settings
+2025-10-30 09:27:59.974 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-30 09:28:00.007 dataS/character/playerM/hairStyles/hairStyleTopKnot.i3d (35.17 ms)
+2025-10-30 09:28:00.026 dataS/character/playerM/facialHair/mHead01/goatee01.i3d (19.56 ms)
+2025-10-30 09:28:16.026 FS25_UnloadBalesEarly: Sending new settings
+2025-10-30 09:28:16.026 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-30 09:28:16.027 FS25_UnloadBalesEarly: Sending new settings
+2025-10-30 09:28:16.027 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-30 09:28:16.027 FS25_UnloadBalesEarly: Sending new settings
+2025-10-30 09:28:16.027 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-30 09:29:02.521   Info: [Easy Development Controls] User Jolero has logged in as master user.
