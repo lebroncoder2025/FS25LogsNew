@@ -5705,3 +5705,6 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-10-30 12:11:47.269 Game saved successfully (savegame1).
 2025-10-30 12:11:50.637   Info: Added € 4,500 to farm account. (3)
 2025-10-30 12:15:21.616   Info: Successfully set fill unit 1 of Pomot UPR 10 to Lime with a fill level of 7,900 liters.
+2025-10-30 12:21:53.605 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.63 ms)
+2025-10-30 12:31:31.436   Info: Successfully set fill unit 2 of Kverneland Optima RS to Solid Fertilizer with a fill level of 2,000 liters.
+2025-10-30 12:31:43.788   Info: Successfully set fill unit 1 of Kverneland Optima RS to Seeds with a fill level of 660 liters.
