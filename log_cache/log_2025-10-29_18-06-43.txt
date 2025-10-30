@@ -6390,3 +6390,51 @@ dataS/scripts/internalMods/FS25_precisionFarming/scripts/specializations/Precisi
 2025-10-30 19:24:50.371   Info: Successfully set fill unit 1 of Lizard ZJV-F-3.0 to Water with a fill level of 3,000 liters.
 2025-10-30 19:25:00.757   Info: Successfully set fill unit 1 of Lizard ZJV-F-3.0 to Water with a fill level of 3,000 liters.
 2025-10-30 19:29:50.372   Info: Successfully set fill unit 1 of Metaltech DBL to Pig Food with a fill level of 15,000 liters.
+2025-10-30 19:33:47.035   Info: Adding bale.
+2025-10-30 19:33:47.192   Info: Adding bale.
+2025-10-30 19:34:02.511   Info: Adding bale.
+2025-10-30 19:34:02.667   Info: Adding bale.
+2025-10-30 19:34:02.773   Info: Adding bale.
+2025-10-30 19:34:09.439   Info: Super Strength enabled by Jolero
+2025-10-30 19:35:48.942 M@rcin joined the game
+2025-10-30 19:35:48.974 FS25_UnloadBalesEarly: Sending new settings
+2025-10-30 19:35:48.974 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-30 19:35:48.976 FS25_UnloadBalesEarly: Sending new settings
+2025-10-30 19:35:48.976 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-30 19:35:48.982 dataS/character/playerM/jacket/topAviatorJacket.i3d (26.85 ms)
+2025-10-30 19:35:48.984 dataS/character/playerM/attachments/glassesAviators.i3d (1.75 ms)
+2025-10-30 19:35:49.025 dataS/character/playerM/hairStyles/hairStyleDiablo.i3d (41.42 ms)
+2025-10-30 19:35:49.027 dataS/character/playerM/facialHair/mHead01/beardStubble.i3d (1.60 ms)
+2025-10-30 19:36:34.925   Info: Super Strength disabled by Jolero
+2025-10-30 19:36:45.937 FS25_UnloadBalesEarly: Sending new settings
+2025-10-30 19:36:45.937 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-30 19:36:45.938 FS25_UnloadBalesEarly: Sending new settings
+2025-10-30 19:36:45.938 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-30 19:36:45.938 FS25_UnloadBalesEarly: Sending new settings
+2025-10-30 19:36:45.938 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-30 19:36:45.938 FS25_UnloadBalesEarly: Sending new settings
+2025-10-30 19:36:45.938 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-30 19:42:28.232 Game saved successfully (savegame1).
+2025-10-30 19:44:50.645 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_mammutSiloCompactionPack/i3d/siloFoxGigant/mammutSiloFox230Gigant.i3d (67.97 ms)
+2025-10-30 19:44:50.868 data/shared/assets/powerTakeOffs/walterscheidWWZ.i3d (7.19 ms)
+2025-10-30 19:46:15.346 zwierek joined the game
+2025-10-30 19:46:15.383 dataS/character/playerM/pants/botJeanShorts.i3d (22.49 ms)
+2025-10-30 19:46:15.383 FS25_UnloadBalesEarly: Sending new settings
+2025-10-30 19:46:15.383 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-30 19:46:15.384 FS25_UnloadBalesEarly: Sending new settings
+2025-10-30 19:46:15.384 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-30 19:46:15.385 FS25_UnloadBalesEarly: Sending new settings
+2025-10-30 19:46:15.385 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-30 19:46:15.499 dataS/character/playerM/shoes/sandalM03.i3d (115.96 ms)
+2025-10-30 19:46:15.536 dataS/character/playerM/hairStyles/hairStyleBaldTop.i3d (36.93 ms)
+2025-10-30 19:46:15.546 dataS/character/playerM/facialHair/mHead01/walrusXL.i3d (10.05 ms)
+2025-10-30 19:47:06.213 FS25_UnloadBalesEarly: Sending new settings
+2025-10-30 19:47:06.213 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-30 19:47:06.214 FS25_UnloadBalesEarly: Sending new settings
+2025-10-30 19:47:06.214 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-30 19:47:06.214 FS25_UnloadBalesEarly: Sending new settings
+2025-10-30 19:47:06.214 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-30 19:47:06.215 FS25_UnloadBalesEarly: Sending new settings
+2025-10-30 19:47:06.215 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-30 19:47:06.215 FS25_UnloadBalesEarly: Sending new settings
+2025-10-30 19:47:06.215 FS25_UnloadBalesEarly: Done sending new settings
