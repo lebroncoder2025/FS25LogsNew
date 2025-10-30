@@ -5622,3 +5622,60 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-10-30 10:28:37.802 FS25_UnloadBalesEarly: Done sending new settings
 2025-10-30 10:28:37.803 FS25_UnloadBalesEarly: Sending new settings
 2025-10-30 10:28:37.803 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-30 10:40:14.177 siwa lost connection to the game
+2025-10-30 10:41:43.282 Game saved successfully (savegame1).
+2025-10-30 10:43:05.202 symonixprime serwerkaput joined the game
+2025-10-30 10:43:05.237 FS25_UnloadBalesEarly: Sending new settings
+2025-10-30 10:43:05.237 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-30 10:43:05.362 dataS/character/playerM/pants/poettinger/poettingerShort.i3d (145.53 ms)
+2025-10-30 10:43:05.405 dataS/character/playerM/heads/mHead02.i3d (14.97 ms)
+2025-10-30 10:43:05.499 dataS/character/playerM/shirts/topTShirt02.i3d (94.01 ms)
+2025-10-30 10:43:05.502 dataS/character/playerM/shoes/sandalM02.i3d (1.21 ms)
+2025-10-30 10:43:05.536 dataS/character/playerM/hairStyles/hairStyleTopKnot.i3d (34.81 ms)
+2025-10-30 10:43:05.553 dataS/character/playerM/facialHair/mHead02/fullBeard.i3d (17.06 ms)
+2025-10-30 10:44:28.914 FS25_UnloadBalesEarly: Sending new settings
+2025-10-30 10:44:28.914 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-30 10:44:28.914 FS25_UnloadBalesEarly: Sending new settings
+2025-10-30 10:44:28.914 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-30 10:44:28.915 FS25_UnloadBalesEarly: Sending new settings
+2025-10-30 10:44:28.915 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-30 10:46:15.578   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'FMŻ Z-310'
+2025-10-30 10:47:19.926 dataS/character/playerM/fullBody/onePieceMechanic.i3d (41.71 ms)
+2025-10-30 10:47:19.971 dataS/character/playerM/shoes/riding.i3d (22.25 ms)
+2025-10-30 10:47:20.019 dataS/character/playerM/hairStyles/hairStyleUnkempt.i3d (44.32 ms)
+2025-10-30 10:47:20.064 dataS/character/playerM/facialHair/mHead02/goatee01.i3d (25.43 ms)
+2025-10-30 10:54:23.777 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Old_Manure_Heap/Old_Manure_Heap_Small2.i3d (10.37 ms)
+2025-10-30 10:57:12.600 data/objects/pallets/liquidTank/liquidTank.i3d (3.30 ms)
+2025-10-30 10:57:12.628 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_lsfmBigBagPack/objects/bigBag/bigBag.i3d (7.40 ms)
+2025-10-30 10:57:12.638 data/objects/bigBagPallet/bigBagPallet.i3d (4.41 ms)
+2025-10-30 10:57:18.705 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_lsfmBigBagPack/objects/bigBag/bigBag.i3d (4.92 ms)
+2025-10-30 10:57:19.693 data/objects/pallets/liquidTank/liquidTank.i3d (3.13 ms)
+2025-10-30 10:57:19.714 data/objects/bigBagPallet/bigBagPallet.i3d (5.14 ms)
+2025-10-30 10:57:24.844 data/objects/pallets/liquidTank/liquidTank.i3d (3.31 ms)
+2025-10-30 10:57:24.848 data/objects/bigBagPallet/bigBagPallet.i3d (4.03 ms)
+2025-10-30 11:04:27.527 data/objects/pallets/liquidTank/liquidTank.i3d (3.18 ms)
+2025-10-30 11:04:28.517 data/objects/bigBagPallet/bigBagPallet.i3d (4.38 ms)
+2025-10-30 11:04:30.084 data/objects/bigBagPallet/bigBagPallet.i3d (4.33 ms)
+2025-10-30 11:08:32.853 data/objects/pallets/pioneer/pioneerPallet.i3d (1.54 ms)
+2025-10-30 11:08:35.625 data/objects/pallets/pioneer/pioneerPallet.i3d (1.51 ms)
+2025-10-30 11:08:35.647 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_lsfmBigBagPack/objects/bigBag/bigBag.i3d (4.94 ms)
+2025-10-30 11:09:55.881 siwa joined the game
+2025-10-30 11:09:55.904 FS25_UnloadBalesEarly: Sending new settings
+2025-10-30 11:09:55.904 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-30 11:09:55.906 FS25_UnloadBalesEarly: Sending new settings
+2025-10-30 11:09:55.906 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-30 11:10:09.787 FS25_UnloadBalesEarly: Sending new settings
+2025-10-30 11:10:09.787 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-30 11:10:09.787 FS25_UnloadBalesEarly: Sending new settings
+2025-10-30 11:10:09.787 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-30 11:10:09.787 FS25_UnloadBalesEarly: Sending new settings
+2025-10-30 11:10:09.787 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-30 11:10:09.788 FS25_UnloadBalesEarly: Sending new settings
+2025-10-30 11:10:09.788 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-30 11:11:38.957   Info: Successfully added 'ExhaustExtension' particle system to 2 nodes of vehicle '601S Trabant original'
+2025-10-30 11:11:43.595 Game saved successfully (savegame1).
+2025-10-30 11:17:08.004 data/objects/pallets/pioneer/pioneerPallet.i3d (1.59 ms)
+2025-10-30 11:17:08.023 data/objects/pallets/liquidTank/liquidTank.i3d (3.13 ms)
+2025-10-30 11:17:08.059 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_lsfmBigBagPack/objects/bigBag/bigBag.i3d (4.78 ms)
+2025-10-30 11:17:08.167 data/objects/bigBagPallet/bigBagPallet.i3d (4.10 ms)
+2025-10-30 11:22:30.481 symonixprime serwerkaput lost connection to the game
