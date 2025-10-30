@@ -6062,3 +6062,27 @@ LUA call stack:
 2025-10-30 17:56:16.344 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.56 ms)
 2025-10-30 17:56:16.404 data/objects/bigBag/bigBag.i3d (6.12 ms)
 2025-10-30 18:12:19.170 Game saved successfully (savegame1).
+2025-10-30 18:30:04.841 szagh joined the game
+2025-10-30 18:30:04.860 dataS/character/playerM/shirts/topTShirt01.i3d (2.34 ms)
+2025-10-30 18:30:04.865 dataS/character/playerM/attachments/headgearBeanie.i3d (4.43 ms)
+2025-10-30 18:30:04.866 FS25_UnloadBalesEarly: Sending new settings
+2025-10-30 18:30:04.866 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-30 18:30:04.867 FS25_UnloadBalesEarly: Sending new settings
+2025-10-30 18:30:04.867 dataS/character/playerM/attachments/glassesSports01.i3d (1.80 ms)
+2025-10-30 18:30:04.867 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-30 18:30:04.868 FS25_UnloadBalesEarly: Sending new settings
+2025-10-30 18:30:04.868 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-30 18:30:04.883 dataS/character/playerM/facialHair/mHead01/muttonChops03.i3d (16.25 ms)
+2025-10-30 18:30:23.621 FS25_UnloadBalesEarly: Sending new settings
+2025-10-30 18:30:23.621 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-30 18:30:23.622 FS25_UnloadBalesEarly: Sending new settings
+2025-10-30 18:30:23.622 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-30 18:30:23.622 FS25_UnloadBalesEarly: Sending new settings
+2025-10-30 18:30:23.622 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-30 18:30:23.622 FS25_UnloadBalesEarly: Sending new settings
+2025-10-30 18:30:23.622 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-30 18:30:23.623 FS25_UnloadBalesEarly: Sending new settings
+2025-10-30 18:30:23.623 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-30 18:32:33.850   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Volvo F16 500 CVT'
+2025-10-30 18:35:52.953 data/objects/bigBag/bigBag.i3d (5.82 ms)
+2025-10-30 18:37:58.111 zwierek left the game
