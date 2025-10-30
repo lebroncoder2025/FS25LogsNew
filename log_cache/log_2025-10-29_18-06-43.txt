@@ -5697,3 +5697,11 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-10-30 11:40:43.583 FS25_UnloadBalesEarly: Done sending new settings
 2025-10-30 11:41:31.607   Info: [Easy Development Controls] User Jolero has logged in as master user.
 2025-10-30 11:41:44.183 Game saved successfully (savegame1).
+2025-10-30 11:57:56.697   Info: Savegame Setting 'economicDifficulty': NORMAL
+2025-10-30 11:57:56.894   Info: Savegame Setting 'economicDifficulty': EASY
+2025-10-30 11:58:01.434   Info: Savegame Setting 'economicDifficulty': NORMAL
+2025-10-30 11:58:01.594   Info: Savegame Setting 'economicDifficulty': HARD
+2025-10-30 12:11:40.711   Info: Successfully set fill unit 1 of Pomot UPR 10 to Lime with a fill level of 7,900 liters.
+2025-10-30 12:11:47.269 Game saved successfully (savegame1).
+2025-10-30 12:11:50.637   Info: Added € 4,500 to farm account. (3)
+2025-10-30 12:15:21.616   Info: Successfully set fill unit 1 of Pomot UPR 10 to Lime with a fill level of 7,900 liters.
