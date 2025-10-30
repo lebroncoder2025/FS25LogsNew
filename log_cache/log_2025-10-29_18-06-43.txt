@@ -5524,3 +5524,5 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-10-30 07:46:24.966 FS25_UnloadBalesEarly: Done sending new settings
 2025-10-30 07:46:24.966 FS25_UnloadBalesEarly: Sending new settings
 2025-10-30 07:46:24.966 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-30 08:03:51.815   Info: No 'ExhaustExtension' particle system added to vehicle 'Lizard Screw conveyor' because it has no exhaust
+2025-10-30 08:11:41.452 Game saved successfully (savegame1).
