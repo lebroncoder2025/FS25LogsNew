@@ -6031,3 +6031,5 @@ LUA call stack:
 2025-10-30 17:26:47.745 Jolero left the game
 2025-10-30 17:26:48.732 Game saved successfully (savegame1).
 2025-10-30 17:26:54.633 hubsonwaliszot left the game
+2025-10-30 17:34:45.017 szagh left the game
+2025-10-30 17:42:18.012 Game saved successfully (savegame1).
