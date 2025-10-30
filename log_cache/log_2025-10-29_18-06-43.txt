@@ -5679,3 +5679,21 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-10-30 11:17:08.059 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_lsfmBigBagPack/objects/bigBag/bigBag.i3d (4.78 ms)
 2025-10-30 11:17:08.167 data/objects/bigBagPallet/bigBagPallet.i3d (4.10 ms)
 2025-10-30 11:22:30.481 symonixprime serwerkaput lost connection to the game
+2025-10-30 11:40:27.868 Jolero joined the game
+2025-10-30 11:40:27.884 dataS/character/playerM/shirts/topTShirt01.i3d (2.34 ms)
+2025-10-30 11:40:27.904 FS25_UnloadBalesEarly: Sending new settings
+2025-10-30 11:40:27.904 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-30 11:40:27.905 FS25_UnloadBalesEarly: Sending new settings
+2025-10-30 11:40:27.905 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-30 11:40:27.919 dataS/character/playerM/hairStyles/hairStyleTopKnot.i3d (35.08 ms)
+2025-10-30 11:40:27.939 dataS/character/playerM/facialHair/mHead01/goatee01.i3d (19.81 ms)
+2025-10-30 11:40:43.581 FS25_UnloadBalesEarly: Sending new settings
+2025-10-30 11:40:43.581 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-30 11:40:43.583 FS25_UnloadBalesEarly: Sending new settings
+2025-10-30 11:40:43.583 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-30 11:40:43.583 FS25_UnloadBalesEarly: Sending new settings
+2025-10-30 11:40:43.583 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-30 11:40:43.583 FS25_UnloadBalesEarly: Sending new settings
+2025-10-30 11:40:43.583 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-30 11:41:31.607   Info: [Easy Development Controls] User Jolero has logged in as master user.
+2025-10-30 11:41:44.183 Game saved successfully (savegame1).
