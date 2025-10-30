@@ -5985,3 +5985,49 @@ LUA call stack:
 2025-10-30 16:24:53.565   Info: Successfully set fill unit 1 of Metaltech DBL to Soybeans with a fill level of 17,500 liters.
 2025-10-30 16:39:34.274   Info: Moved player to coordinates 1130, 1451 successfully.
 2025-10-30 16:39:54.578   Info: Moved player to coordinates 1851, 694 successfully.
+2025-10-30 16:42:08.551 Game saved successfully (savegame1).
+2025-10-30 16:44:30.999 data/objects/bigBagPallet/bigBagPallet.i3d (4.54 ms)
+2025-10-30 16:44:46.763 data/objects/bigBag/bigBag.i3d (5.00 ms)
+2025-10-30 16:46:25.620   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_ursus385_A_PL/xml/385A.xml): Direction alignment and rotation alignment used at the same time for movingPart 'movingPartRightHand_group' in 'vehicle.cylindered.movingParts.movingPart(45)'
+2025-10-30 16:46:25.620   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_ursus385_A_PL/xml/385A.xml): Direction alignment and rotation alignment used at the same time for movingPart 'movingPartLeftHand_group' in 'vehicle.cylindered.movingParts.movingPart(46)'
+2025-10-30 16:46:26.004   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_ursus385_A_PL/xml/385A.xml): Failed to find material by material slot name 'DachMat' in 'vehicle.designColor5Configurations.material(0)'
+2025-10-30 16:46:29.422   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Ursus C-385A Fast transmission'
+2025-10-30 16:52:44.378 data/objects/bigBag/bigBag.i3d (5.58 ms)
+2025-10-30 16:54:51.083 hubsonwaliszot joined the game
+2025-10-30 16:54:51.108 FS25_UnloadBalesEarly: Sending new settings
+2025-10-30 16:54:51.109 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-30 16:54:51.111 FS25_UnloadBalesEarly: Sending new settings
+2025-10-30 16:54:51.111 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-30 16:54:51.112 FS25_UnloadBalesEarly: Sending new settings
+2025-10-30 16:54:51.112 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-30 16:54:51.113 FS25_UnloadBalesEarly: Sending new settings
+2025-10-30 16:54:51.113 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-30 16:54:51.114 FS25_UnloadBalesEarly: Sending new settings
+2025-10-30 16:54:51.114 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-30 16:54:51.392 dataS/character/playerM/shirts/poettinger/poettingerTshirt.i3d (293.54 ms)
+2025-10-30 16:56:35.339 FS25_UnloadBalesEarly: Sending new settings
+2025-10-30 16:56:35.339 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-30 16:56:35.339 FS25_UnloadBalesEarly: Sending new settings
+2025-10-30 16:56:35.340 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-30 16:56:35.340 FS25_UnloadBalesEarly: Sending new settings
+2025-10-30 16:56:35.340 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-30 16:56:35.340 FS25_UnloadBalesEarly: Sending new settings
+2025-10-30 16:56:35.340 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-30 16:56:35.341 FS25_UnloadBalesEarly: Sending new settings
+2025-10-30 16:56:35.341 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-30 16:56:35.341 FS25_UnloadBalesEarly: Sending new settings
+2025-10-30 16:56:35.341 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-30 16:56:35.341 FS25_UnloadBalesEarly: Sending new settings
+2025-10-30 16:56:35.341 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-30 17:08:21.455 data/objects/pallets/liquidTank/liquidTank.i3d (3.61 ms)
+2025-10-30 17:08:52.785 data/objects/pallets/liquidTank/liquidTank.i3d (3.80 ms)
+2025-10-30 17:09:43.499 dataS/character/playerF/pants/botCargo.i3d (18.36 ms)
+2025-10-30 17:11:24.047   Info: Successfully set fill unit 1 of Stara Tornado 600 MD to Lime with a fill level of 650 liters.
+2025-10-30 17:12:14.318 Game saved successfully (savegame1).
+2025-10-30 17:15:02.334   Info: Super Strength enabled by szagh
+2025-10-30 17:16:06.034   Info: Super Strength disabled by szagh
+2025-10-30 17:19:26.387 siwa lost connection to the game
+2025-10-30 17:26:47.736 Warning: Send called with unknown target address.
+2025-10-30 17:26:47.745 Jolero left the game
+2025-10-30 17:26:48.732 Game saved successfully (savegame1).
+2025-10-30 17:26:54.633 hubsonwaliszot left the game
