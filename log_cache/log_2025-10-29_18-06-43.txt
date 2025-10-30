@@ -6744,3 +6744,19 @@ LUA call stack:
 2025-10-30 22:11:04.836 hubsonwaliszot left the game
 2025-10-30 22:12:37.122 Game saved successfully (savegame1).
 2025-10-30 22:24:01.091 M@rcin lost connection to the game
+2025-10-30 22:38:06.625 zone joined the game
+2025-10-30 22:38:06.840 dataS/character/playerM/heads/mHead02.i3d (14.95 ms)
+2025-10-30 22:38:06.957 dataS/character/playerM/jacket/caseIH/caseIHTop.i3d (115.53 ms)
+2025-10-30 22:38:06.966 dataS/character/playerM/attachments/caseIHhat.i3d (9.42 ms)
+2025-10-30 22:38:07.008 dataS/character/playerM/hairStyles/hairStyleFringe.i3d (41.86 ms)
+2025-10-30 22:38:07.027 dataS/character/playerM/facialHair/mHead02/fullBeard.i3d (19.16 ms)
+2025-10-30 22:38:23.497 FS25_UnloadBalesEarly: Sending new settings
+2025-10-30 22:38:23.497 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-30 22:38:23.499 FS25_UnloadBalesEarly: Sending new settings
+2025-10-30 22:38:23.499 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-30 22:40:54.134 data/objects/bigBagPallet/bigBagPallet.i3d (4.85 ms)
+2025-10-30 22:41:54.860 data/objects/bigBagPallet/bigBagPallet.i3d (4.68 ms)
+2025-10-30 22:42:29.886 data/objects/bigBagPallet/bigBagPallet.i3d (4.67 ms)
+2025-10-30 22:42:41.913 Game saved successfully (savegame1).
+2025-10-30 22:47:30.651 zone lost connection to the game
+2025-10-30 23:12:57.309 Game saved successfully (savegame1).
