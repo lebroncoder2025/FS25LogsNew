@@ -7024,3 +7024,37 @@ LUA call stack:
 2025-10-31 13:15:25.853 Piotrek lost connection to the game
 2025-10-31 13:16:02.699 Game saved successfully (savegame1).
 2025-10-31 13:46:02.914 Game saved successfully (savegame1).
+2025-10-31 14:09:36.721 Piotrek joined the game
+2025-10-31 14:09:36.746 FS25_UnloadBalesEarly: Sending new settings
+2025-10-31 14:09:36.746 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-31 14:09:36.799 dataS/character/playerM/shirts/topTankTop.i3d (59.62 ms)
+2025-10-31 14:09:36.805 dataS/character/playerM/gloves/glovesGeneric.i3d (6.13 ms)
+2025-10-31 14:09:36.817 dataS/character/playerM/attachments/headgearCowboy.i3d (11.06 ms)
+2025-10-31 14:09:36.818 dataS/character/playerM/shoes/sandalM02.i3d (1.53 ms)
+2025-10-31 14:09:50.673 FS25_UnloadBalesEarly: Sending new settings
+2025-10-31 14:09:50.673 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-31 14:09:50.674 FS25_UnloadBalesEarly: Sending new settings
+2025-10-31 14:09:50.674 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-31 14:09:50.675 FS25_UnloadBalesEarly: Sending new settings
+2025-10-31 14:09:50.675 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-31 14:10:46.610 Jolero joined the game
+2025-10-31 14:10:46.631 dataS/character/playerM/shirts/topTShirt01.i3d (2.33 ms)
+2025-10-31 14:10:46.633 FS25_UnloadBalesEarly: Sending new settings
+2025-10-31 14:10:46.633 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-31 14:10:46.634 FS25_UnloadBalesEarly: Sending new settings
+2025-10-31 14:10:46.634 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-31 14:10:46.672 dataS/character/playerM/hairStyles/hairStyleTopKnot.i3d (40.95 ms)
+2025-10-31 14:10:46.693 dataS/character/playerM/facialHair/mHead01/goatee01.i3d (21.06 ms)
+2025-10-31 14:11:02.390 FS25_UnloadBalesEarly: Sending new settings
+2025-10-31 14:11:02.390 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-31 14:11:02.391 FS25_UnloadBalesEarly: Sending new settings
+2025-10-31 14:11:02.391 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-31 14:11:02.391 FS25_UnloadBalesEarly: Sending new settings
+2025-10-31 14:11:02.391 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-31 14:11:02.392 FS25_UnloadBalesEarly: Sending new settings
+2025-10-31 14:11:02.392 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-31 14:12:00.752   Info: [Easy Development Controls] User Jolero has logged in as master user.
+2025-10-31 14:12:07.031   Info: Moved player to coordinates 641, 839 successfully.
+2025-10-31 14:16:04.572 Game saved successfully (savegame1).
+2025-10-31 14:24:04.563   Info: Successfully set fill unit 1 of Strautmann Tera-Vitesse CFS 4601 DO to Hay with a fill level of 45,000 liters.
+2025-10-31 14:24:16.176   Info: Successfully emptied fill unit 1 of Strautmann Tera-Vitesse CFS 4601 DO.
