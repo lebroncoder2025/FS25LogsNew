@@ -7005,3 +7005,22 @@ LUA call stack:
 2025-10-31 11:55:50.001   Info: No 'ExhaustExtension' particle system added to vehicle 'Jungheinrich EFG S50 Pro' because it has no exhaust
 2025-10-31 11:55:57.626   Info: Moved 1 vehicles to coordinates 638, 822 successfully.
 2025-10-31 12:16:00.905 Game saved successfully (savegame1).
+2025-10-31 12:38:14.191   Info: Successfully set fill unit 1 of CLAAS MEGA 218 to Soybeans with a fill level of 8,000 liters.
+2025-10-31 12:46:02.057 Game saved successfully (savegame1).
+2025-10-31 13:01:31.832 data/objects/bigBagPallet/bigBagPallet.i3d (4.31 ms)
+2025-10-31 13:02:30.598 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_SILOS200/silos_add.i3d (61.05 ms)
+2025-10-31 13:08:36.213   Info: Successfully set fill unit 1 of CLAAS MEGA 218 to Soybeans with a fill level of 8,000 liters.
+2025-10-31 13:11:03.593   Info: Successfully set fill unit 1 of Metaltech DBL to Soybeans with a fill level of 17,500 liters.
+2025-10-31 13:11:29.669   Info: Successfully set fill unit 1 of Metaltech DBL to Wheat with a fill level of 5,400 liters.
+2025-10-31 13:11:39.674   Info: Successfully set fill unit 1 of Metaltech DBL to Wheat with a fill level of 700 liters.
+2025-10-31 13:11:45.411   Info: Successfully set fill unit 1 of Metaltech DBL to Wheat with a fill level of 7,000 liters.
+2025-10-31 13:11:47.396 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.75 ms)
+2025-10-31 13:11:58.723   Info: Successfully set fill unit 1 of Metaltech DBL to Soybeans with a fill level of 7,000 liters.
+2025-10-31 13:12:06.944   Info: Successfully set fill unit 1 of Metaltech DBL to Soybeans with a fill level of 6,000 liters.
+2025-10-31 13:12:23.065 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.61 ms)
+2025-10-31 13:14:26.982 Warning: Send called with unknown target address.
+2025-10-31 13:14:26.995 Jolero left the game
+2025-10-31 13:14:28.047 Game saved successfully (savegame1).
+2025-10-31 13:15:25.853 Piotrek lost connection to the game
+2025-10-31 13:16:02.699 Game saved successfully (savegame1).
+2025-10-31 13:46:02.914 Game saved successfully (savegame1).
