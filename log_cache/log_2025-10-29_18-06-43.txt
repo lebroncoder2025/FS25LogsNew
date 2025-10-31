@@ -7076,3 +7076,12 @@ LUA call stack:
 2025-10-31 15:46:12.814 Game saved successfully (savegame1).
 2025-10-31 16:13:58.704 Piotrek lost connection to the game
 2025-10-31 16:16:14.639 Game saved successfully (savegame1).
+2025-10-31 16:46:16.293 Game saved successfully (savegame1).
+2025-10-31 16:49:04.150 zwierek left the game
+2025-10-31 17:16:29.088 Game saved successfully (savegame1).
+2025-10-31 17:17:16.008 hubsonwaliszot joined the game
+2025-10-31 17:17:16.574 dataS/character/playerM/shirts/poettinger/poettingerTshirt.i3d (365.23 ms)
+2025-10-31 17:18:36.173 FS25_UnloadBalesEarly: Sending new settings
+2025-10-31 17:18:36.173 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-31 17:18:36.174 FS25_UnloadBalesEarly: Sending new settings
+2025-10-31 17:18:36.174 FS25_UnloadBalesEarly: Done sending new settings
