@@ -7085,3 +7085,12 @@ LUA call stack:
 2025-10-31 17:18:36.173 FS25_UnloadBalesEarly: Done sending new settings
 2025-10-31 17:18:36.174 FS25_UnloadBalesEarly: Sending new settings
 2025-10-31 17:18:36.174 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-31 17:41:52.869 Figuana joined the game
+2025-10-31 17:41:52.903 FS25_UnloadBalesEarly: Sending new settings
+2025-10-31 17:41:52.903 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-31 17:42:51.668 FS25_UnloadBalesEarly: Sending new settings
+2025-10-31 17:42:51.668 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-31 17:42:51.669 FS25_UnloadBalesEarly: Sending new settings
+2025-10-31 17:42:51.669 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-31 17:42:51.669 FS25_UnloadBalesEarly: Sending new settings
+2025-10-31 17:42:51.669 FS25_UnloadBalesEarly: Done sending new settings
