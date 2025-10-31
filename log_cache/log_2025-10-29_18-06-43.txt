@@ -6793,3 +6793,10 @@ LUA call stack:
 2025-10-31 05:35:23.481 FS25_UnloadBalesEarly: Done sending new settings
 2025-10-31 05:35:23.482 FS25_UnloadBalesEarly: Sending new settings
 2025-10-31 05:35:23.482 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-31 05:43:16.705 data/objects/bigBagPallet/bigBagPallet.i3d (4.12 ms)
+2025-10-31 05:43:39.927 data/objects/bigBagPallet/bigBagPallet.i3d (4.31 ms)
+2025-10-31 05:44:11.138 data/objects/bigBagPallet/bigBagPallet.i3d (4.15 ms)
+2025-10-31 05:44:54.232 data/objects/bigBagPallet/bigBagPallet.i3d (4.17 ms)
+2025-10-31 05:45:00.095 Game saved successfully (savegame1).
+2025-10-31 05:50:20.018 zone lost connection to the game
+2025-10-31 06:15:13.343 Game saved successfully (savegame1).
