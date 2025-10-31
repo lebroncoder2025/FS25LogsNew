@@ -6885,3 +6885,13 @@ LUA call stack:
 2025-10-31 09:08:49.513 FS25_UnloadBalesEarly: Done sending new settings
 2025-10-31 09:13:46.206 symonixprime nie ten znany lost connection to the game
 2025-10-31 09:15:51.020 Game saved successfully (savegame1).
+2025-10-31 09:31:54.515 zwierek joined the game
+2025-10-31 09:31:54.737 dataS/character/playerM/pants/botJeanShorts.i3d (21.11 ms)
+2025-10-31 09:31:54.738 dataS/character/playerM/attachments/glassesAviators.i3d (1.40 ms)
+2025-10-31 09:31:54.832 dataS/character/playerM/shoes/sandalM03.i3d (93.77 ms)
+2025-10-31 09:31:54.868 dataS/character/playerM/hairStyles/hairStyleBaldTop.i3d (36.84 ms)
+2025-10-31 09:31:54.878 dataS/character/playerM/facialHair/mHead01/walrusXL.i3d (9.27 ms)
+2025-10-31 09:32:46.988 FS25_UnloadBalesEarly: Sending new settings
+2025-10-31 09:32:46.988 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-31 09:32:46.990 FS25_UnloadBalesEarly: Sending new settings
+2025-10-31 09:32:46.990 FS25_UnloadBalesEarly: Done sending new settings
