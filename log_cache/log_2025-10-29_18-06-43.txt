@@ -7117,3 +7117,30 @@ LUA call stack:
 2025-10-31 18:05:13.689 data/objects/bigBagPallet/bigBagPallet.i3d (4.47 ms)
 2025-10-31 18:05:47.185 data/objects/bigBagPallet/bigBagPallet.i3d (4.63 ms)
 2025-10-31 18:16:26.144 Game saved successfully (savegame1).
+2025-10-31 18:27:38.257 Jolero joined the game
+2025-10-31 18:27:38.274 dataS/character/playerM/shirts/topTShirt01.i3d (2.37 ms)
+2025-10-31 18:27:38.286 FS25_UnloadBalesEarly: Sending new settings
+2025-10-31 18:27:38.286 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-31 18:27:38.287 FS25_UnloadBalesEarly: Sending new settings
+2025-10-31 18:27:38.287 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-31 18:27:38.288 FS25_UnloadBalesEarly: Sending new settings
+2025-10-31 18:27:38.288 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-31 18:27:38.319 dataS/character/playerM/hairStyles/hairStyleTopKnot.i3d (44.85 ms)
+2025-10-31 18:27:38.340 dataS/character/playerM/facialHair/mHead01/goatee01.i3d (21.26 ms)
+2025-10-31 18:27:57.651 FS25_UnloadBalesEarly: Sending new settings
+2025-10-31 18:27:57.651 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-31 18:27:57.652 FS25_UnloadBalesEarly: Sending new settings
+2025-10-31 18:27:57.652 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-31 18:27:57.652 FS25_UnloadBalesEarly: Sending new settings
+2025-10-31 18:27:57.652 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-31 18:27:57.652 FS25_UnloadBalesEarly: Sending new settings
+2025-10-31 18:27:57.652 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-31 18:27:57.653 FS25_UnloadBalesEarly: Sending new settings
+2025-10-31 18:27:57.653 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-31 18:28:57.546   Info: [Easy Development Controls] User Jolero has logged in as master user.
+2025-10-31 18:29:14.498   Info: Moved player to coordinates 767, 720 successfully.
+2025-10-31 18:33:28.454 Warning: Send called with unknown target address.
+2025-10-31 18:33:28.460 Jolero left the game
+2025-10-31 18:33:29.928 Game saved successfully (savegame1).
+2025-10-31 18:33:46.996 Warning: Send called with unknown target address.
+2025-10-31 18:33:47.006 Figuana left the game
