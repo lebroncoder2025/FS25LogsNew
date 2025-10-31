@@ -7323,3 +7323,69 @@ LUA call stack:
 2025-10-31 19:32:34.823 FS25_UnloadBalesEarly: Sending new settings
 2025-10-31 19:32:34.824 FS25_UnloadBalesEarly: Done sending new settings
 2025-10-31 19:32:34.840 dataS/character/playerM/hairStyles/hairStyleTopKnot.i3d (35.62 ms)
+2025-10-31 19:33:00.638 FS25_UnloadBalesEarly: Sending new settings
+2025-10-31 19:33:00.638 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-31 19:33:00.639 FS25_UnloadBalesEarly: Sending new settings
+2025-10-31 19:33:00.639 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-31 19:33:00.639 FS25_UnloadBalesEarly: Sending new settings
+2025-10-31 19:33:00.639 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-31 19:33:00.640 FS25_UnloadBalesEarly: Sending new settings
+2025-10-31 19:33:00.640 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-31 19:33:00.640 FS25_UnloadBalesEarly: Sending new settings
+2025-10-31 19:33:00.640 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-31 19:33:00.640 FS25_UnloadBalesEarly: Sending new settings
+2025-10-31 19:33:00.640 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-31 19:33:00.640 FS25_UnloadBalesEarly: Sending new settings
+2025-10-31 19:33:00.640 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-31 19:33:00.640 FS25_UnloadBalesEarly: Sending new settings
+2025-10-31 19:33:00.640 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-31 19:33:00.641 FS25_UnloadBalesEarly: Sending new settings
+2025-10-31 19:33:00.641 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-31 19:33:40.048   Info: [Easy Development Controls] User Jolero has logged in as master user.
+2025-10-31 19:33:49.853   Info: Moved player to coordinates 631, 820 successfully.
+2025-10-31 19:35:51.558 Next available Farm ID identified:
+2025-10-31 19:35:51.558 4.000000
+2025-10-31 19:35:51.558 FarmID => 4
+2025-10-31 19:35:51.558 newFarm FarmID => 4
+2025-10-31 19:36:42.509 data/shared/assets/reflectors/lizard/redRound_01.i3d (1.12 ms)
+2025-10-31 19:36:42.510 data/shared/assets/reflectors/lizard/yellowRound_02.i3d (0.95 ms)
+2025-10-31 19:36:42.559 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_ValtraT5Series/tSeries.i3d (149.40 ms)
+2025-10-31 19:36:43.281 data/shared/wheels/tires/bkt/agrimaxVFlecto/710_70R38.i3d (5.28 ms)
+2025-10-31 19:36:43.285 data/vehicles/valtra/shared/displayDecals/valtraDisplays.i3d (4.25 ms)
+2025-10-31 19:36:48.328   Info: Moved player to coordinates 1205, 572 successfully.
+2025-10-31 19:36:50.716   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Valtra T195 Active'
+2025-10-31 19:36:56.137   Info: Moved 1 vehicles to coordinates 639, 808 successfully.
+2025-10-31 19:39:39.765 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_NewHolland_t7HD_edition/newHolland_t7.i3d (486.35 ms)
+2025-10-31 19:39:40.008 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_NewHolland_t7HD_edition/wheels/riceTires.i3d (65.20 ms)
+2025-10-31 19:39:40.066 data/shared/wheels/weights/weight003.i3d (3.43 ms)
+2025-10-31 19:39:40.116 data/shared/assets/lights/lizard/workingLight48.i3d (4.21 ms)
+2025-10-31 19:39:40.120 data/shared/assets/beaconLights/lizard/beaconLight06.i3d (4.36 ms)
+2025-10-31 19:39:40.126 data/shared/assets/upperLinks/walterscheidHO_110_735.i3d (5.62 ms)
+2025-10-31 19:39:40.332 data/vehicles/caseIH/shared/displays/displays.i3d (89.73 ms)
+2025-10-31 19:39:47.796   Info: Moved player to coordinates 1202, 578 successfully.
+2025-10-31 19:39:49.668   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'New Holland T7.315 HD'
+2025-10-31 19:39:56.392   Info: Moved 1 vehicles to coordinates 645, 812 successfully.
+2025-10-31 19:41:46.913 Warning: Saving while already saving
+2025-10-31 19:41:49.003 Game saved successfully (savegame1).
+2025-10-31 19:43:09.139 data/shared/assets/reflectors/lizard/redRound_04.i3d (1.48 ms)
+2025-10-31 19:43:09.140 data/shared/assets/reflectors/lizard/yellowRound_01.i3d (0.99 ms)
+2025-10-31 19:43:09.204 data/shared/assets/exhaustLicencePlateHolder.i3d (2.68 ms)
+2025-10-31 19:43:09.207 data/shared/assets/extinguisherSmall02.i3d (2.60 ms)
+2025-10-31 19:43:09.208 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_FendtVarioEvolution/i3d/vario700.i3d (185.20 ms)
+2025-10-31 19:43:09.421 data/shared/wheels/tires/bkt/agrimaxForce/710_60R30.i3d (4.34 ms)
+2025-10-31 19:43:09.424 data/shared/wheels/weights/weight003.i3d (2.07 ms)
+2025-10-31 19:43:09.427 data/shared/wheels/tires/bkt/agrimaxForce/900_60R38.i3d (3.61 ms)
+2025-10-31 19:43:09.554 data/shared/assets/lights/lizard/sideMarker10.i3d (5.75 ms)
+2025-10-31 19:43:09.559 data/shared/assets/beaconLights/lizard/beaconLight04.i3d (4.78 ms)
+2025-10-31 19:43:09.563 data/shared/assets/beaconLights/lizard/beaconLight05.i3d (4.41 ms)
+2025-10-31 19:43:09.566 data/shared/assets/beaconLights/lizard/beaconLight06.i3d (3.03 ms)
+2025-10-31 19:43:09.569 data/shared/assets/beaconLights/lizard/beaconLight10.i3d (2.87 ms)
+2025-10-31 19:43:09.590 data/shared/assets/beaconLights/lizard/beaconLight12.i3d (20.84 ms)
+2025-10-31 19:43:09.666 data/shared/assets/beaconLights/lizard/beaconLight14.i3d (4.99 ms)
+2025-10-31 19:43:09.671 data/shared/assets/beaconLights/lizard/beaconLight15.i3d (4.34 ms)
+2025-10-31 19:43:09.784 data/vehicles/fendt/shared/oneDisplays.i3d (22.62 ms)
+2025-10-31 19:43:15.468   Info: Moved player to coordinates 1202, 576 successfully.
+2025-10-31 19:43:16.876   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Fendt 728 Vario Chip 330'
+2025-10-31 19:43:23.079   Info: Moved 1 vehicles to coordinates 644, 831 successfully.
+2025-10-31 19:46:42.624 Game saved successfully (savegame1).
+2025-10-31 19:46:59.339 M@rcin lost connection to the game
