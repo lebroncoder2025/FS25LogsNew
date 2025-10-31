@@ -6783,3 +6783,13 @@ LUA call stack:
 2025-10-31 04:14:36.751 Game saved successfully (savegame1).
 2025-10-31 04:44:46.721 Game saved successfully (savegame1).
 2025-10-31 05:14:58.495 Game saved successfully (savegame1).
+2025-10-31 05:35:06.581 zone joined the game
+2025-10-31 05:35:06.795 dataS/character/playerM/heads/mHead02.i3d (14.52 ms)
+2025-10-31 05:35:06.911 dataS/character/playerM/jacket/caseIH/caseIHTop.i3d (115.09 ms)
+2025-10-31 05:35:06.921 dataS/character/playerM/attachments/caseIHhat.i3d (9.19 ms)
+2025-10-31 05:35:06.961 dataS/character/playerM/hairStyles/hairStyleFringe.i3d (40.61 ms)
+2025-10-31 05:35:06.978 dataS/character/playerM/facialHair/mHead02/fullBeard.i3d (16.59 ms)
+2025-10-31 05:35:23.481 FS25_UnloadBalesEarly: Sending new settings
+2025-10-31 05:35:23.481 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-31 05:35:23.482 FS25_UnloadBalesEarly: Sending new settings
+2025-10-31 05:35:23.482 FS25_UnloadBalesEarly: Done sending new settings
