@@ -7065,3 +7065,11 @@ LUA call stack:
 2025-10-31 14:55:18.250   Info: Successfully set fill unit 1 of Metaltech DBL to Pig Food with a fill level of 3,000 liters.
 2025-10-31 15:16:11.272 Game saved successfully (savegame1).
 2025-10-31 15:18:42.925 data/objects/bigBagPallet/bigBagPallet.i3d (4.23 ms)
+2025-10-31 15:24:19.039 data/objects/bigBagPallet/bigBagPallet.i3d (4.85 ms)
+2025-10-31 15:24:53.251 data/objects/bigBagPallet/bigBagPallet.i3d (4.54 ms)
+2025-10-31 15:25:31.412 data/objects/bigBagPallet/bigBagPallet.i3d (4.85 ms)
+2025-10-31 15:26:09.388 data/objects/bigBagPallet/bigBagPallet.i3d (4.19 ms)
+2025-10-31 15:27:57.155 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.58 ms)
+2025-10-31 15:27:57.212 data/objects/pallets/liquidTank/liquidTank.i3d (3.88 ms)
+2025-10-31 15:38:20.009 Jolero left the game
+2025-10-31 15:38:21.053 Game saved successfully (savegame1).
