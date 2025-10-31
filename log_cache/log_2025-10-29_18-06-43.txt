@@ -6809,3 +6809,28 @@ LUA call stack:
 2025-10-31 06:29:19.062 FS25_UnloadBalesEarly: Done sending new settings
 2025-10-31 06:29:19.063 FS25_UnloadBalesEarly: Sending new settings
 2025-10-31 06:29:19.063 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-31 06:45:12.832 Game saved successfully (savegame1).
+2025-10-31 06:47:58.086 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_silage_silo/bunkerSiloMedium.i3d (258.70 ms)
+2025-10-31 06:52:08.955 M@rcin lost connection to the game
+2025-10-31 06:57:39.936 siejA joined the game
+2025-10-31 06:57:40.273 dataS/character/playerM/fullBody/strauss/motion2020PantsVariant2ndVariant.i3d (137.35 ms)
+2025-10-31 06:57:40.308 dataS/character/playerM/hairStyles/hairStyleFringe.i3d (35.09 ms)
+2025-10-31 06:57:40.332 dataS/character/playerM/facialHair/mHead01/goatee01.i3d (23.80 ms)
+2025-10-31 06:58:08.472 FS25_UnloadBalesEarly: Sending new settings
+2025-10-31 06:58:08.472 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-31 06:58:08.473 FS25_UnloadBalesEarly: Sending new settings
+2025-10-31 06:58:08.473 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-31 07:00:37.563 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_weckmanWS130G/ws130g.i3d (180.36 ms)
+2025-10-31 07:00:37.773 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_weckmanWS130G/shared/wheels/tires/bkt/fl647/520_50R17.i3d (12.51 ms)
+2025-10-31 07:00:37.777 data/shared/assets/lights/lizard/rearLight33.i3d (2.85 ms)
+2025-10-31 07:02:39.358 data/shared/wheels/tires/nokian/groundKing/540_65R28.i3d (4.83 ms)
+2025-10-31 07:02:39.363 data/shared/wheels/tires/nokian/groundKing/650_65R38.i3d (4.09 ms)
+2025-10-31 07:02:46.684   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Ford 8530'
+2025-10-31 07:10:46.483 data/shared/wheels/tires/mitas/SFT/600_65R28.i3d (3.75 ms)
+2025-10-31 07:10:46.487 data/shared/wheels/tires/mitas/SFT/900_60R32.i3d (3.34 ms)
+2025-10-31 07:11:38.173   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Ford 8930'
+2025-10-31 07:15:14.888 Game saved successfully (savegame1).
+2025-10-31 07:16:58.682 data/placeables/brandless/fences/EU/fence16/fence16.i3d (6.08 ms)
+2025-10-31 07:17:10.039 data/placeables/brandless/fences/AS/fence17/fence17.i3d (26.56 ms)
+2025-10-31 07:17:18.014 data/placeables/brandless/fences/EU/fence16/fence16.i3d (5.13 ms)
+2025-10-31 07:22:01.219 siejA lost connection to the game
