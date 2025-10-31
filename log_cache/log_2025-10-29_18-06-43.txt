@@ -7058,3 +7058,10 @@ LUA call stack:
 2025-10-31 14:16:04.572 Game saved successfully (savegame1).
 2025-10-31 14:24:04.563   Info: Successfully set fill unit 1 of Strautmann Tera-Vitesse CFS 4601 DO to Hay with a fill level of 45,000 liters.
 2025-10-31 14:24:16.176   Info: Successfully emptied fill unit 1 of Strautmann Tera-Vitesse CFS 4601 DO.
+2025-10-31 14:46:07.819 Game saved successfully (savegame1).
+2025-10-31 14:46:42.328 data/objects/bigBagPallet/bigBagPallet.i3d (4.69 ms)
+2025-10-31 14:54:18.282   Info: Moved 1 vehicles to coordinates 932, 929 successfully.
+2025-10-31 14:54:30.340   Info: Moved 2 vehicles to coordinates 1761, 679 successfully.
+2025-10-31 14:55:18.250   Info: Successfully set fill unit 1 of Metaltech DBL to Pig Food with a fill level of 3,000 liters.
+2025-10-31 15:16:11.272 Game saved successfully (savegame1).
+2025-10-31 15:18:42.925 data/objects/bigBagPallet/bigBagPallet.i3d (4.23 ms)
