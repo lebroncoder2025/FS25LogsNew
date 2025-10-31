@@ -6995,3 +6995,13 @@ LUA call stack:
 2025-10-31 11:36:59.680 data/shared/wheels/tires/trelleborg/SK800/23x8_5R12.i3d (1.95 ms)
 2025-10-31 11:38:51.282   Info: Successfully set fill unit 1 of Metaltech DBL to Soybeans with a fill level of 17,500 liters.
 2025-10-31 11:38:59.099   Info: Successfully set fill unit 1 of Metaltech DBL to Soybeans with a fill level of 17,500 liters.
+2025-10-31 11:41:51.760   Info: Successfully set fill unit 1 of Metaltech DBL to Soybeans with a fill level of 17,500 liters.
+2025-10-31 11:42:08.645 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_StrautmannTeraVitesseCFS4601DO/strautmannTeraVitesse4601.i3d (75.98 ms)
+2025-10-31 11:42:08.766 data/shared/wheels/tires/bkt/fl630/710_50R26_5.i3d (3.75 ms)
+2025-10-31 11:42:08.770 data/shared/wheels/tires/trelleborg/T510/16x6_50R8.i3d (1.79 ms)
+2025-10-31 11:42:08.973 data/shared/assets/powerTakeOffs/walterscheidWWZ.i3d (7.35 ms)
+2025-10-31 11:45:59.246 Game saved successfully (savegame1).
+2025-10-31 11:51:44.933   Info: Added € 6,000 to farm account. (3)
+2025-10-31 11:55:50.001   Info: No 'ExhaustExtension' particle system added to vehicle 'Jungheinrich EFG S50 Pro' because it has no exhaust
+2025-10-31 11:55:57.626   Info: Moved 1 vehicles to coordinates 638, 822 successfully.
+2025-10-31 12:16:00.905 Game saved successfully (savegame1).
