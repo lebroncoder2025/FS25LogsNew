@@ -7827,3 +7827,31 @@ LUA call stack:
 2025-10-31 22:17:19.486 FS25_UnloadBalesEarly: Done sending new settings
 2025-10-31 22:17:19.486 FS25_UnloadBalesEarly: Sending new settings
 2025-10-31 22:17:19.486 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-31 22:22:18.158 blaze joined the game
+2025-10-31 22:22:18.184 FS25_UnloadBalesEarly: Sending new settings
+2025-10-31 22:22:18.185 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-31 22:22:18.186 FS25_UnloadBalesEarly: Sending new settings
+2025-10-31 22:22:18.186 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-31 22:22:18.188 FS25_UnloadBalesEarly: Sending new settings
+2025-10-31 22:22:18.188 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-31 22:22:18.189 FS25_UnloadBalesEarly: Sending new settings
+2025-10-31 22:22:18.189 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-31 22:22:34.620   Info: The condition of Fendt 620 Vario - 50km/h and all connected implements updated.
+2025-10-31 22:22:35.839   Info: Successfully set fill unit 1 of Kverneland Optima RS to Seeds with a fill level of 660 liters.
+2025-10-31 22:22:36.941   Info: Successfully set fill unit 2 of Kverneland Optima RS to Solid Fertilizer with a fill level of 2,000 liters.
+2025-10-31 22:22:45.467 FS25_UnloadBalesEarly: Sending new settings
+2025-10-31 22:22:45.467 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-31 22:22:45.467 FS25_UnloadBalesEarly: Sending new settings
+2025-10-31 22:22:45.467 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-31 22:22:45.467 FS25_UnloadBalesEarly: Sending new settings
+2025-10-31 22:22:45.467 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-31 22:22:45.468 FS25_UnloadBalesEarly: Sending new settings
+2025-10-31 22:22:45.468 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-31 22:22:45.468 FS25_UnloadBalesEarly: Sending new settings
+2025-10-31 22:22:45.468 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-31 22:22:45.468 FS25_UnloadBalesEarly: Sending new settings
+2025-10-31 22:22:45.468 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-31 22:27:39.822 data/objects/pallets/silageAdditive/silageAdditivePallet.i3d (19.83 ms)
+2025-10-31 22:27:40.824 data/objects/bigBag/bigBag.i3d (22.16 ms)
+2025-10-31 22:31:55.433 data/objects/bigBag/bigBag.i3d (5.15 ms)
+2025-10-31 22:32:16.528   Info: Operating time of Ursus C-385A Fast transmission changed to 0 h.
