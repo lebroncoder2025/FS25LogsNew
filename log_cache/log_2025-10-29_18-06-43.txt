@@ -6844,3 +6844,44 @@ LUA call stack:
 2025-10-31 08:34:22.666 FS25_UnloadBalesEarly: Done sending new settings
 2025-10-31 08:34:22.667 FS25_UnloadBalesEarly: Sending new settings
 2025-10-31 08:34:22.667 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-31 08:36:33.286   Info: [Easy Development Controls] User Jolero has logged in as master user.
+2025-10-31 08:36:48.693   Info: Moved player to coordinates 574, 764 successfully.
+2025-10-31 08:37:38.788   Info: Updated field 184 successfully (3) (1)
+2025-10-31 08:37:40.733   Info: Updated field 184 successfully (3) (1)
+2025-10-31 08:39:12.970 data/shared/wheels/tires/continental/tractor85/420_85R30.i3d (3.33 ms)
+2025-10-31 08:39:12.973 data/shared/wheels/tires/continental/tractor85/480_80R46.i3d (3.17 ms)
+2025-10-31 08:39:15.661   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Fendt 620 Vario - 50km/h'
+2025-10-31 08:45:40.305 Game saved successfully (savegame1).
+2025-10-31 08:49:42.835 data/shared/wheels/tires/bkt/agrimaxForce/710_55R30.i3d (17.12 ms)
+2025-10-31 08:49:42.851 data/shared/wheels/tires/bkt/agrimaxForce/900_50R42.i3d (16.00 ms)
+2025-10-31 08:49:45.047   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Fendt 620 Vario - 50km/h'
+2025-10-31 08:49:48.671   Info: The condition of Fendt 620 Vario - 50km/h and all connected implements updated.
+2025-10-31 08:50:36.606   Info: The condition of Fendt 620 Vario - 50km/h and all connected implements updated.
+2025-10-31 08:52:25.699 Game saved successfully (savegame1).
+2025-10-31 08:52:29.973 Game saved successfully (savegame1).
+2025-10-31 08:52:43.535 Jolero lost connection to the game
+2025-10-31 09:03:00.795 symonixprime nie ten znany joined the game
+2025-10-31 09:03:01.168 dataS/character/playerM/pants/poettinger/poettingerShort.i3d (173.74 ms)
+2025-10-31 09:03:01.182 dataS/character/playerM/heads/mHead02.i3d (14.31 ms)
+2025-10-31 09:03:01.296 dataS/character/playerM/shirts/topTShirt02.i3d (113.69 ms)
+2025-10-31 09:03:01.411 dataS/character/playerM/shoes/sandalM02.i3d (114.67 ms)
+2025-10-31 09:03:01.445 dataS/character/playerM/hairStyles/hairStyleTopKnot.i3d (34.19 ms)
+2025-10-31 09:03:01.460 dataS/character/playerM/facialHair/mHead02/fullBeard.i3d (15.22 ms)
+2025-10-31 09:04:19.989 FS25_UnloadBalesEarly: Sending new settings
+2025-10-31 09:04:19.989 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-31 09:04:19.991 FS25_UnloadBalesEarly: Sending new settings
+2025-10-31 09:04:19.991 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-31 09:06:47.113 symonixprime nie ten znany left the game
+2025-10-31 09:08:03.674 symonixprime nie ten znany joined the game
+2025-10-31 09:08:04.018 dataS/character/playerM/pants/poettinger/poettingerShort.i3d (145.04 ms)
+2025-10-31 09:08:04.032 dataS/character/playerM/heads/mHead02.i3d (14.30 ms)
+2025-10-31 09:08:04.128 dataS/character/playerM/shirts/topTShirt02.i3d (94.51 ms)
+2025-10-31 09:08:04.221 dataS/character/playerM/shoes/sandalM02.i3d (93.62 ms)
+2025-10-31 09:08:04.256 dataS/character/playerM/hairStyles/hairStyleTopKnot.i3d (34.56 ms)
+2025-10-31 09:08:04.271 dataS/character/playerM/facialHair/mHead02/fullBeard.i3d (15.25 ms)
+2025-10-31 09:08:49.510 FS25_UnloadBalesEarly: Sending new settings
+2025-10-31 09:08:49.510 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-31 09:08:49.513 FS25_UnloadBalesEarly: Sending new settings
+2025-10-31 09:08:49.513 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-31 09:13:46.206 symonixprime nie ten znany lost connection to the game
+2025-10-31 09:15:51.020 Game saved successfully (savegame1).
