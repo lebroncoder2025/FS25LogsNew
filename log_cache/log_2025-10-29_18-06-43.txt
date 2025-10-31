@@ -6800,3 +6800,12 @@ LUA call stack:
 2025-10-31 05:45:00.095 Game saved successfully (savegame1).
 2025-10-31 05:50:20.018 zone lost connection to the game
 2025-10-31 06:15:13.343 Game saved successfully (savegame1).
+2025-10-31 06:28:39.855 M@rcin joined the game
+2025-10-31 06:28:40.078 dataS/character/playerM/jacket/topAviatorJacket.i3d (22.05 ms)
+2025-10-31 06:28:40.080 dataS/character/playerM/attachments/glassesAviators.i3d (1.45 ms)
+2025-10-31 06:28:40.120 dataS/character/playerM/hairStyles/hairStyleDiablo.i3d (40.78 ms)
+2025-10-31 06:28:40.122 dataS/character/playerM/facialHair/mHead01/beardStubble.i3d (1.35 ms)
+2025-10-31 06:29:19.062 FS25_UnloadBalesEarly: Sending new settings
+2025-10-31 06:29:19.062 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-31 06:29:19.063 FS25_UnloadBalesEarly: Sending new settings
+2025-10-31 06:29:19.063 FS25_UnloadBalesEarly: Done sending new settings
