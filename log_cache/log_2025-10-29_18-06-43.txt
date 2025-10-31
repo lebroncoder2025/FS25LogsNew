@@ -6836,3 +6836,11 @@ LUA call stack:
 2025-10-31 07:22:01.219 siejA lost connection to the game
 2025-10-31 07:45:28.436 Game saved successfully (savegame1).
 2025-10-31 08:15:38.380 Game saved successfully (savegame1).
+2025-10-31 08:34:03.370 Jolero joined the game
+2025-10-31 08:34:03.573 dataS/character/playerM/shirts/topTShirt01.i3d (2.33 ms)
+2025-10-31 08:34:03.618 dataS/character/playerM/hairStyles/hairStyleTopKnot.i3d (45.35 ms)
+2025-10-31 08:34:03.638 dataS/character/playerM/facialHair/mHead01/goatee01.i3d (19.58 ms)
+2025-10-31 08:34:22.666 FS25_UnloadBalesEarly: Sending new settings
+2025-10-31 08:34:22.666 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-31 08:34:22.667 FS25_UnloadBalesEarly: Sending new settings
+2025-10-31 08:34:22.667 FS25_UnloadBalesEarly: Done sending new settings
