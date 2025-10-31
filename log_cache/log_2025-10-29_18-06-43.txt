@@ -7768,3 +7768,11 @@ LUA call stack:
 2025-10-31 21:23:22.344 B..... lost connection to the game
 2025-10-31 21:23:44.464 Warning: Send called with unknown target address.
 2025-10-31 21:23:44.474 Piotrek left the game
+2025-10-31 21:28:59.448 Jolero left the game
+2025-10-31 21:28:59.707 Game saved successfully (savegame1).
+2025-10-31 21:30:00.946 Warning: Send called with unknown target address.
+2025-10-31 21:30:00.952 zwierek left the game
+2025-10-31 21:31:11.283   Info: Moved player to coordinates 1501, 806 successfully.
+2025-10-31 21:31:39.104 Warning: Send called with unknown target address.
+2025-10-31 21:31:39.109 szagh left the game
+2025-10-31 21:36:30.797 hubsonwaliszot left the game
