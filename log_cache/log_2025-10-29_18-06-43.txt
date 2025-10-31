@@ -7094,3 +7094,26 @@ LUA call stack:
 2025-10-31 17:42:51.669 FS25_UnloadBalesEarly: Done sending new settings
 2025-10-31 17:42:51.669 FS25_UnloadBalesEarly: Sending new settings
 2025-10-31 17:42:51.669 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-31 17:46:24.437 Game saved successfully (savegame1).
+2025-10-31 17:51:50.325   Info: No 'ExhaustExtension' particle system added to vehicle 'Lizard Screw conveyor' because it has no exhaust
+2025-10-31 17:58:25.114 zone joined the game
+2025-10-31 17:58:25.146 FS25_UnloadBalesEarly: Sending new settings
+2025-10-31 17:58:25.146 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-31 17:58:25.149 FS25_UnloadBalesEarly: Sending new settings
+2025-10-31 17:58:25.149 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-31 17:58:25.150 dataS/character/playerM/heads/mHead02.i3d (16.63 ms)
+2025-10-31 17:58:25.268 dataS/character/playerM/jacket/caseIH/caseIHTop.i3d (118.69 ms)
+2025-10-31 17:58:25.278 dataS/character/playerM/attachments/caseIHhat.i3d (9.35 ms)
+2025-10-31 17:58:25.320 dataS/character/playerM/hairStyles/hairStyleFringe.i3d (41.95 ms)
+2025-10-31 17:58:25.338 dataS/character/playerM/facialHair/mHead02/fullBeard.i3d (17.95 ms)
+2025-10-31 17:58:42.655 FS25_UnloadBalesEarly: Sending new settings
+2025-10-31 17:58:42.656 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-31 17:58:42.656 FS25_UnloadBalesEarly: Sending new settings
+2025-10-31 17:58:42.656 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-31 17:58:42.656 FS25_UnloadBalesEarly: Sending new settings
+2025-10-31 17:58:42.656 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-31 17:58:42.657 FS25_UnloadBalesEarly: Sending new settings
+2025-10-31 17:58:42.657 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-31 18:05:13.689 data/objects/bigBagPallet/bigBagPallet.i3d (4.47 ms)
+2025-10-31 18:05:47.185 data/objects/bigBagPallet/bigBagPallet.i3d (4.63 ms)
+2025-10-31 18:16:26.144 Game saved successfully (savegame1).
