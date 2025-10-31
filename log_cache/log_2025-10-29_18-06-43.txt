@@ -8015,3 +8015,6 @@ LUA call stack:
 2025-11-01 00:18:09.712 FS25_UnloadBalesEarly: Done sending new settings
 2025-11-01 00:18:09.712 FS25_UnloadBalesEarly: Sending new settings
 2025-11-01 00:18:09.712 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-01 00:21:04.902 data/objects/bigBagPallet/bigBagPallet.i3d (4.58 ms)
+2025-11-01 00:21:16.403 data/objects/pallets/goatMilkCanPallet/goatMilkCanPallet.i3d (5.27 ms)
+2025-11-01 00:21:48.028 data/objects/bigBagPallet/bigBagPallet.i3d (4.22 ms)
