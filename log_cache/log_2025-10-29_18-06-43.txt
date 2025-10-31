@@ -6990,3 +6990,8 @@ LUA call stack:
 2025-10-31 11:15:58.030 FS25_UnloadBalesEarly: Done sending new settings
 2025-10-31 11:15:58.031 FS25_UnloadBalesEarly: Sending new settings
 2025-10-31 11:15:58.031 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-31 11:36:59.526 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Jungheinrich_EFG_S50_PRO/efgS50S.i3d (96.44 ms)
+2025-10-31 11:36:59.678 data/shared/wheels/tires/trelleborg/SK800/27x8_5R15.i3d (2.54 ms)
+2025-10-31 11:36:59.680 data/shared/wheels/tires/trelleborg/SK800/23x8_5R12.i3d (1.95 ms)
+2025-10-31 11:38:51.282   Info: Successfully set fill unit 1 of Metaltech DBL to Soybeans with a fill level of 17,500 liters.
+2025-10-31 11:38:59.099   Info: Successfully set fill unit 1 of Metaltech DBL to Soybeans with a fill level of 17,500 liters.
