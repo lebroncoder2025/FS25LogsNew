@@ -7776,3 +7776,54 @@ LUA call stack:
 2025-10-31 21:31:39.104 Warning: Send called with unknown target address.
 2025-10-31 21:31:39.109 szagh left the game
 2025-10-31 21:36:30.797 hubsonwaliszot left the game
+2025-10-31 21:47:11.723 Game saved successfully (savegame1).
+2025-10-31 22:11:36.427 Jolero joined the game
+2025-10-31 22:11:36.442 dataS/character/playerM/shirts/topTShirt01.i3d (2.33 ms)
+2025-10-31 22:11:36.462 FS25_UnloadBalesEarly: Sending new settings
+2025-10-31 22:11:36.462 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-31 22:11:36.484 dataS/character/playerM/hairStyles/hairStyleTopKnot.i3d (41.88 ms)
+2025-10-31 22:11:36.508 dataS/character/playerM/facialHair/mHead01/goatee01.i3d (24.01 ms)
+2025-10-31 22:11:53.484 FS25_UnloadBalesEarly: Sending new settings
+2025-10-31 22:11:53.484 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-31 22:11:53.485 FS25_UnloadBalesEarly: Sending new settings
+2025-10-31 22:11:53.485 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-31 22:11:53.486 FS25_UnloadBalesEarly: Sending new settings
+2025-10-31 22:11:53.486 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-31 22:12:51.509   Info: [Easy Development Controls] User Jolero has logged in as master user.
+2025-10-31 22:13:02.592   Info: Moved player to coordinates 1640, 1473 successfully.
+2025-10-31 22:15:47.379 hubsonwaliszot joined the game
+2025-10-31 22:15:47.417 FS25_UnloadBalesEarly: Sending new settings
+2025-10-31 22:15:47.417 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-31 22:15:47.420 FS25_UnloadBalesEarly: Sending new settings
+2025-10-31 22:15:47.420 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-31 22:15:47.747 dataS/character/playerM/shirts/poettinger/poettingerTshirt.i3d (353.76 ms)
+2025-10-31 22:16:11.599 M@rcin joined the game
+2025-10-31 22:16:11.626 FS25_UnloadBalesEarly: Sending new settings
+2025-10-31 22:16:11.626 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-31 22:16:11.628 FS25_UnloadBalesEarly: Sending new settings
+2025-10-31 22:16:11.628 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-31 22:16:11.636 dataS/character/playerM/jacket/topAviatorJacket.i3d (22.56 ms)
+2025-10-31 22:16:11.638 dataS/character/playerM/attachments/glassesAviators.i3d (2.13 ms)
+2025-10-31 22:16:11.681 dataS/character/playerM/hairStyles/hairStyleDiablo.i3d (42.90 ms)
+2025-10-31 22:16:11.683 dataS/character/playerM/facialHair/mHead01/beardStubble.i3d (1.56 ms)
+2025-10-31 22:17:06.529 FS25_UnloadBalesEarly: Sending new settings
+2025-10-31 22:17:06.529 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-31 22:17:06.530 FS25_UnloadBalesEarly: Sending new settings
+2025-10-31 22:17:06.530 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-31 22:17:06.530 FS25_UnloadBalesEarly: Sending new settings
+2025-10-31 22:17:06.530 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-31 22:17:06.530 FS25_UnloadBalesEarly: Sending new settings
+2025-10-31 22:17:06.531 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-31 22:17:06.531 FS25_UnloadBalesEarly: Sending new settings
+2025-10-31 22:17:06.531 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-31 22:17:14.698 Game saved successfully (savegame1).
+2025-10-31 22:17:19.484 FS25_UnloadBalesEarly: Sending new settings
+2025-10-31 22:17:19.484 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-31 22:17:19.485 FS25_UnloadBalesEarly: Sending new settings
+2025-10-31 22:17:19.485 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-31 22:17:19.485 FS25_UnloadBalesEarly: Sending new settings
+2025-10-31 22:17:19.485 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-31 22:17:19.486 FS25_UnloadBalesEarly: Sending new settings
+2025-10-31 22:17:19.486 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-31 22:17:19.486 FS25_UnloadBalesEarly: Sending new settings
+2025-10-31 22:17:19.486 FS25_UnloadBalesEarly: Done sending new settings
