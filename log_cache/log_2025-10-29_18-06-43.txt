@@ -7389,3 +7389,55 @@ LUA call stack:
 2025-10-31 19:43:23.079   Info: Moved 1 vehicles to coordinates 644, 831 successfully.
 2025-10-31 19:46:42.624 Game saved successfully (savegame1).
 2025-10-31 19:46:59.339 M@rcin lost connection to the game
+2025-10-31 19:50:40.239   Info: Moved 1 vehicles to coordinates 913, 885 successfully.
+2025-10-31 19:54:12.229 data/objects/bigBag/bigBag.i3d (7.66 ms)
+2025-10-31 19:55:53.506 M@rcin joined the game
+2025-10-31 19:55:53.532 FS25_UnloadBalesEarly: Sending new settings
+2025-10-31 19:55:53.532 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-31 19:55:53.534 FS25_UnloadBalesEarly: Sending new settings
+2025-10-31 19:55:53.534 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-31 19:55:53.535 FS25_UnloadBalesEarly: Sending new settings
+2025-10-31 19:55:53.535 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-31 19:55:53.536 FS25_UnloadBalesEarly: Sending new settings
+2025-10-31 19:55:53.536 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-31 19:55:53.537 FS25_UnloadBalesEarly: Sending new settings
+2025-10-31 19:55:53.537 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-31 19:55:53.538 FS25_UnloadBalesEarly: Sending new settings
+2025-10-31 19:55:53.538 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-31 19:55:53.539 FS25_UnloadBalesEarly: Sending new settings
+2025-10-31 19:55:53.539 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-31 19:55:53.547 dataS/character/playerM/jacket/topAviatorJacket.i3d (27.68 ms)
+2025-10-31 19:55:53.554 dataS/character/playerM/attachments/glassesAviators.i3d (6.59 ms)
+2025-10-31 19:55:53.601 dataS/character/playerM/hairStyles/hairStyleDiablo.i3d (45.78 ms)
+2025-10-31 19:55:53.602 dataS/character/playerM/facialHair/mHead01/beardStubble.i3d (1.47 ms)
+2025-10-31 19:56:49.749 FS25_UnloadBalesEarly: Sending new settings
+2025-10-31 19:56:49.749 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-31 19:56:49.750 FS25_UnloadBalesEarly: Sending new settings
+2025-10-31 19:56:49.750 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-31 19:56:49.750 FS25_UnloadBalesEarly: Sending new settings
+2025-10-31 19:56:49.750 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-31 19:56:49.750 FS25_UnloadBalesEarly: Sending new settings
+2025-10-31 19:56:49.750 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-31 19:56:49.751 FS25_UnloadBalesEarly: Sending new settings
+2025-10-31 19:56:49.751 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-31 19:56:49.751 FS25_UnloadBalesEarly: Sending new settings
+2025-10-31 19:56:49.751 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-31 19:56:49.751 FS25_UnloadBalesEarly: Sending new settings
+2025-10-31 19:56:49.751 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-31 19:56:49.751 FS25_UnloadBalesEarly: Sending new settings
+2025-10-31 19:56:49.751 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-31 19:56:49.751 FS25_UnloadBalesEarly: Sending new settings
+2025-10-31 19:56:49.751 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-31 20:04:54.070 data/objects/bigBag/bigBag.i3d (5.51 ms)
+2025-10-31 20:05:12.589 data/objects/bigBag/bigBag.i3d (6.30 ms)
+2025-10-31 20:05:58.077 data/objects/bigBag/bigBag.i3d (5.61 ms)
+2025-10-31 20:05:59.139 data/objects/bigBagPallet/bigBagPallet.i3d (4.58 ms)
+2025-10-31 20:06:33.105 data/objects/bigBag/bigBag.i3d (5.73 ms)
+2025-10-31 20:11:10.223 dataS/character/playerF/pants/botYogaPants.i3d (17.48 ms)
+2025-10-31 20:11:10.363 dataS/character/playerF/heads/fHead02.i3d (139.44 ms)
+2025-10-31 20:11:10.365 dataS/character/playerF/shirts/topTankTop.i3d (1.96 ms)
+2025-10-31 20:11:10.485 dataS/character/playerF/shoes/sportSneaker.i3d (120.09 ms)
+2025-10-31 20:11:10.535 dataS/character/playerF/hairStyles/hairStyleLongSideParted.i3d (49.85 ms)
+2025-10-31 20:14:22.407 data/objects/pallets/liquidTank/liquidTank.i3d (3.92 ms)
+2025-10-31 20:14:22.548 data/objects/bigBagPallet/bigBagPallet.i3d (4.17 ms)
+2025-10-31 20:16:49.988 Game saved successfully (savegame1).
