@@ -7073,3 +7073,6 @@ LUA call stack:
 2025-10-31 15:27:57.212 data/objects/pallets/liquidTank/liquidTank.i3d (3.88 ms)
 2025-10-31 15:38:20.009 Jolero left the game
 2025-10-31 15:38:21.053 Game saved successfully (savegame1).
+2025-10-31 15:46:12.814 Game saved successfully (savegame1).
+2025-10-31 16:13:58.704 Piotrek lost connection to the game
+2025-10-31 16:16:14.639 Game saved successfully (savegame1).
