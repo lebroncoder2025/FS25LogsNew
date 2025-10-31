@@ -7441,3 +7441,129 @@ LUA call stack:
 2025-10-31 20:14:22.407 data/objects/pallets/liquidTank/liquidTank.i3d (3.92 ms)
 2025-10-31 20:14:22.548 data/objects/bigBagPallet/bigBagPallet.i3d (4.17 ms)
 2025-10-31 20:16:49.988 Game saved successfully (savegame1).
+2025-10-31 20:18:50.832 hubsonwaliszot lost connection to the game
+2025-10-31 20:19:23.752 Game saved successfully (savegame1).
+2025-10-31 20:23:12.146 data/objects/bigBag/bigBag.i3d (5.68 ms)
+2025-10-31 20:23:13.181 data/objects/bigBagPallet/bigBagPallet.i3d (4.27 ms)
+2025-10-31 20:23:31.074 data/objects/bigBag/bigBag.i3d (5.57 ms)
+2025-10-31 20:25:06.104 hubsonwaliszot joined the game
+2025-10-31 20:25:06.133 FS25_UnloadBalesEarly: Sending new settings
+2025-10-31 20:25:06.133 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-31 20:25:06.135 FS25_UnloadBalesEarly: Sending new settings
+2025-10-31 20:25:06.135 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-31 20:25:06.137 FS25_UnloadBalesEarly: Sending new settings
+2025-10-31 20:25:06.137 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-31 20:25:06.138 FS25_UnloadBalesEarly: Sending new settings
+2025-10-31 20:25:06.138 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-31 20:25:06.139 FS25_UnloadBalesEarly: Sending new settings
+2025-10-31 20:25:06.139 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-31 20:25:06.140 FS25_UnloadBalesEarly: Sending new settings
+2025-10-31 20:25:06.140 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-31 20:25:06.141 FS25_UnloadBalesEarly: Sending new settings
+2025-10-31 20:25:06.141 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-31 20:25:06.474 dataS/character/playerM/shirts/poettinger/poettingerTshirt.i3d (353.76 ms)
+2025-10-31 20:26:53.102 FS25_UnloadBalesEarly: Sending new settings
+2025-10-31 20:26:53.102 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-31 20:26:53.103 FS25_UnloadBalesEarly: Sending new settings
+2025-10-31 20:26:53.103 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-31 20:26:53.103 FS25_UnloadBalesEarly: Sending new settings
+2025-10-31 20:26:53.103 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-31 20:26:53.104 FS25_UnloadBalesEarly: Sending new settings
+2025-10-31 20:26:53.104 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-31 20:26:53.104 FS25_UnloadBalesEarly: Sending new settings
+2025-10-31 20:26:53.104 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-31 20:26:53.104 FS25_UnloadBalesEarly: Sending new settings
+2025-10-31 20:26:53.104 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-31 20:26:53.104 FS25_UnloadBalesEarly: Sending new settings
+2025-10-31 20:26:53.104 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-31 20:26:53.104 FS25_UnloadBalesEarly: Sending new settings
+2025-10-31 20:26:53.104 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-31 20:26:53.105 FS25_UnloadBalesEarly: Sending new settings
+2025-10-31 20:26:53.105 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-31 20:27:07.070 szagh joined the game
+2025-10-31 20:27:07.106 dataS/character/playerM/attachments/headgearBeanie.i3d (15.93 ms)
+2025-10-31 20:27:07.108 dataS/character/playerM/attachments/glassesSports01.i3d (2.08 ms)
+2025-10-31 20:27:07.126 dataS/character/playerM/facialHair/mHead01/muttonChops03.i3d (18.36 ms)
+2025-10-31 20:27:26.001 FS25_UnloadBalesEarly: Sending new settings
+2025-10-31 20:27:26.001 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-31 20:27:26.002 FS25_UnloadBalesEarly: Sending new settings
+2025-10-31 20:27:26.002 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-31 20:27:26.002 FS25_UnloadBalesEarly: Sending new settings
+2025-10-31 20:27:26.002 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-31 20:27:26.003 FS25_UnloadBalesEarly: Sending new settings
+2025-10-31 20:27:26.003 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-31 20:27:26.003 FS25_UnloadBalesEarly: Sending new settings
+2025-10-31 20:27:26.003 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-31 20:27:26.003 FS25_UnloadBalesEarly: Sending new settings
+2025-10-31 20:27:26.003 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-31 20:27:26.003 FS25_UnloadBalesEarly: Sending new settings
+2025-10-31 20:27:26.003 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-31 20:27:26.003 FS25_UnloadBalesEarly: Sending new settings
+2025-10-31 20:27:26.003 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-31 20:27:26.004 FS25_UnloadBalesEarly: Sending new settings
+2025-10-31 20:27:26.004 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-31 20:27:26.004 FS25_UnloadBalesEarly: Sending new settings
+2025-10-31 20:27:26.004 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-31 20:27:31.794 FS25_UnloadBalesEarly: Sending new settings
+2025-10-31 20:27:31.794 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-31 20:27:31.796 FS25_UnloadBalesEarly: Sending new settings
+2025-10-31 20:27:31.796 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-31 20:27:31.797 FS25_UnloadBalesEarly: Sending new settings
+2025-10-31 20:27:31.797 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-31 20:27:31.798 FS25_UnloadBalesEarly: Sending new settings
+2025-10-31 20:27:31.798 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-31 20:27:31.799 FS25_UnloadBalesEarly: Sending new settings
+2025-10-31 20:27:31.799 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-31 20:27:31.800 FS25_UnloadBalesEarly: Sending new settings
+2025-10-31 20:27:31.800 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-31 20:27:31.801 FS25_UnloadBalesEarly: Sending new settings
+2025-10-31 20:27:31.801 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-31 20:27:31.802 FS25_UnloadBalesEarly: Sending new settings
+2025-10-31 20:27:31.802 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-31 20:29:18.563 dataS/character/playerM/jacket/topLeatherJacket.i3d (61.51 ms)
+2025-10-31 20:29:18.592 dataS/character/playerM/attachments/headgearOutback.i3d (28.56 ms)
+2025-10-31 20:30:28.598 zone left the game
+2025-10-31 20:30:37.245   Info: [Easy Development Controls] User szagh has logged in as master user.
+2025-10-31 20:30:43.907   Info: Moved player to coordinates 1212, 604 successfully.
+2025-10-31 20:30:48.634   Info: Successfully added 'ExhaustExtension' particle system to 2 nodes of vehicle 'Skoda Kodiaq'
+2025-10-31 20:31:32.873 zone joined the game
+2025-10-31 20:31:32.903 FS25_UnloadBalesEarly: Sending new settings
+2025-10-31 20:31:32.903 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-31 20:31:32.905 FS25_UnloadBalesEarly: Sending new settings
+2025-10-31 20:31:32.905 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-31 20:31:32.906 dataS/character/playerM/heads/mHead02.i3d (15.94 ms)
+2025-10-31 20:31:32.906 FS25_UnloadBalesEarly: Sending new settings
+2025-10-31 20:31:32.906 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-31 20:31:32.907 FS25_UnloadBalesEarly: Sending new settings
+2025-10-31 20:31:32.907 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-31 20:31:32.908 FS25_UnloadBalesEarly: Sending new settings
+2025-10-31 20:31:32.908 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-31 20:31:32.909 FS25_UnloadBalesEarly: Sending new settings
+2025-10-31 20:31:32.909 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-31 20:31:32.910 FS25_UnloadBalesEarly: Sending new settings
+2025-10-31 20:31:32.910 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-31 20:31:32.911 FS25_UnloadBalesEarly: Sending new settings
+2025-10-31 20:31:32.911 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-31 20:31:33.028 dataS/character/playerM/jacket/caseIH/caseIHTop.i3d (122.56 ms)
+2025-10-31 20:31:33.038 dataS/character/playerM/attachments/caseIHhat.i3d (9.28 ms)
+2025-10-31 20:31:33.055 dataS/character/playerM/facialHair/mHead02/fullBeard.i3d (17.53 ms)
+2025-10-31 20:31:57.882 FS25_UnloadBalesEarly: Sending new settings
+2025-10-31 20:31:57.882 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-31 20:31:57.882 FS25_UnloadBalesEarly: Sending new settings
+2025-10-31 20:31:57.882 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-31 20:31:57.882 FS25_UnloadBalesEarly: Sending new settings
+2025-10-31 20:31:57.882 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-31 20:31:57.882 FS25_UnloadBalesEarly: Sending new settings
+2025-10-31 20:31:57.882 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-31 20:31:57.883 FS25_UnloadBalesEarly: Sending new settings
+2025-10-31 20:31:57.883 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-31 20:31:57.883 FS25_UnloadBalesEarly: Sending new settings
+2025-10-31 20:31:57.883 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-31 20:31:57.884 FS25_UnloadBalesEarly: Sending new settings
+2025-10-31 20:31:57.884 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-31 20:31:57.884 FS25_UnloadBalesEarly: Sending new settings
+2025-10-31 20:31:57.884 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-31 20:31:57.884 FS25_UnloadBalesEarly: Sending new settings
+2025-10-31 20:31:57.884 FS25_UnloadBalesEarly: Done sending new settings
+2025-10-31 20:31:57.884 FS25_UnloadBalesEarly: Sending new settings
+2025-10-31 20:31:57.884 FS25_UnloadBalesEarly: Done sending new settings
