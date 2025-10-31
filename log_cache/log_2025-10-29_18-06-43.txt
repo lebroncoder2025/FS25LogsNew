@@ -7892,3 +7892,126 @@ LUA call stack:
 2025-10-31 23:36:34.189 data/maps/trees/shagbarkHickory/shagbarkHickory_stage03.i3d (18.74 ms)
 2025-10-31 23:38:29.067 data/objects/pallets/liquidTank/liquidTank.i3d (4.46 ms)
 2025-10-31 23:38:29.173 data/objects/bigBagPallet/bigBagPallet.i3d (5.06 ms)
+2025-10-31 23:39:40.133 data/placeables/brandless/decoration/statues/gardenFigureEagle02.i3d (2.44 ms)
+2025-10-31 23:40:44.992 data/placeables/brandless/floodLights/level05/floodLight05.i3d (5.73 ms)
+2025-10-31 23:41:45.584 dataS/character/playerF/pants/botYogaPants.i3d (13.71 ms)
+2025-10-31 23:41:45.718 dataS/character/playerF/heads/fHead02.i3d (134.58 ms)
+2025-10-31 23:41:45.777 dataS/character/playerF/shirts/topTankTop.i3d (59.46 ms)
+2025-10-31 23:41:45.892 dataS/character/playerF/shoes/sportSneaker.i3d (114.69 ms)
+2025-10-31 23:41:45.935 dataS/character/playerF/hairStyles/hairStyleLongSideParted.i3d (43.14 ms)
+2025-10-31 23:42:16.208 Warning: Saving while already saving
+2025-10-31 23:42:17.946 Game saved successfully (savegame1).
+2025-10-31 23:46:22.487 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_englishStyleSheepBarn/sheepGoatBarn.i3d (280.53 ms)
+2025-10-31 23:46:22.512 data/shared/assets/lights/lizard/buildings/industrialLight02.i3d (2.84 ms)
+2025-10-31 23:46:22.526 data/placeables/brandless/fences/US/fence02/fence02.i3d (13.87 ms)
+2025-10-31 23:46:56.536   Info: Added € 2,000 to farm account. (9)
+2025-10-31 23:47:01.223   Info: Added € 20,000 to farm account. (9)
+2025-10-31 23:47:28.133 Game saved successfully (savegame1).
+2025-10-31 23:48:30.207 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_BigWhiteCowBarn/bunkerSiloMedium.i3d (14.00 ms)
+2025-10-31 23:49:52.956 data/objects/bigBagPallet/bigBagPallet.i3d (4.54 ms)
+2025-10-31 23:49:53.024   Info: Adding pallet.
+2025-10-31 23:49:53.150 data/objects/bigBagPallet/bigBagPallet.i3d (4.85 ms)
+2025-10-31 23:49:53.233   Info: Adding pallet.
+2025-10-31 23:49:54.260 data/objects/bigBagPallet/bigBagPallet.i3d (4.70 ms)
+2025-10-31 23:49:54.821 data/objects/bigBagPallet/bigBagPallet.i3d (4.53 ms)
+2025-10-31 23:49:54.906   Info: Adding pallet.
+2025-10-31 23:49:54.981 data/objects/bigBagPallet/bigBagPallet.i3d (4.38 ms)
+2025-10-31 23:49:55.064   Info: Adding pallet.
+2025-10-31 23:49:55.138   Info: Adding pallet.
+2025-10-31 23:49:56.176 data/objects/bigBagPallet/bigBagPallet.i3d (4.70 ms)
+2025-10-31 23:49:56.383   Info: Adding pallet.
+2025-10-31 23:49:56.457   Info: Adding pallet.
+2025-10-31 23:49:56.529   Info: Adding pallet.
+2025-10-31 23:49:56.743 data/objects/bigBagPallet/bigBagPallet.i3d (5.02 ms)
+2025-10-31 23:49:56.810   Info: Adding pallet.
+2025-10-31 23:49:56.884 data/objects/bigBagPallet/bigBagPallet.i3d (5.10 ms)
+2025-10-31 23:49:56.949   Info: Adding pallet.
+2025-10-31 23:49:57.020 data/objects/bigBagPallet/bigBagPallet.i3d (4.44 ms)
+2025-10-31 23:49:57.086   Info: Adding pallet.
+2025-10-31 23:49:57.181 data/objects/bigBagPallet/bigBagPallet.i3d (5.06 ms)
+2025-10-31 23:49:57.245   Info: Adding pallet.
+2025-10-31 23:49:57.300 data/objects/bigBagPallet/bigBagPallet.i3d (4.67 ms)
+2025-10-31 23:49:57.385   Info: Adding pallet.
+2025-10-31 23:49:57.442 data/objects/bigBagPallet/bigBagPallet.i3d (4.92 ms)
+2025-10-31 23:49:57.509   Info: Adding pallet.
+2025-10-31 23:49:57.585 data/objects/bigBagPallet/bigBagPallet.i3d (4.74 ms)
+2025-10-31 23:49:57.668   Info: Adding pallet.
+2025-10-31 23:49:57.744 data/objects/bigBagPallet/bigBagPallet.i3d (4.98 ms)
+2025-10-31 23:49:57.808   Info: Adding pallet.
+2025-10-31 23:49:57.865 data/objects/bigBagPallet/bigBagPallet.i3d (4.75 ms)
+2025-10-31 23:49:57.932   Info: Adding pallet.
+2025-10-31 23:49:58.024 data/objects/bigBagPallet/bigBagPallet.i3d (4.77 ms)
+2025-10-31 23:49:58.091   Info: Adding pallet.
+2025-10-31 23:49:58.165 data/objects/bigBagPallet/bigBagPallet.i3d (4.54 ms)
+2025-10-31 23:49:58.232   Info: Adding pallet.
+2025-10-31 23:49:58.286 data/objects/bigBagPallet/bigBagPallet.i3d (4.50 ms)
+2025-10-31 23:49:58.352   Info: Adding pallet.
+2025-10-31 23:49:58.535 data/objects/bigBagPallet/bigBagPallet.i3d (4.83 ms)
+2025-10-31 23:49:58.617   Info: Adding pallet.
+2025-10-31 23:49:58.709 data/objects/bigBagPallet/bigBagPallet.i3d (4.44 ms)
+2025-10-31 23:49:58.793   Info: Adding pallet.
+2025-10-31 23:49:58.848 data/objects/bigBagPallet/bigBagPallet.i3d (4.30 ms)
+2025-10-31 23:49:58.918   Info: Adding pallet.
+2025-10-31 23:49:59.009 data/objects/bigBagPallet/bigBagPallet.i3d (4.56 ms)
+2025-10-31 23:49:59.074   Info: Adding pallet.
+2025-10-31 23:49:59.132 data/objects/bigBagPallet/bigBagPallet.i3d (4.49 ms)
+2025-10-31 23:49:59.199   Info: Adding pallet.
+2025-10-31 23:49:59.271 data/objects/bigBagPallet/bigBagPallet.i3d (4.21 ms)
+2025-10-31 23:49:59.336   Info: Adding pallet.
+2025-10-31 23:50:00.368 data/objects/bigBagPallet/bigBagPallet.i3d (4.28 ms)
+2025-10-31 23:50:02.603 data/objects/pallets/liquidTank/liquidTank.i3d (3.72 ms)
+2025-10-31 23:50:02.685   Info: Adding pallet.
+2025-10-31 23:50:03.722 data/objects/pallets/liquidTank/liquidTank.i3d (3.11 ms)
+2025-10-31 23:50:03.728 data/objects/bigBagPallet/bigBagPallet.i3d (5.18 ms)
+2025-10-31 23:50:19.012   Info: Super Strength enabled by Jolero
+2025-10-31 23:50:25.174   Info: Super Strength disabled by Jolero
+2025-10-31 23:54:32.642 Figuana lost connection to the game
+2025-10-31 23:58:52.646 data/objects/bigBagPallet/bigBagPallet.i3d (4.46 ms)
+2025-10-31 23:58:53.633 data/objects/pallets/liquidTank/liquidTank.i3d (3.53 ms)
+2025-10-31 23:59:35.737 data/maps/trees/cherry/cherry_stage03.i3d (12.48 ms)
+2025-11-01 00:00:45.500 dataS/character/playerF/pants/botChinos.i3d (14.35 ms)
+2025-11-01 00:00:45.646 dataS/character/playerF/heads/fHead06.i3d (146.35 ms)
+2025-11-01 00:00:45.702 dataS/character/playerF/shirts/topBlouse.i3d (56.23 ms)
+2025-11-01 00:00:45.707 dataS/character/playerF/shoes/sneaker01.i3d (4.09 ms)
+2025-11-01 00:00:45.750 dataS/character/playerF/hairStyles/hairStyleMidSideParted.i3d (43.48 ms)
+2025-11-01 00:01:58.183 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Hege_Fence/l2m.i3d (3.87 ms)
+2025-11-01 00:02:16.646 data/maps/trees/tiliaAmurensis/tiliaAmurensis_stage04.i3d (10.19 ms)
+2025-11-01 00:03:11.454   Info: Added € 60,000 to farm account. (9)
+2025-11-01 00:05:25.885 data/maps/trees/downyServiceBerry/downyServiceBerry_stage03.i3d (7.39 ms)
+2025-11-01 00:07:55.859   Info: Adding bale.
+2025-11-01 00:08:07.084   Info: Adding bale.
+2025-11-01 00:08:20.137 data/objects/pallets/liquidTank/liquidTank.i3d (3.87 ms)
+2025-11-01 00:08:20.142 data/objects/bigBagPallet/bigBagPallet.i3d (4.58 ms)
+2025-11-01 00:08:58.031 Warning: Send called with unknown target address.
+2025-11-01 00:08:58.042 Jolero left the game
+2025-11-01 00:08:59.382 Game saved successfully (savegame1).
+2025-11-01 00:16:31.509 siejA joined the game
+2025-11-01 00:16:31.547 FS25_UnloadBalesEarly: Sending new settings
+2025-11-01 00:16:31.548 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-01 00:16:31.660 dataS/character/playerM/fullBody/strauss/motion2020PantsVariant2ndVariant.i3d (133.21 ms)
+2025-11-01 00:16:31.702 dataS/character/playerM/hairStyles/hairStyleFringe.i3d (41.69 ms)
+2025-11-01 00:16:31.723 dataS/character/playerM/facialHair/mHead01/goatee01.i3d (21.29 ms)
+2025-11-01 00:17:01.090 FS25_UnloadBalesEarly: Sending new settings
+2025-11-01 00:17:01.090 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-01 00:17:01.091 FS25_UnloadBalesEarly: Sending new settings
+2025-11-01 00:17:01.091 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-01 00:17:01.092 FS25_UnloadBalesEarly: Sending new settings
+2025-11-01 00:17:01.092 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-01 00:17:29.444 Game saved successfully (savegame1).
+2025-11-01 00:17:52.480 zone joined the game
+2025-11-01 00:17:52.508 dataS/character/playerM/heads/mHead02.i3d (15.39 ms)
+2025-11-01 00:17:52.515 FS25_UnloadBalesEarly: Sending new settings
+2025-11-01 00:17:52.515 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-01 00:17:52.517 FS25_UnloadBalesEarly: Sending new settings
+2025-11-01 00:17:52.517 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-01 00:17:52.670 dataS/character/playerM/jacket/caseIH/caseIHTop.i3d (161.80 ms)
+2025-11-01 00:17:52.735 dataS/character/playerM/attachments/caseIHhat.i3d (64.93 ms)
+2025-11-01 00:17:52.784 dataS/character/playerM/facialHair/mHead02/fullBeard.i3d (49.15 ms)
+2025-11-01 00:18:09.711 FS25_UnloadBalesEarly: Sending new settings
+2025-11-01 00:18:09.711 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-01 00:18:09.712 FS25_UnloadBalesEarly: Sending new settings
+2025-11-01 00:18:09.712 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-01 00:18:09.712 FS25_UnloadBalesEarly: Sending new settings
+2025-11-01 00:18:09.712 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-01 00:18:09.712 FS25_UnloadBalesEarly: Sending new settings
+2025-11-01 00:18:09.712 FS25_UnloadBalesEarly: Done sending new settings
