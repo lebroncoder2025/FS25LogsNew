@@ -5350,3 +5350,15 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-01 14:36:53.446 FS25_UnloadBalesEarly: Sending new settings
 2025-11-01 14:36:53.446 FS25_UnloadBalesEarly: Done sending new settings
 2025-11-01 14:37:19.083   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'New Holland 8340'
+2025-11-01 14:39:47.570   Info: No 'ExhaustExtension' particle system added to vehicle 'Kärcher HDS 9/18-4 M' because it has no exhaust
+2025-11-01 14:43:24.068   Info: No 'ExhaustExtension' particle system added to vehicle 'Lizard Pallet Truck' because it has no exhaust
+2025-11-01 14:43:56.468 data/objects/bigBag/bigBag.i3d (5.18 ms)
+2025-11-01 14:43:56.494 data/objects/pallets/silageAdditive/silageAdditivePallet.i3d (12.86 ms)
+2025-11-01 14:43:56.501 data/objects/bigBagPallet/bigBagPallet.i3d (4.26 ms)
+2025-11-01 14:47:01.628 blaze left the game
+2025-11-01 14:51:58.090   Info: No 'ExhaustExtension' particle system added to vehicle 'Jungheinrich EFG S50 Pro' because it has no exhaust
+2025-11-01 15:02:57.294 data/objects/pallets/lettuceBoxPallet/lettuceBoxPallet.i3d (9.05 ms)
+2025-11-01 15:05:39.426 data/objects/bigBagPallet/bigBagPallet.i3d (4.64 ms)
+2025-11-01 15:05:40.424 data/objects/pallets/liquidTank/liquidTank.i3d (3.55 ms)
+2025-11-01 15:06:28.717 Game saved successfully (savegame1).
+2025-11-01 15:15:02.819 data/objects/pallets/lettuceBoxPallet/lettuceBoxPallet.i3d (7.05 ms)
