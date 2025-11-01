@@ -8351,3 +8351,12 @@ LUA call stack:
 2025-11-01 10:10:08.093 FS25_UnloadBalesEarly: Sending new settings
 2025-11-01 10:10:08.093 FS25_UnloadBalesEarly: Done sending new settings
 2025-11-01 10:19:22.943 Game saved successfully (savegame1).
+2025-11-01 10:27:49.943 data/objects/bigBag/bigBag.i3d (6.27 ms)
+2025-11-01 10:27:51.001 data/objects/pallets/silageAdditive/silageAdditivePallet.i3d (13.79 ms)
+2025-11-01 10:27:51.011 data/objects/bigBagPallet/bigBagPallet.i3d (4.67 ms)
+2025-11-01 10:27:52.504 data/objects/pallets/silageAdditive/silageAdditivePallet.i3d (13.55 ms)
+2025-11-01 10:27:52.529 data/objects/bigBagPallet/bigBagPallet.i3d (4.43 ms)
+2025-11-01 10:28:01.970 data/objects/bigBagPallet/bigBagPallet.i3d (5.15 ms)
+2025-11-01 10:28:02.984 data/objects/pallets/silageAdditive/silageAdditivePallet.i3d (13.94 ms)
+2025-11-01 10:30:57.133   Info: Moved 4 vehicles to coordinates 803, 686 successfully.
+2025-11-01 10:33:51.769 Figuana lost connection to the game
