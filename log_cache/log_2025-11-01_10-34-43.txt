@@ -5466,3 +5466,43 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-01 16:15:12.242 blaze lost connection to the game
 2025-11-01 16:29:23.068 M@rcin lost connection to the game
 2025-11-01 16:29:53.682 symonixprime nie ten znany lost connection to the game
+2025-11-01 16:36:33.308 Game saved successfully (savegame1).
+2025-11-01 16:49:00.594 data/shared/wheels/tires/michelin/machXbib/600_65R28.i3d (3.63 ms)
+2025-11-01 16:49:00.598 data/shared/wheels/tires/michelin/axioBib2/710_60R42.i3d (4.26 ms)
+2025-11-01 16:49:03.186   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Case IH 160 CVX'
+2025-11-01 16:52:45.052 data/shared/wheels/tires/trelleborg/TM600/380_85R28.i3d (2.47 ms)
+2025-11-01 16:52:45.055 data/shared/wheels/tires/trelleborg/TM600/460_85R38.i3d (2.37 ms)
+2025-11-01 16:52:46.793   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'New Holland 8340'
+2025-11-01 16:53:17.242 zwierek joined the game
+2025-11-01 16:53:17.269 FS25_UnloadBalesEarly: Sending new settings
+2025-11-01 16:53:17.269 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-01 16:53:17.271 FS25_UnloadBalesEarly: Sending new settings
+2025-11-01 16:53:17.271 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-01 16:53:17.283 dataS/character/playerM/pants/botJeanShorts.i3d (22.19 ms)
+2025-11-01 16:53:17.284 dataS/character/playerM/attachments/glassesAviators.i3d (1.67 ms)
+2025-11-01 16:53:17.378 dataS/character/playerM/shoes/sandalM03.i3d (94.27 ms)
+2025-11-01 16:53:17.417 dataS/character/playerM/hairStyles/hairStyleBaldTop.i3d (38.17 ms)
+2025-11-01 16:53:17.427 dataS/character/playerM/facialHair/mHead01/walrusXL.i3d (10.07 ms)
+2025-11-01 16:54:08.578 FS25_UnloadBalesEarly: Sending new settings
+2025-11-01 16:54:08.578 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-01 16:54:08.579 FS25_UnloadBalesEarly: Sending new settings
+2025-11-01 16:54:08.579 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-01 16:54:08.579 FS25_UnloadBalesEarly: Sending new settings
+2025-11-01 16:54:08.579 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-01 16:54:08.579 FS25_UnloadBalesEarly: Sending new settings
+2025-11-01 16:54:08.579 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-01 16:58:08.433 Warning: Send called with unknown target address.
+2025-11-01 16:58:08.438 zwierek left the game
+2025-11-01 17:05:01.342 zone lost connection to the game
+2025-11-01 17:06:34.657 Game saved successfully (savegame1).
+2025-11-01 17:12:43.284 hubsonwaliszot joined the game
+2025-11-01 17:12:43.305 FS25_UnloadBalesEarly: Sending new settings
+2025-11-01 17:12:43.305 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-01 17:12:43.670 dataS/character/playerM/shirts/poettinger/poettingerTshirt.i3d (369.92 ms)
+2025-11-01 17:14:58.512 FS25_UnloadBalesEarly: Sending new settings
+2025-11-01 17:14:58.512 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-01 17:14:58.513 FS25_UnloadBalesEarly: Sending new settings
+2025-11-01 17:14:58.513 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-01 17:14:58.513 FS25_UnloadBalesEarly: Sending new settings
+2025-11-01 17:14:58.513 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-01 17:20:02.151 siejA lost connection to the game
