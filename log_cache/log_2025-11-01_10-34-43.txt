@@ -5296,3 +5296,18 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-01 13:47:59.020 data/objects/pallets/silageAdditive/silageAdditivePallet.i3d (13.06 ms)
 2025-11-01 13:48:00.006 data/objects/bigBag/bigBag.i3d (5.36 ms)
 2025-11-01 13:48:00.029 data/objects/bigBagPallet/bigBagPallet.i3d (8.38 ms)
+2025-11-01 14:06:26.796 Game saved successfully (savegame1).
+2025-11-01 14:25:24.421 zone joined the game
+2025-11-01 14:25:24.449 dataS/character/playerM/heads/mHead02.i3d (14.63 ms)
+2025-11-01 14:25:24.454 FS25_UnloadBalesEarly: Sending new settings
+2025-11-01 14:25:24.454 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-01 14:25:24.566 dataS/character/playerM/jacket/caseIH/caseIHTop.i3d (116.82 ms)
+2025-11-01 14:25:24.576 dataS/character/playerM/attachments/caseIHhat.i3d (9.58 ms)
+2025-11-01 14:25:24.618 dataS/character/playerM/hairStyles/hairStyleFringe.i3d (42.18 ms)
+2025-11-01 14:25:24.633 dataS/character/playerM/facialHair/mHead02/fullBeard.i3d (15.18 ms)
+2025-11-01 14:25:41.983 FS25_UnloadBalesEarly: Sending new settings
+2025-11-01 14:25:41.983 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-01 14:25:41.984 FS25_UnloadBalesEarly: Sending new settings
+2025-11-01 14:25:41.984 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-01 14:25:41.984 FS25_UnloadBalesEarly: Sending new settings
+2025-11-01 14:25:41.984 FS25_UnloadBalesEarly: Done sending new settings
