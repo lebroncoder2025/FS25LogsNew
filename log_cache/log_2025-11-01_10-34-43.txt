@@ -5258,3 +5258,38 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-01 12:30:51.517 FS25_UnloadBalesEarly: Sending new settings
 2025-11-01 12:30:51.517 FS25_UnloadBalesEarly: Done sending new settings
 2025-11-01 12:32:05.922   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'STEYR 8130 Turbo'
+2025-11-01 12:36:12.587 Game saved successfully (savegame1).
+2025-11-01 12:46:08.099   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Ursus C-385A Fast transmission'
+2025-11-01 13:02:40.285   Info: Successfully added 'ExhaustExtension' particle system to 2 nodes of vehicle 'Skoda Kodiaq'
+2025-11-01 13:06:14.228 Game saved successfully (savegame1).
+2025-11-01 13:06:14.954 M@rcin left the game
+2025-11-01 13:12:19.945 M@rcin joined the game
+2025-11-01 13:12:19.977 dataS/character/playerM/jacket/topAviatorJacket.i3d (19.09 ms)
+2025-11-01 13:12:19.979 dataS/character/playerM/attachments/glassesAviators.i3d (1.63 ms)
+2025-11-01 13:12:19.983 FS25_UnloadBalesEarly: Sending new settings
+2025-11-01 13:12:19.983 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-01 13:12:19.984 FS25_UnloadBalesEarly: Sending new settings
+2025-11-01 13:12:19.984 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-01 13:12:20.013 dataS/character/playerM/hairStyles/hairStyleDiablo.i3d (33.91 ms)
+2025-11-01 13:12:20.014 dataS/character/playerM/facialHair/mHead01/beardStubble.i3d (1.41 ms)
+2025-11-01 13:12:44.301 FS25_UnloadBalesEarly: Sending new settings
+2025-11-01 13:12:44.301 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-01 13:12:44.302 FS25_UnloadBalesEarly: Sending new settings
+2025-11-01 13:12:44.302 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-01 13:12:44.302 FS25_UnloadBalesEarly: Sending new settings
+2025-11-01 13:12:44.302 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-01 13:12:44.302 FS25_UnloadBalesEarly: Sending new settings
+2025-11-01 13:12:44.302 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-01 13:22:55.113   Info: Successfully emptied fill unit 1 of Albutt Universal Bucket.
+2025-11-01 13:30:10.765 M@rcin lost connection to the game
+2025-11-01 13:33:01.960 Game saved successfully (savegame1).
+2025-11-01 13:33:18.083 Warning: Send called with unknown target address.
+2025-11-01 13:33:18.091 Jolero left the game
+2025-11-01 13:33:18.669 Game saved successfully (savegame1).
+2025-11-01 13:34:58.302 hubsonwaliszot left the game
+2025-11-01 13:36:31.424 Game saved successfully (savegame1).
+2025-11-01 13:36:34.960 Figuana joined the game
+2025-11-01 13:36:54.254 FS25_UnloadBalesEarly: Sending new settings
+2025-11-01 13:36:54.254 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-01 13:36:54.254 FS25_UnloadBalesEarly: Sending new settings
+2025-11-01 13:36:54.254 FS25_UnloadBalesEarly: Done sending new settings
