@@ -8360,3 +8360,8 @@ LUA call stack:
 2025-11-01 10:28:02.984 data/objects/pallets/silageAdditive/silageAdditivePallet.i3d (13.94 ms)
 2025-11-01 10:30:57.133   Info: Moved 4 vehicles to coordinates 803, 686 successfully.
 2025-11-01 10:33:51.769 Figuana lost connection to the game
+2025-11-01 10:34:19.086 Warning: Saving while already saving
+2025-11-01 10:34:20.232 Game saved successfully (savegame1).
+2025-11-01 10:34:22.272 Warning: Saving while already saving
+2025-11-01 10:34:22.902 M@rcin lost connection to the game
+2025-11-01 10:34:24.135 Game saved successfully (savegame1).
