@@ -5595,3 +5595,15 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-01 19:24:55.098 hubsonwaliszot left the game
 2025-11-01 19:36:47.941 Game saved successfully (savegame1).
 2025-11-01 20:06:59.339 Game saved successfully (savegame1).
+2025-11-01 20:25:18.891 szagh joined the game
+2025-11-01 20:25:19.134 dataS/character/playerM/jacket/topLeatherJacket.i3d (43.37 ms)
+2025-11-01 20:25:19.143 dataS/character/playerM/attachments/headgearOutback.i3d (9.30 ms)
+2025-11-01 20:25:19.145 dataS/character/playerM/attachments/glassesSports01.i3d (1.88 ms)
+2025-11-01 20:25:19.165 dataS/character/playerM/facialHair/mHead01/muttonChops03.i3d (19.40 ms)
+2025-11-01 20:25:38.787 FS25_UnloadBalesEarly: Sending new settings
+2025-11-01 20:25:38.787 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-01 20:25:38.788 FS25_UnloadBalesEarly: Sending new settings
+2025-11-01 20:25:38.788 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-01 20:26:35.853 Game saved successfully (savegame1).
+2025-11-01 20:27:48.245 Game saved successfully (savegame1).
+2025-11-01 20:27:48.247 szagh left the game
