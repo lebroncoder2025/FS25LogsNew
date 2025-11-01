@@ -8018,3 +8018,18 @@ LUA call stack:
 2025-11-01 00:21:04.902 data/objects/bigBagPallet/bigBagPallet.i3d (4.58 ms)
 2025-11-01 00:21:16.403 data/objects/pallets/goatMilkCanPallet/goatMilkCanPallet.i3d (5.27 ms)
 2025-11-01 00:21:48.028 data/objects/bigBagPallet/bigBagPallet.i3d (4.22 ms)
+2025-11-01 00:40:37.697 data/objects/bigBag/bigBag.i3d (6.57 ms)
+2025-11-01 00:40:38.800 data/objects/pallets/silageAdditive/silageAdditivePallet.i3d (16.42 ms)
+2025-11-01 00:40:38.809 data/objects/bigBagPallet/bigBagPallet.i3d (4.93 ms)
+2025-11-01 00:46:24.933 siejA lost connection to the game
+2025-11-01 00:47:31.120 Game saved successfully (savegame1).
+2025-11-01 00:49:53.366 zone lost connection to the game
+2025-11-01 00:57:23.656   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Zetor 8145'
+2025-11-01 01:15:40.276 data/shared/wheels/tires/vredestein/traxion85/380_85R24.i3d (9.79 ms)
+2025-11-01 01:15:40.280 data/shared/wheels/tires/vredestein/traxion85/460_85R34.i3d (3.66 ms)
+2025-11-01 01:15:43.598   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Zetor 8145 Fast transmission'
+2025-11-01 01:17:31.500 Game saved successfully (savegame1).
+2025-11-01 01:47:31.737 Game saved successfully (savegame1).
+2025-11-01 01:53:43.364 hubsonwaliszot lost connection to the game
+2025-11-01 02:17:44.301 Game saved successfully (savegame1).
+2025-11-01 02:47:53.531 Game saved successfully (savegame1).
