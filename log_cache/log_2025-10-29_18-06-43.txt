@@ -8191,3 +8191,84 @@ LUA call stack:
 2025-11-01 09:08:15.141 FS25_UnloadBalesEarly: Done sending new settings
 2025-11-01 09:10:18.726 zone lost connection to the game
 2025-11-01 09:19:10.680 Game saved successfully (savegame1).
+2025-11-01 09:30:47.046 data/objects/bigBagPallet/bigBagPallet.i3d (5.17 ms)
+2025-11-01 09:30:49.792 Jolero joined the game
+2025-11-01 09:30:49.811 dataS/character/playerM/shirts/topTShirt01.i3d (2.31 ms)
+2025-11-01 09:30:49.815 FS25_UnloadBalesEarly: Sending new settings
+2025-11-01 09:30:49.815 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-01 09:30:49.816 FS25_UnloadBalesEarly: Sending new settings
+2025-11-01 09:30:49.816 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-01 09:30:49.817 FS25_UnloadBalesEarly: Sending new settings
+2025-11-01 09:30:49.817 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-01 09:30:49.818 FS25_UnloadBalesEarly: Sending new settings
+2025-11-01 09:30:49.818 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-01 09:30:49.858 dataS/character/playerM/hairStyles/hairStyleTopKnot.i3d (47.04 ms)
+2025-11-01 09:30:49.878 dataS/character/playerM/facialHair/mHead01/goatee01.i3d (19.78 ms)
+2025-11-01 09:31:06.300 FS25_UnloadBalesEarly: Sending new settings
+2025-11-01 09:31:06.300 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-01 09:31:06.301 FS25_UnloadBalesEarly: Sending new settings
+2025-11-01 09:31:06.301 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-01 09:31:06.301 FS25_UnloadBalesEarly: Sending new settings
+2025-11-01 09:31:06.301 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-01 09:31:06.302 FS25_UnloadBalesEarly: Sending new settings
+2025-11-01 09:31:06.302 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-01 09:31:06.302 FS25_UnloadBalesEarly: Sending new settings
+2025-11-01 09:31:06.302 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-01 09:31:06.302 FS25_UnloadBalesEarly: Sending new settings
+2025-11-01 09:31:06.302 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-01 09:31:20.499 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (5.12 ms)
+2025-11-01 09:31:20.551 data/objects/bigBagPallet/bigBagPallet.i3d (4.06 ms)
+2025-11-01 09:32:15.100 Jolero lost connection to the game
+2025-11-01 09:33:48.311 Jolero joined the game
+2025-11-01 09:33:48.327 dataS/character/playerM/shirts/topTShirt01.i3d (2.34 ms)
+2025-11-01 09:33:48.334 FS25_UnloadBalesEarly: Sending new settings
+2025-11-01 09:33:48.334 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-01 09:33:48.336 FS25_UnloadBalesEarly: Sending new settings
+2025-11-01 09:33:48.336 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-01 09:33:48.337 FS25_UnloadBalesEarly: Sending new settings
+2025-11-01 09:33:48.337 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-01 09:33:48.337 FS25_UnloadBalesEarly: Sending new settings
+2025-11-01 09:33:48.337 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-01 09:33:48.362 dataS/character/playerM/hairStyles/hairStyleTopKnot.i3d (34.95 ms)
+2025-11-01 09:33:48.382 dataS/character/playerM/facialHair/mHead01/goatee01.i3d (19.75 ms)
+2025-11-01 09:34:04.018 FS25_UnloadBalesEarly: Sending new settings
+2025-11-01 09:34:04.018 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-01 09:34:04.019 FS25_UnloadBalesEarly: Sending new settings
+2025-11-01 09:34:04.019 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-01 09:34:04.019 FS25_UnloadBalesEarly: Sending new settings
+2025-11-01 09:34:04.019 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-01 09:34:04.019 FS25_UnloadBalesEarly: Sending new settings
+2025-11-01 09:34:04.019 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-01 09:34:04.019 FS25_UnloadBalesEarly: Sending new settings
+2025-11-01 09:34:04.019 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-01 09:34:04.020 FS25_UnloadBalesEarly: Sending new settings
+2025-11-01 09:34:04.020 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-01 09:34:29.391 data/objects/bigBag/bigBag.i3d (10.84 ms)
+2025-11-01 09:34:29.452 data/objects/pallets/silageAdditive/silageAdditivePallet.i3d (13.18 ms)
+2025-11-01 09:35:24.464 Jolero lost connection to the game
+2025-11-01 09:36:48.290 Jolero joined the game
+2025-11-01 09:36:48.308 dataS/character/playerM/shirts/topTShirt01.i3d (2.26 ms)
+2025-11-01 09:36:48.313 FS25_UnloadBalesEarly: Sending new settings
+2025-11-01 09:36:48.313 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-01 09:36:48.314 FS25_UnloadBalesEarly: Sending new settings
+2025-11-01 09:36:48.314 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-01 09:36:48.314 FS25_UnloadBalesEarly: Sending new settings
+2025-11-01 09:36:48.314 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-01 09:36:48.315 FS25_UnloadBalesEarly: Sending new settings
+2025-11-01 09:36:48.315 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-01 09:36:48.343 dataS/character/playerM/hairStyles/hairStyleTopKnot.i3d (35.58 ms)
+2025-11-01 09:36:48.363 dataS/character/playerM/facialHair/mHead01/goatee01.i3d (19.62 ms)
+2025-11-01 09:37:03.669 FS25_UnloadBalesEarly: Sending new settings
+2025-11-01 09:37:03.669 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-01 09:37:03.670 FS25_UnloadBalesEarly: Sending new settings
+2025-11-01 09:37:03.670 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-01 09:37:03.670 FS25_UnloadBalesEarly: Sending new settings
+2025-11-01 09:37:03.670 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-01 09:37:03.670 FS25_UnloadBalesEarly: Sending new settings
+2025-11-01 09:37:03.670 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-01 09:37:03.671 FS25_UnloadBalesEarly: Sending new settings
+2025-11-01 09:37:03.671 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-01 09:37:03.671 FS25_UnloadBalesEarly: Sending new settings
+2025-11-01 09:37:03.671 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-01 09:37:45.959   Info: [Easy Development Controls] User Jolero has logged in as master user.
+2025-11-01 09:37:59.103   Info: Moved player to coordinates 574, 824 successfully.
