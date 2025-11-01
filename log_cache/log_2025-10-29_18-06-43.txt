@@ -8040,3 +8040,31 @@ LUA call stack:
 2025-11-01 05:18:39.758 Game saved successfully (savegame1).
 2025-11-01 05:48:52.641 Game saved successfully (savegame1).
 2025-11-01 06:19:02.093 Game saved successfully (savegame1).
+2025-11-01 06:49:11.580 Game saved successfully (savegame1).
+2025-11-01 06:58:18.608 M@rcin joined the game
+2025-11-01 06:58:18.829 dataS/character/playerM/jacket/topAviatorJacket.i3d (22.39 ms)
+2025-11-01 06:58:18.831 dataS/character/playerM/attachments/glassesAviators.i3d (1.92 ms)
+2025-11-01 06:58:18.871 dataS/character/playerM/hairStyles/hairStyleDiablo.i3d (40.74 ms)
+2025-11-01 06:58:18.873 dataS/character/playerM/facialHair/mHead01/beardStubble.i3d (1.48 ms)
+2025-11-01 06:59:13.662 FS25_UnloadBalesEarly: Sending new settings
+2025-11-01 06:59:13.662 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-01 06:59:13.663 FS25_UnloadBalesEarly: Sending new settings
+2025-11-01 06:59:13.663 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-01 07:19:09.339 Game saved successfully (savegame1).
+2025-11-01 07:21:04.336   Error: Could not find motion path effect for settings (Class: 'CutterMotionPathEffect', numRows: 12, rowLength: 26, fruitType 'ALFALFA', growthState '4', fillType 'ALFALFA')
+2025-11-01 07:21:04.337   Error: Could not find motion path effect for settings (Class: 'CutterMotionPathEffect', numRows: 12, rowLength: 26, fruitType 'ALFALFA', growthState '4', fillType 'ALFALFA')
+2025-11-01 07:21:06.071   Error: Could not find motion path effect for settings (Class: 'CutterMotionPathEffect', numRows: 12, rowLength: 26, fruitType 'ALFALFA', growthState '4', fillType 'ALFALFA')
+2025-11-01 07:27:11.910 zone joined the game
+2025-11-01 07:27:11.936 dataS/character/playerM/heads/mHead02.i3d (14.51 ms)
+2025-11-01 07:27:11.942 FS25_UnloadBalesEarly: Sending new settings
+2025-11-01 07:27:11.942 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-01 07:27:12.061 dataS/character/playerM/jacket/caseIH/caseIHTop.i3d (125.01 ms)
+2025-11-01 07:27:12.083 dataS/character/playerM/attachments/caseIHhat.i3d (22.19 ms)
+2025-11-01 07:27:12.131 dataS/character/playerM/hairStyles/hairStyleFringe.i3d (47.33 ms)
+2025-11-01 07:27:12.153 dataS/character/playerM/facialHair/mHead02/fullBeard.i3d (22.63 ms)
+2025-11-01 07:27:30.186 FS25_UnloadBalesEarly: Sending new settings
+2025-11-01 07:27:30.186 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-01 07:27:30.187 FS25_UnloadBalesEarly: Sending new settings
+2025-11-01 07:27:30.187 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-01 07:27:30.187 FS25_UnloadBalesEarly: Sending new settings
+2025-11-01 07:27:30.187 FS25_UnloadBalesEarly: Done sending new settings
