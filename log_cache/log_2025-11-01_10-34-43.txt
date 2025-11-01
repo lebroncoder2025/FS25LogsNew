@@ -5506,3 +5506,9 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-01 17:14:58.513 FS25_UnloadBalesEarly: Sending new settings
 2025-11-01 17:14:58.513 FS25_UnloadBalesEarly: Done sending new settings
 2025-11-01 17:20:02.151 siejA lost connection to the game
+2025-11-01 17:27:31.622   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Massey Ferguson 310'
+2025-11-01 17:30:55.112 dataS/character/playerF/pants/botCargo.i3d (23.50 ms)
+2025-11-01 17:30:55.144 dataS/character/playerF/jacket/topVest.i3d (32.22 ms)
+2025-11-01 17:30:55.148 dataS/character/playerF/shoes/workboot02.i3d (4.08 ms)
+2025-11-01 17:30:55.191 dataS/character/playerF/hairStyles/hairStylePonyTail03.i3d (41.46 ms)
+2025-11-01 17:36:34.991 Game saved successfully (savegame1).
