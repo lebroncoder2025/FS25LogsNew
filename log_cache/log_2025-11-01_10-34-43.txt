@@ -5193,3 +5193,40 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-01 11:12:58.318 data/placeables/brandless/fences/US/fence17/fence17.i3d (2.86 ms)
 2025-11-01 11:14:06.382   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Mercedes-Benz Trucks MB-trac 900 optimized'
 2025-11-01 11:15:12.096 data/placeables/brandless/fences/US/fence17/fence17.i3d (2.55 ms)
+2025-11-01 11:22:16.331   Info: No 'ExhaustExtension' particle system added to vehicle 'Lizard Screw conveyor' because it has no exhaust
+2025-11-01 11:24:33.459   Info: Adding pallet.
+2025-11-01 11:24:33.673   Info: Adding pallet.
+2025-11-01 11:24:33.816   Info: Adding pallet.
+2025-11-01 11:24:33.921   Info: Adding pallet.
+2025-11-01 11:24:34.063   Info: Adding pallet.
+2025-11-01 11:24:34.251   Info: Adding pallet.
+2025-11-01 11:24:34.375   Info: Adding pallet.
+2025-11-01 11:24:34.533   Info: Adding pallet.
+2025-11-01 11:24:34.762   Info: Adding pallet.
+2025-11-01 11:24:35.026   Info: Adding pallet.
+2025-11-01 11:24:35.150   Info: Adding pallet.
+2025-11-01 11:24:35.293   Info: Adding pallet.
+2025-11-01 11:24:35.400   Info: Adding pallet.
+2025-11-01 11:24:35.521   Info: Adding pallet.
+2025-11-01 11:24:35.646   Info: Adding pallet.
+2025-11-01 11:24:35.788   Info: Adding pallet.
+2025-11-01 11:24:35.892   Info: Adding pallet.
+2025-11-01 11:24:36.034   Info: Adding pallet.
+2025-11-01 11:24:36.138   Info: Adding pallet.
+2025-11-01 11:24:36.281   Info: Adding pallet.
+2025-11-01 11:24:36.403   Info: Adding pallet.
+2025-11-01 11:24:36.529   Info: Adding pallet.
+2025-11-01 11:24:36.671   Info: Adding pallet.
+2025-11-01 11:24:36.813   Info: Adding pallet.
+2025-11-01 11:24:37.080   Info: Adding pallet.
+2025-11-01 11:24:37.536   Info: Adding pallet.
+2025-11-01 11:24:37.693   Info: Adding pallet.
+2025-11-01 11:24:37.816   Info: Adding pallet.
+2025-11-01 11:24:37.957   Info: Adding pallet.
+2025-11-01 11:24:38.100   Info: Adding pallet.
+2025-11-01 11:24:38.225   Info: Adding pallet.
+2025-11-01 11:24:38.368   Info: Adding pallet.
+2025-11-01 11:26:04.951   Info: Operating time of STEYR 8130 Super Elite changed to 0 h.
+2025-11-01 11:31:17.173 Warning: Send called with unknown target address.
+2025-11-01 11:31:17.182 zwierek left the game
+2025-11-01 11:36:10.666 Game saved successfully (savegame1).
