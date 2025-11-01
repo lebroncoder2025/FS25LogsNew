@@ -5512,3 +5512,19 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-01 17:30:55.148 dataS/character/playerF/shoes/workboot02.i3d (4.08 ms)
 2025-11-01 17:30:55.191 dataS/character/playerF/hairStyles/hairStylePonyTail03.i3d (41.46 ms)
 2025-11-01 17:36:34.991 Game saved successfully (savegame1).
+2025-11-01 18:06:11.951 symonixprime nie ten znany joined the game
+2025-11-01 18:06:11.974 FS25_UnloadBalesEarly: Sending new settings
+2025-11-01 18:06:11.974 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-01 18:06:12.113 dataS/character/playerM/pants/poettinger/poettingerShort.i3d (145.19 ms)
+2025-11-01 18:06:12.128 dataS/character/playerM/heads/mHead02.i3d (14.82 ms)
+2025-11-01 18:06:12.223 dataS/character/playerM/shirts/topTShirt02.i3d (95.01 ms)
+2025-11-01 18:06:12.316 dataS/character/playerM/shoes/sandalM02.i3d (93.32 ms)
+2025-11-01 18:06:12.353 dataS/character/playerM/hairStyles/hairStyleTopKnot.i3d (36.79 ms)
+2025-11-01 18:06:12.370 dataS/character/playerM/facialHair/mHead02/fullBeard.i3d (16.71 ms)
+2025-11-01 18:06:37.677 Game saved successfully (savegame1).
+2025-11-01 18:07:26.788 FS25_UnloadBalesEarly: Sending new settings
+2025-11-01 18:07:26.788 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-01 18:07:26.789 FS25_UnloadBalesEarly: Sending new settings
+2025-11-01 18:07:26.789 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-01 18:07:26.789 FS25_UnloadBalesEarly: Sending new settings
+2025-11-01 18:07:26.789 FS25_UnloadBalesEarly: Done sending new settings
