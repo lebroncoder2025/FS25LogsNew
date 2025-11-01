@@ -8272,3 +8272,82 @@ LUA call stack:
 2025-11-01 09:37:03.671 FS25_UnloadBalesEarly: Done sending new settings
 2025-11-01 09:37:45.959   Info: [Easy Development Controls] User Jolero has logged in as master user.
 2025-11-01 09:37:59.103   Info: Moved player to coordinates 574, 824 successfully.
+2025-11-01 09:46:03.885   Info: Successfully emptied fill unit 1 of Metaltech DBL.
+2025-11-01 09:49:10.989 Game saved successfully (savegame1).
+2025-11-01 09:51:17.510 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_poettingerNovaDiscPack/i3d/novaDisc305/poettingerNovaDisc305.i3d (28.58 ms)
+2025-11-01 09:51:54.324   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'STEYR 8130 Turbo'
+2025-11-01 09:52:45.454 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_poettingerNovaDiscPack/i3d/novaDisc305/poettingerNovaDisc305.i3d (29.11 ms)
+2025-11-01 09:53:22.975 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_kuhnGMDCompactFPack/i3d/GMD2721F/kuhnGMD2721F.i3d (123.16 ms)
+2025-11-01 10:00:22.580 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_CasePumaCVX_Tier3/wheels/rimFront.i3d (6.87 ms)
+2025-11-01 10:00:22.585 data/shared/wheels/tires/michelin/machXbib/600_70R28.i3d (4.83 ms)
+2025-11-01 10:00:22.589 data/shared/wheels/weights/weight001.i3d (3.70 ms)
+2025-11-01 10:00:22.593 data/shared/wheels/tires/michelin/machXbib/710_70R38.i3d (3.61 ms)
+2025-11-01 10:00:25.127   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Case IH 160 CVX'
+2025-11-01 10:03:02.992 symonixprime nie ten znany joined the game
+2025-11-01 10:03:03.029 FS25_UnloadBalesEarly: Sending new settings
+2025-11-01 10:03:03.029 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-01 10:03:03.031 FS25_UnloadBalesEarly: Sending new settings
+2025-11-01 10:03:03.031 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-01 10:03:03.032 FS25_UnloadBalesEarly: Sending new settings
+2025-11-01 10:03:03.032 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-01 10:03:03.033 FS25_UnloadBalesEarly: Sending new settings
+2025-11-01 10:03:03.033 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-01 10:03:03.034 FS25_UnloadBalesEarly: Sending new settings
+2025-11-01 10:03:03.034 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-01 10:03:03.186 dataS/character/playerM/pants/poettinger/poettingerShort.i3d (179.23 ms)
+2025-11-01 10:03:03.202 dataS/character/playerM/heads/mHead02.i3d (15.51 ms)
+2025-11-01 10:03:03.317 dataS/character/playerM/shirts/topTShirt02.i3d (115.00 ms)
+2025-11-01 10:03:03.318 dataS/character/playerM/shoes/sandalM02.i3d (1.50 ms)
+2025-11-01 10:03:03.334 dataS/character/playerM/facialHair/mHead02/fullBeard.i3d (15.31 ms)
+2025-11-01 10:03:26.501   Info: Updated field 113 successfully (3) (2)
+2025-11-01 10:03:43.015   Info: Added € -572,589,575 to farm account. (8)
+2025-11-01 10:03:52.515   Info: Added € -162,523,357 to farm account. (8)
+2025-11-01 10:03:58.220   Info: Added € 999,999,999 to farm account. (8)
+2025-11-01 10:04:01.066   Info: Added € 999,999,999 to farm account. (8)
+2025-11-01 10:04:23.492 FS25_UnloadBalesEarly: Sending new settings
+2025-11-01 10:04:23.492 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-01 10:04:23.493 FS25_UnloadBalesEarly: Sending new settings
+2025-11-01 10:04:23.493 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-01 10:04:23.493 FS25_UnloadBalesEarly: Sending new settings
+2025-11-01 10:04:23.493 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-01 10:04:23.494 FS25_UnloadBalesEarly: Sending new settings
+2025-11-01 10:04:23.494 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-01 10:04:23.494 FS25_UnloadBalesEarly: Sending new settings
+2025-11-01 10:04:23.494 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-01 10:04:23.494 FS25_UnloadBalesEarly: Sending new settings
+2025-11-01 10:04:23.494 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-01 10:04:23.494 FS25_UnloadBalesEarly: Sending new settings
+2025-11-01 10:04:23.494 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-01 10:05:15.478   Info: Updated field 114 successfully (8) (2)
+2025-11-01 10:07:36.319 symonixprime nie ten znany lost connection to the game
+2025-11-01 10:09:26.594 symonixprime nie ten znany joined the game
+2025-11-01 10:09:26.635 FS25_UnloadBalesEarly: Sending new settings
+2025-11-01 10:09:26.635 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-01 10:09:26.637 FS25_UnloadBalesEarly: Sending new settings
+2025-11-01 10:09:26.637 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-01 10:09:26.638 FS25_UnloadBalesEarly: Sending new settings
+2025-11-01 10:09:26.638 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-01 10:09:26.639 FS25_UnloadBalesEarly: Sending new settings
+2025-11-01 10:09:26.639 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-01 10:09:26.640 FS25_UnloadBalesEarly: Sending new settings
+2025-11-01 10:09:26.640 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-01 10:09:26.754 dataS/character/playerM/pants/poettinger/poettingerShort.i3d (145.17 ms)
+2025-11-01 10:09:26.770 dataS/character/playerM/heads/mHead02.i3d (16.27 ms)
+2025-11-01 10:09:26.874 dataS/character/playerM/shirts/topTShirt02.i3d (103.98 ms)
+2025-11-01 10:09:26.875 dataS/character/playerM/shoes/sandalM02.i3d (1.12 ms)
+2025-11-01 10:09:26.891 dataS/character/playerM/facialHair/mHead02/fullBeard.i3d (15.15 ms)
+2025-11-01 10:10:08.090 FS25_UnloadBalesEarly: Sending new settings
+2025-11-01 10:10:08.091 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-01 10:10:08.091 FS25_UnloadBalesEarly: Sending new settings
+2025-11-01 10:10:08.091 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-01 10:10:08.092 FS25_UnloadBalesEarly: Sending new settings
+2025-11-01 10:10:08.092 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-01 10:10:08.092 FS25_UnloadBalesEarly: Sending new settings
+2025-11-01 10:10:08.092 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-01 10:10:08.092 FS25_UnloadBalesEarly: Sending new settings
+2025-11-01 10:10:08.092 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-01 10:10:08.093 FS25_UnloadBalesEarly: Sending new settings
+2025-11-01 10:10:08.093 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-01 10:10:08.093 FS25_UnloadBalesEarly: Sending new settings
+2025-11-01 10:10:08.093 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-01 10:19:22.943 Game saved successfully (savegame1).
