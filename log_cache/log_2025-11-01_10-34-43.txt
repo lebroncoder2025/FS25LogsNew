@@ -5362,3 +5362,4 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-01 15:05:40.424 data/objects/pallets/liquidTank/liquidTank.i3d (3.55 ms)
 2025-11-01 15:06:28.717 Game saved successfully (savegame1).
 2025-11-01 15:15:02.819 data/objects/pallets/lettuceBoxPallet/lettuceBoxPallet.i3d (7.05 ms)
+2025-11-01 15:34:24.300   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'CLAAS MEGA 218'
