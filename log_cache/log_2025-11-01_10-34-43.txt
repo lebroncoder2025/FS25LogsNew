@@ -5311,3 +5311,42 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-01 14:25:41.984 FS25_UnloadBalesEarly: Done sending new settings
 2025-11-01 14:25:41.984 FS25_UnloadBalesEarly: Sending new settings
 2025-11-01 14:25:41.984 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-01 14:27:30.627   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Case IH 160 CVX'
+2025-11-01 14:29:25.424   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'CLAAS DOMINATOR 108 SL MAXI'
+2025-11-01 14:29:54.081   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Ursus C-385A Fast transmission'
+2025-11-01 14:30:12.904   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Ford 8930'
+2025-11-01 14:31:57.814 FS25_UnloadBalesEarly: Forcing early unload possibility for baler Sipma 'Z279'
+2025-11-01 14:34:34.027 hubsonwaliszot joined the game
+2025-11-01 14:34:34.062 FS25_UnloadBalesEarly: Sending new settings
+2025-11-01 14:34:34.062 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-01 14:34:34.064 FS25_UnloadBalesEarly: Sending new settings
+2025-11-01 14:34:34.064 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-01 14:34:34.331 dataS/character/playerM/shirts/poettinger/poettingerTshirt.i3d (290.27 ms)
+2025-11-01 14:36:02.071 blaze joined the game
+2025-11-01 14:36:02.094 FS25_UnloadBalesEarly: Sending new settings
+2025-11-01 14:36:02.094 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-01 14:36:02.095 FS25_UnloadBalesEarly: Sending new settings
+2025-11-01 14:36:02.095 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-01 14:36:08.691 FS25_UnloadBalesEarly: Sending new settings
+2025-11-01 14:36:08.691 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-01 14:36:08.692 FS25_UnloadBalesEarly: Sending new settings
+2025-11-01 14:36:08.692 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-01 14:36:08.692 FS25_UnloadBalesEarly: Sending new settings
+2025-11-01 14:36:08.692 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-01 14:36:08.692 FS25_UnloadBalesEarly: Sending new settings
+2025-11-01 14:36:08.692 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-01 14:36:08.692 FS25_UnloadBalesEarly: Sending new settings
+2025-11-01 14:36:08.692 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-01 14:36:27.404 Game saved successfully (savegame1).
+2025-11-01 14:36:51.304   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Zetor 10145 Fast transmission'
+2025-11-01 14:36:53.445 FS25_UnloadBalesEarly: Sending new settings
+2025-11-01 14:36:53.445 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-01 14:36:53.446 FS25_UnloadBalesEarly: Sending new settings
+2025-11-01 14:36:53.446 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-01 14:36:53.446 FS25_UnloadBalesEarly: Sending new settings
+2025-11-01 14:36:53.446 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-01 14:36:53.446 FS25_UnloadBalesEarly: Sending new settings
+2025-11-01 14:36:53.446 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-01 14:36:53.446 FS25_UnloadBalesEarly: Sending new settings
+2025-11-01 14:36:53.446 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-01 14:37:19.083   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'New Holland 8340'
