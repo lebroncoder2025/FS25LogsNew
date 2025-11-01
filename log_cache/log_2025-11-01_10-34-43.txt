@@ -5238,3 +5238,23 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-01 11:53:05.691   Info: Moved 2 vehicles to coordinates 638, 798 successfully.
 2025-11-01 11:53:16.552   Info: Moved 2 vehicles to coordinates 638, 801 successfully.
 2025-11-01 12:06:11.512 Game saved successfully (savegame1).
+2025-11-01 12:19:52.718 symonixprime nie ten znany lost connection to the game
+2025-11-01 12:22:01.407   Info: The condition of Fendt 620 Vario - 50km/h and all connected implements updated.
+2025-11-01 12:30:15.597 M@rcin joined the game
+2025-11-01 12:30:15.623 FS25_UnloadBalesEarly: Sending new settings
+2025-11-01 12:30:15.623 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-01 12:30:15.625 FS25_UnloadBalesEarly: Sending new settings
+2025-11-01 12:30:15.625 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-01 12:30:15.634 dataS/character/playerM/jacket/topAviatorJacket.i3d (19.19 ms)
+2025-11-01 12:30:15.635 dataS/character/playerM/attachments/glassesAviators.i3d (1.54 ms)
+2025-11-01 12:30:15.669 dataS/character/playerM/hairStyles/hairStyleDiablo.i3d (34.06 ms)
+2025-11-01 12:30:15.671 dataS/character/playerM/facialHair/mHead01/beardStubble.i3d (1.44 ms)
+2025-11-01 12:30:51.516 FS25_UnloadBalesEarly: Sending new settings
+2025-11-01 12:30:51.516 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-01 12:30:51.517 FS25_UnloadBalesEarly: Sending new settings
+2025-11-01 12:30:51.517 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-01 12:30:51.517 FS25_UnloadBalesEarly: Sending new settings
+2025-11-01 12:30:51.517 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-01 12:30:51.517 FS25_UnloadBalesEarly: Sending new settings
+2025-11-01 12:30:51.517 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-01 12:32:05.922   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'STEYR 8130 Turbo'
