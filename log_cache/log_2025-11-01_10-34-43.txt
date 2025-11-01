@@ -5567,3 +5567,29 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-01 18:27:47.647 FS25_UnloadBalesEarly: Done sending new settings
 2025-11-01 18:27:47.647 FS25_UnloadBalesEarly: Sending new settings
 2025-11-01 18:27:47.647 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-01 18:36:38.398 Game saved successfully (savegame1).
+2025-11-01 18:36:56.801   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_KroneTurbo2500/xml/kroneTurbo2500.xml): Invalid vector 3 for 'vehicle.base.components.joint(0)#rotDriveRotation'.
+2025-11-01 18:36:56.890   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_KroneTurbo2500/xml/kroneTurbo2500.xml): Unable to find material template '' in 'vehicle.wheels.hubMaterial'
+2025-11-01 18:36:56.896 data/shared/wheels/tires/trelleborg/T404/350_60R17_5.i3d (3.46 ms)
+2025-11-01 18:36:56.962   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_KroneTurbo2500/xml/kroneTurbo2500.xml): Node 'scratchingFloor' has no shader parameter 'scrollPosition' for animationNode 'vehicle.trailer.trailerConfigurations.trailerConfiguration(0).trailer.tipSide(0).animationNodes.animationNode(0)'!
+2025-11-01 18:36:56.963   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_KroneTurbo2500/xml/kroneTurbo2500.xml): Node 'scratchingFloor' has no shader parameter 'scrollPosition' for animationNode 'vehicle.turnOnVehicle.animationNodes.animationNode(2)'!
+2025-11-01 18:43:11.145 data/shared/assets/reflectors/lizard/redRectangle_01.i3d (1.11 ms)
+2025-11-01 18:43:11.151 data/vehicles/grimme/gl420/gl420.i3d (55.46 ms)
+2025-11-01 18:56:18.015 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_GVWJ4027/przyczepka.i3d (79.72 ms)
+2025-11-01 18:56:18.130 data/shared/wheels/rims/bockmann/rim001.i3d (9.12 ms)
+2025-11-01 18:56:18.135 data/shared/wheels/tires/continental/terrainContactHT/245_65R17.i3d (4.38 ms)
+2025-11-01 18:56:18.141 data/shared/assets/lights/lizard/sideMarker19.i3d (4.01 ms)
+2025-11-01 18:56:39.245 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.72 ms)
+2025-11-01 18:56:39.299 data/objects/pallets/fillablePallet/fillablePallet.i3d (1.77 ms)
+2025-11-01 19:00:50.882 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Trabi_kombi/Trabant.i3d (323.62 ms)
+2025-11-01 19:00:51.063 data/shared/assets/beaconLights/lizard/beaconLight07.i3d (3.95 ms)
+2025-11-01 19:04:07.903 data/placeables/brandless/animalHusbandries/sheepBarnSmall/sheepBarnSmall.i3d (8.69 ms)
+2025-11-01 19:04:07.918 data/placeables/brandless/fences/husbandries/sheepNetFence/sheepNetFence.i3d (2.69 ms)
+2025-11-01 19:06:11.183   Info: Successfully added 'ExhaustExtension' particle system to 2 nodes of vehicle '601S Trabant original'
+2025-11-01 19:06:38.814 Game saved successfully (savegame1).
+2025-11-01 19:12:00.817 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_tenwinkelWeightPackage/fpPac1000.i3d (42.78 ms)
+2025-11-01 19:12:14.632 data/vehicles/samasz/z2840/z2840.i3d (73.02 ms)
+2025-11-01 19:23:46.552 M@rcin lost connection to the game
+2025-11-01 19:23:57.096 symonixprime nie ten znany lost connection to the game
+2025-11-01 19:24:32.968 blaze lost connection to the game
+2025-11-01 19:24:55.098 hubsonwaliszot left the game
