@@ -5652,3 +5652,32 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-02 14:24:08.009 data/maps/mapUS/textures/props/flowerpot01.i3d (1.41 ms)
 2025-11-02 14:24:08.010 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_HouseSN/DomS.i3d (77.24 ms)
 2025-11-02 14:24:44.502 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_CowBarnEuropeanModernPack/garage.i3d (89.48 ms)
+2025-11-02 14:25:56.162 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_lsfmBigBagPack/objects/bigBagFillable/bigBagFillable.i3d (8.03 ms)
+2025-11-02 14:27:06.173 data/placeables/brandless/fences/EU/fence20/fence20.i3d (8.23 ms)
+2025-11-02 14:27:18.275 data/placeables/brandless/fences/EU/fence13/fence13.i3d (13.07 ms)
+2025-11-02 14:27:57.313 data/placeables/brandless/fences/AS/fence17/fence17.i3d (19.24 ms)
+2025-11-02 14:28:12.313 data/placeables/brandless/fences/AS/fence12/fence12.i3d (8.02 ms)
+2025-11-02 14:28:14.194 data/placeables/brandless/fences/AS/fence07/fence07.i3d (13.59 ms)
+2025-11-02 14:28:14.433 data/placeables/brandless/fences/AS/fence06/fence06.i3d (4.57 ms)
+2025-11-02 14:28:31.627 data/placeables/brandless/fences/AS/fence10/fence10.i3d (17.25 ms)
+2025-11-02 14:28:43.334 data/placeables/brandless/fences/EU/fence13/fence13.i3d (7.70 ms)
+2025-11-02 14:28:53.727 data/placeables/brandless/fences/EU/fence20/fence20.i3d (6.41 ms)
+2025-11-02 14:29:02.715 data/placeables/brandless/fences/AS/fence10/fence10.i3d (6.79 ms)
+2025-11-02 14:30:04.699 data/placeables/brandless/fences/EU/fence08/fence08.i3d (21.04 ms)
+2025-11-02 14:30:08.205 data/placeables/brandless/fences/EU/fence06/fence06.i3d (10.99 ms)
+2025-11-02 14:31:20.240 data/placeables/brandless/fences/EU/fence03/fence03.i3d (5.70 ms)
+2025-11-02 14:31:27.022 data/placeables/brandless/fences/EU/fence19/fence19.i3d (14.00 ms)
+2025-11-02 14:32:15.296 data/placeables/brandless/fences/EU/fence19/fence19.i3d (8.12 ms)
+2025-11-02 14:34:15.089 blaze joined the game
+2025-11-02 14:34:15.113 FS25_UnloadBalesEarly: Sending new settings
+2025-11-02 14:34:15.113 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-02 14:34:15.115 FS25_UnloadBalesEarly: Sending new settings
+2025-11-02 14:34:15.115 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-02 14:35:08.232 FS25_UnloadBalesEarly: Sending new settings
+2025-11-02 14:35:08.232 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-02 14:35:08.233 FS25_UnloadBalesEarly: Sending new settings
+2025-11-02 14:35:08.233 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-02 14:35:08.233 FS25_UnloadBalesEarly: Sending new settings
+2025-11-02 14:35:08.233 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-02 14:35:08.233 FS25_UnloadBalesEarly: Sending new settings
+2025-11-02 14:35:08.233 FS25_UnloadBalesEarly: Done sending new settings
