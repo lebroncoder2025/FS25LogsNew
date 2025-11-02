@@ -169405,3 +169405,14 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-02 06:38:11.979 FS25_UnloadBalesEarly: Done sending new settings
 2025-11-02 06:38:12.012 dataS/character/playerM/hairStyles/hairStyleDiablo.i3d (33.78 ms)
 2025-11-02 06:38:12.014 dataS/character/playerM/facialHair/mHead01/beardStubble.i3d (1.44 ms)
+2025-11-02 06:38:47.594 FS25_UnloadBalesEarly: Sending new settings
+2025-11-02 06:38:47.594 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-02 06:38:47.595 FS25_UnloadBalesEarly: Sending new settings
+2025-11-02 06:38:47.595 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-02 06:38:47.595 FS25_UnloadBalesEarly: Sending new settings
+2025-11-02 06:38:47.595 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-02 06:42:07.856 Game saved successfully (savegame1).
+2025-11-02 06:45:42.969 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.63 ms)
+2025-11-02 07:12:08.493 Game saved successfully (savegame1).
+2025-11-02 07:17:27.257 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.55 ms)
+2025-11-02 07:17:27.313 data/objects/pallets/liquidTank/liquidTank.i3d (3.12 ms)
