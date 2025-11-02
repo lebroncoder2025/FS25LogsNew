@@ -169398,3 +169398,10 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-02 05:42:02.701 Game saved successfully (savegame1).
 2025-11-02 05:45:16.668 M@rcin lost connection to the game
 2025-11-02 06:12:05.706 Game saved successfully (savegame1).
+2025-11-02 06:38:11.944 M@rcin joined the game
+2025-11-02 06:38:11.977 dataS/character/playerM/jacket/topAviatorJacket.i3d (18.89 ms)
+2025-11-02 06:38:11.979 dataS/character/playerM/attachments/glassesAviators.i3d (1.54 ms)
+2025-11-02 06:38:11.979 FS25_UnloadBalesEarly: Sending new settings
+2025-11-02 06:38:11.979 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-02 06:38:12.012 dataS/character/playerM/hairStyles/hairStyleDiablo.i3d (33.78 ms)
+2025-11-02 06:38:12.014 dataS/character/playerM/facialHair/mHead01/beardStubble.i3d (1.44 ms)
