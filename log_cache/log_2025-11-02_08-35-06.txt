@@ -5178,3 +5178,7 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-02 09:23:44.724 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_exhaustExtension/particles/smokeParticles.i3d (11.93 ms)
 2025-11-02 09:23:44.724 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_exhaustExtension/particles/smokeEmitterShape.i3d (0.14 ms)
 2025-11-02 09:23:44.724   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'STEYR 8130 Turbo'
+2025-11-02 09:34:32.059 data/shared/assets/reflectors/lizard/yellowRectangle_01.i3d (1.10 ms)
+2025-11-02 09:34:32.060 data/shared/assets/reflectors/lizard/redRound_02.i3d (0.84 ms)
+2025-11-02 09:34:32.066 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_AmazoneZAV3200/zav3200.i3d (74.63 ms)
+2025-11-02 09:36:36.053 Game saved successfully (savegame1).
