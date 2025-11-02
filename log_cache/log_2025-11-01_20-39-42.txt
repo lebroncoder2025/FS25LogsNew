@@ -169416,3 +169416,7 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-02 07:12:08.493 Game saved successfully (savegame1).
 2025-11-02 07:17:27.257 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.55 ms)
 2025-11-02 07:17:27.313 data/objects/pallets/liquidTank/liquidTank.i3d (3.12 ms)
+2025-11-02 07:42:09.715 Game saved successfully (savegame1).
+2025-11-02 07:43:29.296 data/objects/pallets/woolPallet/woolPallet.i3d (6.11 ms)
+2025-11-02 07:43:29.351 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_lsfmBigBagPack/objects/bigBag/bigBag.i3d (6.45 ms)
+2025-11-02 07:45:22.163 M@rcin lost connection to the game
