@@ -5374,3 +5374,12 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-02 11:15:08.734 FS25_UnloadBalesEarly: Done sending new settings
 2025-11-02 11:15:08.734 FS25_UnloadBalesEarly: Sending new settings
 2025-11-02 11:15:08.734 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-02 11:20:46.495   Info: No 'ExhaustExtension' particle system added to vehicle 'Grimme SL 80-22 Quantum' because it has no exhaust
+2025-11-02 11:23:50.676 M@rcin lost connection to the game
+2025-11-02 11:23:52.085   Info: [Easy Development Controls] User szagh has logged in as master user.
+2025-11-02 11:24:01.616   Info: Added € 41,000 to farm account. (6)
+2025-11-02 11:24:33.695 data/placeables/brandless/dieselTanks/level03/dieselTanksLevel03.i3d (3.54 ms)
+2025-11-02 11:26:52.371 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_productionDecorationPack/euroPalletsNew.i3d (5.65 ms)
+2025-11-02 11:30:08.019   Info: No 'ExhaustExtension' particle system added to vehicle 'Grimme SL 80-22 Quantum' because it has no exhaust
+2025-11-02 11:32:33.573   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Volvo F16 500'
+2025-11-02 11:36:39.625 Game saved successfully (savegame1).
