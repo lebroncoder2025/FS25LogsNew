@@ -6819,3 +6819,4 @@ dataS/scripts/vehicles/specializations/FillVolume.lua:297: invalid argument #1 t
 2025-11-02 23:04:21.398 FS25_UnloadBalesEarly: Done sending new settings
 2025-11-02 23:08:04.154 Game saved successfully (savegame1).
 2025-11-02 23:13:07.747 zwierek lost connection to the game
+2025-11-02 23:25:14.371 Figuana lost connection to the game
