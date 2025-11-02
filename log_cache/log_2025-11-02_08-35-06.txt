@@ -5990,3 +5990,26 @@ dataS/scripts/vehicles/specializations/FillVolume.lua:297: invalid argument #1 t
 2025-11-02 18:13:43.278 dataS/character/playerF/jacket/topVest.i3d (27.88 ms)
 2025-11-02 18:13:43.282 dataS/character/playerF/shoes/workboot02.i3d (3.84 ms)
 2025-11-02 18:13:43.322 dataS/character/playerF/hairStyles/hairStylePonyTail03.i3d (39.51 ms)
+2025-11-02 18:18:31.818 Jolero joined the game
+2025-11-02 18:18:31.836 dataS/character/playerM/shirts/topTShirt01.i3d (2.30 ms)
+2025-11-02 18:18:31.855 FS25_UnloadBalesEarly: Sending new settings
+2025-11-02 18:18:31.855 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-02 18:18:31.857 FS25_UnloadBalesEarly: Sending new settings
+2025-11-02 18:18:31.857 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-02 18:18:31.858 FS25_UnloadBalesEarly: Sending new settings
+2025-11-02 18:18:31.858 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-02 18:18:31.876 dataS/character/playerM/hairStyles/hairStyleTopKnot.i3d (39.12 ms)
+2025-11-02 18:18:31.897 dataS/character/playerM/facialHair/mHead01/goatee01.i3d (21.13 ms)
+2025-11-02 18:18:47.273 FS25_UnloadBalesEarly: Sending new settings
+2025-11-02 18:18:47.273 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-02 18:18:47.274 FS25_UnloadBalesEarly: Sending new settings
+2025-11-02 18:18:47.274 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-02 18:18:47.275 FS25_UnloadBalesEarly: Sending new settings
+2025-11-02 18:18:47.275 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-02 18:18:47.275 FS25_UnloadBalesEarly: Sending new settings
+2025-11-02 18:18:47.275 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-02 18:18:47.275 FS25_UnloadBalesEarly: Sending new settings
+2025-11-02 18:18:47.275 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-02 18:19:34.955   Info: [Easy Development Controls] User Jolero has logged in as master user.
+2025-11-02 18:19:47.798   Info: Moved player to coordinates 604, 797 successfully.
+2025-11-02 18:27:52.868   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'MERLO P41.7'
