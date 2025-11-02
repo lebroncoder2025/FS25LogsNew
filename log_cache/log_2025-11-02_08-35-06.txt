@@ -5383,3 +5383,54 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-02 11:30:08.019   Info: No 'ExhaustExtension' particle system added to vehicle 'Grimme SL 80-22 Quantum' because it has no exhaust
 2025-11-02 11:32:33.573   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Volvo F16 500'
 2025-11-02 11:36:39.625 Game saved successfully (savegame1).
+2025-11-02 11:43:29.347 Figuana joined the game
+2025-11-02 11:43:29.369 FS25_UnloadBalesEarly: Sending new settings
+2025-11-02 11:43:29.369 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-02 11:43:29.371 FS25_UnloadBalesEarly: Sending new settings
+2025-11-02 11:43:29.371 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-02 11:43:29.372 FS25_UnloadBalesEarly: Sending new settings
+2025-11-02 11:43:29.372 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-02 11:43:58.972 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_lsfmBigBagPack/objects/bigBagFillable/bigBagFillable.i3d (7.47 ms)
+2025-11-02 11:44:26.763 FS25_UnloadBalesEarly: Sending new settings
+2025-11-02 11:44:26.763 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-02 11:44:26.764 FS25_UnloadBalesEarly: Sending new settings
+2025-11-02 11:44:26.764 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-02 11:44:26.764 FS25_UnloadBalesEarly: Sending new settings
+2025-11-02 11:44:26.764 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-02 11:44:26.764 FS25_UnloadBalesEarly: Sending new settings
+2025-11-02 11:44:26.764 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-02 11:44:26.764 FS25_UnloadBalesEarly: Sending new settings
+2025-11-02 11:44:26.764 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-02 11:48:01.313 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_JohnDeere_6020_Premium_4cyl/JohnDeere6020Premium.i3d (1810.62 ms)
+2025-11-02 11:48:01.586 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_JohnDeere_6020_Premium_4cyl/Wheels/rims/NonSolidRims.i3d (12.33 ms)
+2025-11-02 11:48:01.590 data/shared/wheels/tires/trelleborg/TM700/480_70R24.i3d (4.02 ms)
+2025-11-02 11:48:01.602 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_JohnDeere_6020_Premium_4cyl/Wheels/rims/BackNonSolidRims.i3d (11.53 ms)
+2025-11-02 11:48:01.630 data/shared/wheels/tires/trelleborg/TM700/580_70R38.i3d (3.47 ms)
+2025-11-02 11:48:01.685 data/shared/assets/beaconLights/lizard/beaconLight07.i3d (3.29 ms)
+2025-11-02 11:48:07.304   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'John Deere 6120P PQ'
+2025-11-02 11:49:09.449 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_JohnDeere_6020_Premium_4cyl/Wheels/kleber/kleber.i3d (53.20 ms)
+2025-11-02 11:49:09.597 data/shared/assets/upperLinks/johnDeereUpperlink.i3d (1.86 ms)
+2025-11-02 11:49:13.813   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'John Deere 6420S CA'
+2025-11-02 11:51:03.918   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Volvo F16 500 CVT'
+2025-11-02 11:57:06.254 szagh left the game
+2025-11-02 12:06:18.048 Figuana lost connection to the game
+2025-11-02 12:06:40.793 Game saved successfully (savegame1).
+2025-11-02 12:13:19.346 Piotrek joined the game
+2025-11-02 12:13:19.379 FS25_UnloadBalesEarly: Sending new settings
+2025-11-02 12:13:19.380 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-02 12:13:19.381 FS25_UnloadBalesEarly: Sending new settings
+2025-11-02 12:13:19.381 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-02 12:13:19.425 dataS/character/playerM/shirts/topTankTop.i3d (65.33 ms)
+2025-11-02 12:13:19.432 dataS/character/playerM/gloves/glovesGeneric.i3d (6.86 ms)
+2025-11-02 12:13:19.447 dataS/character/playerM/attachments/headgearCowboy.i3d (14.47 ms)
+2025-11-02 12:13:19.521 FS25_UnloadBalesEarly: Sending new settings
+2025-11-02 12:13:19.521 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-02 12:13:31.500 FS25_UnloadBalesEarly: Sending new settings
+2025-11-02 12:13:31.500 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-02 12:13:31.501 FS25_UnloadBalesEarly: Sending new settings
+2025-11-02 12:13:31.501 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-02 12:13:31.501 FS25_UnloadBalesEarly: Sending new settings
+2025-11-02 12:13:31.501 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-02 12:13:31.501 FS25_UnloadBalesEarly: Sending new settings
+2025-11-02 12:13:31.501 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-02 12:15:22.217   Info: No 'ExhaustExtension' particle system added to vehicle 'Jungheinrich EFG S50 Pro' because it has no exhaust
