@@ -6013,3 +6013,72 @@ dataS/scripts/vehicles/specializations/FillVolume.lua:297: invalid argument #1 t
 2025-11-02 18:19:34.955   Info: [Easy Development Controls] User Jolero has logged in as master user.
 2025-11-02 18:19:47.798   Info: Moved player to coordinates 604, 797 successfully.
 2025-11-02 18:27:52.868   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'MERLO P41.7'
+2025-11-02 18:37:02.995 Game saved successfully (savegame1).
+2025-11-02 18:42:40.118 blaze joined the game
+2025-11-02 18:42:40.141 FS25_UnloadBalesEarly: Sending new settings
+2025-11-02 18:42:40.141 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-02 18:42:40.143 FS25_UnloadBalesEarly: Sending new settings
+2025-11-02 18:42:40.143 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-02 18:42:40.144 FS25_UnloadBalesEarly: Sending new settings
+2025-11-02 18:42:40.144 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-02 18:42:40.144 FS25_UnloadBalesEarly: Sending new settings
+2025-11-02 18:42:40.144 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-02 18:42:40.386 FS25_UnloadBalesEarly: Sending new settings
+2025-11-02 18:42:40.386 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-02 18:43:24.059 FS25_UnloadBalesEarly: Sending new settings
+2025-11-02 18:43:24.060 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-02 18:43:24.060 FS25_UnloadBalesEarly: Sending new settings
+2025-11-02 18:43:24.060 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-02 18:43:24.061 FS25_UnloadBalesEarly: Sending new settings
+2025-11-02 18:43:24.061 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-02 18:43:24.061 FS25_UnloadBalesEarly: Sending new settings
+2025-11-02 18:43:24.061 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-02 18:43:24.062 FS25_UnloadBalesEarly: Sending new settings
+2025-11-02 18:43:24.062 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-02 18:43:24.062 FS25_UnloadBalesEarly: Sending new settings
+2025-11-02 18:43:24.062 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-02 18:48:49.568   Info: Successfully set fill unit 1 of Strautmann Tera-Vitesse CFS 4601 DO to Hay with a fill level of 45,000 liters.
+2025-11-02 18:49:07.534   Info: Successfully set fill unit 1 of Strautmann Tera-Vitesse CFS 4601 DO to Hay with a fill level of 45,000 liters.
+2025-11-02 18:49:29.274 Game saved successfully (savegame1).
+2025-11-02 18:49:42.005 Jolero lost connection to the game
+2025-11-02 18:53:58.505 dataS/character/playerF/pants/botChinos.i3d (31.46 ms)
+2025-11-02 18:53:58.751 dataS/character/playerF/heads/fHead04.i3d (245.53 ms)
+2025-11-02 18:53:58.784 dataS/character/playerF/jacket/topAviatorJacket.i3d (33.64 ms)
+2025-11-02 18:53:58.892 dataS/character/playerF/shoes/laceUpSneaker.i3d (107.56 ms)
+2025-11-02 18:53:58.942 dataS/character/playerF/hairStyles/hairStylePonyTail01.i3d (49.76 ms)
+2025-11-02 19:01:37.279 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_ErmoLevante/i3d/ErmoLevante.i3d (72.36 ms)
+2025-11-02 19:02:30.407 Warning: Send called with unknown target address.
+2025-11-02 19:02:30.414 hubsonwaliszot left the game
+2025-11-02 19:07:06.108 Game saved successfully (savegame1).
+2025-11-02 19:10:04.143   Info: Added € 50,000 to farm account. (6)
+2025-11-02 19:10:31.946 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_JoskinBetimaxRDS/joskinBetimaxRDS7500.i3d (66.96 ms)
+2025-11-02 19:10:32.111 data/shared/assets/reflectors/lizard/whiteRound_02.i3d (1.36 ms)
+2025-11-02 19:11:40.116   Info: Added € 5,000 to farm account. (6)
+2025-11-02 19:12:04.800 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Toyota_Hilux_AT38/Toyota_Hilux_AT38.i3d (939.87 ms)
+2025-11-02 19:12:05.126   InteractiveControl: Register clickIcon 'FS25_Toyota_Hilux_AT38.DOOREXIT'
+2025-11-02 19:12:05.126   InteractiveControl: Register clickIcon 'FS25_Toyota_Hilux_AT38.DOORENTRY'
+2025-11-02 19:12:05.127   InteractiveControl: Register clickIcon 'FS25_Toyota_Hilux_AT38.TURNLIGHTHAZARD'
+2025-11-02 19:12:05.127   InteractiveControl: Register clickIcon 'FS25_Toyota_Hilux_AT38.RUL'
+2025-11-02 19:12:05.127   InteractiveControl: Register clickIcon 'FS25_Toyota_Hilux_AT38.RADIOIC'
+2025-11-02 19:12:05.127   InteractiveControl: Register clickIcon 'FS25_Toyota_Hilux_AT38.RADIO1'
+2025-11-02 19:12:05.127   InteractiveControl: Register clickIcon 'FS25_Toyota_Hilux_AT38.RADIO2'
+2025-11-02 19:12:05.127   InteractiveControl: Register clickIcon 'FS25_Toyota_Hilux_AT38.PEREDACHA'
+2025-11-02 19:12:05.513 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Toyota_Hilux_AT38/icons/ic_clickIcons.i3d (106.68 ms)
+2025-11-02 19:12:08.317   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Toyota D4D'
+2025-11-02 19:17:01.371 Warning: Send called with unknown target address.
+2025-11-02 19:17:01.381 szagh left the game
+2025-11-02 19:20:30.627 zwierek lost connection to the game
+2025-11-02 19:25:11.509 zone joined the game
+2025-11-02 19:25:11.540 dataS/character/playerM/heads/mHead02.i3d (17.70 ms)
+2025-11-02 19:25:11.543 FS25_UnloadBalesEarly: Sending new settings
+2025-11-02 19:25:11.543 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-02 19:25:11.657 dataS/character/playerM/jacket/caseIH/caseIHTop.i3d (117.11 ms)
+2025-11-02 19:25:11.666 dataS/character/playerM/attachments/caseIHhat.i3d (9.38 ms)
+2025-11-02 19:25:11.709 dataS/character/playerM/hairStyles/hairStyleFringe.i3d (42.80 ms)
+2025-11-02 19:25:11.728 dataS/character/playerM/facialHair/mHead02/fullBeard.i3d (18.96 ms)
+2025-11-02 19:25:52.424 FS25_UnloadBalesEarly: Sending new settings
+2025-11-02 19:25:52.425 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-02 19:25:52.425 FS25_UnloadBalesEarly: Sending new settings
+2025-11-02 19:25:52.426 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-02 19:25:52.426 FS25_UnloadBalesEarly: Sending new settings
+2025-11-02 19:25:52.426 FS25_UnloadBalesEarly: Done sending new settings
