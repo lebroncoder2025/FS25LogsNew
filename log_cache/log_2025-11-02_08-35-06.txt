@@ -5681,3 +5681,100 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-02 14:35:08.233 FS25_UnloadBalesEarly: Done sending new settings
 2025-11-02 14:35:08.233 FS25_UnloadBalesEarly: Sending new settings
 2025-11-02 14:35:08.233 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-02 14:36:49.208 Game saved successfully (savegame1).
+2025-11-02 14:43:03.184 M@rcin joined the game
+2025-11-02 14:43:03.219 FS25_UnloadBalesEarly: Sending new settings
+2025-11-02 14:43:03.220 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-02 14:43:03.221 FS25_UnloadBalesEarly: Sending new settings
+2025-11-02 14:43:03.221 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-02 14:43:03.222 FS25_UnloadBalesEarly: Sending new settings
+2025-11-02 14:43:03.222 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-02 14:43:03.225 dataS/character/playerM/jacket/topAviatorJacket.i3d (26.20 ms)
+2025-11-02 14:43:03.227 dataS/character/playerM/attachments/glassesAviators.i3d (1.92 ms)
+2025-11-02 14:43:03.267 dataS/character/playerM/hairStyles/hairStyleDiablo.i3d (40.02 ms)
+2025-11-02 14:43:03.268 dataS/character/playerM/facialHair/mHead01/beardStubble.i3d (1.52 ms)
+2025-11-02 14:43:13.462 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_RodotremCurtoRandon/RodotremRandon.i3d (426.14 ms)
+2025-11-02 14:43:13.607 data/shared/wheels/tires/continental/offRoadHDO/315_80R22_5.i3d (5.38 ms)
+2025-11-02 14:43:13.790 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_RodotremCurtoRandon/Wheels/RodasFerro/Rodas.i3d (57.07 ms)
+2025-11-02 14:43:13.799 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_RodotremCurtoRandon/Wheels/Parafusos/Parafusos.i3d (8.54 ms)
+2025-11-02 14:43:13.817 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_RodotremCurtoRandon/Parts/Graneleiro.i3d (18.09 ms)
+2025-11-02 14:43:25.529 FS25_UnloadBalesEarly: Sending new settings
+2025-11-02 14:43:25.529 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-02 14:43:25.530 FS25_UnloadBalesEarly: Sending new settings
+2025-11-02 14:43:25.530 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-02 14:43:25.530 FS25_UnloadBalesEarly: Sending new settings
+2025-11-02 14:43:25.530 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-02 14:43:25.531 FS25_UnloadBalesEarly: Sending new settings
+2025-11-02 14:43:25.531 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-02 14:43:25.531 FS25_UnloadBalesEarly: Sending new settings
+2025-11-02 14:43:25.531 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-02 14:44:54.332 data/placeables/brandless/decoration/benches/chessTable.i3d (7.19 ms)
+2025-11-02 14:44:57.917 data/placeables/brandless/decoration/playGround/gardenTireSwing.i3d (7.94 ms)
+2025-11-02 14:47:23.900   Info: Set farm account balance to € 73,129. (5)
+2025-11-02 14:47:45.438 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Steel_Shed_Pack/i3d/Ocel_kulna_02.i3d (3.18 ms)
+2025-11-02 14:48:27.285 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_RodotremCurtoRandon/RodotremRandon.i3d (229.83 ms)
+2025-11-02 14:48:27.421 data/shared/wheels/tires/continental/contiCrossTracHD3/315_80R22_5.i3d (2.87 ms)
+2025-11-02 14:48:27.531 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_RodotremCurtoRandon/Wheels/RodasFerro/Rodas.i3d (4.77 ms)
+2025-11-02 14:48:27.536 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_RodotremCurtoRandon/Wheels/Parafusos/Parafusos.i3d (4.90 ms)
+2025-11-02 14:48:27.549 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_RodotremCurtoRandon/Parts/Graneleiro.i3d (13.40 ms)
+2025-11-02 14:48:51.723   Info: Added € 50,809 to farm account. (6)
+2025-11-02 14:49:12.878 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_RodotremCurtoRandon/Dolly.i3d (64.92 ms)
+2025-11-02 14:49:17.126   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Volvo F16 500'
+2025-11-02 14:53:02.033 data/objects/pallets/woolPallet/woolPallet.i3d (1.60 ms)
+2025-11-02 14:53:02.037 data/objects/pallets/liquidTank/liquidTank.i3d (3.16 ms)
+2025-11-02 14:53:02.058 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_lsfmBigBagPack/objects/bigBagFillable/bigBagFillable.i3d (7.56 ms)
+2025-11-02 14:53:02.098 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_lsfmBigBagPack/objects/bigBag/bigBag.i3d (6.61 ms)
+2025-11-02 14:53:08.032 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_lsfmBigBagPack/objects/bigBagFillable/bigBagFillable.i3d (10.76 ms)
+2025-11-02 14:53:09.006 data/objects/pallets/woolPallet/woolPallet.i3d (1.52 ms)
+2025-11-02 14:53:09.009 data/objects/pallets/liquidTank/liquidTank.i3d (3.01 ms)
+2025-11-02 14:53:09.045 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_lsfmBigBagPack/objects/bigBag/bigBag.i3d (5.22 ms)
+2025-11-02 14:53:19.896 data/objects/pallets/woolPallet/woolPallet.i3d (1.58 ms)
+2025-11-02 14:53:19.899 data/objects/pallets/liquidTank/liquidTank.i3d (3.23 ms)
+2025-11-02 14:53:19.921 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_lsfmBigBagPack/objects/bigBag/bigBag.i3d (4.84 ms)
+2025-11-02 14:53:28.095 data/objects/pallets/woolPallet/woolPallet.i3d (1.51 ms)
+2025-11-02 14:53:28.098 data/objects/pallets/liquidTank/liquidTank.i3d (2.84 ms)
+2025-11-02 14:53:28.116 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_lsfmBigBagPack/objects/bigBag/bigBag.i3d (4.53 ms)
+2025-11-02 14:57:01.380 data/objects/pallets/woolPallet/woolPallet.i3d (1.55 ms)
+2025-11-02 14:57:01.384 data/objects/pallets/liquidTank/liquidTank.i3d (3.30 ms)
+2025-11-02 14:57:01.402 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_lsfmBigBagPack/objects/bigBag/bigBag.i3d (5.18 ms)
+2025-11-02 14:57:30.350 data/objects/pallets/woolPallet/woolPallet.i3d (1.50 ms)
+2025-11-02 14:57:30.353 data/objects/pallets/liquidTank/liquidTank.i3d (3.10 ms)
+2025-11-02 14:57:30.372 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_lsfmBigBagPack/objects/bigBag/bigBag.i3d (5.26 ms)
+2025-11-02 14:58:01.229 Figuana left the game
+2025-11-02 14:58:48.930 Figuana joined the game
+2025-11-02 14:58:48.966 FS25_UnloadBalesEarly: Sending new settings
+2025-11-02 14:58:48.966 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-02 14:58:48.967 FS25_UnloadBalesEarly: Sending new settings
+2025-11-02 14:58:48.967 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-02 14:58:48.968 FS25_UnloadBalesEarly: Sending new settings
+2025-11-02 14:58:48.968 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-02 14:59:12.401 FS25_UnloadBalesEarly: Sending new settings
+2025-11-02 14:59:12.401 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-02 14:59:12.402 FS25_UnloadBalesEarly: Sending new settings
+2025-11-02 14:59:12.402 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-02 14:59:12.402 FS25_UnloadBalesEarly: Sending new settings
+2025-11-02 14:59:12.402 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-02 14:59:12.402 FS25_UnloadBalesEarly: Sending new settings
+2025-11-02 14:59:12.402 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-02 14:59:12.403 FS25_UnloadBalesEarly: Sending new settings
+2025-11-02 14:59:12.403 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-02 15:01:01.832 data/objects/pallets/woolPallet/woolPallet.i3d (1.65 ms)
+2025-11-02 15:01:01.836 data/objects/pallets/liquidTank/liquidTank.i3d (3.80 ms)
+2025-11-02 15:01:01.874 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_lsfmBigBagPack/objects/bigBag/bigBag.i3d (6.27 ms)
+2025-11-02 15:03:45.662 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Workshop_FS_UP/SmallWorkshop.i3d (36.08 ms)
+2025-11-02 15:03:45.666   Error: Index not found: clearArea1Start
+2025-11-02 15:03:45.666   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Workshop_FS_UP/SmallWorkshop.xml): Clear area start node not defined for 'placeable.clearAreas.clearArea(0)'
+2025-11-02 15:03:45.666   Error: Index not found: switch
+2025-11-02 15:03:45.667   Error: Index not found: levelArea1Start
+2025-11-02 15:03:45.667   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Workshop_FS_UP/SmallWorkshop.xml): Leveling area start node not defined for 'placeable.leveling.levelAreas.levelArea(0)'
+2025-11-02 15:03:49.617 data/objects/pallets/woolPallet/woolPallet.i3d (1.67 ms)
+2025-11-02 15:03:49.621 data/objects/pallets/liquidTank/liquidTank.i3d (4.08 ms)
+2025-11-02 15:03:49.640 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_lsfmBigBagPack/objects/bigBag/bigBag.i3d (6.08 ms)
+2025-11-02 15:03:53.714 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_lsfmBigBagPack/objects/bigBag/bigBag.i3d (6.22 ms)
+2025-11-02 15:03:54.703 data/objects/pallets/woolPallet/woolPallet.i3d (1.76 ms)
+2025-11-02 15:03:54.708 data/objects/pallets/liquidTank/liquidTank.i3d (4.39 ms)
+2025-11-02 15:03:58.942 data/objects/pallets/woolPallet/woolPallet.i3d (1.68 ms)
+2025-11-02 15:03:58.946 data/objects/pallets/liquidTank/liquidTank.i3d (3.56 ms)
+2025-11-02 15:06:49.882 Game saved successfully (savegame1).
+2025-11-02 15:08:23.718 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_LizardRCW5/rcw5.i3d (67.12 ms)
+2025-11-02 15:08:23.884 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_LizardRCW5/wheels/tire.i3d (40.99 ms)
