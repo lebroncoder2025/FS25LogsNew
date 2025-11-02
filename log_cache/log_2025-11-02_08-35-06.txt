@@ -6731,3 +6731,23 @@ dataS/scripts/vehicles/specializations/FillVolume.lua:297: invalid argument #1 t
 2025-11-02 22:16:45.076 dataS/character/playerM/shirts/zipNeckPullover.i3d (116.66 ms)
 2025-11-02 22:16:45.119 dataS/character/playerM/hairStyles/hairStyleManBun.i3d (42.51 ms)
 2025-11-02 22:16:45.131 dataS/character/playerM/facialHair/mHead05/goatee02.i3d (11.79 ms)
+2025-11-02 22:19:22.827 Warning: Send called with unknown target address.
+2025-11-02 22:19:22.837 Jolero left the game
+2025-11-02 22:19:23.253 Game saved successfully (savegame1).
+2025-11-02 22:25:04.387 data/objects/pallets/liquidTank/liquidTank.i3d (2.95 ms)
+2025-11-02 22:25:05.453 data/objects/bigBagPallet/bigBagPallet.i3d (13.60 ms)
+2025-11-02 22:26:01.873 dataS/character/playerF/pants/botCargo.i3d (91.02 ms)
+2025-11-02 22:26:01.929 dataS/character/playerF/jacket/topVest.i3d (56.31 ms)
+2025-11-02 22:26:01.940 dataS/character/playerF/shoes/workboot02.i3d (10.84 ms)
+2025-11-02 22:26:01.989 dataS/character/playerF/hairStyles/hairStylePonyTail03.i3d (49.08 ms)
+2025-11-02 22:29:14.074 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (1.32 ms)
+2025-11-02 22:29:14.151 data/objects/bigBagPallet/bigBagPallet.i3d (4.48 ms)
+2025-11-02 22:29:41.015 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.68 ms)
+2025-11-02 22:30:05.222 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.69 ms)
+2025-11-02 22:31:06.680 Warning: Send called with unknown target address.
+2025-11-02 22:31:06.693 hubsonwaliszot left the game
+2025-11-02 22:32:17.680 dataS/character/playerF/pants/botChinos.i3d (20.44 ms)
+2025-11-02 22:32:17.818 dataS/character/playerF/heads/fHead06.i3d (137.52 ms)
+2025-11-02 22:32:17.878 dataS/character/playerF/shirts/topBlouse.i3d (59.94 ms)
+2025-11-02 22:32:17.882 dataS/character/playerF/shoes/sneaker01.i3d (4.08 ms)
+2025-11-02 22:32:17.931 dataS/character/playerF/hairStyles/hairStyleMidSideParted.i3d (48.71 ms)
