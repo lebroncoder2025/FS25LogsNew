@@ -5634,3 +5634,21 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-02 13:55:43.770 dataS/character/playerM/shirts/zipNeckPullover.i3d (96.91 ms)
 2025-11-02 13:55:43.805 dataS/character/playerM/hairStyles/hairStyleManBun.i3d (34.57 ms)
 2025-11-02 13:55:43.815 dataS/character/playerM/facialHair/mHead05/goatee02.i3d (10.27 ms)
+2025-11-02 14:06:25.750 dataS/character/playerF/pants/botChinos.i3d (22.00 ms)
+2025-11-02 14:06:25.884 dataS/character/playerF/heads/fHead06.i3d (134.58 ms)
+2025-11-02 14:06:25.952 dataS/character/playerF/shirts/topBlouse.i3d (67.62 ms)
+2025-11-02 14:06:25.955 dataS/character/playerF/shoes/sneaker01.i3d (2.80 ms)
+2025-11-02 14:06:25.998 dataS/character/playerF/hairStyles/hairStyleMidSideParted.i3d (43.17 ms)
+2025-11-02 14:06:43.389 Game saved successfully (savegame1).
+2025-11-02 14:06:45.014 dataS/character/playerM/pants/botLeather.i3d (18.71 ms)
+2025-11-02 14:06:45.256 dataS/character/playerM/heads/mHead03.i3d (242.23 ms)
+2025-11-02 14:06:45.336 dataS/character/playerM/hairStyles/hairStyleMidParted01.i3d (79.06 ms)
+2025-11-02 14:12:55.441   Info: Added € 200,000 to farm account. (5)
+2025-11-02 14:13:07.972 zwierek lost connection to the game
+2025-11-02 14:15:46.550   Info: [Easy Development Controls] User szagh has logged in as master user.
+2025-11-02 14:17:25.807   Info: Updated field 159 successfully (5) (2)
+2025-11-02 14:22:59.556   Info: Updated field 159 successfully (5) (2)
+2025-11-02 14:23:19.639 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_SilosFS_crossplay/I3D/Silos_23_Podajnik.i3d (17.72 ms)
+2025-11-02 14:24:08.009 data/maps/mapUS/textures/props/flowerpot01.i3d (1.41 ms)
+2025-11-02 14:24:08.010 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_HouseSN/DomS.i3d (77.24 ms)
+2025-11-02 14:24:44.502 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_CowBarnEuropeanModernPack/garage.i3d (89.48 ms)
