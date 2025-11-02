@@ -5869,3 +5869,38 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-02 16:06:56.177 dataS/character/playerM/facialHair/mHead05/goatee02.i3d (9.75 ms)
 2025-11-02 16:09:49.560 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_lsfmBigBagPack/objects/bigBagFillable/bigBagFillable.i3d (23.99 ms)
 2025-11-02 16:10:29.539 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_lsfmBigBagPack/objects/bigBagFillable/bigBagFillable.i3d (8.08 ms)
+2025-11-02 16:20:20.461 siwa joined the game
+2025-11-02 16:20:20.496 FS25_UnloadBalesEarly: Sending new settings
+2025-11-02 16:20:20.496 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-02 16:20:20.498 FS25_UnloadBalesEarly: Sending new settings
+2025-11-02 16:20:20.498 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-02 16:20:58.767 FS25_UnloadBalesEarly: Sending new settings
+2025-11-02 16:20:58.767 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-02 16:20:58.768 FS25_UnloadBalesEarly: Sending new settings
+2025-11-02 16:20:58.768 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-02 16:20:58.768 FS25_UnloadBalesEarly: Sending new settings
+2025-11-02 16:20:58.768 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-02 16:20:58.769 FS25_UnloadBalesEarly: Sending new settings
+2025-11-02 16:20:58.769 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-02 16:22:35.896 siwa lost connection to the game
+2025-11-02 16:23:30.113 siwa joined the game
+2025-11-02 16:23:30.149 FS25_UnloadBalesEarly: Sending new settings
+2025-11-02 16:23:30.149 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-02 16:23:30.151 FS25_UnloadBalesEarly: Sending new settings
+2025-11-02 16:23:30.151 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-02 16:23:43.134 FS25_UnloadBalesEarly: Sending new settings
+2025-11-02 16:23:43.135 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-02 16:23:43.136 FS25_UnloadBalesEarly: Sending new settings
+2025-11-02 16:23:43.136 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-02 16:23:43.136 FS25_UnloadBalesEarly: Sending new settings
+2025-11-02 16:23:43.136 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-02 16:23:43.136 FS25_UnloadBalesEarly: Sending new settings
+2025-11-02 16:23:43.136 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-02 16:32:34.764 hubsonwaliszot joined the game
+2025-11-02 16:32:34.799 FS25_UnloadBalesEarly: Sending new settings
+2025-11-02 16:32:34.799 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-02 16:32:34.800 FS25_UnloadBalesEarly: Sending new settings
+2025-11-02 16:32:34.800 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-02 16:32:34.801 FS25_UnloadBalesEarly: Sending new settings
+2025-11-02 16:32:34.801 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-02 16:32:35.161 dataS/character/playerM/shirts/poettinger/poettingerTshirt.i3d (383.39 ms)
