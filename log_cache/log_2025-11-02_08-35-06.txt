@@ -5244,3 +5244,6 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-02 10:06:36.457 Game saved successfully (savegame1).
 2025-11-02 10:09:23.176   Info: Moved 2 vehicles to coordinates 592, 853 successfully.
 2025-11-02 10:19:20.122   Info: Successfully set fill unit 1 of Strautmann Tera-Vitesse CFS 4601 DO to Silage with a fill level of 45,000 liters.
+2025-11-02 10:30:49.337   Info: Moved 3 vehicles to coordinates 583, 854 successfully.
+2025-11-02 10:30:54.921   Info: Moved 3 vehicles to coordinates 598, 852 successfully.
+2025-11-02 10:31:00.123   Info: Moved 3 vehicles to coordinates 680, 854 successfully.
