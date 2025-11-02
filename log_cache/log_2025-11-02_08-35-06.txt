@@ -5778,3 +5778,34 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-02 15:06:49.882 Game saved successfully (savegame1).
 2025-11-02 15:08:23.718 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_LizardRCW5/rcw5.i3d (67.12 ms)
 2025-11-02 15:08:23.884 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_LizardRCW5/wheels/tire.i3d (40.99 ms)
+2025-11-02 15:23:28.740 zwierek joined the game
+2025-11-02 15:23:28.776 FS25_UnloadBalesEarly: Sending new settings
+2025-11-02 15:23:28.776 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-02 15:23:28.777 dataS/character/playerM/pants/botJeanShorts.i3d (22.16 ms)
+2025-11-02 15:23:28.778 FS25_UnloadBalesEarly: Sending new settings
+2025-11-02 15:23:28.778 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-02 15:23:28.779 FS25_UnloadBalesEarly: Sending new settings
+2025-11-02 15:23:28.779 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-02 15:23:28.780 FS25_UnloadBalesEarly: Sending new settings
+2025-11-02 15:23:28.780 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-02 15:23:28.890 dataS/character/playerM/shoes/sandalM03.i3d (113.79 ms)
+2025-11-02 15:23:28.929 dataS/character/playerM/hairStyles/hairStyleBaldTop.i3d (38.26 ms)
+2025-11-02 15:23:28.939 dataS/character/playerM/facialHair/mHead01/walrusXL.i3d (9.96 ms)
+2025-11-02 15:24:23.784 FS25_UnloadBalesEarly: Sending new settings
+2025-11-02 15:24:23.784 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-02 15:24:23.785 FS25_UnloadBalesEarly: Sending new settings
+2025-11-02 15:24:23.785 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-02 15:24:23.786 FS25_UnloadBalesEarly: Sending new settings
+2025-11-02 15:24:23.786 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-02 15:24:23.786 FS25_UnloadBalesEarly: Sending new settings
+2025-11-02 15:24:23.786 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-02 15:24:23.786 FS25_UnloadBalesEarly: Sending new settings
+2025-11-02 15:24:23.786 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-02 15:24:23.786 FS25_UnloadBalesEarly: Sending new settings
+2025-11-02 15:24:23.786 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-02 15:25:57.750 dataS/character/playerM/pants/botLeather.i3d (25.14 ms)
+2025-11-02 15:25:57.998 dataS/character/playerM/heads/mHead03.i3d (248.02 ms)
+2025-11-02 15:25:58.037 dataS/character/playerM/hairStyles/hairStyleMidParted01.i3d (39.14 ms)
+2025-11-02 15:29:59.071 data/objects/bigBag/bigBag.i3d (8.99 ms)
+2025-11-02 15:29:59.099 data/objects/pallets/silageAdditive/silageAdditivePallet.i3d (13.46 ms)
+2025-11-02 15:30:57.315 Figuana lost connection to the game
