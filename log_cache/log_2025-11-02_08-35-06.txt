@@ -5182,3 +5182,65 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-02 09:34:32.060 data/shared/assets/reflectors/lizard/redRound_02.i3d (0.84 ms)
 2025-11-02 09:34:32.066 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_AmazoneZAV3200/zav3200.i3d (74.63 ms)
 2025-11-02 09:36:36.053 Game saved successfully (savegame1).
+2025-11-02 09:39:59.943   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'STEYR 8130 Super Elite'
+2025-11-02 09:40:51.872   Info: No 'ExhaustExtension' particle system added to vehicle 'Lizard Screw conveyor' because it has no exhaust
+2025-11-02 09:42:59.303 data/shared/wheels/tires/continental/tractor70/420_70R24.i3d (14.71 ms)
+2025-11-02 09:42:59.318 data/shared/wheels/tires/continental/tractor70/520_70R38.i3d (14.95 ms)
+2025-11-02 09:43:01.521   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'STEYR 8130 Super Elite'
+2025-11-02 09:50:46.008   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Ursus C-385A Fast transmission'
+2025-11-02 09:51:28.737 Jolero joined the game
+2025-11-02 09:51:28.757 dataS/character/playerM/shirts/topTShirt01.i3d (2.39 ms)
+2025-11-02 09:51:28.759 FS25_UnloadBalesEarly: Sending new settings
+2025-11-02 09:51:28.759 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-02 09:51:28.792 dataS/character/playerM/hairStyles/hairStyleTopKnot.i3d (34.45 ms)
+2025-11-02 09:51:28.812 dataS/character/playerM/facialHair/mHead01/goatee01.i3d (19.77 ms)
+2025-11-02 09:51:44.527 FS25_UnloadBalesEarly: Sending new settings
+2025-11-02 09:51:44.527 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-02 09:51:44.528 FS25_UnloadBalesEarly: Sending new settings
+2025-11-02 09:51:44.528 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-02 09:51:44.528 FS25_UnloadBalesEarly: Sending new settings
+2025-11-02 09:51:44.528 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-02 09:52:22.801   Info: [Easy Development Controls] User Jolero has logged in as master user.
+2025-11-02 09:52:33.269   Info: Moved player to coordinates 654, 836 successfully.
+2025-11-02 09:52:53.214   Info: No 'ExhaustExtension' particle system added to vehicle 'Lizard Screw conveyor' because it has no exhaust
+2025-11-02 09:52:58.744   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Fendt 620 Vario - 50km/h'
+2025-11-02 09:55:47.516 zwierek joined the game
+2025-11-02 09:55:47.537 FS25_UnloadBalesEarly: Sending new settings
+2025-11-02 09:55:47.537 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-02 09:55:47.538 FS25_UnloadBalesEarly: Sending new settings
+2025-11-02 09:55:47.538 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-02 09:55:47.549 dataS/character/playerM/pants/botJeanShorts.i3d (17.07 ms)
+2025-11-02 09:55:47.643 dataS/character/playerM/shoes/sandalM03.i3d (93.08 ms)
+2025-11-02 09:55:47.675 dataS/character/playerM/hairStyles/hairStyleBaldTop.i3d (32.03 ms)
+2025-11-02 09:55:47.684 dataS/character/playerM/facialHair/mHead01/walrusXL.i3d (9.22 ms)
+2025-11-02 09:56:38.476 FS25_UnloadBalesEarly: Sending new settings
+2025-11-02 09:56:38.476 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-02 09:56:38.477 FS25_UnloadBalesEarly: Sending new settings
+2025-11-02 09:56:38.477 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-02 09:56:38.477 FS25_UnloadBalesEarly: Sending new settings
+2025-11-02 09:56:38.477 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-02 09:56:38.477 FS25_UnloadBalesEarly: Sending new settings
+2025-11-02 09:56:38.477 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-02 09:58:16.472   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Case IH 160 CVX'
+2025-11-02 09:59:11.193   Info: Successfully set fill unit 1 of Strautmann Tera-Vitesse CFS 4601 DO to Silage with a fill level of 45,000 liters.
+2025-11-02 10:04:30.079 blaze joined the game
+2025-11-02 10:04:30.101 FS25_UnloadBalesEarly: Sending new settings
+2025-11-02 10:04:30.101 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-02 10:04:30.103 FS25_UnloadBalesEarly: Sending new settings
+2025-11-02 10:04:30.103 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-02 10:04:30.103 FS25_UnloadBalesEarly: Sending new settings
+2025-11-02 10:04:30.103 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-02 10:05:20.333 FS25_UnloadBalesEarly: Sending new settings
+2025-11-02 10:05:20.334 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-02 10:05:20.334 FS25_UnloadBalesEarly: Sending new settings
+2025-11-02 10:05:20.334 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-02 10:05:20.335 FS25_UnloadBalesEarly: Sending new settings
+2025-11-02 10:05:20.335 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-02 10:05:20.335 FS25_UnloadBalesEarly: Sending new settings
+2025-11-02 10:05:20.335 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-02 10:05:20.335 FS25_UnloadBalesEarly: Sending new settings
+2025-11-02 10:05:20.335 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-02 10:05:36.417   Info: Moved 2 vehicles to coordinates 639, 805 successfully.
+2025-11-02 10:06:36.457 Game saved successfully (savegame1).
+2025-11-02 10:09:23.176   Info: Moved 2 vehicles to coordinates 592, 853 successfully.
+2025-11-02 10:19:20.122   Info: Successfully set fill unit 1 of Strautmann Tera-Vitesse CFS 4601 DO to Silage with a fill level of 45,000 liters.
