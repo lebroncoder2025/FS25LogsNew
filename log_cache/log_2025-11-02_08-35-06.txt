@@ -5434,3 +5434,29 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-02 12:13:31.501 FS25_UnloadBalesEarly: Sending new settings
 2025-11-02 12:13:31.501 FS25_UnloadBalesEarly: Done sending new settings
 2025-11-02 12:15:22.217   Info: No 'ExhaustExtension' particle system added to vehicle 'Jungheinrich EFG S50 Pro' because it has no exhaust
+2025-11-02 12:16:49.232 Piotrek left the game
+2025-11-02 12:18:55.317 Piotrek joined the game
+2025-11-02 12:18:55.352 FS25_UnloadBalesEarly: Sending new settings
+2025-11-02 12:18:55.352 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-02 12:18:55.353 FS25_UnloadBalesEarly: Sending new settings
+2025-11-02 12:18:55.353 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-02 12:18:55.381 dataS/character/playerM/shirts/topTankTop.i3d (49.19 ms)
+2025-11-02 12:18:55.385 dataS/character/playerM/gloves/glovesGeneric.i3d (5.00 ms)
+2025-11-02 12:18:55.396 dataS/character/playerM/attachments/headgearCowboy.i3d (10.80 ms)
+2025-11-02 12:19:06.603 FS25_UnloadBalesEarly: Sending new settings
+2025-11-02 12:19:06.603 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-02 12:19:06.604 FS25_UnloadBalesEarly: Sending new settings
+2025-11-02 12:19:06.604 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-02 12:19:06.604 FS25_UnloadBalesEarly: Sending new settings
+2025-11-02 12:19:06.604 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-02 12:19:06.604 FS25_UnloadBalesEarly: Sending new settings
+2025-11-02 12:19:06.604 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-02 12:21:30.287   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Zetor 10145 Fast transmission'
+2025-11-02 12:28:04.865 data/objects/pallets/liquidTank/liquidTank.i3d (2.99 ms)
+2025-11-02 12:28:04.906 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_lsfmBigBagPack/objects/bigBagFillable/bigBagFillable.i3d (26.26 ms)
+2025-11-02 12:29:34.376 data/objects/pallets/liquidTank/liquidTank.i3d (3.19 ms)
+2025-11-02 12:29:34.397 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_lsfmBigBagPack/objects/bigBagFillable/bigBagFillable.i3d (6.60 ms)
+2025-11-02 12:29:36.310 symonixprime nie ten znany lost connection to the game
+2025-11-02 12:31:26.980 data/objects/pallets/liquidTank/liquidTank.i3d (3.41 ms)
+2025-11-02 12:31:27.002 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_lsfmBigBagPack/objects/bigBagFillable/bigBagFillable.i3d (7.35 ms)
+2025-11-02 12:32:27.047 Piotrek left the game
