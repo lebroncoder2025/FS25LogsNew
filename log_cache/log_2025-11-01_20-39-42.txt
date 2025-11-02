@@ -169424,3 +169424,16 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-02 07:52:35.607 data/objects/pallets/liquidTank/liquidTank.i3d (2.95 ms)
 2025-11-02 07:54:41.376 zone left the game
 2025-11-02 08:12:21.381 Game saved successfully (savegame1).
+2025-11-02 08:31:03.190 szagh joined the game
+2025-11-02 08:31:03.432 dataS/character/playerM/jacket/topLeatherJacket.i3d (40.74 ms)
+2025-11-02 08:31:03.438 dataS/character/playerM/attachments/headgearOutback.i3d (6.55 ms)
+2025-11-02 08:31:03.440 dataS/character/playerM/attachments/glassesSports01.i3d (1.77 ms)
+2025-11-02 08:31:03.458 dataS/character/playerM/facialHair/mHead01/muttonChops03.i3d (17.54 ms)
+2025-11-02 08:31:23.487 FS25_UnloadBalesEarly: Sending new settings
+2025-11-02 08:31:23.487 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-02 08:31:23.488 FS25_UnloadBalesEarly: Sending new settings
+2025-11-02 08:31:23.488 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-02 08:32:20.890 Warning: Saving while already saving
+2025-11-02 08:32:21.072 Game saved successfully (savegame1).
+2025-11-02 08:32:26.924 Game saved successfully (savegame1).
+2025-11-02 08:32:27.015 szagh left the game
