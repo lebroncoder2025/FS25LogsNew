@@ -5981,3 +5981,7 @@ dataS/scripts/vehicles/specializations/FillVolume.lua:297: invalid argument #1 t
 2025-11-02 17:24:56.619   Warning: Server:registerObject() object table: 0x000001808e53b038 1534 Vehicle already registered
 2025-11-02 17:24:56.708   Info: Adding pallet.
 2025-11-02 17:24:56.940   Info: Adding pallet.
+2025-11-02 17:28:33.962   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'KAMA3 6x6 740.62 ZF9'
+2025-11-02 17:30:04.494 Jolero left the game
+2025-11-02 17:34:02.633   Info: Removed € 56,419 from farm account. (5)
+2025-11-02 17:36:59.468 Game saved successfully (savegame1).
