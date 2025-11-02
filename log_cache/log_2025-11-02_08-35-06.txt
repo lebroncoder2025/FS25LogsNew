@@ -5594,3 +5594,43 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-02 13:39:18.727 dataS/character/playerM/shirts/zipNeckPullover.i3d (97.09 ms)
 2025-11-02 13:39:18.763 dataS/character/playerM/hairStyles/hairStyleManBun.i3d (35.35 ms)
 2025-11-02 13:39:18.773 dataS/character/playerM/facialHair/mHead05/goatee02.i3d (10.42 ms)
+2025-11-02 13:40:40.600   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Ursus C-385A Fast transmission'
+2025-11-02 13:42:46.159 symonixprime nie ten znany lost connection to the game
+2025-11-02 13:43:46.457 blaze left the game
+2025-11-02 13:45:51.042 dataS/character/playerF/pants/botJeansCapris.i3d (27.17 ms)
+2025-11-02 13:45:51.278 dataS/character/playerF/heads/fHead03.i3d (235.75 ms)
+2025-11-02 13:45:51.328 dataS/character/playerF/shirts/topTankTop.i3d (50.29 ms)
+2025-11-02 13:45:51.332 dataS/character/playerF/shoes/sneaker01.i3d (3.64 ms)
+2025-11-02 13:46:48.501 zone joined the game
+2025-11-02 13:46:48.532 dataS/character/playerM/heads/mHead02.i3d (15.35 ms)
+2025-11-02 13:46:48.539 FS25_UnloadBalesEarly: Sending new settings
+2025-11-02 13:46:48.539 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-02 13:46:48.541 FS25_UnloadBalesEarly: Sending new settings
+2025-11-02 13:46:48.541 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-02 13:46:48.542 FS25_UnloadBalesEarly: Sending new settings
+2025-11-02 13:46:48.542 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-02 13:46:48.648 dataS/character/playerM/jacket/caseIH/caseIHTop.i3d (115.80 ms)
+2025-11-02 13:46:48.659 dataS/character/playerM/attachments/caseIHhat.i3d (10.84 ms)
+2025-11-02 13:46:48.694 dataS/character/playerM/hairStyles/hairStyleFringe.i3d (35.03 ms)
+2025-11-02 13:46:48.709 dataS/character/playerM/facialHair/mHead02/fullBeard.i3d (15.04 ms)
+2025-11-02 13:47:05.325 FS25_UnloadBalesEarly: Sending new settings
+2025-11-02 13:47:05.325 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-02 13:47:05.326 FS25_UnloadBalesEarly: Sending new settings
+2025-11-02 13:47:05.326 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-02 13:47:05.326 FS25_UnloadBalesEarly: Sending new settings
+2025-11-02 13:47:05.326 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-02 13:47:05.326 FS25_UnloadBalesEarly: Sending new settings
+2025-11-02 13:47:05.326 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-02 13:47:05.326 FS25_UnloadBalesEarly: Sending new settings
+2025-11-02 13:47:05.326 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-02 13:49:42.215 zone lost connection to the game
+2025-11-02 13:51:13.705 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_lsfmBigBagPack/objects/bigBagFillable/bigBagFillable.i3d (8.17 ms)
+2025-11-02 13:51:19.203 dataS/character/playerM/fullBody/onePieceMechanic.i3d (48.25 ms)
+2025-11-02 13:51:19.219 dataS/character/playerM/heads/mHead02.i3d (16.36 ms)
+2025-11-02 13:51:19.253 dataS/character/playerM/shoes/riding.i3d (33.73 ms)
+2025-11-02 13:51:19.300 dataS/character/playerM/hairStyles/hairStyleUnkempt.i3d (46.59 ms)
+2025-11-02 13:51:19.323 dataS/character/playerM/facialHair/mHead02/goatee01.i3d (22.30 ms)
+2025-11-02 13:55:43.673 dataS/character/playerM/heads/mHead05.i3d (198.99 ms)
+2025-11-02 13:55:43.770 dataS/character/playerM/shirts/zipNeckPullover.i3d (96.91 ms)
+2025-11-02 13:55:43.805 dataS/character/playerM/hairStyles/hairStyleManBun.i3d (34.57 ms)
+2025-11-02 13:55:43.815 dataS/character/playerM/facialHair/mHead05/goatee02.i3d (10.27 ms)
