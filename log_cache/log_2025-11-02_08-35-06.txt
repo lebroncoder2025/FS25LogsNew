@@ -6881,3 +6881,37 @@ dataS/scripts/vehicles/specializations/FillVolume.lua:297: invalid argument #1 t
 2025-11-03 09:31:46.470 Warning: Send called with unknown target address.
 2025-11-03 09:31:46.484 Jolero left the game
 2025-11-03 09:31:52.604 Game saved successfully (savegame1).
+2025-11-03 09:32:52.622 Jolero joined the game
+2025-11-03 09:32:52.824 dataS/character/playerM/shirts/topTShirt01.i3d (2.38 ms)
+2025-11-03 09:32:52.865 dataS/character/playerM/hairStyles/hairStyleTopKnot.i3d (41.20 ms)
+2025-11-03 09:32:52.890 dataS/character/playerM/facialHair/mHead01/goatee01.i3d (24.86 ms)
+2025-11-03 09:33:16.343 FS25_UnloadBalesEarly: Sending new settings
+2025-11-03 09:33:16.343 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-03 09:33:16.345 FS25_UnloadBalesEarly: Sending new settings
+2025-11-03 09:33:16.345 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-03 09:34:08.351   Info: [Easy Development Controls] User Jolero has logged in as master user.
+2025-11-03 09:34:13.005   Info: Moved player to coordinates 629, 794 successfully.
+2025-11-03 09:36:57.471   Info: Moved player to coordinates 1079, 410 successfully.
+2025-11-03 09:37:34.926   Info: Moved player to coordinates 1185, 788 successfully.
+2025-11-03 09:40:50.120 w3rny joined the game
+2025-11-03 09:40:50.155 FS25_UnloadBalesEarly: Sending new settings
+2025-11-03 09:40:50.155 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-03 09:41:06.469 FS25_UnloadBalesEarly: Sending new settings
+2025-11-03 09:41:06.469 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-03 09:41:06.473 FS25_UnloadBalesEarly: Sending new settings
+2025-11-03 09:41:06.473 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-03 09:41:06.473 FS25_UnloadBalesEarly: Sending new settings
+2025-11-03 09:41:06.473 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-03 09:41:10.667 Game saved successfully (savegame1).
+2025-11-03 09:41:54.883 Next available Farm ID identified:
+2025-11-03 09:41:54.883 4.000000
+2025-11-03 09:41:54.884 FarmID => 4
+2025-11-03 09:41:54.884 newFarm FarmID => 4
+2025-11-03 09:42:50.663 dataS/character/playerM/pants/strauss/motion2020Pants2ndVariant.i3d (135.06 ms)
+2025-11-03 09:42:50.847 dataS/character/playerM/jacket/topVestM.i3d (184.13 ms)
+2025-11-03 09:42:50.851 dataS/character/playerM/attachments/headgearBandana.i3d (3.69 ms)
+2025-11-03 09:42:50.968 dataS/character/playerM/shoes/laceUpSneaker.i3d (117.24 ms)
+2025-11-03 09:42:50.981 dataS/character/playerM/facialHair/mHead01/trimmedBeard.i3d (13.58 ms)
+2025-11-03 09:44:04.853 Loaded 'dataS2/npc/grandpa/dialogueStart/wellHelloThere/whatsUp_en.bin' version 3
+2025-11-03 09:44:06.353 Loaded 'dataS2/npc/grandpa/missions/missionIntros/missionIntro/fewThings_en.bin' version 3
+2025-11-03 09:45:05.851   Info: Added € 999,999,999 to farm account. (4)
