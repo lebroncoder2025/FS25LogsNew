@@ -5254,3 +5254,28 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-03 13:47:38.387 zwierek lost connection to the game
 2025-11-03 13:47:44.632 Jolero lost connection to the game
 2025-11-03 13:48:01.690 Romek lost connection to the game
+2025-11-03 13:51:08.196 zwierek joined the game
+2025-11-03 13:51:08.418 dataS/character/playerM/pants/botJeanShorts.i3d (24.43 ms)
+2025-11-03 13:51:08.420 dataS/character/playerM/attachments/glassesAviators.i3d (1.73 ms)
+2025-11-03 13:51:08.559 dataS/character/playerM/shoes/sandalM03.i3d (138.58 ms)
+2025-11-03 13:51:08.605 dataS/character/playerM/hairStyles/hairStyleBaldTop.i3d (45.50 ms)
+2025-11-03 13:51:08.617 dataS/character/playerM/facialHair/mHead01/walrusXL.i3d (12.58 ms)
+2025-11-03 13:51:28.291 FS25_UnloadBalesEarly: Sending new settings
+2025-11-03 13:51:28.291 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-03 13:51:28.292 FS25_UnloadBalesEarly: Sending new settings
+2025-11-03 13:51:28.292 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-03 13:51:30.630 Romek joined the game
+2025-11-03 13:51:30.812 dataS/character/playerM/pants/strauss/motion2020Pants2ndVariant.i3d (162.28 ms)
+2025-11-03 13:51:31.033 dataS/character/playerM/jacket/topVestM.i3d (220.51 ms)
+2025-11-03 13:51:31.037 dataS/character/playerM/attachments/headgearBandana.i3d (3.44 ms)
+2025-11-03 13:51:31.179 dataS/character/playerM/shoes/laceUpSneaker.i3d (141.40 ms)
+2025-11-03 13:51:31.228 dataS/character/playerM/hairStyles/hairStyleTopKnot.i3d (49.28 ms)
+2025-11-03 13:51:31.243 dataS/character/playerM/facialHair/mHead01/trimmedBeard.i3d (15.02 ms)
+2025-11-03 13:51:33.944 FS25_UnloadBalesEarly: Sending new settings
+2025-11-03 13:51:33.944 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-03 13:51:47.313 FS25_UnloadBalesEarly: Sending new settings
+2025-11-03 13:51:47.314 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-03 13:51:47.314 FS25_UnloadBalesEarly: Sending new settings
+2025-11-03 13:51:47.314 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-03 13:51:47.314 FS25_UnloadBalesEarly: Sending new settings
+2025-11-03 13:51:47.314 FS25_UnloadBalesEarly: Done sending new settings
