@@ -6852,3 +6852,4 @@ dataS/scripts/vehicles/specializations/FillVolume.lua:297: invalid argument #1 t
 2025-11-03 07:01:36.244   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'STEYR 8130 Super Elite'
 2025-11-03 07:04:55.854 M@rcin lost connection to the game
 2025-11-03 07:10:35.429 Game saved successfully (savegame1).
+2025-11-03 07:40:45.542 Game saved successfully (savegame1).
