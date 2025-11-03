@@ -6932,3 +6932,7 @@ dataS/scripts/vehicles/specializations/FillVolume.lua:297: invalid argument #1 t
 2025-11-03 10:17:44.206 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_dieselTanks/i3d/tankDiesel.i3d (8.50 ms)
 2025-11-03 10:24:38.390 data/maps/trees/northernCatalpa/northernCatalpa_stage04.i3d (82.42 ms)
 2025-11-03 10:25:55.785 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_OldBrickFarmHouse/House2.i3d (675.98 ms)
+2025-11-03 10:36:02.974 data/placeables/kaercher/hds9184M/hds9184M_placeable.i3d (0.52 ms)
+2025-11-03 10:37:00.933 data/placeables/mapEU/brandless/lightsResidential/lightPole02/lightPole02.i3d (4.04 ms)
+2025-11-03 10:37:48.204 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_gardenLightPack/light3.i3d (0.91 ms)
+2025-11-03 10:41:22.236 Game saved successfully (savegame1).
