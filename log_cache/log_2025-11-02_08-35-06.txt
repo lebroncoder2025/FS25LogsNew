@@ -6980,3 +6980,7 @@ dataS/scripts/vehicles/specializations/FillVolume.lua:297: invalid argument #1 t
 2025-11-03 11:27:14.637 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_MF310/310.i3d (266.19 ms)
 2025-11-03 11:27:14.770 data/shared/wheels/tires/bkt/agrimaxFactor/420_70R28.i3d (4.47 ms)
 2025-11-03 11:27:14.792 data/shared/wheels/tires/bkt/AS504/7_50__16.i3d (21.87 ms)
+2025-11-03 11:27:22.117 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_MF310/plataforma/plataforma.i3d (117.10 ms)
+2025-11-03 11:29:09.561   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Ursus C-355'
+2025-11-03 11:38:15.737   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Massey Ferguson 310'
+2025-11-03 11:41:25.049 Game saved successfully (savegame1).
