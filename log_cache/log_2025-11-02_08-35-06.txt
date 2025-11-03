@@ -6915,3 +6915,20 @@ dataS/scripts/vehicles/specializations/FillVolume.lua:297: invalid argument #1 t
 2025-11-03 09:44:04.853 Loaded 'dataS2/npc/grandpa/dialogueStart/wellHelloThere/whatsUp_en.bin' version 3
 2025-11-03 09:44:06.353 Loaded 'dataS2/npc/grandpa/missions/missionIntros/missionIntro/fewThings_en.bin' version 3
 2025-11-03 09:45:05.851   Info: Added € 999,999,999 to farm account. (4)
+2025-11-03 09:56:03.210 data/placeables/rudolfHormann/garageWoodRoof/garageWoodRoof.i3d (11.06 ms)
+2025-11-03 09:57:28.990 data/placeables/brandless/fences/AS/fence13/fence13.i3d (4.63 ms)
+2025-11-03 09:59:11.091   Info: Moved player to coordinates 651, 843 successfully.
+2025-11-03 10:00:51.116 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_ModernCowsBarn28x17/I3D/Obora.i3d (219.21 ms)
+2025-11-03 10:00:51.152 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_ModernCowsBarn28x17/I3D/NavMesh.i3d (0.28 ms)
+2025-11-03 10:02:28.807 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_BigWhiteCowBarn/BWCowBarn.i3d (890.52 ms)
+2025-11-03 10:02:28.962 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_BigWhiteCowBarn/BWCowBarn_NavMesh.i3d (0.26 ms)
+2025-11-03 10:02:28.980 data/placeables/lely/astronautA5/astronautA5.i3d (17.97 ms)
+2025-11-03 10:04:17.004 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_BuildingKolonia/cow2.i3d (662.81 ms)
+2025-11-03 10:04:17.047 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_BuildingKolonia/navigationMesh2.i3d (0.26 ms)
+2025-11-03 10:07:05.494 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_BuildingKolonia/garazSmall.i3d (95.58 ms)
+2025-11-03 10:10:48.050 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_BuildingKolonia/garazSmall.i3d (75.42 ms)
+2025-11-03 10:11:21.814 Game saved successfully (savegame1).
+2025-11-03 10:12:22.396 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_dieselTanks/i3d/tankDiesel.i3d (14.46 ms)
+2025-11-03 10:17:44.206 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_dieselTanks/i3d/tankDiesel.i3d (8.50 ms)
+2025-11-03 10:24:38.390 data/maps/trees/northernCatalpa/northernCatalpa_stage04.i3d (82.42 ms)
+2025-11-03 10:25:55.785 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_OldBrickFarmHouse/House2.i3d (675.98 ms)
