@@ -5725,3 +5725,28 @@ dataS/scripts/shop/SellVehicleEvent.lua:73: attempt to index nil with 'propertyS
 2025-11-03 22:17:35.445 data/placeables/brandless/fences/US/fence15/fence15.i3d (5.38 ms)
 2025-11-03 22:18:51.682 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_BigWhiteCowBarn/bunkerSiloMedium.i3d (27.08 ms)
 2025-11-03 22:20:26.766 data/placeables/brandless/decoration/clothesLines/clothesline02.i3d (3.97 ms)
+2025-11-03 22:20:46.995 Game saved successfully (savegame1).
+2025-11-03 22:21:14.260 data/placeables/brandless/decoration/statues/stoneStatues05.i3d (3.02 ms)
+2025-11-03 22:21:36.997 data/placeables/brandless/streetLamps/streetLamp02/streetLamp02.i3d (1.98 ms)
+2025-11-03 22:22:35.228 data/placeables/brandless/decoration/palletTruck/palletTruck.i3d (1.25 ms)
+2025-11-03 22:25:12.394 data/placeables/brandless/riceField/riceField.i3d (0.63 ms)
+2025-11-03 22:25:12.427 data/placeables/brandless/riceField/riceFieldProps.i3d (13.68 ms)
+2025-11-03 22:25:13.796 data/placeables/orchards/grape/grape.i3d (13.37 ms)
+2025-11-03 22:25:42.974 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Hege_Fence/l2m.i3d (2.14 ms)
+2025-11-03 22:26:48.689   Info: Set farm account balance to € 120,000. (9)
+2025-11-03 22:27:00.651   Info: Set farm account balance to € 30,000. (9)
+2025-11-03 22:27:09.455   Info: Set farm account balance to € 120,000. (4)
+2025-11-03 22:30:31.961   Info: Set farm account balance to € 240,000. (5)
+2025-11-03 22:30:51.874   Info: Successfully tipped 370,666 l of Silage at a length of 18 m.
+2025-11-03 22:30:57.998   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'BELARUS 82'
+2025-11-03 22:31:32.679   Info: Super Strength enabled by Jolero
+2025-11-03 22:31:37.247   Info: Super Strength disabled by Jolero
+2025-11-03 22:32:15.934   Info: Successfully tipped 210,666 l of Silage at a length of 8 m.
+2025-11-03 22:32:19.198 data/vehicles/quicke/q4M/q4M.i3d (16.87 ms)
+2025-11-03 22:32:23.667 Jolero left the game
+2025-11-03 22:32:24.887 Game saved successfully (savegame1).
+2025-11-03 22:32:30.714 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_UrsusC355xC360Pack/frontloaders/UrsusManureFork.i3d (6.98 ms)
+2025-11-03 22:33:08.187 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_KLz3A/KZL3A.i3d (44.19 ms)
+2025-11-03 22:33:22.285 data/placeables/brandless/fences/US/fence15/fence15.i3d (5.93 ms)
+2025-11-03 22:33:53.703 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_UniaGrudziadzUPlows/U023.i3d (50.01 ms)
+2025-11-03 22:34:42.291 data/maps/trees/americanElm/americanElm_stage04.i3d (41.12 ms)
