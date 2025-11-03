@@ -5635,3 +5635,93 @@ dataS/scripts/shop/SellVehicleEvent.lua:73: attempt to index nil with 'propertyS
 2025-11-03 21:38:33.286 dataS/character/playerM/shoes/sportSneaker.i3d (92.64 ms)
 2025-11-03 21:38:33.297 dataS/character/playerM/facialHair/mHead01/trimmedBeard.i3d (11.47 ms)
 2025-11-03 21:38:51.303 data/placeables/brandless/greenhouses/greenHousesTarp/greenHousesTarpSmall.i3d (15.70 ms)
+2025-11-03 21:41:40.662 data/maps/trees/cherry/cherry_stage03.i3d (6.57 ms)
+2025-11-03 21:42:20.793   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_KroneTurbo2500/xml/kroneTurbo2500.xml): Invalid vector 3 for 'vehicle.base.components.joint(0)#rotDriveRotation'.
+2025-11-03 21:42:20.896   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_KroneTurbo2500/xml/kroneTurbo2500.xml): Unable to find material template '' in 'vehicle.wheels.hubMaterial'
+2025-11-03 21:42:20.905 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_KroneTurbo2500/wheels/Tire.i3d (6.83 ms)
+2025-11-03 21:42:21.013   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_KroneTurbo2500/xml/kroneTurbo2500.xml): Node 'scratchingFloor' has no shader parameter 'scrollPosition' for animationNode 'vehicle.trailer.trailerConfigurations.trailerConfiguration(0).trailer.tipSide(0).animationNodes.animationNode(0)'!
+2025-11-03 21:42:21.014   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_KroneTurbo2500/xml/kroneTurbo2500.xml): Node 'scratchingFloor' has no shader parameter 'scrollPosition' for animationNode 'vehicle.turnOnVehicle.animationNodes.animationNode(2)'!
+2025-11-03 21:42:41.575   Info: Operating time of Mercedes-Benz Trucks MB-trac 900 optimized changed to 28 h.
+2025-11-03 21:42:56.626   Info: Moved 1 vehicles to coordinates 1770, 696 successfully.
+2025-11-03 21:44:00.742   Info: Updated field 46 successfully (9) (1)
+2025-11-03 21:44:12.140   Info: Updated field 39 successfully (9) (1)
+2025-11-03 21:44:21.654   Info: Updated field 28 successfully (9) (1)
+2025-11-03 21:44:22.983   Info: Updated field 28 successfully (9) (1)
+2025-11-03 21:44:27.153 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_zetor6/i3d/zetor6.i3d (1268.13 ms)
+2025-11-03 21:44:27.712 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_zetor6/wheels/wheels.i3d (344.83 ms)
+2025-11-03 21:44:30.069 dataS/character/playerM/pants/poettinger/poettingerShort.i3d (141.38 ms)
+2025-11-03 21:44:30.165 dataS/character/playerM/jacket/claas/claasTop.i3d (94.19 ms)
+2025-11-03 21:44:30.170 dataS/character/playerM/attachments/headgearBeanie.i3d (4.86 ms)
+2025-11-03 21:44:30.193 dataS/character/playerM/shoes/crok.i3d (23.52 ms)
+2025-11-03 21:44:31.645   Info: Updated field 29 successfully (9) (1)
+2025-11-03 21:44:45.651   Info: Updated field 125 successfully (9) (1)
+2025-11-03 21:45:07.237   Info: Updated field 124 successfully (9) (1)
+2025-11-03 21:45:26.722   Info: Updated field 126 successfully (9) (1)
+2025-11-03 21:45:31.610   Info: Updated field 126 successfully (9) (1)
+2025-11-03 21:45:47.585   Info: Updated field 127 successfully (9) (1)
+2025-11-03 21:46:03.043   Info: Updated field 139 successfully (9) (1)
+2025-11-03 21:46:14.044 data/objects/pallets/woolPallet/woolPallet.i3d (1.31 ms)
+2025-11-03 21:46:51.115 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Madara_RNTseries/RNT_14.i3d (144.17 ms)
+2025-11-03 21:46:51.267 data/shared/wheels/tires/trelleborg/AW305/380_55R17.i3d (4.40 ms)
+2025-11-03 21:46:53.359   Info: Adding bale.
+2025-11-03 21:46:53.495   Info: Adding bale.
+2025-11-03 21:46:53.667   Info: Adding bale.
+2025-11-03 21:46:53.906   Info: Adding bale.
+2025-11-03 21:46:54.073   Info: Adding bale.
+2025-11-03 21:46:54.220   Info: Adding bale.
+2025-11-03 21:47:10.124   Info: Set farm account balance to € 20,000. (9)
+2025-11-03 21:47:19.459 Next available Farm ID identified:
+2025-11-03 21:47:19.459 4.000000
+2025-11-03 21:47:19.459 FarmID => 4
+2025-11-03 21:47:19.459 newFarm FarmID => 4
+2025-11-03 21:49:40.485   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Zetor 12111 Fast transmission Turbo'
+2025-11-03 21:50:43.960 Game saved successfully (savegame1).
+2025-11-03 21:52:54.022   Info: Added € 110,000 to farm account. (3)
+2025-11-03 21:54:04.808 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_StrautmannTeraVitesseCFS4601DO/strautmannTeraVitesse4601.i3d (83.00 ms)
+2025-11-03 21:54:20.999   Info: Moved 1 vehicles to coordinates 633, 811 successfully.
+2025-11-03 21:55:14.518   Info: Successfully set fill unit 1 of Strautmann Tera-Vitesse CFS 4601 DO to Straw with a fill level of 45,000 liters.
+2025-11-03 21:55:32.934   Info: Successfully set fill unit 1 of Strautmann Tera-Vitesse CFS 4601 DO to Straw with a fill level of 45,000 liters.
+2025-11-03 21:55:47.171   Info: Successfully set fill unit 1 of Strautmann Tera-Vitesse CFS 4601 DO to Straw with a fill level of 45,000 liters.
+2025-11-03 21:56:07.789   Info: Successfully set fill unit 1 of Strautmann Tera-Vitesse CFS 4601 DO to Hay with a fill level of 45,000 liters.
+2025-11-03 21:56:25.294   Info: Successfully set fill unit 1 of Strautmann Tera-Vitesse CFS 4601 DO to Hay with a fill level of 45,000 liters.
+2025-11-03 21:57:09.573   Info: Added € 7,000 to farm account. (3)
+2025-11-03 21:57:21.861 data/maps/mapUS/textures/props/flowerpot01.i3d (1.65 ms)
+2025-11-03 21:57:21.863 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_HouseSN/DomS.i3d (80.30 ms)
+2025-11-03 21:57:22.507   Info: Successfully set fill unit 1 of Strautmann Tera-Vitesse CFS 4601 DO to Hay with a fill level of 45,000 liters.
+2025-11-03 21:58:37.415 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_CasePumaCVX_Tier3/wheels/rimFront.i3d (1.48 ms)
+2025-11-03 21:58:37.418 data/shared/wheels/tires/michelin/machXbib/600_70R28.i3d (2.68 ms)
+2025-11-03 21:58:37.420 data/shared/wheels/tires/michelin/machXbib/710_70R38.i3d (2.07 ms)
+2025-11-03 21:58:40.239 data/placeables/brandless/floodLights/level05/floodLight05.i3d (2.91 ms)
+2025-11-03 21:58:58.956   Info: Super Strength enabled by Jolero
+2025-11-03 21:59:46.499   Info: Successfully set fill unit 2 of Potatowasher to Water with a fill level of 4,000 liters.
+2025-11-03 22:00:36.770 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_CowBarnEuropeanModernPack/garage.i3d (89.42 ms)
+2025-11-03 22:00:55.295 M@rcin lost connection to the game
+2025-11-03 22:00:59.553   Info: Successfully set fill unit 1 of Potatowasher to Potatoes with a fill level of 8,000 liters.
+2025-11-03 22:01:07.296 blaze left the game
+2025-11-03 22:01:51.721   Info: Successfully set fill unit 1 of Potatowasher to Potatoes with a fill level of 8,000 liters.
+2025-11-03 22:02:07.243   Info: Super Strength disabled by Jolero
+2025-11-03 22:02:22.207 zwierek lost connection to the game
+2025-11-03 22:02:52.249 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Hege_Fence/l2m.i3d (2.62 ms)
+2025-11-03 22:04:22.457 data/maps/trees/downyServiceBerry/downyServiceBerry_stage03.i3d (4.86 ms)
+2025-11-03 22:04:34.235 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_gardenLightPack/light3.i3d (0.93 ms)
+2025-11-03 22:05:14.068 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_SilosFS_crossplay/I3D/Silos_23_Podajnik.i3d (53.53 ms)
+2025-11-03 22:05:26.587 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_modernHouse/house.i3d (263.59 ms)
+2025-11-03 22:06:25.320 data/placeables/brandless/streetLamps/streetLamp01/streetLamp01.i3d (4.40 ms)
+2025-11-03 22:08:57.698 data/placeables/mapUS/stable01/stable01.i3d (9.48 ms)
+2025-11-03 22:09:21.346 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_fieldBarn/fieldBarn.i3d (185.49 ms)
+2025-11-03 22:10:33.403 data/placeables/brandless/fences/AS/fence07/fence07.i3d (2.82 ms)
+2025-11-03 22:13:09.299 data/placeables/brandless/decoration/garbageContainers/garbageContainers.i3d (2.08 ms)
+2025-11-03 22:13:44.906 data/placeables/brandless/fences/EU/fence13/fence13.i3d (8.85 ms)
+2025-11-03 22:13:49.760 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_FarmGatePack/FarmGate_02.i3d (12.39 ms)
+2025-11-03 22:14:25.916 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_dieselTanks/i3d/tankDiesel.i3d (9.08 ms)
+2025-11-03 22:14:36.882 data/placeables/kaercher/hds9184M/hds9184M_placeable.i3d (0.49 ms)
+2025-11-03 22:14:51.778 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_fullServiceWorkshop/workshop.i3d (187.04 ms)
+2025-11-03 22:14:51.800 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_fullServiceWorkshop/marker/markerIconWrench.i3d (6.12 ms)
+2025-11-03 22:14:51.800 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_fullServiceWorkshop/lights/light.i3d (0.51 ms)
+2025-11-03 22:14:51.801 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_fullServiceWorkshop/lights/light2.i3d (0.40 ms)
+2025-11-03 22:15:05.284   Info: No 'ExhaustExtension' particle system added to vehicle 'Kärcher HDS 9/18-4 M' because it has no exhaust
+2025-11-03 22:15:54.548   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Case IH 160 CVX'
+2025-11-03 22:17:32.186 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Hege_Fence/l2m.i3d (2.11 ms)
+2025-11-03 22:17:35.445 data/placeables/brandless/fences/US/fence15/fence15.i3d (5.38 ms)
+2025-11-03 22:18:51.682 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_BigWhiteCowBarn/bunkerSiloMedium.i3d (27.08 ms)
+2025-11-03 22:20:26.766 data/placeables/brandless/decoration/clothesLines/clothesline02.i3d (3.97 ms)
