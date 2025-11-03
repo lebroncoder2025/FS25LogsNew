@@ -5278,3 +5278,83 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-03 14:44:20.072 dataS/character/playerM/shoes/sandalM02.i3d (90.93 ms)
 2025-11-03 14:44:20.106 dataS/character/playerM/hairStyles/hairStyleTopKnot.i3d (34.12 ms)
 2025-11-03 14:44:20.122 dataS/character/playerM/facialHair/mHead02/fullBeard.i3d (15.22 ms)
+2025-11-03 14:45:32.893 FS25_UnloadBalesEarly: Sending new settings
+2025-11-03 14:45:32.893 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-03 14:45:32.894 FS25_UnloadBalesEarly: Sending new settings
+2025-11-03 14:45:32.894 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-03 14:50:22.127 symonixprime lost connection to the game
+2025-11-03 14:51:59.227 symonixprime joined the game
+2025-11-03 14:51:59.566 dataS/character/playerM/pants/poettinger/poettingerShort.i3d (141.64 ms)
+2025-11-03 14:51:59.582 dataS/character/playerM/heads/mHead02.i3d (16.04 ms)
+2025-11-03 14:51:59.674 dataS/character/playerM/shirts/topTShirt02.i3d (92.40 ms)
+2025-11-03 14:51:59.767 dataS/character/playerM/shoes/sandalM02.i3d (91.58 ms)
+2025-11-03 14:51:59.802 dataS/character/playerM/hairStyles/hairStyleTopKnot.i3d (35.25 ms)
+2025-11-03 14:51:59.817 dataS/character/playerM/facialHair/mHead02/fullBeard.i3d (14.99 ms)
+2025-11-03 14:52:27.973 FS25_UnloadBalesEarly: Sending new settings
+2025-11-03 14:52:27.973 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-03 14:52:27.974 FS25_UnloadBalesEarly: Sending new settings
+2025-11-03 14:52:27.974 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-03 14:58:15.108 Game saved successfully (savegame1).
+2025-11-03 15:00:10.337 zwierek joined the game
+2025-11-03 15:00:10.366 dataS/character/playerM/pants/botJeanShorts.i3d (16.64 ms)
+2025-11-03 15:00:10.368 dataS/character/playerM/attachments/glassesAviators.i3d (1.77 ms)
+2025-11-03 15:00:10.369 dataS/character/playerM/shoes/sandalM03.i3d (1.36 ms)
+2025-11-03 15:00:10.369 FS25_UnloadBalesEarly: Sending new settings
+2025-11-03 15:00:10.369 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-03 15:00:10.401 dataS/character/playerM/hairStyles/hairStyleBaldTop.i3d (31.25 ms)
+2025-11-03 15:00:10.419 dataS/character/playerM/facialHair/mHead01/walrusXL.i3d (9.09 ms)
+2025-11-03 15:00:29.922 FS25_UnloadBalesEarly: Sending new settings
+2025-11-03 15:00:29.922 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-03 15:00:29.923 FS25_UnloadBalesEarly: Sending new settings
+2025-11-03 15:00:29.923 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-03 15:00:29.923 FS25_UnloadBalesEarly: Sending new settings
+2025-11-03 15:00:29.923 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-03 15:00:55.352 symonixprime lost connection to the game
+2025-11-03 15:01:55.182 blaze joined the game
+2025-11-03 15:01:55.216 FS25_UnloadBalesEarly: Sending new settings
+2025-11-03 15:01:55.216 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-03 15:02:42.791 FS25_UnloadBalesEarly: Sending new settings
+2025-11-03 15:02:42.792 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-03 15:02:42.792 FS25_UnloadBalesEarly: Sending new settings
+2025-11-03 15:02:42.792 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-03 15:02:42.792 FS25_UnloadBalesEarly: Sending new settings
+2025-11-03 15:02:42.792 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-03 15:02:55.457 symonixprime joined the game
+2025-11-03 15:02:55.488 FS25_UnloadBalesEarly: Sending new settings
+2025-11-03 15:02:55.488 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-03 15:02:55.489 FS25_UnloadBalesEarly: Sending new settings
+2025-11-03 15:02:55.489 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-03 15:02:55.611 dataS/character/playerM/pants/poettinger/poettingerShort.i3d (142.31 ms)
+2025-11-03 15:02:55.628 dataS/character/playerM/heads/mHead02.i3d (16.08 ms)
+2025-11-03 15:02:55.721 dataS/character/playerM/shirts/topTShirt02.i3d (93.66 ms)
+2025-11-03 15:02:55.722 dataS/character/playerM/shoes/sandalM02.i3d (1.08 ms)
+2025-11-03 15:02:55.758 dataS/character/playerM/hairStyles/hairStyleTopKnot.i3d (35.50 ms)
+2025-11-03 15:02:55.773 dataS/character/playerM/facialHair/mHead02/fullBeard.i3d (14.89 ms)
+2025-11-03 15:03:13.732 zwierek lost connection to the game
+2025-11-03 15:03:24.971 FS25_UnloadBalesEarly: Sending new settings
+2025-11-03 15:03:24.971 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-03 15:03:24.972 FS25_UnloadBalesEarly: Sending new settings
+2025-11-03 15:03:24.972 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-03 15:03:24.972 FS25_UnloadBalesEarly: Sending new settings
+2025-11-03 15:03:24.972 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-03 15:04:47.438 zwierek joined the game
+2025-11-03 15:04:47.460 FS25_UnloadBalesEarly: Sending new settings
+2025-11-03 15:04:47.460 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-03 15:04:47.461 FS25_UnloadBalesEarly: Sending new settings
+2025-11-03 15:04:47.461 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-03 15:04:47.472 dataS/character/playerM/pants/botJeanShorts.i3d (16.80 ms)
+2025-11-03 15:04:47.474 dataS/character/playerM/attachments/glassesAviators.i3d (1.76 ms)
+2025-11-03 15:04:47.475 dataS/character/playerM/shoes/sandalM03.i3d (1.54 ms)
+2025-11-03 15:04:47.507 dataS/character/playerM/hairStyles/hairStyleBaldTop.i3d (31.66 ms)
+2025-11-03 15:04:47.516 dataS/character/playerM/facialHair/mHead01/walrusXL.i3d (8.98 ms)
+2025-11-03 15:05:06.150 FS25_UnloadBalesEarly: Sending new settings
+2025-11-03 15:05:06.150 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-03 15:05:06.151 FS25_UnloadBalesEarly: Sending new settings
+2025-11-03 15:05:06.151 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-03 15:05:06.151 FS25_UnloadBalesEarly: Sending new settings
+2025-11-03 15:05:06.151 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-03 15:05:06.151 FS25_UnloadBalesEarly: Sending new settings
+2025-11-03 15:05:06.151 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-03 15:06:55.372 symonixprime lost connection to the game
+2025-11-03 15:07:28.392 zwierek lost connection to the game
+2025-11-03 15:08:13.256 blaze lost connection to the game
