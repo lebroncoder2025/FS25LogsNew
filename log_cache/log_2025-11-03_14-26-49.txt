@@ -5270,3 +5270,11 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-03 14:42:04.311 FS25_UnloadBalesEarly: Done sending new settings
 2025-11-03 14:42:04.312 FS25_UnloadBalesEarly: Sending new settings
 2025-11-03 14:42:04.312 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-03 14:43:25.246 Romek lost connection to the game
+2025-11-03 14:44:19.530 symonixprime joined the game
+2025-11-03 14:44:19.869 dataS/character/playerM/pants/poettinger/poettingerShort.i3d (141.44 ms)
+2025-11-03 14:44:19.885 dataS/character/playerM/heads/mHead02.i3d (15.31 ms)
+2025-11-03 14:44:19.981 dataS/character/playerM/shirts/topTShirt02.i3d (96.13 ms)
+2025-11-03 14:44:20.072 dataS/character/playerM/shoes/sandalM02.i3d (90.93 ms)
+2025-11-03 14:44:20.106 dataS/character/playerM/hairStyles/hairStyleTopKnot.i3d (34.12 ms)
+2025-11-03 14:44:20.122 dataS/character/playerM/facialHair/mHead02/fullBeard.i3d (15.22 ms)
