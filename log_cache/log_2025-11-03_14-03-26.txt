@@ -4052,3 +4052,654 @@ Available mod: (Hash: c82b9fa77cf0dc1423f3eb122d0f5a1f) (Version: 1.1.0.0) LS25_
 2025-11-03 14:04:52.061 data/maps/mapUS/textures/props/vintageTools/castIronTongs.i3d (1.91 ms)
 2025-11-03 14:04:52.066 data/maps/mapUS/textures/props/vintageTools/woodenCrate02.i3d (1.36 ms)
 2025-11-03 14:04:52.074 data/maps/mapEU/textures/props/wheelBarrow01.i3d (1.86 ms)
+2025-11-03 14:04:52.391 data/maps/mapAS/textures/props/baskets/basket01.i3d (1.45 ms)
+2025-11-03 14:04:52.396 data/maps/mapUS/textures/props/cratePacking01.i3d (2.01 ms)
+2025-11-03 14:04:52.398 data/maps/mapUS/textures/props/vintageTools/woodenCrate01.i3d (1.90 ms)
+2025-11-03 14:04:56.441 data/maps/mapAS/textures/props/terraceUmbrella/terraceUmbrella02.i3d (2.19 ms)
+2025-11-03 14:04:56.449 data/maps/mapAS/textures/props/antenna.i3d (1.96 ms)
+2025-11-03 14:04:56.451 data/maps/mapUS/textures/props/hydrant02.i3d (1.89 ms)
+2025-11-03 14:04:56.455 data/maps/mapEU/textures/props/containerOffice.i3d (2.76 ms)
+2025-11-03 14:04:56.459 data/maps/textures/shared/props/industrialProps/container23.i3d (1.90 ms)
+2025-11-03 14:04:56.461 data/maps/textures/shared/props/industrialProps/container11.i3d (2.39 ms)
+2025-11-03 14:04:56.463 data/maps/textures/shared/props/industrialProps/container21.i3d (1.30 ms)
+2025-11-03 14:04:56.476 data/placeables/woodMizer/lt15/lt15.i3d (12.54 ms)
+2025-11-03 14:04:56.483 data/maps/mapEU/textures/props/noticeBoard.i3d (2.25 ms)
+2025-11-03 14:04:56.485 data/maps/mapAS/textures/props/airConditioner.i3d (2.32 ms)
+2025-11-03 14:04:56.488 data/maps/mapAS/textures/props/airConditioner02.i3d (2.12 ms)
+2025-11-03 14:04:56.490 data/maps/mapEU/textures/props/gardenWindmill.i3d (1.99 ms)
+2025-11-03 14:04:56.491 data/maps/textures/shared/props/palletTruck.i3d (1.35 ms)
+2025-11-03 14:04:56.576 data/maps/mapAS/textures/props/pipes/pipes07.i3d (1.79 ms)
+2025-11-03 14:04:56.577 data/maps/mapAS/textures/props/pipes/pipes06.i3d (1.11 ms)
+2025-11-03 14:04:56.802 data/maps/textures/shared/props/boardStack02/boardStack02Board.i3d (1.20 ms)
+2025-11-03 14:04:56.985 data/maps/mapUS/textures/props/gardenTireSwing.i3d (3.24 ms)
+2025-11-03 14:04:56.990 data/maps/mapEU/textures/props/gardenTrampoline.i3d (3.19 ms)
+2025-11-03 14:04:57.096 data/maps/mapAS/textures/props/bench02.i3d (2.13 ms)
+2025-11-03 14:04:57.098 data/maps/mapEU/textures/props/bench05.i3d (1.38 ms)
+2025-11-03 14:04:57.115 data/maps/mapEU/textures/props/bicycle01.i3d (2.20 ms)
+2025-11-03 14:04:57.118 data/maps/mapEU/textures/props/bicycle02.i3d (2.15 ms)
+2025-11-03 14:04:57.224 data/maps/mapUS/textures/props/electricConnection02.i3d (2.74 ms)
+2025-11-03 14:04:57.313 data/maps/mapUS/textures/props/trashcan03.i3d (2.07 ms)
+2025-11-03 14:04:57.318 data/maps/mapUS/textures/props/garbageContainerSmall.i3d (3.06 ms)
+2025-11-03 14:04:57.320 data/maps/mapUS/textures/props/garbageCartGreen.i3d (2.48 ms)
+2025-11-03 14:04:57.383 data/maps/mapAS/textures/props/terraceFurniture/terraceFurniture03.i3d (1.76 ms)
+2025-11-03 14:04:57.385 data/maps/mapAS/textures/props/oldTable.i3d (1.56 ms)
+2025-11-03 14:04:57.495 data/maps/mapEU/textures/props/cementMixer01.i3d (2.23 ms)
+2025-11-03 14:04:57.653 data/maps/mapAS/textures/props/boxesPlastic/boxPlastic03.i3d (2.03 ms)
+2025-11-03 14:04:58.194 data/maps/mapUS/textures/props/gardenBedRing01.i3d (1.78 ms)
+2025-11-03 14:04:58.579 data/maps/mapAS/textures/props/terraceFurniture/terraceFurniture04.i3d (1.75 ms)
+2025-11-03 14:04:58.585 data/maps/mapEU/textures/props/stepStool.i3d (1.89 ms)
+2025-11-03 14:04:58.587 data/maps/mapUS/textures/props/vintageTools/milkingStool.i3d (1.84 ms)
+2025-11-03 14:04:58.883 data/placeables/brandless/weighingStations/weighingStationSmall/weighingStationSmall.i3d (4.23 ms)
+2025-11-03 14:04:58.909 data/placeables/planET/bga250kw/bga250kw.i3d (26.73 ms)
+2025-11-03 14:04:58.935 data/placeables/brandless/chargingStation/chargingStation.i3d (3.02 ms)
+2025-11-03 14:04:58.935 data/placeables/mapEU/gasStation/gasStation.i3d (0.57 ms)
+2025-11-03 14:04:58.941 data/placeables/brandless/limeStation/limeStation.i3d (3.37 ms)
+2025-11-03 14:04:58.947 data/maps/mapEU/textures/buildings/electricityHouse/electricityHouse.i3d (5.14 ms)
+2025-11-03 14:04:59.121 data/shared/assets/marker/markerIconExclamationMark.i3d (0.93 ms)
+2025-11-03 14:04:59.553 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Cybuchowo/maps/CybuchowoMap.i3d (22123.58 ms)
+2025-11-03 14:04:59.729 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Cybuchowo/maps/foliage/decoFoliage/decoFoliageEU.i3d (165.60 ms)
+2025-11-03 14:04:59.763 dataS/character/playerM/fullBody/fullBodyNpcQG01.i3d (208.54 ms)
+2025-11-03 14:04:59.776 data/foliage/decoBush/decoBushEU/bushes.i3d (46.04 ms)
+2025-11-03 14:04:59.839 data/foliage/forestPlants/forestPlants.i3d (62.09 ms)
+2025-11-03 14:04:59.870 data/foliage/waterPlants/waterPlants.i3d (29.63 ms)
+2025-11-03 14:04:59.900 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Cybuchowo/maps/foliage/meadow/meadow.i3d (30.42 ms)
+2025-11-03 14:04:59.901 Warning (performance): Foliage lod 1 mesh 'meadow' 'cutRolled' 'roller' is much larger than lod 0 mesh (min/maxY (-0.011/0.104 vs -0.030/0.054).
+2025-11-03 14:04:59.903 dataS/character/playerM/heads/npcQG01.i3d (141.04 ms)
+2025-11-03 14:04:59.926 dataS/character/playerM/pants/botJeans.i3d (22.44 ms)
+2025-11-03 14:04:59.933 data/foliage/grass/grass.i3d (32.28 ms)
+2025-11-03 14:04:59.933 Warning (performance): Foliage lod 1 mesh 'grass' 'cutRolled' 'roller' is much larger than lod 0 mesh (min/maxY (0.016/0.128 vs -0.127/0.044).
+2025-11-03 14:04:59.979 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Cybuchowo/maps/foliage/wheat.i3d (45.75 ms)
+2025-11-03 14:05:00.020 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Cybuchowo/maps/foliage/canola.i3d (40.00 ms)
+2025-11-03 14:05:00.064 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Cybuchowo/maps/foliage/barley.i3d (44.15 ms)
+2025-11-03 14:05:00.123 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Cybuchowo/maps/foliage/maize.i3d (58.87 ms)
+2025-11-03 14:05:00.169 data/foliage/potato/potato.i3d (44.62 ms)
+2025-11-03 14:05:00.173 data/foliage/potato/potatoHaulm.i3d (3.79 ms)
+2025-11-03 14:05:00.222 data/foliage/sugarbeet/sugarbeet.i3d (48.79 ms)
+2025-11-03 14:05:00.224 dataS/character/playerM/heads/mHead08.i3d (298.25 ms)
+2025-11-03 14:05:00.228 data/foliage/sugarbeet/sugarbeetHaulm.i3d (4.49 ms)
+2025-11-03 14:05:00.247 dataS/character/playerM/shirts/topPlaidShirt01.i3d (22.72 ms)
+2025-11-03 14:05:00.255 dataS/character/playerM/shoes/workboot01.i3d (7.49 ms)
+2025-11-03 14:05:00.276 data/foliage/sunflower/sunflower.i3d (48.74 ms)
+2025-11-03 14:05:00.310 dataS/character/playerM/hairStyles/hairStyleSideParted.i3d (55.13 ms)
+2025-11-03 14:05:00.390 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Cybuchowo/maps/foliage/soybean.i3d (113.19 ms)
+2025-11-03 14:05:00.396 data/foliage/oilseedRadish/oilseedRadish.i3d (6.06 ms)
+2025-11-03 14:05:00.423 data/foliage/poplar/poplar.i3d (26.87 ms)
+2025-11-03 14:05:00.461 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Cybuchowo/maps/foliage/oat.i3d (37.56 ms)
+2025-11-03 14:05:00.504 data/foliage/sugarcane/sugarcane.i3d (42.29 ms)
+2025-11-03 14:05:00.506 data/foliage/sugarcane/sugarCaneHaulm.i3d (2.14 ms)
+2025-11-03 14:05:00.509 dataS/character/playerM/heads/mHead04.i3d (199.23 ms)
+2025-11-03 14:05:00.524 dataS/character/playerM/shirts/topCollaredShirt01.i3d (15.46 ms)
+2025-11-03 14:05:00.530 dataS/character/playerM/attachments/headgearBallcap.i3d (5.64 ms)
+2025-11-03 14:05:00.540 dataS/character/playerM/attachments/glassesClassic.i3d (10.07 ms)
+2025-11-03 14:05:00.549 dataS/character/playerM/shoes/sneaker01.i3d (8.53 ms)
+2025-11-03 14:05:00.567 data/foliage/cotton/cotton.i3d (60.64 ms)
+2025-11-03 14:05:00.584 dataS/character/playerM/hairStyles/hairStyle3070.i3d (34.92 ms)
+2025-11-03 14:05:00.608 dataS/character/playerM/hairStyles/hairStyleBuzzCut01.i3d (24.49 ms)
+2025-11-03 14:05:00.631 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Cybuchowo/maps/foliage/sorghum.i3d (63.15 ms)
+2025-11-03 14:05:00.657 data/foliage/olive/olive.i3d (26.43 ms)
+2025-11-03 14:05:00.665 data/foliage/grape/grape.i3d (7.69 ms)
+2025-11-03 14:05:00.667 dataS/character/playerM/heads/mHead07.i3d (58.63 ms)
+2025-11-03 14:05:00.703 data/foliage/beetRoot/beetRoot.i3d (36.99 ms)
+2025-11-03 14:05:00.707 data/foliage/beetRoot/beetRootHaulm.i3d (3.20 ms)
+2025-11-03 14:05:00.738 data/foliage/carrot/carrot.i3d (31.47 ms)
+2025-11-03 14:05:00.743 data/foliage/carrot/carrotHaulm.i3d (3.49 ms)
+2025-11-03 14:05:00.773 data/foliage/parsnip/parsnip.i3d (30.68 ms)
+2025-11-03 14:05:00.778 data/foliage/parsnip/parsnipHaulm.i3d (3.48 ms)
+2025-11-03 14:05:00.804 dataS/character/playerM/jacket/topFarmJacketM.i3d (137.61 ms)
+2025-11-03 14:05:00.808 data/foliage/riceLongGrain/riceLongGrain.i3d (29.78 ms)
+2025-11-03 14:05:00.810 dataS/character/playerM/attachments/headgearVintage.i3d (5.51 ms)
+2025-11-03 14:05:00.811 data/foliage/riceLongGrain/riceLongGrainHaulm.i3d (3.00 ms)
+2025-11-03 14:05:00.832 dataS/character/playerM/shoes/workboot02.i3d (21.76 ms)
+2025-11-03 14:05:00.849 data/foliage/rice/rice.i3d (38.50 ms)
+2025-11-03 14:05:00.852 data/foliage/rice/riceHaulm.i3d (2.47 ms)
+2025-11-03 14:05:00.881 dataS/character/playerF/fullBody/onePieceSynthetic.i3d (49.41 ms)
+2025-11-03 14:05:00.894 data/foliage/greenBean/greenBean.i3d (41.65 ms)
+2025-11-03 14:05:00.898 data/foliage/greenBean/greenBeanHaulm.i3d (3.82 ms)
+2025-11-03 14:05:00.938 data/foliage/pea/pea.i3d (38.82 ms)
+2025-11-03 14:05:00.941 data/foliage/pea/peaHaulm.i3d (2.97 ms)
+2025-11-03 14:05:00.976 data/foliage/spinach/spinach.i3d (35.24 ms)
+2025-11-03 14:05:01.028 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Cybuchowo/maps/foliage/Alfalfa.i3d (51.44 ms)
+2025-11-03 14:05:01.090 dataS/character/playerF/heads/fHead01.i3d (208.26 ms)
+2025-11-03 14:05:01.098 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Cybuchowo/maps/foliage/buckwheat.i3d (69.25 ms)
+2025-11-03 14:05:01.111 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Cybuchowo/maps/foliage/clover.i3d (12.62 ms)
+2025-11-03 14:05:01.111 dataS/character/playerF/shoes/galoshes.i3d (21.19 ms)
+2025-11-03 14:05:01.153 dataS/character/playerF/hairStyles/hairStyleWavy03.i3d (41.58 ms)
+2025-11-03 14:05:01.160 data/maps/mapEU/licensePlates/licensePlatesPL.i3d (7.39 ms)
+2025-11-03 14:05:01.190 data/effects/cutter/maize/maize_harvestReadyDry.i3d (29.34 ms)
+2025-11-03 14:05:01.215 data/effects/cutter/sunflower/sunflower_harvestReady.i3d (24.40 ms)
+2025-11-03 14:05:01.216 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Cybuchowo/maps/foliage/flax.i3d (104.97 ms)
+2025-11-03 14:05:01.226 data/effects/cutter/maize/maize_harvestReadyGreen.i3d (11.05 ms)
+2025-11-03 14:05:01.242 data/effects/cutter/grass/grass_greenBig.i3d (16.60 ms)
+2025-11-03 14:05:01.258 data/effects/cutter/grass/grass_harvestReady.i3d (15.70 ms)
+2025-11-03 14:05:01.291 data/effects/cutter/sunflower/sunflower_greenBig.i3d (33.27 ms)
+2025-11-03 14:05:01.293 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Cybuchowo/maps/foliage/mustard.i3d (77.13 ms)
+2025-11-03 14:05:01.315 data/effects/cutter/wheat/wheat_greenBig.i3d (23.68 ms)
+2025-11-03 14:05:01.349 data/effects/cutter/wheat/wheat_harvestReady.i3d (34.08 ms)
+2025-11-03 14:05:01.373 data/effects/cutter/barley/barley_greenBig.i3d (24.26 ms)
+2025-11-03 14:05:01.407 data/effects/cutter/barley/barley_harvestReady.i3d (33.90 ms)
+2025-11-03 14:05:01.436 data/effects/cutter/oat/oat_greenBig.i3d (28.88 ms)
+2025-11-03 14:05:01.439 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Cybuchowo/maps/foliage/rye.i3d (145.29 ms)
+2025-11-03 14:05:01.482 data/effects/cutter/oat/oat_harvestReady.i3d (45.00 ms)
+2025-11-03 14:05:01.504 data/effects/cutter/canola/canola_greenBig.i3d (22.67 ms)
+2025-11-03 14:05:01.540 data/effects/cutter/canola/canola_harvestReady.i3d (35.69 ms)
+2025-11-03 14:05:01.557 data/effects/cutter/soybean/soybean_greenBig.i3d (17.29 ms)
+2025-11-03 14:05:01.582 data/effects/cutter/soybean/soybean_harvestReady.i3d (24.45 ms)
+2025-11-03 14:05:01.585 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Cybuchowo/maps/foliage/spelt.i3d (145.97 ms)
+2025-11-03 14:05:01.607 data/effects/cutter/sorghum/sorghum_greenBig.i3d (25.49 ms)
+2025-11-03 14:05:01.629 data/effects/cutter/sorghum/sorghum_harvestReady.i3d (21.36 ms)
+2025-11-03 14:05:01.640 data/effects/cutter/riceLongGrain/riceLongGrain_greenBig.i3d (10.75 ms)
+2025-11-03 14:05:01.654 data/effects/cutter/riceLongGrain/riceLongGrain_harvestReady.i3d (14.35 ms)
+2025-11-03 14:05:01.666 data/effects/cutter/rice/rice_greenBig.i3d (11.67 ms)
+2025-11-03 14:05:01.668 data/effects/cutter/rice/rice_harvestReady_grain.i3d (1.96 ms)
+2025-11-03 14:05:01.678 data/effects/cutter/rice/rice_harvestReady_forage.i3d (10.10 ms)
+2025-11-03 14:05:01.716 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Cybuchowo/maps/effects/rye_greenBig.i3d (37.47 ms)
+2025-11-03 14:05:01.758 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Cybuchowo/maps/effects/rye_harvestReady.i3d (42.40 ms)
+2025-11-03 14:05:01.760 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Cybuchowo/maps/foliage/triticale.i3d (174.67 ms)
+2025-11-03 14:05:01.786 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Cybuchowo/maps/effects/spelt_greenBig.i3d (28.07 ms)
+2025-11-03 14:05:01.800 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Cybuchowo/maps/effects/spelt_harvestReady.i3d (13.58 ms)
+2025-11-03 14:05:01.827 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Cybuchowo/maps/effects/triticale_greenBig.i3d (27.54 ms)
+2025-11-03 14:05:01.863 data/foliage/forestPlants/groundFoliage/groundFoliage.i3d (102.92 ms)
+2025-11-03 14:05:01.874 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Cybuchowo/maps/effects/triticale_harvestReady.i3d (46.48 ms)
+2025-11-03 14:05:01.898 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Cybuchowo/maps/effects/buckwheat_greenBig.i3d (23.92 ms)
+2025-11-03 14:05:01.926 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Cybuchowo/maps/effects/buckwheat_harvestReady.i3d (27.44 ms)
+2025-11-03 14:05:01.973 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Cybuchowo/maps/effects/mustard_greenBig.i3d (46.96 ms)
+2025-11-03 14:05:02.019 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Cybuchowo/maps/effects/mustard_harvestReady.i3d (45.86 ms)
+2025-11-03 14:05:02.021 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Cybuchowo/maps/foliage/fieldGrass.i3d (153.05 ms)
+2025-11-03 14:05:02.022 Warning (performance): Foliage lod 1 mesh 'fieldGrass' 'cutRolled' 'roller' is much larger than lod 0 mesh (min/maxY (-0.026/0.056 vs -0.019/0.029).
+2025-11-03 14:05:02.029 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Cybuchowo/maps/effects/flax_greenBig.i3d (9.85 ms)
+2025-11-03 14:05:02.038 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Cybuchowo/maps/foliage/silageMaize.i3d (16.60 ms)
+2025-11-03 14:05:02.043 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Cybuchowo/maps/effects/flax_harvestReady.i3d (13.99 ms)
+2025-11-03 14:05:02.148 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Cybuchowo/maps/effects/greenRye_harvestReady.i3d (105.09 ms)
+2025-11-03 14:05:02.151 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Cybuchowo/maps/foliage/greenRye.i3d (111.98 ms)
+2025-11-03 14:05:02.152 data/effects/cutter/maize/maize_fruits.i3d (3.78 ms)
+2025-11-03 14:05:02.154 data/effects/cutter/sunflower/sunflower_fruits.i3d (2.65 ms)
+2025-11-03 14:05:02.177 data/effects/cutter/maize/maize_threshing.i3d (22.21 ms)
+2025-11-03 14:05:02.180 data/effects/cutter/sunflower/sunflower_threshing.i3d (2.87 ms)
+2025-11-03 14:05:02.199 data/effects/fertilizer/fertilizer.i3d (19.17 ms)
+2025-11-03 14:05:02.227 data/effects/chopper/strawChopper.i3d (27.96 ms)
+2025-11-03 14:05:02.242 data/effects/tedder/tedder.i3d (14.54 ms)
+2025-11-03 14:05:02.246 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Cybuchowo/maps/foliage/vetchRye.i3d (94.93 ms)
+2025-11-03 14:05:02.256 data/effects/topLifting/beetRoot/beetRoot_fruitsLeaves.i3d (13.99 ms)
+2025-11-03 14:05:02.256 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Cybuchowo/maps/foliage/mustardCover.i3d (10.03 ms)
+2025-11-03 14:05:02.258 Info: transform group 'D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Cybuchowo/maps/data/densityMap_fruits.png' has elements very far out from the cell edge (67.87% expansion)
+2025-11-03 14:05:02.263 data/effects/topLifting/beetRoot/beetRoot_fruitsClean.i3d (7.81 ms)
+2025-11-03 14:05:02.275 data/effects/topLifting/beetRoot/beetRoot_threshing.i3d (11.96 ms)
+2025-11-03 14:05:02.285 data/effects/topLifting/carrot/carrot_fruitsLeaves.i3d (9.82 ms)
+2025-11-03 14:05:02.290 data/effects/topLifting/carrot/carrot_fruitsClean.i3d (4.71 ms)
+2025-11-03 14:05:02.307 data/effects/topLifting/carrot/carrot_threshing.i3d (16.60 ms)
+2025-11-03 14:05:02.318 data/effects/topLifting/parsnip/parsnip_fruitsLeaves.i3d (11.14 ms)
+2025-11-03 14:05:02.324 data/effects/topLifting/parsnip/parsnip_fruitsClean.i3d (5.86 ms)
+2025-11-03 14:05:02.332 data/foliage/weed/weed.i3d (72.99 ms)
+2025-11-03 14:05:02.338 data/effects/topLifting/parsnip/parsnip_threshing.i3d (14.46 ms)
+2025-11-03 14:05:02.346 data/foliage/stone/stone.i3d (13.19 ms)
+2025-11-03 14:05:02.354 data/effects/windrower/windrower.i3d (15.01 ms)
+2025-11-03 14:05:02.393 data/effects/cultivator/cultivator.i3d (39.21 ms)
+2025-11-03 14:05:02.423 data/effects/plow/plow.i3d (30.02 ms)
+2025-11-03 14:05:02.445 data/effects/pickup/pickupIN.i3d (22.07 ms)
+2025-11-03 14:05:02.450 data/effects/pickup/pickupOUT.i3d (5.51 ms)
+2025-11-03 14:05:02.485 data/effects/mower/mower.i3d (34.21 ms)
+2025-11-03 14:05:02.490 data/effects/mixerWagon/mixerWagon.i3d (5.25 ms)
+2025-11-03 14:05:02.493 data/effects/grape/grape_fruitsLeaves.i3d (2.52 ms)
+2025-11-03 14:05:02.497 data/effects/grape/grape_fruitsClean.i3d (4.43 ms)
+2025-11-03 14:05:02.499 data/effects/grape/grape_fruitsHarvested.i3d (1.84 ms)
+2025-11-03 14:05:02.501 data/effects/grape/grape_threshing.i3d (1.35 ms)
+2025-11-03 14:05:02.502 data/effects/grape/grape_prePruner.i3d (1.65 ms)
+2025-11-03 14:05:02.505 data/effects/olive/olive_fruitsLeaves.i3d (2.37 ms)
+2025-11-03 14:05:02.510 data/effects/olive/olive_fruitsClean.i3d (5.22 ms)
+2025-11-03 14:05:02.513 data/effects/olive/olive_threshing.i3d (3.20 ms)
+2025-11-03 14:05:02.525 data/effects/manure/manure.i3d (12.08 ms)
+2025-11-03 14:05:02.529 data/effects/stone/small/stone.i3d (3.81 ms)
+2025-11-03 14:05:02.535 data/effects/stone/medium/stone.i3d (5.62 ms)
+2025-11-03 14:05:02.542 data/effects/stone/big/stone.i3d (7.22 ms)
+2025-11-03 14:05:02.544 data/effects/wood/wood_cutter.i3d (1.45 ms)
+2025-11-03 14:05:02.546 data/effects/sugarcane/sugarcane_prepareFruit.i3d (2.06 ms)
+2025-11-03 14:05:02.549 data/effects/sugarcane/sugarcane_chopper.i3d (3.16 ms)
+2025-11-03 14:05:02.550 data/effects/sugarcane/sugarcane_chaffer.i3d (1.40 ms)
+2025-11-03 14:05:02.552 data/effects/sugarcane/sugarcane_cutter.i3d (1.00 ms)
+2025-11-03 14:05:02.566 data/effects/snow/snowPieces.i3d (13.95 ms)
+2025-11-03 14:05:02.572 data/effects/snow/snowDust.i3d (6.85 ms)
+2025-11-03 14:05:02.575 data/effects/greenbean/greenbean_beltFruitsLeaves.i3d (2.76 ms)
+2025-11-03 14:05:02.577 data/effects/greenbean/greenbean_beltFruitsClean.i3d (1.44 ms)
+2025-11-03 14:05:02.578 data/effects/greenbean/greenbean_beltLeaves.i3d (1.35 ms)
+2025-11-03 14:05:02.581 data/effects/greenbean/greenbean_threshing.i3d (2.34 ms)
+2025-11-03 14:05:02.581 data/effects/greenbean/greenbean_threshingBelt.i3d (0.91 ms)
+2025-11-03 14:05:02.606 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_enhancedMixerWagons/data/effects/mixerWagon/forage_failed/mixerWagon.i3d (24.75 ms)
+2025-11-03 14:05:03.103 FoliageTransformGroup 'D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Cybuchowo/maps/data/densityMap_fruits.png' may need space for up to 1990656 instances (3456 per cell x 576 cells)
+2025-11-03 14:05:03.119 FoliageTransformGroup 'D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Cybuchowo/maps/data/densityMap_weed.png' may need space for up to 225792 instances (512 per cell x 441 cells)
+2025-11-03 14:05:03.124 FoliageTransformGroup 'D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Cybuchowo/maps/data/densityMap_stones.png' may need space for up to 294912 instances (512 per cell x 576 cells)
+2025-11-03 14:05:03.125 FoliageTransformGroup 'D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Cybuchowo/maps/data/densityMap_groundFoliage.png' may need space for up to 16 instances (1 per cell x 16 cells)
+2025-11-03 14:05:03.183 FS25_UnloadBalesEarly: Restoring settings on server or in single player
+2025-11-03 14:05:03.183 FS25_UnloadBalesEarly: Injecting UI settings
+2025-11-03 14:05:03.272   Info: Load soil map 'D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Cybuchowo/maps/data/infoLayer_soilMap.grle'
+2025-11-03 14:05:03.282   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_precisionFarming/PrecisionFarming.xml): Invalid fruit type 'onion' for crop sensor 'precisionFarming.nitrogenMap'
+2025-11-03 14:05:03.890 Current Animal Husbandry Limit: 15
+2025-11-03 14:05:03.890 New Animal Husbandry Limit: 64
+2025-11-03 14:05:03.905 Disable contract machines: ON!
+2025-11-03 14:05:03.905 Disable Leasing: ON!
+2025-11-03 14:05:03.923 ---loading Heap Preview 1.0.0.0(#88) (by HappyLooser)---
+2025-11-03 14:05:03.923 ---loading HorseHelper 1.0.0.0(#1) (by HappyLooser)---
+2025-11-03 14:05:03.924 NoLoan: Customized!
+2025-11-03 14:05:03.977 
+AdditionalGameSettings Info: Lighting configuration loaded (Sample):
+  -lighting: 'D:/home/sid_8377223/farmingSim_2025/profile/modSettings/FS25_additionalGameSettings/lighting/default/lighting.xml'
+  -envMapBasePath: 'data/maps/mapEU/envMaps/'
+  -envMapTimes: '39'
+  -useStoreEnvMap: 'false'
+
+2025-11-03 14:05:03.979 
+AdditionalGameSettings Info: Lighting configuration loaded (Riverbend Springs):
+  -lighting: 'data/maps/mapUS/config/environment.xml'
+  -envMapBasePath: 'data/maps/mapUS/envMaps/'
+  -envMapTimes: '39'
+  -useStoreEnvMap: 'false'
+
+2025-11-03 14:05:03.980 
+AdditionalGameSettings Info: Lighting configuration loaded (Hutan Pantai):
+  -lighting: 'data/maps/mapAS/config/environment.xml'
+  -envMapBasePath: 'data/maps/mapAS/envMaps/'
+  -envMapTimes: '39'
+  -useStoreEnvMap: 'false'
+
+2025-11-03 14:05:03.982 
+AdditionalGameSettings Info: Lighting configuration loaded (Zielonka):
+  -lighting: 'data/maps/mapEU/config/environment.xml'
+  -envMapBasePath: 'data/maps/mapEU/envMaps/'
+  -envMapTimes: '39'
+  -useStoreEnvMap: 'false'
+
+2025-11-03 14:05:03.983 
+AdditionalGameSettings Info: Lighting configuration loaded (Kinlaig):
+  -lighting: 'D:/home/sid_8377223/farmingSim_2025/game/pdlc/highlandsFishingPack/map/config/environment.xml'
+  -envMapBasePath: 'D:/home/sid_8377223/farmingSim_2025/game/pdlc/highlandsFishingPack/map/envMaps/'
+  -envMapTimes: '39'
+  -useStoreEnvMap: 'false'
+
+2025-11-03 14:05:03.983 
+AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
+  -lighting: 'D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Cybuchowo/config/environment.xml'
+  -envMapBasePath: 'data/maps/mapEU/envMaps/'
+  -envMapTimes: '39'
+  -useStoreEnvMap: 'false'
+
+2025-11-03 14:05:04.581 DM syncer[0] : D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Cybuchowo/maps/data/densityMap_ground.png (4096 x 4096, 11 bpp) tile size 32 x 32 subdivs: 8 VT: true
+2025-11-03 14:05:04.581 DM syncer[1] : TerrainDisplacementMap (16384 x 16384, 7 bpp) tile size 16 x 16 subdivs: 1 VT: true
+2025-11-03 14:05:04.582 DM syncer[2] : D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Cybuchowo/maps/data/densityMap_height.png (4096 x 4096, 12 bpp) tile size 32 x 32 subdivs: 8 VT: true
+2025-11-03 14:05:04.582 DM syncer[3] : D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Cybuchowo/maps/data/infoLayer_sprayLevel.png (4096 x 4096, 2 bpp) tile size 16 x 16 subdivs: 4 VT: false
+2025-11-03 14:05:04.582 DM syncer[4] : D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Cybuchowo/maps/data/infoLayer_limeLevel.png (4096 x 4096, 2 bpp) tile size 16 x 16 subdivs: 4 VT: false
+2025-11-03 14:05:04.582 DM syncer[5] : D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Cybuchowo/maps/data/infoLayer_plowLevel.png (4096 x 4096, 1 bpp) tile size 16 x 16 subdivs: 4 VT: false
+2025-11-03 14:05:04.582 DM syncer[6] : D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Cybuchowo/maps/data/infoLayer_stubbleShredLevel.png (4096 x 4096, 1 bpp) tile size 16 x 16 subdivs: 4 VT: false
+2025-11-03 14:05:04.582 DM syncer[7] : D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Cybuchowo/maps/data/infoLayer_rollerLevel.png (4096 x 4096, 1 bpp) tile size 16 x 16 subdivs: 4 VT: false
+2025-11-03 14:05:04.582 DM syncer[8] : D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Cybuchowo/maps/data/infoLayer_fieldType.png (4096 x 4096, 1 bpp) tile size 16 x 16 subdivs: 4 VT: false
+2025-11-03 14:05:04.582 DM syncer[9] : D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Cybuchowo/maps/data/densityMap_stones.png (4096 x 4096, 3 bpp) tile size 32 x 32 subdivs: 8 VT: false
+2025-11-03 14:05:04.582 DM syncer[10] : D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Cybuchowo/maps/data/densityMap_weed.png (4096 x 4096, 4 bpp) tile size 32 x 32 subdivs: 8 VT: false
+2025-11-03 14:05:04.582 DM syncer[11] : D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Cybuchowo/maps/data/densityMap_fruits.png (4096 x 4096, 12 bpp) tile size 32 x 32 subdivs: 8 VT: false
+2025-11-03 14:05:04.582 DM syncer : 1536 KB per connection
+2025-11-03 14:05:06.421 dataS/character/playerM/heads/npcQG01FacialAnim.i3d (34.14 ms)
+2025-11-03 14:05:06.442 dataS/character/playerM/heads/mHead08FacialAnim.i3d (20.99 ms)
+2025-11-03 14:05:06.458 dataS/character/playerM/heads/mHead04FacialAnim.i3d (15.70 ms)
+2025-11-03 14:05:06.484 dataS/character/playerM/heads/mHead07FacialAnim.i3d (26.10 ms)
+2025-11-03 14:05:06.499 dataS/character/playerF/heads/fHead01FacialAnim.i3d (14.05 ms)
+2025-11-03 14:05:06.508 data/effects/cultivator/particle/soilParticle.i3d (9.28 ms)
+2025-11-03 14:05:06.512 data/effects/cultivator/cultivatorMeshes_materialHolder.i3d (3.91 ms)
+2025-11-03 14:05:06.520 data/effects/slurry/slurryEffects_materialHolder.i3d (7.96 ms)
+2025-11-03 14:05:06.534 data/effects/unload/unloadMeshes_materialHolder.i3d (14.29 ms)
+2025-11-03 14:05:06.541 data/effects/unload/unloadParticles_materialHolder.i3d (6.79 ms)
+2025-11-03 14:05:06.542 data/effects/unload/unloadParticles.i3d (0.52 ms)
+2025-11-03 14:05:06.542 data/effects/smoke/smokeParticles.i3d (0.52 ms)
+2025-11-03 14:05:06.543 data/effects/smoke/smokeParticles_materialHolder.i3d (0.59 ms)
+2025-11-03 14:05:06.544 data/effects/smoke/industrial/smokeParticles.i3d (1.20 ms)
+2025-11-03 14:05:06.545 data/effects/wheel/wheelParticles.i3d (1.01 ms)
+2025-11-03 14:05:06.546 data/effects/bees/beesParticles.i3d (0.95 ms)
+2025-11-03 14:05:06.547 data/effects/horse/horseStepParticleSystem.i3d (0.59 ms)
+2025-11-03 14:05:06.548 data/effects/sprayer/particle/washer.i3d (0.75 ms)
+2025-11-03 14:05:06.553 data/effects/sprayer/sprayerMeshes_materialHolder.i3d (5.74 ms)
+2025-11-03 14:05:06.560 data/effects/sprayCan/sprayCan_materialHolder.i3d (6.60 ms)
+2025-11-03 14:05:06.561 data/effects/sprayCan/particle/sprayCan.i3d (0.82 ms)
+2025-11-03 14:05:06.563 data/effects/leveler/levelerMeshes_materialHolder.i3d (2.04 ms)
+2025-11-03 14:05:06.565 data/effects/wood/particle/forestry.i3d (1.57 ms)
+2025-11-03 14:05:06.583 data/effects/belt/beltMeshes_materialHolder.i3d (18.29 ms)
+2025-11-03 14:05:06.585 data/effects/potato/particle/potato.i3d (1.76 ms)
+2025-11-03 14:05:06.586 data/effects/sugarBeet/particle/sugarBeet.i3d (1.38 ms)
+2025-11-03 14:05:06.587 data/effects/cotton/particle/cotton.i3d (1.13 ms)
+2025-11-03 14:05:06.592 data/effects/stone/particle/stone.i3d (4.87 ms)
+2025-11-03 14:05:06.593 data/effects/hydraulicHammer/particle/debris.i3d (1.19 ms)
+2025-11-03 14:05:06.595 data/effects/hydraulicHammer/particle/smoke.i3d (1.06 ms)
+2025-11-03 14:05:06.595 data/effects/hydraulicHammer/particle/smokeDestroy.i3d (0.53 ms)
+2025-11-03 14:05:06.596 data/effects/smoke/train/smokeMainParticles.i3d (0.66 ms)
+2025-11-03 14:05:06.596 data/effects/smoke/train/smokeSideParticles.i3d (0.53 ms)
+2025-11-03 14:05:06.606 data/shared/materialHolders/tensionBelts/tensionBeltMaterialHolder.i3d (9.73 ms)
+2025-11-03 14:05:06.609 data/shared/materialHolders/tireTrackMaterialHolder.i3d (2.57 ms)
+2025-11-03 14:05:06.611 data/shared/materialHolders/waterSimulationMaterialHolder.i3d (2.30 ms)
+2025-11-03 14:05:06.613 data/fillPlanes/fillPlane_materialHolder.i3d (1.86 ms)
+2025-11-03 14:05:06.617 data/objects/bales/wrapBale_materialHolder.i3d (3.86 ms)
+2025-11-03 14:05:07.559 Virtual Texture initialized at 8192 x 8192 resolution
+2025-11-03 14:05:07.585   Warning (beltMeshes_materialHolder|beltOnionDirt_materialHolder (7)): Unknown fillType "ONION" in user attribute 'fillType' for "MaterialUtil.onCreateMaterial"
+2025-11-03 14:05:07.585   Warning (beltMeshes_materialHolder|beltOnionClean_materialHolder (8)): Unknown fillType "ONION" in user attribute 'fillType' for "MaterialUtil.onCreateMaterial"
+2025-11-03 14:05:07.616 dataS/character/playerM/heads/npcQG01FacialAnimExpressions.i3d (22.80 ms)
+2025-11-03 14:05:07.638 dataS/character/playerM/heads/mHead08FacialAnimExpressions.i3d (21.24 ms)
+2025-11-03 14:05:07.661 dataS/character/playerM/heads/mHead04FacialAnimExpressions.i3d (22.28 ms)
+2025-11-03 14:05:07.682 dataS/character/playerM/heads/mHead07FacialAnimExpressions.i3d (20.59 ms)
+2025-11-03 14:05:07.705 dataS/character/playerF/heads/fHead01FacialAnimExpressions.i3d (22.38 ms)
+2025-11-03 14:05:09.277 data/shared/ai/fieldCourseVisuals.i3d (13.37 ms)
+2025-11-03 14:05:09.278 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Cybuchowo/maps/placeables/sellingStations/sprzedazTrocin/sprzedazTrocin.i3d (1.21 ms)
+2025-11-03 14:05:09.279 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Cybuchowo/maps/placeables/sellingStations/sellingStationVehicles/sellingStationVehicles.i3d (0.20 ms)
+2025-11-03 14:05:09.280 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Cybuchowo/maps/placeables/sellingStations/mleczarnia/dairy.i3d (1.15 ms)
+2025-11-03 14:05:09.281 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Cybuchowo/maps/placeables/sellingStations/mleczarnia/dairySale.i3d (0.91 ms)
+2025-11-03 14:05:09.281 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Cybuchowo/maps/placeables/sellingStations/skupDrewnaTarg/skupDrewnaTarg.i3d (0.48 ms)
+2025-11-03 14:05:09.282 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Cybuchowo/maps/placeables/sellingStations/handlarzZwierzat/livestockMarket.i3d (0.64 ms)
+2025-11-03 14:05:09.283 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Cybuchowo/maps/placeables/sawmill/sawmill.i3d (1.19 ms)
+2025-11-03 14:05:09.284 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Cybuchowo/maps/placeables/sellingStations/elewator/elewator.i3d (0.42 ms)
+2025-11-03 14:05:09.284 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Cybuchowo/maps/placeables/sellingStations/elewatorZiemne/elewatorZiemne.i3d (0.42 ms)
+2025-11-03 14:05:09.285 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Cybuchowo/maps/placeables/sellingStations/krawiec/krawiec.i3d (0.68 ms)
+2025-11-03 14:05:09.285 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Cybuchowo/maps/placeables/sellingStations/przedzalnia/spinnery.i3d (0.63 ms)
+2025-11-03 14:05:09.286 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Cybuchowo/maps/placeables/sellingStations/stolarz/stolarz.i3d (0.92 ms)
+2025-11-03 14:05:09.287 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Cybuchowo/maps/placeables/warehouse/warehouse.i3d (0.55 ms)
+2025-11-03 14:05:09.288 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Cybuchowo/maps/placeables/sellingStations/targRolny/targRolny.i3d (0.92 ms)
+2025-11-03 14:05:09.291 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Cybuchowo/maps/placeables/bunkerSiloLarge/bunkerSiloLarge.i3d (2.19 ms)
+2025-11-03 14:05:09.293 data/shared/assets/lights/terraLed/spotlight20W.i3d (2.59 ms)
+2025-11-03 14:05:09.295 data/shared/assets/lights/terraLed/fluorescentTube50W.i3d (1.40 ms)
+2025-11-03 14:05:09.295 data/shared/assets/marker/markerIconUnload.i3d (0.71 ms)
+2025-11-03 14:05:09.296 data/shared/assets/marker/markerIconLoad.i3d (0.72 ms)
+2025-11-03 14:05:09.297 data/shared/assets/marker/markerIconWrench.i3d (0.72 ms)
+2025-11-03 14:05:09.298 data/effects/chimneySmoke/smokeTrailSubUV.i3d (0.65 ms)
+2025-11-03 14:05:09.334 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Cybuchowo/maps/placeables/oilMill/oilMill.i3d (36.10 ms)
+2025-11-03 14:05:09.366   Info (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Cybuchowo/config/vehicles.xml): Vehicle 'data/vehicles/masseyFerguson/mf8570/mf8570.xml' is not allowed to be loaded
+2025-11-03 14:05:09.366   Info (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Cybuchowo/config/vehicles.xml): Vehicle 'data/vehicles/masseyFerguson/mf8570Header/mf8570Header.xml' is not allowed to be loaded
+2025-11-03 14:05:09.375   Info (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Cybuchowo/config/vehicles.xml): Vehicle 'data/vehicles/masseyFerguson/mf8570Trailer/mf8570Trailer.xml' is not allowed to be loaded
+2025-11-03 14:05:09.375   Info (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Cybuchowo/config/vehicles.xml): Vehicle 'data/vehicles/zetor/forterraHSX140/forterraHSX140.xml' is not allowed to be loaded
+2025-11-03 14:05:09.375   Info (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Cybuchowo/config/vehicles.xml): Vehicle 'data/vehicles/farmtech/edk650/edk650.xml' is not allowed to be loaded
+2025-11-03 14:05:09.375   Info (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Cybuchowo/config/vehicles.xml): Vehicle 'data/vehicles/agco/weight650/weight650.xml' is not allowed to be loaded
+2025-11-03 14:05:09.375 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Cybuchowo/maps/placeables/grainMill/grainMill.i3d (41.17 ms)
+2025-11-03 14:05:09.375   Info (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Cybuchowo/config/vehicles.xml): Vehicle 'data/vehicles/farmtech/edk650/edk650.xml' is not allowed to be loaded
+2025-11-03 14:05:09.375   Info (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Cybuchowo/config/vehicles.xml): Vehicle 'data/vehicles/kubota/rtvxG850/rtvxg850.xml' is not allowed to be loaded
+2025-11-03 14:05:09.375   Info (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Cybuchowo/config/vehicles.xml): Vehicle 'data/vehicles/agromasz/pov5xl/pov5xl.xml' is not allowed to be loaded
+2025-11-03 14:05:09.375   Info (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Cybuchowo/config/vehicles.xml): Vehicle 'data/vehicles/amazone/cenio4000/cenio4000.xml' is not allowed to be loaded
+2025-11-03 14:05:09.375   Info (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Cybuchowo/config/vehicles.xml): Vehicle 'data/vehicles/unia/fenix3000/fenix3000.xml' is not allowed to be loaded
+2025-11-03 14:05:09.375   Info (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Cybuchowo/config/vehicles.xml): Vehicle 'data/vehicles/gorenc/puler600/puler600.xml' is not allowed to be loaded
+2025-11-03 14:05:09.375   Info (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Cybuchowo/config/vehicles.xml): Vehicle 'data/vehicles/hardi/mega1200L/mega1200L.xml' is not allowed to be loaded
+2025-11-03 14:05:09.375   Info (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Cybuchowo/config/vehicles.xml): Vehicle 'data/vehicles/goeweil/g1F125/g1F125.xml' is not allowed to be loaded
+2025-11-03 14:05:09.375   Info (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Cybuchowo/config/vehicles.xml): Vehicle 'data/vehicles/kesla/nd144/nd144.xml' is not allowed to be loaded
+2025-11-03 14:05:09.375   Info (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Cybuchowo/config/vehicles.xml): Vehicle 'data/vehicles/fiat/series90/series90.xml' is not allowed to be loaded
+2025-11-03 14:05:09.375   Info (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Cybuchowo/config/vehicles.xml): Vehicle 'data/vehicles/tenwinkel/gusscom1250/gusscom1250.xml' is not allowed to be loaded
+2025-11-03 14:05:09.375   Info (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Cybuchowo/config/vehicles.xml): Vehicle 'data/vehicles/johnDeere/series3650/series3650.xml' is not allowed to be loaded
+2025-11-03 14:05:09.388 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Cybuchowo/missions/deadwoodSpots.i3d (11.94 ms)
+2025-11-03 14:05:09.400 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Cybuchowo/missions/transportSpots.i3d (12.19 ms)
+2025-11-03 14:05:09.401 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Cybuchowo/missions/destructibleRocksSpots.i3d (0.11 ms)
+2025-11-03 14:05:09.410 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Cybuchowo/maps/placeables/sugarMill/sugarMill.i3d (34.66 ms)
+2025-11-03 14:05:09.411 data/shared/assets/marker/rockMissionFlag.i3d (10.41 ms)
+2025-11-03 14:05:09.458 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Cybuchowo/maps/placeables/farm/Krowy.i3d (48.62 ms)
+2025-11-03 14:05:09.478 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Cybuchowo/maps/placeables/farm/kurnik.i3d (18.91 ms)
+2025-11-03 14:05:09.481 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Cybuchowo/maps/placeables/farm/DomGospo1.i3d (3.69 ms)
+2025-11-03 14:05:09.488 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Cybuchowo/maps/placeables/farm/Garaz1Gospo1.i3d (6.52 ms)
+2025-11-03 14:05:09.490 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Cybuchowo/maps/placeables/farm/Garaz2Gospo1.i3d (2.31 ms)
+2025-11-03 14:05:09.499 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Cybuchowo/maps/placeables/farm/Garaz3Gospo1.i3d (8.57 ms)
+2025-11-03 14:05:09.511 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Cybuchowo/maps/placeables/farm/SilosGospo1.i3d (12.11 ms)
+2025-11-03 14:05:09.513 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Cybuchowo/maps/placeables/farm/Wiata1Gospo1.i3d (1.95 ms)
+2025-11-03 14:05:09.515 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Cybuchowo/maps/placeables/farm/bunkerSiloGospo1.i3d (1.46 ms)
+2025-11-03 14:05:09.515 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Cybuchowo/maps/placeables/sellingStations/piekarnia/bakery.i3d (0.83 ms)
+2025-11-03 14:05:09.516 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Cybuchowo/maps/placeables/sellingStations/sklepWies/sklepWies.i3d (0.53 ms)
+2025-11-03 14:05:09.528 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Cybuchowo/maps/placeables/farm/Garaz1Gospo2.i3d (11.72 ms)
+2025-11-03 14:05:09.558 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Cybuchowo/maps/placeables/farm/Chlew.i3d (29.83 ms)
+2025-11-03 14:05:09.561 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Cybuchowo/maps/placeables/farm/DomGospo2.i3d (3.33 ms)
+2025-11-03 14:05:09.568 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Cybuchowo/maps/placeables/farm/Wiata1Gospo2.i3d (7.04 ms)
+2025-11-03 14:05:09.570 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Cybuchowo/maps/placeables/farm/Wiata2Gospo2.i3d (1.65 ms)
+2025-11-03 14:05:09.573 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Cybuchowo/maps/placeables/farm/DomGospo3.i3d (3.61 ms)
+2025-11-03 14:05:09.583 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Cybuchowo/maps/placeables/farm/Garaz1Gospo3.i3d (9.63 ms)
+2025-11-03 14:05:09.614 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Cybuchowo/maps/placeables/farm/Garaz2Gospo3.i3d (30.64 ms)
+2025-11-03 14:05:09.615 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Cybuchowo/maps/placeables/sellingStations/gospodarstwoCybuchowo/gospodarstwoCybuchowo.i3d (0.91 ms)
+2025-11-03 14:05:09.616 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Cybuchowo/maps/placeables/liquidManureBuying/liquidManureBuying.i3d (0.96 ms)
+2025-11-03 14:05:09.616 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Cybuchowo/maps/placeables/sellingStations/skupBelGospo/skupBelGospo.i3d (0.53 ms)
+2025-11-03 14:05:09.617 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Cybuchowo/maps/placeables/sellingStations/gospoZiemne/gospoZiemne.i3d (0.39 ms)
+2025-11-03 14:05:09.617 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Cybuchowo/maps/placeables/sellingStations/gospoZboze/gospoZboze.i3d (0.34 ms)
+2025-11-03 14:05:09.652 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Cybuchowo/maps/placeables/przetworniaZrebkow/przetworniaZrebkow.i3d (34.76 ms)
+2025-11-03 14:05:09.652 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Cybuchowo/maps/placeables/sellingStations/skupDrewnaLesniczowka/skupDrewnaLesniczowka.i3d (0.57 ms)
+2025-11-03 14:05:09.653 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Cybuchowo/maps/placeables/sellingStations/sprzedazTrocinLesniczowka/sprzedazTrocinLesniczowka.i3d (0.91 ms)
+2025-11-03 14:05:09.654 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Cybuchowo/maps/placeables/sellingStations/przetworniaJagod/przetworniaJagod.i3d (0.25 ms)
+2025-11-03 14:05:09.822 data/store/ui/shop.i3d (168.28 ms)
+2025-11-03 14:05:09.822 dataS/menu/licensePlate/creationBox.i3d (0.16 ms)
+2025-11-03 14:05:09.824 dataS/menu/colorPicker/colorPickerScene.i3d (1.44 ms)
+2025-11-03 14:05:09.982 data/store/ui/shop.i3d (158.68 ms)
+2025-11-03 14:05:09.983 data/shared/assets/marker/markerIconBales.i3d (1.00 ms)
+2025-11-03 14:05:09.984 data/shared/assets/marker/markerIconExclamationMark.i3d (0.82 ms)
+2025-11-03 14:05:09.985 data/shared/assets/marker/markerIconPallet.i3d (0.74 ms)
+2025-11-03 14:05:09.986 data/shared/assets/marker/markerIconShopping.i3d (0.74 ms)
+2025-11-03 14:05:10.014 data/placeables/shared/sellingStationGeneric/sellingStationGenericNoCover.i3d (2.81 ms)
+2025-11-03 14:05:10.027 data/maps/textures/shared/props/industrialProps/container03.i3d (1.66 ms)
+2025-11-03 14:05:10.029 data/maps/textures/shared/props/industrialProps/container23.i3d (1.22 ms)
+2025-11-03 14:05:10.032 data/maps/mapAS/textures/props/airConditioner.i3d (1.97 ms)
+2025-11-03 14:05:10.035 data/maps/mapAS/textures/props/barrel04.i3d (1.24 ms)
+2025-11-03 14:05:10.036 data/maps/mapAS/textures/props/barrel02.i3d (1.19 ms)
+2025-11-03 14:05:10.038 data/maps/mapAS/textures/props/cablesElectricity/cable03.i3d (2.04 ms)
+2025-11-03 14:05:10.039 data/maps/mapAS/textures/props/pipes/pipes07.i3d (1.27 ms)
+2025-11-03 14:05:10.042 data/maps/mapAS/textures/props/cablesElectricity/cable07.i3d (2.21 ms)
+2025-11-03 14:05:10.042 data/placeables/brandless/productionPointsGeneric/oilMill/oilMillProps.i3d (27.79 ms)
+2025-11-03 14:05:10.091 data/maps/mapAS/textures/props/pipes/pipes07.i3d (1.19 ms)
+2025-11-03 14:05:10.092 data/maps/mapAS/textures/props/pipes/pipes03.i3d (1.32 ms)
+2025-11-03 14:05:10.094 data/maps/mapAS/textures/props/pipes/pipes05.i3d (1.57 ms)
+2025-11-03 14:05:10.096 data/maps/mapAS/textures/props/airConditioner02.i3d (2.15 ms)
+2025-11-03 14:05:10.098 data/maps/textures/shared/props/industrialProps/container03.i3d (1.61 ms)
+2025-11-03 14:05:10.101 data/maps/textures/shared/props/industrialProps/container23.i3d (1.23 ms)
+2025-11-03 14:05:10.102 data/maps/textures/shared/props/industrialProps/container06.i3d (1.26 ms)
+2025-11-03 14:05:10.104 data/maps/textures/shared/props/industrialProps/container05.i3d (1.52 ms)
+2025-11-03 14:05:10.105 data/maps/textures/shared/props/industrialProps/container13.i3d (1.34 ms)
+2025-11-03 14:05:10.107 data/maps/textures/shared/props/industrialProps/container22.i3d (1.40 ms)
+2025-11-03 14:05:10.107 data/placeables/brandless/productionPointsGeneric/grainMill/grainMillProps.i3d (26.83 ms)
+2025-11-03 14:05:10.148 data/maps/mapAS/textures/props/pallet03.i3d (1.63 ms)
+2025-11-03 14:05:10.153 data/maps/mapAS/textures/props/airConditioner.i3d (1.81 ms)
+2025-11-03 14:05:10.155 data/maps/mapAS/textures/props/airConditioner02.i3d (1.81 ms)
+2025-11-03 14:05:10.156 data/maps/mapAS/textures/props/pipes/pipes02.i3d (1.25 ms)
+2025-11-03 14:05:10.158 data/maps/mapAS/textures/props/pipes/pipes03.i3d (1.43 ms)
+2025-11-03 14:05:10.159 data/maps/mapAS/textures/props/pipes/pipes07.i3d (1.12 ms)
+2025-11-03 14:05:10.160 data/maps/mapAS/textures/props/pipes/pipes06.i3d (1.12 ms)
+2025-11-03 14:05:10.162 data/maps/textures/shared/props/industrialProps/container02.i3d (1.31 ms)
+2025-11-03 14:05:10.163 data/maps/textures/shared/props/industrialProps/container16.i3d (1.41 ms)
+2025-11-03 14:05:10.165 data/maps/textures/shared/props/industrialProps/container13.i3d (1.53 ms)
+2025-11-03 14:05:10.166 data/maps/textures/shared/props/industrialProps/container22.i3d (1.62 ms)
+2025-11-03 14:05:10.168 data/maps/textures/shared/props/industrialProps/container23.i3d (1.29 ms)
+2025-11-03 14:05:10.169 data/maps/mapAS/textures/props/cablesElectricity/cable03.i3d (1.62 ms)
+2025-11-03 14:05:10.171 data/maps/mapAS/textures/props/cablesElectricity/cable04.i3d (2.27 ms)
+2025-11-03 14:05:10.174 data/maps/textures/shared/props/industrialProps/container19.i3d (2.07 ms)
+2025-11-03 14:05:10.175 data/maps/mapAS/textures/props/pallet01.i3d (1.35 ms)
+2025-11-03 14:05:10.176 data/maps/mapAS/textures/props/cartonBoxes/cartonBox03.i3d (0.96 ms)
+2025-11-03 14:05:10.177 data/maps/mapAS/textures/props/barrel04.i3d (1.18 ms)
+2025-11-03 14:05:10.178 data/maps/mapAS/textures/props/barrel02.i3d (1.13 ms)
+2025-11-03 14:05:10.179 data/maps/textures/shared/props/industrialProps/container14.i3d (1.30 ms)
+2025-11-03 14:05:10.180 data/placeables/brandless/productionPointsGeneric/sugarMill/sugarMillProps.i3d (35.12 ms)
+2025-11-03 14:05:10.230 data/shared/assets/marker/markerIconMilk.i3d (0.90 ms)
+2025-11-03 14:05:10.231 data/shared/assets/marker/markerIconFood.i3d (0.75 ms)
+2025-11-03 14:05:10.231 data/shared/assets/marker/markerIconAnimals.i3d (0.71 ms)
+2025-11-03 14:05:10.232 data/shared/assets/marker/markerIconSlurry.i3d (0.79 ms)
+2025-11-03 14:05:10.233 data/shared/assets/lights/rudolfHormann/powerSwitch.i3d (1.32 ms)
+2025-11-03 14:05:10.244 data/maps/mapEU/textures/props/wheelBarrow01.i3d (1.57 ms)
+2025-11-03 14:05:10.248 data/maps/mapAS/textures/props/airConditioner.i3d (1.93 ms)
+2025-11-03 14:05:10.250 data/maps/mapAS/textures/props/airConditioner02.i3d (2.07 ms)
+2025-11-03 14:05:10.252 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Cybuchowo/maps/placeables/farm/KrowyProps.i3d (18.18 ms)
+2025-11-03 14:05:10.252 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Cybuchowo/maps/placeables/farm/KrowyNavMesh.i3d (0.16 ms)
+2025-11-03 14:05:10.253 data/placeables/brandless/fences/husbandries/cowFence/cowFence.i3d (1.51 ms)
+2025-11-03 14:05:10.259 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Cybuchowo/maps/placeables/farm/kurnikProps.i3d (5.33 ms)
+2025-11-03 14:05:10.259 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Cybuchowo/maps/placeables/farm/kurnikNavMesh.i3d (0.16 ms)
+2025-11-03 14:05:13.212 data/shared/assets/marker/markerIconSleep.i3d (1.04 ms)
+2025-11-03 14:05:13.214 data/shared/assets/marker/markerIconWardrobe.i3d (1.11 ms)
+2025-11-03 14:05:13.218 data/maps/mapAS/textures/props/barrel02.i3d (1.30 ms)
+2025-11-03 14:05:13.222 data/maps/mapAS/textures/props/antenna.i3d (1.26 ms)
+2025-11-03 14:05:13.225 data/maps/mapUS/textures/props/garbageCartGreen.i3d (1.97 ms)
+2025-11-03 14:05:13.226 data/maps/mapAS/textures/props/boxesPlastic/boxPlastic03.i3d (1.19 ms)
+2025-11-03 14:05:13.246 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Cybuchowo/maps/placeables/farm/DomGospo1Props.i3d (31.99 ms)
+2025-11-03 14:05:13.251 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Cybuchowo/maps/placeables/farm/Garaz1Gospo1Props.i3d (5.54 ms)
+2025-11-03 14:05:13.265 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Cybuchowo/maps/placeables/farm/Garaz2Gospo1Props.i3d (13.42 ms)
+2025-11-03 14:05:13.275 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Cybuchowo/maps/placeables/farm/Garaz3Gospo1Props.i3d (10.53 ms)
+2025-11-03 14:05:13.289 data/maps/mapUS/textures/props/vintageTools/castIronTongs.i3d (1.29 ms)
+2025-11-03 14:05:13.291 data/maps/mapAS/textures/props/baskets/basket01.i3d (1.32 ms)
+2025-11-03 14:05:13.293 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Cybuchowo/maps/placeables/farm/SilosGospo1Props.i3d (16.83 ms)
+2025-11-03 14:05:13.301 data/maps/textures/shared/props/motorex/motorexOilBarrel.i3d (1.55 ms)
+2025-11-03 14:05:13.312 data/maps/mapEU/textures/props/cementMixer01.i3d (1.59 ms)
+2025-11-03 14:05:13.318 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Cybuchowo/maps/placeables/farm/Garaz1Gospo2Props.i3d (24.48 ms)
+2025-11-03 14:05:13.322 data/maps/mapAS/textures/props/barrel02.i3d (1.27 ms)
+2025-11-03 14:05:13.324 data/maps/mapAS/textures/props/barrel03.i3d (1.16 ms)
+2025-11-03 14:05:13.341 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Cybuchowo/maps/placeables/farm/ChlewProps.i3d (23.38 ms)
+2025-11-03 14:05:13.341 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Cybuchowo/maps/placeables/farm/ChlewNavMesh.i3d (0.24 ms)
+2025-11-03 14:05:13.347 data/maps/mapAS/textures/props/barrel02.i3d (1.60 ms)
+2025-11-03 14:05:13.352 data/maps/mapAS/textures/props/antenna.i3d (1.41 ms)
+2025-11-03 14:05:13.355 data/maps/mapUS/textures/props/garbageCartGreen.i3d (1.80 ms)
+2025-11-03 14:05:13.359 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Cybuchowo/maps/placeables/farm/DomGospo2Props.i3d (17.21 ms)
+2025-11-03 14:05:13.369 data/maps/mapUS/textures/props/vintageTools/woodenCrate01.i3d (1.49 ms)
+2025-11-03 14:05:13.371 data/maps/mapAS/textures/props/antenna.i3d (1.44 ms)
+2025-11-03 14:05:13.376 data/maps/mapUS/textures/props/garbageCartGreen.i3d (2.04 ms)
+2025-11-03 14:05:13.388 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Cybuchowo/maps/placeables/farm/DomGospo3Props.i3d (29.52 ms)
+2025-11-03 14:05:13.397 data/maps/textures/shared/props/motorex/motorexOilBarrel.i3d (1.69 ms)
+2025-11-03 14:05:13.402 data/maps/mapEU/textures/props/wheelBarrow01.i3d (1.48 ms)
+2025-11-03 14:05:13.410 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Cybuchowo/maps/placeables/farm/Garaz2Gospo3Props.i3d (21.54 ms)
+2025-11-03 14:05:13.416 data/maps/mapAS/textures/props/barrel03.i3d (1.30 ms)
+2025-11-03 14:05:13.418 data/maps/mapAS/textures/props/barrel04.i3d (1.15 ms)
+2025-11-03 14:05:13.419 data/maps/mapAS/textures/props/barrel02.i3d (1.04 ms)
+2025-11-03 14:05:13.426 data/maps/textures/shared/props/industrialProps/container03.i3d (1.48 ms)
+2025-11-03 14:05:13.429 data/maps/textures/shared/props/industrialProps/container19.i3d (1.76 ms)
+2025-11-03 14:05:13.433 data/maps/textures/shared/props/industrialProps/container22.i3d (1.32 ms)
+2025-11-03 14:05:13.435 data/maps/mapAS/textures/props/airConditioner02.i3d (1.96 ms)
+2025-11-03 14:05:13.439 data/maps/mapAS/textures/props/pipes/pipes07.i3d (1.42 ms)
+2025-11-03 14:05:13.441 data/maps/mapAS/textures/props/pipes/pipes01.i3d (1.33 ms)
+2025-11-03 14:05:13.442 data/maps/mapAS/textures/props/pipes/pipes03.i3d (1.21 ms)
+2025-11-03 14:05:13.442 data/placeables/brandless/productionPointsGeneric/biomassHeatingPlant/biomassHeatingPlantProps.i3d (32.27 ms)
+2025-11-03 14:05:16.224   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_pagliari_Airone/Pagliariairone820.xml): 'vehicle.fillUnit.fillUnitConfigurations.fillUnitConfiguration(0).fillUnits.fillUnit(0)#unit' is not supported anymore, use 'vehicle.fillUnit.fillUnitConfigurations.fillUnitConfiguration(0).fillUnits.fillUnit(0)#unitTextOverride' instead!
+2025-11-03 14:05:16.351   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_CasePumaCVX_Tier3/casePuma160.xml): 'vehicle.fillUnit.fillUnitConfigurations.fillUnitConfiguration(0).fillUnits.fillUnit(0)#unit' is not supported anymore, use 'vehicle.fillUnit.fillUnitConfigurations.fillUnitConfiguration(0).fillUnits.fillUnit(0)#unitTextOverride' instead!
+2025-11-03 14:05:16.351   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_CasePumaCVX_Tier3/casePuma160.xml): 'vehicle.fillUnit.fillUnitConfigurations.fillUnitConfiguration(0).fillUnits.fillUnit(1)#unit' is not supported anymore, use 'vehicle.fillUnit.fillUnitConfigurations.fillUnitConfiguration(0).fillUnits.fillUnit(1)#unitTextOverride' instead!
+2025-11-03 14:05:16.352   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_CasePumaCVX_Tier3/casePuma160.xml): 'vehicle.fillUnit.fillUnitConfigurations.fillUnitConfiguration(0).fillUnits.fillUnit(2)#unit' is not supported anymore, use 'vehicle.fillUnit.fillUnitConfigurations.fillUnitConfiguration(0).fillUnits.fillUnit(2)#unitTextOverride' instead!
+2025-11-03 14:05:19.535   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_CasePumaCVX_Tier3/caseIHPumaCVX.xml): 'vehicle.fillUnit.fillUnitConfigurations.fillUnitConfiguration(0).fillUnits.fillUnit(0)#unit' is not supported anymore, use 'vehicle.fillUnit.fillUnitConfigurations.fillUnitConfiguration(0).fillUnits.fillUnit(0)#unitTextOverride' instead!
+2025-11-03 14:05:19.535   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_CasePumaCVX_Tier3/caseIHPumaCVX.xml): 'vehicle.fillUnit.fillUnitConfigurations.fillUnitConfiguration(0).fillUnits.fillUnit(1)#unit' is not supported anymore, use 'vehicle.fillUnit.fillUnitConfigurations.fillUnitConfiguration(0).fillUnits.fillUnit(1)#unitTextOverride' instead!
+2025-11-03 14:05:19.536   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_CasePumaCVX_Tier3/caseIHPumaCVX.xml): 'vehicle.fillUnit.fillUnitConfigurations.fillUnitConfiguration(0).fillUnits.fillUnit(2)#unit' is not supported anymore, use 'vehicle.fillUnit.fillUnitConfigurations.fillUnitConfiguration(0).fillUnits.fillUnit(2)#unitTextOverride' instead!
+2025-11-03 14:05:20.667 Lua memory usage has reached 673807 KB; this is a dangerous level for PS5.
+2025-11-03 14:05:20.767   Info: Entered Gameplay
+2025-11-03 14:05:20.769 [RealisticFirstPerson] camera moved by -0.05 m
+2025-11-03 14:05:20.770 dataS/character/shared/kinematicHelper.i3d (0.14 ms)
+2025-11-03 14:05:20.773 data/handTools/brandless/flashlight/flashlight.i3d (2.38 ms)
+2025-11-03 14:05:20.773   Info: Savegame Setting 'dirtInterval': 3
+2025-11-03 14:05:20.773   Info: Savegame Setting 'snowEnabled': true
+2025-11-03 14:05:20.773   Info: Savegame Setting 'growthMode': SEASONAL
+2025-11-03 14:05:20.773   Info: Savegame Setting 'fuelUsage': 2
+2025-11-03 14:05:20.774   Info: Savegame Setting 'plowingRequiredEnabled': false
+2025-11-03 14:05:20.774   Info: Savegame Setting 'weedsEnabled': true
+2025-11-03 14:05:20.774   Info: Savegame Setting 'limeRequired': true
+2025-11-03 14:05:20.774   Info: Savegame Setting 'stonesEnabled': true
+2025-11-03 14:05:20.774   Info: Savegame Setting 'economicDifficulty': HARD
+2025-11-03 14:05:20.774   Info: Savegame Setting 'fixedSeasonalVisuals': nil
+2025-11-03 14:05:20.774   Info: Savegame Setting 'plannedDaysPerPeriod': 1
+2025-11-03 14:05:20.788   Info: TreePlantManager - NumTrees 8149 (0 split) / MaxNumTrees: 10000
+2025-11-03 14:05:20.788   Info: No vehicle navigation cost map found. Start scanning map...
+2025-11-03 14:05:21.660 FTG 'D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Cybuchowo/maps/data/densityMap_fruits.png' max needed CPU instances = 7.007538 MB / 30.375000 MB
+2025-11-03 14:05:21.661 FTG 'D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Cybuchowo/maps/data/densityMap_weed.png' max needed CPU instances = 0.016846 MB / 3.445312 MB
+2025-11-03 14:05:21.867 dataS/character/playerM/heads/mHead01.i3d (192.55 ms)
+2025-11-03 14:05:36.554 Romek joined the game
+2025-11-03 14:05:38.967 Jolero joined the game
+2025-11-03 14:05:56.459 zwierek joined the game
+2025-11-03 14:05:58.265 FS25_UnloadBalesEarly: Sending new settings
+2025-11-03 14:05:58.265 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-03 14:05:58.266 FS25_UnloadBalesEarly: Sending new settings
+2025-11-03 14:05:58.266 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-03 14:05:58.266 FS25_UnloadBalesEarly: Sending new settings
+2025-11-03 14:05:58.266 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-03 14:05:58.266 FS25_UnloadBalesEarly: Sending new settings
+2025-11-03 14:05:58.266 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-03 14:06:01.117 FS25_UnloadBalesEarly: Sending new settings
+2025-11-03 14:06:01.117 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-03 14:06:01.117 FS25_UnloadBalesEarly: Sending new settings
+2025-11-03 14:06:01.118 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-03 14:06:01.118 FS25_UnloadBalesEarly: Sending new settings
+2025-11-03 14:06:01.118 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-03 14:06:01.118 FS25_UnloadBalesEarly: Sending new settings
+2025-11-03 14:06:01.118 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-03 14:06:25.410 Next available Farm ID identified:
+2025-11-03 14:06:25.410 1.000000
+2025-11-03 14:06:25.410 FarmID => 1
+2025-11-03 14:06:25.410 newFarm FarmID => 1
+2025-11-03 14:06:47.618 FS25_UnloadBalesEarly: Sending new settings
+2025-11-03 14:06:47.618 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-03 14:06:47.619 FS25_UnloadBalesEarly: Sending new settings
+2025-11-03 14:06:47.619 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-03 14:06:47.619 FS25_UnloadBalesEarly: Sending new settings
+2025-11-03 14:06:47.619 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-03 14:06:47.619 FS25_UnloadBalesEarly: Sending new settings
+2025-11-03 14:06:47.619 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-03 14:06:47.688 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_UrsusC355xC360Pack/ursusC360.i3d (2133.42 ms)
+2025-11-03 14:06:48.266 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_UrsusC355xC360Pack/wheels/wheels4x4.i3d (260.17 ms)
+2025-11-03 14:06:48.267 data/effects/wheel/wheelEmitterShape.i3d (0.86 ms)
+2025-11-03 14:06:48.271 data/effects/wheel/water/water.i3d (4.56 ms)
+2025-11-03 14:06:48.653 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_UrsusC355xC360Pack/wheels/wheels.i3d (381.12 ms)
+2025-11-03 14:06:48.654 data/effects/exhaust/exhaust.i3d (1.80 ms)
+2025-11-03 14:06:48.658 data/shared/assets/beaconLights/lizard/beaconLight11.i3d (3.66 ms)
+2025-11-03 14:06:48.663 data/shared/assets/toolbars/toolbars.i3d (4.52 ms)
+2025-11-03 14:06:48.678 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_interactiveControl/data/shared/clickIcons/ic_clickIcons.i3d (15.76 ms)
+2025-11-03 14:06:48.753 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_useYourTyres/material/tyreMaterialHolder.i3d (22.43 ms)
+2025-11-03 14:06:48.753 Error: Can't load resource 'gen_singleColorTexture_0_4291611852'.
+2025-11-03 14:06:48.753   DevWarning: material 'tyreMaterial' is having the albedo map removed by script. This can cause problems on consoles as the correct shader will not be built for this case.
+2025-11-03 14:06:48.753 Error: Can't load resource 'gen_singleColorTexture_0_4291611852'.
+2025-11-03 14:06:48.753   DevWarning: material 'tyreMaterial' is having the albedo map removed by script. This can cause problems on consoles as the correct shader will not be built for this case.
+2025-11-03 14:06:48.753 Error: Can't load resource 'gen_singleColorTexture_0_4291611852'.
+2025-11-03 14:06:48.753   DevWarning: material 'tyreMaterial' is having the albedo map removed by script. This can cause problems on consoles as the correct shader will not be built for this case.
+2025-11-03 14:06:48.754 Error: Can't load resource 'gen_singleColorTexture_0_4291611852'.
+2025-11-03 14:06:48.754   DevWarning: material 'tyreMaterial' is having the albedo map removed by script. This can cause problems on consoles as the correct shader will not be built for this case.
+2025-11-03 14:07:08.499   Info: Added € -999,999,999 to farm account. (1)
+2025-11-03 14:07:20.551   Info: Added € 999,999,999 to farm account. (1)
+2025-11-03 14:07:22.541 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Steyr8070_8130Series/Serie80_SK2.i3d (564.46 ms)
+2025-11-03 14:07:22.768 data/shared/wheels/hubs/hubs.i3d (55.65 ms)
+2025-11-03 14:07:22.792 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Steyr8070_8130Series/shared/wheels/hubs/felgen_assets.i3d (24.50 ms)
+2025-11-03 14:07:22.804 data/shared/wheels/rims/rim001.i3d (11.69 ms)
+2025-11-03 14:07:22.807 data/shared/wheels/tires/bkt/TR135/13_6__24.i3d (2.98 ms)
+2025-11-03 14:07:22.810 data/shared/wheels/tires/bkt/TR135/16_9__34.i3d (2.49 ms)
+2025-11-03 14:07:22.833 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Steyr8070_8130Series/lights/frontLightRectangle_02.i3d (23.52 ms)
+2025-11-03 14:07:22.835 data/shared/assets/lights/lizard/workingLight10.i3d (2.00 ms)
+2025-11-03 14:07:22.838 data/shared/assets/lights/lizard/workingLight25.i3d (2.26 ms)
+2025-11-03 14:07:22.839 data/shared/assets/lights/lizard/rearLight63.i3d (1.50 ms)
+2025-11-03 14:07:22.843 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Steyr8070_8130Series/lights/rear2ChamberLight_04.i3d (4.10 ms)
+2025-11-03 14:07:22.847 data/shared/assets/beaconLights/lizard/beaconLight01.i3d (3.30 ms)
+2025-11-03 14:07:22.851 data/shared/assets/upperLinks/walterscheidHO_90_600.i3d (4.12 ms)
+2025-11-03 14:07:22.854 data/shared/assets/upperLinks/walterscheidSO_65_460.i3d (2.95 ms)
+2025-11-03 14:07:44.032 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_BuildingKolonia/cow2.i3d (678.65 ms)
+2025-11-03 14:07:44.068 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_BuildingKolonia/navigationMesh2.i3d (0.29 ms)
+2025-11-03 14:08:25.698   Info: Super Strength enabled by Jolero
+2025-11-03 14:08:44.897 Romek lost connection to the game
+2025-11-03 14:09:23.602 Romek joined the game
+2025-11-03 14:09:23.637 FS25_UnloadBalesEarly: Sending new settings
+2025-11-03 14:09:23.637 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-03 14:09:23.638 FS25_UnloadBalesEarly: Sending new settings
+2025-11-03 14:09:23.638 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-03 14:09:24.591 data/placeables/brandless/fences/AS/fence13/fence13.i3d (3.33 ms)
+2025-11-03 14:09:35.970 FS25_UnloadBalesEarly: Sending new settings
+2025-11-03 14:09:35.970 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-03 14:09:35.971 FS25_UnloadBalesEarly: Sending new settings
+2025-11-03 14:09:35.971 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-03 14:09:35.971 FS25_UnloadBalesEarly: Sending new settings
+2025-11-03 14:09:35.971 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-03 14:09:35.971 FS25_UnloadBalesEarly: Sending new settings
+2025-11-03 14:09:35.971 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-03 14:09:58.302 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Lizard_RSD4/rsd4.i3d (113.88 ms)
+2025-11-03 14:09:58.447 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Lizard_RSD4/wheels/rim.i3d (12.06 ms)
+2025-11-03 14:09:58.451 data/shared/wheels/tires/trelleborg/AW305/260_70R15_3.i3d (3.62 ms)
+2025-11-03 14:09:58.473 data/shared/assets/lights/lizard/rearLight12.i3d (2.55 ms)
+2025-11-03 14:09:58.475 data/shared/assets/lights/lizard/plateNumberLight01.i3d (2.17 ms)
+2025-11-03 14:10:15.261 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_KLz3A/KZL3A.i3d (44.81 ms)
+2025-11-03 14:10:15.358 data/shared/assets/lowerLinkBalls/lowerLinkBall01.i3d (1.47 ms)
+2025-11-03 14:10:32.200 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_UniaGrudziadzUPlows/U023.i3d (87.43 ms)
+2025-11-03 14:10:39.825 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_exhaustExtension/particles/smokeParticles.i3d (11.88 ms)
+2025-11-03 14:10:39.825 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_exhaustExtension/particles/smokeEmitterShape.i3d (0.14 ms)
+2025-11-03 14:10:39.826   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Ursus C-355'
+2025-11-03 14:10:53.817 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Privat_Drill_300/Privat_Drill.i3d (104.87 ms)
+2025-11-03 14:10:53.908 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Privat_Drill_300/Wheels/Front.i3d (16.96 ms)
+2025-11-03 14:11:12.276 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_MF310/310.i3d (291.67 ms)
+2025-11-03 14:11:12.416 data/shared/wheels/tires/bkt/agrimaxFactor/420_70R28.i3d (3.02 ms)
+2025-11-03 14:11:12.418 data/shared/wheels/tires/bkt/AS504/7_50__16.i3d (2.45 ms)
+2025-11-03 14:11:22.355 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_MF310/plataforma/plataforma.i3d (62.21 ms)
+2025-11-03 14:11:22.530 data/shared/assets/powerTakeOffs/walterscheidW.i3d (6.74 ms)
+2025-11-03 14:11:54.850 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_PZK5_6_7_Pack/PZK 7.i3d (207.09 ms)
+2025-11-03 14:11:54.976 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_PZK5_6_7_Pack/Wheel/R10_4_00.i3d (11.30 ms)
+2025-11-03 14:12:00.904 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_PZK5_6_7_Pack/Dyszel PZK 6.i3d (2.51 ms)
+2025-11-03 14:13:13.970 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Sipma_Z279Pack/Z279.i3d (224.21 ms)
+2025-11-03 14:13:14.156 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Sipma_Z279Pack/wheels/wheels.i3d (75.42 ms)
+2025-11-03 14:13:14.161 data/shared/assets/lights/lizard/rearLight08.i3d (4.82 ms)
+2025-11-03 14:13:14.196 FS25_UnloadBalesEarly: Forcing early unload possibility for baler Sipma 'Z279'
+2025-11-03 14:13:14.237 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Sipma_Z279Pack/wom/pto.i3d (6.91 ms)
+2025-11-03 14:13:27.745   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'STEYR 8070'
+2025-11-03 14:13:28.007 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Z105_1/105.i3d (67.90 ms)
+2025-11-03 14:13:28.206 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Z105_1/walek/pto.i3d (6.07 ms)
+2025-11-03 14:14:34.918 Jolero left the game
+2025-11-03 14:14:35.693 zwierek left the game
+2025-11-03 14:14:42.091 Romek left the game
