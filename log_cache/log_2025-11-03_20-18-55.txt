@@ -5227,3 +5227,380 @@ dataS/scripts/shop/SellVehicleEvent.lua:73: attempt to index nil with 'propertyS
 2025-11-03 20:32:12.539 hubsonwaliszot joined the game
 2025-11-03 20:32:12.842 dataS/character/playerM/shirts/poettinger/poettingerTshirt.i3d (287.32 ms)
 2025-11-03 20:32:47.650 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_StorageRack/storageRackSmall.i3d (3.36 ms)
+2025-11-03 20:33:21.738 data/objects/bigBag/bigBag.i3d (6.52 ms)
+2025-11-03 20:33:21.853   Info: Adding pallet.
+2025-11-03 20:33:21.911 data/objects/bigBag/bigBag.i3d (6.55 ms)
+2025-11-03 20:33:22.029   Info: Adding pallet.
+2025-11-03 20:33:22.106 data/objects/bigBag/bigBag.i3d (7.07 ms)
+2025-11-03 20:33:22.226   Info: Adding pallet.
+2025-11-03 20:33:22.350   Info: Adding pallet.
+2025-11-03 20:33:22.412 data/objects/bigBag/bigBag.i3d (7.87 ms)
+2025-11-03 20:33:22.545   Info: Adding pallet.
+2025-11-03 20:33:22.668   Info: Adding pallet.
+2025-11-03 20:33:22.809   Info: Adding pallet.
+2025-11-03 20:33:22.949   Info: Adding pallet.
+2025-11-03 20:33:23.089   Info: Adding pallet.
+2025-11-03 20:33:23.231   Info: Adding pallet.
+2025-11-03 20:33:23.372   Info: Adding pallet.
+2025-11-03 20:33:23.496   Info: Adding pallet.
+2025-11-03 20:33:23.621   Info: Adding pallet.
+2025-11-03 20:33:23.746   Info: Adding pallet.
+2025-11-03 20:33:23.871   Info: Adding pallet.
+2025-11-03 20:33:23.995   Info: Adding pallet.
+2025-11-03 20:33:24.117   Info: Adding pallet.
+2025-11-03 20:33:26.711 data/objects/bigBag/bigBag.i3d (7.28 ms)
+2025-11-03 20:33:57.139 data/objects/bigBag/bigBag.i3d (6.27 ms)
+2025-11-03 20:33:57.255   Info: Adding pallet.
+2025-11-03 20:33:57.395   Info: Adding pallet.
+2025-11-03 20:33:57.519   Info: Adding pallet.
+2025-11-03 20:33:57.659   Info: Adding pallet.
+2025-11-03 20:33:57.782   Info: Adding pallet.
+2025-11-03 20:33:57.927   Info: Adding pallet.
+2025-11-03 20:33:58.047   Info: Adding pallet.
+2025-11-03 20:33:58.171   Info: Adding pallet.
+2025-11-03 20:33:58.294   Info: Adding pallet.
+2025-11-03 20:33:58.402   Info: Adding pallet.
+2025-11-03 20:33:58.522   Info: Adding pallet.
+2025-11-03 20:33:58.644   Info: Adding pallet.
+2025-11-03 20:33:58.785   Info: Adding pallet.
+2025-11-03 20:33:58.927   Info: Adding pallet.
+2025-11-03 20:33:59.088   Info: Adding pallet.
+2025-11-03 20:33:59.212   Info: Adding pallet.
+2025-11-03 20:33:59.333   Info: Adding pallet.
+2025-11-03 20:33:59.456   Info: Adding pallet.
+2025-11-03 20:33:59.614   Info: Adding pallet.
+2025-11-03 20:33:59.756   Info: Adding pallet.
+2025-11-03 20:33:59.881   Info: Adding pallet.
+2025-11-03 20:34:00.020   Info: Adding pallet.
+2025-11-03 20:34:00.163   Info: Adding pallet.
+2025-11-03 20:34:00.305   Info: Adding pallet.
+2025-11-03 20:34:00.571   Info: Adding pallet.
+2025-11-03 20:34:00.714   Info: Adding pallet.
+2025-11-03 20:34:08.731 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_PackOfSmallBuildings/pigBarnSmall.i3d (57.21 ms)
+2025-11-03 20:34:13.550 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Jungheinrich_EFG_S50_240/efgS50S.i3d (42.38 ms)
+2025-11-03 20:34:13.673 data/shared/wheels/tires/trelleborg/SK800/27x8_5R15.i3d (2.68 ms)
+2025-11-03 20:34:13.675 data/shared/wheels/tires/trelleborg/SK800/23x8_5R12.i3d (2.20 ms)
+2025-11-03 20:34:13.743 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Jungheinrich_EFG_S50_240/shared/lights/blueSpot.i3d (2.74 ms)
+2025-11-03 20:34:21.309 data/objects/bigBag/bigBag.i3d (6.27 ms)
+2025-11-03 20:34:21.427   Info: Adding pallet.
+2025-11-03 20:34:21.555 data/objects/bigBag/bigBag.i3d (6.06 ms)
+2025-11-03 20:34:21.673   Info: Adding pallet.
+2025-11-03 20:34:21.799   Info: Adding pallet.
+2025-11-03 20:34:22.826 data/objects/bigBag/bigBag.i3d (5.31 ms)
+2025-11-03 20:34:23.266 data/objects/bigBag/bigBag.i3d (6.13 ms)
+2025-11-03 20:34:23.382   Info: Adding pallet.
+2025-11-03 20:34:23.508   Info: Adding pallet.
+2025-11-03 20:34:24.539 data/objects/bigBag/bigBag.i3d (5.87 ms)
+2025-11-03 20:34:40.843 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_SiloPack/silos30.i3d (186.53 ms)
+2025-11-03 20:35:26.411   Info: Super Strength enabled by Jolero
+2025-11-03 20:35:49.050   Info: Super Strength disabled by Jolero
+2025-11-03 20:35:56.188 data/vehicles/lizard/mks8/mks8.i3d (10.09 ms)
+2025-11-03 20:35:56.321 data/shared/assets/lights/lizard/rearLight16.i3d (2.63 ms)
+2025-11-03 20:36:02.729   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'CLAAS LEXION 8900'
+2025-11-03 20:37:19.211   Info: Moved 3 vehicles to coordinates 644, 755 successfully.
+2025-11-03 20:38:15.972 hubsonwaliszot was kicked from the game
+2025-11-03 20:40:09.380 hubsonwaliszot joined the game
+2025-11-03 20:40:09.683 dataS/character/playerM/shirts/poettinger/poettingerTshirt.i3d (288.42 ms)
+2025-11-03 20:40:43.498   Info: Set farm account balance to € 34,000. (3)
+2025-11-03 20:41:09.195   Info: Successfully set fill unit 1 of Farmtech Fortis 3000 to Hay with a fill level of 55,000 liters.
+2025-11-03 20:41:29.940   Info: Successfully set fill unit 1 of Farmtech Fortis 3000 to Hay with a fill level of 55,000 liters.
+2025-11-03 20:41:33.128 data/maps/mapUS/textures/props/flowerpot01.i3d (1.58 ms)
+2025-11-03 20:41:33.134 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_HouseKCCS/DomCzerw.i3d (65.03 ms)
+2025-11-03 20:41:40.166 Piotrek joined the game
+2025-11-03 20:41:40.235 dataS/character/playerM/shirts/topTankTop.i3d (48.31 ms)
+2025-11-03 20:41:40.245 dataS/character/playerM/attachments/headgearCowboy.i3d (10.54 ms)
+2025-11-03 20:41:40.293 dataS/character/playerM/shoes/sandalM02.i3d (1.29 ms)
+2025-11-03 20:41:52.316 blaze joined the game
+2025-11-03 20:42:29.190   Info: Successfully set fill unit 1 of Farmtech Fortis 3000 to Hay with a fill level of 55,000 liters.
+2025-11-03 20:42:50.859 M@rcin joined the game
+2025-11-03 20:42:50.891 dataS/character/playerM/jacket/topAviatorJacket.i3d (18.91 ms)
+2025-11-03 20:42:50.925 dataS/character/playerM/hairStyles/hairStyleDiablo.i3d (33.27 ms)
+2025-11-03 20:42:58.945   Info: Successfully set fill unit 1 of Farmtech Fortis 3000 to Hay with a fill level of 55,000 liters.
+2025-11-03 20:43:20.960   Info: Successfully set fill unit 1 of Farmtech Fortis 3000 to Hay with a fill level of 55,000 liters.
+2025-11-03 20:43:40.470 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_amazoneAW7800/amazoneAW7800.i3d (89.68 ms)
+2025-11-03 20:43:40.575 data/shared/wheels/tires/trelleborg/AW305/360_65R16.i3d (3.81 ms)
+2025-11-03 20:43:57.120   Info: Set farm account balance to € 34,000. (3)
+2025-11-03 20:44:11.563   Info: Successfully set fill unit 1 of Farmtech Fortis 3000 to Hay with a fill level of 55,000 liters.
+2025-11-03 20:45:04.950   Info: Updated field 184 successfully (3) (1)
+2025-11-03 20:45:31.762 hubsonwaliszot was kicked from the game
+2025-11-03 20:46:20.644   Info: Added € -999,999,999 to farm account. (1)
+2025-11-03 20:46:33.874   Info: Added € 999,999,999 to farm account. (1)
+2025-11-03 20:47:12.071   Info: Updated field 32 successfully (1) (1)
+2025-11-03 20:47:19.635   Info: Updated field 32 successfully (1) (1)
+2025-11-03 20:47:33.825   Info: Updated field 31 successfully (1) (1)
+2025-11-03 20:47:50.665 blaze lost connection to the game
+2025-11-03 20:47:52.117   Info: Updated field 20 successfully (1) (1)
+2025-11-03 20:48:15.671 data/placeables/brandless/animalHusbandries/chickenCoop02/chickenCoop02.i3d (6.73 ms)
+2025-11-03 20:48:15.688 data/placeables/brandless/animalHusbandries/chickenCoop02/navigationMesh.i3d (0.73 ms)
+2025-11-03 20:48:19.438   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Case IH 160 CVX'
+2025-11-03 20:48:24.115   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'STEYR 8130 Turbo'
+2025-11-03 20:48:32.483   Info: Operating time of Case IH 160 CVX changed to 13 h.
+2025-11-03 20:48:36.087   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'New Holland 8340'
+2025-11-03 20:49:16.443   Info: No 'ExhaustExtension' particle system added to vehicle 'Jungheinrich EFG S50 2.4m' because it has no exhaust
+2025-11-03 20:49:33.103   Info: Moved 2 vehicles to coordinates 639, 755 successfully.
+2025-11-03 20:49:43.977 data/shared/wheels/tires/michelin/machXbib/580_70R26.i3d (7.72 ms)
+2025-11-03 20:49:43.979 data/shared/wheels/tires/michelin/megaXbib/800_65R32.i3d (2.44 ms)
+2025-11-03 20:50:01.374   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Ford 8930'
+2025-11-03 20:50:09.143 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Landstal_Pack/i3d/WPS_1230.i3d (72.67 ms)
+2025-11-03 20:50:09.219 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Landstal_Pack/Wheels/Waly.i3d (9.81 ms)
+2025-11-03 20:50:27.858 Game saved successfully (savegame1).
+2025-11-03 20:51:13.155 blaze joined the game
+2025-11-03 20:51:15.971   Info: Operating time of Ford 8930 changed to 17 h.
+2025-11-03 20:52:00.749   Info: Set farm account balance to € 90,000. (8)
+2025-11-03 20:52:27.319   Info: Added € 999,999,999 to farm account. (2)
+2025-11-03 20:53:00.273 hubsonwaliszot joined the game
+2025-11-03 20:53:00.570 dataS/character/playerM/shirts/poettinger/poettingerTshirt.i3d (283.85 ms)
+2025-11-03 20:53:03.985 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_silage_silo/bunkerSiloMedium.i3d (260.88 ms)
+2025-11-03 20:53:05.131   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_ursus385_A_PL/xml/385A.xml): Direction alignment and rotation alignment used at the same time for movingPart 'movingPartRightHand_group' in 'vehicle.cylindered.movingParts.movingPart(45)'
+2025-11-03 20:53:05.131   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_ursus385_A_PL/xml/385A.xml): Direction alignment and rotation alignment used at the same time for movingPart 'movingPartLeftHand_group' in 'vehicle.cylindered.movingParts.movingPart(46)'
+2025-11-03 20:53:05.358   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_ursus385_A_PL/xml/385A.xml): Top arm filename is referring to the i3d file. Please use the xml file instead. (data/shared/assets/upperLinks/walterscheid02.i3d)
+2025-11-03 20:53:05.358   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_ursus385_A_PL/xml/385A.xml): Top arm has been renamed from 'walterscheid02' to 'walterscheidSO_65_660' in 'vehicle.attacherJoints.attacherJointConfigurations.attacherJointConfiguration(3).attacherJoint(0).topArm' (Names now include type, diameter and min. length)
+2025-11-03 20:53:05.360   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_ursus385_A_PL/xml/385A.xml): Invalid vehicle material template '' in 'vehicle.attacherJoints.attacherJointConfigurations.attacherJointConfiguration(3).attacherJoint(0).topArm#materialTemplateName2'.
+2025-11-03 20:53:05.360   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_ursus385_A_PL/xml/385A.xml): Missing categoryRange or widthRange attribute for bottom arm in 'vehicle.attacherJoints.attacherJointConfigurations.attacherJointConfiguration(3).attacherJoint(0)'
+2025-11-03 20:53:05.362   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_ursus385_A_PL/xml/385A.xml): Top arm filename is referring to the i3d file. Please use the xml file instead. (data/shared/assets/upperLinks/walterscheid01.i3d)
+2025-11-03 20:53:05.362   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_ursus385_A_PL/xml/385A.xml): Top arm has been renamed from 'walterscheid01' to 'walterscheidSO_65_460' in 'vehicle.attacherJoints.attacherJointConfigurations.attacherJointConfiguration(3).attacherJoint(4).topArm' (Names now include type, diameter and min. length)
+2025-11-03 20:53:05.363   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_ursus385_A_PL/xml/385A.xml): Invalid vehicle material template '' in 'vehicle.attacherJoints.attacherJointConfigurations.attacherJointConfiguration(3).attacherJoint(4).topArm#materialTemplateName2'.
+2025-11-03 20:53:05.363   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_ursus385_A_PL/xml/385A.xml): Missing categoryRange or widthRange attribute for bottom arm in 'vehicle.attacherJoints.attacherJointConfigurations.attacherJointConfiguration(3).attacherJoint(4)'
+2025-11-03 20:53:05.452   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_ursus385_A_PL/xml/385A.xml): Failed to find material by material slot name 'DachMat' in 'vehicle.designColor5Configurations.material(0)'
+2025-11-03 20:53:38.183   Info: Adding bale.
+2025-11-03 20:53:41.348   Info: Adding bale.
+2025-11-03 20:53:41.487   Info: Adding bale.
+2025-11-03 20:53:50.734 data/placeables/brandless/animalHusbandries/sheepBarnSmall/sheepBarnSmall.i3d (3.27 ms)
+2025-11-03 20:53:50.755 data/placeables/brandless/fences/husbandries/sheepNetFence/sheepNetFence.i3d (2.00 ms)
+2025-11-03 20:53:57.873 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_MTZ_82_Narew/MTZ_82.i3d (763.61 ms)
+2025-11-03 20:53:58.123 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_MTZ_82_Narew/Wheels/Kerekek.i3d (142.10 ms)
+2025-11-03 20:55:50.670   Info: Successfully tipped 189,000 l of Silage at a length of 14 m.
+2025-11-03 20:56:13.512 data/objects/bigBag/bigBag.i3d (5.69 ms)
+2025-11-03 20:56:13.634   Info: Adding pallet.
+2025-11-03 20:56:13.744 data/objects/bigBag/bigBag.i3d (5.44 ms)
+2025-11-03 20:56:13.863   Info: Adding pallet.
+2025-11-03 20:56:13.975 data/objects/bigBag/bigBag.i3d (6.32 ms)
+2025-11-03 20:56:14.091   Info: Adding pallet.
+2025-11-03 20:56:14.167 data/objects/bigBag/bigBag.i3d (5.82 ms)
+2025-11-03 20:56:14.287   Info: Adding pallet.
+2025-11-03 20:56:15.312 data/objects/bigBag/bigBag.i3d (5.48 ms)
+2025-11-03 20:56:30.315 data/objects/bigBag/bigBag.i3d (6.17 ms)
+2025-11-03 20:56:30.432   Info: Adding pallet.
+2025-11-03 20:56:30.563 data/objects/bigBag/bigBag.i3d (6.45 ms)
+2025-11-03 20:56:30.696   Info: Adding pallet.
+2025-11-03 20:56:30.805 data/objects/bigBag/bigBag.i3d (5.79 ms)
+2025-11-03 20:56:30.924   Info: Adding pallet.
+2025-11-03 20:56:31.053 data/objects/bigBag/bigBag.i3d (6.07 ms)
+2025-11-03 20:56:31.172   Info: Adding pallet.
+2025-11-03 20:56:31.300 data/objects/bigBag/bigBag.i3d (5.68 ms)
+2025-11-03 20:56:31.419   Info: Adding pallet.
+2025-11-03 20:56:32.451 data/objects/bigBag/bigBag.i3d (5.83 ms)
+2025-11-03 20:56:40.461 data/objects/pallets/liquidTank/liquidTank.i3d (3.55 ms)
+2025-11-03 20:56:40.545   Info: Adding pallet.
+2025-11-03 20:56:41.578 data/objects/bigBag/bigBag.i3d (5.88 ms)
+2025-11-03 20:56:41.593 data/objects/pallets/liquidTank/liquidTank.i3d (3.27 ms)
+2025-11-03 20:56:50.715 data/objects/bigBag/bigBag.i3d (6.15 ms)
+2025-11-03 20:56:50.834   Info: Adding pallet.
+2025-11-03 20:56:50.963   Info: Adding pallet.
+2025-11-03 20:56:51.982 data/objects/bigBag/bigBag.i3d (5.08 ms)
+2025-11-03 20:56:52.017 data/objects/pallets/liquidTank/liquidTank.i3d (3.04 ms)
+2025-11-03 20:56:53.345 Figuana joined the game
+2025-11-03 20:56:54.036 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_FamarolSlupskU241_1/FamarolU241.i3d (105.48 ms)
+2025-11-03 20:57:00.813   Info: Operating time of STEYR 8130 Turbo changed to 27 h.
+2025-11-03 20:57:39.012 Error: Can't load resource ''.
+2025-11-03 20:57:39.013 Error: Can't load resource ''.
+2025-11-03 20:57:39.013 Error: Can't load resource ''.
+2025-11-03 20:57:39.013 Error: Can't load resource 'gen_singleColorTexture_0_4278453252'.
+2025-11-03 20:57:39.013   DevWarning: material 'tyreMaterial' is having the albedo map removed by script. This can cause problems on consoles as the correct shader will not be built for this case.
+2025-11-03 20:57:39.013 Warning: Missing texture 'detailSpecular' in 'tyreMaterial' (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_useYourTyres/shaders/vehicleShader50keda.xml).
+2025-11-03 20:57:39.013 Warning: Missing texture 'detailNormal' in 'tyreMaterial' (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_useYourTyres/shaders/vehicleShader50keda.xml).
+2025-11-03 20:57:39.013 Warning: Missing texture 'detailDiffuse' in 'tyreMaterial' (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_useYourTyres/shaders/vehicleShader50keda.xml).
+2025-11-03 20:57:39.013 Error: Can't load resource ''.
+2025-11-03 20:57:39.013 Error: Can't load resource ''.
+2025-11-03 20:57:39.013 Error: Can't load resource ''.
+2025-11-03 20:57:39.013 Error: Can't load resource 'gen_singleColorTexture_0_4278453252'.
+2025-11-03 20:57:39.014   DevWarning: material 'tyreMaterial' is having the albedo map removed by script. This can cause problems on consoles as the correct shader will not be built for this case.
+2025-11-03 20:57:39.026 Warning: Missing texture 'detailDiffuse' in 'tyreMaterial' (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_useYourTyres/shaders/vehicleShader50keda.xml).
+2025-11-03 20:57:39.027 Warning: Missing texture 'detailNormal' in 'tyreMaterial' (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_useYourTyres/shaders/vehicleShader50keda.xml).
+2025-11-03 20:57:39.027 Warning: Missing texture 'detailDiffuse' in 'tyreMaterial' (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_useYourTyres/shaders/vehicleShader50keda.xml).
+2025-11-03 20:57:39.027 Warning: Missing texture 'detailSpecular' in 'tyreMaterial' (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_useYourTyres/shaders/vehicleShader50keda.xml).
+2025-11-03 20:57:39.027 Warning: Missing texture 'detailNormal' in 'tyreMaterial' (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_useYourTyres/shaders/vehicleShader50keda.xml).
+2025-11-03 20:57:39.027 Warning: Missing texture 'detailDiffuse' in 'tyreMaterial' (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_useYourTyres/shaders/vehicleShader50keda.xml).
+2025-11-03 20:57:39.027 Warning: Missing texture 'detailSpecular' in 'tyreMaterial' (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_useYourTyres/shaders/vehicleShader50keda.xml).
+2025-11-03 20:57:39.027 Warning: Missing texture 'detailNormal' in 'tyreMaterial' (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_useYourTyres/shaders/vehicleShader50keda.xml).
+2025-11-03 20:57:39.027 Warning: Missing texture 'detailDiffuse' in 'tyreMaterial' (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_useYourTyres/shaders/vehicleShader50keda.xml).
+2025-11-03 20:57:39.027 Warning: Missing texture 'detailSpecular' in 'tyreMaterial' (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_useYourTyres/shaders/vehicleShader50keda.xml).
+2025-11-03 20:57:39.027 Warning: Missing texture 'detailNormal' in 'tyreMaterial' (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_useYourTyres/shaders/vehicleShader50keda.xml).
+2025-11-03 20:57:39.027 Warning: Missing texture 'detailDiffuse' in 'tyreMaterial' (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_useYourTyres/shaders/vehicleShader50keda.xml).
+2025-11-03 20:58:03.927 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Steyr8070_8130Series/Serie80_SK1.i3d (115.42 ms)
+2025-11-03 20:58:04.118 data/shared/wheels/tires/vredestein/traxion70/420_70R24.i3d (20.52 ms)
+2025-11-03 20:58:04.121 data/shared/wheels/tires/vredestein/traxion70/520_70R38.i3d (2.60 ms)
+2025-11-03 20:58:04.912   Info: Moved 1 vehicles to coordinates 640, 799 successfully.
+2025-11-03 20:58:25.321   Info: Moved 1 vehicles to coordinates 800, 1377 successfully.
+2025-11-03 20:58:43.547 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Lizard_RSD4/rsd4.i3d (107.60 ms)
+2025-11-03 20:58:43.682 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Lizard_RSD4/wheels/rim.i3d (12.49 ms)
+2025-11-03 20:59:08.793 zone joined the game
+2025-11-03 20:59:08.822 dataS/character/playerM/heads/mHead02.i3d (14.78 ms)
+2025-11-03 20:59:08.916 dataS/character/playerM/jacket/caseIH/caseIHTop.i3d (94.55 ms)
+2025-11-03 20:59:08.923 dataS/character/playerM/attachments/caseIHhat.i3d (6.62 ms)
+2025-11-03 20:59:08.958 dataS/character/playerM/hairStyles/hairStyleFringe.i3d (34.68 ms)
+2025-11-03 20:59:08.973 dataS/character/playerM/facialHair/mHead02/fullBeard.i3d (14.86 ms)
+2025-11-03 20:59:12.734 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_OLT_Fenix/oltfenix3.i3d (69.40 ms)
+2025-11-03 20:59:12.851   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'STEYR 8130 Turbo'
+2025-11-03 20:59:13.505 hubsonwaliszot was kicked from the game
+2025-11-03 20:59:19.423   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_ursus385_A_PL/xml/385A.xml): Direction alignment and rotation alignment used at the same time for movingPart 'movingPartRightHand_group' in 'vehicle.cylindered.movingParts.movingPart(45)'
+2025-11-03 20:59:19.423   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_ursus385_A_PL/xml/385A.xml): Direction alignment and rotation alignment used at the same time for movingPart 'movingPartLeftHand_group' in 'vehicle.cylindered.movingParts.movingPart(46)'
+2025-11-03 20:59:19.652   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_ursus385_A_PL/xml/385A.xml): Top arm filename is referring to the i3d file. Please use the xml file instead. (data/shared/assets/upperLinks/walterscheid02.i3d)
+2025-11-03 20:59:19.652   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_ursus385_A_PL/xml/385A.xml): Top arm has been renamed from 'walterscheid02' to 'walterscheidSO_65_660' in 'vehicle.attacherJoints.attacherJointConfigurations.attacherJointConfiguration(3).attacherJoint(0).topArm' (Names now include type, diameter and min. length)
+2025-11-03 20:59:19.653   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_ursus385_A_PL/xml/385A.xml): Invalid vehicle material template '' in 'vehicle.attacherJoints.attacherJointConfigurations.attacherJointConfiguration(3).attacherJoint(0).topArm#materialTemplateName2'.
+2025-11-03 20:59:19.653   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_ursus385_A_PL/xml/385A.xml): Missing categoryRange or widthRange attribute for bottom arm in 'vehicle.attacherJoints.attacherJointConfigurations.attacherJointConfiguration(3).attacherJoint(0)'
+2025-11-03 20:59:19.655   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_ursus385_A_PL/xml/385A.xml): Top arm filename is referring to the i3d file. Please use the xml file instead. (data/shared/assets/upperLinks/walterscheid01.i3d)
+2025-11-03 20:59:19.655   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_ursus385_A_PL/xml/385A.xml): Top arm has been renamed from 'walterscheid01' to 'walterscheidSO_65_460' in 'vehicle.attacherJoints.attacherJointConfigurations.attacherJointConfiguration(3).attacherJoint(4).topArm' (Names now include type, diameter and min. length)
+2025-11-03 20:59:19.655   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_ursus385_A_PL/xml/385A.xml): Invalid vehicle material template '' in 'vehicle.attacherJoints.attacherJointConfigurations.attacherJointConfiguration(3).attacherJoint(4).topArm#materialTemplateName2'.
+2025-11-03 20:59:19.656   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_ursus385_A_PL/xml/385A.xml): Missing categoryRange or widthRange attribute for bottom arm in 'vehicle.attacherJoints.attacherJointConfigurations.attacherJointConfiguration(3).attacherJoint(4)'
+2025-11-03 20:59:19.742   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_ursus385_A_PL/xml/385A.xml): Failed to find material by material slot name 'DachMat' in 'vehicle.designColor5Configurations.material(0)'
+2025-11-03 20:59:39.463   Info: Moved 1 vehicles to coordinates 781, 1407 successfully.
+2025-11-03 20:59:42.458 data/vehicles/samasz/z2840/z2840.i3d (98.31 ms)
+2025-11-03 20:59:42.593 data/shared/wheels/tires/trelleborg/T510/16x6_50R8.i3d (1.96 ms)
+2025-11-03 20:59:46.639 siejA joined the game
+2025-11-03 20:59:46.661 dataS/character/playerM/fullBody/strauss/motion2020PantsVariant2ndVariant.i3d (7.91 ms)
+2025-11-03 20:59:51.204   Info: Moved 1 vehicles to coordinates 787, 1403 successfully.
+2025-11-03 20:59:55.280   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Ursus C-385A'
+2025-11-03 21:00:11.693   Info: Moved 1 vehicles to coordinates 407, 1151 successfully.
+2025-11-03 21:00:26.315   Info: Moved 1 vehicles to coordinates 403, 1154 successfully.
+2025-11-03 21:00:32.907   Info: Moved 1 vehicles to coordinates 417, 1151 successfully.
+2025-11-03 21:00:34.725 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_LizardRCW5/rcw5.i3d (46.27 ms)
+2025-11-03 21:00:34.874 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_LizardRCW5/wheels/tire.i3d (21.42 ms)
+2025-11-03 21:00:38.651   Info: Moved 1 vehicles to coordinates 436, 1149 successfully.
+2025-11-03 21:00:45.195   Info: Moved 1 vehicles to coordinates 445, 1149 successfully.
+2025-11-03 21:00:48.004   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'BELARUS 82'
+2025-11-03 21:00:52.269   Info: Moved 1 vehicles to coordinates 453, 1145 successfully.
+2025-11-03 21:01:05.001   Info: Moved 1 vehicles to coordinates 786, 1394 successfully.
+2025-11-03 21:01:13.303 M@rcin lost connection to the game
+2025-11-03 21:01:13.324   Info: Moved 1 vehicles to coordinates 791, 1394 successfully.
+2025-11-03 21:01:25.819   Info: Moved 1 vehicles to coordinates 779, 1399 successfully.
+2025-11-03 21:01:55.688   Info: Operating time of Case IH 160 CVX changed to 18 h.
+2025-11-03 21:02:07.982   Info: Operating time of New Holland 8340 changed to 50 h.
+2025-11-03 21:02:32.565   Info: Updated field 45 successfully (1) (1)
+2025-11-03 21:02:49.377   Info: Savegame Setting 'fruitDesctructionEnabled': false
+2025-11-03 21:02:57.223 M@rcin joined the game
+2025-11-03 21:02:57.258 dataS/character/playerM/jacket/topAviatorJacket.i3d (18.87 ms)
+2025-11-03 21:02:57.291 dataS/character/playerM/hairStyles/hairStyleDiablo.i3d (33.43 ms)
+2025-11-03 21:02:58.671   Info: Savegame Setting 'fruitDesctructionEnabled': true
+2025-11-03 21:03:44.387 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_RolmakoVibroSTAR/vibrostar.i3d (322.52 ms)
+2025-11-03 21:03:44.475 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_RolmakoVibroSTAR/shared/waly.i3d (2.30 ms)
+2025-11-03 21:03:44.525 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_RolmakoVibroSTAR/shared/felga.i3d (9.54 ms)
+2025-11-03 21:03:44.526 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_RolmakoVibroSTAR/shared/opona.i3d (1.87 ms)
+2025-11-03 21:03:44.567 data/shared/assets/lights/lizard/rearLight44.i3d (4.11 ms)
+2025-11-03 21:03:55.062   Info: Moved 1 vehicles to coordinates 1037, 447 successfully.
+2025-11-03 21:03:57.018   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'CLAAS DOMINATOR 108 SL MAXI'
+2025-11-03 21:04:00.515 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_weckmanWS130G/ws130g.i3d (190.58 ms)
+2025-11-03 21:04:00.721 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_weckmanWS130G/shared/wheels/tires/bkt/fl647/520_50R17.i3d (12.26 ms)
+2025-11-03 21:04:00.728 data/shared/assets/lights/lizard/rearLight33.i3d (2.49 ms)
+2025-11-03 21:04:04.061 dataS/character/playerF/pants/botChinos.i3d (14.55 ms)
+2025-11-03 21:04:11.166   Info: Moved 1 vehicles to coordinates 1048, 451 successfully.
+2025-11-03 21:04:20.776   Info: Moved 1 vehicles to coordinates 1053, 462 successfully.
+2025-11-03 21:04:44.071   Info: Set farm account balance to € 1,400,000. (1)
+2025-11-03 21:04:49.326   Info: Set farm account balance to € 140,000. (1)
+2025-11-03 21:05:03.385 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_barriersPackage/i3d/zavora10m.i3d (1.35 ms)
+2025-11-03 21:05:14.572   Info: Set farm account balance to € 20,000. (2)
+2025-11-03 21:05:21.047 dataS/character/playerM/pants/botLeather.i3d (17.66 ms)
+2025-11-03 21:05:21.339 dataS/character/playerF/pants/botYogaPants.i3d (10.80 ms)
+2025-11-03 21:05:21.495 dataS/character/playerF/pants/botChinos.i3d (13.41 ms)
+2025-11-03 21:05:22.154 dataS/character/playerF/pants/botYogaPants.i3d (10.80 ms)
+2025-11-03 21:05:49.413   Info: Added € -279,019,293 to farm account. (2)
+2025-11-03 21:05:59.185   Info: Added € 999,999,999 to farm account. (2)
+2025-11-03 21:06:15.115 dataS/character/playerM/jacket/topDenimJacket.i3d (25.99 ms)
+2025-11-03 21:06:33.811   Info: Updated field 33 successfully (2) (1)
+2025-11-03 21:06:41.612 dataS/character/playerM/pants/botLeather.i3d (17.78 ms)
+2025-11-03 21:06:41.643 dataS/character/playerM/jacket/topVest.i3d (30.54 ms)
+2025-11-03 21:06:44.877   Info: Updated field 34 successfully (2) (1)
+2025-11-03 21:06:51.851   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_ursus385_A_PL/xml/385A.xml): Direction alignment and rotation alignment used at the same time for movingPart 'movingPartRightHand_group' in 'vehicle.cylindered.movingParts.movingPart(45)'
+2025-11-03 21:06:51.851   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_ursus385_A_PL/xml/385A.xml): Direction alignment and rotation alignment used at the same time for movingPart 'movingPartLeftHand_group' in 'vehicle.cylindered.movingParts.movingPart(46)'
+2025-11-03 21:06:51.944   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_ursus385_A_PL/xml/385A.xml): Missing exactFillRootNode for fuel fill unit (1).
+2025-11-03 21:06:52.090   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_ursus385_A_PL/xml/385A.xml): Top arm filename is referring to the i3d file. Please use the xml file instead. (data/shared/assets/upperLinks/walterscheid02.i3d)
+2025-11-03 21:06:52.090   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_ursus385_A_PL/xml/385A.xml): Top arm has been renamed from 'walterscheid02' to 'walterscheidSO_65_660' in 'vehicle.attacherJoints.attacherJointConfigurations.attacherJointConfiguration(3).attacherJoint(0).topArm' (Names now include type, diameter and min. length)
+2025-11-03 21:06:52.091   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_ursus385_A_PL/xml/385A.xml): Invalid vehicle material template '' in 'vehicle.attacherJoints.attacherJointConfigurations.attacherJointConfiguration(3).attacherJoint(0).topArm#materialTemplateName2'.
+2025-11-03 21:06:52.091   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_ursus385_A_PL/xml/385A.xml): Missing categoryRange or widthRange attribute for bottom arm in 'vehicle.attacherJoints.attacherJointConfigurations.attacherJointConfiguration(3).attacherJoint(0)'
+2025-11-03 21:06:52.093   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_ursus385_A_PL/xml/385A.xml): Top arm filename is referring to the i3d file. Please use the xml file instead. (data/shared/assets/upperLinks/walterscheid01.i3d)
+2025-11-03 21:06:52.093   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_ursus385_A_PL/xml/385A.xml): Top arm has been renamed from 'walterscheid01' to 'walterscheidSO_65_460' in 'vehicle.attacherJoints.attacherJointConfigurations.attacherJointConfiguration(3).attacherJoint(4).topArm' (Names now include type, diameter and min. length)
+2025-11-03 21:06:52.094   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_ursus385_A_PL/xml/385A.xml): Invalid vehicle material template '' in 'vehicle.attacherJoints.attacherJointConfigurations.attacherJointConfiguration(3).attacherJoint(4).topArm#materialTemplateName2'.
+2025-11-03 21:06:52.094   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_ursus385_A_PL/xml/385A.xml): Missing categoryRange or widthRange attribute for bottom arm in 'vehicle.attacherJoints.attacherJointConfigurations.attacherJointConfiguration(3).attacherJoint(4)'
+2025-11-03 21:06:52.204   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_ursus385_A_PL/xml/385A.xml): Failed to find material by material slot name 'DachMat' in 'vehicle.designColor5Configurations.material(0)'
+2025-11-03 21:06:54.492   Info: Updated field 35 successfully (2) (1)
+2025-11-03 21:06:55.337   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Ursus C-385A'
+2025-11-03 21:06:59.579   Info: Decreased Weeds delta by 1.  ( Field No. 35 )
+2025-11-03 21:06:59.726   Info: Decreased Weeds delta by 1.  ( Field No. 35 )
+2025-11-03 21:06:59.854   Info: Decreased Weeds delta by 1.  ( Field No. 35 )
+2025-11-03 21:06:59.979   Info: Decreased Weeds delta by 1.  ( Field No. 35 )
+2025-11-03 21:07:00.108   Info: Decreased Weeds delta by 1.  ( Field No. 35 )
+2025-11-03 21:07:16.689   Info: Updated field 64 successfully (2) (1)
+2025-11-03 21:07:57.444   Info: Updated field 179 successfully (2) (1)
+2025-11-03 21:08:04.608   Info: Updated field 179 successfully (2) (1)
+2025-11-03 21:08:18.604 data/objects/bigBagPallet/bigBagPallet.i3d (5.20 ms)
+2025-11-03 21:08:25.329 data/vehicles/hauer/xb150/xb150.i3d (9.39 ms)
+2025-11-03 21:09:03.401 data/objects/bigBagPallet/bigBagPallet.i3d (5.05 ms)
+2025-11-03 21:10:59.244 data/shared/wheels/tires/michelin/multibib/540_65R28.i3d (2.57 ms)
+2025-11-03 21:10:59.247 data/shared/wheels/rims/rim012.i3d (2.81 ms)
+2025-11-03 21:10:59.250 data/shared/wheels/tires/michelin/axioBib/710_60R38.i3d (2.69 ms)
+2025-11-03 21:11:01.830   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Ford 8930'
+2025-11-03 21:11:16.468 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_StrautmannZelon/zelonCFS2501DO.i3d (229.30 ms)
+2025-11-03 21:11:16.654 data/shared/wheels/tires/trelleborg/TwinForestry428SB/600_50R22_5.i3d (2.93 ms)
+2025-11-03 21:11:16.870 data/shared/assets/powerTakeOffs/walterscheidWWZ.i3d (6.96 ms)
+2025-11-03 21:11:17.275   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_ursus385_A_PL/xml/385A.xml): Direction alignment and rotation alignment used at the same time for movingPart 'movingPartRightHand_group' in 'vehicle.cylindered.movingParts.movingPart(45)'
+2025-11-03 21:11:17.275   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_ursus385_A_PL/xml/385A.xml): Direction alignment and rotation alignment used at the same time for movingPart 'movingPartLeftHand_group' in 'vehicle.cylindered.movingParts.movingPart(46)'
+2025-11-03 21:11:17.383   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_ursus385_A_PL/xml/385A.xml): Missing exactFillRootNode for fuel fill unit (1).
+2025-11-03 21:11:17.547   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_ursus385_A_PL/xml/385A.xml): Top arm filename is referring to the i3d file. Please use the xml file instead. (data/shared/assets/upperLinks/walterscheid02.i3d)
+2025-11-03 21:11:17.547   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_ursus385_A_PL/xml/385A.xml): Top arm has been renamed from 'walterscheid02' to 'walterscheidSO_65_660' in 'vehicle.attacherJoints.attacherJointConfigurations.attacherJointConfiguration(3).attacherJoint(0).topArm' (Names now include type, diameter and min. length)
+2025-11-03 21:11:17.548   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_ursus385_A_PL/xml/385A.xml): Invalid vehicle material template '' in 'vehicle.attacherJoints.attacherJointConfigurations.attacherJointConfiguration(3).attacherJoint(0).topArm#materialTemplateName2'.
+2025-11-03 21:11:17.548   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_ursus385_A_PL/xml/385A.xml): Missing categoryRange or widthRange attribute for bottom arm in 'vehicle.attacherJoints.attacherJointConfigurations.attacherJointConfiguration(3).attacherJoint(0)'
+2025-11-03 21:11:17.550   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_ursus385_A_PL/xml/385A.xml): Top arm filename is referring to the i3d file. Please use the xml file instead. (data/shared/assets/upperLinks/walterscheid01.i3d)
+2025-11-03 21:11:17.550   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_ursus385_A_PL/xml/385A.xml): Top arm has been renamed from 'walterscheid01' to 'walterscheidSO_65_460' in 'vehicle.attacherJoints.attacherJointConfigurations.attacherJointConfiguration(3).attacherJoint(4).topArm' (Names now include type, diameter and min. length)
+2025-11-03 21:11:17.551   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_ursus385_A_PL/xml/385A.xml): Invalid vehicle material template '' in 'vehicle.attacherJoints.attacherJointConfigurations.attacherJointConfiguration(3).attacherJoint(4).topArm#materialTemplateName2'.
+2025-11-03 21:11:17.551   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_ursus385_A_PL/xml/385A.xml): Missing categoryRange or widthRange attribute for bottom arm in 'vehicle.attacherJoints.attacherJointConfigurations.attacherJointConfiguration(3).attacherJoint(4)'
+2025-11-03 21:11:17.691   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_ursus385_A_PL/xml/385A.xml): Failed to find material by material slot name 'DachMat' in 'vehicle.designColor5Configurations.material(0)'
+2025-11-03 21:11:20.132   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Ursus C-385A Fast transmission'
+2025-11-03 21:11:44.883   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Ford 8930'
+2025-11-03 21:12:07.900 hubsonwaliszot joined the game
+2025-11-03 21:12:08.199 dataS/character/playerM/shirts/poettinger/poettingerTshirt.i3d (285.37 ms)
+2025-11-03 21:13:04.988   Info: Added € 25,000 to farm account. (2)
+2025-11-03 21:13:15.700   Info: Set farm account balance to € 25,000. (2)
+2025-11-03 21:15:34.533   Info: Added € 999,999,999 to farm account. (5)
+2025-11-03 21:15:51.797 dataS/character/playerM/pants/botLeather.i3d (17.56 ms)
+2025-11-03 21:16:33.401 dataS/character/playerM/fullBody/onePieceMechanic.i3d (29.76 ms)
+2025-11-03 21:16:33.422 dataS/character/playerM/shoes/riding.i3d (21.22 ms)
+2025-11-03 21:16:33.458 dataS/character/playerM/hairStyles/hairStyleUnkempt.i3d (35.87 ms)
+2025-11-03 21:16:33.472 dataS/character/playerM/facialHair/mHead02/goatee01.i3d (13.87 ms)
+2025-11-03 21:16:45.937   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'STEYR 8130 Turbo'
+2025-11-03 21:18:53.155   Info: Added € 999,999,999 to farm account. (9)
+2025-11-03 21:19:33.172 data/objects/bigBagPallet/bigBagPallet.i3d (4.84 ms)
+2025-11-03 21:19:39.135 data/objects/bigBagPallet/bigBagPallet.i3d (4.69 ms)
+2025-11-03 21:19:55.617 data/objects/bigBagPallet/bigBagPallet.i3d (4.49 ms)
+2025-11-03 21:20:06.528   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Mercedes-Benz Trucks MB-trac 900 optimized'
+2025-11-03 21:20:38.418 Game saved successfully (savegame1).
+2025-11-03 21:20:41.122 data/shared/wheels/tires/trelleborg/TM100/270_95R38.i3d (3.06 ms)
+2025-11-03 21:20:41.126 data/shared/wheels/tires/trelleborg/TM100/300_95R52.i3d (3.66 ms)
+2025-11-03 21:20:44.559   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Case IH 160 CVX'
+2025-11-03 21:20:50.557 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_englishStyleSheepBarn/sheepGoatBarn.i3d (251.41 ms)
+2025-11-03 21:20:50.577 data/shared/assets/lights/lizard/buildings/industrialLight02.i3d (2.34 ms)
+2025-11-03 21:20:50.589 data/placeables/brandless/fences/US/fence02/fence02.i3d (12.39 ms)
+2025-11-03 21:20:53.742   Info: No 'ExhaustExtension' particle system added to vehicle 'Lizard Screw conveyor' because it has no exhaust
+2025-11-03 21:21:23.615   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Massey Ferguson 310'
+2025-11-03 21:21:26.408 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Grimme_SE260/SE260.i3d (216.28 ms)
+2025-11-03 21:21:26.464   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Grimme_SE260/SE260.xml): 'vehicle.baseMaterial' is not supported anymore!
+2025-11-03 21:21:26.557   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Grimme_SE260/SE260.xml): 'vehicle.wheels.wheelConfigurations.wheelConfiguration(0).wheels.wheel(0).tire#isCareWheel' is not supported anymore, use 'vehicle.wheels.wheelConfigurations.wheelConfiguration(0).wheels.wheel(0)#isCareWheel' instead!
+2025-11-03 21:21:26.558   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Grimme_SE260/SE260.xml): 'vehicle.wheels.wheelConfigurations.wheelConfiguration(0).wheels.wheel(1).tire#isCareWheel' is not supported anymore, use 'vehicle.wheels.wheelConfigurations.wheelConfiguration(0).wheels.wheel(1)#isCareWheel' instead!
+2025-11-03 21:21:26.562 data/shared/wheels/tires/trelleborg/TwinRadial/600_55R26_5.i3d (4.48 ms)
+2025-11-03 21:21:48.816 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_potatoWasher/potatoWasher.i3d (170.84 ms)
+2025-11-03 21:21:55.367 dataS/character/playerF/pants/botYogaPants.i3d (10.76 ms)
+2025-11-03 21:21:55.477 dataS/character/playerF/heads/fHead02.i3d (109.83 ms)
+2025-11-03 21:21:55.479 dataS/character/playerF/shirts/topTankTop.i3d (1.93 ms)
+2025-11-03 21:21:55.571 dataS/character/playerF/shoes/sportSneaker.i3d (92.77 ms)
+2025-11-03 21:21:55.607 dataS/character/playerF/hairStyles/hairStyleLongSideParted.i3d (35.04 ms)
+2025-11-03 21:22:05.396   Info: Moved 1 vehicles to coordinates 1785, 671 successfully.
+2025-11-03 21:22:10.823   Info: Moved 1 vehicles to coordinates 1772, 663 successfully.
+2025-11-03 21:22:28.700   Info: Moved player to coordinates 1844, 715 successfully.
+2025-11-03 21:22:32.922 Error: Running LUA method 'packetReceived'.
+dataS/scripts/shop/SellVehicleEvent.lua:73: attempt to index nil with 'propertyState'
+2025-11-03 21:22:48.034   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Case IH 160 CVX'
+2025-11-03 21:23:24.699 data/placeables/brandless/bunkerSilos/bunkerSiloSmall/bunkerSiloSmall.i3d (1.95 ms)
+2025-11-03 21:23:36.573 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.65 ms)
+2025-11-03 21:23:36.638 data/objects/pallets/liquidTank/liquidTank.i3d (3.53 ms)
+2025-11-03 21:23:53.938   Info: Successfully set fill unit 1 of Pomot UPR 10 to Solid Fertilizer with a fill level of 7,900 liters.
+2025-11-03 21:24:15.968   Info: Savegame Setting 'fruitDesctructionEnabled': false
+2025-11-03 21:24:30.587 data/placeables/brandless/fences/AS/fence13/fence13.i3d (2.91 ms)
