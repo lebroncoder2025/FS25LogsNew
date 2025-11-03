@@ -7183,3 +7183,26 @@ LUA call stack:
 2025-11-03 23:38:10.869 dataS/character/playerM/shoes/sandalM03.i3d (91.63 ms)
 2025-11-03 23:38:10.901 dataS/character/playerM/hairStyles/hairStyleBaldTop.i3d (31.27 ms)
 2025-11-03 23:38:10.911 dataS/character/playerM/facialHair/mHead01/walrusXL.i3d (9.14 ms)
+2025-11-03 23:46:25.216 Warning: Send called with unknown target address.
+2025-11-03 23:46:25.222 zwierek left the game
+2025-11-03 23:50:53.202 Game saved successfully (savegame1).
+2025-11-03 23:55:58.125 Piotrek joined the game
+2025-11-03 23:55:58.155 dataS/character/playerM/pants/botJeanShorts.i3d (16.52 ms)
+2025-11-03 23:55:58.203 dataS/character/playerM/shirts/topTankTop.i3d (48.38 ms)
+2025-11-03 23:55:58.208 dataS/character/playerM/gloves/glovesGeneric.i3d (4.93 ms)
+2025-11-03 23:55:58.219 dataS/character/playerM/attachments/headgearCowboy.i3d (10.43 ms)
+2025-11-03 23:55:58.310 dataS/character/playerM/shoes/sandalM02.i3d (90.85 ms)
+2025-11-04 00:00:12.266 Piotrek left the game
+2025-11-04 00:00:44.991 Piotrek joined the game
+2025-11-04 00:00:45.022 dataS/character/playerM/pants/botJeanShorts.i3d (16.53 ms)
+2025-11-04 00:00:45.071 dataS/character/playerM/shirts/topTankTop.i3d (49.00 ms)
+2025-11-04 00:00:45.076 dataS/character/playerM/gloves/glovesGeneric.i3d (4.87 ms)
+2025-11-04 00:00:45.087 dataS/character/playerM/attachments/headgearCowboy.i3d (10.51 ms)
+2025-11-04 00:00:45.179 dataS/character/playerM/shoes/sandalM02.i3d (91.89 ms)
+2025-11-04 00:15:13.736 Piotrek lost connection to the game
+2025-11-04 00:15:54.653 Piotrek joined the game
+2025-11-04 00:15:54.684 dataS/character/playerM/pants/botJeanShorts.i3d (16.53 ms)
+2025-11-04 00:15:54.732 dataS/character/playerM/shirts/topTankTop.i3d (48.14 ms)
+2025-11-04 00:15:54.737 dataS/character/playerM/gloves/glovesGeneric.i3d (4.96 ms)
+2025-11-04 00:15:54.748 dataS/character/playerM/attachments/headgearCowboy.i3d (10.54 ms)
+2025-11-04 00:15:54.839 dataS/character/playerM/shoes/sandalM02.i3d (91.39 ms)
