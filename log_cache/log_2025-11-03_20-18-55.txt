@@ -5750,3 +5750,926 @@ dataS/scripts/shop/SellVehicleEvent.lua:73: attempt to index nil with 'propertyS
 2025-11-03 22:33:22.285 data/placeables/brandless/fences/US/fence15/fence15.i3d (5.93 ms)
 2025-11-03 22:33:53.703 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_UniaGrudziadzUPlows/U023.i3d (50.01 ms)
 2025-11-03 22:34:42.291 data/maps/trees/americanElm/americanElm_stage04.i3d (41.12 ms)
+2025-11-03 22:37:10.621 data/maps/trees/northernCatalpa/northernCatalpa_stage02.i3d (29.97 ms)
+2025-11-03 22:37:34.193 data/maps/trees/cherry/cherry_stage04.i3d (7.61 ms)
+2025-11-03 22:37:42.467 data/maps/trees/cherry/cherry_stage02.i3d (4.36 ms)
+2025-11-03 22:37:58.981 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Privat_Drill_300/Privat_Drill.i3d (105.99 ms)
+2025-11-03 22:37:59.054 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Privat_Drill_300/Wheels/Front.i3d (17.35 ms)
+2025-11-03 22:38:06.927 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.60 ms)
+2025-11-03 22:38:11.384 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.60 ms)
+2025-11-03 22:38:11.442 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_mrhHandLiftableConsumables/bag/bag.i3d (5.88 ms)
+2025-11-03 22:38:16.530   Info: No 'ExhaustExtension' particle system added to vehicle 'Lizard Screw conveyor' because it has no exhaust
+2025-11-03 22:38:16.534 data/placeables/brandless/streetLamps/streetLamp04/streetLamp04.i3d (2.37 ms)
+2025-11-03 22:39:09.035 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_LandiniX880_MF3X7_Series/i3d/Landini8880Series.i3d (227.63 ms)
+2025-11-03 22:39:09.185 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_LandiniX880_MF3X7_Series/rims/frontRim01MF.i3d (22.23 ms)
+2025-11-03 22:39:09.198 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_LandiniX880_MF3X7_Series/rims/backRim01MF.i3d (13.04 ms)
+2025-11-03 22:39:09.201 data/shared/wheels/tires/trelleborg/TM600/380_85R28.i3d (2.48 ms)
+2025-11-03 22:39:09.203 data/shared/wheels/tires/trelleborg/TM600/460_85R38.i3d (2.21 ms)
+2025-11-03 22:39:09.268 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_LandiniX880_MF3X7_Series/upperlink/TerzoPuntoPistoneMF.i3d (1.35 ms)
+2025-11-03 22:39:33.117   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Massey Ferguson 397'
+2025-11-03 22:41:38.206 data/placeables/brandless/decoration/statues/stoneStatues01.i3d (2.00 ms)
+2025-11-03 22:41:52.161 data/placeables/brandless/decoration/flowerPots/flowerStand.i3d (10.13 ms)
+2025-11-03 22:42:41.321 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_poettingerNovaDiscPack/i3d/novaDisc265/poettingerNovaDisc265.i3d (29.08 ms)
+2025-11-03 22:45:07.295 data/placeables/mapUS/decoration/windWheelMedium/windWheelMedium.i3d (3.49 ms)
+2025-11-03 22:47:16.398 blaze joined the game
+2025-11-03 22:49:20.176 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Sipma_Z279Pack/Z279.i3d (145.25 ms)
+2025-11-03 22:49:20.351 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Sipma_Z279Pack/wheels/wheels.i3d (47.87 ms)
+2025-11-03 22:49:20.472 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Sipma_Z279Pack/wom/pto.i3d (4.69 ms)
+2025-11-03 22:50:49.185 Game saved successfully (savegame1).
+2025-11-03 22:57:31.128 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_MF310/310.i3d (179.38 ms)
+2025-11-03 22:57:31.267 data/shared/wheels/tires/bkt/agrimaxFactor/420_70R28.i3d (2.61 ms)
+2025-11-03 22:57:31.269 data/shared/wheels/tires/bkt/AS504/7_50__16.i3d (2.16 ms)
+2025-11-03 22:57:39.132 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_MF310/plataforma/plataforma.i3d (44.69 ms)
+2025-11-03 22:58:44.065   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Massey Ferguson 310'
+2025-11-03 23:07:35.243   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_KroneTurbo2500/xml/kroneTurbo2500.xml): Invalid vector 3 for 'vehicle.base.components.joint(0)#rotDriveRotation'.
+2025-11-03 23:07:35.352   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_KroneTurbo2500/xml/kroneTurbo2500.xml): Unable to find material template '' in 'vehicle.wheels.hubMaterial'
+2025-11-03 23:07:35.474   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_KroneTurbo2500/xml/kroneTurbo2500.xml): Node 'scratchingFloor' has no shader parameter 'scrollPosition' for animationNode 'vehicle.trailer.trailerConfigurations.trailerConfiguration(0).trailer.tipSide(0).animationNodes.animationNode(0)'!
+2025-11-03 23:07:35.475   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_KroneTurbo2500/xml/kroneTurbo2500.xml): Node 'scratchingFloor' has no shader parameter 'scrollPosition' for animationNode 'vehicle.turnOnVehicle.animationNodes.animationNode(2)'!
+2025-11-03 23:08:19.773 Figuana lost connection to the game
+2025-11-03 23:17:51.015 Warning (script): 'streamWriteString': Argument 1 has wrong type. Expected: String. Actual: Nil
+
+  D:\auto_builder\cache\svn\5e7c1a71ecbc79d8f508d9807d643f79\src\base\scripting\lua\LuauScriptSystem.cpp (1127): expectedType == Value::VoidType || expectedType == Value::ClassType2025-11-03 23:17:51.015 
+Script error: 'streamWriteString': Argument 1 has wrong type. Expected: String. Actual: Nil
+
+LUA call stack:
+  =[C]:-1 streamWriteString
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:46 writeStream
+  =dataS/scripts/network/Connection.lua:126 sendEvent
+  =dataS/scripts/network/Server.lua:670 broadcastEvent
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:58 run
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:37 readStream
+  =dataS/scripts/network/Server.lua:541 packetReceived
+  =dataS/scripts/network/ConnectionManager.lua:27 packetReceived
+2025-11-03 23:17:51.017 Warning (script): 'streamWriteString': Argument 1 has wrong type. Expected: String. Actual: Nil
+
+  D:\auto_builder\cache\svn\5e7c1a71ecbc79d8f508d9807d643f79\src\base\scripting\lua\LuauScriptSystem.cpp (1127): expectedType == Value::VoidType || expectedType == Value::ClassType2025-11-03 23:17:51.017 
+Script error: 'streamWriteString': Argument 1 has wrong type. Expected: String. Actual: Nil
+
+LUA call stack:
+  =[C]:-1 streamWriteString
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:46 writeStream
+  =dataS/scripts/network/Connection.lua:126 sendEvent
+  =dataS/scripts/network/Server.lua:670 broadcastEvent
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:58 run
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:37 readStream
+  =dataS/scripts/network/Server.lua:541 packetReceived
+  =dataS/scripts/network/ConnectionManager.lua:27 packetReceived
+2025-11-03 23:17:51.017 Warning (script): 'streamWriteString': Argument 1 has wrong type. Expected: String. Actual: Nil
+
+  D:\auto_builder\cache\svn\5e7c1a71ecbc79d8f508d9807d643f79\src\base\scripting\lua\LuauScriptSystem.cpp (1127): expectedType == Value::VoidType || expectedType == Value::ClassType2025-11-03 23:17:51.017 
+Script error: 'streamWriteString': Argument 1 has wrong type. Expected: String. Actual: Nil
+
+LUA call stack:
+  =[C]:-1 streamWriteString
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:46 writeStream
+  =dataS/scripts/network/Connection.lua:126 sendEvent
+  =dataS/scripts/network/Server.lua:670 broadcastEvent
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:58 run
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:37 readStream
+  =dataS/scripts/network/Server.lua:541 packetReceived
+  =dataS/scripts/network/ConnectionManager.lua:27 packetReceived
+2025-11-03 23:18:02.630 dataS/character/playerM/heads/mHead05.i3d (200.99 ms)
+2025-11-03 23:18:02.726 dataS/character/playerM/shirts/zipNeckPullover.i3d (96.42 ms)
+2025-11-03 23:18:02.760 dataS/character/playerM/hairStyles/hairStyleManBun.i3d (33.72 ms)
+2025-11-03 23:18:02.770 dataS/character/playerM/facialHair/mHead05/goatee02.i3d (9.89 ms)
+2025-11-03 23:18:14.235 Warning (script): 'streamWriteString': Argument 1 has wrong type. Expected: String. Actual: Nil
+
+  D:\auto_builder\cache\svn\5e7c1a71ecbc79d8f508d9807d643f79\src\base\scripting\lua\LuauScriptSystem.cpp (1127): expectedType == Value::VoidType || expectedType == Value::ClassType2025-11-03 23:18:14.235 
+Script error: 'streamWriteString': Argument 1 has wrong type. Expected: String. Actual: Nil
+
+LUA call stack:
+  =[C]:-1 streamWriteString
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:46 writeStream
+  =dataS/scripts/network/Connection.lua:126 sendEvent
+  =dataS/scripts/network/Server.lua:670 broadcastEvent
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:58 run
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:37 readStream
+  =dataS/scripts/network/Server.lua:541 packetReceived
+  =dataS/scripts/network/ConnectionManager.lua:27 packetReceived
+2025-11-03 23:18:14.235 Warning (script): 'streamWriteString': Argument 1 has wrong type. Expected: String. Actual: Nil
+
+  D:\auto_builder\cache\svn\5e7c1a71ecbc79d8f508d9807d643f79\src\base\scripting\lua\LuauScriptSystem.cpp (1127): expectedType == Value::VoidType || expectedType == Value::ClassType2025-11-03 23:18:14.235 
+Script error: 'streamWriteString': Argument 1 has wrong type. Expected: String. Actual: Nil
+
+LUA call stack:
+  =[C]:-1 streamWriteString
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:46 writeStream
+  =dataS/scripts/network/Connection.lua:126 sendEvent
+  =dataS/scripts/network/Server.lua:670 broadcastEvent
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:58 run
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:37 readStream
+  =dataS/scripts/network/Server.lua:541 packetReceived
+  =dataS/scripts/network/ConnectionManager.lua:27 packetReceived
+2025-11-03 23:18:14.235 Warning (script): 'streamWriteString': Argument 1 has wrong type. Expected: String. Actual: Nil
+
+  D:\auto_builder\cache\svn\5e7c1a71ecbc79d8f508d9807d643f79\src\base\scripting\lua\LuauScriptSystem.cpp (1127): expectedType == Value::VoidType || expectedType == Value::ClassType2025-11-03 23:18:14.235 
+Script error: 'streamWriteString': Argument 1 has wrong type. Expected: String. Actual: Nil
+
+LUA call stack:
+  =[C]:-1 streamWriteString
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:46 writeStream
+  =dataS/scripts/network/Connection.lua:126 sendEvent
+  =dataS/scripts/network/Server.lua:670 broadcastEvent
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:58 run
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:37 readStream
+  =dataS/scripts/network/Server.lua:541 packetReceived
+  =dataS/scripts/network/ConnectionManager.lua:27 packetReceived
+2025-11-03 23:18:15.047 Warning (script): 'streamWriteString': Argument 1 has wrong type. Expected: String. Actual: Nil
+
+  D:\auto_builder\cache\svn\5e7c1a71ecbc79d8f508d9807d643f79\src\base\scripting\lua\LuauScriptSystem.cpp (1127): expectedType == Value::VoidType || expectedType == Value::ClassType2025-11-03 23:18:15.047 
+Script error: 'streamWriteString': Argument 1 has wrong type. Expected: String. Actual: Nil
+
+LUA call stack:
+  =[C]:-1 streamWriteString
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:46 writeStream
+  =dataS/scripts/network/Connection.lua:126 sendEvent
+  =dataS/scripts/network/Server.lua:670 broadcastEvent
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:58 run
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:37 readStream
+  =dataS/scripts/network/Server.lua:541 packetReceived
+  =dataS/scripts/network/ConnectionManager.lua:27 packetReceived
+2025-11-03 23:18:15.047 Warning (script): 'streamWriteString': Argument 1 has wrong type. Expected: String. Actual: Nil
+
+  D:\auto_builder\cache\svn\5e7c1a71ecbc79d8f508d9807d643f79\src\base\scripting\lua\LuauScriptSystem.cpp (1127): expectedType == Value::VoidType || expectedType == Value::ClassType2025-11-03 23:18:15.047 
+Script error: 'streamWriteString': Argument 1 has wrong type. Expected: String. Actual: Nil
+
+LUA call stack:
+  =[C]:-1 streamWriteString
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:46 writeStream
+  =dataS/scripts/network/Connection.lua:126 sendEvent
+  =dataS/scripts/network/Server.lua:670 broadcastEvent
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:58 run
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:37 readStream
+  =dataS/scripts/network/Server.lua:541 packetReceived
+  =dataS/scripts/network/ConnectionManager.lua:27 packetReceived
+2025-11-03 23:18:15.047 Warning (script): 'streamWriteString': Argument 1 has wrong type. Expected: String. Actual: Nil
+
+  D:\auto_builder\cache\svn\5e7c1a71ecbc79d8f508d9807d643f79\src\base\scripting\lua\LuauScriptSystem.cpp (1127): expectedType == Value::VoidType || expectedType == Value::ClassType2025-11-03 23:18:15.047 
+Script error: 'streamWriteString': Argument 1 has wrong type. Expected: String. Actual: Nil
+
+LUA call stack:
+  =[C]:-1 streamWriteString
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:46 writeStream
+  =dataS/scripts/network/Connection.lua:126 sendEvent
+  =dataS/scripts/network/Server.lua:670 broadcastEvent
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:58 run
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:37 readStream
+  =dataS/scripts/network/Server.lua:541 packetReceived
+  =dataS/scripts/network/ConnectionManager.lua:27 packetReceived
+2025-11-03 23:18:17.912 Warning (script): 'streamWriteString': Argument 1 has wrong type. Expected: String. Actual: Nil
+
+  D:\auto_builder\cache\svn\5e7c1a71ecbc79d8f508d9807d643f79\src\base\scripting\lua\LuauScriptSystem.cpp (1127): expectedType == Value::VoidType || expectedType == Value::ClassType2025-11-03 23:18:17.912 
+Script error: 'streamWriteString': Argument 1 has wrong type. Expected: String. Actual: Nil
+
+LUA call stack:
+  =[C]:-1 streamWriteString
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:46 writeStream
+  =dataS/scripts/network/Connection.lua:126 sendEvent
+  =dataS/scripts/network/Server.lua:670 broadcastEvent
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:58 run
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:37 readStream
+  =dataS/scripts/network/Server.lua:541 packetReceived
+  =dataS/scripts/network/ConnectionManager.lua:27 packetReceived
+2025-11-03 23:18:17.913 Warning (script): 'streamWriteString': Argument 1 has wrong type. Expected: String. Actual: Nil
+
+  D:\auto_builder\cache\svn\5e7c1a71ecbc79d8f508d9807d643f79\src\base\scripting\lua\LuauScriptSystem.cpp (1127): expectedType == Value::VoidType || expectedType == Value::ClassType2025-11-03 23:18:17.913 
+Script error: 'streamWriteString': Argument 1 has wrong type. Expected: String. Actual: Nil
+
+LUA call stack:
+  =[C]:-1 streamWriteString
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:46 writeStream
+  =dataS/scripts/network/Connection.lua:126 sendEvent
+  =dataS/scripts/network/Server.lua:670 broadcastEvent
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:58 run
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:37 readStream
+  =dataS/scripts/network/Server.lua:541 packetReceived
+  =dataS/scripts/network/ConnectionManager.lua:27 packetReceived
+2025-11-03 23:18:17.913 Warning (script): 'streamWriteString': Argument 1 has wrong type. Expected: String. Actual: Nil
+
+  D:\auto_builder\cache\svn\5e7c1a71ecbc79d8f508d9807d643f79\src\base\scripting\lua\LuauScriptSystem.cpp (1127): expectedType == Value::VoidType || expectedType == Value::ClassType2025-11-03 23:18:17.913 
+Script error: 'streamWriteString': Argument 1 has wrong type. Expected: String. Actual: Nil
+
+LUA call stack:
+  =[C]:-1 streamWriteString
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:46 writeStream
+  =dataS/scripts/network/Connection.lua:126 sendEvent
+  =dataS/scripts/network/Server.lua:670 broadcastEvent
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:58 run
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:37 readStream
+  =dataS/scripts/network/Server.lua:541 packetReceived
+  =dataS/scripts/network/ConnectionManager.lua:27 packetReceived
+2025-11-03 23:18:20.103 Warning (script): 'streamWriteString': Argument 1 has wrong type. Expected: String. Actual: Nil
+
+  D:\auto_builder\cache\svn\5e7c1a71ecbc79d8f508d9807d643f79\src\base\scripting\lua\LuauScriptSystem.cpp (1127): expectedType == Value::VoidType || expectedType == Value::ClassType2025-11-03 23:18:20.103 
+Script error: 'streamWriteString': Argument 1 has wrong type. Expected: String. Actual: Nil
+
+LUA call stack:
+  =[C]:-1 streamWriteString
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:46 writeStream
+  =dataS/scripts/network/Connection.lua:126 sendEvent
+  =dataS/scripts/network/Server.lua:670 broadcastEvent
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:58 run
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:37 readStream
+  =dataS/scripts/network/Server.lua:541 packetReceived
+  =dataS/scripts/network/ConnectionManager.lua:27 packetReceived
+2025-11-03 23:18:20.103 Warning (script): 'streamWriteString': Argument 1 has wrong type. Expected: String. Actual: Nil
+
+  D:\auto_builder\cache\svn\5e7c1a71ecbc79d8f508d9807d643f79\src\base\scripting\lua\LuauScriptSystem.cpp (1127): expectedType == Value::VoidType || expectedType == Value::ClassType2025-11-03 23:18:20.103 
+Script error: 'streamWriteString': Argument 1 has wrong type. Expected: String. Actual: Nil
+
+LUA call stack:
+  =[C]:-1 streamWriteString
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:46 writeStream
+  =dataS/scripts/network/Connection.lua:126 sendEvent
+  =dataS/scripts/network/Server.lua:670 broadcastEvent
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:58 run
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:37 readStream
+  =dataS/scripts/network/Server.lua:541 packetReceived
+  =dataS/scripts/network/ConnectionManager.lua:27 packetReceived
+2025-11-03 23:18:20.103 Warning (script): 'streamWriteString': Argument 1 has wrong type. Expected: String. Actual: Nil
+
+  D:\auto_builder\cache\svn\5e7c1a71ecbc79d8f508d9807d643f79\src\base\scripting\lua\LuauScriptSystem.cpp (1127): expectedType == Value::VoidType || expectedType == Value::ClassType2025-11-03 23:18:20.104 
+Script error: 'streamWriteString': Argument 1 has wrong type. Expected: String. Actual: Nil
+
+LUA call stack:
+  =[C]:-1 streamWriteString
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:46 writeStream
+  =dataS/scripts/network/Connection.lua:126 sendEvent
+  =dataS/scripts/network/Server.lua:670 broadcastEvent
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:58 run
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:37 readStream
+  =dataS/scripts/network/Server.lua:541 packetReceived
+  =dataS/scripts/network/ConnectionManager.lua:27 packetReceived
+2025-11-03 23:18:20.780 Warning (script): 'streamWriteString': Argument 1 has wrong type. Expected: String. Actual: Nil
+
+  D:\auto_builder\cache\svn\5e7c1a71ecbc79d8f508d9807d643f79\src\base\scripting\lua\LuauScriptSystem.cpp (1127): expectedType == Value::VoidType || expectedType == Value::ClassType2025-11-03 23:18:20.780 
+Script error: 'streamWriteString': Argument 1 has wrong type. Expected: String. Actual: Nil
+
+LUA call stack:
+  =[C]:-1 streamWriteString
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:46 writeStream
+  =dataS/scripts/network/Connection.lua:126 sendEvent
+  =dataS/scripts/network/Server.lua:670 broadcastEvent
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:58 run
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:37 readStream
+  =dataS/scripts/network/Server.lua:541 packetReceived
+  =dataS/scripts/network/ConnectionManager.lua:27 packetReceived
+2025-11-03 23:18:20.780 Warning (script): 'streamWriteString': Argument 1 has wrong type. Expected: String. Actual: Nil
+
+  D:\auto_builder\cache\svn\5e7c1a71ecbc79d8f508d9807d643f79\src\base\scripting\lua\LuauScriptSystem.cpp (1127): expectedType == Value::VoidType || expectedType == Value::ClassType2025-11-03 23:18:20.781 
+Script error: 'streamWriteString': Argument 1 has wrong type. Expected: String. Actual: Nil
+
+LUA call stack:
+  =[C]:-1 streamWriteString
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:46 writeStream
+  =dataS/scripts/network/Connection.lua:126 sendEvent
+  =dataS/scripts/network/Server.lua:670 broadcastEvent
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:58 run
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:37 readStream
+  =dataS/scripts/network/Server.lua:541 packetReceived
+  =dataS/scripts/network/ConnectionManager.lua:27 packetReceived
+2025-11-03 23:18:20.781 Warning (script): 'streamWriteString': Argument 1 has wrong type. Expected: String. Actual: Nil
+
+  D:\auto_builder\cache\svn\5e7c1a71ecbc79d8f508d9807d643f79\src\base\scripting\lua\LuauScriptSystem.cpp (1127): expectedType == Value::VoidType || expectedType == Value::ClassType2025-11-03 23:18:20.781 
+Script error: 'streamWriteString': Argument 1 has wrong type. Expected: String. Actual: Nil
+
+LUA call stack:
+  =[C]:-1 streamWriteString
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:46 writeStream
+  =dataS/scripts/network/Connection.lua:126 sendEvent
+  =dataS/scripts/network/Server.lua:670 broadcastEvent
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:58 run
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:37 readStream
+  =dataS/scripts/network/Server.lua:541 packetReceived
+  =dataS/scripts/network/ConnectionManager.lua:27 packetReceived
+2025-11-03 23:18:25.483 Warning (script): 'streamWriteString': Argument 1 has wrong type. Expected: String. Actual: Nil
+
+  D:\auto_builder\cache\svn\5e7c1a71ecbc79d8f508d9807d643f79\src\base\scripting\lua\LuauScriptSystem.cpp (1127): expectedType == Value::VoidType || expectedType == Value::ClassType2025-11-03 23:18:25.483 
+Script error: 'streamWriteString': Argument 1 has wrong type. Expected: String. Actual: Nil
+
+LUA call stack:
+  =[C]:-1 streamWriteString
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:46 writeStream
+  =dataS/scripts/network/Connection.lua:126 sendEvent
+  =dataS/scripts/network/Server.lua:670 broadcastEvent
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:58 run
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:37 readStream
+  =dataS/scripts/network/Server.lua:541 packetReceived
+  =dataS/scripts/network/ConnectionManager.lua:27 packetReceived
+2025-11-03 23:18:25.484 Warning (script): 'streamWriteString': Argument 1 has wrong type. Expected: String. Actual: Nil
+
+  D:\auto_builder\cache\svn\5e7c1a71ecbc79d8f508d9807d643f79\src\base\scripting\lua\LuauScriptSystem.cpp (1127): expectedType == Value::VoidType || expectedType == Value::ClassType2025-11-03 23:18:25.484 
+Script error: 'streamWriteString': Argument 1 has wrong type. Expected: String. Actual: Nil
+
+LUA call stack:
+  =[C]:-1 streamWriteString
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:46 writeStream
+  =dataS/scripts/network/Connection.lua:126 sendEvent
+  =dataS/scripts/network/Server.lua:670 broadcastEvent
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:58 run
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:37 readStream
+  =dataS/scripts/network/Server.lua:541 packetReceived
+  =dataS/scripts/network/ConnectionManager.lua:27 packetReceived
+2025-11-03 23:18:25.484 Warning (script): 'streamWriteString': Argument 1 has wrong type. Expected: String. Actual: Nil
+
+  D:\auto_builder\cache\svn\5e7c1a71ecbc79d8f508d9807d643f79\src\base\scripting\lua\LuauScriptSystem.cpp (1127): expectedType == Value::VoidType || expectedType == Value::ClassType2025-11-03 23:18:25.484 
+Script error: 'streamWriteString': Argument 1 has wrong type. Expected: String. Actual: Nil
+
+LUA call stack:
+  =[C]:-1 streamWriteString
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:46 writeStream
+  =dataS/scripts/network/Connection.lua:126 sendEvent
+  =dataS/scripts/network/Server.lua:670 broadcastEvent
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:58 run
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:37 readStream
+  =dataS/scripts/network/Server.lua:541 packetReceived
+  =dataS/scripts/network/ConnectionManager.lua:27 packetReceived
+2025-11-03 23:18:27.113 Warning (script): 'streamWriteString': Argument 1 has wrong type. Expected: String. Actual: Nil
+
+  D:\auto_builder\cache\svn\5e7c1a71ecbc79d8f508d9807d643f79\src\base\scripting\lua\LuauScriptSystem.cpp (1127): expectedType == Value::VoidType || expectedType == Value::ClassType2025-11-03 23:18:27.113 
+Script error: 'streamWriteString': Argument 1 has wrong type. Expected: String. Actual: Nil
+
+LUA call stack:
+  =[C]:-1 streamWriteString
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:46 writeStream
+  =dataS/scripts/network/Connection.lua:126 sendEvent
+  =dataS/scripts/network/Server.lua:670 broadcastEvent
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:58 run
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:37 readStream
+  =dataS/scripts/network/Server.lua:541 packetReceived
+  =dataS/scripts/network/ConnectionManager.lua:27 packetReceived
+2025-11-03 23:18:27.113 Warning (script): 'streamWriteString': Argument 1 has wrong type. Expected: String. Actual: Nil
+
+  D:\auto_builder\cache\svn\5e7c1a71ecbc79d8f508d9807d643f79\src\base\scripting\lua\LuauScriptSystem.cpp (1127): expectedType == Value::VoidType || expectedType == Value::ClassType2025-11-03 23:18:27.113 
+Script error: 'streamWriteString': Argument 1 has wrong type. Expected: String. Actual: Nil
+
+LUA call stack:
+  =[C]:-1 streamWriteString
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:46 writeStream
+  =dataS/scripts/network/Connection.lua:126 sendEvent
+  =dataS/scripts/network/Server.lua:670 broadcastEvent
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:58 run
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:37 readStream
+  =dataS/scripts/network/Server.lua:541 packetReceived
+  =dataS/scripts/network/ConnectionManager.lua:27 packetReceived
+2025-11-03 23:18:27.114 Warning (script): 'streamWriteString': Argument 1 has wrong type. Expected: String. Actual: Nil
+
+  D:\auto_builder\cache\svn\5e7c1a71ecbc79d8f508d9807d643f79\src\base\scripting\lua\LuauScriptSystem.cpp (1127): expectedType == Value::VoidType || expectedType == Value::ClassType2025-11-03 23:18:27.114 
+Script error: 'streamWriteString': Argument 1 has wrong type. Expected: String. Actual: Nil
+
+LUA call stack:
+  =[C]:-1 streamWriteString
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:46 writeStream
+  =dataS/scripts/network/Connection.lua:126 sendEvent
+  =dataS/scripts/network/Server.lua:670 broadcastEvent
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:58 run
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:37 readStream
+  =dataS/scripts/network/Server.lua:541 packetReceived
+  =dataS/scripts/network/ConnectionManager.lua:27 packetReceived
+2025-11-03 23:18:28.036 Warning (script): 'streamWriteString': Argument 1 has wrong type. Expected: String. Actual: Nil
+
+  D:\auto_builder\cache\svn\5e7c1a71ecbc79d8f508d9807d643f79\src\base\scripting\lua\LuauScriptSystem.cpp (1127): expectedType == Value::VoidType || expectedType == Value::ClassType2025-11-03 23:18:28.036 
+Script error: 'streamWriteString': Argument 1 has wrong type. Expected: String. Actual: Nil
+
+LUA call stack:
+  =[C]:-1 streamWriteString
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:46 writeStream
+  =dataS/scripts/network/Connection.lua:126 sendEvent
+  =dataS/scripts/network/Server.lua:670 broadcastEvent
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:58 run
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:37 readStream
+  =dataS/scripts/network/Server.lua:541 packetReceived
+  =dataS/scripts/network/ConnectionManager.lua:27 packetReceived
+2025-11-03 23:18:28.037 Warning (script): 'streamWriteString': Argument 1 has wrong type. Expected: String. Actual: Nil
+
+  D:\auto_builder\cache\svn\5e7c1a71ecbc79d8f508d9807d643f79\src\base\scripting\lua\LuauScriptSystem.cpp (1127): expectedType == Value::VoidType || expectedType == Value::ClassType2025-11-03 23:18:28.037 
+Script error: 'streamWriteString': Argument 1 has wrong type. Expected: String. Actual: Nil
+
+LUA call stack:
+  =[C]:-1 streamWriteString
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:46 writeStream
+  =dataS/scripts/network/Connection.lua:126 sendEvent
+  =dataS/scripts/network/Server.lua:670 broadcastEvent
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:58 run
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:37 readStream
+  =dataS/scripts/network/Server.lua:541 packetReceived
+  =dataS/scripts/network/ConnectionManager.lua:27 packetReceived
+2025-11-03 23:18:28.037 Warning (script): 'streamWriteString': Argument 1 has wrong type. Expected: String. Actual: Nil
+
+  D:\auto_builder\cache\svn\5e7c1a71ecbc79d8f508d9807d643f79\src\base\scripting\lua\LuauScriptSystem.cpp (1127): expectedType == Value::VoidType || expectedType == Value::ClassType2025-11-03 23:18:28.038 
+Script error: 'streamWriteString': Argument 1 has wrong type. Expected: String. Actual: Nil
+
+LUA call stack:
+  =[C]:-1 streamWriteString
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:46 writeStream
+  =dataS/scripts/network/Connection.lua:126 sendEvent
+  =dataS/scripts/network/Server.lua:670 broadcastEvent
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:58 run
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:37 readStream
+  =dataS/scripts/network/Server.lua:541 packetReceived
+  =dataS/scripts/network/ConnectionManager.lua:27 packetReceived
+2025-11-03 23:18:29.643 Warning (script): 'streamWriteString': Argument 1 has wrong type. Expected: String. Actual: Nil
+
+  D:\auto_builder\cache\svn\5e7c1a71ecbc79d8f508d9807d643f79\src\base\scripting\lua\LuauScriptSystem.cpp (1127): expectedType == Value::VoidType || expectedType == Value::ClassType2025-11-03 23:18:29.643 
+Script error: 'streamWriteString': Argument 1 has wrong type. Expected: String. Actual: Nil
+
+LUA call stack:
+  =[C]:-1 streamWriteString
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:46 writeStream
+  =dataS/scripts/network/Connection.lua:126 sendEvent
+  =dataS/scripts/network/Server.lua:670 broadcastEvent
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:58 run
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:37 readStream
+  =dataS/scripts/network/Server.lua:541 packetReceived
+  =dataS/scripts/network/ConnectionManager.lua:27 packetReceived
+2025-11-03 23:18:29.643 Warning (script): 'streamWriteString': Argument 1 has wrong type. Expected: String. Actual: Nil
+
+  D:\auto_builder\cache\svn\5e7c1a71ecbc79d8f508d9807d643f79\src\base\scripting\lua\LuauScriptSystem.cpp (1127): expectedType == Value::VoidType || expectedType == Value::ClassType2025-11-03 23:18:29.643 
+Script error: 'streamWriteString': Argument 1 has wrong type. Expected: String. Actual: Nil
+
+LUA call stack:
+  =[C]:-1 streamWriteString
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:46 writeStream
+  =dataS/scripts/network/Connection.lua:126 sendEvent
+  =dataS/scripts/network/Server.lua:670 broadcastEvent
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:58 run
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:37 readStream
+  =dataS/scripts/network/Server.lua:541 packetReceived
+  =dataS/scripts/network/ConnectionManager.lua:27 packetReceived
+2025-11-03 23:18:29.644 Warning (script): 'streamWriteString': Argument 1 has wrong type. Expected: String. Actual: Nil
+
+  D:\auto_builder\cache\svn\5e7c1a71ecbc79d8f508d9807d643f79\src\base\scripting\lua\LuauScriptSystem.cpp (1127): expectedType == Value::VoidType || expectedType == Value::ClassType2025-11-03 23:18:29.644 
+Script error: 'streamWriteString': Argument 1 has wrong type. Expected: String. Actual: Nil
+
+LUA call stack:
+  =[C]:-1 streamWriteString
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:46 writeStream
+  =dataS/scripts/network/Connection.lua:126 sendEvent
+  =dataS/scripts/network/Server.lua:670 broadcastEvent
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:58 run
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:37 readStream
+  =dataS/scripts/network/Server.lua:541 packetReceived
+  =dataS/scripts/network/ConnectionManager.lua:27 packetReceived
+2025-11-03 23:18:31.448 Warning (script): 'streamWriteString': Argument 1 has wrong type. Expected: String. Actual: Nil
+
+  D:\auto_builder\cache\svn\5e7c1a71ecbc79d8f508d9807d643f79\src\base\scripting\lua\LuauScriptSystem.cpp (1127): expectedType == Value::VoidType || expectedType == Value::ClassType2025-11-03 23:18:31.448 
+Script error: 'streamWriteString': Argument 1 has wrong type. Expected: String. Actual: Nil
+
+LUA call stack:
+  =[C]:-1 streamWriteString
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:46 writeStream
+  =dataS/scripts/network/Connection.lua:126 sendEvent
+  =dataS/scripts/network/Server.lua:670 broadcastEvent
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:58 run
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:37 readStream
+  =dataS/scripts/network/Server.lua:541 packetReceived
+  =dataS/scripts/network/ConnectionManager.lua:27 packetReceived
+2025-11-03 23:18:31.449 Warning (script): 'streamWriteString': Argument 1 has wrong type. Expected: String. Actual: Nil
+
+  D:\auto_builder\cache\svn\5e7c1a71ecbc79d8f508d9807d643f79\src\base\scripting\lua\LuauScriptSystem.cpp (1127): expectedType == Value::VoidType || expectedType == Value::ClassType2025-11-03 23:18:31.449 
+Script error: 'streamWriteString': Argument 1 has wrong type. Expected: String. Actual: Nil
+
+LUA call stack:
+  =[C]:-1 streamWriteString
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:46 writeStream
+  =dataS/scripts/network/Connection.lua:126 sendEvent
+  =dataS/scripts/network/Server.lua:670 broadcastEvent
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:58 run
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:37 readStream
+  =dataS/scripts/network/Server.lua:541 packetReceived
+  =dataS/scripts/network/ConnectionManager.lua:27 packetReceived
+2025-11-03 23:18:31.449 Warning (script): 'streamWriteString': Argument 1 has wrong type. Expected: String. Actual: Nil
+
+  D:\auto_builder\cache\svn\5e7c1a71ecbc79d8f508d9807d643f79\src\base\scripting\lua\LuauScriptSystem.cpp (1127): expectedType == Value::VoidType || expectedType == Value::ClassType2025-11-03 23:18:31.449 
+Script error: 'streamWriteString': Argument 1 has wrong type. Expected: String. Actual: Nil
+
+LUA call stack:
+  =[C]:-1 streamWriteString
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:46 writeStream
+  =dataS/scripts/network/Connection.lua:126 sendEvent
+  =dataS/scripts/network/Server.lua:670 broadcastEvent
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:58 run
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:37 readStream
+  =dataS/scripts/network/Server.lua:541 packetReceived
+  =dataS/scripts/network/ConnectionManager.lua:27 packetReceived
+2025-11-03 23:18:33.993 Warning (script): 'streamWriteString': Argument 1 has wrong type. Expected: String. Actual: Nil
+
+  D:\auto_builder\cache\svn\5e7c1a71ecbc79d8f508d9807d643f79\src\base\scripting\lua\LuauScriptSystem.cpp (1127): expectedType == Value::VoidType || expectedType == Value::ClassType2025-11-03 23:18:33.993 
+Script error: 'streamWriteString': Argument 1 has wrong type. Expected: String. Actual: Nil
+
+LUA call stack:
+  =[C]:-1 streamWriteString
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:46 writeStream
+  =dataS/scripts/network/Connection.lua:126 sendEvent
+  =dataS/scripts/network/Server.lua:670 broadcastEvent
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:58 run
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:37 readStream
+  =dataS/scripts/network/Server.lua:541 packetReceived
+  =dataS/scripts/network/ConnectionManager.lua:27 packetReceived
+2025-11-03 23:18:33.993 Warning (script): 'streamWriteString': Argument 1 has wrong type. Expected: String. Actual: Nil
+
+  D:\auto_builder\cache\svn\5e7c1a71ecbc79d8f508d9807d643f79\src\base\scripting\lua\LuauScriptSystem.cpp (1127): expectedType == Value::VoidType || expectedType == Value::ClassType2025-11-03 23:18:33.994 
+Script error: 'streamWriteString': Argument 1 has wrong type. Expected: String. Actual: Nil
+
+LUA call stack:
+  =[C]:-1 streamWriteString
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:46 writeStream
+  =dataS/scripts/network/Connection.lua:126 sendEvent
+  =dataS/scripts/network/Server.lua:670 broadcastEvent
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:58 run
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:37 readStream
+  =dataS/scripts/network/Server.lua:541 packetReceived
+  =dataS/scripts/network/ConnectionManager.lua:27 packetReceived
+2025-11-03 23:18:33.994 Warning (script): 'streamWriteString': Argument 1 has wrong type. Expected: String. Actual: Nil
+
+  D:\auto_builder\cache\svn\5e7c1a71ecbc79d8f508d9807d643f79\src\base\scripting\lua\LuauScriptSystem.cpp (1127): expectedType == Value::VoidType || expectedType == Value::ClassType2025-11-03 23:18:33.994 
+Script error: 'streamWriteString': Argument 1 has wrong type. Expected: String. Actual: Nil
+
+LUA call stack:
+  =[C]:-1 streamWriteString
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:46 writeStream
+  =dataS/scripts/network/Connection.lua:126 sendEvent
+  =dataS/scripts/network/Server.lua:670 broadcastEvent
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:58 run
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:37 readStream
+  =dataS/scripts/network/Server.lua:541 packetReceived
+  =dataS/scripts/network/ConnectionManager.lua:27 packetReceived
+2025-11-03 23:18:44.334 Warning (script): 'streamWriteString': Argument 1 has wrong type. Expected: String. Actual: Nil
+
+  D:\auto_builder\cache\svn\5e7c1a71ecbc79d8f508d9807d643f79\src\base\scripting\lua\LuauScriptSystem.cpp (1127): expectedType == Value::VoidType || expectedType == Value::ClassType2025-11-03 23:18:44.334 
+Script error: 'streamWriteString': Argument 1 has wrong type. Expected: String. Actual: Nil
+
+LUA call stack:
+  =[C]:-1 streamWriteString
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:46 writeStream
+  =dataS/scripts/network/Connection.lua:126 sendEvent
+  =dataS/scripts/network/Server.lua:670 broadcastEvent
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:58 run
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:37 readStream
+  =dataS/scripts/network/Server.lua:541 packetReceived
+  =dataS/scripts/network/ConnectionManager.lua:27 packetReceived
+2025-11-03 23:18:44.334 Warning (script): 'streamWriteString': Argument 1 has wrong type. Expected: String. Actual: Nil
+
+  D:\auto_builder\cache\svn\5e7c1a71ecbc79d8f508d9807d643f79\src\base\scripting\lua\LuauScriptSystem.cpp (1127): expectedType == Value::VoidType || expectedType == Value::ClassType2025-11-03 23:18:44.334 
+Script error: 'streamWriteString': Argument 1 has wrong type. Expected: String. Actual: Nil
+
+LUA call stack:
+  =[C]:-1 streamWriteString
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:46 writeStream
+  =dataS/scripts/network/Connection.lua:126 sendEvent
+  =dataS/scripts/network/Server.lua:670 broadcastEvent
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:58 run
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:37 readStream
+  =dataS/scripts/network/Server.lua:541 packetReceived
+  =dataS/scripts/network/ConnectionManager.lua:27 packetReceived
+2025-11-03 23:18:44.334 Warning (script): 'streamWriteString': Argument 1 has wrong type. Expected: String. Actual: Nil
+
+  D:\auto_builder\cache\svn\5e7c1a71ecbc79d8f508d9807d643f79\src\base\scripting\lua\LuauScriptSystem.cpp (1127): expectedType == Value::VoidType || expectedType == Value::ClassType2025-11-03 23:18:44.334 
+Script error: 'streamWriteString': Argument 1 has wrong type. Expected: String. Actual: Nil
+
+LUA call stack:
+  =[C]:-1 streamWriteString
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:46 writeStream
+  =dataS/scripts/network/Connection.lua:126 sendEvent
+  =dataS/scripts/network/Server.lua:670 broadcastEvent
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:58 run
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:37 readStream
+  =dataS/scripts/network/Server.lua:541 packetReceived
+  =dataS/scripts/network/ConnectionManager.lua:27 packetReceived
+2025-11-03 23:18:52.829 Warning (script): 'streamWriteString': Argument 1 has wrong type. Expected: String. Actual: Nil
+
+  D:\auto_builder\cache\svn\5e7c1a71ecbc79d8f508d9807d643f79\src\base\scripting\lua\LuauScriptSystem.cpp (1127): expectedType == Value::VoidType || expectedType == Value::ClassType2025-11-03 23:18:52.829 
+Script error: 'streamWriteString': Argument 1 has wrong type. Expected: String. Actual: Nil
+
+LUA call stack:
+  =[C]:-1 streamWriteString
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:46 writeStream
+  =dataS/scripts/network/Connection.lua:126 sendEvent
+  =dataS/scripts/network/Server.lua:670 broadcastEvent
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:58 run
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:37 readStream
+  =dataS/scripts/network/Server.lua:541 packetReceived
+  =dataS/scripts/network/ConnectionManager.lua:27 packetReceived
+2025-11-03 23:18:52.830 Warning (script): 'streamWriteString': Argument 1 has wrong type. Expected: String. Actual: Nil
+
+  D:\auto_builder\cache\svn\5e7c1a71ecbc79d8f508d9807d643f79\src\base\scripting\lua\LuauScriptSystem.cpp (1127): expectedType == Value::VoidType || expectedType == Value::ClassType2025-11-03 23:18:52.830 
+Script error: 'streamWriteString': Argument 1 has wrong type. Expected: String. Actual: Nil
+
+LUA call stack:
+  =[C]:-1 streamWriteString
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:46 writeStream
+  =dataS/scripts/network/Connection.lua:126 sendEvent
+  =dataS/scripts/network/Server.lua:670 broadcastEvent
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:58 run
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:37 readStream
+  =dataS/scripts/network/Server.lua:541 packetReceived
+  =dataS/scripts/network/ConnectionManager.lua:27 packetReceived
+2025-11-03 23:18:52.830 Warning (script): 'streamWriteString': Argument 1 has wrong type. Expected: String. Actual: Nil
+
+  D:\auto_builder\cache\svn\5e7c1a71ecbc79d8f508d9807d643f79\src\base\scripting\lua\LuauScriptSystem.cpp (1127): expectedType == Value::VoidType || expectedType == Value::ClassType2025-11-03 23:18:52.830 
+Script error: 'streamWriteString': Argument 1 has wrong type. Expected: String. Actual: Nil
+
+LUA call stack:
+  =[C]:-1 streamWriteString
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:46 writeStream
+  =dataS/scripts/network/Connection.lua:126 sendEvent
+  =dataS/scripts/network/Server.lua:670 broadcastEvent
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:58 run
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:37 readStream
+  =dataS/scripts/network/Server.lua:541 packetReceived
+  =dataS/scripts/network/ConnectionManager.lua:27 packetReceived
+2025-11-03 23:19:07.230 Warning (script): 'streamWriteString': Argument 1 has wrong type. Expected: String. Actual: Nil
+
+  D:\auto_builder\cache\svn\5e7c1a71ecbc79d8f508d9807d643f79\src\base\scripting\lua\LuauScriptSystem.cpp (1127): expectedType == Value::VoidType || expectedType == Value::ClassType2025-11-03 23:19:07.230 
+Script error: 'streamWriteString': Argument 1 has wrong type. Expected: String. Actual: Nil
+
+LUA call stack:
+  =[C]:-1 streamWriteString
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:46 writeStream
+  =dataS/scripts/network/Connection.lua:126 sendEvent
+  =dataS/scripts/network/Server.lua:670 broadcastEvent
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:58 run
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:37 readStream
+  =dataS/scripts/network/Server.lua:541 packetReceived
+  =dataS/scripts/network/ConnectionManager.lua:27 packetReceived
+2025-11-03 23:19:07.231 Warning (script): 'streamWriteString': Argument 1 has wrong type. Expected: String. Actual: Nil
+
+  D:\auto_builder\cache\svn\5e7c1a71ecbc79d8f508d9807d643f79\src\base\scripting\lua\LuauScriptSystem.cpp (1127): expectedType == Value::VoidType || expectedType == Value::ClassType2025-11-03 23:19:07.231 
+Script error: 'streamWriteString': Argument 1 has wrong type. Expected: String. Actual: Nil
+
+LUA call stack:
+  =[C]:-1 streamWriteString
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:46 writeStream
+  =dataS/scripts/network/Connection.lua:126 sendEvent
+  =dataS/scripts/network/Server.lua:670 broadcastEvent
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:58 run
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:37 readStream
+  =dataS/scripts/network/Server.lua:541 packetReceived
+  =dataS/scripts/network/ConnectionManager.lua:27 packetReceived
+2025-11-03 23:19:07.231 Warning (script): 'streamWriteString': Argument 1 has wrong type. Expected: String. Actual: Nil
+
+  D:\auto_builder\cache\svn\5e7c1a71ecbc79d8f508d9807d643f79\src\base\scripting\lua\LuauScriptSystem.cpp (1127): expectedType == Value::VoidType || expectedType == Value::ClassType2025-11-03 23:19:07.231 
+Script error: 'streamWriteString': Argument 1 has wrong type. Expected: String. Actual: Nil
+
+LUA call stack:
+  =[C]:-1 streamWriteString
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:46 writeStream
+  =dataS/scripts/network/Connection.lua:126 sendEvent
+  =dataS/scripts/network/Server.lua:670 broadcastEvent
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:58 run
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:37 readStream
+  =dataS/scripts/network/Server.lua:541 packetReceived
+  =dataS/scripts/network/ConnectionManager.lua:27 packetReceived
+2025-11-03 23:20:00.283 Warning (script): 'streamWriteString': Argument 1 has wrong type. Expected: String. Actual: Nil
+
+  D:\auto_builder\cache\svn\5e7c1a71ecbc79d8f508d9807d643f79\src\base\scripting\lua\LuauScriptSystem.cpp (1127): expectedType == Value::VoidType || expectedType == Value::ClassType2025-11-03 23:20:00.283 
+Script error: 'streamWriteString': Argument 1 has wrong type. Expected: String. Actual: Nil
+
+LUA call stack:
+  =[C]:-1 streamWriteString
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:46 writeStream
+  =dataS/scripts/network/Connection.lua:126 sendEvent
+  =dataS/scripts/network/Server.lua:670 broadcastEvent
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:58 run
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:37 readStream
+  =dataS/scripts/network/Server.lua:541 packetReceived
+  =dataS/scripts/network/ConnectionManager.lua:27 packetReceived
+2025-11-03 23:20:00.284 Warning (script): 'streamWriteString': Argument 1 has wrong type. Expected: String. Actual: Nil
+
+  D:\auto_builder\cache\svn\5e7c1a71ecbc79d8f508d9807d643f79\src\base\scripting\lua\LuauScriptSystem.cpp (1127): expectedType == Value::VoidType || expectedType == Value::ClassType2025-11-03 23:20:00.284 
+Script error: 'streamWriteString': Argument 1 has wrong type. Expected: String. Actual: Nil
+
+LUA call stack:
+  =[C]:-1 streamWriteString
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:46 writeStream
+  =dataS/scripts/network/Connection.lua:126 sendEvent
+  =dataS/scripts/network/Server.lua:670 broadcastEvent
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:58 run
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:37 readStream
+  =dataS/scripts/network/Server.lua:541 packetReceived
+  =dataS/scripts/network/ConnectionManager.lua:27 packetReceived
+2025-11-03 23:20:00.284 Warning (script): 'streamWriteString': Argument 1 has wrong type. Expected: String. Actual: Nil
+
+  D:\auto_builder\cache\svn\5e7c1a71ecbc79d8f508d9807d643f79\src\base\scripting\lua\LuauScriptSystem.cpp (1127): expectedType == Value::VoidType || expectedType == Value::ClassType2025-11-03 23:20:00.284 
+Script error: 'streamWriteString': Argument 1 has wrong type. Expected: String. Actual: Nil
+
+LUA call stack:
+  =[C]:-1 streamWriteString
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:46 writeStream
+  =dataS/scripts/network/Connection.lua:126 sendEvent
+  =dataS/scripts/network/Server.lua:670 broadcastEvent
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:58 run
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:37 readStream
+  =dataS/scripts/network/Server.lua:541 packetReceived
+  =dataS/scripts/network/ConnectionManager.lua:27 packetReceived
+2025-11-03 23:20:04.302 Warning (script): 'streamWriteString': Argument 1 has wrong type. Expected: String. Actual: Nil
+
+  D:\auto_builder\cache\svn\5e7c1a71ecbc79d8f508d9807d643f79\src\base\scripting\lua\LuauScriptSystem.cpp (1127): expectedType == Value::VoidType || expectedType == Value::ClassType2025-11-03 23:20:04.302 
+Script error: 'streamWriteString': Argument 1 has wrong type. Expected: String. Actual: Nil
+
+LUA call stack:
+  =[C]:-1 streamWriteString
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:46 writeStream
+  =dataS/scripts/network/Connection.lua:126 sendEvent
+  =dataS/scripts/network/Server.lua:670 broadcastEvent
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:58 run
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:37 readStream
+  =dataS/scripts/network/Server.lua:541 packetReceived
+  =dataS/scripts/network/ConnectionManager.lua:27 packetReceived
+2025-11-03 23:20:04.303 Warning (script): 'streamWriteString': Argument 1 has wrong type. Expected: String. Actual: Nil
+
+  D:\auto_builder\cache\svn\5e7c1a71ecbc79d8f508d9807d643f79\src\base\scripting\lua\LuauScriptSystem.cpp (1127): expectedType == Value::VoidType || expectedType == Value::ClassType2025-11-03 23:20:04.303 
+Script error: 'streamWriteString': Argument 1 has wrong type. Expected: String. Actual: Nil
+
+LUA call stack:
+  =[C]:-1 streamWriteString
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:46 writeStream
+  =dataS/scripts/network/Connection.lua:126 sendEvent
+  =dataS/scripts/network/Server.lua:670 broadcastEvent
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:58 run
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:37 readStream
+  =dataS/scripts/network/Server.lua:541 packetReceived
+  =dataS/scripts/network/ConnectionManager.lua:27 packetReceived
+2025-11-03 23:20:04.303 Warning (script): 'streamWriteString': Argument 1 has wrong type. Expected: String. Actual: Nil
+
+  D:\auto_builder\cache\svn\5e7c1a71ecbc79d8f508d9807d643f79\src\base\scripting\lua\LuauScriptSystem.cpp (1127): expectedType == Value::VoidType || expectedType == Value::ClassType2025-11-03 23:20:04.303 
+Script error: 'streamWriteString': Argument 1 has wrong type. Expected: String. Actual: Nil
+
+LUA call stack:
+  =[C]:-1 streamWriteString
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:46 writeStream
+  =dataS/scripts/network/Connection.lua:126 sendEvent
+  =dataS/scripts/network/Server.lua:670 broadcastEvent
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:58 run
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:37 readStream
+  =dataS/scripts/network/Server.lua:541 packetReceived
+  =dataS/scripts/network/ConnectionManager.lua:27 packetReceived
+2025-11-03 23:20:05.217 Warning (script): 'streamWriteString': Argument 1 has wrong type. Expected: String. Actual: Nil
+
+  D:\auto_builder\cache\svn\5e7c1a71ecbc79d8f508d9807d643f79\src\base\scripting\lua\LuauScriptSystem.cpp (1127): expectedType == Value::VoidType || expectedType == Value::ClassType2025-11-03 23:20:05.217 
+Script error: 'streamWriteString': Argument 1 has wrong type. Expected: String. Actual: Nil
+
+LUA call stack:
+  =[C]:-1 streamWriteString
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:46 writeStream
+  =dataS/scripts/network/Connection.lua:126 sendEvent
+  =dataS/scripts/network/Server.lua:670 broadcastEvent
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:58 run
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:37 readStream
+  =dataS/scripts/network/Server.lua:541 packetReceived
+  =dataS/scripts/network/ConnectionManager.lua:27 packetReceived
+2025-11-03 23:20:05.218 Warning (script): 'streamWriteString': Argument 1 has wrong type. Expected: String. Actual: Nil
+
+  D:\auto_builder\cache\svn\5e7c1a71ecbc79d8f508d9807d643f79\src\base\scripting\lua\LuauScriptSystem.cpp (1127): expectedType == Value::VoidType || expectedType == Value::ClassType2025-11-03 23:20:05.218 
+Script error: 'streamWriteString': Argument 1 has wrong type. Expected: String. Actual: Nil
+
+LUA call stack:
+  =[C]:-1 streamWriteString
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:46 writeStream
+  =dataS/scripts/network/Connection.lua:126 sendEvent
+  =dataS/scripts/network/Server.lua:670 broadcastEvent
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:58 run
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:37 readStream
+  =dataS/scripts/network/Server.lua:541 packetReceived
+  =dataS/scripts/network/ConnectionManager.lua:27 packetReceived
+2025-11-03 23:20:05.218 Warning (script): 'streamWriteString': Argument 1 has wrong type. Expected: String. Actual: Nil
+
+  D:\auto_builder\cache\svn\5e7c1a71ecbc79d8f508d9807d643f79\src\base\scripting\lua\LuauScriptSystem.cpp (1127): expectedType == Value::VoidType || expectedType == Value::ClassType2025-11-03 23:20:05.218 
+Script error: 'streamWriteString': Argument 1 has wrong type. Expected: String. Actual: Nil
+
+LUA call stack:
+  =[C]:-1 streamWriteString
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:46 writeStream
+  =dataS/scripts/network/Connection.lua:126 sendEvent
+  =dataS/scripts/network/Server.lua:670 broadcastEvent
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:58 run
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:37 readStream
+  =dataS/scripts/network/Server.lua:541 packetReceived
+  =dataS/scripts/network/ConnectionManager.lua:27 packetReceived
+2025-11-03 23:20:06.329 Warning (script): 'streamWriteString': Argument 1 has wrong type. Expected: String. Actual: Nil
+
+  D:\auto_builder\cache\svn\5e7c1a71ecbc79d8f508d9807d643f79\src\base\scripting\lua\LuauScriptSystem.cpp (1127): expectedType == Value::VoidType || expectedType == Value::ClassType2025-11-03 23:20:06.329 
+Script error: 'streamWriteString': Argument 1 has wrong type. Expected: String. Actual: Nil
+
+LUA call stack:
+  =[C]:-1 streamWriteString
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:46 writeStream
+  =dataS/scripts/network/Connection.lua:126 sendEvent
+  =dataS/scripts/network/Server.lua:670 broadcastEvent
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:58 run
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:37 readStream
+  =dataS/scripts/network/Server.lua:541 packetReceived
+  =dataS/scripts/network/ConnectionManager.lua:27 packetReceived
+2025-11-03 23:20:06.330 Warning (script): 'streamWriteString': Argument 1 has wrong type. Expected: String. Actual: Nil
+
+  D:\auto_builder\cache\svn\5e7c1a71ecbc79d8f508d9807d643f79\src\base\scripting\lua\LuauScriptSystem.cpp (1127): expectedType == Value::VoidType || expectedType == Value::ClassType2025-11-03 23:20:06.330 
+Script error: 'streamWriteString': Argument 1 has wrong type. Expected: String. Actual: Nil
+
+LUA call stack:
+  =[C]:-1 streamWriteString
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:46 writeStream
+  =dataS/scripts/network/Connection.lua:126 sendEvent
+  =dataS/scripts/network/Server.lua:670 broadcastEvent
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:58 run
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:37 readStream
+  =dataS/scripts/network/Server.lua:541 packetReceived
+  =dataS/scripts/network/ConnectionManager.lua:27 packetReceived
+2025-11-03 23:20:06.330 Warning (script): 'streamWriteString': Argument 1 has wrong type. Expected: String. Actual: Nil
+
+  D:\auto_builder\cache\svn\5e7c1a71ecbc79d8f508d9807d643f79\src\base\scripting\lua\LuauScriptSystem.cpp (1127): expectedType == Value::VoidType || expectedType == Value::ClassType2025-11-03 23:20:06.330 
+Script error: 'streamWriteString': Argument 1 has wrong type. Expected: String. Actual: Nil
+
+LUA call stack:
+  =[C]:-1 streamWriteString
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:46 writeStream
+  =dataS/scripts/network/Connection.lua:126 sendEvent
+  =dataS/scripts/network/Server.lua:670 broadcastEvent
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:58 run
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:37 readStream
+  =dataS/scripts/network/Server.lua:541 packetReceived
+  =dataS/scripts/network/ConnectionManager.lua:27 packetReceived
+2025-11-03 23:20:07.173 Warning (script): 'streamWriteString': Argument 1 has wrong type. Expected: String. Actual: Nil
+
+  D:\auto_builder\cache\svn\5e7c1a71ecbc79d8f508d9807d643f79\src\base\scripting\lua\LuauScriptSystem.cpp (1127): expectedType == Value::VoidType || expectedType == Value::ClassType2025-11-03 23:20:07.173 
+Script error: 'streamWriteString': Argument 1 has wrong type. Expected: String. Actual: Nil
+
+LUA call stack:
+  =[C]:-1 streamWriteString
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:46 writeStream
+  =dataS/scripts/network/Connection.lua:126 sendEvent
+  =dataS/scripts/network/Server.lua:670 broadcastEvent
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:58 run
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:37 readStream
+  =dataS/scripts/network/Server.lua:541 packetReceived
+  =dataS/scripts/network/ConnectionManager.lua:27 packetReceived
+2025-11-03 23:20:07.173 Warning (script): 'streamWriteString': Argument 1 has wrong type. Expected: String. Actual: Nil
+
+  D:\auto_builder\cache\svn\5e7c1a71ecbc79d8f508d9807d643f79\src\base\scripting\lua\LuauScriptSystem.cpp (1127): expectedType == Value::VoidType || expectedType == Value::ClassType2025-11-03 23:20:07.173 
+Script error: 'streamWriteString': Argument 1 has wrong type. Expected: String. Actual: Nil
+
+LUA call stack:
+  =[C]:-1 streamWriteString
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:46 writeStream
+  =dataS/scripts/network/Connection.lua:126 sendEvent
+  =dataS/scripts/network/Server.lua:670 broadcastEvent
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:58 run
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:37 readStream
+  =dataS/scripts/network/Server.lua:541 packetReceived
+  =dataS/scripts/network/ConnectionManager.lua:27 packetReceived
+2025-11-03 23:20:07.173 Warning (script): 'streamWriteString': Argument 1 has wrong type. Expected: String. Actual: Nil
+
+  D:\auto_builder\cache\svn\5e7c1a71ecbc79d8f508d9807d643f79\src\base\scripting\lua\LuauScriptSystem.cpp (1127): expectedType == Value::VoidType || expectedType == Value::ClassType2025-11-03 23:20:07.173 
+Script error: 'streamWriteString': Argument 1 has wrong type. Expected: String. Actual: Nil
+
+LUA call stack:
+  =[C]:-1 streamWriteString
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:46 writeStream
+  =dataS/scripts/network/Connection.lua:126 sendEvent
+  =dataS/scripts/network/Server.lua:670 broadcastEvent
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:58 run
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:37 readStream
+  =dataS/scripts/network/Server.lua:541 packetReceived
+  =dataS/scripts/network/ConnectionManager.lua:27 packetReceived
+2025-11-03 23:20:14.532 Warning (script): 'streamWriteString': Argument 1 has wrong type. Expected: String. Actual: Nil
+
+  D:\auto_builder\cache\svn\5e7c1a71ecbc79d8f508d9807d643f79\src\base\scripting\lua\LuauScriptSystem.cpp (1127): expectedType == Value::VoidType || expectedType == Value::ClassType2025-11-03 23:20:14.532 
+Script error: 'streamWriteString': Argument 1 has wrong type. Expected: String. Actual: Nil
+
+LUA call stack:
+  =[C]:-1 streamWriteString
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:46 writeStream
+  =dataS/scripts/network/Connection.lua:126 sendEvent
+  =dataS/scripts/network/Server.lua:670 broadcastEvent
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:58 run
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:37 readStream
+  =dataS/scripts/network/Server.lua:541 packetReceived
+  =dataS/scripts/network/ConnectionManager.lua:27 packetReceived
+2025-11-03 23:20:14.533 Warning (script): 'streamWriteString': Argument 1 has wrong type. Expected: String. Actual: Nil
+
+  D:\auto_builder\cache\svn\5e7c1a71ecbc79d8f508d9807d643f79\src\base\scripting\lua\LuauScriptSystem.cpp (1127): expectedType == Value::VoidType || expectedType == Value::ClassType2025-11-03 23:20:14.533 
+Script error: 'streamWriteString': Argument 1 has wrong type. Expected: String. Actual: Nil
+
+LUA call stack:
+  =[C]:-1 streamWriteString
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:46 writeStream
+  =dataS/scripts/network/Connection.lua:126 sendEvent
+  =dataS/scripts/network/Server.lua:670 broadcastEvent
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:58 run
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:37 readStream
+  =dataS/scripts/network/Server.lua:541 packetReceived
+  =dataS/scripts/network/ConnectionManager.lua:27 packetReceived
+2025-11-03 23:20:14.533 Warning (script): 'streamWriteString': Argument 1 has wrong type. Expected: String. Actual: Nil
+
+  D:\auto_builder\cache\svn\5e7c1a71ecbc79d8f508d9807d643f79\src\base\scripting\lua\LuauScriptSystem.cpp (1127): expectedType == Value::VoidType || expectedType == Value::ClassType2025-11-03 23:20:14.533 
+Script error: 'streamWriteString': Argument 1 has wrong type. Expected: String. Actual: Nil
+
+LUA call stack:
+  =[C]:-1 streamWriteString
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:46 writeStream
+  =dataS/scripts/network/Connection.lua:126 sendEvent
+  =dataS/scripts/network/Server.lua:670 broadcastEvent
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:58 run
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:37 readStream
+  =dataS/scripts/network/Server.lua:541 packetReceived
+  =dataS/scripts/network/ConnectionManager.lua:27 packetReceived
+2025-11-03 23:20:51.026 Game saved successfully (savegame1).
