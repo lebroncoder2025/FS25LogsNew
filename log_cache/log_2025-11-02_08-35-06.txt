@@ -6835,3 +6835,20 @@ dataS/scripts/vehicles/specializations/FillVolume.lua:297: invalid argument #1 t
 2025-11-03 05:09:57.595 Game saved successfully (savegame1).
 2025-11-03 05:40:07.789 Game saved successfully (savegame1).
 2025-11-03 06:10:21.192 Game saved successfully (savegame1).
+2025-11-03 06:40:31.036 Game saved successfully (savegame1).
+2025-11-03 06:44:57.621 M@rcin joined the game
+2025-11-03 06:44:57.849 dataS/character/playerM/jacket/topAviatorJacket.i3d (27.84 ms)
+2025-11-03 06:44:57.851 dataS/character/playerM/attachments/glassesAviators.i3d (1.42 ms)
+2025-11-03 06:44:57.900 dataS/character/playerM/hairStyles/hairStyleDiablo.i3d (49.53 ms)
+2025-11-03 06:44:57.902 dataS/character/playerM/facialHair/mHead01/beardStubble.i3d (1.35 ms)
+2025-11-03 06:45:53.117 FS25_UnloadBalesEarly: Sending new settings
+2025-11-03 06:45:53.117 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-03 06:45:53.119 FS25_UnloadBalesEarly: Sending new settings
+2025-11-03 06:45:53.119 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-03 07:00:04.222   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_KroneTurbo2500/xml/kroneTurbo2500.xml): Invalid vector 3 for 'vehicle.base.components.joint(0)#rotDriveRotation'.
+2025-11-03 07:00:04.312   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_KroneTurbo2500/xml/kroneTurbo2500.xml): Unable to find material template '' in 'vehicle.wheels.hubMaterial'
+2025-11-03 07:00:04.382   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_KroneTurbo2500/xml/kroneTurbo2500.xml): Node 'scratchingFloor' has no shader parameter 'scrollPosition' for animationNode 'vehicle.trailer.trailerConfigurations.trailerConfiguration(0).trailer.tipSide(0).animationNodes.animationNode(0)'!
+2025-11-03 07:00:04.383   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_KroneTurbo2500/xml/kroneTurbo2500.xml): Node 'scratchingFloor' has no shader parameter 'scrollPosition' for animationNode 'vehicle.turnOnVehicle.animationNodes.animationNode(2)'!
+2025-11-03 07:01:36.244   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'STEYR 8130 Super Elite'
+2025-11-03 07:04:55.854 M@rcin lost connection to the game
+2025-11-03 07:10:35.429 Game saved successfully (savegame1).
