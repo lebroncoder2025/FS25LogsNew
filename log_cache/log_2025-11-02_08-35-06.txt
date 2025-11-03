@@ -6854,3 +6854,30 @@ dataS/scripts/vehicles/specializations/FillVolume.lua:297: invalid argument #1 t
 2025-11-03 07:10:35.429 Game saved successfully (savegame1).
 2025-11-03 07:40:45.542 Game saved successfully (savegame1).
 2025-11-03 08:10:55.402 Game saved successfully (savegame1).
+2025-11-03 08:41:05.212 Game saved successfully (savegame1).
+2025-11-03 09:05:05.034 Jolero joined the game
+2025-11-03 09:05:05.236 dataS/character/playerM/shirts/topTShirt01.i3d (2.35 ms)
+2025-11-03 09:05:05.275 dataS/character/playerM/hairStyles/hairStyleTopKnot.i3d (38.80 ms)
+2025-11-03 09:05:05.299 dataS/character/playerM/facialHair/mHead01/goatee01.i3d (23.60 ms)
+2025-11-03 09:05:21.725 FS25_UnloadBalesEarly: Sending new settings
+2025-11-03 09:05:21.725 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-03 09:05:21.727 FS25_UnloadBalesEarly: Sending new settings
+2025-11-03 09:05:21.727 FS25_UnloadBalesEarly: Done sending new settings
+2025-11-03 09:06:17.846   Info: [Easy Development Controls] User Jolero has logged in as master user.
+2025-11-03 09:06:31.946   Info: Moved player to coordinates 1552, 1485 successfully.
+2025-11-03 09:06:45.198   Info: Moved 2 vehicles to coordinates 1885, 699 successfully.
+2025-11-03 09:06:54.427   Info: Successfully emptied fill unit 1 of Grimme SE 260.
+2025-11-03 09:07:19.111   Info: Moved 1 vehicles to coordinates 642, 810 successfully.
+2025-11-03 09:07:40.856   Info: Moved 1 vehicles to coordinates 502, 1236 successfully.
+2025-11-03 09:08:04.124   Info: Moved 2 vehicles to coordinates 643, 837 successfully.
+2025-11-03 09:08:28.825   Info: Diesel level of Fendt 620 Vario - 50km/h changed to 347 liters.
+2025-11-03 09:08:29.740   Info: The condition of Fendt 620 Vario - 50km/h and all connected implements updated.
+2025-11-03 09:08:33.485   Info: The condition of Fendt 620 Vario - 50km/h and all connected implements updated.
+2025-11-03 09:08:53.510   Info: Moved 3 vehicles to coordinates 1528, 1596 successfully.
+2025-11-03 09:09:21.088   Info: Moved 1 vehicles to coordinates 1845, 698 successfully.
+2025-11-03 09:09:41.031   Info: Updated field 183 successfully (3) (1)
+2025-11-03 09:11:07.989 Game saved successfully (savegame1).
+2025-11-03 09:24:13.717   Info: Successfully set fill unit 1 of Pomot UPR 10 to Lime with a fill level of 7,900 liters.
+2025-11-03 09:31:46.470 Warning: Send called with unknown target address.
+2025-11-03 09:31:46.484 Jolero left the game
+2025-11-03 09:31:52.604 Game saved successfully (savegame1).
