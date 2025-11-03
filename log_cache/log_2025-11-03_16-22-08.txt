@@ -5139,3 +5139,21 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-03 16:24:22.562   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_CasePumaCVX_Tier3/caseIHPumaCVX.xml): 'vehicle.fillUnit.fillUnitConfigurations.fillUnitConfiguration(0).fillUnits.fillUnit(1)#unit' is not supported anymore, use 'vehicle.fillUnit.fillUnitConfigurations.fillUnitConfiguration(0).fillUnits.fillUnit(1)#unitTextOverride' instead!
 2025-11-03 16:24:22.562   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_CasePumaCVX_Tier3/caseIHPumaCVX.xml): 'vehicle.fillUnit.fillUnitConfigurations.fillUnitConfiguration(0).fillUnits.fillUnit(2)#unit' is not supported anymore, use 'vehicle.fillUnit.fillUnitConfigurations.fillUnitConfiguration(0).fillUnits.fillUnit(2)#unitTextOverride' instead!
 2025-11-03 16:24:23.831 dataS/character/animals/domesticated/dog/labradorRetriever/labradorRetriever.i3d (107.81 ms)
+2025-11-03 16:24:28.792   Info: Entered Gameplay
+2025-11-03 16:24:28.794 [RealisticFirstPerson] camera moved by -0.05 m
+2025-11-03 16:24:28.795 dataS/character/shared/kinematicHelper.i3d (0.18 ms)
+2025-11-03 16:24:28.798 data/handTools/brandless/flashlight/flashlight.i3d (2.15 ms)
+2025-11-03 16:24:28.799   Info: Savegame Setting 'dirtInterval': 3
+2025-11-03 16:24:28.799   Info: Savegame Setting 'snowEnabled': false
+2025-11-03 16:24:28.799   Info: Savegame Setting 'growthMode': DAILY
+2025-11-03 16:24:28.799   Info: Savegame Setting 'fuelUsage': 2
+2025-11-03 16:24:28.799   Info: Savegame Setting 'plowingRequiredEnabled': true
+2025-11-03 16:24:28.799   Info: Savegame Setting 'weedsEnabled': true
+2025-11-03 16:24:28.799   Info: Savegame Setting 'limeRequired': true
+2025-11-03 16:24:28.799   Info: Savegame Setting 'stonesEnabled': false
+2025-11-03 16:24:28.799   Info: Savegame Setting 'economicDifficulty': HARD
+2025-11-03 16:24:28.799   Info: Savegame Setting 'fixedSeasonalVisuals': nil
+2025-11-03 16:24:28.799   Info: Savegame Setting 'plannedDaysPerPeriod': 2
+2025-11-03 16:24:28.815   Info: TreePlantManager - NumTrees 8052 (0 split) / MaxNumTrees: 10000
+2025-11-03 16:24:29.391 FTG 'D:/home/sid_8377223/farmingSim_2025/profile/savegame1/densityMap_fruits.gdm' max needed CPU instances = 5.819672 MB / 30.375000 MB
+2025-11-03 16:24:29.391 FTG 'D:/home/sid_8377223/farmingSim_2025/profile/savegame1/densityMap_weed.gdm' max needed CPU instances = 0.013916 MB / 3.445312 MB
