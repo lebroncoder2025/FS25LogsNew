@@ -7238,3 +7238,6 @@ LUA call stack:
 2025-11-04 03:51:11.824 Game saved successfully (savegame1).
 2025-11-04 04:21:16.130 Game saved successfully (savegame1).
 2025-11-04 04:51:16.635 Game saved successfully (savegame1).
+2025-11-04 05:11:20.098 w3rny lost connection to the game
+2025-11-04 05:11:28.450 Paweł lost connection to the game
+2025-11-04 05:21:26.454 Game saved successfully (savegame1).
