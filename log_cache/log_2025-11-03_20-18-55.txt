@@ -14304,3 +14304,36 @@ LUA call stack:
 2025-11-04 19:29:53.986 Warning: Send called with unknown target address.
 2025-11-04 19:29:53.992 Piotrek left the game
 2025-11-04 19:30:15.739 zwierek left the game
+2025-11-04 19:53:13.209 w3rny joined the game
+2025-11-04 19:53:13.334 dataS/character/playerM/pants/strauss/motion2020Pants2ndVariant.i3d (109.13 ms)
+2025-11-04 19:53:13.480 dataS/character/playerM/jacket/topVestM.i3d (146.06 ms)
+2025-11-04 19:53:13.482 dataS/character/playerM/attachments/headgearBandana.i3d (2.60 ms)
+2025-11-04 19:53:13.484 dataS/character/playerM/attachments/glassesSports02.i3d (1.43 ms)
+2025-11-04 19:53:13.579 dataS/character/playerM/shoes/sportSneaker.i3d (95.29 ms)
+2025-11-04 19:53:13.614 dataS/character/playerM/hairStyles/hairStyleTopKnot.i3d (34.72 ms)
+2025-11-04 19:53:13.626 dataS/character/playerM/facialHair/mHead01/trimmedBeard.i3d (11.54 ms)
+2025-11-04 19:54:07.978 Game saved successfully (savegame1).
+2025-11-04 19:54:21.373 Paweł joined the game
+2025-11-04 19:54:21.528 dataS/character/playerM/pants/poettinger/poettingerShort.i3d (141.18 ms)
+2025-11-04 19:54:21.622 dataS/character/playerM/jacket/claas/claasTop.i3d (94.32 ms)
+2025-11-04 19:54:21.626 dataS/character/playerM/attachments/headgearBeanie.i3d (4.23 ms)
+2025-11-04 19:54:21.628 dataS/character/playerM/attachments/glassesAviators.i3d (1.68 ms)
+2025-11-04 19:54:21.651 dataS/character/playerM/shoes/crok.i3d (23.41 ms)
+2025-11-04 19:54:21.672 dataS/character/playerM/facialHair/mHead01/goatee01.i3d (20.09 ms)
+2025-11-04 20:04:54.833 zwierek joined the game
+2025-11-04 20:04:54.865 dataS/character/playerM/pants/botJeanShorts.i3d (16.75 ms)
+2025-11-04 20:04:54.957 dataS/character/playerM/shoes/sandalM03.i3d (91.31 ms)
+2025-11-04 20:04:54.988 dataS/character/playerM/hairStyles/hairStyleBaldTop.i3d (31.35 ms)
+2025-11-04 20:04:54.997 dataS/character/playerM/facialHair/mHead01/walrusXL.i3d (9.09 ms)
+2025-11-04 20:05:24.072 w3rny lost connection to the game
+2025-11-04 20:06:33.703 Warning: Send called with unknown target address.
+2025-11-04 20:06:33.709 Paweł left the game
+2025-11-04 20:08:18.488 Jolero joined the game
+2025-11-04 20:08:18.504 dataS/character/playerM/shirts/topTShirt01.i3d (2.29 ms)
+2025-11-04 20:08:18.540 dataS/character/playerM/hairStyles/hairStyleTopKnot.i3d (35.04 ms)
+2025-11-04 20:08:18.559 dataS/character/playerM/facialHair/mHead01/goatee01.i3d (19.15 ms)
+2025-11-04 20:09:21.227   Info: [Easy Development Controls] User Jolero has logged in as master user.
+2025-11-04 20:09:48.553   Info: Moved player to coordinates 648, 831 successfully.
+2025-11-04 20:11:54.032   Info: Updated field 183 successfully (3) (1)
+2025-11-04 20:12:04.217   Info: Updated field 178 successfully (3) (1)
+2025-11-04 20:12:22.933   Info: Updated field 117 successfully (3) (1)
