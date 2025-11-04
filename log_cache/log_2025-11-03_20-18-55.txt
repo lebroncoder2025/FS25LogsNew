@@ -7243,3 +7243,14 @@ LUA call stack:
 2025-11-04 05:21:26.454 Game saved successfully (savegame1).
 2025-11-04 05:51:36.668 Game saved successfully (savegame1).
 2025-11-04 06:21:46.588 Game saved successfully (savegame1).
+2025-11-04 06:51:56.605 Game saved successfully (savegame1).
+2025-11-04 07:00:24.940 M@rcin joined the game
+2025-11-04 07:00:25.153 dataS/character/playerM/jacket/topAviatorJacket.i3d (18.33 ms)
+2025-11-04 07:00:25.155 dataS/character/playerM/attachments/glassesAviators.i3d (1.42 ms)
+2025-11-04 07:00:25.187 dataS/character/playerM/hairStyles/hairStyleDiablo.i3d (32.44 ms)
+2025-11-04 07:00:25.189 dataS/character/playerM/facialHair/mHead01/beardStubble.i3d (1.32 ms)
+2025-11-04 07:13:16.300 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_tenwinkelWeightPackage/fpPac1000.i3d (42.02 ms)
+2025-11-04 07:19:38.335 data/objects/bigBag/bigBag.i3d (5.02 ms)
+2025-11-04 07:19:38.402 data/objects/pallets/liquidTank/liquidTank.i3d (3.04 ms)
+2025-11-04 07:21:55.140 Game saved successfully (savegame1).
+2025-11-04 07:27:18.559 M@rcin lost connection to the game
