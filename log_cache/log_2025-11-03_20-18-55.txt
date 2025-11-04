@@ -14218,3 +14218,8 @@ LUA call stack:
 2025-11-04 17:25:34.376 dataS/character/playerF/jacket/topVest.i3d (24.95 ms)
 2025-11-04 17:25:34.379 dataS/character/playerF/shoes/workboot02.i3d (3.13 ms)
 2025-11-04 17:25:34.414 dataS/character/playerF/hairStyles/hairStylePonyTail03.i3d (34.91 ms)
+2025-11-04 17:36:08.881 Piotrek lost connection to the game
+2025-11-04 17:37:56.620 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.59 ms)
+2025-11-04 17:37:56.774 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_mrhHandLiftableConsumables/barrelPlastic/barrelPlastic.i3d (17.24 ms)
+2025-11-04 17:40:25.508 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.60 ms)
+2025-11-04 17:42:10.226 siwa joined the game
