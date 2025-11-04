@@ -14550,3 +14550,10 @@ LUA call stack:
 2025-11-04 22:24:56.617 Warning: Missing texture 'detailSpecular' in 'tyreMaterial' (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_useYourTyres/shaders/vehicleShader50keda.xml).
 2025-11-04 22:24:56.617 Warning: Missing texture 'detailNormal' in 'tyreMaterial' (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_useYourTyres/shaders/vehicleShader50keda.xml).
 2025-11-04 22:24:56.617 Warning: Missing texture 'detailDiffuse' in 'tyreMaterial' (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_useYourTyres/shaders/vehicleShader50keda.xml).
+2025-11-04 22:44:07.362 data/placeables/brandless/greenhouses/greenHousesSaplings/greenHousesSaplings.i3d (22.09 ms)
+2025-11-04 22:44:07.459 data/placeables/brandless/greenhouses/vegetables/riceSaplings/riceSaplings.i3d (14.17 ms)
+2025-11-04 22:45:43.110 zwierek left the game
+2025-11-04 22:46:50.736 hubsonwaliszot lost connection to the game
+2025-11-04 22:49:51.303 Warning: Send called with unknown target address.
+2025-11-04 22:49:51.313 Figuana left the game
+2025-11-04 22:54:44.438 Game saved successfully (savegame1).
