@@ -14146,3 +14146,14 @@ LUA call stack:
 2025-11-04 15:13:59.238 dataS/character/playerM/hairStyles/hairStyleTopKnot.i3d (33.92 ms)
 2025-11-04 15:13:59.253 dataS/character/playerM/facialHair/mHead02/fullBeard.i3d (14.79 ms)
 2025-11-04 15:23:18.777 Game saved successfully (savegame1).
+2025-11-04 15:32:56.167 w3rny joined the game
+2025-11-04 15:32:56.290 dataS/character/playerM/pants/strauss/motion2020Pants2ndVariant.i3d (107.45 ms)
+2025-11-04 15:32:56.435 dataS/character/playerM/jacket/topVestM.i3d (145.11 ms)
+2025-11-04 15:32:56.437 dataS/character/playerM/attachments/headgearBandana.i3d (2.54 ms)
+2025-11-04 15:32:56.439 dataS/character/playerM/attachments/glassesSports02.i3d (1.59 ms)
+2025-11-04 15:32:56.531 dataS/character/playerM/shoes/sportSneaker.i3d (91.82 ms)
+2025-11-04 15:32:56.542 dataS/character/playerM/facialHair/mHead01/trimmedBeard.i3d (11.21 ms)
+2025-11-04 15:37:32.775 zwierek joined the game
+2025-11-04 15:37:32.792 dataS/character/playerM/shoes/sandalM03.i3d (1.51 ms)
+2025-11-04 15:37:32.823 dataS/character/playerM/hairStyles/hairStyleBaldTop.i3d (31.09 ms)
+2025-11-04 15:37:32.832 dataS/character/playerM/facialHair/mHead01/walrusXL.i3d (8.97 ms)
