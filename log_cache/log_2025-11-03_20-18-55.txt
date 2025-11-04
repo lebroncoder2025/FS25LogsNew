@@ -14223,3 +14223,39 @@ LUA call stack:
 2025-11-04 17:37:56.774 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_mrhHandLiftableConsumables/barrelPlastic/barrelPlastic.i3d (17.24 ms)
 2025-11-04 17:40:25.508 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.60 ms)
 2025-11-04 17:42:10.226 siwa joined the game
+2025-11-04 17:45:46.092 Piotrek joined the game
+2025-11-04 17:45:46.159 dataS/character/playerM/shirts/topTankTop.i3d (48.24 ms)
+2025-11-04 17:45:46.164 dataS/character/playerM/gloves/glovesGeneric.i3d (5.05 ms)
+2025-11-04 17:45:46.175 dataS/character/playerM/attachments/headgearCowboy.i3d (10.49 ms)
+2025-11-04 17:48:07.439 data/vehicles/johnDeere/pickUp1800/pickUp1800.i3d (2.03 ms)
+2025-11-04 17:53:01.527 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Gilles_Pack/i3d/AD49.i3d (210.61 ms)
+2025-11-04 17:53:01.920 data/shared/assets/lights/lizard/sideMarker18.i3d (2.73 ms)
+2025-11-04 17:53:48.318 Game saved successfully (savegame1).
+2025-11-04 18:00:42.697 Paweł left the game
+2025-11-04 18:00:43.289 w3rny left the game
+2025-11-04 18:01:00.725 Warning: Send called with unknown target address.
+2025-11-04 18:01:00.735 hubsonwaliszot left the game
+2025-11-04 18:03:14.043 hubsonwaliszot joined the game
+2025-11-04 18:03:14.345 dataS/character/playerM/shirts/poettinger/poettingerTshirt.i3d (283.85 ms)
+2025-11-04 18:06:45.735 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.61 ms)
+2025-11-04 18:06:48.037 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.61 ms)
+2025-11-04 18:08:05.658 GarbatyAlojzy joined the game
+2025-11-04 18:08:05.784 dataS/character/playerM/pants/strauss/motion2020Pants.i3d (107.46 ms)
+2025-11-04 18:08:05.864 dataS/character/playerM/shirts/poettinger/poettingerSweater.i3d (80.12 ms)
+2025-11-04 18:08:05.866 dataS/character/playerM/attachments/glassesSports02.i3d (1.73 ms)
+2025-11-04 18:08:06.014 dataS/character/playerM/shoes/racing.i3d (148.95 ms)
+2025-11-04 18:08:06.016 dataS/character/playerM/facialHair/mHead01/beardStubble.i3d (1.42 ms)
+2025-11-04 18:11:59.403 siwa lost connection to the game
+2025-11-04 18:12:26.047 dataS/character/playerM/jacket/topDenimJacket.i3d (23.29 ms)
+2025-11-04 18:12:26.080 dataS/character/playerM/hairStyles/hairStyleMidParted01.i3d (33.37 ms)
+2025-11-04 18:13:23.154 Error: Missing dds file 'D:/home/textures/decals_diffuce.dds'
+2025-11-04 18:13:23.155 Error: Missing dds file 'D:/home/textures/decals_diffuce.dds'
+2025-11-04 18:13:23.155 Error: Missing dds file 'D:/home/textures/decals_diffuce.dds'
+2025-11-04 18:13:23.155 Error: Can't load resource 'D:/home/textures/decals_diffuce.dds'.
+2025-11-04 18:13:23.433 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_ZTS_16245/ZTS16245.i3d (437.27 ms)
+2025-11-04 18:13:23.723 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_ZTS_16245/wheels/wheels.i3d (6.20 ms)
+2025-11-04 18:13:23.728 data/shared/wheels/tires/trelleborg/TM700/480_70R30_PT.i3d (4.84 ms)
+2025-11-04 18:13:23.731 data/shared/wheels/rims/rim004.i3d (3.01 ms)
+2025-11-04 18:13:23.734 data/shared/wheels/tires/trelleborg/TM800/710_70R38_SC.i3d (3.51 ms)
+2025-11-04 18:17:22.624 GarbatyAlojzy lost connection to the game
+2025-11-04 18:18:07.649 siwa joined the game
