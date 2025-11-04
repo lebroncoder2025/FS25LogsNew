@@ -7258,3 +7258,29 @@ LUA call stack:
 2025-11-04 08:22:18.813 Game saved successfully (savegame1).
 2025-11-04 08:52:28.634 Game saved successfully (savegame1).
 2025-11-04 09:22:38.378 Game saved successfully (savegame1).
+2025-11-04 09:52:48.117 Game saved successfully (savegame1).
+2025-11-04 10:04:45.855 zwierek joined the game
+2025-11-04 10:04:46.065 dataS/character/playerM/pants/botJeanShorts.i3d (16.39 ms)
+2025-11-04 10:04:46.067 dataS/character/playerM/attachments/glassesAviators.i3d (1.68 ms)
+2025-11-04 10:04:46.158 dataS/character/playerM/shoes/sandalM03.i3d (90.83 ms)
+2025-11-04 10:04:46.189 dataS/character/playerM/hairStyles/hairStyleBaldTop.i3d (30.88 ms)
+2025-11-04 10:04:46.198 dataS/character/playerM/facialHair/mHead01/walrusXL.i3d (8.73 ms)
+2025-11-04 10:11:52.569 Jolero joined the game
+2025-11-04 10:11:52.584 dataS/character/playerM/shirts/topTShirt01.i3d (2.22 ms)
+2025-11-04 10:11:52.618 dataS/character/playerM/hairStyles/hairStyleTopKnot.i3d (33.85 ms)
+2025-11-04 10:11:52.637 dataS/character/playerM/facialHair/mHead01/goatee01.i3d (18.95 ms)
+2025-11-04 10:13:16.144   Info: [Easy Development Controls] User Jolero has logged in as master user.
+2025-11-04 10:13:22.182   Info: Moved player to coordinates 730, 1323 successfully.
+2025-11-04 10:14:41.352 Next available Farm ID identified:
+2025-11-04 10:14:41.352 7.000000
+2025-11-04 10:14:41.352 FarmID => 7
+2025-11-04 10:14:41.352 newFarm FarmID => 7
+2025-11-04 10:15:32.805 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_K700A/K_700A.i3d (957.58 ms)
+2025-11-04 10:15:33.034 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_K700A/whells/whells.i3d (103.43 ms)
+2025-11-04 10:15:35.559   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Kirovets YaMZ-238ND-8'
+2025-11-04 10:15:57.419 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_CaseEcoloTil2500/ecoloTil2500.i3d (83.57 ms)
+2025-11-04 10:15:57.573 data/shared/assets/lights/lizard/rearLight22Orange.i3d (2.57 ms)
+2025-11-04 10:15:57.576 data/shared/assets/lights/lizard/rearLight22Red.i3d (2.71 ms)
+2025-11-04 10:18:40.666   Info: Moved 2 vehicles to coordinates 1521, 1464 successfully.
+2025-11-04 10:22:49.679 Game saved successfully (savegame1).
+2025-11-04 10:24:05.090   Info: Moved 1 vehicles to coordinates 640, 803 successfully.
