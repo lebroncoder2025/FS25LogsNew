@@ -14465,3 +14465,44 @@ LUA call stack:
 2025-11-04 21:38:40.195 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_rootCropStorage/rootCropStorage.i3d (81.65 ms)
 2025-11-04 21:38:40.243 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_rootCropStorage/assets/filltypeIcons.i3d (30.33 ms)
 2025-11-04 21:38:40.246 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_rootCropStorage/assets/pileGroup.i3d (2.51 ms)
+2025-11-04 21:54:22.202 Game saved successfully (savegame1).
+2025-11-04 21:55:25.071 Game saved successfully (savegame1).
+2025-11-04 22:01:18.465   Info: No 'ExhaustExtension' particle system added to vehicle 'Lizard Screw conveyor' because it has no exhaust
+2025-11-04 22:01:45.574   Info: Successfully emptied fill unit 1 of Farmtech Fortis 3000.
+2025-11-04 22:03:17.915 dataS/character/playerF/pants/botCargo.i3d (18.15 ms)
+2025-11-04 22:03:17.940 dataS/character/playerF/jacket/topVest.i3d (25.14 ms)
+2025-11-04 22:03:17.943 dataS/character/playerF/shoes/workboot02.i3d (3.10 ms)
+2025-11-04 22:03:17.978 dataS/character/playerF/hairStyles/hairStylePonyTail03.i3d (34.04 ms)
+2025-11-04 22:08:22.548 Warning: Loading file with invalid case 'D:/home/sid_8377223/farmingSim_2025/game/data/shaders/glowshader.xml'.
+2025-11-04 22:08:22.770 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Modern_Classics_DLC/jcb525-67/jcb525-67.i3d (256.59 ms)
+2025-11-04 22:08:22.835   Error (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Modern_Classics_DLC/jcb525-67/jcb525-67.xml): Sound template 'hydraulicLayerTone2' was not found in vehicle.cylindered.sounds.actionSound(0)
+2025-11-04 22:08:22.835   Error (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Modern_Classics_DLC/jcb525-67/jcb525-67.xml): Sound template 'hydraulicLayerTone' was not found in vehicle.cylindered.sounds.actionSound(1)
+2025-11-04 22:08:22.836   Error (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Modern_Classics_DLC/jcb525-67/jcb525-67.xml): Sound template 'hydraulicLayerTone2' was not found in vehicle.cylindered.sounds.actionSound(2)
+2025-11-04 22:08:22.836   Error (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Modern_Classics_DLC/jcb525-67/jcb525-67.xml): Sound template 'defaultHydraulicSound' was not found in vehicle.cylindered.sounds.actionSound(3)
+2025-11-04 22:08:22.866 data/shared/wheels/tires/trelleborg/TH400/460_70R24.i3d (3.02 ms)
+2025-11-04 22:08:22.923   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Modern_Classics_DLC/jcb525-67/jcb525-67.xml): Missing exactFillRootNode for fuel fill unit (1).
+2025-11-04 22:08:22.946   Error (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Modern_Classics_DLC/jcb525-67/jcb525-67.xml): Sound template 'WATER_SPLASH_01' was not found in vehicle.drivable.sounds.waterSplash
+2025-11-04 22:08:22.965   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Modern_Classics_DLC/jcb525-67/jcb525-67.xml): Light has been renamed from 'hellaWorkingLightSquare_01_front' to 'hellaWorkingLight05'!
+2025-11-04 22:08:22.965   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Modern_Classics_DLC/jcb525-67/jcb525-67.xml): Light has been renamed from 'hellaWorkingLightSquare_01_front' to 'hellaWorkingLight05'!
+2025-11-04 22:08:22.965   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Modern_Classics_DLC/jcb525-67/jcb525-67.xml): Light has been renamed from 'hellaWorkingLightSquare_01_back' to 'hellaWorkingLight05'!
+2025-11-04 22:08:22.965   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Modern_Classics_DLC/jcb525-67/jcb525-67.xml): Light has been renamed from 'hellaWorkingLightSquare_01_back' to 'hellaWorkingLight05'!
+2025-11-04 22:08:22.965   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Modern_Classics_DLC/jcb525-67/jcb525-67.xml): Light has been renamed from 'hellaWorkingLightSquare_01_back' to 'hellaWorkingLight05'!
+2025-11-04 22:08:22.965   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Modern_Classics_DLC/jcb525-67/jcb525-67.xml): Light has been renamed from 'hellaWorkingLightSquare_01_back' to 'hellaWorkingLight05'!
+2025-11-04 22:08:22.968   Error (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Modern_Classics_DLC/masseyFerguson390t/sounds/masseyFerguson390t_sounds.xml): Sound template 'SWITCH_01' was not found in sounds.lights.sounds.toggleLights
+2025-11-04 22:08:22.968   Error (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Modern_Classics_DLC/jcb525-67/jcb525-67.xml): Sound template 'SWITCH_TURNLIGHT' was not found in vehicle.lights.sounds.turnLight
+2025-11-04 22:08:22.992   Error (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Modern_Classics_DLC/jcb525-67/jcb525-67.xml): Sound template 'defaultHydraulicSound' was not found in vehicle.attacherJoints.sounds.hydraulic
+2025-11-04 22:08:22.992   Error (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Modern_Classics_DLC/jcb525-67/jcb525-67.xml): Sound template 'ATTACH_01' was not found in vehicle.attacherJoints.sounds.attach
+2025-11-04 22:08:23.009   Error (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Modern_Classics_DLC/jcb525-67/jcb525-67.xml): Sound template 'HONK_MANITOU' was not found in vehicle.honk.sound
+2025-11-04 22:08:40.206 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_JCB_Attachments/grainBucket3m3/grainBucket.i3d (13.01 ms)
+2025-11-04 22:08:45.129   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'JCB 575-67'
+2025-11-04 22:10:36.555   Info: Successfully emptied fill unit 1 of Lizard MKS 8.
+2025-11-04 22:12:54.539   Info: Moved 2 vehicles to coordinates 928, 924 successfully.
+2025-11-04 22:13:02.269 blaze left the game
+2025-11-04 22:13:28.706   Info: Moved 2 vehicles to coordinates 642, 870 successfully.
+2025-11-04 22:14:49.720   Info: Adding pallet.
+2025-11-04 22:14:49.953   Info: Adding pallet.
+2025-11-04 22:14:50.306   Info: Adding pallet.
+2025-11-04 22:14:50.822   Info: Adding pallet.
+2025-11-04 22:14:50.986   Info: Adding pallet.
+2025-11-04 22:15:59.198 Game saved successfully (savegame1).
+2025-11-04 22:16:00.854 Jolero left the game
