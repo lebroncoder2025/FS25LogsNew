@@ -7348,3 +7348,7 @@ LUA call stack:
 2025-11-04 11:23:45.910 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_productionDecorationPack/pallets.i3d (1.87 ms)
 2025-11-04 11:24:44.493 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_OldFarmBuildingSet/ShedAuto.i3d (61.39 ms)
 2025-11-04 11:25:36.736 data/maps/trees/tiliaAmurensis/tiliaAmurensis_stage04.i3d (7.48 ms)
+2025-11-04 11:33:03.638   Info: Successfully set fill unit 1 of Lizard MKS 8 to Water with a fill level of 8,000 liters.
+2025-11-04 11:34:51.171 Jolero left the game
+2025-11-04 11:34:52.109 Game saved successfully (savegame1).
+2025-11-04 11:37:39.417   Info: No 'ExhaustExtension' particle system added to vehicle 'Kärcher HDS 9/18-4 M' because it has no exhaust
