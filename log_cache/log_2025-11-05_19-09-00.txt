@@ -5464,3 +5464,8 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-05 22:21:01.478 data/shared/wheels/weights/cnh/weight001.i3d (2.51 ms)
 2025-11-05 22:21:01.480 data/shared/wheels/tires/trelleborg/TM800/600_65R38.i3d (2.29 ms)
 2025-11-05 22:21:05.380   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'New Holland T6.160'
+2025-11-05 22:21:38.087 data/shared/wheels/tires/trelleborg/TM800/540_65R28.i3d (2.54 ms)
+2025-11-05 22:21:38.091 data/shared/wheels/tires/trelleborg/TM700/620_70R42.i3d (2.60 ms)
+2025-11-05 22:21:49.945   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'New Holland T6.160'
+2025-11-05 22:25:37.680 data/objects/pallets/liquidTank/liquidTank.i3d (4.22 ms)
+2025-11-05 22:27:01.041 data/objects/pallets/liquidTank/liquidTank.i3d (4.09 ms)
