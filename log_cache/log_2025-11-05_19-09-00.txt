@@ -5411,3 +5411,56 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-05 21:21:29.626 w3rny lost connection to the game
 2025-11-05 21:21:48.938   Info: Moved 3 vehicles to coordinates 1210, 364 successfully.
 2025-11-05 21:37:50.786 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_RounderWrappedRoundbales/assets/roundbale180/roundbale180.i3d (2.04 ms)
+2025-11-05 21:42:31.234 Game saved successfully (savegame1).
+2025-11-05 21:43:56.112   Info: Successfully set fill unit 1 of Strautmann Tera-Vitesse CFS 4601 DO to Hay with a fill level of 45,000 liters.
+2025-11-05 21:44:47.594   Info: Successfully set fill unit 1 of Strautmann Tera-Vitesse CFS 4601 DO to Hay with a fill level of 45,000 liters.
+2025-11-05 21:45:17.248   Info: Successfully set fill unit 1 of Strautmann Tera-Vitesse CFS 4601 DO to Hay with a fill level of 45,000 liters.
+2025-11-05 21:46:26.970   Info: Successfully set fill unit 1 of Strautmann Tera-Vitesse CFS 4601 DO to Hay with a fill level of 45,000 liters.
+2025-11-05 21:46:46.002   Info: Successfully set fill unit 1 of Strautmann Tera-Vitesse CFS 4601 DO to Hay with a fill level of 45,000 liters.
+2025-11-05 21:46:48.422 data/shared/wheels/tires/trelleborg/TM900/600_70R28.i3d (3.07 ms)
+2025-11-05 21:46:48.423 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_CasePumaCVX_Tier3/wheels/rimBack.i3d (1.14 ms)
+2025-11-05 21:46:48.426 data/shared/wheels/tires/trelleborg/TM900/650_75R38.i3d (2.46 ms)
+2025-11-05 21:47:09.975   Info: Successfully set fill unit 1 of Strautmann Tera-Vitesse CFS 4601 DO to Hay with a fill level of 45,000 liters.
+2025-11-05 21:47:25.733   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Case IH 160 CVX'
+2025-11-05 21:47:53.561   Info: Successfully set fill unit 1 of Strautmann Tera-Vitesse CFS 4601 DO to Straw with a fill level of 45,000 liters.
+2025-11-05 21:50:27.266   Info: Successfully set fill unit 1 of Lizard MKS 8 to Water with a fill level of 8,000 liters.
+2025-11-05 21:50:50.520   Info: Successfully set fill unit 1 of Lizard MKS 8 to Water with a fill level of 8,000 liters.
+2025-11-05 21:51:13.595   Info: The condition of Fendt 620 Vario - 50km/h and all connected implements updated.
+2025-11-05 21:51:14.429   Info: Successfully set fill unit 1 of Lizard MKS 8 to Water with a fill level of 8,000 liters.
+2025-11-05 21:51:33.686   Info: Successfully set fill unit 1 of Lizard MKS 8 to Water with a fill level of 8,000 liters.
+2025-11-05 21:51:50.015   Info: Successfully set fill unit 1 of Lizard MKS 8 to Water with a fill level of 8,000 liters.
+2025-11-05 21:52:26.451 Warning: Send called with unknown target address.
+2025-11-05 21:52:26.468 Warning: Send called with unknown target address.
+2025-11-05 21:52:26.468 Jolero left the game
+2025-11-05 21:52:29.742 Game saved successfully (savegame1).
+2025-11-05 21:56:10.816   Info: No 'ExhaustExtension' particle system added to vehicle 'Kärcher HDS 9/18-4 M' because it has no exhaust
+2025-11-05 22:00:11.041 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Modern_Classics_DLC/lizardTA18/lizardTA18.i3d (127.32 ms)
+2025-11-05 22:00:11.122   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Modern_Classics_DLC/lizardTA18/lizardTA18.xml): 'vehicle.baseMaterial' is not supported anymore!
+2025-11-05 22:00:11.122   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Modern_Classics_DLC/lizardTA18/lizardTA18.xml): 'vehicle.baseMaterialConfigurations' is not supported anymore, use 'vehicle.designColorConfigurations' instead!
+2025-11-05 22:00:11.123   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Modern_Classics_DLC/lizardTA18/lizardTA18.xml): 'vehicle.designMaterialConfigurations' is not supported anymore, use 'vehicle.designColorConfigurations' instead!
+2025-11-05 22:00:11.168   Error (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Modern_Classics_DLC/lizardTA18/lizardTA18.xml): Sound template 'defaultHydraulicSound' was not found in vehicle.cylindered.sounds.hydraulic
+2025-11-05 22:00:11.204 data/shared/wheels/tires/lizard/implement/315_80R22_5.i3d (4.18 ms)
+2025-11-05 22:00:11.256   Error (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Modern_Classics_DLC/lizardTA18/lizardTA18.xml): Sound template 'ATTACH_01' was not found in vehicle.attacherJoints.sounds.attach
+2025-11-05 22:01:57.354 siejA joined the game
+2025-11-05 22:01:57.481 dataS/character/playerM/fullBody/strauss/motion2020PantsVariant2ndVariant.i3d (110.80 ms)
+2025-11-05 22:06:30.479 zwierek lost connection to the game
+2025-11-05 22:07:45.745 zwierek joined the game
+2025-11-05 22:07:45.765 dataS/character/playerM/shoes/sandalM03.i3d (1.49 ms)
+2025-11-05 22:07:45.797 dataS/character/playerM/hairStyles/hairStyleBaldTop.i3d (32.08 ms)
+2025-11-05 22:07:45.807 dataS/character/playerM/facialHair/mHead01/walrusXL.i3d (9.27 ms)
+2025-11-05 22:12:42.274 Game saved successfully (savegame1).
+2025-11-05 22:14:41.214 dataS/character/playerF/pants/botCargo.i3d (18.01 ms)
+2025-11-05 22:14:41.239 dataS/character/playerF/jacket/topVest.i3d (25.23 ms)
+2025-11-05 22:14:41.243 dataS/character/playerF/shoes/workboot02.i3d (3.39 ms)
+2025-11-05 22:14:41.281 dataS/character/playerF/hairStyles/hairStylePonyTail03.i3d (37.98 ms)
+2025-11-05 22:16:26.016 dataS/character/playerM/jacket/topDenimJacket.i3d (23.37 ms)
+2025-11-05 22:16:26.050 dataS/character/playerM/hairStyles/hairStyleMidParted01.i3d (33.37 ms)
+2025-11-05 22:18:39.782 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_NewHollandT6000/newHollandT6.i3d (525.86 ms)
+2025-11-05 22:18:40.053 data/shared/wheels/tires/trelleborg/TM700/420_70R28.i3d (2.91 ms)
+2025-11-05 22:18:40.056 data/shared/wheels/tires/trelleborg/TM700/520_70R38.i3d (2.72 ms)
+2025-11-05 22:18:40.270 data/shared/assets/upperLinks/walterscheidHO_110_610.i3d (4.09 ms)
+2025-11-05 22:18:58.861   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'New Holland T6.140'
+2025-11-05 22:21:01.475 data/shared/wheels/tires/trelleborg/TM700/480_70R26.i3d (7.56 ms)
+2025-11-05 22:21:01.478 data/shared/wheels/weights/cnh/weight001.i3d (2.51 ms)
+2025-11-05 22:21:01.480 data/shared/wheels/tires/trelleborg/TM800/600_65R38.i3d (2.29 ms)
+2025-11-05 22:21:05.380   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'New Holland T6.160'
