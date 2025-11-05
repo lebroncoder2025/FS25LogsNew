@@ -5311,3 +5311,25 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-05 19:27:20.654 dataS/character/playerM/pants/poettinger/poettingerShort.i3d (141.37 ms)
 2025-11-05 19:27:20.748 dataS/character/playerM/shirts/topTShirt02.i3d (93.74 ms)
 2025-11-05 19:32:30.953   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'STEYR 8130 Turbo'
+2025-11-05 19:36:49.255   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'STEYR 8130 Super Elite'
+2025-11-05 19:36:59.136 blaze joined the game
+2025-11-05 19:37:12.975   Info: Added € 70,000 to farm account. (3)
+2025-11-05 19:37:36.600 data/shared/assets/reflectors/lizard/redRectangle_01.i3d (1.21 ms)
+2025-11-05 19:37:36.608 data/vehicles/grimme/gl420/gl420.i3d (38.60 ms)
+2025-11-05 19:37:36.803 data/shared/assets/lights/lizard/rearLight03.i3d (3.41 ms)
+2025-11-05 19:38:25.932 w3rny joined the game
+2025-11-05 19:38:26.054 dataS/character/playerM/pants/strauss/motion2020Pants2ndVariant.i3d (107.57 ms)
+2025-11-05 19:38:26.285 dataS/character/playerM/jacket/topVestM.i3d (147.39 ms)
+2025-11-05 19:38:26.288 dataS/character/playerM/attachments/headgearBandana.i3d (2.84 ms)
+2025-11-05 19:38:26.290 dataS/character/playerM/attachments/glassesSports02.i3d (1.84 ms)
+2025-11-05 19:38:26.382 dataS/character/playerM/shoes/sportSneaker.i3d (91.76 ms)
+2025-11-05 19:38:26.412 dataS/character/playerM/facialHair/mHead01/trimmedBeard.i3d (11.61 ms)
+2025-11-05 19:38:58.777   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Case IH 160 CVX'
+2025-11-05 19:39:43.828   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'New Holland 8340'
+2025-11-05 19:39:49.757   Info: Updated field 127 successfully (3) (1)
+2025-11-05 19:40:52.578   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Ursus C-385A Fast transmission'
+2025-11-05 19:41:56.032 Game saved successfully (savegame1).
+2025-11-05 19:42:32.667   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'BELARUS 82'
+2025-11-05 19:42:37.147 data/objects/pallets/goatMilkCanPallet/goatMilkCanPallet.i3d (2.24 ms)
+2025-11-05 19:44:36.874   Info: Savegame Setting 'fruitDesctructionEnabled': true
+2025-11-05 19:46:24.463 symonixprime lost connection to the game
