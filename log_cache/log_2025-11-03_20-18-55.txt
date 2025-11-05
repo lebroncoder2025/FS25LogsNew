@@ -14598,3 +14598,27 @@ LUA call stack:
 2025-11-05 08:01:52.203 data/placeables/brandless/greenhouses/greenHousesSaplings/greenHousesSaplings.i3d (19.40 ms)
 2025-11-05 08:01:52.302 data/placeables/brandless/greenhouses/vegetables/riceSaplings/riceSaplings.i3d (8.59 ms)
 2025-11-05 08:25:42.999 Game saved successfully (savegame1).
+2025-11-05 08:55:45.438 Game saved successfully (savegame1).
+2025-11-05 08:56:32.987 zwierek joined the game
+2025-11-05 08:56:33.020 dataS/character/playerM/pants/botJeanShorts.i3d (16.44 ms)
+2025-11-05 08:56:33.022 dataS/character/playerM/attachments/glassesAviators.i3d (1.62 ms)
+2025-11-05 08:56:33.113 dataS/character/playerM/shoes/sandalM03.i3d (90.81 ms)
+2025-11-05 08:56:33.145 dataS/character/playerM/hairStyles/hairStyleBaldTop.i3d (30.93 ms)
+2025-11-05 08:56:33.153 dataS/character/playerM/facialHair/mHead01/walrusXL.i3d (8.80 ms)
+2025-11-05 09:02:54.133 hubsonwaliszot left the game
+2025-11-05 09:25:30.133 dataS/character/playerF/pants/botChinos.i3d (14.69 ms)
+2025-11-05 09:25:30.263 dataS/character/playerF/heads/fHead06.i3d (130.33 ms)
+2025-11-05 09:25:30.317 dataS/character/playerF/shirts/topBlouse.i3d (53.17 ms)
+2025-11-05 09:25:30.321 dataS/character/playerF/shoes/sneaker01.i3d (3.69 ms)
+2025-11-05 09:25:30.362 dataS/character/playerF/hairStyles/hairStyleMidSideParted.i3d (41.73 ms)
+2025-11-05 09:25:32.695 dataS/character/playerF/pants/botChinos.i3d (13.58 ms)
+2025-11-05 09:25:32.807 dataS/character/playerF/heads/fHead06.i3d (111.45 ms)
+2025-11-05 09:25:32.860 dataS/character/playerF/shirts/topBlouse.i3d (53.34 ms)
+2025-11-05 09:25:32.863 dataS/character/playerF/shoes/sneaker01.i3d (2.68 ms)
+2025-11-05 09:25:32.898 dataS/character/playerF/hairStyles/hairStyleMidSideParted.i3d (34.93 ms)
+2025-11-05 09:25:43.256 dataS/character/playerM/fullBody/onePieceMechanic.i3d (36.74 ms)
+2025-11-05 09:25:43.272 dataS/character/playerM/heads/mHead02.i3d (15.84 ms)
+2025-11-05 09:25:43.295 dataS/character/playerM/shoes/riding.i3d (22.57 ms)
+2025-11-05 09:25:43.472 dataS/character/playerM/hairStyles/hairStyleUnkempt.i3d (178.31 ms)
+2025-11-05 09:25:43.493 dataS/character/playerM/facialHair/mHead02/goatee01.i3d (21.03 ms)
+2025-11-05 09:25:45.658 Game saved successfully (savegame1).
