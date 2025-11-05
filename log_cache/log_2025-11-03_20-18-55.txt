@@ -14751,3 +14751,8 @@ LUA call stack:
 2025-11-05 16:03:46.505 dataS/character/playerM/heads/mHead03.i3d (235.97 ms)
 2025-11-05 16:03:46.539 dataS/character/playerM/hairStyles/hairStyleMidParted01.i3d (33.21 ms)
 2025-11-05 16:26:50.357 Game saved successfully (savegame1).
+2025-11-05 16:56:52.096 Game saved successfully (savegame1).
+2025-11-05 17:03:21.342 siwa joined the game
+2025-11-05 17:15:07.253 siwa left the game
+2025-11-05 17:16:48.079 w3rny lost connection to the game
+2025-11-05 17:26:52.689 Game saved successfully (savegame1).
