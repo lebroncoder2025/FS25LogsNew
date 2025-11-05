@@ -14633,3 +14633,6 @@ LUA call stack:
 2025-11-05 10:13:01.303 dataS/character/playerM/hairStyles/hairStyleMidParted01.i3d (38.40 ms)
 2025-11-05 10:13:01.305 dataS/character/playerM/facialHair/mHead01/beardStubble.i3d (1.44 ms)
 2025-11-05 10:25:48.755 Game saved successfully (savegame1).
+2025-11-05 10:27:39.029 Warning: Send called with unknown target address.
+2025-11-05 10:27:39.043 zwierek left the game
+2025-11-05 10:32:19.093 hubsonwaliszot left the game
