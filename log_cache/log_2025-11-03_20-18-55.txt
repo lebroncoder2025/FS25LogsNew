@@ -14649,3 +14649,12 @@ LUA call stack:
 2025-11-05 11:56:11.582 Game saved successfully (savegame1).
 2025-11-05 12:01:48.984 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.55 ms)
 2025-11-05 12:10:55.915 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.56 ms)
+2025-11-05 12:23:55.761 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.59 ms)
+2025-11-05 12:26:12.672 Game saved successfully (savegame1).
+2025-11-05 12:32:04.456 siwa joined the game
+2025-11-05 12:33:51.461 zwierek joined the game
+2025-11-05 12:33:51.494 dataS/character/playerM/pants/botJeanShorts.i3d (16.54 ms)
+2025-11-05 12:33:51.495 dataS/character/playerM/attachments/glassesAviators.i3d (1.70 ms)
+2025-11-05 12:33:51.587 dataS/character/playerM/shoes/sandalM03.i3d (91.11 ms)
+2025-11-05 12:33:51.618 dataS/character/playerM/hairStyles/hairStyleBaldTop.i3d (31.36 ms)
+2025-11-05 12:33:51.627 dataS/character/playerM/facialHair/mHead01/walrusXL.i3d (8.94 ms)
