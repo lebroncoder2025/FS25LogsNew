@@ -14733,3 +14733,9 @@ LUA call stack:
 2025-11-05 15:20:09.330   Info: Successfully set fill unit 1 of Farmtech Fortis 3000 to Hay with a fill level of 55,000 liters.
 2025-11-05 15:20:30.127   Info: Successfully set fill unit 1 of Farmtech Fortis 3000 to Hay with a fill level of 55,000 liters.
 2025-11-05 15:20:41.580   Info: Successfully set fill unit 1 of Farmtech Fortis 3000 to Straw with a fill level of 55,000 liters.
+2025-11-05 15:26:44.229 Game saved successfully (savegame1).
+2025-11-05 15:27:36.614 symonixprime joined the game
+2025-11-05 15:27:36.815 dataS/character/playerM/pants/poettinger/poettingerShort.i3d (186.11 ms)
+2025-11-05 15:27:36.938 dataS/character/playerM/shirts/topTShirt02.i3d (123.78 ms)
+2025-11-05 15:27:37.032 dataS/character/playerM/shoes/sandalM02.i3d (93.70 ms)
+2025-11-05 15:38:04.037 Jolero left the game
