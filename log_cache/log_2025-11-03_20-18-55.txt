@@ -14638,3 +14638,14 @@ LUA call stack:
 2025-11-05 10:32:19.093 hubsonwaliszot left the game
 2025-11-05 10:56:01.984 Game saved successfully (savegame1).
 2025-11-05 11:26:11.324 Game saved successfully (savegame1).
+2025-11-05 11:43:35.162 w3rny joined the game
+2025-11-05 11:43:35.468 dataS/character/playerM/pants/strauss/motion2020Pants2ndVariant.i3d (106.77 ms)
+2025-11-05 11:43:35.614 dataS/character/playerM/jacket/topVestM.i3d (146.29 ms)
+2025-11-05 11:43:35.617 dataS/character/playerM/attachments/headgearBandana.i3d (2.54 ms)
+2025-11-05 11:43:35.618 dataS/character/playerM/attachments/glassesSports02.i3d (1.53 ms)
+2025-11-05 11:43:35.711 dataS/character/playerM/shoes/sportSneaker.i3d (92.67 ms)
+2025-11-05 11:43:35.746 dataS/character/playerM/hairStyles/hairStyleTopKnot.i3d (35.06 ms)
+2025-11-05 11:43:35.758 dataS/character/playerM/facialHair/mHead01/trimmedBeard.i3d (11.20 ms)
+2025-11-05 11:56:11.582 Game saved successfully (savegame1).
+2025-11-05 12:01:48.984 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.55 ms)
+2025-11-05 12:10:55.915 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.56 ms)
