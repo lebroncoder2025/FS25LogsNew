@@ -14561,3 +14561,10 @@ LUA call stack:
 2025-11-04 23:49:51.702 data/placeables/brandless/productionPointsSmall/sugarMill/sugarMill.i3d (5.23 ms)
 2025-11-04 23:54:45.663 Game saved successfully (savegame1).
 2025-11-05 00:24:47.851 Game saved successfully (savegame1).
+2025-11-05 00:54:52.145 Game saved successfully (savegame1).
+2025-11-05 01:00:07.388   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'BELARUS 82'
+2025-11-05 01:24:55.439 Game saved successfully (savegame1).
+2025-11-05 01:54:55.697 Game saved successfully (savegame1).
+2025-11-05 02:24:55.964 Game saved successfully (savegame1).
+2025-11-05 02:44:49.909 data/vehicles/fliegl/ruby/ruby.i3d (12.84 ms)
+2025-11-05 02:46:30.788 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_tenwinkelWeightPackage/fpPac600.i3d (2.61 ms)
