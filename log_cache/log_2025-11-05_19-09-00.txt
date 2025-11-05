@@ -5535,3 +5535,14 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-05 23:16:53.644 dataS/character/playerF/jacket/topVest.i3d (25.30 ms)
 2025-11-05 23:16:53.647 dataS/character/playerF/shoes/workboot02.i3d (3.38 ms)
 2025-11-05 23:16:53.683 dataS/character/playerF/hairStyles/hairStylePonyTail03.i3d (35.63 ms)
+2025-11-05 23:24:06.246 zone left the game
+2025-11-05 23:28:16.186 zwierek lost connection to the game
+2025-11-05 23:28:52.416 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.73 ms)
+2025-11-05 23:28:52.503 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_mrhHandLiftableConsumables/barrelPlastic/barrelPlastic.i3d (31.66 ms)
+2025-11-05 23:29:14.327 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.62 ms)
+2025-11-05 23:29:14.398 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_mrhHandLiftableConsumables/barrelPlastic/barrelPlastic.i3d (18.04 ms)
+2025-11-05 23:29:46.382 dataS/character/playerF/pants/botJeansCapris.i3d (20.72 ms)
+2025-11-05 23:29:46.577 dataS/character/playerF/heads/fHead03.i3d (195.15 ms)
+2025-11-05 23:29:46.579 dataS/character/playerF/shirts/topTankTop.i3d (2.02 ms)
+2025-11-05 23:29:46.582 dataS/character/playerF/shoes/sneaker01.i3d (2.76 ms)
+2025-11-05 23:30:46.035 siejA lost connection to the game
