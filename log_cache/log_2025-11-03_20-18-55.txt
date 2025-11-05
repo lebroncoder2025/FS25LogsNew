@@ -14756,3 +14756,15 @@ LUA call stack:
 2025-11-05 17:15:07.253 siwa left the game
 2025-11-05 17:16:48.079 w3rny lost connection to the game
 2025-11-05 17:26:52.689 Game saved successfully (savegame1).
+2025-11-05 17:43:07.759 Jolero joined the game
+2025-11-05 17:43:07.774 dataS/character/playerM/shirts/topTShirt01.i3d (2.33 ms)
+2025-11-05 17:44:09.430   Info: [Easy Development Controls] User Jolero has logged in as master user.
+2025-11-05 17:44:21.649   Info: Moved player to coordinates 1636, 427 successfully.
+2025-11-05 17:44:34.706   Info: Updated field 139 successfully (3) (1)
+2025-11-05 17:44:41.840   Info: Updated field 139 successfully (3) (1)
+2025-11-05 17:45:12.442   Info: Updated field 124 successfully (3) (1)
+2025-11-05 17:45:17.984 Jolero left the game
+2025-11-05 17:46:27.246 Jolero joined the game
+2025-11-05 17:46:27.265 dataS/character/playerM/shirts/topTShirt01.i3d (2.32 ms)
+2025-11-05 17:47:19.018   Info: [Easy Development Controls] User Jolero has logged in as master user.
+2025-11-05 17:47:29.941   Info: Moved player to coordinates 676, 918 successfully.
