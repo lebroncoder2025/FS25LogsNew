@@ -14739,3 +14739,14 @@ LUA call stack:
 2025-11-05 15:27:36.938 dataS/character/playerM/shirts/topTShirt02.i3d (123.78 ms)
 2025-11-05 15:27:37.032 dataS/character/playerM/shoes/sandalM02.i3d (93.70 ms)
 2025-11-05 15:38:04.037 Jolero left the game
+2025-11-05 15:49:03.743 Paweł joined the game
+2025-11-05 15:49:03.875 dataS/character/playerM/jacket/claas/claasTop.i3d (117.41 ms)
+2025-11-05 15:49:03.879 dataS/character/playerM/attachments/headgearBeanie.i3d (4.54 ms)
+2025-11-05 15:49:03.881 dataS/character/playerM/attachments/glassesAviators.i3d (1.42 ms)
+2025-11-05 15:49:03.911 dataS/character/playerM/shoes/crok.i3d (29.97 ms)
+2025-11-05 15:49:03.930 dataS/character/playerM/facialHair/mHead01/goatee01.i3d (19.19 ms)
+2025-11-05 15:56:45.971 Game saved successfully (savegame1).
+2025-11-05 15:57:46.088 zone lost connection to the game
+2025-11-05 16:03:46.269 dataS/character/playerM/pants/botLeather.i3d (21.36 ms)
+2025-11-05 16:03:46.505 dataS/character/playerM/heads/mHead03.i3d (235.97 ms)
+2025-11-05 16:03:46.539 dataS/character/playerM/hairStyles/hairStyleMidParted01.i3d (33.21 ms)
