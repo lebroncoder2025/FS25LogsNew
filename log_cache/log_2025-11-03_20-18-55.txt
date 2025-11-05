@@ -14581,3 +14581,14 @@ LUA call stack:
 2025-11-05 05:25:16.537 Game saved successfully (savegame1).
 2025-11-05 05:55:26.282 Game saved successfully (savegame1).
 2025-11-05 06:25:35.424 Game saved successfully (savegame1).
+2025-11-05 06:51:34.085 M@rcin joined the game
+2025-11-05 06:51:34.302 dataS/character/playerM/jacket/topAviatorJacket.i3d (18.48 ms)
+2025-11-05 06:51:34.303 dataS/character/playerM/attachments/glassesAviators.i3d (1.48 ms)
+2025-11-05 06:51:34.336 dataS/character/playerM/hairStyles/hairStyleDiablo.i3d (32.47 ms)
+2025-11-05 06:51:34.337 dataS/character/playerM/facialHair/mHead01/beardStubble.i3d (1.32 ms)
+2025-11-05 06:55:37.975 Game saved successfully (savegame1).
+2025-11-05 07:18:04.465 hubsonwaliszot joined the game
+2025-11-05 07:18:04.843 dataS/character/playerM/shirts/poettinger/poettingerTshirt.i3d (360.82 ms)
+2025-11-05 07:19:20.106 M@rcin lost connection to the game
+2025-11-05 07:25:38.278 Game saved successfully (savegame1).
+2025-11-05 07:34:14.057 data/objects/pallets/liquidTank/liquidTank.i3d (3.11 ms)
