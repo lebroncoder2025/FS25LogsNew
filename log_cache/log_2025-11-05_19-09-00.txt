@@ -5546,3 +5546,12 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-05 23:29:46.579 dataS/character/playerF/shirts/topTankTop.i3d (2.02 ms)
 2025-11-05 23:29:46.582 dataS/character/playerF/shoes/sneaker01.i3d (2.76 ms)
 2025-11-05 23:30:46.035 siejA lost connection to the game
+2025-11-05 23:43:16.138 Game saved successfully (savegame1).
+2025-11-05 23:43:55.590 dataS/character/playerM/fullBody/onePieceMechanic.i3d (29.13 ms)
+2025-11-05 23:43:55.605 dataS/character/playerM/heads/mHead02.i3d (15.55 ms)
+2025-11-05 23:43:55.623 dataS/character/playerM/shoes/riding.i3d (17.29 ms)
+2025-11-05 23:43:55.659 dataS/character/playerM/hairStyles/hairStyleUnkempt.i3d (36.45 ms)
+2025-11-05 23:43:55.679 dataS/character/playerM/facialHair/mHead02/goatee01.i3d (19.27 ms)
+2025-11-05 23:50:34.164 hubsonwaliszot left the game
+2025-11-06 00:04:55.695 Piotrek left the game
+2025-11-06 00:13:27.263 Game saved successfully (savegame1).
