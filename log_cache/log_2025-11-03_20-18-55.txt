@@ -14668,3 +14668,8 @@ LUA call stack:
 2025-11-05 13:26:21.621 Game saved successfully (savegame1).
 2025-11-05 13:56:32.090 Game saved successfully (savegame1).
 2025-11-05 14:26:42.038 Game saved successfully (savegame1).
+2025-11-05 14:46:18.315 Jolero joined the game
+2025-11-05 14:46:18.522 dataS/character/playerM/shirts/topTShirt01.i3d (8.13 ms)
+2025-11-05 14:46:18.555 dataS/character/playerM/hairStyles/hairStyleTopKnot.i3d (33.72 ms)
+2025-11-05 14:46:18.577 dataS/character/playerM/facialHair/mHead01/goatee01.i3d (21.67 ms)
+2025-11-05 14:47:21.406   Info: [Easy Development Controls] User Jolero has logged in as master user.
