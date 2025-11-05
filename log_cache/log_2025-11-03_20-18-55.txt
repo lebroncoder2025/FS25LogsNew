@@ -14658,3 +14658,11 @@ LUA call stack:
 2025-11-05 12:33:51.587 dataS/character/playerM/shoes/sandalM03.i3d (91.11 ms)
 2025-11-05 12:33:51.618 dataS/character/playerM/hairStyles/hairStyleBaldTop.i3d (31.36 ms)
 2025-11-05 12:33:51.627 dataS/character/playerM/facialHair/mHead01/walrusXL.i3d (8.94 ms)
+2025-11-05 12:48:17.147   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Fendt 620 Vario - 50km/h'
+2025-11-05 12:49:20.489 w3rny lost connection to the game
+2025-11-05 12:56:14.932 Game saved successfully (savegame1).
+2025-11-05 12:59:33.965 siwa lost connection to the game
+2025-11-05 13:01:14.565 siwa joined the game
+2025-11-05 13:04:10.310 siwa lost connection to the game
+2025-11-05 13:22:55.541 zwierek lost connection to the game
+2025-11-05 13:26:21.621 Game saved successfully (savegame1).
