@@ -5555,3 +5555,18 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-05 23:50:34.164 hubsonwaliszot left the game
 2025-11-06 00:04:55.695 Piotrek left the game
 2025-11-06 00:13:27.263 Game saved successfully (savegame1).
+2025-11-06 00:34:40.327 Lewy joined the game
+2025-11-06 00:34:40.668 dataS/character/playerM/pants/poettinger/poettingerShort.i3d (142.41 ms)
+2025-11-06 00:34:40.763 dataS/character/playerM/jacket/claas/claasTop.i3d (94.60 ms)
+2025-11-06 00:34:40.767 dataS/character/playerM/attachments/headgearBeanie.i3d (4.22 ms)
+2025-11-06 00:34:40.769 dataS/character/playerM/attachments/glassesAviators.i3d (1.65 ms)
+2025-11-06 00:34:40.792 dataS/character/playerM/shoes/crok.i3d (23.27 ms)
+2025-11-06 00:34:40.811 dataS/character/playerM/facialHair/mHead01/goatee01.i3d (19.28 ms)
+2025-11-06 00:34:44.544 w3rny joined the game
+2025-11-06 00:34:44.850 dataS/character/playerM/pants/strauss/motion2020Pants2ndVariant.i3d (107.35 ms)
+2025-11-06 00:34:44.996 dataS/character/playerM/jacket/topVestM.i3d (146.34 ms)
+2025-11-06 00:34:44.999 dataS/character/playerM/attachments/headgearBandana.i3d (2.59 ms)
+2025-11-06 00:34:45.001 dataS/character/playerM/attachments/glassesSports02.i3d (1.54 ms)
+2025-11-06 00:34:45.093 dataS/character/playerM/shoes/sportSneaker.i3d (92.27 ms)
+2025-11-06 00:34:45.127 dataS/character/playerM/hairStyles/hairStyleTopKnot.i3d (33.84 ms)
+2025-11-06 00:34:45.138 dataS/character/playerM/facialHair/mHead01/trimmedBeard.i3d (11.26 ms)
