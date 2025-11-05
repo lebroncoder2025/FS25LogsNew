@@ -5287,3 +5287,14 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-05 18:16:08.954 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_ClaasLexion560US/wheels/terratrack.i3d (28.33 ms)
 2025-11-05 18:16:11.534   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'CLAAS Lexion 590'
 2025-11-05 18:21:44.447 Game saved successfully (savegame1).
+2025-11-05 18:23:24.728   Info: Updated field 126 successfully (3) (1)
+2025-11-05 18:25:39.638   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Ursus C-385A Fast transmission'
+2025-11-05 18:25:44.324   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Ford 8930'
+2025-11-05 18:26:36.095 siejA left the game
+2025-11-05 18:26:37.999 Warning: Saving while already saving
+2025-11-05 18:26:39.628 Paweł joined the game
+2025-11-05 18:26:39.740 dataS/character/playerM/jacket/claas/claasTop.i3d (93.58 ms)
+2025-11-05 18:26:39.744 dataS/character/playerM/attachments/headgearBeanie.i3d (4.23 ms)
+2025-11-05 18:26:39.746 dataS/character/playerM/attachments/glassesAviators.i3d (1.43 ms)
+2025-11-05 18:26:39.769 dataS/character/playerM/shoes/crok.i3d (23.25 ms)
+2025-11-05 18:26:41.475 Game saved successfully (savegame1).
