@@ -14768,3 +14768,7 @@ LUA call stack:
 2025-11-05 17:46:27.265 dataS/character/playerM/shirts/topTShirt01.i3d (2.32 ms)
 2025-11-05 17:47:19.018   Info: [Easy Development Controls] User Jolero has logged in as master user.
 2025-11-05 17:47:29.941   Info: Moved player to coordinates 676, 918 successfully.
+2025-11-05 17:49:06.614 Warning: Saving while already saving
+2025-11-05 17:49:07.424 Game saved successfully (savegame1).
+2025-11-05 17:49:10.877 Jolero left the game
+2025-11-05 17:49:11.481 Game saved successfully (savegame1).
