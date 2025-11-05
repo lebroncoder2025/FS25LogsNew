@@ -5333,3 +5333,18 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-05 19:42:37.147 data/objects/pallets/goatMilkCanPallet/goatMilkCanPallet.i3d (2.24 ms)
 2025-11-05 19:44:36.874   Info: Savegame Setting 'fruitDesctructionEnabled': true
 2025-11-05 19:46:24.463 symonixprime lost connection to the game
+2025-11-05 19:48:54.506   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Massey Ferguson 397 Pumped'
+2025-11-05 19:49:08.681   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Mercedes-Benz Trucks MB-trac 900 optimized'
+2025-11-05 19:50:19.134   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Zetor 12111 Fast transmission Turbo'
+2025-11-05 19:52:00.303   Info: Moved 3 vehicles to coordinates 551, 859 successfully.
+2025-11-05 19:53:21.046 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_UniaGrudziadzUPlows/U021.i3d (70.09 ms)
+2025-11-05 20:01:13.743 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.72 ms)
+2025-11-05 20:09:59.037   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_KroneTurbo2500/xml/kroneTurbo2500.xml): Invalid vector 3 for 'vehicle.base.components.joint(0)#rotDriveRotation'.
+2025-11-05 20:09:59.146   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_KroneTurbo2500/xml/kroneTurbo2500.xml): Unable to find material template '' in 'vehicle.wheels.hubMaterial'
+2025-11-05 20:09:59.278   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_KroneTurbo2500/xml/kroneTurbo2500.xml): Node 'scratchingFloor' has no shader parameter 'scrollPosition' for animationNode 'vehicle.trailer.trailerConfigurations.trailerConfiguration(0).trailer.tipSide(0).animationNodes.animationNode(0)'!
+2025-11-05 20:09:59.279   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_KroneTurbo2500/xml/kroneTurbo2500.xml): Node 'scratchingFloor' has no shader parameter 'scrollPosition' for animationNode 'vehicle.turnOnVehicle.animationNodes.animationNode(2)'!
+2025-11-05 20:12:02.011 Game saved successfully (savegame1).
+2025-11-05 20:18:40.631 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_ClaasLexion560US/wheels/innerfront.i3d (3.84 ms)
+2025-11-05 20:18:40.639 data/shared/wheels/tires/trelleborg/TM3000/1050_50R32.i3d (7.62 ms)
+2025-11-05 20:18:40.642 data/shared/wheels/tires/trelleborg/TwinForestry422SB/600_55R26_5.i3d (2.82 ms)
+2025-11-05 20:18:43.999   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'CLAAS Lexion 590'
