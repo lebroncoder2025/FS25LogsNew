@@ -5348,3 +5348,34 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-05 20:18:40.639 data/shared/wheels/tires/trelleborg/TM3000/1050_50R32.i3d (7.62 ms)
 2025-11-05 20:18:40.642 data/shared/wheels/tires/trelleborg/TwinForestry422SB/600_55R26_5.i3d (2.82 ms)
 2025-11-05 20:18:43.999   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'CLAAS Lexion 590'
+2025-11-05 20:20:53.618   Info: Moved 2 vehicles to coordinates 1397, 1453 successfully.
+2025-11-05 20:21:41.649 Lewy joined the game
+2025-11-05 20:21:41.811 dataS/character/playerM/pants/poettinger/poettingerShort.i3d (145.31 ms)
+2025-11-05 20:21:41.907 dataS/character/playerM/jacket/claas/claasTop.i3d (95.44 ms)
+2025-11-05 20:21:41.911 dataS/character/playerM/attachments/headgearBeanie.i3d (4.40 ms)
+2025-11-05 20:21:41.935 dataS/character/playerM/shoes/crok.i3d (23.45 ms)
+2025-11-05 20:27:04.911 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.62 ms)
+2025-11-05 20:27:06.001   Info: Successfully set fill unit 1 of Pomot UPR 10 to Lime with a fill level of 7,900 liters.
+2025-11-05 20:27:33.011 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.67 ms)
+2025-11-05 20:28:10.820   Info: Successfully set fill unit 1 of Pomot UPR 10 to Lime with a fill level of 7,900 liters.
+2025-11-05 20:28:26.044   Info: Added € 5,000 to farm account. (3)
+2025-11-05 20:30:28.585   Info: Added € -999,999,999 to farm account. (6)
+2025-11-05 20:30:33.388   Info: Added € 999,999,999 to farm account. (6)
+2025-11-05 20:30:49.286 data/shared/assets/reflectors/lizard/yellowRound_03.i3d (1.18 ms)
+2025-11-05 20:30:49.287 data/shared/assets/reflectors/lizard/yellowRound_02.i3d (0.94 ms)
+2025-11-05 20:30:49.288 data/shared/assets/reflectors/lizard/redRectangle_01.i3d (0.96 ms)
+2025-11-05 20:30:49.329 data/shared/assets/extinguisher.i3d (1.40 ms)
+2025-11-05 20:30:49.343 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_S_Series/sSeries.i3d (181.10 ms)
+2025-11-05 20:30:49.885 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_S_Series/wheels/hubs/hubs.i3d (3.03 ms)
+2025-11-05 20:30:49.892 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_S_Series/wheels/rims/rims.i3d (6.80 ms)
+2025-11-05 20:30:49.895 data/shared/wheels/tires/trelleborg/TM1000/650_60R34.i3d (3.04 ms)
+2025-11-05 20:30:49.898 data/shared/wheels/tires/trelleborg/TM1000/710_75R42.i3d (2.52 ms)
+2025-11-05 20:30:49.901 data/shared/assets/beaconLights/lizard/beaconLight15.i3d (3.30 ms)
+2025-11-05 20:30:50.008 data/vehicles/valtra/shared/displayDecals/valtraDisplays.i3d (22.15 ms)
+2025-11-05 20:30:52.994   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Valtra S 416'
+2025-11-05 20:31:10.041 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_CaseEcoloTil2500/ecoloTil2500.i3d (98.14 ms)
+2025-11-05 20:31:10.361 data/shared/assets/reflectors/lizard/redRectangle_01.i3d (1.13 ms)
+2025-11-05 20:31:10.369 data/shared/assets/lights/lizard/rearLight22Orange.i3d (3.19 ms)
+2025-11-05 20:31:10.372 data/shared/assets/lights/lizard/rearLight22Red.i3d (3.19 ms)
+2025-11-05 20:31:37.056   Info: Moved 2 vehicles to coordinates 579, 728 successfully.
+2025-11-05 20:32:39.914   Info: Updated field 39 successfully (6) (2)
