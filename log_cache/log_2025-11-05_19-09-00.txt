@@ -5631,3 +5631,8 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-06 10:04:19.687 dataS/character/playerM/hairStyles/hairStyleBaldTop.i3d (31.16 ms)
 2025-11-06 10:04:19.696 dataS/character/playerM/facialHair/mHead01/walrusXL.i3d (8.87 ms)
 2025-11-06 10:15:48.261 Game saved successfully (savegame1).
+2025-11-06 10:36:48.247 data/shared/wheels/tires/trelleborg/TM100/270_95R38.i3d (3.61 ms)
+2025-11-06 10:36:48.250 data/shared/wheels/tires/trelleborg/TM100/300_95R52.i3d (2.30 ms)
+2025-11-06 10:36:50.740   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Case IH 160 CVX'
+2025-11-06 10:37:39.505 siwa joined the game
+2025-11-06 10:40:05.172   Info: No 'ExhaustExtension' particle system added to vehicle 'Lizard Screw conveyor' because it has no exhaust
