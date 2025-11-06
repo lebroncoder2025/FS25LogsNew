@@ -5675,3 +5675,11 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-06 12:28:10.312 dataS/character/playerM/shoes/sportSneaker.i3d (94.69 ms)
 2025-11-06 12:28:10.347 dataS/character/playerM/hairStyles/hairStyleTopKnot.i3d (34.92 ms)
 2025-11-06 12:28:10.359 dataS/character/playerM/facialHair/mHead01/trimmedBeard.i3d (11.86 ms)
+2025-11-06 12:42:38.457 dataS/character/playerM/pants/botLeather.i3d (25.54 ms)
+2025-11-06 12:42:38.694 dataS/character/playerM/heads/mHead03.i3d (237.26 ms)
+2025-11-06 12:42:38.727 dataS/character/playerM/hairStyles/hairStyleMidParted01.i3d (32.91 ms)
+2025-11-06 12:45:58.643 Game saved successfully (savegame1).
+2025-11-06 12:57:02.231 siwa lost connection to the game
+2025-11-06 13:16:02.065 Game saved successfully (savegame1).
+2025-11-06 13:32:53.775 zwierek lost connection to the game
+2025-11-06 13:46:07.087 Game saved successfully (savegame1).
