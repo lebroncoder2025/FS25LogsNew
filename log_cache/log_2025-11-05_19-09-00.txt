@@ -5653,3 +5653,14 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-06 11:29:00.852 dataS/character/playerM/attachments/headgearCowboy.i3d (11.12 ms)
 2025-11-06 11:29:00.853 dataS/character/playerM/shoes/sandalM02.i3d (1.45 ms)
 2025-11-06 11:31:34.143 Piotrek lost connection to the game
+2025-11-06 11:45:56.629 Game saved successfully (savegame1).
+2025-11-06 11:54:01.977 dataS/character/playerF/pants/botCargo.i3d (17.84 ms)
+2025-11-06 11:54:02.002 dataS/character/playerF/jacket/topVest.i3d (24.77 ms)
+2025-11-06 11:54:02.005 dataS/character/playerF/shoes/workboot02.i3d (3.05 ms)
+2025-11-06 11:54:02.040 dataS/character/playerF/hairStyles/hairStylePonyTail03.i3d (35.04 ms)
+2025-11-06 12:02:00.325   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Case IH 160 CVX'
+2025-11-06 12:15:57.597 Game saved successfully (savegame1).
+2025-11-06 12:19:53.967 dataS/character/playerM/heads/mHead05.i3d (238.10 ms)
+2025-11-06 12:19:54.084 dataS/character/playerM/shirts/zipNeckPullover.i3d (115.61 ms)
+2025-11-06 12:19:54.122 dataS/character/playerM/hairStyles/hairStyleManBun.i3d (39.02 ms)
+2025-11-06 12:19:54.133 dataS/character/playerM/facialHair/mHead05/goatee02.i3d (10.60 ms)
