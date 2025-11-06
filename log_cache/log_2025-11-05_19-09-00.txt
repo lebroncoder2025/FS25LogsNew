@@ -5686,3 +5686,19 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-06 14:16:08.714 Game saved successfully (savegame1).
 2025-11-06 14:43:37.063 siwa joined the game
 2025-11-06 14:46:05.349 Game saved successfully (savegame1).
+2025-11-06 14:57:49.271 siwa lost connection to the game
+2025-11-06 15:16:05.911 Game saved successfully (savegame1).
+2025-11-06 15:16:40.504 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.60 ms)
+2025-11-06 15:16:40.576 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_mrhHandLiftableConsumables/barrelPlastic/barrelPlastic.i3d (21.87 ms)
+2025-11-06 15:17:51.727 zwierek joined the game
+2025-11-06 15:17:51.757 dataS/character/playerM/pants/botJeanShorts.i3d (16.57 ms)
+2025-11-06 15:17:51.758 dataS/character/playerM/attachments/glassesAviators.i3d (1.62 ms)
+2025-11-06 15:17:51.853 dataS/character/playerM/shoes/sandalM03.i3d (95.19 ms)
+2025-11-06 15:17:51.885 dataS/character/playerM/hairStyles/hairStyleBaldTop.i3d (31.22 ms)
+2025-11-06 15:17:51.893 dataS/character/playerM/facialHair/mHead01/walrusXL.i3d (8.75 ms)
+2025-11-06 15:18:31.856 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.81 ms)
+2025-11-06 15:22:05.981 Jolero joined the game
+2025-11-06 15:22:05.999 dataS/character/playerM/shirts/topTShirt01.i3d (3.32 ms)
+2025-11-06 15:22:06.018 dataS/character/playerM/facialHair/mHead01/goatee01.i3d (19.22 ms)
+2025-11-06 15:23:30.111   Info: [Easy Development Controls] User Jolero has logged in as master user.
+2025-11-06 15:23:34.000   Info: Moved player to coordinates 1114, 337 successfully.
