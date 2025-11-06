@@ -5608,3 +5608,14 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-06 06:30:58.934 dataS/character/playerM/hairStyles/hairStyleDiablo.i3d (33.24 ms)
 2025-11-06 06:30:58.935 dataS/character/playerM/facialHair/mHead01/beardStubble.i3d (1.40 ms)
 2025-11-06 06:35:46.789 Lewy left the game
+2025-11-06 06:44:52.891 Game saved successfully (savegame1).
+2025-11-06 06:51:51.444   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_KroneTurbo2500/xml/kroneTurbo2500.xml): Invalid vector 3 for 'vehicle.base.components.joint(0)#rotDriveRotation'.
+2025-11-06 06:51:51.514   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_KroneTurbo2500/xml/kroneTurbo2500.xml): Unable to find material template '' in 'vehicle.wheels.hubMaterial'
+2025-11-06 06:51:51.583   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_KroneTurbo2500/xml/kroneTurbo2500.xml): Node 'scratchingFloor' has no shader parameter 'scrollPosition' for animationNode 'vehicle.trailer.trailerConfigurations.trailerConfiguration(0).trailer.tipSide(0).animationNodes.animationNode(0)'!
+2025-11-06 06:51:51.584   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_KroneTurbo2500/xml/kroneTurbo2500.xml): Node 'scratchingFloor' has no shader parameter 'scrollPosition' for animationNode 'vehicle.turnOnVehicle.animationNodes.animationNode(2)'!
+2025-11-06 06:55:45.786   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'STEYR 8130 Turbo'
+2025-11-06 07:01:05.955   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Case IH 160 CVX'
+2025-11-06 07:14:53.902 Game saved successfully (savegame1).
+2025-11-06 07:16:18.457   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'STEYR 8130 Super Elite'
+2025-11-06 07:17:47.052 Warning: Send called with unknown target address.
+2025-11-06 07:17:47.066 M@rcin lost connection to the game
