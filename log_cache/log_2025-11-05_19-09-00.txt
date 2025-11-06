@@ -5647,3 +5647,9 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-06 11:18:56.296   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Fendt 620 Vario - 50km/h'
 2025-11-06 11:19:32.066 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.67 ms)
 2025-11-06 11:19:47.624 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.55 ms)
+2025-11-06 11:29:00.770 Piotrek joined the game
+2025-11-06 11:29:00.834 dataS/character/playerM/shirts/topTankTop.i3d (48.77 ms)
+2025-11-06 11:29:00.840 dataS/character/playerM/gloves/glovesGeneric.i3d (6.09 ms)
+2025-11-06 11:29:00.852 dataS/character/playerM/attachments/headgearCowboy.i3d (11.12 ms)
+2025-11-06 11:29:00.853 dataS/character/playerM/shoes/sandalM02.i3d (1.45 ms)
+2025-11-06 11:31:34.143 Piotrek lost connection to the game
