@@ -5591,3 +5591,5 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-06 05:25:00.623 dataS/character/playerM/hairStyles/hairStyleDiablo.i3d (37.63 ms)
 2025-11-06 05:25:00.624 dataS/character/playerM/facialHair/mHead01/beardStubble.i3d (1.37 ms)
 2025-11-06 05:29:32.266   Info: No 'ExhaustExtension' particle system added to vehicle 'Lizard Screw conveyor' because it has no exhaust
+2025-11-06 05:34:20.730 data/objects/pallets/liquidTank/liquidTank.i3d (3.22 ms)
+2025-11-06 05:44:40.578 Game saved successfully (savegame1).
