@@ -6859,3 +6859,15 @@ dataS/scripts/fence/FenceNewSegmentEvent.lua:53: attempt to index nil with 'getF
 2025-11-06 19:33:46.633 dataS/character/playerM/hairStyles/hairStyleMidParted01.i3d (34.25 ms)
 2025-11-06 19:33:47.138 data/maps/trees/goldenRain/goldenRain_stage04.i3d (18.54 ms)
 2025-11-06 19:33:55.530 data/placeables/brandless/fences/EU/fence08/fence08.i3d (9.61 ms)
+2025-11-06 19:35:27.890 data/maps/textures/shared/props/motorex/motorexOilBarrel.i3d (2.23 ms)
+2025-11-06 19:35:27.891 data/maps/mapUS/textures/props/trashcan03.i3d (1.65 ms)
+2025-11-06 19:35:27.893 data/maps/mapAS/textures/props/canister.i3d (1.28 ms)
+2025-11-06 19:35:27.894 data/maps/mapAS/textures/props/jarLarge/jarLarge01.i3d (1.23 ms)
+2025-11-06 19:35:27.899 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_MediumGarage/garage.i3d (132.88 ms)
+2025-11-06 19:37:02.754   Info: Moved player to coordinates 432, 1217 successfully.
+2025-11-06 19:46:21.055 data/placeables/kaercher/hds9184M/hds9184M_placeable.i3d (4.77 ms)
+2025-11-06 19:46:29.443   Info: No 'ExhaustExtension' particle system added to vehicle 'Kärcher HDS 9/18-4 M' because it has no exhaust
+2025-11-06 19:47:02.442 data/placeables/brandless/decoration/statues/gardenFigureEagle01.i3d (6.47 ms)
+2025-11-06 19:47:04.826 data/placeables/brandless/decoration/statues/gardenFigureEagle02.i3d (6.53 ms)
+2025-11-06 19:47:14.766 Game saved successfully (savegame1).
+2025-11-06 19:48:12.484 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_SilosFS_crossplay/I3D/Silos_25_Podajnik.i3d (20.09 ms)
