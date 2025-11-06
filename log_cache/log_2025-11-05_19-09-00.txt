@@ -5583,3 +5583,11 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-06 03:14:01.263 Game saved successfully (savegame1).
 2025-11-06 03:44:10.632 Game saved successfully (savegame1).
 2025-11-06 04:14:19.896 Game saved successfully (savegame1).
+2025-11-06 04:44:30.224 Game saved successfully (savegame1).
+2025-11-06 05:14:39.327 Game saved successfully (savegame1).
+2025-11-06 05:25:00.366 M@rcin joined the game
+2025-11-06 05:25:00.584 dataS/character/playerM/jacket/topAviatorJacket.i3d (18.58 ms)
+2025-11-06 05:25:00.585 dataS/character/playerM/attachments/glassesAviators.i3d (1.49 ms)
+2025-11-06 05:25:00.623 dataS/character/playerM/hairStyles/hairStyleDiablo.i3d (37.63 ms)
+2025-11-06 05:25:00.624 dataS/character/playerM/facialHair/mHead01/beardStubble.i3d (1.37 ms)
+2025-11-06 05:29:32.266   Info: No 'ExhaustExtension' particle system added to vehicle 'Lizard Screw conveyor' because it has no exhaust
