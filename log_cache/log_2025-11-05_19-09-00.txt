@@ -5720,3 +5720,64 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-06 15:32:17.519 Romek lost connection to the game
 2025-11-06 15:39:48.465 siwa joined the game
 2025-11-06 15:40:44.683 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_BigSiloPackage/i3d/SiloDirtyGrain.i3d (373.40 ms)
+2025-11-06 15:46:11.316 Game saved successfully (savegame1).
+2025-11-06 15:49:41.701 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Steel_Shed_Pack/i3d/Ocel_kulna_03.i3d (24.00 ms)
+2025-11-06 15:49:41.725 data/shared/assets/lights/rudolfHormann/light150.i3d (3.10 ms)
+2025-11-06 15:51:24.900 data/placeables/brandless/greenhouses/greenHousesTarp/greenHousesTarpSmall.i3d (35.87 ms)
+2025-11-06 15:53:29.528   Info: [Easy Development Controls] Permission 'teleport': FARM_MANAGER (3)
+2025-11-06 15:53:35.097   Info: Moved player to coordinates 957, 1199 successfully.
+2025-11-06 15:53:39.014   Info: [Easy Development Controls] Permission 'teleport': EDC_ADMIN (1)
+2025-11-06 16:01:21.096 data/maps/trees/northernCatalpa/northernCatalpa_stage03.i3d (57.81 ms)
+2025-11-06 16:10:58.565   Info: Set farm account balance to € 31,200. (9)
+2025-11-06 16:14:07.180   Info: Adding pallet.
+2025-11-06 16:14:07.477   Info: Adding pallet.
+2025-11-06 16:14:07.773   Info: Adding pallet.
+2025-11-06 16:14:08.047   Info: Adding pallet.
+2025-11-06 16:14:08.340   Info: Adding pallet.
+2025-11-06 16:14:08.597   Info: Adding pallet.
+2025-11-06 16:14:08.913   Info: Adding pallet.
+2025-11-06 16:14:09.148   Info: Adding pallet.
+2025-11-06 16:14:09.425   Info: Adding pallet.
+2025-11-06 16:14:09.721   Info: Adding pallet.
+2025-11-06 16:14:10.021   Info: Adding pallet.
+2025-11-06 16:14:10.424   Info: Adding pallet.
+2025-11-06 16:14:10.677   Info: Adding pallet.
+2025-11-06 16:14:10.974   Info: Adding pallet.
+2025-11-06 16:14:11.276   Info: Adding pallet.
+2025-11-06 16:14:11.594   Info: Adding pallet.
+2025-11-06 16:14:11.854   Info: Adding pallet.
+2025-11-06 16:14:12.161   Info: Adding pallet.
+2025-11-06 16:14:12.424   Info: Adding pallet.
+2025-11-06 16:14:12.742   Info: Adding pallet.
+2025-11-06 16:14:12.990   Info: Adding pallet.
+2025-11-06 16:14:13.279   Info: Adding pallet.
+2025-11-06 16:14:13.565   Info: Adding pallet.
+2025-11-06 16:14:13.769   Info: Adding pallet.
+2025-11-06 16:14:13.913   Info: Adding pallet.
+2025-11-06 16:14:53.010   Info: Set farm account balance to € 31,200. (9)
+2025-11-06 16:14:59.401   Info: Adding pallet.
+2025-11-06 16:14:59.600   Info: Adding pallet.
+2025-11-06 16:14:59.759   Info: Adding pallet.
+2025-11-06 16:15:01.186   Info: Adding pallet.
+2025-11-06 16:15:01.347   Info: Adding pallet.
+2025-11-06 16:15:01.541   Info: Adding pallet.
+2025-11-06 16:15:01.732   Info: Adding pallet.
+2025-11-06 16:15:01.885   Info: Adding pallet.
+2025-11-06 16:15:02.096   Info: Adding pallet.
+2025-11-06 16:15:03.496   Info: Adding pallet.
+2025-11-06 16:15:03.620   Info: Adding pallet.
+2025-11-06 16:15:03.740   Info: Adding pallet.
+2025-11-06 16:15:03.863   Info: Adding pallet.
+2025-11-06 16:15:03.988   Info: Adding pallet.
+2025-11-06 16:15:04.108   Info: Adding pallet.
+2025-11-06 16:15:04.231   Info: Adding pallet.
+2025-11-06 16:15:04.441   Info: Adding pallet.
+2025-11-06 16:15:04.567   Info: Adding pallet.
+2025-11-06 16:15:04.709   Info: Adding pallet.
+2025-11-06 16:15:04.855   Info: Adding pallet.
+2025-11-06 16:15:05.002   Info: Adding pallet.
+2025-11-06 16:15:05.124   Info: Adding pallet.
+2025-11-06 16:15:05.252   Info: Adding pallet.
+2025-11-06 16:15:05.372   Info: Adding pallet.
+2025-11-06 16:16:17.289 Game saved successfully (savegame1).
+2025-11-06 16:19:28.056   Info: The condition of Fendt 620 Vario - 50km/h and all connected implements updated.
