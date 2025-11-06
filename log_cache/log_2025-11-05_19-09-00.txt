@@ -5636,3 +5636,14 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-06 10:36:50.740   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Case IH 160 CVX'
 2025-11-06 10:37:39.505 siwa joined the game
 2025-11-06 10:40:05.172   Info: No 'ExhaustExtension' particle system added to vehicle 'Lizard Screw conveyor' because it has no exhaust
+2025-11-06 10:40:45.145   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'John Deere 5115M'
+2025-11-06 10:42:46.121   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Ursus C-385A Fast transmission'
+2025-11-06 10:45:48.137 Game saved successfully (savegame1).
+2025-11-06 10:47:35.677 dataS/character/playerF/pants/botJeansCapris.i3d (20.42 ms)
+2025-11-06 10:47:35.878 dataS/character/playerF/heads/fHead03.i3d (201.25 ms)
+2025-11-06 10:47:35.937 dataS/character/playerF/shirts/topTankTop.i3d (58.72 ms)
+2025-11-06 10:47:35.940 dataS/character/playerF/shoes/sneaker01.i3d (2.77 ms)
+2025-11-06 11:15:53.504 Game saved successfully (savegame1).
+2025-11-06 11:18:56.296   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Fendt 620 Vario - 50km/h'
+2025-11-06 11:19:32.066 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.67 ms)
+2025-11-06 11:19:47.624 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.55 ms)
