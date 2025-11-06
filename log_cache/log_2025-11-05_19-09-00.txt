@@ -6946,3 +6946,18 @@ dataS/scripts/fence/FenceNewSegmentEvent.lua:53: attempt to index nil with 'getF
 2025-11-06 20:13:35.794 dataS/character/playerF/hairStyles/hairStylePonyTail01.i3d (36.85 ms)
 2025-11-06 20:17:24.032 Game saved successfully (savegame1).
 2025-11-06 20:18:13.673 hubsonwaliszot lost connection to the game
+2025-11-06 20:22:28.379 hubsonwaliszot joined the game
+2025-11-06 20:22:28.688 dataS/character/playerM/shirts/poettinger/poettingerTshirt.i3d (290.90 ms)
+2025-11-06 20:22:28.739 dataS/character/playerM/gloves/strauss/glovesEsTrailLight02.i3d (49.15 ms)
+2025-11-06 20:22:28.785 dataS/character/playerM/attachments/hatWoolen.i3d (46.50 ms)
+2025-11-06 20:22:28.820 dataS/character/playerM/hairStyles/hairStyleMullet.i3d (34.44 ms)
+2025-11-06 20:22:28.831 dataS/character/playerM/facialHair/mHead02/trimmedBeard.i3d (11.37 ms)
+2025-11-06 20:25:22.419 dataS/character/playerM/heads/mHead05.i3d (199.08 ms)
+2025-11-06 20:25:22.514 dataS/character/playerM/shirts/zipNeckPullover.i3d (95.08 ms)
+2025-11-06 20:25:22.549 dataS/character/playerM/hairStyles/hairStyleManBun.i3d (34.01 ms)
+2025-11-06 20:25:22.559 dataS/character/playerM/facialHair/mHead05/goatee02.i3d (10.01 ms)
+2025-11-06 20:26:53.487 Warning: Send called with unknown target address.
+2025-11-06 20:26:53.499 Lewy left the game
+2025-11-06 20:27:16.933 Romek lost connection to the game
+2025-11-06 20:28:00.838 data/shared/assets/reflectors/lizard/yellowRound_02.i3d (1.24 ms)
+2025-11-06 20:28:00.849 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_pottingerServo25/servo25.i3d (25.16 ms)
