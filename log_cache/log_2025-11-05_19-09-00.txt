@@ -7080,3 +7080,6 @@ dataS/scripts/placeables/specializations/PlaceableObjectStorage.lua:348: attempt
 2025-11-06 23:32:02.457 dataS/character/playerM/attachments/headgearCowboy.i3d (10.60 ms)
 2025-11-06 23:32:02.548 dataS/character/playerM/shoes/sandalM02.i3d (90.87 ms)
 2025-11-06 23:32:58.825 M1odyHaze joined the game
+2025-11-06 23:43:45.659 Piotrek lost connection to the game
+2025-11-06 23:47:46.698 Game saved successfully (savegame1).
+2025-11-07 00:17:49.259 Game saved successfully (savegame1).
