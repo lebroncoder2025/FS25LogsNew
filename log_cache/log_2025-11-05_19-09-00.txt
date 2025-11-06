@@ -6871,3 +6871,78 @@ dataS/scripts/fence/FenceNewSegmentEvent.lua:53: attempt to index nil with 'getF
 2025-11-06 19:47:04.826 data/placeables/brandless/decoration/statues/gardenFigureEagle02.i3d (6.53 ms)
 2025-11-06 19:47:14.766 Game saved successfully (savegame1).
 2025-11-06 19:48:12.484 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_SilosFS_crossplay/I3D/Silos_25_Podajnik.i3d (20.09 ms)
+2025-11-06 19:50:43.426   Info: Set farm account balance to € 120,000. (8)
+2025-11-06 19:51:58.260 dataS/character/playerF/pants/botYogaPants.i3d (11.05 ms)
+2025-11-06 19:51:58.372 dataS/character/playerF/heads/fHead02.i3d (112.15 ms)
+2025-11-06 19:51:58.421 dataS/character/playerF/shirts/topTankTop.i3d (48.66 ms)
+2025-11-06 19:51:58.513 dataS/character/playerF/shoes/sportSneaker.i3d (92.55 ms)
+2025-11-06 19:51:58.549 dataS/character/playerF/hairStyles/hairStyleLongSideParted.i3d (35.55 ms)
+2025-11-06 19:52:01.471   Info: Set farm account balance to € 120,000. (8)
+2025-11-06 19:53:56.650 Lewy joined the game
+2025-11-06 19:53:56.810 dataS/character/playerM/pants/poettinger/poettingerShort.i3d (143.16 ms)
+2025-11-06 19:53:56.905 dataS/character/playerM/jacket/claas/claasTop.i3d (94.85 ms)
+2025-11-06 19:53:56.909 dataS/character/playerM/attachments/headgearBeanie.i3d (4.32 ms)
+2025-11-06 19:53:56.933 dataS/character/playerM/shoes/crok.i3d (23.50 ms)
+2025-11-06 19:54:03.657 Romek joined the game
+2025-11-06 19:54:03.678 dataS/character/playerM/pants/strauss/motion2020Pants2ndVariant.i3d (4.96 ms)
+2025-11-06 19:54:03.826 dataS/character/playerM/jacket/topVestM.i3d (147.59 ms)
+2025-11-06 19:54:03.868 dataS/character/playerM/attachments/headgearBandana.i3d (2.79 ms)
+2025-11-06 19:54:03.870 dataS/character/playerM/attachments/glassesSports02.i3d (1.79 ms)
+2025-11-06 19:54:03.872 dataS/character/playerM/shoes/sportSneaker.i3d (2.39 ms)
+2025-11-06 19:54:03.907 dataS/character/playerM/hairStyles/hairStyleTopKnot.i3d (34.59 ms)
+2025-11-06 19:54:03.922 dataS/character/playerM/facialHair/mHead01/trimmedBeard.i3d (11.43 ms)
+2025-11-06 19:56:29.661 dataS/character/playerF/pants/botChinos.i3d (14.50 ms)
+2025-11-06 19:56:29.837 dataS/character/playerF/heads/fHead06.i3d (115.31 ms)
+2025-11-06 19:56:29.892 dataS/character/playerF/shirts/topBlouse.i3d (54.96 ms)
+2025-11-06 19:56:29.895 dataS/character/playerF/shoes/sneaker01.i3d (2.81 ms)
+2025-11-06 19:56:29.930 dataS/character/playerF/hairStyles/hairStyleMidSideParted.i3d (35.36 ms)
+2025-11-06 20:03:41.580 data/shared/wheels/tires/michelin/omniBib/420_70R24.i3d (5.37 ms)
+2025-11-06 20:03:41.584 data/shared/wheels/tires/michelin/omniBib/520_70R34.i3d (3.81 ms)
+2025-11-06 20:04:12.307   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'STEYR 8110'
+2025-11-06 20:06:36.619 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Isaria6000S/Isaria6000S.i3d (99.31 ms)
+2025-11-06 20:06:36.832 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Isaria6000S/Kola.i3d (14.70 ms)
+2025-11-06 20:06:37.159 Error: Can't load resource ''.
+2025-11-06 20:06:37.159 Error: Can't load resource ''.
+2025-11-06 20:06:37.159 Error: Can't load resource ''.
+2025-11-06 20:06:37.159 Error: Can't load resource 'gen_singleColorTexture_0_4278453252'.
+2025-11-06 20:06:37.159   DevWarning: material 'tyreMaterial' is having the albedo map removed by script. This can cause problems on consoles as the correct shader will not be built for this case.
+2025-11-06 20:06:37.160 Warning: Missing texture 'detailSpecular' in 'tyreMaterial' (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_useYourTyres/shaders/vehicleShader50keda.xml).
+2025-11-06 20:06:37.160 Warning: Missing texture 'detailNormal' in 'tyreMaterial' (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_useYourTyres/shaders/vehicleShader50keda.xml).
+2025-11-06 20:06:37.160 Warning: Missing texture 'detailDiffuse' in 'tyreMaterial' (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_useYourTyres/shaders/vehicleShader50keda.xml).
+2025-11-06 20:06:37.160 Error: Can't load resource ''.
+2025-11-06 20:06:37.160 Error: Can't load resource ''.
+2025-11-06 20:06:37.160 Error: Can't load resource ''.
+2025-11-06 20:06:37.160 Error: Can't load resource 'gen_singleColorTexture_0_4278453252'.
+2025-11-06 20:06:37.160   DevWarning: material 'tyreMaterial' is having the albedo map removed by script. This can cause problems on consoles as the correct shader will not be built for this case.
+2025-11-06 20:06:37.189 Warning: Missing texture 'detailDiffuse' in 'tyreMaterial' (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_useYourTyres/shaders/vehicleShader50keda.xml).
+2025-11-06 20:06:37.189 Warning: Missing texture 'detailNormal' in 'tyreMaterial' (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_useYourTyres/shaders/vehicleShader50keda.xml).
+2025-11-06 20:06:37.190 Warning: Missing texture 'detailDiffuse' in 'tyreMaterial' (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_useYourTyres/shaders/vehicleShader50keda.xml).
+2025-11-06 20:06:37.190 Warning: Missing texture 'detailSpecular' in 'tyreMaterial' (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_useYourTyres/shaders/vehicleShader50keda.xml).
+2025-11-06 20:06:37.190 Warning: Missing texture 'detailNormal' in 'tyreMaterial' (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_useYourTyres/shaders/vehicleShader50keda.xml).
+2025-11-06 20:06:37.190 Warning: Missing texture 'detailDiffuse' in 'tyreMaterial' (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_useYourTyres/shaders/vehicleShader50keda.xml).
+2025-11-06 20:06:37.190 Warning: Missing texture 'detailSpecular' in 'tyreMaterial' (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_useYourTyres/shaders/vehicleShader50keda.xml).
+2025-11-06 20:06:37.190 Warning: Missing texture 'detailNormal' in 'tyreMaterial' (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_useYourTyres/shaders/vehicleShader50keda.xml).
+2025-11-06 20:06:37.190 Warning: Missing texture 'detailDiffuse' in 'tyreMaterial' (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_useYourTyres/shaders/vehicleShader50keda.xml).
+2025-11-06 20:06:37.190 Warning: Missing texture 'detailSpecular' in 'tyreMaterial' (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_useYourTyres/shaders/vehicleShader50keda.xml).
+2025-11-06 20:06:37.190 Warning: Missing texture 'detailNormal' in 'tyreMaterial' (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_useYourTyres/shaders/vehicleShader50keda.xml).
+2025-11-06 20:06:37.190 Warning: Missing texture 'detailDiffuse' in 'tyreMaterial' (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_useYourTyres/shaders/vehicleShader50keda.xml).
+2025-11-06 20:07:30.185 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.72 ms)
+2025-11-06 20:07:31.636 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.74 ms)
+2025-11-06 20:08:57.160 dataS/character/playerF/pants/botChinos.i3d (13.35 ms)
+2025-11-06 20:08:57.279 dataS/character/playerF/heads/fHead06.i3d (118.68 ms)
+2025-11-06 20:08:57.334 dataS/character/playerF/shirts/topBlouse.i3d (55.06 ms)
+2025-11-06 20:08:57.337 dataS/character/playerF/shoes/sneaker01.i3d (2.81 ms)
+2025-11-06 20:08:57.376 dataS/character/playerF/hairStyles/hairStyleMidSideParted.i3d (39.25 ms)
+2025-11-06 20:11:03.375 dataS/character/playerF/pants/botYogaPants.i3d (11.14 ms)
+2025-11-06 20:11:03.487 dataS/character/playerF/heads/fHead02.i3d (112.26 ms)
+2025-11-06 20:11:03.538 dataS/character/playerF/shirts/topTankTop.i3d (49.75 ms)
+2025-11-06 20:11:03.540 dataS/character/playerF/shoes/sportSneaker.i3d (2.41 ms)
+2025-11-06 20:11:03.576 dataS/character/playerF/hairStyles/hairStyleLongSideParted.i3d (35.91 ms)
+2025-11-06 20:13:11.181 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.72 ms)
+2025-11-06 20:13:11.282 data/objects/pallets/liquidTank/liquidTank.i3d (3.98 ms)
+2025-11-06 20:13:35.675 dataS/character/playerF/heads/fHead04.i3d (199.65 ms)
+2025-11-06 20:13:35.681 dataS/character/playerF/jacket/topAviatorJacket.i3d (5.62 ms)
+2025-11-06 20:13:35.757 dataS/character/playerF/shoes/laceUpSneaker.i3d (76.25 ms)
+2025-11-06 20:13:35.794 dataS/character/playerF/hairStyles/hairStylePonyTail01.i3d (36.85 ms)
+2025-11-06 20:17:24.032 Game saved successfully (savegame1).
+2025-11-06 20:18:13.673 hubsonwaliszot lost connection to the game
