@@ -5593,3 +5593,6 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-06 05:29:32.266   Info: No 'ExhaustExtension' particle system added to vehicle 'Lizard Screw conveyor' because it has no exhaust
 2025-11-06 05:34:20.730 data/objects/pallets/liquidTank/liquidTank.i3d (3.22 ms)
 2025-11-06 05:44:40.578 Game saved successfully (savegame1).
+2025-11-06 05:50:48.289 Warning: Send called with unknown target address.
+2025-11-06 05:50:48.303 M@rcin lost connection to the game
+2025-11-06 06:14:53.234 Game saved successfully (savegame1).
