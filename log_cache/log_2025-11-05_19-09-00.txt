@@ -5570,3 +5570,13 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-06 00:34:45.093 dataS/character/playerM/shoes/sportSneaker.i3d (92.27 ms)
 2025-11-06 00:34:45.127 dataS/character/playerM/hairStyles/hairStyleTopKnot.i3d (33.84 ms)
 2025-11-06 00:34:45.138 dataS/character/playerM/facialHair/mHead01/trimmedBeard.i3d (11.26 ms)
+2025-11-06 00:43:32.336 Game saved successfully (savegame1).
+2025-11-06 01:12:11.328 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.66 ms)
+2025-11-06 01:13:29.735 Game saved successfully (savegame1).
+2025-11-06 01:43:30.715 Game saved successfully (savegame1).
+2025-11-06 01:49:49.235 data/objects/pallets/sugarPallet/sugarBoxPallet.i3d (7.33 ms)
+2025-11-06 01:55:27.716  PlaceableNameEvent:run romek
+2025-11-06 02:04:10.758 w3rny lost connection to the game
+2025-11-06 02:06:49.731 Lewy left the game
+2025-11-06 02:13:42.961 Game saved successfully (savegame1).
+2025-11-06 02:43:54.342 Game saved successfully (savegame1).
