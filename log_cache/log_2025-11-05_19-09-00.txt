@@ -7030,3 +7030,5 @@ dataS/scripts/placeables/specializations/PlaceableObjectStorage.lua:348: attempt
 2025-11-06 21:23:43.987 dataS/character/playerM/attachments/headgearBeanie.i3d (4.41 ms)
 2025-11-06 21:23:44.010 dataS/character/playerM/shoes/crok.i3d (23.52 ms)
 2025-11-06 21:23:44.030 dataS/character/playerM/facialHair/mHead01/goatee01.i3d (19.45 ms)
+2025-11-06 21:32:54.996 M@rcin lost connection to the game
+2025-11-06 21:37:01.530   Info: Successfully emptied fill unit 1 of Farmtech Fortis 3000.
