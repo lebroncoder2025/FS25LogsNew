@@ -5826,3 +5826,828 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-06 17:44:47.032 Jolero left the game
 2025-11-06 17:44:48.330 Game saved successfully (savegame1).
 2025-11-06 17:46:35.856 Game saved successfully (savegame1).
+2025-11-06 17:51:35.676 dataS/character/playerF/pants/botChinos.i3d (18.34 ms)
+2025-11-06 17:51:35.807 dataS/character/playerF/heads/fHead06.i3d (131.54 ms)
+2025-11-06 17:51:35.861 dataS/character/playerF/shirts/topBlouse.i3d (53.41 ms)
+2025-11-06 17:51:35.864 dataS/character/playerF/shoes/sneaker01.i3d (3.01 ms)
+2025-11-06 17:51:35.907 dataS/character/playerF/hairStyles/hairStyleMidSideParted.i3d (42.72 ms)
+2025-11-06 17:53:19.840 dataS/character/playerF/heads/fHead04.i3d (244.10 ms)
+2025-11-06 17:53:19.860 dataS/character/playerF/jacket/topAviatorJacket.i3d (20.02 ms)
+2025-11-06 17:53:19.956 dataS/character/playerF/shoes/laceUpSneaker.i3d (96.33 ms)
+2025-11-06 17:53:20.035 dataS/character/playerF/hairStyles/hairStylePonyTail01.i3d (45.37 ms)
+2025-11-06 17:53:23.224 dataS/character/playerF/heads/fHead04.i3d (196.40 ms)
+2025-11-06 17:53:23.243 dataS/character/playerF/jacket/topAviatorJacket.i3d (19.06 ms)
+2025-11-06 17:53:23.328 dataS/character/playerF/shoes/laceUpSneaker.i3d (83.94 ms)
+2025-11-06 17:53:23.365 dataS/character/playerF/hairStyles/hairStylePonyTail01.i3d (36.87 ms)
+2025-11-06 17:54:09.439 dataS/character/playerF/pants/botCargo.i3d (17.97 ms)
+2025-11-06 17:54:09.465 dataS/character/playerF/jacket/topVest.i3d (25.42 ms)
+2025-11-06 17:54:09.468 dataS/character/playerF/shoes/workboot02.i3d (3.16 ms)
+2025-11-06 17:54:09.503 dataS/character/playerF/hairStyles/hairStylePonyTail03.i3d (35.48 ms)
+2025-11-06 17:55:58.520 M1odyHaze joined the game
+2025-11-06 17:57:05.263 dataS/character/playerF/pants/botCargo.i3d (18.70 ms)
+2025-11-06 17:57:05.288 dataS/character/playerF/jacket/topVest.i3d (25.12 ms)
+2025-11-06 17:57:05.291 dataS/character/playerF/shoes/workboot02.i3d (3.13 ms)
+2025-11-06 17:57:05.327 dataS/character/playerF/hairStyles/hairStylePonyTail03.i3d (35.35 ms)
+2025-11-06 17:58:29.916 zone joined the game
+2025-11-06 17:58:29.949 dataS/character/playerM/heads/mHead02.i3d (16.53 ms)
+2025-11-06 17:58:30.075 dataS/character/playerM/jacket/caseIH/caseIHTop.i3d (126.05 ms)
+2025-11-06 17:58:30.084 dataS/character/playerM/attachments/caseIHhat.i3d (9.23 ms)
+2025-11-06 17:58:30.100 dataS/character/playerM/facialHair/mHead02/fullBeard.i3d (15.04 ms)
+2025-11-06 17:59:45.515 dataS/character/playerF/pants/botCargo.i3d (18.09 ms)
+2025-11-06 17:59:45.540 dataS/character/playerF/jacket/topVest.i3d (25.44 ms)
+2025-11-06 17:59:45.625 dataS/character/playerF/shoes/workboot02.i3d (3.23 ms)
+2025-11-06 17:59:45.661 dataS/character/playerF/hairStyles/hairStylePonyTail03.i3d (35.39 ms)
+2025-11-06 18:03:45.648 dataS/character/playerM/gloves/strauss/glovesEsTrailLight02.i3d (69.16 ms)
+2025-11-06 18:03:45.812 dataS/character/playerM/attachments/hatWoolen.i3d (58.38 ms)
+2025-11-06 18:03:45.946 dataS/character/playerM/hairStyles/hairStyleMullet.i3d (42.24 ms)
+2025-11-06 18:03:45.960 dataS/character/playerM/facialHair/mHead02/trimmedBeard.i3d (13.49 ms)
+2025-11-06 18:11:12.502   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'BELARUS 82'
+2025-11-06 18:12:46.640   Info: [Easy Development Controls] User zwierek has logged in as master user.
+2025-11-06 18:15:29.611   Info: Set farm account balance to € 1,000,000. (8)
+2025-11-06 18:16:50.957 Game saved successfully (savegame1).
+2025-11-06 18:17:08.100 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_OldBrickFarmHouse/House1.i3d (752.58 ms)
+2025-11-06 18:17:15.191 data/placeables/brandless/fences/EU/fence09/fence09.i3d (6.65 ms)
+2025-11-06 18:17:16.266 data/placeables/brandless/fences/US/fence17/fence17.i3d (2.90 ms)
+2025-11-06 18:17:17.635 data/placeables/brandless/fences/EU/fence16/fence16.i3d (14.44 ms)
+2025-11-06 18:17:18.826 data/placeables/brandless/fences/EU/fence12/fence12.i3d (6.42 ms)
+2025-11-06 18:17:19.563 data/placeables/brandless/fences/US/fence16/fence16.i3d (12.21 ms)
+2025-11-06 18:17:19.995 data/placeables/brandless/fences/EU/fence20/fence20.i3d (12.92 ms)
+2025-11-06 18:17:20.705 data/placeables/brandless/fences/US/fence04/fence04.i3d (6.03 ms)
+2025-11-06 18:17:21.085 data/placeables/brandless/fences/US/fence01/fence01.i3d (10.09 ms)
+2025-11-06 18:17:21.414 data/placeables/brandless/fences/US/fence06/fence06.i3d (9.27 ms)
+2025-11-06 18:17:21.865 data/placeables/brandless/fences/US/fence07/fence07.i3d (12.77 ms)
+2025-11-06 18:17:22.296 data/placeables/brandless/fences/US/fence11/fence11.i3d (10.86 ms)
+2025-11-06 18:17:22.674 data/placeables/brandless/fences/US/fence12/fence12.i3d (12.47 ms)
+2025-11-06 18:17:22.970 data/placeables/brandless/fences/US/fence11/fence11.i3d (9.20 ms)
+2025-11-06 18:17:23.490 data/placeables/brandless/fences/US/fence08/fence08.i3d (18.67 ms)
+2025-11-06 18:17:23.915 data/placeables/brandless/fences/US/fence09/fence09.i3d (15.90 ms)
+2025-11-06 18:17:24.320 data/placeables/brandless/fences/AS/fence12/fence12.i3d (6.88 ms)
+2025-11-06 18:17:35.041 dataS/character/playerM/heads/mHead05.i3d (199.09 ms)
+2025-11-06 18:17:35.137 dataS/character/playerM/shirts/zipNeckPullover.i3d (95.89 ms)
+2025-11-06 18:17:35.180 dataS/character/playerM/hairStyles/hairStyleManBun.i3d (42.83 ms)
+2025-11-06 18:17:35.190 dataS/character/playerM/facialHair/mHead05/goatee02.i3d (10.25 ms)
+2025-11-06 18:19:28.208 data/maps/mapUS/textures/props/flowerpot01.i3d (1.59 ms)
+2025-11-06 18:19:28.210 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_HouseSN/DomN.i3d (145.01 ms)
+2025-11-06 18:19:29.050 M@rcin joined the game
+2025-11-06 18:19:29.086 dataS/character/playerM/jacket/topAviatorJacket.i3d (19.54 ms)
+2025-11-06 18:19:29.122 dataS/character/playerM/hairStyles/hairStyleDiablo.i3d (35.01 ms)
+2025-11-06 18:19:29.124 dataS/character/playerM/facialHair/mHead01/beardStubble.i3d (1.63 ms)
+2025-11-06 18:19:33.621 data/placeables/brandless/fences/AS/fence01/fence01.i3d (6.30 ms)
+2025-11-06 18:19:35.049 data/placeables/brandless/fences/AS/fence07/fence07.i3d (7.80 ms)
+2025-11-06 18:19:35.467 data/placeables/brandless/fences/US/fence09/fence09.i3d (10.22 ms)
+2025-11-06 18:19:35.878 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_mrhCowBarns/fences/animalCowFence.i3d (90.20 ms)
+2025-11-06 18:19:36.161 data/placeables/brandless/fences/US/fence12/fence12.i3d (10.46 ms)
+2025-11-06 18:19:36.634 data/placeables/brandless/fences/US/fence02/fence02.i3d (13.39 ms)
+2025-11-06 18:19:37.616 data/placeables/brandless/fences/US/fence01/fence01.i3d (10.12 ms)
+2025-11-06 18:19:38.263 data/placeables/brandless/fences/US/fence10/fence10.i3d (39.91 ms)
+2025-11-06 18:19:38.620 data/placeables/brandless/fences/EU/fence18/fence18.i3d (6.78 ms)
+2025-11-06 18:19:39.060 data/placeables/brandless/fences/AS/fence06/fence06.i3d (8.42 ms)
+2025-11-06 18:19:39.475 data/placeables/brandless/fences/husbandries/level01/fencesFarmLevel01.i3d (6.90 ms)
+2025-11-06 18:19:47.882 data/placeables/brandless/fences/AS/fence15/fence15.i3d (13.10 ms)
+2025-11-06 18:19:49.153 data/placeables/brandless/fences/AS/fence09/fence09.i3d (4.80 ms)
+2025-11-06 18:19:50.234 data/placeables/brandless/fences/AS/fence08/fence08.i3d (7.68 ms)
+2025-11-06 18:19:50.620 data/placeables/brandless/fences/AS/fence03/fence03.i3d (27.07 ms)
+2025-11-06 18:19:51.087 data/placeables/brandless/fences/AS/fence04/fence04.i3d (3.44 ms)
+2025-11-06 18:19:51.914 data/placeables/brandless/fences/husbandries/level02/fencesFarmLevel02.i3d (5.97 ms)
+2025-11-06 18:19:52.287 data/placeables/brandless/fences/AS/fence14/fence14.i3d (4.42 ms)
+2025-11-06 18:19:52.443 data/placeables/brandless/fences/husbandries/level02/fencesFarmLevel02.i3d (5.80 ms)
+2025-11-06 18:19:52.451 Warning (script): 'getTranslation': Argument 1 has wrong type. Expected: Int. Actual: Nil
+
+  D:\auto_builder\cache\svn\5e7c1a71ecbc79d8f508d9807d643f79\src\base\scripting\lua\LuauScriptSystem.cpp (1127): expectedType == Value::VoidType || expectedType == Value::ClassType2025-11-06 18:19:52.451 
+Script error: 'getTranslation': Argument 1 has wrong type. Expected: Int. Actual: Nil
+
+LUA call stack:
+  =[C]:-1 getTranslation
+  =dataS/scripts/placeables/Placeable.lua:908 writeStream
+  =dataS/scripts/network/Server.lua:203 update
+  =dataS/scripts/BaseMission.lua:1023 update
+  =dataS/scripts/FSBaseMission.lua:1913 update
+  =dataS/scripts/mission00.lua:684 update
+  =dataS/scripts/main.lua:1238 update
+2025-11-06 18:19:52.452 Warning (script): 'getRotation': Argument 1 has wrong type. Expected: Int. Actual: Nil
+
+  D:\auto_builder\cache\svn\5e7c1a71ecbc79d8f508d9807d643f79\src\base\scripting\lua\LuauScriptSystem.cpp (1127): expectedType == Value::VoidType || expectedType == Value::ClassType2025-11-06 18:19:52.452 
+Script error: 'getRotation': Argument 1 has wrong type. Expected: Int. Actual: Nil
+
+LUA call stack:
+  =[C]:-1 getRotation
+  =dataS/scripts/placeables/Placeable.lua:909 writeStream
+  =dataS/scripts/network/Server.lua:203 update
+  =dataS/scripts/BaseMission.lua:1023 update
+  =dataS/scripts/FSBaseMission.lua:1913 update
+  =dataS/scripts/mission00.lua:684 update
+  =dataS/scripts/main.lua:1238 update
+2025-11-06 18:19:52.452 Warning (script): 'streamWriteFloat32': Argument 1 has wrong type. Expected: Float. Actual: Nil
+
+  D:\auto_builder\cache\svn\5e7c1a71ecbc79d8f508d9807d643f79\src\base\scripting\lua\LuauScriptSystem.cpp (1127): expectedType == Value::VoidType || expectedType == Value::ClassType2025-11-06 18:19:52.452 
+Script error: 'streamWriteFloat32': Argument 1 has wrong type. Expected: Float. Actual: Nil
+
+LUA call stack:
+  =[C]:-1 streamWriteFloat32
+  =dataS/scripts/placeables/Placeable.lua:910 writeStream
+  =dataS/scripts/network/Server.lua:203 update
+  =dataS/scripts/BaseMission.lua:1023 update
+  =dataS/scripts/FSBaseMission.lua:1913 update
+  =dataS/scripts/mission00.lua:684 update
+  =dataS/scripts/main.lua:1238 update
+2025-11-06 18:19:52.452 Warning (script): 'streamWriteFloat32': Argument 1 has wrong type. Expected: Float. Actual: Nil
+
+  D:\auto_builder\cache\svn\5e7c1a71ecbc79d8f508d9807d643f79\src\base\scripting\lua\LuauScriptSystem.cpp (1127): expectedType == Value::VoidType || expectedType == Value::ClassType2025-11-06 18:19:52.452 
+Script error: 'streamWriteFloat32': Argument 1 has wrong type. Expected: Float. Actual: Nil
+
+LUA call stack:
+  =[C]:-1 streamWriteFloat32
+  =dataS/scripts/placeables/Placeable.lua:911 writeStream
+  =dataS/scripts/network/Server.lua:203 update
+  =dataS/scripts/BaseMission.lua:1023 update
+  =dataS/scripts/FSBaseMission.lua:1913 update
+  =dataS/scripts/mission00.lua:684 update
+  =dataS/scripts/main.lua:1238 update
+2025-11-06 18:19:52.452 Warning (script): 'streamWriteFloat32': Argument 1 has wrong type. Expected: Float. Actual: Nil
+
+  D:\auto_builder\cache\svn\5e7c1a71ecbc79d8f508d9807d643f79\src\base\scripting\lua\LuauScriptSystem.cpp (1127): expectedType == Value::VoidType || expectedType == Value::ClassType2025-11-06 18:19:52.452 
+Script error: 'streamWriteFloat32': Argument 1 has wrong type. Expected: Float. Actual: Nil
+
+LUA call stack:
+  =[C]:-1 streamWriteFloat32
+  =dataS/scripts/placeables/Placeable.lua:912 writeStream
+  =dataS/scripts/network/Server.lua:203 update
+  =dataS/scripts/BaseMission.lua:1023 update
+  =dataS/scripts/FSBaseMission.lua:1913 update
+  =dataS/scripts/mission00.lua:684 update
+  =dataS/scripts/main.lua:1238 update
+2025-11-06 18:19:52.452 Warning (script): 'streamWriteFloat32': Argument 1 has wrong type. Expected: Float. Actual: Nil
+
+  D:\auto_builder\cache\svn\5e7c1a71ecbc79d8f508d9807d643f79\src\base\scripting\lua\LuauScriptSystem.cpp (1127): expectedType == Value::VoidType || expectedType == Value::ClassType2025-11-06 18:19:52.452 
+Script error: 'streamWriteFloat32': Argument 1 has wrong type. Expected: Float. Actual: Nil
+
+LUA call stack:
+  =[C]:-1 streamWriteFloat32
+  =dataS/scripts/placeables/Placeable.lua:913 writeStream
+  =dataS/scripts/network/Server.lua:203 update
+  =dataS/scripts/BaseMission.lua:1023 update
+  =dataS/scripts/FSBaseMission.lua:1913 update
+  =dataS/scripts/mission00.lua:684 update
+  =dataS/scripts/main.lua:1238 update
+2025-11-06 18:19:52.452 Warning (script): 'streamWriteFloat32': Argument 1 has wrong type. Expected: Float. Actual: Nil
+
+  D:\auto_builder\cache\svn\5e7c1a71ecbc79d8f508d9807d643f79\src\base\scripting\lua\LuauScriptSystem.cpp (1127): expectedType == Value::VoidType || expectedType == Value::ClassType2025-11-06 18:19:52.452 
+Script error: 'streamWriteFloat32': Argument 1 has wrong type. Expected: Float. Actual: Nil
+
+LUA call stack:
+  =[C]:-1 streamWriteFloat32
+  =dataS/scripts/placeables/Placeable.lua:914 writeStream
+  =dataS/scripts/network/Server.lua:203 update
+  =dataS/scripts/BaseMission.lua:1023 update
+  =dataS/scripts/FSBaseMission.lua:1913 update
+  =dataS/scripts/mission00.lua:684 update
+  =dataS/scripts/main.lua:1238 update
+2025-11-06 18:19:52.453 Warning (script): 'streamWriteFloat32': Argument 1 has wrong type. Expected: Float. Actual: Nil
+
+  D:\auto_builder\cache\svn\5e7c1a71ecbc79d8f508d9807d643f79\src\base\scripting\lua\LuauScriptSystem.cpp (1127): expectedType == Value::VoidType || expectedType == Value::ClassType2025-11-06 18:19:52.454 
+Script error: 'streamWriteFloat32': Argument 1 has wrong type. Expected: Float. Actual: Nil
+
+LUA call stack:
+  =[C]:-1 streamWriteFloat32
+  =dataS/scripts/placeables/Placeable.lua:915 writeStream
+  =dataS/scripts/network/Server.lua:203 update
+  =dataS/scripts/BaseMission.lua:1023 update
+  =dataS/scripts/FSBaseMission.lua:1913 update
+  =dataS/scripts/mission00.lua:684 update
+  =dataS/scripts/main.lua:1238 update
+2025-11-06 18:19:52.456 Warning (script): 'getTranslation': Argument 1 has wrong type. Expected: Int. Actual: Nil
+
+  D:\auto_builder\cache\svn\5e7c1a71ecbc79d8f508d9807d643f79\src\base\scripting\lua\LuauScriptSystem.cpp (1127): expectedType == Value::VoidType || expectedType == Value::ClassType2025-11-06 18:19:52.456 
+Script error: 'getTranslation': Argument 1 has wrong type. Expected: Int. Actual: Nil
+
+LUA call stack:
+  =[C]:-1 getTranslation
+  =dataS/scripts/placeables/Placeable.lua:908 writeStream
+  =dataS/scripts/network/Server.lua:203 update
+  =dataS/scripts/BaseMission.lua:1023 update
+  =dataS/scripts/FSBaseMission.lua:1913 update
+  =dataS/scripts/mission00.lua:684 update
+  =dataS/scripts/main.lua:1238 update
+2025-11-06 18:19:52.456 Warning (script): 'getRotation': Argument 1 has wrong type. Expected: Int. Actual: Nil
+
+  D:\auto_builder\cache\svn\5e7c1a71ecbc79d8f508d9807d643f79\src\base\scripting\lua\LuauScriptSystem.cpp (1127): expectedType == Value::VoidType || expectedType == Value::ClassType2025-11-06 18:19:52.457 
+Script error: 'getRotation': Argument 1 has wrong type. Expected: Int. Actual: Nil
+
+LUA call stack:
+  =[C]:-1 getRotation
+  =dataS/scripts/placeables/Placeable.lua:909 writeStream
+  =dataS/scripts/network/Server.lua:203 update
+  =dataS/scripts/BaseMission.lua:1023 update
+  =dataS/scripts/FSBaseMission.lua:1913 update
+  =dataS/scripts/mission00.lua:684 update
+  =dataS/scripts/main.lua:1238 update
+2025-11-06 18:19:52.457 Warning (script): 'streamWriteFloat32': Argument 1 has wrong type. Expected: Float. Actual: Nil
+
+  D:\auto_builder\cache\svn\5e7c1a71ecbc79d8f508d9807d643f79\src\base\scripting\lua\LuauScriptSystem.cpp (1127): expectedType == Value::VoidType || expectedType == Value::ClassType2025-11-06 18:19:52.457 
+Script error: 'streamWriteFloat32': Argument 1 has wrong type. Expected: Float. Actual: Nil
+
+LUA call stack:
+  =[C]:-1 streamWriteFloat32
+  =dataS/scripts/placeables/Placeable.lua:910 writeStream
+  =dataS/scripts/network/Server.lua:203 update
+  =dataS/scripts/BaseMission.lua:1023 update
+  =dataS/scripts/FSBaseMission.lua:1913 update
+  =dataS/scripts/mission00.lua:684 update
+  =dataS/scripts/main.lua:1238 update
+2025-11-06 18:19:52.457 Warning (script): 'streamWriteFloat32': Argument 1 has wrong type. Expected: Float. Actual: Nil
+
+  D:\auto_builder\cache\svn\5e7c1a71ecbc79d8f508d9807d643f79\src\base\scripting\lua\LuauScriptSystem.cpp (1127): expectedType == Value::VoidType || expectedType == Value::ClassType2025-11-06 18:19:52.457 
+Script error: 'streamWriteFloat32': Argument 1 has wrong type. Expected: Float. Actual: Nil
+
+LUA call stack:
+  =[C]:-1 streamWriteFloat32
+  =dataS/scripts/placeables/Placeable.lua:911 writeStream
+  =dataS/scripts/network/Server.lua:203 update
+  =dataS/scripts/BaseMission.lua:1023 update
+  =dataS/scripts/FSBaseMission.lua:1913 update
+  =dataS/scripts/mission00.lua:684 update
+  =dataS/scripts/main.lua:1238 update
+2025-11-06 18:19:52.457 Warning (script): 'streamWriteFloat32': Argument 1 has wrong type. Expected: Float. Actual: Nil
+
+  D:\auto_builder\cache\svn\5e7c1a71ecbc79d8f508d9807d643f79\src\base\scripting\lua\LuauScriptSystem.cpp (1127): expectedType == Value::VoidType || expectedType == Value::ClassType2025-11-06 18:19:52.457 
+Script error: 'streamWriteFloat32': Argument 1 has wrong type. Expected: Float. Actual: Nil
+
+LUA call stack:
+  =[C]:-1 streamWriteFloat32
+  =dataS/scripts/placeables/Placeable.lua:912 writeStream
+  =dataS/scripts/network/Server.lua:203 update
+  =dataS/scripts/BaseMission.lua:1023 update
+  =dataS/scripts/FSBaseMission.lua:1913 update
+  =dataS/scripts/mission00.lua:684 update
+  =dataS/scripts/main.lua:1238 update
+2025-11-06 18:19:52.457 Warning (script): 'streamWriteFloat32': Argument 1 has wrong type. Expected: Float. Actual: Nil
+
+  D:\auto_builder\cache\svn\5e7c1a71ecbc79d8f508d9807d643f79\src\base\scripting\lua\LuauScriptSystem.cpp (1127): expectedType == Value::VoidType || expectedType == Value::ClassType2025-11-06 18:19:52.457 
+Script error: 'streamWriteFloat32': Argument 1 has wrong type. Expected: Float. Actual: Nil
+
+LUA call stack:
+  =[C]:-1 streamWriteFloat32
+  =dataS/scripts/placeables/Placeable.lua:913 writeStream
+  =dataS/scripts/network/Server.lua:203 update
+  =dataS/scripts/BaseMission.lua:1023 update
+  =dataS/scripts/FSBaseMission.lua:1913 update
+  =dataS/scripts/mission00.lua:684 update
+  =dataS/scripts/main.lua:1238 update
+2025-11-06 18:19:52.457 Warning (script): 'streamWriteFloat32': Argument 1 has wrong type. Expected: Float. Actual: Nil
+
+  D:\auto_builder\cache\svn\5e7c1a71ecbc79d8f508d9807d643f79\src\base\scripting\lua\LuauScriptSystem.cpp (1127): expectedType == Value::VoidType || expectedType == Value::ClassType2025-11-06 18:19:52.457 
+Script error: 'streamWriteFloat32': Argument 1 has wrong type. Expected: Float. Actual: Nil
+
+LUA call stack:
+  =[C]:-1 streamWriteFloat32
+  =dataS/scripts/placeables/Placeable.lua:914 writeStream
+  =dataS/scripts/network/Server.lua:203 update
+  =dataS/scripts/BaseMission.lua:1023 update
+  =dataS/scripts/FSBaseMission.lua:1913 update
+  =dataS/scripts/mission00.lua:684 update
+  =dataS/scripts/main.lua:1238 update
+2025-11-06 18:19:52.457 Warning (script): 'streamWriteFloat32': Argument 1 has wrong type. Expected: Float. Actual: Nil
+
+  D:\auto_builder\cache\svn\5e7c1a71ecbc79d8f508d9807d643f79\src\base\scripting\lua\LuauScriptSystem.cpp (1127): expectedType == Value::VoidType || expectedType == Value::ClassType2025-11-06 18:19:52.457 
+Script error: 'streamWriteFloat32': Argument 1 has wrong type. Expected: Float. Actual: Nil
+
+LUA call stack:
+  =[C]:-1 streamWriteFloat32
+  =dataS/scripts/placeables/Placeable.lua:915 writeStream
+  =dataS/scripts/network/Server.lua:203 update
+  =dataS/scripts/BaseMission.lua:1023 update
+  =dataS/scripts/FSBaseMission.lua:1913 update
+  =dataS/scripts/mission00.lua:684 update
+  =dataS/scripts/main.lua:1238 update
+2025-11-06 18:19:52.458 Warning (script): 'getTranslation': Argument 1 has wrong type. Expected: Int. Actual: Nil
+
+  D:\auto_builder\cache\svn\5e7c1a71ecbc79d8f508d9807d643f79\src\base\scripting\lua\LuauScriptSystem.cpp (1127): expectedType == Value::VoidType || expectedType == Value::ClassType2025-11-06 18:19:52.458 
+Script error: 'getTranslation': Argument 1 has wrong type. Expected: Int. Actual: Nil
+
+LUA call stack:
+  =[C]:-1 getTranslation
+  =dataS/scripts/placeables/Placeable.lua:908 writeStream
+  =dataS/scripts/network/Server.lua:203 update
+  =dataS/scripts/BaseMission.lua:1023 update
+  =dataS/scripts/FSBaseMission.lua:1913 update
+  =dataS/scripts/mission00.lua:684 update
+  =dataS/scripts/main.lua:1238 update
+2025-11-06 18:19:52.458 Warning (script): 'getRotation': Argument 1 has wrong type. Expected: Int. Actual: Nil
+
+  D:\auto_builder\cache\svn\5e7c1a71ecbc79d8f508d9807d643f79\src\base\scripting\lua\LuauScriptSystem.cpp (1127): expectedType == Value::VoidType || expectedType == Value::ClassType2025-11-06 18:19:52.458 
+Script error: 'getRotation': Argument 1 has wrong type. Expected: Int. Actual: Nil
+
+LUA call stack:
+  =[C]:-1 getRotation
+  =dataS/scripts/placeables/Placeable.lua:909 writeStream
+  =dataS/scripts/network/Server.lua:203 update
+  =dataS/scripts/BaseMission.lua:1023 update
+  =dataS/scripts/FSBaseMission.lua:1913 update
+  =dataS/scripts/mission00.lua:684 update
+  =dataS/scripts/main.lua:1238 update
+2025-11-06 18:19:52.459 Warning (script): 'streamWriteFloat32': Argument 1 has wrong type. Expected: Float. Actual: Nil
+
+  D:\auto_builder\cache\svn\5e7c1a71ecbc79d8f508d9807d643f79\src\base\scripting\lua\LuauScriptSystem.cpp (1127): expectedType == Value::VoidType || expectedType == Value::ClassType2025-11-06 18:19:52.459 
+Script error: 'streamWriteFloat32': Argument 1 has wrong type. Expected: Float. Actual: Nil
+
+LUA call stack:
+  =[C]:-1 streamWriteFloat32
+  =dataS/scripts/placeables/Placeable.lua:910 writeStream
+  =dataS/scripts/network/Server.lua:203 update
+  =dataS/scripts/BaseMission.lua:1023 update
+  =dataS/scripts/FSBaseMission.lua:1913 update
+  =dataS/scripts/mission00.lua:684 update
+  =dataS/scripts/main.lua:1238 update
+2025-11-06 18:19:52.459 Warning (script): 'streamWriteFloat32': Argument 1 has wrong type. Expected: Float. Actual: Nil
+
+  D:\auto_builder\cache\svn\5e7c1a71ecbc79d8f508d9807d643f79\src\base\scripting\lua\LuauScriptSystem.cpp (1127): expectedType == Value::VoidType || expectedType == Value::ClassType2025-11-06 18:19:52.459 
+Script error: 'streamWriteFloat32': Argument 1 has wrong type. Expected: Float. Actual: Nil
+
+LUA call stack:
+  =[C]:-1 streamWriteFloat32
+  =dataS/scripts/placeables/Placeable.lua:911 writeStream
+  =dataS/scripts/network/Server.lua:203 update
+  =dataS/scripts/BaseMission.lua:1023 update
+  =dataS/scripts/FSBaseMission.lua:1913 update
+  =dataS/scripts/mission00.lua:684 update
+  =dataS/scripts/main.lua:1238 update
+2025-11-06 18:19:52.459 Warning (script): 'streamWriteFloat32': Argument 1 has wrong type. Expected: Float. Actual: Nil
+
+  D:\auto_builder\cache\svn\5e7c1a71ecbc79d8f508d9807d643f79\src\base\scripting\lua\LuauScriptSystem.cpp (1127): expectedType == Value::VoidType || expectedType == Value::ClassType2025-11-06 18:19:52.459 
+Script error: 'streamWriteFloat32': Argument 1 has wrong type. Expected: Float. Actual: Nil
+
+LUA call stack:
+  =[C]:-1 streamWriteFloat32
+  =dataS/scripts/placeables/Placeable.lua:912 writeStream
+  =dataS/scripts/network/Server.lua:203 update
+  =dataS/scripts/BaseMission.lua:1023 update
+  =dataS/scripts/FSBaseMission.lua:1913 update
+  =dataS/scripts/mission00.lua:684 update
+  =dataS/scripts/main.lua:1238 update
+2025-11-06 18:19:52.459 Warning (script): 'streamWriteFloat32': Argument 1 has wrong type. Expected: Float. Actual: Nil
+
+  D:\auto_builder\cache\svn\5e7c1a71ecbc79d8f508d9807d643f79\src\base\scripting\lua\LuauScriptSystem.cpp (1127): expectedType == Value::VoidType || expectedType == Value::ClassType2025-11-06 18:19:52.459 
+Script error: 'streamWriteFloat32': Argument 1 has wrong type. Expected: Float. Actual: Nil
+
+LUA call stack:
+  =[C]:-1 streamWriteFloat32
+  =dataS/scripts/placeables/Placeable.lua:913 writeStream
+  =dataS/scripts/network/Server.lua:203 update
+  =dataS/scripts/BaseMission.lua:1023 update
+  =dataS/scripts/FSBaseMission.lua:1913 update
+  =dataS/scripts/mission00.lua:684 update
+  =dataS/scripts/main.lua:1238 update
+2025-11-06 18:19:52.459 Warning (script): 'streamWriteFloat32': Argument 1 has wrong type. Expected: Float. Actual: Nil
+
+  D:\auto_builder\cache\svn\5e7c1a71ecbc79d8f508d9807d643f79\src\base\scripting\lua\LuauScriptSystem.cpp (1127): expectedType == Value::VoidType || expectedType == Value::ClassType2025-11-06 18:19:52.459 
+Script error: 'streamWriteFloat32': Argument 1 has wrong type. Expected: Float. Actual: Nil
+
+LUA call stack:
+  =[C]:-1 streamWriteFloat32
+  =dataS/scripts/placeables/Placeable.lua:914 writeStream
+  =dataS/scripts/network/Server.lua:203 update
+  =dataS/scripts/BaseMission.lua:1023 update
+  =dataS/scripts/FSBaseMission.lua:1913 update
+  =dataS/scripts/mission00.lua:684 update
+  =dataS/scripts/main.lua:1238 update
+2025-11-06 18:19:52.459 Warning (script): 'streamWriteFloat32': Argument 1 has wrong type. Expected: Float. Actual: Nil
+
+  D:\auto_builder\cache\svn\5e7c1a71ecbc79d8f508d9807d643f79\src\base\scripting\lua\LuauScriptSystem.cpp (1127): expectedType == Value::VoidType || expectedType == Value::ClassType2025-11-06 18:19:52.459 
+Script error: 'streamWriteFloat32': Argument 1 has wrong type. Expected: Float. Actual: Nil
+
+LUA call stack:
+  =[C]:-1 streamWriteFloat32
+  =dataS/scripts/placeables/Placeable.lua:915 writeStream
+  =dataS/scripts/network/Server.lua:203 update
+  =dataS/scripts/BaseMission.lua:1023 update
+  =dataS/scripts/FSBaseMission.lua:1913 update
+  =dataS/scripts/mission00.lua:684 update
+  =dataS/scripts/main.lua:1238 update
+2025-11-06 18:19:52.460 Warning (script): 'getTranslation': Argument 1 has wrong type. Expected: Int. Actual: Nil
+
+  D:\auto_builder\cache\svn\5e7c1a71ecbc79d8f508d9807d643f79\src\base\scripting\lua\LuauScriptSystem.cpp (1127): expectedType == Value::VoidType || expectedType == Value::ClassType2025-11-06 18:19:52.460 
+Script error: 'getTranslation': Argument 1 has wrong type. Expected: Int. Actual: Nil
+
+LUA call stack:
+  =[C]:-1 getTranslation
+  =dataS/scripts/placeables/Placeable.lua:908 writeStream
+  =dataS/scripts/network/Server.lua:203 update
+  =dataS/scripts/BaseMission.lua:1023 update
+  =dataS/scripts/FSBaseMission.lua:1913 update
+  =dataS/scripts/mission00.lua:684 update
+  =dataS/scripts/main.lua:1238 update
+2025-11-06 18:19:52.460 Warning (script): 'getRotation': Argument 1 has wrong type. Expected: Int. Actual: Nil
+
+  D:\auto_builder\cache\svn\5e7c1a71ecbc79d8f508d9807d643f79\src\base\scripting\lua\LuauScriptSystem.cpp (1127): expectedType == Value::VoidType || expectedType == Value::ClassType2025-11-06 18:19:52.460 
+Script error: 'getRotation': Argument 1 has wrong type. Expected: Int. Actual: Nil
+
+LUA call stack:
+  =[C]:-1 getRotation
+  =dataS/scripts/placeables/Placeable.lua:909 writeStream
+  =dataS/scripts/network/Server.lua:203 update
+  =dataS/scripts/BaseMission.lua:1023 update
+  =dataS/scripts/FSBaseMission.lua:1913 update
+  =dataS/scripts/mission00.lua:684 update
+  =dataS/scripts/main.lua:1238 update
+2025-11-06 18:19:52.460 Warning (script): 'streamWriteFloat32': Argument 1 has wrong type. Expected: Float. Actual: Nil
+
+  D:\auto_builder\cache\svn\5e7c1a71ecbc79d8f508d9807d643f79\src\base\scripting\lua\LuauScriptSystem.cpp (1127): expectedType == Value::VoidType || expectedType == Value::ClassType2025-11-06 18:19:52.460 
+Script error: 'streamWriteFloat32': Argument 1 has wrong type. Expected: Float. Actual: Nil
+
+LUA call stack:
+  =[C]:-1 streamWriteFloat32
+  =dataS/scripts/placeables/Placeable.lua:910 writeStream
+  =dataS/scripts/network/Server.lua:203 update
+  =dataS/scripts/BaseMission.lua:1023 update
+  =dataS/scripts/FSBaseMission.lua:1913 update
+  =dataS/scripts/mission00.lua:684 update
+  =dataS/scripts/main.lua:1238 update
+2025-11-06 18:19:52.460 Warning (script): 'streamWriteFloat32': Argument 1 has wrong type. Expected: Float. Actual: Nil
+
+  D:\auto_builder\cache\svn\5e7c1a71ecbc79d8f508d9807d643f79\src\base\scripting\lua\LuauScriptSystem.cpp (1127): expectedType == Value::VoidType || expectedType == Value::ClassType2025-11-06 18:19:52.460 
+Script error: 'streamWriteFloat32': Argument 1 has wrong type. Expected: Float. Actual: Nil
+
+LUA call stack:
+  =[C]:-1 streamWriteFloat32
+  =dataS/scripts/placeables/Placeable.lua:911 writeStream
+  =dataS/scripts/network/Server.lua:203 update
+  =dataS/scripts/BaseMission.lua:1023 update
+  =dataS/scripts/FSBaseMission.lua:1913 update
+  =dataS/scripts/mission00.lua:684 update
+  =dataS/scripts/main.lua:1238 update
+2025-11-06 18:19:52.460 Warning (script): 'streamWriteFloat32': Argument 1 has wrong type. Expected: Float. Actual: Nil
+
+  D:\auto_builder\cache\svn\5e7c1a71ecbc79d8f508d9807d643f79\src\base\scripting\lua\LuauScriptSystem.cpp (1127): expectedType == Value::VoidType || expectedType == Value::ClassType2025-11-06 18:19:52.461 
+Script error: 'streamWriteFloat32': Argument 1 has wrong type. Expected: Float. Actual: Nil
+
+LUA call stack:
+  =[C]:-1 streamWriteFloat32
+  =dataS/scripts/placeables/Placeable.lua:912 writeStream
+  =dataS/scripts/network/Server.lua:203 update
+  =dataS/scripts/BaseMission.lua:1023 update
+  =dataS/scripts/FSBaseMission.lua:1913 update
+  =dataS/scripts/mission00.lua:684 update
+  =dataS/scripts/main.lua:1238 update
+2025-11-06 18:19:52.461 Warning (script): 'streamWriteFloat32': Argument 1 has wrong type. Expected: Float. Actual: Nil
+
+  D:\auto_builder\cache\svn\5e7c1a71ecbc79d8f508d9807d643f79\src\base\scripting\lua\LuauScriptSystem.cpp (1127): expectedType == Value::VoidType || expectedType == Value::ClassType2025-11-06 18:19:52.461 
+Script error: 'streamWriteFloat32': Argument 1 has wrong type. Expected: Float. Actual: Nil
+
+LUA call stack:
+  =[C]:-1 streamWriteFloat32
+  =dataS/scripts/placeables/Placeable.lua:913 writeStream
+  =dataS/scripts/network/Server.lua:203 update
+  =dataS/scripts/BaseMission.lua:1023 update
+  =dataS/scripts/FSBaseMission.lua:1913 update
+  =dataS/scripts/mission00.lua:684 update
+  =dataS/scripts/main.lua:1238 update
+2025-11-06 18:19:52.461 Warning (script): 'streamWriteFloat32': Argument 1 has wrong type. Expected: Float. Actual: Nil
+
+  D:\auto_builder\cache\svn\5e7c1a71ecbc79d8f508d9807d643f79\src\base\scripting\lua\LuauScriptSystem.cpp (1127): expectedType == Value::VoidType || expectedType == Value::ClassType2025-11-06 18:19:52.461 
+Script error: 'streamWriteFloat32': Argument 1 has wrong type. Expected: Float. Actual: Nil
+
+LUA call stack:
+  =[C]:-1 streamWriteFloat32
+  =dataS/scripts/placeables/Placeable.lua:914 writeStream
+  =dataS/scripts/network/Server.lua:203 update
+  =dataS/scripts/BaseMission.lua:1023 update
+  =dataS/scripts/FSBaseMission.lua:1913 update
+  =dataS/scripts/mission00.lua:684 update
+  =dataS/scripts/main.lua:1238 update
+2025-11-06 18:19:52.461 Warning (script): 'streamWriteFloat32': Argument 1 has wrong type. Expected: Float. Actual: Nil
+
+  D:\auto_builder\cache\svn\5e7c1a71ecbc79d8f508d9807d643f79\src\base\scripting\lua\LuauScriptSystem.cpp (1127): expectedType == Value::VoidType || expectedType == Value::ClassType2025-11-06 18:19:52.461 
+Script error: 'streamWriteFloat32': Argument 1 has wrong type. Expected: Float. Actual: Nil
+
+LUA call stack:
+  =[C]:-1 streamWriteFloat32
+  =dataS/scripts/placeables/Placeable.lua:915 writeStream
+  =dataS/scripts/network/Server.lua:203 update
+  =dataS/scripts/BaseMission.lua:1023 update
+  =dataS/scripts/FSBaseMission.lua:1913 update
+  =dataS/scripts/mission00.lua:684 update
+  =dataS/scripts/main.lua:1238 update
+2025-11-06 18:19:52.462 Warning (script): 'getTranslation': Argument 1 has wrong type. Expected: Int. Actual: Nil
+
+  D:\auto_builder\cache\svn\5e7c1a71ecbc79d8f508d9807d643f79\src\base\scripting\lua\LuauScriptSystem.cpp (1127): expectedType == Value::VoidType || expectedType == Value::ClassType2025-11-06 18:19:52.462 
+Script error: 'getTranslation': Argument 1 has wrong type. Expected: Int. Actual: Nil
+
+LUA call stack:
+  =[C]:-1 getTranslation
+  =dataS/scripts/placeables/Placeable.lua:908 writeStream
+  =dataS/scripts/network/Server.lua:203 update
+  =dataS/scripts/BaseMission.lua:1023 update
+  =dataS/scripts/FSBaseMission.lua:1913 update
+  =dataS/scripts/mission00.lua:684 update
+  =dataS/scripts/main.lua:1238 update
+2025-11-06 18:19:52.462 Warning (script): 'getRotation': Argument 1 has wrong type. Expected: Int. Actual: Nil
+
+  D:\auto_builder\cache\svn\5e7c1a71ecbc79d8f508d9807d643f79\src\base\scripting\lua\LuauScriptSystem.cpp (1127): expectedType == Value::VoidType || expectedType == Value::ClassType2025-11-06 18:19:52.462 
+Script error: 'getRotation': Argument 1 has wrong type. Expected: Int. Actual: Nil
+
+LUA call stack:
+  =[C]:-1 getRotation
+  =dataS/scripts/placeables/Placeable.lua:909 writeStream
+  =dataS/scripts/network/Server.lua:203 update
+  =dataS/scripts/BaseMission.lua:1023 update
+  =dataS/scripts/FSBaseMission.lua:1913 update
+  =dataS/scripts/mission00.lua:684 update
+  =dataS/scripts/main.lua:1238 update
+2025-11-06 18:19:52.462 Warning (script): 'streamWriteFloat32': Argument 1 has wrong type. Expected: Float. Actual: Nil
+
+  D:\auto_builder\cache\svn\5e7c1a71ecbc79d8f508d9807d643f79\src\base\scripting\lua\LuauScriptSystem.cpp (1127): expectedType == Value::VoidType || expectedType == Value::ClassType2025-11-06 18:19:52.462 
+Script error: 'streamWriteFloat32': Argument 1 has wrong type. Expected: Float. Actual: Nil
+
+LUA call stack:
+  =[C]:-1 streamWriteFloat32
+  =dataS/scripts/placeables/Placeable.lua:910 writeStream
+  =dataS/scripts/network/Server.lua:203 update
+  =dataS/scripts/BaseMission.lua:1023 update
+  =dataS/scripts/FSBaseMission.lua:1913 update
+  =dataS/scripts/mission00.lua:684 update
+  =dataS/scripts/main.lua:1238 update
+2025-11-06 18:19:52.462 Warning (script): 'streamWriteFloat32': Argument 1 has wrong type. Expected: Float. Actual: Nil
+
+  D:\auto_builder\cache\svn\5e7c1a71ecbc79d8f508d9807d643f79\src\base\scripting\lua\LuauScriptSystem.cpp (1127): expectedType == Value::VoidType || expectedType == Value::ClassType2025-11-06 18:19:52.462 
+Script error: 'streamWriteFloat32': Argument 1 has wrong type. Expected: Float. Actual: Nil
+
+LUA call stack:
+  =[C]:-1 streamWriteFloat32
+  =dataS/scripts/placeables/Placeable.lua:911 writeStream
+  =dataS/scripts/network/Server.lua:203 update
+  =dataS/scripts/BaseMission.lua:1023 update
+  =dataS/scripts/FSBaseMission.lua:1913 update
+  =dataS/scripts/mission00.lua:684 update
+  =dataS/scripts/main.lua:1238 update
+2025-11-06 18:19:52.462 Warning (script): 'streamWriteFloat32': Argument 1 has wrong type. Expected: Float. Actual: Nil
+
+  D:\auto_builder\cache\svn\5e7c1a71ecbc79d8f508d9807d643f79\src\base\scripting\lua\LuauScriptSystem.cpp (1127): expectedType == Value::VoidType || expectedType == Value::ClassType2025-11-06 18:19:52.462 
+Script error: 'streamWriteFloat32': Argument 1 has wrong type. Expected: Float. Actual: Nil
+
+LUA call stack:
+  =[C]:-1 streamWriteFloat32
+  =dataS/scripts/placeables/Placeable.lua:912 writeStream
+  =dataS/scripts/network/Server.lua:203 update
+  =dataS/scripts/BaseMission.lua:1023 update
+  =dataS/scripts/FSBaseMission.lua:1913 update
+  =dataS/scripts/mission00.lua:684 update
+  =dataS/scripts/main.lua:1238 update
+2025-11-06 18:19:52.462 Warning (script): 'streamWriteFloat32': Argument 1 has wrong type. Expected: Float. Actual: Nil
+
+  D:\auto_builder\cache\svn\5e7c1a71ecbc79d8f508d9807d643f79\src\base\scripting\lua\LuauScriptSystem.cpp (1127): expectedType == Value::VoidType || expectedType == Value::ClassType2025-11-06 18:19:52.462 
+Script error: 'streamWriteFloat32': Argument 1 has wrong type. Expected: Float. Actual: Nil
+
+LUA call stack:
+  =[C]:-1 streamWriteFloat32
+  =dataS/scripts/placeables/Placeable.lua:913 writeStream
+  =dataS/scripts/network/Server.lua:203 update
+  =dataS/scripts/BaseMission.lua:1023 update
+  =dataS/scripts/FSBaseMission.lua:1913 update
+  =dataS/scripts/mission00.lua:684 update
+  =dataS/scripts/main.lua:1238 update
+2025-11-06 18:19:52.462 Warning (script): 'streamWriteFloat32': Argument 1 has wrong type. Expected: Float. Actual: Nil
+
+  D:\auto_builder\cache\svn\5e7c1a71ecbc79d8f508d9807d643f79\src\base\scripting\lua\LuauScriptSystem.cpp (1127): expectedType == Value::VoidType || expectedType == Value::ClassType2025-11-06 18:19:52.462 
+Script error: 'streamWriteFloat32': Argument 1 has wrong type. Expected: Float. Actual: Nil
+
+LUA call stack:
+  =[C]:-1 streamWriteFloat32
+  =dataS/scripts/placeables/Placeable.lua:914 writeStream
+  =dataS/scripts/network/Server.lua:203 update
+  =dataS/scripts/BaseMission.lua:1023 update
+  =dataS/scripts/FSBaseMission.lua:1913 update
+  =dataS/scripts/mission00.lua:684 update
+  =dataS/scripts/main.lua:1238 update
+2025-11-06 18:19:52.463 Warning (script): 'streamWriteFloat32': Argument 1 has wrong type. Expected: Float. Actual: Nil
+
+  D:\auto_builder\cache\svn\5e7c1a71ecbc79d8f508d9807d643f79\src\base\scripting\lua\LuauScriptSystem.cpp (1127): expectedType == Value::VoidType || expectedType == Value::ClassType2025-11-06 18:19:52.464 
+Script error: 'streamWriteFloat32': Argument 1 has wrong type. Expected: Float. Actual: Nil
+
+LUA call stack:
+  =[C]:-1 streamWriteFloat32
+  =dataS/scripts/placeables/Placeable.lua:915 writeStream
+  =dataS/scripts/network/Server.lua:203 update
+  =dataS/scripts/BaseMission.lua:1023 update
+  =dataS/scripts/FSBaseMission.lua:1913 update
+  =dataS/scripts/mission00.lua:684 update
+  =dataS/scripts/main.lua:1238 update
+2025-11-06 18:19:52.465 Warning (script): 'getTranslation': Argument 1 has wrong type. Expected: Int. Actual: Nil
+
+  D:\auto_builder\cache\svn\5e7c1a71ecbc79d8f508d9807d643f79\src\base\scripting\lua\LuauScriptSystem.cpp (1127): expectedType == Value::VoidType || expectedType == Value::ClassType2025-11-06 18:19:52.466 
+Script error: 'getTranslation': Argument 1 has wrong type. Expected: Int. Actual: Nil
+
+LUA call stack:
+  =[C]:-1 getTranslation
+  =dataS/scripts/placeables/Placeable.lua:908 writeStream
+  =dataS/scripts/network/Server.lua:203 update
+  =dataS/scripts/BaseMission.lua:1023 update
+  =dataS/scripts/FSBaseMission.lua:1913 update
+  =dataS/scripts/mission00.lua:684 update
+  =dataS/scripts/main.lua:1238 update
+2025-11-06 18:19:52.466 Warning (script): 'getRotation': Argument 1 has wrong type. Expected: Int. Actual: Nil
+
+  D:\auto_builder\cache\svn\5e7c1a71ecbc79d8f508d9807d643f79\src\base\scripting\lua\LuauScriptSystem.cpp (1127): expectedType == Value::VoidType || expectedType == Value::ClassType2025-11-06 18:19:52.466 
+Script error: 'getRotation': Argument 1 has wrong type. Expected: Int. Actual: Nil
+
+LUA call stack:
+  =[C]:-1 getRotation
+  =dataS/scripts/placeables/Placeable.lua:909 writeStream
+  =dataS/scripts/network/Server.lua:203 update
+  =dataS/scripts/BaseMission.lua:1023 update
+  =dataS/scripts/FSBaseMission.lua:1913 update
+  =dataS/scripts/mission00.lua:684 update
+  =dataS/scripts/main.lua:1238 update
+2025-11-06 18:19:52.466 Warning (script): 'streamWriteFloat32': Argument 1 has wrong type. Expected: Float. Actual: Nil
+
+  D:\auto_builder\cache\svn\5e7c1a71ecbc79d8f508d9807d643f79\src\base\scripting\lua\LuauScriptSystem.cpp (1127): expectedType == Value::VoidType || expectedType == Value::ClassType2025-11-06 18:19:52.466 
+Script error: 'streamWriteFloat32': Argument 1 has wrong type. Expected: Float. Actual: Nil
+
+LUA call stack:
+  =[C]:-1 streamWriteFloat32
+  =dataS/scripts/placeables/Placeable.lua:910 writeStream
+  =dataS/scripts/network/Server.lua:203 update
+  =dataS/scripts/BaseMission.lua:1023 update
+  =dataS/scripts/FSBaseMission.lua:1913 update
+  =dataS/scripts/mission00.lua:684 update
+  =dataS/scripts/main.lua:1238 update
+2025-11-06 18:19:52.466 Warning (script): 'streamWriteFloat32': Argument 1 has wrong type. Expected: Float. Actual: Nil
+
+  D:\auto_builder\cache\svn\5e7c1a71ecbc79d8f508d9807d643f79\src\base\scripting\lua\LuauScriptSystem.cpp (1127): expectedType == Value::VoidType || expectedType == Value::ClassType2025-11-06 18:19:52.466 
+Script error: 'streamWriteFloat32': Argument 1 has wrong type. Expected: Float. Actual: Nil
+
+LUA call stack:
+  =[C]:-1 streamWriteFloat32
+  =dataS/scripts/placeables/Placeable.lua:911 writeStream
+  =dataS/scripts/network/Server.lua:203 update
+  =dataS/scripts/BaseMission.lua:1023 update
+  =dataS/scripts/FSBaseMission.lua:1913 update
+  =dataS/scripts/mission00.lua:684 update
+  =dataS/scripts/main.lua:1238 update
+2025-11-06 18:19:52.466 Warning (script): 'streamWriteFloat32': Argument 1 has wrong type. Expected: Float. Actual: Nil
+
+  D:\auto_builder\cache\svn\5e7c1a71ecbc79d8f508d9807d643f79\src\base\scripting\lua\LuauScriptSystem.cpp (1127): expectedType == Value::VoidType || expectedType == Value::ClassType2025-11-06 18:19:52.466 
+Script error: 'streamWriteFloat32': Argument 1 has wrong type. Expected: Float. Actual: Nil
+
+LUA call stack:
+  =[C]:-1 streamWriteFloat32
+  =dataS/scripts/placeables/Placeable.lua:912 writeStream
+  =dataS/scripts/network/Server.lua:203 update
+  =dataS/scripts/BaseMission.lua:1023 update
+  =dataS/scripts/FSBaseMission.lua:1913 update
+  =dataS/scripts/mission00.lua:684 update
+  =dataS/scripts/main.lua:1238 update
+2025-11-06 18:19:52.466 Warning (script): 'streamWriteFloat32': Argument 1 has wrong type. Expected: Float. Actual: Nil
+
+  D:\auto_builder\cache\svn\5e7c1a71ecbc79d8f508d9807d643f79\src\base\scripting\lua\LuauScriptSystem.cpp (1127): expectedType == Value::VoidType || expectedType == Value::ClassType2025-11-06 18:19:52.466 
+Script error: 'streamWriteFloat32': Argument 1 has wrong type. Expected: Float. Actual: Nil
+
+LUA call stack:
+  =[C]:-1 streamWriteFloat32
+  =dataS/scripts/placeables/Placeable.lua:913 writeStream
+  =dataS/scripts/network/Server.lua:203 update
+  =dataS/scripts/BaseMission.lua:1023 update
+  =dataS/scripts/FSBaseMission.lua:1913 update
+  =dataS/scripts/mission00.lua:684 update
+  =dataS/scripts/main.lua:1238 update
+2025-11-06 18:19:52.466 Warning (script): 'streamWriteFloat32': Argument 1 has wrong type. Expected: Float. Actual: Nil
+
+  D:\auto_builder\cache\svn\5e7c1a71ecbc79d8f508d9807d643f79\src\base\scripting\lua\LuauScriptSystem.cpp (1127): expectedType == Value::VoidType || expectedType == Value::ClassType2025-11-06 18:19:52.466 
+Script error: 'streamWriteFloat32': Argument 1 has wrong type. Expected: Float. Actual: Nil
+
+LUA call stack:
+  =[C]:-1 streamWriteFloat32
+  =dataS/scripts/placeables/Placeable.lua:914 writeStream
+  =dataS/scripts/network/Server.lua:203 update
+  =dataS/scripts/BaseMission.lua:1023 update
+  =dataS/scripts/FSBaseMission.lua:1913 update
+  =dataS/scripts/mission00.lua:684 update
+  =dataS/scripts/main.lua:1238 update
+2025-11-06 18:19:52.466 Warning (script): 'streamWriteFloat32': Argument 1 has wrong type. Expected: Float. Actual: Nil
+
+  D:\auto_builder\cache\svn\5e7c1a71ecbc79d8f508d9807d643f79\src\base\scripting\lua\LuauScriptSystem.cpp (1127): expectedType == Value::VoidType || expectedType == Value::ClassType2025-11-06 18:19:52.466 
+Script error: 'streamWriteFloat32': Argument 1 has wrong type. Expected: Float. Actual: Nil
+
+LUA call stack:
+  =[C]:-1 streamWriteFloat32
+  =dataS/scripts/placeables/Placeable.lua:915 writeStream
+  =dataS/scripts/network/Server.lua:203 update
+  =dataS/scripts/BaseMission.lua:1023 update
+  =dataS/scripts/FSBaseMission.lua:1913 update
+  =dataS/scripts/mission00.lua:684 update
+  =dataS/scripts/main.lua:1238 update
+2025-11-06 18:19:52.468 Warning (script): 'getTranslation': Argument 1 has wrong type. Expected: Int. Actual: Nil
+
+  D:\auto_builder\cache\svn\5e7c1a71ecbc79d8f508d9807d643f79\src\base\scripting\lua\LuauScriptSystem.cpp (1127): expectedType == Value::VoidType || expectedType == Value::ClassType2025-11-06 18:19:52.468 
+Script error: 'getTranslation': Argument 1 has wrong type. Expected: Int. Actual: Nil
+
+LUA call stack:
+  =[C]:-1 getTranslation
+  =dataS/scripts/placeables/Placeable.lua:908 writeStream
+  =dataS/scripts/network/Server.lua:203 update
+  =dataS/scripts/BaseMission.lua:1023 update
+  =dataS/scripts/FSBaseMission.lua:1913 update
+  =dataS/scripts/mission00.lua:684 update
+  =dataS/scripts/main.lua:1238 update
+2025-11-06 18:19:52.468 Warning (script): 'getRotation': Argument 1 has wrong type. Expected: Int. Actual: Nil
+
+  D:\auto_builder\cache\svn\5e7c1a71ecbc79d8f508d9807d643f79\src\base\scripting\lua\LuauScriptSystem.cpp (1127): expectedType == Value::VoidType || expectedType == Value::ClassType2025-11-06 18:19:52.468 
+Script error: 'getRotation': Argument 1 has wrong type. Expected: Int. Actual: Nil
+
+LUA call stack:
+  =[C]:-1 getRotation
+  =dataS/scripts/placeables/Placeable.lua:909 writeStream
+  =dataS/scripts/network/Server.lua:203 update
+  =dataS/scripts/BaseMission.lua:1023 update
+  =dataS/scripts/FSBaseMission.lua:1913 update
+  =dataS/scripts/mission00.lua:684 update
+  =dataS/scripts/main.lua:1238 update
+2025-11-06 18:19:52.468 Warning (script): 'streamWriteFloat32': Argument 1 has wrong type. Expected: Float. Actual: Nil
+
+  D:\auto_builder\cache\svn\5e7c1a71ecbc79d8f508d9807d643f79\src\base\scripting\lua\LuauScriptSystem.cpp (1127): expectedType == Value::VoidType || expectedType == Value::ClassType2025-11-06 18:19:52.468 
+Script error: 'streamWriteFloat32': Argument 1 has wrong type. Expected: Float. Actual: Nil
+
+LUA call stack:
+  =[C]:-1 streamWriteFloat32
+  =dataS/scripts/placeables/Placeable.lua:910 writeStream
+  =dataS/scripts/network/Server.lua:203 update
+  =dataS/scripts/BaseMission.lua:1023 update
+  =dataS/scripts/FSBaseMission.lua:1913 update
+  =dataS/scripts/mission00.lua:684 update
+  =dataS/scripts/main.lua:1238 update
+2025-11-06 18:19:52.468 Warning (script): 'streamWriteFloat32': Argument 1 has wrong type. Expected: Float. Actual: Nil
+
+  D:\auto_builder\cache\svn\5e7c1a71ecbc79d8f508d9807d643f79\src\base\scripting\lua\LuauScriptSystem.cpp (1127): expectedType == Value::VoidType || expectedType == Value::ClassType2025-11-06 18:19:52.468 
+Script error: 'streamWriteFloat32': Argument 1 has wrong type. Expected: Float. Actual: Nil
+
+LUA call stack:
+  =[C]:-1 streamWriteFloat32
+  =dataS/scripts/placeables/Placeable.lua:911 writeStream
+  =dataS/scripts/network/Server.lua:203 update
+  =dataS/scripts/BaseMission.lua:1023 update
+  =dataS/scripts/FSBaseMission.lua:1913 update
+  =dataS/scripts/mission00.lua:684 update
+  =dataS/scripts/main.lua:1238 update
+2025-11-06 18:19:52.468 Warning (script): 'streamWriteFloat32': Argument 1 has wrong type. Expected: Float. Actual: Nil
+
+  D:\auto_builder\cache\svn\5e7c1a71ecbc79d8f508d9807d643f79\src\base\scripting\lua\LuauScriptSystem.cpp (1127): expectedType == Value::VoidType || expectedType == Value::ClassType2025-11-06 18:19:52.468 
+Script error: 'streamWriteFloat32': Argument 1 has wrong type. Expected: Float. Actual: Nil
+
+LUA call stack:
+  =[C]:-1 streamWriteFloat32
+  =dataS/scripts/placeables/Placeable.lua:912 writeStream
+  =dataS/scripts/network/Server.lua:203 update
+  =dataS/scripts/BaseMission.lua:1023 update
+  =dataS/scripts/FSBaseMission.lua:1913 update
+  =dataS/scripts/mission00.lua:684 update
+  =dataS/scripts/main.lua:1238 update
+2025-11-06 18:19:52.468 Warning (script): 'streamWriteFloat32': Argument 1 has wrong type. Expected: Float. Actual: Nil
+
+  D:\auto_builder\cache\svn\5e7c1a71ecbc79d8f508d9807d643f79\src\base\scripting\lua\LuauScriptSystem.cpp (1127): expectedType == Value::VoidType || expectedType == Value::ClassType2025-11-06 18:19:52.469 
+Script error: 'streamWriteFloat32': Argument 1 has wrong type. Expected: Float. Actual: Nil
+
+LUA call stack:
+  =[C]:-1 streamWriteFloat32
+  =dataS/scripts/placeables/Placeable.lua:913 writeStream
+  =dataS/scripts/network/Server.lua:203 update
+  =dataS/scripts/BaseMission.lua:1023 update
+  =dataS/scripts/FSBaseMission.lua:1913 update
+  =dataS/scripts/mission00.lua:684 update
+  =dataS/scripts/main.lua:1238 update
+2025-11-06 18:19:52.469 Warning (script): 'streamWriteFloat32': Argument 1 has wrong type. Expected: Float. Actual: Nil
+
+  D:\auto_builder\cache\svn\5e7c1a71ecbc79d8f508d9807d643f79\src\base\scripting\lua\LuauScriptSystem.cpp (1127): expectedType == Value::VoidType || expectedType == Value::ClassType2025-11-06 18:19:52.469 
+Script error: 'streamWriteFloat32': Argument 1 has wrong type. Expected: Float. Actual: Nil
+
+LUA call stack:
+  =[C]:-1 streamWriteFloat32
+  =dataS/scripts/placeables/Placeable.lua:914 writeStream
+  =dataS/scripts/network/Server.lua:203 update
+  =dataS/scripts/BaseMission.lua:1023 update
+  =dataS/scripts/FSBaseMission.lua:1913 update
+  =dataS/scripts/mission00.lua:684 update
+  =dataS/scripts/main.lua:1238 update
+2025-11-06 18:19:52.469 Warning (script): 'streamWriteFloat32': Argument 1 has wrong type. Expected: Float. Actual: Nil
+
+  D:\auto_builder\cache\svn\5e7c1a71ecbc79d8f508d9807d643f79\src\base\scripting\lua\LuauScriptSystem.cpp (1127): expectedType == Value::VoidType || expectedType == Value::ClassType2025-11-06 18:19:52.469 
+Script error: 'streamWriteFloat32': Argument 1 has wrong type. Expected: Float. Actual: Nil
+
+LUA call stack:
+  =[C]:-1 streamWriteFloat32
+  =dataS/scripts/placeables/Placeable.lua:915 writeStream
+  =dataS/scripts/network/Server.lua:203 update
+  =dataS/scripts/BaseMission.lua:1023 update
+  =dataS/scripts/FSBaseMission.lua:1913 update
+  =dataS/scripts/mission00.lua:684 update
+  =dataS/scripts/main.lua:1238 update
+2025-11-06 18:19:52.480   Warning: Server:registerObject() object table: 0x000001a5aa8f8548 1917 Placeable already registered
+2025-11-06 18:19:52.828 data/placeables/brandless/fences/EU/fence01/fence01.i3d (5.54 ms)
+2025-11-06 18:19:57.590 data/placeables/brandless/fences/AS/fence02/fence02.i3d (4.22 ms)
+2025-11-06 18:19:58.059 data/placeables/brandless/fences/AS/fence09/fence09.i3d (4.16 ms)
+2025-11-06 18:20:40.953 data/placeables/brandless/fences/AS/fence10/fence10.i3d (8.29 ms)
+2025-11-06 18:20:42.013 data/placeables/brandless/fences/AS/fence15/fence15.i3d (3.26 ms)
+2025-11-06 18:20:42.466 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Concrete_Fences/i3d/plotBeton04.i3d (22.38 ms)
+2025-11-06 18:20:43.311 data/placeables/brandless/fences/husbandries/level03/fencesFarmLevel03.i3d (5.99 ms)
+2025-11-06 18:20:43.598 data/placeables/brandless/fences/husbandries/level01/fencesFarmLevel01.i3d (7.07 ms)
+2025-11-06 18:20:44.505 data/placeables/brandless/fences/AS/fence06/fence06.i3d (2.94 ms)
+2025-11-06 18:20:45.668 data/placeables/brandless/fences/EU/fence18/fence18.i3d (5.53 ms)
+2025-11-06 18:20:56.843 data/placeables/brandless/fences/AS/fence08/fence08.i3d (5.24 ms)
