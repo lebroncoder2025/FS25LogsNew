@@ -7240,3 +7240,26 @@ LUA call stack:
 2025-11-07 10:37:25.038 dataS/character/playerM/shoes/riding.i3d (16.59 ms)
 2025-11-07 10:37:25.073 dataS/character/playerM/hairStyles/hairStyleUnkempt.i3d (35.24 ms)
 2025-11-07 10:37:25.087 dataS/character/playerM/facialHair/mHead02/goatee01.i3d (14.05 ms)
+2025-11-07 10:48:25.412 Game saved successfully (savegame1).
+2025-11-07 10:49:24.845 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Lizard500l/Lizard500.i3d (22.00 ms)
+2025-11-07 10:50:12.200   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'STEYR 8130 Super Elite'
+2025-11-07 10:50:47.070 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.62 ms)
+2025-11-07 10:51:49.684 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.61 ms)
+2025-11-07 10:55:08.074 Romek joined the game
+2025-11-07 10:55:08.202 dataS/character/playerM/pants/strauss/motion2020Pants2ndVariant.i3d (111.08 ms)
+2025-11-07 10:55:08.352 dataS/character/playerM/jacket/topVestM.i3d (149.61 ms)
+2025-11-07 10:55:08.355 dataS/character/playerM/attachments/headgearBandana.i3d (2.58 ms)
+2025-11-07 10:55:08.357 dataS/character/playerM/attachments/glassesSports02.i3d (1.82 ms)
+2025-11-07 10:55:08.452 dataS/character/playerM/shoes/sportSneaker.i3d (94.91 ms)
+2025-11-07 10:55:08.485 dataS/character/playerM/hairStyles/hairStyleTopKnot.i3d (33.52 ms)
+2025-11-07 10:55:08.497 dataS/character/playerM/facialHair/mHead01/trimmedBeard.i3d (11.23 ms)
+2025-11-07 10:59:39.894 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.72 ms)
+2025-11-07 10:59:53.562   Info: Adding pallet.
+2025-11-07 10:59:59.482   Info: Adding pallet.
+2025-11-07 11:00:00.342   Info: Adding pallet.
+2025-11-07 11:04:05.401   Info: Successfully set fill unit 1 of Lizard MKS 8 to Buffalo Milk with a fill level of 8,000 liters.
+2025-11-07 11:07:12.910   Info: Added € 3,150 to farm account. (4)
+2025-11-07 11:07:32.941   Info: Successfully set fill unit 1 of Lizard RCW 5 to Lime with a fill level of 5,000 liters.
+2025-11-07 11:09:39.255   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'STEYR 8130 Super Elite'
+2025-11-07 11:10:06.640 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.60 ms)
+2025-11-07 11:18:28.464 Game saved successfully (savegame1).
