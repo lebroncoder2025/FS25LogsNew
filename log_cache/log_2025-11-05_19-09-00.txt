@@ -7356,3 +7356,10 @@ LUA call stack:
 2025-11-07 14:29:14.483 dataS/character/playerM/shoes/sandalM03.i3d (1.42 ms)
 2025-11-07 14:29:14.515 dataS/character/playerM/hairStyles/hairStyleBaldTop.i3d (32.06 ms)
 2025-11-07 14:29:14.524 dataS/character/playerM/facialHair/mHead01/walrusXL.i3d (8.95 ms)
+2025-11-07 14:39:10.859 hubsonwaliszot joined the game
+2025-11-07 14:39:10.891 dataS/character/playerM/heads/mHead02.i3d (16.17 ms)
+2025-11-07 14:39:11.175 dataS/character/playerM/shirts/poettinger/poettingerTshirt.i3d (284.31 ms)
+2025-11-07 14:39:11.223 dataS/character/playerM/gloves/strauss/glovesEsTrailLight02.i3d (48.55 ms)
+2025-11-07 14:39:11.270 dataS/character/playerM/attachments/hatWoolen.i3d (46.17 ms)
+2025-11-07 14:39:11.303 dataS/character/playerM/hairStyles/hairStyleMullet.i3d (33.74 ms)
+2025-11-07 14:39:11.314 dataS/character/playerM/facialHair/mHead02/trimmedBeard.i3d (10.97 ms)
