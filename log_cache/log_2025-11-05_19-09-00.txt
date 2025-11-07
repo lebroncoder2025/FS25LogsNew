@@ -7284,3 +7284,49 @@ LUA call stack:
 2025-11-07 12:16:38.585 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.60 ms)
 2025-11-07 12:18:31.483 Game saved successfully (savegame1).
 2025-11-07 12:23:17.656   Info: [Easy Development Controls] User zwierek has logged in as master user.
+2025-11-07 12:35:13.471 zwierek lost connection to the game
+2025-11-07 12:38:04.925 blaze joined the game
+2025-11-07 12:48:33.808 Game saved successfully (savegame1).
+2025-11-07 13:12:12.636 data/placeables/brandless/fences/US/fence17/fence17.i3d (3.20 ms)
+2025-11-07 13:18:34.152 Game saved successfully (savegame1).
+2025-11-07 13:20:22.598 dataS/character/playerF/pants/botYogaPants.i3d (15.54 ms)
+2025-11-07 13:20:22.733 dataS/character/playerF/heads/fHead02.i3d (134.17 ms)
+2025-11-07 13:20:22.781 dataS/character/playerF/shirts/topTankTop.i3d (48.09 ms)
+2025-11-07 13:20:22.783 dataS/character/playerF/shoes/sportSneaker.i3d (2.28 ms)
+2025-11-07 13:20:22.826 dataS/character/playerF/hairStyles/hairStyleLongSideParted.i3d (42.90 ms)
+2025-11-07 13:20:32.396 dataS/character/playerF/pants/botChinos.i3d (19.04 ms)
+2025-11-07 13:20:32.528 dataS/character/playerF/heads/fHead06.i3d (132.25 ms)
+2025-11-07 13:20:32.593 dataS/character/playerF/shirts/topBlouse.i3d (64.87 ms)
+2025-11-07 13:20:32.596 dataS/character/playerF/shoes/sneaker01.i3d (2.70 ms)
+2025-11-07 13:20:32.640 dataS/character/playerF/hairStyles/hairStyleMidSideParted.i3d (43.45 ms)
+2025-11-07 13:22:46.871 Piotrek joined the game
+2025-11-07 13:22:46.901 dataS/character/playerM/pants/botJeanShorts.i3d (16.55 ms)
+2025-11-07 13:22:46.949 dataS/character/playerM/shirts/topTankTop.i3d (48.11 ms)
+2025-11-07 13:22:46.954 dataS/character/playerM/gloves/glovesGeneric.i3d (5.03 ms)
+2025-11-07 13:22:46.965 dataS/character/playerM/attachments/headgearCowboy.i3d (10.42 ms)
+2025-11-07 13:22:47.056 dataS/character/playerM/shoes/sandalM02.i3d (91.18 ms)
+2025-11-07 13:26:26.758 data/placeables/brandless/fences/husbandries/level02/fencesFarmLevel02.i3d (5.66 ms)
+2025-11-07 13:26:33.330 data/placeables/brandless/fences/EU/fence03/fence03.i3d (10.87 ms)
+2025-11-07 13:26:48.723 data/placeables/brandless/fences/husbandries/cowFence/cowFence.i3d (2.18 ms)
+2025-11-07 13:27:22.814 data/placeables/brandless/fences/EU/fence01/fence01.i3d (5.22 ms)
+2025-11-07 13:27:43.521 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_productionDecorationPack/euroPalletsOld.i3d (6.29 ms)
+2025-11-07 13:27:46.517 siwa joined the game
+2025-11-07 13:28:04.693 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_productionDecorationPack/euroPalletsMiddle.i3d (6.58 ms)
+2025-11-07 13:28:14.884 data/placeables/brandless/decoration/garbageContainers/barrel04.i3d (1.60 ms)
+2025-11-07 13:28:21.843 data/placeables/brandless/decoration/garbageContainers/trashcan01.i3d (1.97 ms)
+2025-11-07 13:29:01.365 data/placeables/brandless/decoration/benches/bench02.i3d (1.67 ms)
+2025-11-07 13:29:11.731 data/placeables/brandless/decoration/garbageContainers/trashcanStorage02.i3d (1.85 ms)
+2025-11-07 13:30:25.538 data/placeables/brandless/decoration/benches/chessTable.i3d (2.38 ms)
+2025-11-07 13:30:48.942 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_groundTextures/groundStains/i3d/groundStain06.i3d (1.50 ms)
+2025-11-07 13:32:21.641 data/maps/mapEU/textures/props/workBench01.i3d (1.32 ms)
+2025-11-07 13:32:21.641 data/placeables/brandless/toolSheds/toolShed02/toolShed02.i3d (4.57 ms)
+2025-11-07 13:32:21.668 data/shared/visualization/dummyChainsaw.i3d (2.06 ms)
+2025-11-07 13:32:21.669 data/shared/visualization/dummySprayCan.i3d (0.77 ms)
+2025-11-07 13:32:21.670 data/shared/visualization/dummyHorseBrush.i3d (0.77 ms)
+2025-11-07 13:33:15.713 data/placeables/brandless/decoration/garbageContainers/barrel04.i3d (1.66 ms)
+2025-11-07 13:33:17.292 Lewy left the game
+2025-11-07 13:33:19.841 data/maps/mapAS/textures/props/pallet02.i3d (1.62 ms)
+2025-11-07 13:33:19.841 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_productionDecorationPack/plasticPallets.i3d (2.15 ms)
+2025-11-07 13:33:55.571 data/placeables/brandless/decoration/playGround/sunflowerWaySign.i3d (3.26 ms)
+2025-11-07 13:35:30.799 data/placeables/brandless/decoration/gardenWells/gardenWell01.i3d (6.09 ms)
+2025-11-07 13:37:02.834 Romek lost connection to the game
