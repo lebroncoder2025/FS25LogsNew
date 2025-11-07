@@ -5297,3 +5297,43 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-07 17:23:21.298   Info: Successfully set fill unit 1 of Strautmann Tera-Vitesse CFS 4601 DO to Hay with a fill level of 45,000 liters.
 2025-11-07 17:23:40.742   Info: Successfully set fill unit 1 of Strautmann Tera-Vitesse CFS 4601 DO to Hay with a fill level of 45,000 liters.
 2025-11-07 17:23:59.136   Info: Successfully set fill unit 1 of Strautmann Tera-Vitesse CFS 4601 DO to Hay with a fill level of 45,000 liters.
+2025-11-07 17:26:42.923   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Ursus C-385A Fast transmission'
+2025-11-07 17:28:11.738 dataS/character/animals/domesticated/waterBuffalo/waterBuffalo/waterBuffalo_posed.i3d (13.10 ms)
+2025-11-07 17:29:26.664 dataS/character/animals/domesticated/waterBuffalo/waterBuffalo/waterBuffalo_posed.i3d (16.52 ms)
+2025-11-07 17:30:27.427 dataS/character/animals/domesticated/waterBuffalo/waterBuffalo/waterBuffalo_posed.i3d (17.58 ms)
+2025-11-07 17:31:08.081 dataS/character/animals/domesticated/waterBuffalo/waterBuffalo/waterBuffalo_posed.i3d (16.55 ms)
+2025-11-07 17:31:48.218 dataS/character/animals/domesticated/waterBuffalo/waterBuffalo/waterBuffalo_posed.i3d (17.07 ms)
+2025-11-07 17:32:30.200 dataS/character/animals/domesticated/waterBuffalo/waterBuffalo/waterBuffalo_posed.i3d (16.78 ms)
+2025-11-07 17:33:09.240 dataS/character/animals/domesticated/waterBuffalo/waterBuffalo/waterBuffalo_posed.i3d (17.50 ms)
+2025-11-07 17:33:49.623 dataS/character/animals/domesticated/waterBuffalo/waterBuffalo/waterBuffalo_posed.i3d (17.10 ms)
+2025-11-07 17:33:53.007 dataS/character/animals/domesticated/waterBuffalo/waterBuffalo/waterBuffalo_posed.i3d (16.70 ms)
+2025-11-07 17:34:14.158 dataS/character/animals/domesticated/waterBuffalo/waterBuffalo/waterBuffalo_posed.i3d (17.15 ms)
+2025-11-07 17:34:33.487 dataS/character/animals/domesticated/waterBuffalo/waterBuffalo/waterBuffalo_posed.i3d (16.40 ms)
+2025-11-07 17:35:28.284 dataS/character/animals/domesticated/waterBuffalo/waterBuffalo/waterBuffalo_posed.i3d (16.87 ms)
+2025-11-07 17:36:13.383 dataS/character/animals/domesticated/waterBuffalo/waterBuffalo/waterBuffalo_posed.i3d (17.36 ms)
+2025-11-07 17:36:50.731 dataS/character/animals/domesticated/waterBuffalo/waterBuffalo/waterBuffalo_posed.i3d (17.11 ms)
+2025-11-07 17:37:27.912 dataS/character/animals/domesticated/waterBuffalo/waterBuffalo/waterBuffalo_posed.i3d (16.40 ms)
+2025-11-07 17:37:44.033 data/placeables/brandless/manureHeap/manureHeap.i3d (1.42 ms)
+2025-11-07 17:38:06.645 dataS/character/animals/domesticated/waterBuffalo/waterBuffalo/waterBuffalo_posed.i3d (16.13 ms)
+2025-11-07 17:38:27.991 Game saved successfully (savegame1).
+2025-11-07 17:38:48.380 dataS/character/animals/domesticated/waterBuffalo/waterBuffalo/waterBuffalo_posed.i3d (16.79 ms)
+2025-11-07 17:39:28.620 dataS/character/animals/domesticated/waterBuffalo/waterBuffalo/waterBuffalo_posed.i3d (17.05 ms)
+2025-11-07 17:39:51.928 data/objects/bigBagPallet/bigBagPallet.i3d (4.79 ms)
+2025-11-07 17:39:57.350 dataS/character/animals/domesticated/waterBuffalo/waterBuffalo/waterBuffalo_posed.i3d (16.80 ms)
+2025-11-07 17:40:01.328 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Old_Manure_Heap/Old_Manure_Heap.i3d (0.86 ms)
+2025-11-07 17:40:23.870 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Old_Manure_Heap/Old_Manure_Heap.i3d (0.87 ms)
+2025-11-07 17:40:28.749   Info: No 'ExhaustExtension' particle system added to vehicle 'Lizard Screw conveyor' because it has no exhaust
+2025-11-07 17:40:34.385 data/objects/bigBagPallet/bigBagPallet.i3d (4.67 ms)
+2025-11-07 17:40:43.547 dataS/character/animals/domesticated/waterBuffalo/waterBuffalo/waterBuffalo_posed.i3d (15.84 ms)
+2025-11-07 17:40:55.385 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Old_Manure_Heap/Old_Manure_Heap.i3d (0.85 ms)
+2025-11-07 17:41:13.749 dataS/character/animals/domesticated/waterBuffalo/waterBuffalo/waterBuffalo_posed.i3d (16.94 ms)
+2025-11-07 17:41:24.847 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Old_Manure_Heap/Old_Manure_Heap.i3d (0.87 ms)
+2025-11-07 17:41:38.457   Info: Added € 50,000 to farm account. (3)
+2025-11-07 17:41:42.244 M1odyHaze lost connection to the game
+2025-11-07 17:41:42.336 dataS/character/animals/domesticated/waterBuffalo/waterBuffalo/waterBuffalo_posed.i3d (20.06 ms)
+2025-11-07 17:41:43.920   Info: Added € 10,000 to farm account. (3)
+2025-11-07 17:41:55.866 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Old_Manure_Heap/Old_Manure_Heap.i3d (0.92 ms)
+2025-11-07 17:42:11.013 dataS/character/animals/domesticated/waterBuffalo/waterBuffalo/waterBuffalo_posed.i3d (16.44 ms)
+2025-11-07 17:42:28.337 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Old_Manure_Heap/Old_Manure_Heap.i3d (0.85 ms)
+2025-11-07 17:42:40.515 dataS/character/animals/domesticated/waterBuffalo/waterBuffalo/waterBuffalo_posed.i3d (17.66 ms)
+2025-11-07 17:42:58.391   Info: Added € 30,000 to farm account. (3)
