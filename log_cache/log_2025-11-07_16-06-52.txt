@@ -5466,3 +5466,14 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-07 19:38:32.448 Game saved successfully (savegame1).
 2025-11-07 19:40:29.047 M@rcin lost connection to the game
 2025-11-07 19:41:51.893 zwierek left the game
+2025-11-07 19:45:02.471 M1odyHaze lost connection to the game
+2025-11-07 19:45:20.813 blaze left the game
+2025-11-07 20:08:33.075 Game saved successfully (savegame1).
+2025-11-07 20:09:48.611 dataS/character/playerM/pants/botLeather.i3d (17.92 ms)
+2025-11-07 20:09:48.642 dataS/character/playerM/jacket/topVest.i3d (31.06 ms)
+2025-11-07 20:09:48.679 dataS/character/playerM/hairStyles/hairStyleFringe.i3d (37.11 ms)
+2025-11-07 20:10:09.753 dataS/character/playerF/pants/botCargo.i3d (18.03 ms)
+2025-11-07 20:10:09.779 dataS/character/playerF/jacket/topVest.i3d (25.15 ms)
+2025-11-07 20:10:09.782 dataS/character/playerF/shoes/workboot02.i3d (3.21 ms)
+2025-11-07 20:10:09.816 dataS/character/playerF/hairStyles/hairStylePonyTail03.i3d (33.87 ms)
+2025-11-07 20:10:20.099 hubsonwaliszot left the game
