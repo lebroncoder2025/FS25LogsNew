@@ -5539,3 +5539,4 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-07 22:03:03.999 dataS/character/playerM/hairStyles/hairStyleMullet.i3d (34.08 ms)
 2025-11-07 22:03:04.010 dataS/character/playerM/facialHair/mHead02/trimmedBeard.i3d (11.32 ms)
 2025-11-07 22:08:53.093 Game saved successfully (savegame1).
+2025-11-07 22:29:50.949 M1odyHaze lost connection to the game
