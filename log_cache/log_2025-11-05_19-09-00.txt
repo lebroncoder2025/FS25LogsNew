@@ -7140,3 +7140,29 @@ LUA call stack:
 2025-11-07 03:34:19.015 dataS/character/playerM/facialHair/mHead01/trimmedBeard.i3d (11.26 ms)
 2025-11-07 03:48:04.060 Game saved successfully (savegame1).
 2025-11-07 04:18:05.043 Game saved successfully (savegame1).
+2025-11-07 04:37:54.775   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Modern_Classics_DLC/lizardTA18/lizardTA18.xml): 'vehicle.baseMaterial' is not supported anymore!
+2025-11-07 04:37:54.775   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Modern_Classics_DLC/lizardTA18/lizardTA18.xml): 'vehicle.baseMaterialConfigurations' is not supported anymore, use 'vehicle.designColorConfigurations' instead!
+2025-11-07 04:37:54.776   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Modern_Classics_DLC/lizardTA18/lizardTA18.xml): 'vehicle.designMaterialConfigurations' is not supported anymore, use 'vehicle.designColorConfigurations' instead!
+2025-11-07 04:37:54.812   Error (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Modern_Classics_DLC/lizardTA18/lizardTA18.xml): Sound template 'defaultHydraulicSound' was not found in vehicle.cylindered.sounds.hydraulic
+2025-11-07 04:37:54.838 data/shared/wheels/tires/trelleborg/T404/400_60R26_5.i3d (3.22 ms)
+2025-11-07 04:37:54.869   Error (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Modern_Classics_DLC/lizardTA18/lizardTA18.xml): Sound template 'ATTACH_01' was not found in vehicle.attacherJoints.sounds.attach
+2025-11-07 04:48:00.666 Romek left the game
+2025-11-07 04:48:06.766 Game saved successfully (savegame1).
+2025-11-07 04:48:37.473 Romek joined the game
+2025-11-07 04:48:37.597 dataS/character/playerM/pants/strauss/motion2020Pants2ndVariant.i3d (106.82 ms)
+2025-11-07 04:48:37.742 dataS/character/playerM/jacket/topVestM.i3d (145.41 ms)
+2025-11-07 04:48:37.745 dataS/character/playerM/attachments/headgearBandana.i3d (2.56 ms)
+2025-11-07 04:48:37.746 dataS/character/playerM/attachments/glassesSports02.i3d (1.77 ms)
+2025-11-07 04:48:37.839 dataS/character/playerM/shoes/sportSneaker.i3d (92.43 ms)
+2025-11-07 04:48:37.873 dataS/character/playerM/hairStyles/hairStyleTopKnot.i3d (34.07 ms)
+2025-11-07 04:48:37.884 dataS/character/playerM/facialHair/mHead01/trimmedBeard.i3d (11.09 ms)
+2025-11-07 04:49:24.837 Romek left the game
+2025-11-07 04:49:59.682 Romek joined the game
+2025-11-07 04:49:59.801 dataS/character/playerM/pants/strauss/motion2020Pants2ndVariant.i3d (106.94 ms)
+2025-11-07 04:49:59.946 dataS/character/playerM/jacket/topVestM.i3d (144.93 ms)
+2025-11-07 04:49:59.948 dataS/character/playerM/attachments/headgearBandana.i3d (2.44 ms)
+2025-11-07 04:49:59.950 dataS/character/playerM/attachments/glassesSports02.i3d (1.41 ms)
+2025-11-07 04:50:00.042 dataS/character/playerM/shoes/sportSneaker.i3d (91.77 ms)
+2025-11-07 04:50:00.075 dataS/character/playerM/hairStyles/hairStyleTopKnot.i3d (33.55 ms)
+2025-11-07 04:50:00.086 dataS/character/playerM/facialHair/mHead01/trimmedBeard.i3d (11.34 ms)
+2025-11-07 04:50:22.586 Romek left the game
