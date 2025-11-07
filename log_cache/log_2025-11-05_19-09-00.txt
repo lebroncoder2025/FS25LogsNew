@@ -7263,3 +7263,5 @@ LUA call stack:
 2025-11-07 11:09:39.255   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'STEYR 8130 Super Elite'
 2025-11-07 11:10:06.640 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.60 ms)
 2025-11-07 11:18:28.464 Game saved successfully (savegame1).
+2025-11-07 11:40:31.032 FTG 'D:/home/sid_8377223/farmingSim_2025/profile/savegame1/densityMap_weed.gdm' max needed CPU instances = 0.027100 MB / 3.445312 MB
+2025-11-07 11:40:31.057 FTG 'D:/home/sid_8377223/farmingSim_2025/profile/savegame1/densityMap_weed.gdm' max needed CPU instances = 0.027222 MB / 3.445312 MB
