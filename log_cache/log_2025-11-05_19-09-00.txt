@@ -7083,3 +7083,47 @@ dataS/scripts/placeables/specializations/PlaceableObjectStorage.lua:348: attempt
 2025-11-06 23:43:45.659 Piotrek lost connection to the game
 2025-11-06 23:47:46.698 Game saved successfully (savegame1).
 2025-11-07 00:17:49.259 Game saved successfully (savegame1).
+2025-11-07 00:34:18.102 hubsonwaliszot lost connection to the game
+2025-11-07 00:45:20.115 M1odyHaze lost connection to the game
+2025-11-07 00:47:52.149 Game saved successfully (savegame1).
+2025-11-07 01:17:54.063 Game saved successfully (savegame1).
+2025-11-07 01:47:55.497 Game saved successfully (savegame1).
+2025-11-07 02:17:10.525 Romek left the game
+2025-11-07 02:17:59.890 Game saved successfully (savegame1).
+2025-11-07 02:26:51.102 Romek joined the game
+2025-11-07 02:26:51.226 dataS/character/playerM/pants/strauss/motion2020Pants2ndVariant.i3d (110.67 ms)
+2025-11-07 02:26:51.372 dataS/character/playerM/jacket/topVestM.i3d (145.44 ms)
+2025-11-07 02:26:51.374 dataS/character/playerM/attachments/headgearBandana.i3d (2.49 ms)
+2025-11-07 02:26:51.376 dataS/character/playerM/attachments/glassesSports02.i3d (1.48 ms)
+2025-11-07 02:26:51.468 dataS/character/playerM/shoes/sportSneaker.i3d (91.86 ms)
+2025-11-07 02:26:51.502 dataS/character/playerM/hairStyles/hairStyleTopKnot.i3d (34.11 ms)
+2025-11-07 02:26:51.513 dataS/character/playerM/facialHair/mHead01/trimmedBeard.i3d (11.42 ms)
+2025-11-07 02:28:37.138 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_sugarbeet_cutter/sugarbeet_cutter/sugarbeet_cutter.i3d (143.58 ms)
+2025-11-07 02:42:17.779 Warning (script): 'streamWriteString': Argument 1 has wrong type. Expected: String. Actual: Nil
+
+  D:\auto_builder\cache\svn\5e7c1a71ecbc79d8f508d9807d643f79\src\base\scripting\lua\LuauScriptSystem.cpp (1127): expectedType == Value::VoidType || expectedType == Value::ClassType2025-11-07 02:42:17.779 
+Script error: 'streamWriteString': Argument 1 has wrong type. Expected: String. Actual: Nil
+
+LUA call stack:
+  =[C]:-1 streamWriteString
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:46 writeStream
+  =dataS/scripts/network/Connection.lua:126 sendEvent
+  =dataS/scripts/network/Server.lua:670 broadcastEvent
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:58 run
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:37 readStream
+  =dataS/scripts/network/Server.lua:541 packetReceived
+  =dataS/scripts/network/ConnectionManager.lua:27 packetReceived
+2025-11-07 02:42:19.327 Warning (script): 'streamWriteString': Argument 1 has wrong type. Expected: String. Actual: Nil
+
+  D:\auto_builder\cache\svn\5e7c1a71ecbc79d8f508d9807d643f79\src\base\scripting\lua\LuauScriptSystem.cpp (1127): expectedType == Value::VoidType || expectedType == Value::ClassType2025-11-07 02:42:19.327 
+Script error: 'streamWriteString': Argument 1 has wrong type. Expected: String. Actual: Nil
+
+LUA call stack:
+  =[C]:-1 streamWriteString
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:46 writeStream
+  =dataS/scripts/network/Connection.lua:126 sendEvent
+  =dataS/scripts/network/Server.lua:670 broadcastEvent
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:58 run
+  =dataS/scripts/vehicles/specializations/events/AnimatedVehicleStopEvent.lua:37 readStream
+  =dataS/scripts/network/Server.lua:541 packetReceived
+  =dataS/scripts/network/ConnectionManager.lua:27 packetReceived
