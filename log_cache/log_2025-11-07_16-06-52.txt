@@ -5432,3 +5432,26 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-07 18:28:31.700 M1odyHaze joined the game
 2025-11-07 18:31:48.979 data/placeables/meridian/fuelTank25000L/fuelTank25000L.i3d (5.29 ms)
 2025-11-07 18:33:21.714   Info: Moved player to coordinates 617, 800 successfully.
+2025-11-07 18:38:21.719 siejA joined the game
+2025-11-07 18:38:21.845 dataS/character/playerM/fullBody/strauss/motion2020PantsVariant2ndVariant.i3d (112.19 ms)
+2025-11-07 18:38:21.880 dataS/character/playerM/hairStyles/hairStyleFringe.i3d (34.94 ms)
+2025-11-07 18:38:29.305 Game saved successfully (savegame1).
+2025-11-07 18:38:52.669   Info: Successfully set fill unit 1 of Farmtech Fortis 3000 to Hay with a fill level of 55,000 liters.
+2025-11-07 18:39:21.591   Info: Successfully set fill unit 1 of Farmtech Fortis 3000 to Hay with a fill level of 55,000 liters.
+2025-11-07 18:41:19.374   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Zetor 10145 Fast transmission'
+2025-11-07 18:42:06.119   Info: Successfully set fill unit 1 of Farmtech Fortis 3000 to Hay with a fill level of 55,000 liters.
+2025-11-07 18:42:28.416   Info: Successfully set fill unit 1 of Farmtech Fortis 3000 to Hay with a fill level of 55,000 liters.
+2025-11-07 18:43:15.029   Info: Successfully set fill unit 1 of Farmtech Fortis 3000 to Hay with a fill level of 55,000 liters.
+2025-11-07 18:43:35.826   Info: Successfully set fill unit 1 of Farmtech Fortis 3000 to Hay with a fill level of 55,000 liters.
+2025-11-07 18:44:03.928   Info: Successfully set fill unit 1 of Farmtech Fortis 3000 to Hay with a fill level of 55,000 liters.
+2025-11-07 18:44:29.347   Info: Successfully set fill unit 1 of Farmtech Fortis 3000 to Straw with a fill level of 55,000 liters.
+2025-11-07 18:45:45.294 Jolero left the game
+2025-11-07 18:45:46.435 Game saved successfully (savegame1).
+2025-11-07 18:52:24.512 siejA lost connection to the game
+2025-11-07 18:56:59.080   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'STEYR 8130 Super Elite'
+2025-11-07 18:58:00.042 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Bressel_Lade_B11/B11.i3d (16.71 ms)
+2025-11-07 19:07:12.113 M@rcin joined the game
+2025-11-07 19:07:12.145 dataS/character/playerM/jacket/topAviatorJacket.i3d (18.84 ms)
+2025-11-07 19:07:12.179 dataS/character/playerM/hairStyles/hairStyleDiablo.i3d (33.82 ms)
+2025-11-07 19:07:12.180 dataS/character/playerM/facialHair/mHead01/beardStubble.i3d (1.49 ms)
+2025-11-07 19:08:31.051 Game saved successfully (savegame1).
