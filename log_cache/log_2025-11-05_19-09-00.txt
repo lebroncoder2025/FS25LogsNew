@@ -7341,3 +7341,18 @@ LUA call stack:
 2025-11-07 13:49:07.440 dataS/character/playerF/shoes/laceUpSneaker.i3d (93.77 ms)
 2025-11-07 13:49:07.482 dataS/character/playerF/hairStyles/hairStylePonyTail01.i3d (41.94 ms)
 2025-11-07 13:50:47.913 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_RounderWrappedRoundbales/assets/roundbale180/roundbale180.i3d (7.43 ms)
+2025-11-07 14:18:39.247 Game saved successfully (savegame1).
+2025-11-07 14:23:32.642 Warning: Send called with unknown target address.
+2025-11-07 14:23:32.649 Piotrek left the game
+2025-11-07 14:23:58.565 M1odyHaze lost connection to the game
+2025-11-07 14:24:04.918 Piotrek joined the game
+2025-11-07 14:24:04.951 dataS/character/playerM/pants/botJeanShorts.i3d (16.61 ms)
+2025-11-07 14:24:05.000 dataS/character/playerM/shirts/topTankTop.i3d (48.32 ms)
+2025-11-07 14:24:05.005 dataS/character/playerM/gloves/glovesGeneric.i3d (4.93 ms)
+2025-11-07 14:24:05.015 dataS/character/playerM/attachments/headgearCowboy.i3d (10.37 ms)
+2025-11-07 14:24:05.106 dataS/character/playerM/shoes/sandalM02.i3d (90.81 ms)
+2025-11-07 14:29:14.464 zwierek joined the game
+2025-11-07 14:29:14.480 dataS/character/playerM/attachments/glassesAviators.i3d (2.21 ms)
+2025-11-07 14:29:14.483 dataS/character/playerM/shoes/sandalM03.i3d (1.42 ms)
+2025-11-07 14:29:14.515 dataS/character/playerM/hairStyles/hairStyleBaldTop.i3d (32.06 ms)
+2025-11-07 14:29:14.524 dataS/character/playerM/facialHair/mHead01/walrusXL.i3d (8.95 ms)
