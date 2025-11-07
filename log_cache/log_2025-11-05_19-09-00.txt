@@ -7186,3 +7186,4 @@ LUA call stack:
 2025-11-07 05:25:23.441 dataS/character/playerM/jacket/topAviatorJacket.i3d (18.43 ms)
 2025-11-07 05:25:23.475 dataS/character/playerM/hairStyles/hairStyleDiablo.i3d (33.08 ms)
 2025-11-07 05:25:23.476 dataS/character/playerM/facialHair/mHead01/beardStubble.i3d (1.43 ms)
+2025-11-07 05:29:47.894 data/objects/pallets/liquidTank/liquidTank.i3d (3.20 ms)
