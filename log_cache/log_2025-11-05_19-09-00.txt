@@ -7283,3 +7283,4 @@ LUA call stack:
 2025-11-07 12:15:30.849 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_mrhHandLiftableConsumables/barrelPlastic/barrelPlastic.i3d (18.25 ms)
 2025-11-07 12:16:38.585 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.60 ms)
 2025-11-07 12:18:31.483 Game saved successfully (savegame1).
+2025-11-07 12:23:17.656   Info: [Easy Development Controls] User zwierek has logged in as master user.
