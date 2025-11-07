@@ -5540,3 +5540,37 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-07 22:03:04.010 dataS/character/playerM/facialHair/mHead02/trimmedBeard.i3d (11.32 ms)
 2025-11-07 22:08:53.093 Game saved successfully (savegame1).
 2025-11-07 22:29:50.949 M1odyHaze lost connection to the game
+2025-11-07 22:38:19.622 Jolero joined the game
+2025-11-07 22:38:19.640 dataS/character/playerM/shirts/topTShirt01.i3d (2.48 ms)
+2025-11-07 22:38:19.675 dataS/character/playerM/hairStyles/hairStyleTopKnot.i3d (34.72 ms)
+2025-11-07 22:38:19.695 dataS/character/playerM/facialHair/mHead01/goatee01.i3d (19.30 ms)
+2025-11-07 22:38:54.323 Game saved successfully (savegame1).
+2025-11-07 22:39:15.001   Info: [Easy Development Controls] User Jolero has logged in as master user.
+2025-11-07 22:43:14.021 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_OldTankLiquid/oldTankLiquidG500.i3d (111.01 ms)
+2025-11-07 22:43:14.156 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_OldTankLiquid/rodas/385_65R22_L.i3d (62.93 ms)
+2025-11-07 22:43:14.163 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_OldTankLiquid/rodas/385_65R22_R.i3d (6.30 ms)
+2025-11-07 22:44:42.042 zone lost connection to the game
+2025-11-07 22:51:26.026   Info: Added € 1,200 to farm account. (2)
+2025-11-07 22:53:26.798   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_KroneTurbo2500/xml/kroneTurbo2500.xml): Invalid vector 3 for 'vehicle.base.components.joint(0)#rotDriveRotation'.
+2025-11-07 22:53:26.890   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_KroneTurbo2500/xml/kroneTurbo2500.xml): Unable to find material template '' in 'vehicle.wheels.hubMaterial'
+2025-11-07 22:53:26.983   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_KroneTurbo2500/xml/kroneTurbo2500.xml): Node 'scratchingFloor' has no shader parameter 'scrollPosition' for animationNode 'vehicle.trailer.trailerConfigurations.trailerConfiguration(0).trailer.tipSide(0).animationNodes.animationNode(0)'!
+2025-11-07 22:53:26.984   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_KroneTurbo2500/xml/kroneTurbo2500.xml): Node 'scratchingFloor' has no shader parameter 'scrollPosition' for animationNode 'vehicle.turnOnVehicle.animationNodes.animationNode(2)'!
+2025-11-07 23:07:32.755 data/objects/bigBagPallet/bigBagPallet.i3d (4.97 ms)
+2025-11-07 23:07:54.065 data/objects/bigBag/bigBag.i3d (6.84 ms)
+2025-11-07 23:07:54.129 data/objects/bigBagPallet/bigBagPallet.i3d (4.70 ms)
+2025-11-07 23:08:55.494 Game saved successfully (savegame1).
+2025-11-07 23:12:19.412 M@rcin lost connection to the game
+2025-11-07 23:12:42.774 hubsonwaliszot lost connection to the game
+2025-11-07 23:12:48.316 Jolero lost connection to the game
+2025-11-07 23:13:34.675 Jolero joined the game
+2025-11-07 23:13:34.691 dataS/character/playerM/shirts/topTShirt01.i3d (2.43 ms)
+2025-11-07 23:13:34.726 dataS/character/playerM/hairStyles/hairStyleTopKnot.i3d (34.57 ms)
+2025-11-07 23:13:34.745 dataS/character/playerM/facialHair/mHead01/goatee01.i3d (19.36 ms)
+2025-11-07 23:13:41.295 blaze lost connection to the game
+2025-11-07 23:14:58.505 hubsonwaliszot joined the game
+2025-11-07 23:14:58.540 dataS/character/playerM/heads/mHead02.i3d (18.57 ms)
+2025-11-07 23:14:58.824 dataS/character/playerM/shirts/poettinger/poettingerTshirt.i3d (283.65 ms)
+2025-11-07 23:14:58.874 dataS/character/playerM/gloves/strauss/glovesEsTrailLight02.i3d (50.21 ms)
+2025-11-07 23:14:58.921 dataS/character/playerM/attachments/hatWoolen.i3d (47.69 ms)
+2025-11-07 23:14:58.956 dataS/character/playerM/hairStyles/hairStyleMullet.i3d (34.67 ms)
+2025-11-07 23:14:58.967 dataS/character/playerM/facialHair/mHead02/trimmedBeard.i3d (11.31 ms)
