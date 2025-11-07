@@ -7193,3 +7193,5 @@ LUA call stack:
 2025-11-07 05:50:43.387 M@rcin lost connection to the game
 2025-11-07 05:56:31.963 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.58 ms)
 2025-11-07 06:18:10.276 Game saved successfully (savegame1).
+2025-11-07 06:23:47.337   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Case IH CVX 130'
+2025-11-07 06:34:55.785 Romek lost connection to the game
