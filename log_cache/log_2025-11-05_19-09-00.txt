@@ -7226,3 +7226,17 @@ LUA call stack:
 2025-11-07 10:22:28.609 dataS/character/playerM/shoes/sandalM03.i3d (90.97 ms)
 2025-11-07 10:22:28.640 dataS/character/playerM/hairStyles/hairStyleBaldTop.i3d (31.12 ms)
 2025-11-07 10:22:28.649 dataS/character/playerM/facialHair/mHead01/walrusXL.i3d (8.98 ms)
+2025-11-07 10:24:05.613 Lewy left the game
+2025-11-07 10:25:56.414 Lewy joined the game
+2025-11-07 10:25:56.568 dataS/character/playerM/pants/poettinger/poettingerShort.i3d (141.02 ms)
+2025-11-07 10:25:56.663 dataS/character/playerM/jacket/claas/claasTop.i3d (93.92 ms)
+2025-11-07 10:25:56.667 dataS/character/playerM/attachments/headgearBeanie.i3d (4.23 ms)
+2025-11-07 10:25:56.690 dataS/character/playerM/shoes/crok.i3d (23.28 ms)
+2025-11-07 10:25:56.709 dataS/character/playerM/facialHair/mHead01/goatee01.i3d (19.34 ms)
+2025-11-07 10:33:03.291   Info: [Easy Development Controls] User zwierek has logged in as master user.
+2025-11-07 10:33:25.325   Info: Operating time of Massey Ferguson 397 Pumped changed to 37 h.
+2025-11-07 10:37:25.006 dataS/character/playerM/fullBody/onePieceMechanic.i3d (29.64 ms)
+2025-11-07 10:37:25.021 dataS/character/playerM/heads/mHead02.i3d (14.51 ms)
+2025-11-07 10:37:25.038 dataS/character/playerM/shoes/riding.i3d (16.59 ms)
+2025-11-07 10:37:25.073 dataS/character/playerM/hairStyles/hairStyleUnkempt.i3d (35.24 ms)
+2025-11-07 10:37:25.087 dataS/character/playerM/facialHair/mHead02/goatee01.i3d (14.05 ms)
