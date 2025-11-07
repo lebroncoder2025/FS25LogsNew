@@ -7265,3 +7265,21 @@ LUA call stack:
 2025-11-07 11:18:28.464 Game saved successfully (savegame1).
 2025-11-07 11:40:31.032 FTG 'D:/home/sid_8377223/farmingSim_2025/profile/savegame1/densityMap_weed.gdm' max needed CPU instances = 0.027100 MB / 3.445312 MB
 2025-11-07 11:40:31.057 FTG 'D:/home/sid_8377223/farmingSim_2025/profile/savegame1/densityMap_weed.gdm' max needed CPU instances = 0.027222 MB / 3.445312 MB
+2025-11-07 11:44:45.338 zwierek left the game
+2025-11-07 11:48:29.990 Game saved successfully (savegame1).
+2025-11-07 11:50:09.586 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.66 ms)
+2025-11-07 11:50:09.656 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_mrhHandLiftableConsumables/barrelPlastic/barrelPlastic.i3d (21.80 ms)
+2025-11-07 11:51:11.579 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.59 ms)
+2025-11-07 11:53:25.377 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.60 ms)
+2025-11-07 11:58:45.958   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Case IH CVX 195'
+2025-11-07 12:01:46.804 Figuana joined the game
+2025-11-07 12:06:50.999 Figuana lost connection to the game
+2025-11-07 12:15:17.717 zwierek joined the game
+2025-11-07 12:15:17.750 dataS/character/playerM/pants/botJeanShorts.i3d (16.49 ms)
+2025-11-07 12:15:17.841 dataS/character/playerM/shoes/sandalM03.i3d (90.95 ms)
+2025-11-07 12:15:17.872 dataS/character/playerM/hairStyles/hairStyleBaldTop.i3d (30.91 ms)
+2025-11-07 12:15:17.881 dataS/character/playerM/facialHair/mHead01/walrusXL.i3d (8.92 ms)
+2025-11-07 12:15:30.777 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.71 ms)
+2025-11-07 12:15:30.849 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_mrhHandLiftableConsumables/barrelPlastic/barrelPlastic.i3d (18.25 ms)
+2025-11-07 12:16:38.585 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.60 ms)
+2025-11-07 12:18:31.483 Game saved successfully (savegame1).
