@@ -7195,3 +7195,20 @@ LUA call stack:
 2025-11-07 06:18:10.276 Game saved successfully (savegame1).
 2025-11-07 06:23:47.337   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Case IH CVX 130'
 2025-11-07 06:34:55.785 Romek lost connection to the game
+2025-11-07 06:40:04.879 M@rcin joined the game
+2025-11-07 06:40:04.911 dataS/character/playerM/jacket/topAviatorJacket.i3d (18.39 ms)
+2025-11-07 06:40:04.944 dataS/character/playerM/hairStyles/hairStyleDiablo.i3d (32.66 ms)
+2025-11-07 06:40:04.946 dataS/character/playerM/facialHair/mHead01/beardStubble.i3d (1.38 ms)
+2025-11-07 06:43:06.642 Romek joined the game
+2025-11-07 06:43:06.766 dataS/character/playerM/pants/strauss/motion2020Pants2ndVariant.i3d (106.98 ms)
+2025-11-07 06:43:06.911 dataS/character/playerM/jacket/topVestM.i3d (144.78 ms)
+2025-11-07 06:43:06.914 dataS/character/playerM/attachments/headgearBandana.i3d (2.51 ms)
+2025-11-07 06:43:06.916 dataS/character/playerM/attachments/glassesSports02.i3d (1.52 ms)
+2025-11-07 06:43:07.007 dataS/character/playerM/shoes/sportSneaker.i3d (91.82 ms)
+2025-11-07 06:43:07.041 dataS/character/playerM/hairStyles/hairStyleTopKnot.i3d (33.27 ms)
+2025-11-07 06:43:07.052 dataS/character/playerM/facialHair/mHead01/trimmedBeard.i3d (11.23 ms)
+2025-11-07 06:48:10.882 Game saved successfully (savegame1).
+2025-11-07 06:57:41.382   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Case IH 160 CVX'
+2025-11-07 07:07:48.999 M@rcin lost connection to the game
+2025-11-07 07:18:15.853 Game saved successfully (savegame1).
+2025-11-07 07:20:10.709 data/objects/pallets/sugarPallet/sugarBoxPallet.i3d (7.57 ms)
