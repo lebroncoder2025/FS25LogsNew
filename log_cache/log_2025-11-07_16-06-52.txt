@@ -5270,3 +5270,30 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-07 16:37:28.380 data/shared/assets/lights/terraLed/light150W.i3d (1.99 ms)
 2025-11-07 16:37:28.381 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_largeCowshed3_3/navmehs.i3d (0.20 ms)
 2025-11-07 16:38:26.943 Game saved successfully (savegame1).
+2025-11-07 16:41:45.191 siwa lost connection to the game
+2025-11-07 16:43:18.496   Info: Added € 250,000 to farm account. (3)
+2025-11-07 16:44:25.074 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_largeCowshed3_3/main.i3d (101.94 ms)
+2025-11-07 16:44:25.096 data/shared/assets/lights/terraLed/light150W.i3d (1.82 ms)
+2025-11-07 16:44:25.102 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_largeCowshed3_3/navmehs.i3d (0.20 ms)
+2025-11-07 16:44:25.112 data/placeables/lely/astronautA5/astronautA5.i3d (9.14 ms)
+2025-11-07 16:47:24.291   Info: Added € 150,000 to farm account. (3)
+2025-11-07 16:48:35.637 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_largeCowshed3_3/main.i3d (101.43 ms)
+2025-11-07 16:48:35.671 data/shared/assets/lights/terraLed/light150W.i3d (1.77 ms)
+2025-11-07 16:48:35.678 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_largeCowshed3_3/navmehs.i3d (0.20 ms)
+2025-11-07 16:48:35.687 data/placeables/lely/astronautA5/astronautA5.i3d (9.03 ms)
+2025-11-07 16:59:50.158   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Case IH 160 CVX'
+2025-11-07 17:04:41.655 M1odyHaze joined the game
+2025-11-07 17:08:27.390 Game saved successfully (savegame1).
+2025-11-07 17:09:21.880   Info: No 'ExhaustExtension' particle system added to vehicle 'Kärcher HDS 9/18-4 M' because it has no exhaust
+2025-11-07 17:09:24.668   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'STEYR 8130 Super Elite'
+2025-11-07 17:10:37.346 Piotrek lost connection to the game
+2025-11-07 17:11:46.797 zwierek joined the game
+2025-11-07 17:11:46.827 dataS/character/playerM/pants/botJeanShorts.i3d (16.57 ms)
+2025-11-07 17:11:46.829 dataS/character/playerM/attachments/glassesAviators.i3d (1.79 ms)
+2025-11-07 17:11:46.923 dataS/character/playerM/shoes/sandalM03.i3d (93.27 ms)
+2025-11-07 17:11:46.959 dataS/character/playerM/hairStyles/hairStyleBaldTop.i3d (35.43 ms)
+2025-11-07 17:11:46.968 dataS/character/playerM/facialHair/mHead01/walrusXL.i3d (9.13 ms)
+2025-11-07 17:22:21.510   Info: [Easy Development Controls] User zwierek has logged in as master user.
+2025-11-07 17:23:21.298   Info: Successfully set fill unit 1 of Strautmann Tera-Vitesse CFS 4601 DO to Hay with a fill level of 45,000 liters.
+2025-11-07 17:23:40.742   Info: Successfully set fill unit 1 of Strautmann Tera-Vitesse CFS 4601 DO to Hay with a fill level of 45,000 liters.
+2025-11-07 17:23:59.136   Info: Successfully set fill unit 1 of Strautmann Tera-Vitesse CFS 4601 DO to Hay with a fill level of 45,000 liters.
