@@ -7395,3 +7395,24 @@ LUA call stack:
 2025-11-07 15:40:11.527 dataS/character/playerF/shirts/topBlouse.i3d (53.24 ms)
 2025-11-07 15:40:11.530 dataS/character/playerF/shoes/sneaker01.i3d (2.75 ms)
 2025-11-07 15:40:11.566 dataS/character/playerF/hairStyles/hairStyleMidSideParted.i3d (35.38 ms)
+2025-11-07 15:42:06.672 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.61 ms)
+2025-11-07 15:42:06.731 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_lsfmBigBagPack/objects/bigBag/bigBag.i3d (6.82 ms)
+2025-11-07 15:45:57.993 dataS/character/playerF/pants/botChinos.i3d (14.27 ms)
+2025-11-07 15:45:58.189 dataS/character/playerF/heads/fHead04.i3d (195.96 ms)
+2025-11-07 15:45:58.208 dataS/character/playerF/jacket/topAviatorJacket.i3d (19.00 ms)
+2025-11-07 15:45:58.284 dataS/character/playerF/shoes/laceUpSneaker.i3d (75.60 ms)
+2025-11-07 15:45:58.320 dataS/character/playerF/hairStyles/hairStylePonyTail01.i3d (36.30 ms)
+2025-11-07 15:48:47.670 Game saved successfully (savegame1).
+2025-11-07 15:57:17.329 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.62 ms)
+2025-11-07 15:57:17.384 data/objects/bigBagPallet/bigBagPallet.i3d (5.13 ms)
+2025-11-07 16:00:00.927 Jolero joined the game
+2025-11-07 16:00:00.952 dataS/character/playerM/shirts/topTShirt01.i3d (9.91 ms)
+2025-11-07 16:00:00.987 dataS/character/playerM/hairStyles/hairStyleTopKnot.i3d (34.41 ms)
+2025-11-07 16:00:01.006 dataS/character/playerM/facialHair/mHead01/goatee01.i3d (19.12 ms)
+2025-11-07 16:01:30.090   Info: [Easy Development Controls] User Jolero has logged in as master user.
+2025-11-07 16:01:35.270   Info: Moved player to coordinates 580, 826 successfully.
+2025-11-07 16:01:53.908 Warning: Saving while already saving
+2025-11-07 16:01:55.261 Warning: Saving while already saving
+2025-11-07 16:01:55.823 Game saved successfully (savegame1).
+2025-11-07 16:02:37.085 Game saved successfully (savegame1).
+2025-11-07 16:02:40.338 Game saved successfully (savegame1).
