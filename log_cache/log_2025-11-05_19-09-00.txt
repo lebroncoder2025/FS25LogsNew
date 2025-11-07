@@ -7330,3 +7330,14 @@ LUA call stack:
 2025-11-07 13:33:55.571 data/placeables/brandless/decoration/playGround/sunflowerWaySign.i3d (3.26 ms)
 2025-11-07 13:35:30.799 data/placeables/brandless/decoration/gardenWells/gardenWell01.i3d (6.09 ms)
 2025-11-07 13:37:02.834 Romek lost connection to the game
+2025-11-07 13:47:39.062 dataS/character/playerM/heads/mHead05.i3d (237.71 ms)
+2025-11-07 13:47:39.178 dataS/character/playerM/shirts/zipNeckPullover.i3d (115.04 ms)
+2025-11-07 13:47:39.217 dataS/character/playerM/hairStyles/hairStyleManBun.i3d (39.11 ms)
+2025-11-07 13:47:39.228 dataS/character/playerM/facialHair/mHead05/goatee02.i3d (10.66 ms)
+2025-11-07 13:48:35.929 Game saved successfully (savegame1).
+2025-11-07 13:49:07.091 dataS/character/playerF/pants/botChinos.i3d (13.68 ms)
+2025-11-07 13:49:07.326 dataS/character/playerF/heads/fHead04.i3d (235.37 ms)
+2025-11-07 13:49:07.346 dataS/character/playerF/jacket/topAviatorJacket.i3d (19.08 ms)
+2025-11-07 13:49:07.440 dataS/character/playerF/shoes/laceUpSneaker.i3d (93.77 ms)
+2025-11-07 13:49:07.482 dataS/character/playerF/hairStyles/hairStylePonyTail01.i3d (41.94 ms)
+2025-11-07 13:50:47.913 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_RounderWrappedRoundbales/assets/roundbale180/roundbale180.i3d (7.43 ms)
