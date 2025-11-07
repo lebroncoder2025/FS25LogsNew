@@ -5265,3 +5265,8 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-07 16:19:54.762 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_lsfmBigBagPack/objects/bigBag/bigBag.i3d (5.57 ms)
 2025-11-07 16:20:24.770 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.54 ms)
 2025-11-07 16:20:24.823 data/objects/pallets/liquidTank/liquidTank.i3d (3.76 ms)
+2025-11-07 16:26:15.643   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'STEYR 8130 Super Elite'
+2025-11-07 16:37:28.243 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_largeCowshed3_3/main.i3d (145.14 ms)
+2025-11-07 16:37:28.380 data/shared/assets/lights/terraLed/light150W.i3d (1.99 ms)
+2025-11-07 16:37:28.381 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_largeCowshed3_3/navmehs.i3d (0.20 ms)
+2025-11-07 16:38:26.943 Game saved successfully (savegame1).
