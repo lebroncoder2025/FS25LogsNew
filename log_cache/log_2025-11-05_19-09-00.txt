@@ -7215,3 +7215,7 @@ LUA call stack:
 2025-11-07 07:40:20.372 Romek lost connection to the game
 2025-11-07 07:48:16.871 Game saved successfully (savegame1).
 2025-11-07 08:18:18.731 Game saved successfully (savegame1).
+2025-11-07 08:48:19.930 Game saved successfully (savegame1).
+2025-11-07 09:02:26.999 M1odyHaze joined the game
+2025-11-07 09:13:13.773   Info: No 'ExhaustExtension' particle system added to vehicle 'Lizard Screw conveyor' because it has no exhaust
+2025-11-07 09:18:21.843 Game saved successfully (savegame1).
