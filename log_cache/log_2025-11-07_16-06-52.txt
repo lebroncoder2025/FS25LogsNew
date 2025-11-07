@@ -5411,3 +5411,24 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-07 18:19:10.870   Info: Added € 40,000 to farm account. (3)
 2025-11-07 18:19:27.663 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_BigWhiteCowBarn/manureHeap.i3d (22.13 ms)
 2025-11-07 18:19:47.573 siwa lost connection to the game
+2025-11-07 18:19:56.582   Info: Moved player to coordinates 641, 946 successfully.
+2025-11-07 18:21:02.648   Info: Successfully set fill unit 1 of Farmtech Fortis 3000 to Hay with a fill level of 55,000 liters.
+2025-11-07 18:21:25.840   Info: Successfully set fill unit 1 of Farmtech Fortis 3000 to Hay with a fill level of 55,000 liters.
+2025-11-07 18:21:30.588   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'New Holland T6.160'
+2025-11-07 18:21:45.244   Info: Successfully set fill unit 1 of Farmtech Fortis 3000 to Hay with a fill level of 55,000 liters.
+2025-11-07 18:22:04.416   Info: Successfully set fill unit 1 of Farmtech Fortis 3000 to Hay with a fill level of 55,000 liters.
+2025-11-07 18:22:45.474   Info: Successfully set fill unit 1 of Farmtech Fortis 3000 to Hay with a fill level of 55,000 liters.
+2025-11-07 18:23:05.976   Info: Successfully set fill unit 1 of Farmtech Fortis 3000 to Hay with a fill level of 55,000 liters.
+2025-11-07 18:23:38.078   Info: Successfully set fill unit 1 of Farmtech Fortis 3000 to Hay with a fill level of 55,000 liters.
+2025-11-07 18:24:12.561   Info: Successfully set fill unit 1 of Farmtech Fortis 3000 to Hay with a fill level of 55,000 liters.
+2025-11-07 18:24:41.118   Info: Successfully set fill unit 1 of Farmtech Fortis 3000 to Hay with a fill level of 55,000 liters.
+2025-11-07 18:25:02.082   Info: Successfully set fill unit 1 of Farmtech Fortis 3000 to Hay with a fill level of 55,000 liters.
+2025-11-07 18:25:23.549   Info: Successfully set fill unit 1 of Farmtech Fortis 3000 to Hay with a fill level of 55,000 liters.
+2025-11-07 18:25:47.443   Info: Successfully set fill unit 1 of Farmtech Fortis 3000 to Hay with a fill level of 55,000 liters.
+2025-11-07 18:26:29.484   Info: Successfully set fill unit 1 of Farmtech Fortis 3000 to Hay with a fill level of 55,000 liters.
+2025-11-07 18:27:03.920   Info: Successfully set fill unit 1 of Farmtech Fortis 3000 to Hay with a fill level of 55,000 liters.
+2025-11-07 18:27:23.772   Info: Successfully set fill unit 1 of Farmtech Fortis 3000 to Hay with a fill level of 55,000 liters.
+2025-11-07 18:27:50.532   Info: Successfully set fill unit 1 of Farmtech Fortis 3000 to Hay with a fill level of 55,000 liters.
+2025-11-07 18:28:31.700 M1odyHaze joined the game
+2025-11-07 18:31:48.979 data/placeables/meridian/fuelTank25000L/fuelTank25000L.i3d (5.29 ms)
+2025-11-07 18:33:21.714   Info: Moved player to coordinates 617, 800 successfully.
