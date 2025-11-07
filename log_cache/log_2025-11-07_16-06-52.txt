@@ -5455,3 +5455,14 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-07 19:07:12.179 dataS/character/playerM/hairStyles/hairStyleDiablo.i3d (33.82 ms)
 2025-11-07 19:07:12.180 dataS/character/playerM/facialHair/mHead01/beardStubble.i3d (1.49 ms)
 2025-11-07 19:08:31.051 Game saved successfully (savegame1).
+2025-11-07 19:33:58.975 Jolero joined the game
+2025-11-07 19:33:58.992 dataS/character/playerM/shirts/topTShirt01.i3d (2.33 ms)
+2025-11-07 19:33:59.027 dataS/character/playerM/hairStyles/hairStyleTopKnot.i3d (34.95 ms)
+2025-11-07 19:33:59.047 dataS/character/playerM/facialHair/mHead01/goatee01.i3d (19.62 ms)
+2025-11-07 19:34:55.079   Info: [Easy Development Controls] User Jolero has logged in as master user.
+2025-11-07 19:35:45.380 Jolero left the game
+2025-11-07 19:35:46.435 Game saved successfully (savegame1).
+2025-11-07 19:37:23.966   Info: Successfully set fill unit 1 of Pomot UPR 10 to Lime with a fill level of 7,900 liters.
+2025-11-07 19:38:32.448 Game saved successfully (savegame1).
+2025-11-07 19:40:29.047 M@rcin lost connection to the game
+2025-11-07 19:41:51.893 zwierek left the game
