@@ -5574,3 +5574,5 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-07 23:14:58.921 dataS/character/playerM/attachments/hatWoolen.i3d (47.69 ms)
 2025-11-07 23:14:58.956 dataS/character/playerM/hairStyles/hairStyleMullet.i3d (34.67 ms)
 2025-11-07 23:14:58.967 dataS/character/playerM/facialHair/mHead02/trimmedBeard.i3d (11.31 ms)
+2025-11-07 23:34:28.641   Info: Successfully set fill unit 1 of Pomot UPR 10 to Lime with a fill level of 7,900 liters.
+2025-11-07 23:37:12.981   Info: Moved 2 vehicles to coordinates 647, 838 successfully.
