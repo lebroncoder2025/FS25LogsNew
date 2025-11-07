@@ -5477,3 +5477,25 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-07 20:10:09.782 dataS/character/playerF/shoes/workboot02.i3d (3.21 ms)
 2025-11-07 20:10:09.816 dataS/character/playerF/hairStyles/hairStylePonyTail03.i3d (33.87 ms)
 2025-11-07 20:10:20.099 hubsonwaliszot left the game
+2025-11-07 20:35:36.341 blaze joined the game
+2025-11-07 20:38:41.612 Game saved successfully (savegame1).
+2025-11-07 20:44:06.945 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.56 ms)
+2025-11-07 20:51:57.854 hubsonwaliszot joined the game
+2025-11-07 20:51:57.888 dataS/character/playerM/pants/botJeanShorts.i3d (16.83 ms)
+2025-11-07 20:51:57.905 dataS/character/playerM/heads/mHead02.i3d (16.84 ms)
+2025-11-07 20:51:58.192 dataS/character/playerM/shirts/poettinger/poettingerTshirt.i3d (286.96 ms)
+2025-11-07 20:51:58.241 dataS/character/playerM/gloves/strauss/glovesEsTrailLight02.i3d (48.49 ms)
+2025-11-07 20:51:58.289 dataS/character/playerM/attachments/hatWoolen.i3d (47.95 ms)
+2025-11-07 20:51:58.291 dataS/character/playerM/attachments/glassesAviators.i3d (1.78 ms)
+2025-11-07 20:51:58.326 dataS/character/playerM/hairStyles/hairStyleMullet.i3d (34.93 ms)
+2025-11-07 20:51:58.337 dataS/character/playerM/facialHair/mHead02/trimmedBeard.i3d (11.43 ms)
+2025-11-07 20:54:18.246 M@rcin joined the game
+2025-11-07 20:54:18.281 dataS/character/playerM/jacket/topAviatorJacket.i3d (18.84 ms)
+2025-11-07 20:54:18.315 dataS/character/playerM/hairStyles/hairStyleDiablo.i3d (33.29 ms)
+2025-11-07 20:54:18.316 dataS/character/playerM/facialHair/mHead01/beardStubble.i3d (1.42 ms)
+2025-11-07 20:55:55.740 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.55 ms)
+2025-11-07 21:06:32.190 M1odyHaze joined the game
+2025-11-07 21:08:42.337 Game saved successfully (savegame1).
+2025-11-07 21:20:51.687 data/objects/bigBag/bigBag.i3d (6.39 ms)
+2025-11-07 21:22:24.667 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.74 ms)
+2025-11-07 21:22:47.183 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.74 ms)
