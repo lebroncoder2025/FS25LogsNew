@@ -7212,3 +7212,5 @@ LUA call stack:
 2025-11-07 07:07:48.999 M@rcin lost connection to the game
 2025-11-07 07:18:15.853 Game saved successfully (savegame1).
 2025-11-07 07:20:10.709 data/objects/pallets/sugarPallet/sugarBoxPallet.i3d (7.57 ms)
+2025-11-07 07:40:20.372 Romek lost connection to the game
+2025-11-07 07:48:16.871 Game saved successfully (savegame1).
