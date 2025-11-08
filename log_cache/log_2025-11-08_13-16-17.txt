@@ -5251,3 +5251,5 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-08 13:26:10.640 M1odyHaze joined the game
 2025-11-08 13:27:52.083   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Case IH 160 CVX'
 2025-11-08 13:29:04.323 M1odyHaze lost connection to the game
+2025-11-08 13:41:37.899   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'STEYR 8130 Super Elite'
+2025-11-08 13:47:43.044 Game saved successfully (savegame1).
