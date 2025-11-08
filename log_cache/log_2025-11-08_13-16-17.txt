@@ -5293,3 +5293,4 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-08 14:54:31.973 hubsonwaliszot left the game
 2025-11-08 14:55:57.947 M1odyHaze joined the game
 2025-11-08 15:17:46.151 Game saved successfully (savegame1).
+2025-11-08 15:35:17.792 zwierek lost connection to the game
