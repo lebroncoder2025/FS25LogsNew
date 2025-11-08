@@ -5675,3 +5675,8 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-08 08:17:52.532 dataS/character/playerM/shoes/sandalM02.i3d (93.63 ms)
 2025-11-08 08:17:52.567 dataS/character/playerM/hairStyles/hairStyleTopKnot.i3d (35.05 ms)
 2025-11-08 08:17:52.582 dataS/character/playerM/facialHair/mHead02/fullBeard.i3d (14.66 ms)
+2025-11-08 08:20:53.257 zone joined the game
+2025-11-08 08:20:53.369 dataS/character/playerM/jacket/caseIH/caseIHTop.i3d (93.92 ms)
+2025-11-08 08:20:53.376 dataS/character/playerM/attachments/caseIHhat.i3d (6.69 ms)
+2025-11-08 08:20:53.410 dataS/character/playerM/hairStyles/hairStyleFringe.i3d (34.60 ms)
+2025-11-08 08:25:09.343   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'CLAAS Lexion 590'
