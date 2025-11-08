@@ -5657,3 +5657,12 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-08 05:49:33.327 dataS/character/playerM/facialHair/mHead01/goatee01.i3d (19.36 ms)
 2025-11-08 05:55:14.621 siejA lost connection to the game
 2025-11-08 06:10:02.716 Game saved successfully (savegame1).
+2025-11-08 06:40:12.037 Game saved successfully (savegame1).
+2025-11-08 06:48:00.445 M@rcin joined the game
+2025-11-08 06:48:00.664 dataS/character/playerM/jacket/topAviatorJacket.i3d (18.54 ms)
+2025-11-08 06:48:00.665 dataS/character/playerM/attachments/glassesAviators.i3d (1.48 ms)
+2025-11-08 06:48:00.699 dataS/character/playerM/hairStyles/hairStyleDiablo.i3d (33.59 ms)
+2025-11-08 06:48:00.700 dataS/character/playerM/facialHair/mHead01/beardStubble.i3d (1.40 ms)
+2025-11-08 07:01:48.727   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Case IH 160 CVX'
+2025-11-08 07:10:12.564 Game saved successfully (savegame1).
+2025-11-08 07:17:27.134 M@rcin lost connection to the game
