@@ -5553,3 +5553,8 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-08 21:27:17.467 Jolero left the game
 2025-11-08 21:27:18.791 Game saved successfully (savegame1).
 2025-11-08 21:27:28.286 hubsonwaliszot left the game
+2025-11-08 21:36:17.781 siejA joined the game
+2025-11-08 21:36:17.906 dataS/character/playerM/fullBody/strauss/motion2020PantsVariant2ndVariant.i3d (111.02 ms)
+2025-11-08 21:36:17.926 dataS/character/playerM/facialHair/mHead01/goatee01.i3d (19.50 ms)
+2025-11-08 21:39:27.529 siejA left the game
+2025-11-08 21:48:29.119 Game saved successfully (savegame1).
