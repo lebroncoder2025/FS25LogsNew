@@ -5360,3 +5360,9 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-08 17:17:53.057 Game saved successfully (savegame1).
 2025-11-08 17:19:04.871   Info: The condition of Fendt 620 Vario - 50km/h and all connected implements updated.
 2025-11-08 17:21:09.281 Figuana joined the game
+2025-11-08 17:33:15.444 Jolero left the game
+2025-11-08 17:33:22.348 zwierek lost connection to the game
+2025-11-08 17:36:22.250   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'John Deere 5115M'
+2025-11-08 17:36:25.222   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Ursus C-385A Fast transmission'
+2025-11-08 17:37:38.696 blaze joined the game
+2025-11-08 17:37:49.135   Info: No 'ExhaustExtension' particle system added to vehicle 'Lizard Screw conveyor' because it has no exhaust
