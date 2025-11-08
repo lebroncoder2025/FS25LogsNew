@@ -5817,3 +5817,25 @@ LUA call stack:
   =dataS/scripts/network/ConnectionManager.lua:27 packetReceived
 2025-11-08 12:01:06.070 zone lost connection to the game
 2025-11-08 12:10:46.417 Game saved successfully (savegame1).
+2025-11-08 12:39:53.656 ShakierMoney600 joined the game
+2025-11-08 12:40:47.989 Game saved successfully (savegame1).
+2025-11-08 12:42:40.839 dataS/character/playerM/fullBody/strauss/motion2020PantsVariant2ndVariant.i3d (109.88 ms)
+2025-11-08 12:42:40.858 dataS/character/playerM/attachments/headgearMotorbike.i3d (19.17 ms)
+2025-11-08 12:48:52.358 ShakierMoney600 lost connection to the game
+2025-11-08 12:49:43.122 ShakierMoney600 joined the game
+2025-11-08 12:49:43.250 dataS/character/playerM/fullBody/strauss/motion2020PantsVariant2ndVariant.i3d (110.16 ms)
+2025-11-08 12:49:43.264 dataS/character/playerM/attachments/headgearMotorbike.i3d (13.56 ms)
+2025-11-08 12:53:07.389 M1odyHaze lost connection to the game
+2025-11-08 12:54:26.048 M1odyHaze joined the game
+2025-11-08 13:09:57.707 data/objects/bigBag/bigBag.i3d (5.90 ms)
+2025-11-08 13:09:57.775 data/objects/pallets/liquidTank/liquidTank.i3d (3.75 ms)
+2025-11-08 13:09:57.791 data/objects/bigBagPallet/bigBagPallet.i3d (4.62 ms)
+2025-11-08 13:10:48.441 Game saved successfully (savegame1).
+2025-11-08 13:12:21.009 M1odyHaze lost connection to the game
+2025-11-08 13:12:37.197 ShakierMoney600 lost connection to the game
+2025-11-08 13:13:27.828 ShakierMoney600 joined the game
+2025-11-08 13:13:27.956 dataS/character/playerM/fullBody/strauss/motion2020PantsVariant2ndVariant.i3d (110.10 ms)
+2025-11-08 13:13:27.970 dataS/character/playerM/attachments/headgearMotorbike.i3d (13.12 ms)
+2025-11-08 13:13:44.310 M1odyHaze joined the game
+2025-11-08 13:15:39.875 M1odyHaze lost connection to the game
+2025-11-08 13:15:46.282 ShakierMoney600 lost connection to the game
