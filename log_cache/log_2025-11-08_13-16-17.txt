@@ -5572,3 +5572,5 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-08 23:06:38.615 dataS/character/playerM/hairStyles/hairStyleTopKnot.i3d (33.95 ms)
 2025-11-08 23:06:38.626 dataS/character/playerM/facialHair/mHead01/trimmedBeard.i3d (11.36 ms)
 2025-11-08 23:18:35.803 Game saved successfully (savegame1).
+2025-11-08 23:33:09.152 M@rcin lost connection to the game
+2025-11-08 23:34:35.718   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Case IH CVX 195'
