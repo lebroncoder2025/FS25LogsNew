@@ -5305,3 +5305,11 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-08 16:08:39.442   Info: [Easy Development Controls] User zwierek has logged in as master user.
 2025-11-08 16:08:54.152   Info: Successfully set fill unit 1 of Farmtech Fortis 3000 to Canola with a fill level of 20,000 liters.
 2025-11-08 16:17:49.399 Game saved successfully (savegame1).
+2025-11-08 16:24:40.963 dataS/character/playerM/pants/botLeather.i3d (17.69 ms)
+2025-11-08 16:24:41.160 dataS/character/playerM/heads/mHead03.i3d (197.86 ms)
+2025-11-08 16:24:41.194 dataS/character/playerM/hairStyles/hairStyleMidParted01.i3d (33.05 ms)
+2025-11-08 16:27:11.535 dataS/character/playerF/pants/botChinos.i3d (13.58 ms)
+2025-11-08 16:27:11.729 dataS/character/playerF/heads/fHead04.i3d (193.84 ms)
+2025-11-08 16:27:11.748 dataS/character/playerF/jacket/topAviatorJacket.i3d (18.70 ms)
+2025-11-08 16:27:11.824 dataS/character/playerF/shoes/laceUpSneaker.i3d (76.13 ms)
+2025-11-08 16:27:11.864 dataS/character/playerF/hairStyles/hairStylePonyTail01.i3d (36.38 ms)
