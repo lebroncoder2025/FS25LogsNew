@@ -5696,3 +5696,14 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-08 09:20:50.880 dataS/character/playerM/hairStyles/hairStyleMidParted01.i3d (40.91 ms)
 2025-11-08 09:20:50.881 dataS/character/playerM/facialHair/mHead01/beardStubble.i3d (1.44 ms)
 2025-11-08 09:21:23.158 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_RounderWrappedRoundbales/assets/roundbale180/roundbale180.i3d (1.94 ms)
+2025-11-08 09:28:16.236 Piotrek joined the game
+2025-11-08 09:28:16.269 dataS/character/playerM/pants/botJeanShorts.i3d (16.46 ms)
+2025-11-08 09:28:16.332 dataS/character/playerM/shirts/topTankTop.i3d (62.92 ms)
+2025-11-08 09:28:16.338 dataS/character/playerM/gloves/glovesGeneric.i3d (6.05 ms)
+2025-11-08 09:28:16.349 dataS/character/playerM/attachments/headgearCowboy.i3d (11.35 ms)
+2025-11-08 09:28:16.442 dataS/character/playerM/shoes/sandalM02.i3d (92.55 ms)
+2025-11-08 09:30:20.207 dataS/character/playerF/pants/botCargo.i3d (18.13 ms)
+2025-11-08 09:30:20.233 dataS/character/playerF/jacket/topVest.i3d (25.53 ms)
+2025-11-08 09:30:20.236 dataS/character/playerF/shoes/workboot02.i3d (3.21 ms)
+2025-11-08 09:30:20.271 dataS/character/playerF/hairStyles/hairStylePonyTail03.i3d (34.95 ms)
+2025-11-08 09:40:34.583 Game saved successfully (savegame1).
