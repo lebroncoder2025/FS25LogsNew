@@ -5560,3 +5560,15 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-08 21:48:29.119 Game saved successfully (savegame1).
 2025-11-08 22:18:33.980 Game saved successfully (savegame1).
 2025-11-08 22:28:54.787 M1odyHaze joined the game
+2025-11-08 22:48:35.438 Game saved successfully (savegame1).
+2025-11-08 22:51:37.170 M1odyHaze lost connection to the game
+2025-11-08 22:55:07.345 Błażej lost connection to the game
+2025-11-08 23:06:38.210 Romek joined the game
+2025-11-08 23:06:38.333 dataS/character/playerM/pants/strauss/motion2020Pants2ndVariant.i3d (106.32 ms)
+2025-11-08 23:06:38.485 dataS/character/playerM/jacket/topVestM.i3d (150.87 ms)
+2025-11-08 23:06:38.487 dataS/character/playerM/attachments/headgearBandana.i3d (2.49 ms)
+2025-11-08 23:06:38.489 dataS/character/playerM/attachments/glassesSports02.i3d (1.47 ms)
+2025-11-08 23:06:38.581 dataS/character/playerM/shoes/sportSneaker.i3d (92.35 ms)
+2025-11-08 23:06:38.615 dataS/character/playerM/hairStyles/hairStyleTopKnot.i3d (33.95 ms)
+2025-11-08 23:06:38.626 dataS/character/playerM/facialHair/mHead01/trimmedBeard.i3d (11.36 ms)
+2025-11-08 23:18:35.803 Game saved successfully (savegame1).
