@@ -5725,3 +5725,13 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-08 10:03:36.017 data/objects/bigBagPallet/bigBagPallet.i3d (4.53 ms)
 2025-11-08 10:05:05.294 data/objects/bigBagPallet/bigBagPallet.i3d (4.66 ms)
 2025-11-08 10:10:36.392 Game saved successfully (savegame1).
+2025-11-08 10:32:02.620 dataS/character/playerF/pants/botCargo.i3d (18.09 ms)
+2025-11-08 10:32:02.645 dataS/character/playerF/jacket/topVest.i3d (25.26 ms)
+2025-11-08 10:32:02.648 dataS/character/playerF/shoes/workboot02.i3d (3.11 ms)
+2025-11-08 10:32:02.684 dataS/character/playerF/hairStyles/hairStylePonyTail03.i3d (35.24 ms)
+2025-11-08 10:32:59.234 zwierek joined the game
+2025-11-08 10:32:59.266 dataS/character/playerM/pants/botJeanShorts.i3d (16.64 ms)
+2025-11-08 10:32:59.268 dataS/character/playerM/attachments/glassesAviators.i3d (1.74 ms)
+2025-11-08 10:32:59.269 dataS/character/playerM/shoes/sandalM03.i3d (1.39 ms)
+2025-11-08 10:32:59.303 dataS/character/playerM/hairStyles/hairStyleBaldTop.i3d (34.04 ms)
+2025-11-08 10:32:59.312 dataS/character/playerM/facialHair/mHead01/walrusXL.i3d (8.93 ms)
