@@ -5666,3 +5666,4 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-08 07:01:48.727   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Case IH 160 CVX'
 2025-11-08 07:10:12.564 Game saved successfully (savegame1).
 2025-11-08 07:17:27.134 M@rcin lost connection to the game
+2025-11-08 07:40:24.680 Game saved successfully (savegame1).
