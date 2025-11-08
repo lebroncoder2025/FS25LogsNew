@@ -5527,3 +5527,22 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-08 20:27:05.733 dataS/character/playerM/shoes/sportSneaker.i3d (91.69 ms)
 2025-11-08 20:30:31.844 ShakierMoney600 joined the game
 2025-11-08 20:30:31.875 dataS/character/playerM/attachments/headgearMotorbike.i3d (13.23 ms)
+2025-11-08 20:34:35.306   Info: Moved 1 vehicles to coordinates 646, 790 successfully.
+2025-11-08 20:39:43.270 ShakierMoney600 lost connection to the game
+2025-11-08 20:45:53.667 GarbatyAlojzy joined the game
+2025-11-08 20:45:53.690 dataS/character/playerM/pants/strauss/motion2020Pants.i3d (5.09 ms)
+2025-11-08 20:45:53.772 dataS/character/playerM/shirts/poettinger/poettingerSweater.i3d (82.37 ms)
+2025-11-08 20:45:53.778 dataS/character/playerM/gloves/glovesGeneric.i3d (5.09 ms)
+2025-11-08 20:45:53.779 dataS/character/playerM/attachments/glassesSports02.i3d (1.59 ms)
+2025-11-08 20:45:53.929 dataS/character/playerM/shoes/racing.i3d (149.83 ms)
+2025-11-08 20:45:53.961 dataS/character/playerM/hairStyles/hairStyleBaldTop.i3d (31.93 ms)
+2025-11-08 20:48:23.978 Game saved successfully (savegame1).
+2025-11-08 20:52:18.982 data/objects/bigBag/bigBag.i3d (5.02 ms)
+2025-11-08 20:53:29.559   Info: No 'ExhaustExtension' particle system added to vehicle 'Lizard Pallet Truck' because it has no exhaust
+2025-11-08 20:54:03.413 GarbatyAlojzy lost connection to the game
+2025-11-08 20:54:21.401 data/objects/bigBagPallet/bigBagPallet.i3d (4.48 ms)
+2025-11-08 20:54:57.406 siejA left the game
+2025-11-08 20:56:56.272 zone lost connection to the game
+2025-11-08 21:17:06.848 siejA joined the game
+2025-11-08 21:17:06.972 dataS/character/playerM/fullBody/strauss/motion2020PantsVariant2ndVariant.i3d (110.55 ms)
+2025-11-08 21:18:25.803 Game saved successfully (savegame1).
