@@ -5779,3 +5779,5 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-08 11:16:01.018 dataS/character/playerM/hairStyles/hairStyleUnkempt.i3d (35.25 ms)
 2025-11-08 11:16:01.037 dataS/character/playerM/facialHair/mHead02/goatee01.i3d (19.46 ms)
 2025-11-08 11:16:31.915 Romek lost connection to the game
+2025-11-08 11:28:20.785 zwierek lost connection to the game
+2025-11-08 11:29:41.270 M1odyHaze joined the game
