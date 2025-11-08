@@ -5667,3 +5667,11 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-08 07:10:12.564 Game saved successfully (savegame1).
 2025-11-08 07:17:27.134 M@rcin lost connection to the game
 2025-11-08 07:40:24.680 Game saved successfully (savegame1).
+2025-11-08 08:10:33.153 Game saved successfully (savegame1).
+2025-11-08 08:17:51.928 symonixprime joined the game
+2025-11-08 08:17:52.308 dataS/character/playerM/pants/poettinger/poettingerShort.i3d (179.82 ms)
+2025-11-08 08:17:52.323 dataS/character/playerM/heads/mHead02.i3d (14.26 ms)
+2025-11-08 08:17:52.438 dataS/character/playerM/shirts/topTShirt02.i3d (114.72 ms)
+2025-11-08 08:17:52.532 dataS/character/playerM/shoes/sandalM02.i3d (93.63 ms)
+2025-11-08 08:17:52.567 dataS/character/playerM/hairStyles/hairStyleTopKnot.i3d (35.05 ms)
+2025-11-08 08:17:52.582 dataS/character/playerM/facialHair/mHead02/fullBeard.i3d (14.66 ms)
