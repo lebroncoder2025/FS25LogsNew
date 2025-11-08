@@ -5680,3 +5680,19 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-08 08:20:53.376 dataS/character/playerM/attachments/caseIHhat.i3d (6.69 ms)
 2025-11-08 08:20:53.410 dataS/character/playerM/hairStyles/hairStyleFringe.i3d (34.60 ms)
 2025-11-08 08:25:09.343   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'CLAAS Lexion 590'
+2025-11-08 08:40:31.284 Game saved successfully (savegame1).
+2025-11-08 08:53:54.675 dataS/character/playerF/pants/botChinos.i3d (13.49 ms)
+2025-11-08 08:53:54.875 dataS/character/playerF/heads/fHead04.i3d (199.11 ms)
+2025-11-08 08:53:54.893 dataS/character/playerF/jacket/topAviatorJacket.i3d (18.75 ms)
+2025-11-08 08:53:54.970 dataS/character/playerF/shoes/laceUpSneaker.i3d (77.28 ms)
+2025-11-08 08:53:55.007 dataS/character/playerF/hairStyles/hairStylePonyTail01.i3d (36.83 ms)
+2025-11-08 08:55:12.337 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_RounderWrappedRoundbales/assets/roundbale180/roundbale180.i3d (7.30 ms)
+2025-11-08 09:10:33.058 Game saved successfully (savegame1).
+2025-11-08 09:17:11.656 dataS/character/playerF/pants/botChinos.i3d (13.16 ms)
+2025-11-08 09:17:32.369 dataS/character/playerM/pants/botLeather.i3d (17.70 ms)
+2025-11-08 09:17:32.399 dataS/character/playerM/jacket/topVest.i3d (30.07 ms)
+2025-11-08 09:19:44.758 symonixprime lost connection to the game
+2025-11-08 09:20:50.839 dataS/character/playerM/jacket/topDenimJacket.i3d (34.87 ms)
+2025-11-08 09:20:50.880 dataS/character/playerM/hairStyles/hairStyleMidParted01.i3d (40.91 ms)
+2025-11-08 09:20:50.881 dataS/character/playerM/facialHair/mHead01/beardStubble.i3d (1.44 ms)
+2025-11-08 09:21:23.158 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_RounderWrappedRoundbales/assets/roundbale180/roundbale180.i3d (1.94 ms)
