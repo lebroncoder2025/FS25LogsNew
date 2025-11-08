@@ -5263,3 +5263,10 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-08 14:20:37.391 dataS/character/playerM/hairStyles/hairStyleMullet.i3d (34.33 ms)
 2025-11-08 14:20:37.402 dataS/character/playerM/facialHair/mHead02/trimmedBeard.i3d (11.29 ms)
 2025-11-08 14:25:12.903   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Ursus C-385A Fast transmission'
+2025-11-08 14:26:29.616   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Case IH 160 CVX'
+2025-11-08 14:27:53.725 symonixprime lost connection to the game
+2025-11-08 14:29:06.507   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'JCB 575-67'
+2025-11-08 14:32:28.820 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_OldTankLiquid/oldTankLiquidG500.i3d (111.94 ms)
+2025-11-08 14:32:28.949 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_OldTankLiquid/rodas/385_65R22_L.i3d (63.78 ms)
+2025-11-08 14:32:28.955 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_OldTankLiquid/rodas/385_65R22_R.i3d (6.57 ms)
+2025-11-08 14:35:50.885   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'New Holland T6.160'
