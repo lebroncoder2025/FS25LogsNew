@@ -5450,3 +5450,16 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-08 19:29:18.184 dataS/character/playerM/shirts/zipNeckPullover.i3d (94.55 ms)
 2025-11-08 19:29:18.218 dataS/character/playerM/hairStyles/hairStyleManBun.i3d (33.25 ms)
 2025-11-08 19:29:18.228 dataS/character/playerM/facialHair/mHead05/goatee02.i3d (9.82 ms)
+2025-11-08 19:29:52.812   Info: Successfully set fill unit 2 of Strautmann Tera-Vitesse CFS 4601 DO to Silage Additive with a fill level of 10 liters.
+2025-11-08 19:29:57.173   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'New Holland 8340'
+2025-11-08 19:34:01.579 dataS/character/playerF/pants/botChinos.i3d (13.20 ms)
+2025-11-08 19:34:01.772 dataS/character/playerF/heads/fHead04.i3d (192.63 ms)
+2025-11-08 19:34:01.777 dataS/character/playerF/jacket/topAviatorJacket.i3d (5.18 ms)
+2025-11-08 19:34:01.852 dataS/character/playerF/shoes/laceUpSneaker.i3d (75.31 ms)
+2025-11-08 19:34:01.889 dataS/character/playerF/hairStyles/hairStylePonyTail01.i3d (35.79 ms)
+2025-11-08 19:35:47.451 dataS/character/playerF/heads/fHead06.i3d (108.81 ms)
+2025-11-08 19:35:47.504 dataS/character/playerF/shirts/topBlouse.i3d (53.03 ms)
+2025-11-08 19:35:47.507 dataS/character/playerF/shoes/sneaker01.i3d (2.73 ms)
+2025-11-08 19:35:47.542 dataS/character/playerF/hairStyles/hairStyleMidSideParted.i3d (35.15 ms)
+2025-11-08 19:38:15.435   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Case IH 160 CVX'
+2025-11-08 19:38:31.850 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_duevelsdorfPack/silagewalze2600/silagewalze2600.i3d (17.54 ms)
