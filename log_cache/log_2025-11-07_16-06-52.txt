@@ -5651,3 +5651,9 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-08 04:39:38.452 Game saved successfully (savegame1).
 2025-11-08 05:09:46.435 Game saved successfully (savegame1).
 2025-11-08 05:39:55.024 Game saved successfully (savegame1).
+2025-11-08 05:49:32.962 siejA joined the game
+2025-11-08 05:49:33.272 dataS/character/playerM/fullBody/strauss/motion2020PantsVariant2ndVariant.i3d (109.18 ms)
+2025-11-08 05:49:33.307 dataS/character/playerM/hairStyles/hairStyleFringe.i3d (35.56 ms)
+2025-11-08 05:49:33.327 dataS/character/playerM/facialHair/mHead01/goatee01.i3d (19.36 ms)
+2025-11-08 05:55:14.621 siejA lost connection to the game
+2025-11-08 06:10:02.716 Game saved successfully (savegame1).
