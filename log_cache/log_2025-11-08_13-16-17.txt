@@ -5270,3 +5270,26 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-08 14:32:28.949 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_OldTankLiquid/rodas/385_65R22_L.i3d (63.78 ms)
 2025-11-08 14:32:28.955 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_OldTankLiquid/rodas/385_65R22_R.i3d (6.57 ms)
 2025-11-08 14:35:50.885   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'New Holland T6.160'
+2025-11-08 14:41:57.199 dataS/character/playerF/pants/botCargo.i3d (18.05 ms)
+2025-11-08 14:41:57.226 dataS/character/playerF/jacket/topVest.i3d (26.48 ms)
+2025-11-08 14:41:57.229 dataS/character/playerF/shoes/workboot02.i3d (3.11 ms)
+2025-11-08 14:41:57.266 dataS/character/playerF/hairStyles/hairStylePonyTail03.i3d (36.95 ms)
+2025-11-08 14:45:43.122 zwierek joined the game
+2025-11-08 14:45:43.231 dataS/character/playerM/shoes/sandalM03.i3d (91.22 ms)
+2025-11-08 14:45:43.263 dataS/character/playerM/hairStyles/hairStyleBaldTop.i3d (31.47 ms)
+2025-11-08 14:45:43.272 dataS/character/playerM/facialHair/mHead01/walrusXL.i3d (8.93 ms)
+2025-11-08 14:47:43.897 Game saved successfully (savegame1).
+2025-11-08 14:49:12.280   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'CLAAS LEXION 8900'
+2025-11-08 14:49:23.449 dataS/character/playerF/pants/botChinos.i3d (13.47 ms)
+2025-11-08 14:49:23.594 dataS/character/playerF/heads/fHead06.i3d (110.97 ms)
+2025-11-08 14:49:23.649 dataS/character/playerF/shirts/topBlouse.i3d (55.30 ms)
+2025-11-08 14:49:23.652 dataS/character/playerF/shoes/sneaker01.i3d (2.76 ms)
+2025-11-08 14:49:23.688 dataS/character/playerF/hairStyles/hairStyleMidSideParted.i3d (35.20 ms)
+2025-11-08 14:49:32.506   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Fendt 620 Vario - 50km/h'
+2025-11-08 14:52:28.623   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Case IH 160 CVX'
+2025-11-08 14:53:52.008 dataS/character/playerM/pants/botLeather.i3d (17.85 ms)
+2025-11-08 14:53:52.200 dataS/character/playerM/heads/mHead03.i3d (192.07 ms)
+2025-11-08 14:53:52.233 dataS/character/playerM/hairStyles/hairStyleMidParted01.i3d (33.16 ms)
+2025-11-08 14:54:31.973 hubsonwaliszot left the game
+2025-11-08 14:55:57.947 M1odyHaze joined the game
+2025-11-08 15:17:46.151 Game saved successfully (savegame1).
