@@ -6856,3 +6856,15 @@ dataS/scripts/internalMods/FS25_precisionFarming/scripts/specializations/Precisi
 2025-11-09 15:20:13.525 Game saved successfully (savegame1).
 2025-11-09 15:20:29.010 data/objects/bigBagPallet/bigBagPallet.i3d (5.01 ms)
 2025-11-09 15:21:01.085 data/objects/bigBagPallet/bigBagPallet.i3d (5.56 ms)
+2025-11-09 15:35:44.613 zone lost connection to the game
+2025-11-09 15:37:09.562 siejA lost connection to the game
+2025-11-09 15:49:28.041 hubsonwaliszot joined the game
+2025-11-09 15:49:28.260 dataS/character/playerM/pants/botJeanShorts.i3d (16.78 ms)
+2025-11-09 15:49:28.276 dataS/character/playerM/heads/mHead02.i3d (16.10 ms)
+2025-11-09 15:49:28.562 dataS/character/playerM/shirts/poettinger/poettingerTshirt.i3d (286.37 ms)
+2025-11-09 15:49:28.611 dataS/character/playerM/gloves/strauss/glovesEsTrailLight02.i3d (48.97 ms)
+2025-11-09 15:49:28.658 dataS/character/playerM/attachments/hatWoolen.i3d (47.04 ms)
+2025-11-09 15:49:28.660 dataS/character/playerM/attachments/glassesAviators.i3d (1.72 ms)
+2025-11-09 15:49:28.694 dataS/character/playerM/hairStyles/hairStyleMullet.i3d (34.36 ms)
+2025-11-09 15:49:28.706 dataS/character/playerM/facialHair/mHead02/trimmedBeard.i3d (11.15 ms)
+2025-11-09 15:50:24.514 Game saved successfully (savegame1).
