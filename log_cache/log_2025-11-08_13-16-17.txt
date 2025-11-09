@@ -6905,3 +6905,21 @@ dataS/scripts/internalMods/FS25_precisionFarming/scripts/specializations/Precisi
 2025-11-09 17:55:05.124 dataS/character/playerM/jacket/topVest.i3d (31.57 ms)
 2025-11-09 18:06:15.228 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.62 ms)
 2025-11-09 18:06:15.291 data/objects/bigBagPallet/bigBagPallet.i3d (5.28 ms)
+2025-11-09 18:20:30.373 M@rcin joined the game
+2025-11-09 18:20:30.408 dataS/character/playerM/jacket/topAviatorJacket.i3d (18.75 ms)
+2025-11-09 18:20:30.441 dataS/character/playerM/hairStyles/hairStyleDiablo.i3d (33.27 ms)
+2025-11-09 18:20:30.443 dataS/character/playerM/facialHair/mHead01/beardStubble.i3d (1.50 ms)
+2025-11-09 18:20:31.225 Game saved successfully (savegame1).
+2025-11-09 18:24:06.965 dataS/character/playerF/pants/botChinos.i3d (13.02 ms)
+2025-11-09 18:24:07.073 dataS/character/playerF/heads/fHead06.i3d (108.61 ms)
+2025-11-09 18:24:07.127 dataS/character/playerF/shirts/topBlouse.i3d (52.74 ms)
+2025-11-09 18:24:07.130 dataS/character/playerF/shoes/sneaker01.i3d (2.72 ms)
+2025-11-09 18:24:07.165 dataS/character/playerF/hairStyles/hairStyleMidSideParted.i3d (34.62 ms)
+2025-11-09 18:27:33.549 Błażej joined the game
+2025-11-09 18:27:33.566 dataS/character/playerM/shirts/topTShirt01.i3d (2.26 ms)
+2025-11-09 18:27:33.658 dataS/character/playerM/shoes/sportSneaker.i3d (91.49 ms)
+2025-11-09 18:27:44.824 zone lost connection to the game
+2025-11-09 18:30:15.714 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_krampeBigBody650/bigBody650.i3d (158.79 ms)
+2025-11-09 18:30:15.851 data/shared/wheels/tires/michelin/cargoXBibHF/650_55R26_5.i3d (2.66 ms)
+2025-11-09 18:30:15.891 data/shared/assets/lights/lizard/rearLight74.i3d (2.54 ms)
+2025-11-09 18:30:15.894 data/shared/assets/lights/lizard/sideMarker09.i3d (2.45 ms)
