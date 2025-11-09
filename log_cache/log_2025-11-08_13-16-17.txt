@@ -6974,3 +6974,77 @@ dataS/scripts/internalMods/FS25_precisionFarming/scripts/specializations/Precisi
 2025-11-09 20:14:11.157 data/objects/bigBag/bigBag.i3d (5.57 ms)
 2025-11-09 20:14:11.260 data/objects/pallets/liquidTank/liquidTank.i3d (3.41 ms)
 2025-11-09 20:14:11.278 data/objects/bigBagPallet/bigBagPallet.i3d (5.03 ms)
+2025-11-09 20:17:01.824 Lewy joined the game
+2025-11-09 20:17:01.982 dataS/character/playerM/pants/poettinger/poettingerShort.i3d (140.70 ms)
+2025-11-09 20:17:02.103 dataS/character/playerM/jacket/claas/claasTop.i3d (121.08 ms)
+2025-11-09 20:17:02.109 dataS/character/playerM/attachments/headgearBeanie.i3d (6.30 ms)
+2025-11-09 20:17:02.140 dataS/character/playerM/shoes/crok.i3d (30.93 ms)
+2025-11-09 20:17:02.160 dataS/character/playerM/facialHair/mHead01/goatee01.i3d (19.73 ms)
+2025-11-09 20:17:13.992 Błażej left the game
+2025-11-09 20:18:04.759 Błażej joined the game
+2025-11-09 20:18:04.793 dataS/character/playerM/heads/mHead02.i3d (17.40 ms)
+2025-11-09 20:18:04.796 dataS/character/playerM/shirts/topTShirt01.i3d (2.38 ms)
+2025-11-09 20:18:04.890 dataS/character/playerM/shoes/sportSneaker.i3d (94.37 ms)
+2025-11-09 20:18:04.925 dataS/character/playerM/hairStyles/hairStyleFringe.i3d (34.32 ms)
+2025-11-09 20:20:35.811 Game saved successfully (savegame1).
+2025-11-09 20:26:48.763 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Fiat_126p/Fiat126.i3d (300.83 ms)
+2025-11-09 20:26:53.714   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Fiat 126P'
+2025-11-09 20:29:17.986 Error: Can't load resource 'D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_DucatoFiatPickupTruck/Textures/chrom.png'.
+2025-11-09 20:29:17.987 Error: Can't load resource 'D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_DucatoFiatPickupTruck/Textures/chrom.png'.
+2025-11-09 20:29:18.013 Error: Missing dds file 'D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_DucatoFiatPickupTruck/Textures/peinture2.dds'
+2025-11-09 20:29:18.013 Error: Missing dds file 'D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_DucatoFiatPickupTruck/Textures/peinture2.dds'
+2025-11-09 20:29:18.013 Error: Missing dds file 'D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_DucatoFiatPickupTruck/Textures/peinture2.dds'
+2025-11-09 20:29:18.014 Error: Can't load resource 'D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_DucatoFiatPickupTruck/Textures/peinture2.dds'.
+2025-11-09 20:29:18.123 Warning (performance): Width or height doesn't equal 2^n of mip-mapped texture D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_DucatoFiatPickupTruck/textures/dashboard_1.dds.
+2025-11-09 20:29:18.123 Warning (performance): Width or height doesn't equal 2^n of mip-mapped texture D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_DucatoFiatPickupTruck/textures/dashboard_2.dds.
+2025-11-09 20:29:18.124 Warning (performance): Width or height doesn't equal 2^n of mip-mapped texture D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_DucatoFiatPickupTruck/textures/dashboard_3.dds.
+2025-11-09 20:29:18.124 Warning (performance): Width or height doesn't equal 2^n of mip-mapped texture D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_DucatoFiatPickupTruck/textures/garniture.dds.
+2025-11-09 20:29:18.144 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_DucatoFiatPickupTruck/FiatDucato.i3d (249.85 ms)
+2025-11-09 20:29:18.240 Error: keyframes not strictly monotonic increasing
+2025-11-09 20:29:18.241 Error: keyframes not strictly monotonic increasing
+2025-11-09 20:29:18.259   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_DucatoFiatPickupTruck/FiatDucato.xml): repr and driveNode may not be equal. Using default driveNode instead! (vehicle.wheels.wheelConfigurations.wheelConfiguration(0).wheels.wheel(0))
+2025-11-09 20:29:18.261   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_DucatoFiatPickupTruck/FiatDucato.xml): repr and driveNode may not be equal. Using default driveNode instead! (vehicle.wheels.wheelConfigurations.wheelConfiguration(0).wheels.wheel(1))
+2025-11-09 20:29:18.281 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_DucatoFiatPickupTruck/wheels/wheels.i3d (21.01 ms)
+2025-11-09 20:29:18.342   Error: Failed to find child 4 from node "RootNode|FiatDucato|visuals|transform|Capot", only 1 children given
+2025-11-09 20:29:18.343 LUA call stack:
+  =dataS/scripts/i3d/I3DUtil.lua:19 checkChildIndex
+  =dataS/scripts/i3d/I3DUtil.lua:100 indexToObject
+  =dataS/scripts/xml/XMLValueType.lua:125 getXMLNode
+  =dataS/scripts/xml/XMLFile.lua:384 getValue
+  =dataS/scripts/vehicles/specializations/components/RealLight.lua:40 loadFromXML
+  =dataS/scripts/vehicles/specializations/components/RealLight.lua:477 loadLightsFromXML
+  =dataS/scripts/vehicles/specializations/Lights.lua:1481 loadRealLightSetup
+  =dataS/scripts/vehicles/specializations/Lights.lua:307 onLoad
+  =dataS/scripts/utils/Utils.lua:592 
+  =dataS/scripts/specialization/SpecializationUtil.lua:32 
+  =dataS/scripts/vehicles/Vehicle.lua:1227 
+  =dataS/scripts/async/AsyncTaskManager.lua:43 runLambda
+  =dataS/scripts/async/AsyncTaskManager.lua:129 runTopTask
+  =dataS/scripts/async/AsyncTaskManager.lua:157 update
+  =dataS/scripts/main.lua:1179 update
+2025-11-09 20:29:18.343   Error: Index not found: 0>9|0|3|4
+2025-11-09 20:29:18.343   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_DucatoFiatPickupTruck/FiatDucato.xml): Missing light source node in 'vehicle.lights.realLights.high.light(5)'
+2025-11-09 20:29:18.344   Error: Failed to find child 3 from node "RootNode|FiatDucato|visuals|transform|Capot", only 1 children given
+2025-11-09 20:29:18.344 LUA call stack:
+  =dataS/scripts/i3d/I3DUtil.lua:19 checkChildIndex
+  =dataS/scripts/i3d/I3DUtil.lua:91 indexToObject
+  =dataS/scripts/xml/XMLValueType.lua:125 getXMLNode
+  =dataS/scripts/xml/XMLFile.lua:384 getValue
+  =dataS/scripts/vehicles/specializations/components/StaticLight.lua:29 loadFromXML
+  =dataS/scripts/vehicles/specializations/components/StaticLight.lua:286 loadLightsFromXML
+  =dataS/scripts/vehicles/specializations/Lights.lua:310 onLoad
+  =dataS/scripts/utils/Utils.lua:592 
+  =dataS/scripts/specialization/SpecializationUtil.lua:32 
+  =dataS/scripts/vehicles/Vehicle.lua:1227 
+  =dataS/scripts/async/AsyncTaskManager.lua:43 runLambda
+  =dataS/scripts/async/AsyncTaskManager.lua:129 runTopTask
+  =dataS/scripts/async/AsyncTaskManager.lua:157 update
+  =dataS/scripts/main.lua:1179 update
+2025-11-09 20:29:18.344   Error: Index not found: 0>9|0|3|3|0
+2025-11-09 20:29:18.344   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_DucatoFiatPickupTruck/FiatDucato.xml): Missing static lights node in 'vehicle.lights.defaultLights.defaultLight(9)'
+2025-11-09 20:29:18.349 data/shared/assets/lights/lizard/rearLight28.i3d (4.02 ms)
+2025-11-09 20:29:18.351 data/shared/assets/lights/lizard/plateNumberLight03.i3d (1.77 ms)
+2025-11-09 20:29:18.453   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_DucatoFiatPickupTruck/FiatDucato.xml): Failed to find material by material slot name 'portelaterale' in 'vehicle.baseColorConfigurations.material(3)'
+2025-11-09 20:29:18.453   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_DucatoFiatPickupTruck/FiatDucato.xml): Failed to find material by material slot name 'portearg' in 'vehicle.baseColorConfigurations.material(4)'
+2025-11-09 20:29:18.454   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_DucatoFiatPickupTruck/FiatDucato.xml): Failed to find material by material slot name 'porteard' in 'vehicle.baseColorConfigurations.material(5)'
+2025-11-09 20:29:21.230   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Fiat Ducato'
