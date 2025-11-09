@@ -6869,3 +6869,16 @@ dataS/scripts/internalMods/FS25_precisionFarming/scripts/specializations/Precisi
 2025-11-09 15:49:28.706 dataS/character/playerM/facialHair/mHead02/trimmedBeard.i3d (11.15 ms)
 2025-11-09 15:50:24.514 Game saved successfully (savegame1).
 2025-11-09 16:20:19.949 Game saved successfully (savegame1).
+2025-11-09 16:50:20.797 Game saved successfully (savegame1).
+2025-11-09 17:03:30.949   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Case IH 160 CVX'
+2025-11-09 17:09:19.909   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'New Holland T6.160'
+2025-11-09 17:09:51.341 M1odyHaze joined the game
+2025-11-09 17:11:09.563 dataS/character/playerM/pants/botLeather.i3d (17.79 ms)
+2025-11-09 17:11:09.593 dataS/character/playerM/jacket/topVest.i3d (30.30 ms)
+2025-11-09 17:11:09.627 dataS/character/playerM/hairStyles/hairStyleFringe.i3d (34.06 ms)
+2025-11-09 17:17:48.024 M1odyHaze lost connection to the game
+2025-11-09 17:20:27.387 Game saved successfully (savegame1).
+2025-11-09 17:24:59.091 dataS/character/playerM/heads/mHead05.i3d (192.72 ms)
+2025-11-09 17:24:59.185 dataS/character/playerM/shirts/zipNeckPullover.i3d (94.59 ms)
+2025-11-09 17:24:59.218 dataS/character/playerM/hairStyles/hairStyleManBun.i3d (33.23 ms)
+2025-11-09 17:24:59.228 dataS/character/playerM/facialHair/mHead05/goatee02.i3d (9.98 ms)
