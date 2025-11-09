@@ -6304,3 +6304,29 @@ dataS/scripts/internalMods/FS25_precisionFarming/scripts/specializations/Precisi
 2025-11-09 05:48:53.591 Game saved successfully (savegame1).
 2025-11-09 05:54:59.883 M@rcin lost connection to the game
 2025-11-09 06:18:54.602 Game saved successfully (savegame1).
+2025-11-09 06:48:12.353 M@rcin joined the game
+2025-11-09 06:48:12.390 dataS/character/playerM/jacket/topAviatorJacket.i3d (18.23 ms)
+2025-11-09 06:48:12.391 dataS/character/playerM/attachments/glassesAviators.i3d (1.63 ms)
+2025-11-09 06:48:12.426 dataS/character/playerM/hairStyles/hairStyleDiablo.i3d (34.60 ms)
+2025-11-09 06:48:12.427 dataS/character/playerM/facialHair/mHead01/beardStubble.i3d (1.33 ms)
+2025-11-09 06:48:55.002 Game saved successfully (savegame1).
+2025-11-09 06:51:55.723 zone joined the game
+2025-11-09 06:51:55.750 dataS/character/playerM/heads/mHead02.i3d (13.79 ms)
+2025-11-09 06:51:55.842 dataS/character/playerM/jacket/caseIH/caseIHTop.i3d (92.86 ms)
+2025-11-09 06:51:55.849 dataS/character/playerM/attachments/caseIHhat.i3d (6.47 ms)
+2025-11-09 06:51:55.882 dataS/character/playerM/hairStyles/hairStyleFringe.i3d (33.45 ms)
+2025-11-09 06:51:55.897 dataS/character/playerM/facialHair/mHead02/fullBeard.i3d (14.45 ms)
+2025-11-09 06:58:18.007 data/objects/bigBagPallet/bigBagPallet.i3d (4.19 ms)
+2025-11-09 06:59:13.964 data/objects/bigBagPallet/bigBagPallet.i3d (3.96 ms)
+2025-11-09 06:59:45.184 data/objects/bigBagPallet/bigBagPallet.i3d (4.03 ms)
+2025-11-09 07:01:36.103 dataS/character/playerM/jacket/topDenimJacket.i3d (22.57 ms)
+2025-11-09 07:01:36.136 dataS/character/playerM/hairStyles/hairStyleMidParted01.i3d (32.91 ms)
+2025-11-09 07:02:19.179 dataS/character/playerF/pants/botYogaPants.i3d (10.54 ms)
+2025-11-09 07:02:19.289 dataS/character/playerF/heads/fHead02.i3d (109.93 ms)
+2025-11-09 07:02:19.337 dataS/character/playerF/shirts/topTankTop.i3d (48.00 ms)
+2025-11-09 07:02:19.340 dataS/character/playerF/shoes/sportSneaker.i3d (2.36 ms)
+2025-11-09 07:02:19.374 dataS/character/playerF/hairStyles/hairStyleLongSideParted.i3d (34.49 ms)
+2025-11-09 07:13:22.705 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.59 ms)
+2025-11-09 07:13:22.767 data/objects/bigBag/bigBag.i3d (7.27 ms)
+2025-11-09 07:18:59.431 Game saved successfully (savegame1).
+2025-11-09 07:21:39.955   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Case IH CVX 195'
