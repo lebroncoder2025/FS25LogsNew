@@ -6749,3 +6749,30 @@ dataS/scripts/internalMods/FS25_precisionFarming/scripts/specializations/Precisi
 2025-11-09 13:33:06.893 dataS/character/playerM/hairStyles/hairStyleTopKnot.i3d (34.44 ms)
 2025-11-09 13:33:06.908 dataS/character/playerM/facialHair/mHead02/fullBeard.i3d (14.98 ms)
 2025-11-09 13:40:15.525 symonixprime lost connection to the game
+2025-11-09 13:41:57.673 symonixprime joined the game
+2025-11-09 13:41:57.829 dataS/character/playerM/pants/poettinger/poettingerShort.i3d (140.81 ms)
+2025-11-09 13:41:57.922 dataS/character/playerM/shirts/topTShirt02.i3d (93.09 ms)
+2025-11-09 13:41:57.923 dataS/character/playerM/shoes/sandalM02.i3d (1.10 ms)
+2025-11-09 13:41:57.958 dataS/character/playerM/hairStyles/hairStyleTopKnot.i3d (34.56 ms)
+2025-11-09 13:41:57.973 dataS/character/playerM/facialHair/mHead02/fullBeard.i3d (14.84 ms)
+2025-11-09 13:42:00.795 data/shared/assets/reflectors/lizard/redTriangle_02.i3d (1.08 ms)
+2025-11-09 13:42:00.797 data/shared/assets/reflectors/lizard/bigTriangle.i3d (1.58 ms)
+2025-11-09 13:42:00.806 data/vehicles/dalbo/maxiroll630Greenline/maxiroll630Greenline.i3d (33.86 ms)
+2025-11-09 13:42:00.987 data/shared/wheels/tires/trelleborg/T510/15x6_00R6.i3d (2.00 ms)
+2025-11-09 13:42:01.050 data/shared/assets/lights/lizard/rearLight45.i3d (2.76 ms)
+2025-11-09 13:46:02.836 data/objects/bigBag/bigBag.i3d (5.62 ms)
+2025-11-09 13:46:03.888 data/objects/pallets/liquidTank/liquidTank.i3d (3.31 ms)
+2025-11-09 13:46:03.904 data/objects/bigBagPallet/bigBagPallet.i3d (3.93 ms)
+2025-11-09 13:48:55.063 Romek joined the game
+2025-11-09 13:48:55.084 dataS/character/playerM/pants/strauss/motion2020Pants2ndVariant.i3d (5.19 ms)
+2025-11-09 13:48:55.266 dataS/character/playerM/jacket/topVestM.i3d (181.61 ms)
+2025-11-09 13:48:55.269 dataS/character/playerM/attachments/headgearBandana.i3d (2.51 ms)
+2025-11-09 13:48:55.270 dataS/character/playerM/attachments/glassesSports02.i3d (1.49 ms)
+2025-11-09 13:48:55.282 dataS/character/playerM/facialHair/mHead01/trimmedBeard.i3d (11.90 ms)
+2025-11-09 13:50:02.229 Game saved successfully (savegame1).
+2025-11-09 13:51:22.827   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Case IH 160 CVX'
+2025-11-09 13:53:47.265 data/objects/bigBagPallet/bigBagPallet.i3d (4.15 ms)
+2025-11-09 13:55:09.033 dataS/character/playerM/heads/mHead05.i3d (194.37 ms)
+2025-11-09 13:55:09.127 dataS/character/playerM/shirts/zipNeckPullover.i3d (94.31 ms)
+2025-11-09 13:55:09.160 dataS/character/playerM/hairStyles/hairStyleManBun.i3d (33.32 ms)
+2025-11-09 13:55:09.170 dataS/character/playerM/facialHair/mHead05/goatee02.i3d (9.82 ms)
