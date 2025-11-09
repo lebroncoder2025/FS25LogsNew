@@ -7048,3 +7048,95 @@ dataS/scripts/internalMods/FS25_precisionFarming/scripts/specializations/Precisi
 2025-11-09 20:29:18.453   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_DucatoFiatPickupTruck/FiatDucato.xml): Failed to find material by material slot name 'portearg' in 'vehicle.baseColorConfigurations.material(4)'
 2025-11-09 20:29:18.454   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_DucatoFiatPickupTruck/FiatDucato.xml): Failed to find material by material slot name 'porteard' in 'vehicle.baseColorConfigurations.material(5)'
 2025-11-09 20:29:21.230   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Fiat Ducato'
+2025-11-09 20:34:11.203 Błażej lost connection to the game
+2025-11-09 20:50:38.024 Game saved successfully (savegame1).
+2025-11-09 20:57:04.582 Error: keyframes not strictly monotonic increasing
+2025-11-09 20:57:04.583 Error: keyframes not strictly monotonic increasing
+2025-11-09 20:57:04.598   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_DucatoFiatPickupTruck/FiatDucato.xml): repr and driveNode may not be equal. Using default driveNode instead! (vehicle.wheels.wheelConfigurations.wheelConfiguration(0).wheels.wheel(0))
+2025-11-09 20:57:04.599   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_DucatoFiatPickupTruck/FiatDucato.xml): repr and driveNode may not be equal. Using default driveNode instead! (vehicle.wheels.wheelConfigurations.wheelConfiguration(0).wheels.wheel(1))
+2025-11-09 20:57:04.669   Error: Failed to find child 4 from node "RootNode|FiatDucato|visuals|transform|Capot", only 1 children given
+2025-11-09 20:57:04.669 LUA call stack:
+  =dataS/scripts/i3d/I3DUtil.lua:19 checkChildIndex
+  =dataS/scripts/i3d/I3DUtil.lua:100 indexToObject
+  =dataS/scripts/xml/XMLValueType.lua:125 getXMLNode
+  =dataS/scripts/xml/XMLFile.lua:384 getValue
+  =dataS/scripts/vehicles/specializations/components/RealLight.lua:40 loadFromXML
+  =dataS/scripts/vehicles/specializations/components/RealLight.lua:477 loadLightsFromXML
+  =dataS/scripts/vehicles/specializations/Lights.lua:1481 loadRealLightSetup
+  =dataS/scripts/vehicles/specializations/Lights.lua:307 onLoad
+  =dataS/scripts/utils/Utils.lua:592 
+  =dataS/scripts/specialization/SpecializationUtil.lua:32 
+  =dataS/scripts/vehicles/Vehicle.lua:1227 
+  =dataS/scripts/async/AsyncTaskManager.lua:43 runLambda
+  =dataS/scripts/async/AsyncTaskManager.lua:129 runTopTask
+  =dataS/scripts/async/AsyncTaskManager.lua:157 update
+  =dataS/scripts/main.lua:1179 update
+2025-11-09 20:57:04.670   Error: Index not found: 0>9|0|3|4
+2025-11-09 20:57:04.670   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_DucatoFiatPickupTruck/FiatDucato.xml): Missing light source node in 'vehicle.lights.realLights.high.light(5)'
+2025-11-09 20:57:04.670   Error: Failed to find child 3 from node "RootNode|FiatDucato|visuals|transform|Capot", only 1 children given
+2025-11-09 20:57:04.671 LUA call stack:
+  =dataS/scripts/i3d/I3DUtil.lua:19 checkChildIndex
+  =dataS/scripts/i3d/I3DUtil.lua:91 indexToObject
+  =dataS/scripts/xml/XMLValueType.lua:125 getXMLNode
+  =dataS/scripts/xml/XMLFile.lua:384 getValue
+  =dataS/scripts/vehicles/specializations/components/StaticLight.lua:29 loadFromXML
+  =dataS/scripts/vehicles/specializations/components/StaticLight.lua:286 loadLightsFromXML
+  =dataS/scripts/vehicles/specializations/Lights.lua:310 onLoad
+  =dataS/scripts/utils/Utils.lua:592 
+  =dataS/scripts/specialization/SpecializationUtil.lua:32 
+  =dataS/scripts/vehicles/Vehicle.lua:1227 
+  =dataS/scripts/async/AsyncTaskManager.lua:43 runLambda
+  =dataS/scripts/async/AsyncTaskManager.lua:129 runTopTask
+  =dataS/scripts/async/AsyncTaskManager.lua:157 update
+  =dataS/scripts/main.lua:1179 update
+2025-11-09 20:57:04.671   Error: Index not found: 0>9|0|3|3|0
+2025-11-09 20:57:04.671   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_DucatoFiatPickupTruck/FiatDucato.xml): Missing static lights node in 'vehicle.lights.defaultLights.defaultLight(9)'
+2025-11-09 20:57:04.790   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_DucatoFiatPickupTruck/FiatDucato.xml): Failed to find material by material slot name 'portelaterale' in 'vehicle.baseColorConfigurations.material(3)'
+2025-11-09 20:57:04.791   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_DucatoFiatPickupTruck/FiatDucato.xml): Failed to find material by material slot name 'portearg' in 'vehicle.baseColorConfigurations.material(4)'
+2025-11-09 20:57:04.791   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_DucatoFiatPickupTruck/FiatDucato.xml): Failed to find material by material slot name 'porteard' in 'vehicle.baseColorConfigurations.material(5)'
+2025-11-09 20:57:08.242   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Fiat Ducato'
+2025-11-09 20:57:30.566 data/vehicles/aprilia/rx125/rx125.i3d (23.70 ms)
+2025-11-09 20:57:30.671 data/shared/wheels/rims/aprilia/rx125Rims.i3d (5.15 ms)
+2025-11-09 20:57:30.674 data/shared/wheels/tires/lizard/motorbike/90_90R21.i3d (2.84 ms)
+2025-11-09 20:57:30.677 data/shared/wheels/tires/lizard/motorbike/120_80R18.i3d (2.44 ms)
+2025-11-09 20:57:34.872   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Aprilia RX 125'
+2025-11-09 20:57:34.896 dataS/character/playerM/attachments/headgearMotorbike.i3d (21.32 ms)
+2025-11-09 21:02:52.528 M@rcin lost connection to the game
+2025-11-09 21:10:10.114 hubsonwaliszot joined the game
+2025-11-09 21:10:10.145 dataS/character/playerM/pants/botJeanShorts.i3d (16.62 ms)
+2025-11-09 21:10:10.161 dataS/character/playerM/heads/mHead02.i3d (16.44 ms)
+2025-11-09 21:10:10.460 dataS/character/playerM/shirts/poettinger/poettingerTshirt.i3d (298.35 ms)
+2025-11-09 21:10:10.508 dataS/character/playerM/gloves/strauss/glovesEsTrailLight02.i3d (48.28 ms)
+2025-11-09 21:10:10.554 dataS/character/playerM/attachments/hatWoolen.i3d (46.28 ms)
+2025-11-09 21:10:10.588 dataS/character/playerM/hairStyles/hairStyleMullet.i3d (33.66 ms)
+2025-11-09 21:10:10.599 dataS/character/playerM/facialHair/mHead02/trimmedBeard.i3d (11.47 ms)
+2025-11-09 21:10:52.794 zwierek joined the game
+2025-11-09 21:10:52.902 dataS/character/playerM/shoes/sandalM03.i3d (91.58 ms)
+2025-11-09 21:10:52.933 dataS/character/playerM/hairStyles/hairStyleBaldTop.i3d (31.21 ms)
+2025-11-09 21:10:52.942 dataS/character/playerM/facialHair/mHead01/walrusXL.i3d (8.91 ms)
+2025-11-09 21:12:14.922   Info: [Easy Development Controls] User zwierek has logged in as master user.
+2025-11-09 21:12:31.160   Info: Successfully set fill unit 1 of Lizard MKS 8 to Water with a fill level of 8,000 liters.
+2025-11-09 21:12:51.799   Info: Successfully set fill unit 1 of Lizard MKS 8 to Water with a fill level of 8,000 liters.
+2025-11-09 21:13:08.264 Jolero joined the game
+2025-11-09 21:13:08.287 dataS/character/playerM/shirts/topTShirt01.i3d (2.38 ms)
+2025-11-09 21:13:08.322 dataS/character/playerM/hairStyles/hairStyleTopKnot.i3d (35.31 ms)
+2025-11-09 21:13:10.841 M@rcin joined the game
+2025-11-09 21:13:10.881 dataS/character/playerM/jacket/topAviatorJacket.i3d (18.72 ms)
+2025-11-09 21:13:10.915 dataS/character/playerM/hairStyles/hairStyleDiablo.i3d (33.72 ms)
+2025-11-09 21:13:10.916 dataS/character/playerM/facialHair/mHead01/beardStubble.i3d (1.51 ms)
+2025-11-09 21:14:51.419   Info: [Easy Development Controls] User Jolero has logged in as master user.
+2025-11-09 21:16:17.697 hubsonwaliszot was kicked from the game
+2025-11-09 21:16:30.942 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_RounderWrappedRoundbales/assets/roundbale180/roundbale180.i3d (1.78 ms)
+2025-11-09 21:16:31.949 data/objects/bigBag/bigBag.i3d (6.70 ms)
+2025-11-09 21:16:32.060 data/objects/pallets/liquidTank/liquidTank.i3d (3.03 ms)
+2025-11-09 21:16:32.081 data/objects/bigBagPallet/bigBagPallet.i3d (4.20 ms)
+2025-11-09 21:16:47.425   Info: Successfully set fill unit 1 of Lizard MKS 8 to Water with a fill level of 8,000 liters.
+2025-11-09 21:17:06.770   Info: Successfully set fill unit 1 of Lizard MKS 8 to Water with a fill level of 8,000 liters.
+2025-11-09 21:17:38.117   Info: Successfully set fill unit 1 of Lizard MKS 8 to Water with a fill level of 8,000 liters.
+2025-11-09 21:17:58.344   Info: Successfully set fill unit 1 of Lizard MKS 8 to Water with a fill level of 8,000 liters.
+2025-11-09 21:18:23.261   Info: Successfully set fill unit 1 of Lizard MKS 8 to Water with a fill level of 8,000 liters.
+2025-11-09 21:18:43.305   Info: Successfully set fill unit 1 of Lizard MKS 8 to Water with a fill level of 8,000 liters.
+2025-11-09 21:19:08.835   Info: Successfully emptied fill unit 1 of Lizard MKS 8.
+2025-11-09 21:20:38.525 Game saved successfully (savegame1).
+2025-11-09 21:21:51.841   Info: Successfully set fill unit 1 of Lizard MKS 8 to Buffalo Milk with a fill level of 8,000 liters.
+2025-11-09 21:22:11.592   Info: Successfully set fill unit 1 of Lizard MKS 8 to Buffalo Milk with a fill level of 8,000 liters.
