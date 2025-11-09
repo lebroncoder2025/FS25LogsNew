@@ -7163,3 +7163,23 @@ dataS/scripts/internalMods/FS25_precisionFarming/scripts/specializations/Precisi
 2025-11-09 21:27:35.435 newFarm FarmID => 7
 2025-11-09 21:31:40.859 M@rcin lost connection to the game
 2025-11-09 21:34:09.884   Info: Moved player to coordinates 785, 1376 successfully.
+2025-11-09 21:40:41.698 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.63 ms)
+2025-11-09 21:44:14.196 hubsonwaliszot lost connection to the game
+2025-11-09 21:48:22.468 data/objects/bigBagPallet/bigBagPallet.i3d (4.82 ms)
+2025-11-09 21:49:14.929 Jolero left the game
+2025-11-09 21:49:31.298 hubsonwaliszot joined the game
+2025-11-09 21:49:31.330 dataS/character/playerM/heads/mHead02.i3d (17.90 ms)
+2025-11-09 21:49:31.622 dataS/character/playerM/shirts/poettinger/poettingerTshirt.i3d (292.47 ms)
+2025-11-09 21:49:31.671 dataS/character/playerM/gloves/strauss/glovesEsTrailLight02.i3d (48.46 ms)
+2025-11-09 21:49:31.717 dataS/character/playerM/attachments/hatWoolen.i3d (46.08 ms)
+2025-11-09 21:49:31.753 dataS/character/playerM/hairStyles/hairStyleMullet.i3d (36.60 ms)
+2025-11-09 21:49:31.765 dataS/character/playerM/facialHair/mHead02/trimmedBeard.i3d (11.35 ms)
+2025-11-09 21:50:39.699 Game saved successfully (savegame1).
+2025-11-09 21:57:16.011   Info: Super Strength enabled by zwierek
+2025-11-09 21:57:28.486   Info: Super Strength disabled by zwierek
+2025-11-09 22:01:15.753 dataS/character/playerF/pants/botChinos.i3d (13.36 ms)
+2025-11-09 22:01:15.949 dataS/character/playerF/heads/fHead04.i3d (196.87 ms)
+2025-11-09 22:01:15.968 dataS/character/playerF/jacket/topAviatorJacket.i3d (18.91 ms)
+2025-11-09 22:01:16.048 dataS/character/playerF/shoes/laceUpSneaker.i3d (79.68 ms)
+2025-11-09 22:01:16.084 dataS/character/playerF/hairStyles/hairStylePonyTail01.i3d (35.69 ms)
+2025-11-09 22:14:42.784 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.61 ms)
