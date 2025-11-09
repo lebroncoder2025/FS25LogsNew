@@ -6272,3 +6272,32 @@ dataS/scripts/internalMods/FS25_precisionFarming/scripts/specializations/Precisi
 2025-11-09 02:48:48.806 Game saved successfully (savegame1).
 2025-11-09 03:18:51.552 Game saved successfully (savegame1).
 2025-11-09 03:48:50.568 Game saved successfully (savegame1).
+2025-11-09 04:18:51.090 Game saved successfully (savegame1).
+2025-11-09 04:48:14.498 M@rcin joined the game
+2025-11-09 04:48:14.534 dataS/character/playerM/jacket/topAviatorJacket.i3d (18.33 ms)
+2025-11-09 04:48:14.536 dataS/character/playerM/attachments/glassesAviators.i3d (1.52 ms)
+2025-11-09 04:48:14.569 dataS/character/playerM/hairStyles/hairStyleDiablo.i3d (32.82 ms)
+2025-11-09 04:48:14.570 dataS/character/playerM/facialHair/mHead01/beardStubble.i3d (1.40 ms)
+2025-11-09 04:48:51.896 Game saved successfully (savegame1).
+2025-11-09 04:55:49.485 data/objects/bigBag/bigBag.i3d (5.10 ms)
+2025-11-09 04:55:49.590 data/objects/pallets/liquidTank/liquidTank.i3d (3.12 ms)
+2025-11-09 04:55:49.610 data/objects/bigBagPallet/bigBagPallet.i3d (4.05 ms)
+2025-11-09 04:55:56.413 data/objects/bigBag/bigBag.i3d (5.02 ms)
+2025-11-09 04:55:56.500 data/objects/pallets/liquidTank/liquidTank.i3d (3.00 ms)
+2025-11-09 04:55:56.518 data/objects/bigBagPallet/bigBagPallet.i3d (3.91 ms)
+2025-11-09 04:56:00.368 data/objects/bigBag/bigBag.i3d (5.32 ms)
+2025-11-09 04:56:00.437 data/objects/pallets/liquidTank/liquidTank.i3d (3.11 ms)
+2025-11-09 04:56:00.456 data/objects/bigBagPallet/bigBagPallet.i3d (4.04 ms)
+2025-11-09 04:56:03.421 data/objects/bigBag/bigBag.i3d (5.34 ms)
+2025-11-09 04:56:03.473 data/objects/pallets/liquidTank/liquidTank.i3d (3.42 ms)
+2025-11-09 04:56:03.492 data/objects/bigBagPallet/bigBagPallet.i3d (4.50 ms)
+2025-11-09 04:56:06.908 data/objects/bigBag/bigBag.i3d (5.30 ms)
+2025-11-09 04:56:06.941 data/objects/pallets/liquidTank/liquidTank.i3d (3.04 ms)
+2025-11-09 04:56:06.963 data/objects/bigBagPallet/bigBagPallet.i3d (4.24 ms)
+2025-11-09 04:56:09.752 data/objects/pallets/liquidTank/liquidTank.i3d (3.05 ms)
+2025-11-09 04:56:10.745 data/objects/bigBag/bigBag.i3d (5.34 ms)
+2025-11-09 04:56:10.780 data/objects/bigBagPallet/bigBagPallet.i3d (4.22 ms)
+2025-11-09 04:56:51.215 data/objects/bigBag/bigBag.i3d (5.13 ms)
+2025-11-09 04:56:51.247 data/objects/pallets/liquidTank/liquidTank.i3d (3.25 ms)
+2025-11-09 04:56:51.268 data/objects/bigBagPallet/bigBagPallet.i3d (4.12 ms)
+2025-11-09 05:18:52.345 Game saved successfully (savegame1).
