@@ -7186,3 +7186,24 @@ dataS/scripts/internalMods/FS25_precisionFarming/scripts/specializations/Precisi
 2025-11-09 22:20:43.336 Game saved successfully (savegame1).
 2025-11-09 22:24:18.740   Info: Moved player to coordinates 1065, 526 successfully.
 2025-11-09 22:31:04.803 M1odyHaze joined the game
+2025-11-09 22:35:24.502 M1odyHaze lost connection to the game
+2025-11-09 22:47:19.195 Warning: Send called with unknown target address.
+2025-11-09 22:47:19.205 zwierek left the game
+2025-11-09 22:50:44.820 Game saved successfully (savegame1).
+2025-11-09 23:13:06.422 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_CaseIH_1455XL/caseIH1455.i3d (431.19 ms)
+2025-11-09 23:13:06.471 dataS/scripts/xml/XMLValueType.lua:182: Warning: Failed to parse parameter '1' into the number. (vector '- - 0')
+2025-11-09 23:13:06.550 data/shared/wheels/tires/trelleborg/TM800/540_65R30.i3d (2.55 ms)
+2025-11-09 23:13:06.552 data/shared/wheels/tires/trelleborg/TM800/650_65R42.i3d (2.39 ms)
+2025-11-09 23:13:22.729 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_MGP_Series/i3d/MGP11.i3d (127.93 ms)
+2025-11-09 23:13:22.891 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_MGP_Series/lights/rearLight65.i3d (2.45 ms)
+2025-11-09 23:14:57.638 data/vehicles/amazone/precea4500/precea4500.i3d (40.75 ms)
+2025-11-09 23:14:57.761 data/shared/wheels/tires/bkt/AS504/26x12_00__12.i3d (2.86 ms)
+2025-11-09 23:14:57.809 data/shared/assets/lights/lizard/rearLight57.i3d (2.58 ms)
+2025-11-09 23:14:57.810 data/shared/assets/lights/lizard/sideMarker05Red.i3d (1.17 ms)
+2025-11-09 23:15:46.045 Lewy left the game
+2025-11-09 23:17:02.899 dataS/character/playerF/pants/botChinos.i3d (13.51 ms)
+2025-11-09 23:17:03.092 dataS/character/playerF/heads/fHead04.i3d (192.90 ms)
+2025-11-09 23:17:03.111 dataS/character/playerF/jacket/topAviatorJacket.i3d (18.70 ms)
+2025-11-09 23:17:03.186 dataS/character/playerF/shoes/laceUpSneaker.i3d (75.56 ms)
+2025-11-09 23:17:03.222 dataS/character/playerF/hairStyles/hairStylePonyTail01.i3d (35.36 ms)
+2025-11-09 23:17:09.797   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Case IH 1455 XL'
