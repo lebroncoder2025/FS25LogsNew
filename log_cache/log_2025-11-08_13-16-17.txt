@@ -6301,3 +6301,6 @@ dataS/scripts/internalMods/FS25_precisionFarming/scripts/specializations/Precisi
 2025-11-09 04:56:51.247 data/objects/pallets/liquidTank/liquidTank.i3d (3.25 ms)
 2025-11-09 04:56:51.268 data/objects/bigBagPallet/bigBagPallet.i3d (4.12 ms)
 2025-11-09 05:18:52.345 Game saved successfully (savegame1).
+2025-11-09 05:48:53.591 Game saved successfully (savegame1).
+2025-11-09 05:54:59.883 M@rcin lost connection to the game
+2025-11-09 06:18:54.602 Game saved successfully (savegame1).
