@@ -6813,3 +6813,41 @@ dataS/scripts/internalMods/FS25_precisionFarming/scripts/specializations/Precisi
 2025-11-09 14:30:54.080 dataS/character/playerF/shirts/topBlouse.i3d (52.83 ms)
 2025-11-09 14:30:54.083 dataS/character/playerF/shoes/sneaker01.i3d (2.70 ms)
 2025-11-09 14:30:54.118 dataS/character/playerF/hairStyles/hairStyleMidSideParted.i3d (34.70 ms)
+2025-11-09 14:39:43.980 data/objects/pallets/liquidTank/liquidTank.i3d (3.40 ms)
+2025-11-09 14:39:44.013 data/objects/bigBagPallet/bigBagPallet.i3d (4.89 ms)
+2025-11-09 14:40:56.776 dataS/character/playerM/pants/botLeather.i3d (17.79 ms)
+2025-11-09 14:41:48.693   Info: No 'ExhaustExtension' particle system added to vehicle 'Kärcher HDS 9/18-4 M' because it has no exhaust
+2025-11-09 14:42:51.593 dataS/character/playerM/fullBody/onePieceMechanic.i3d (28.80 ms)
+2025-11-09 14:42:51.609 dataS/character/playerM/shoes/riding.i3d (16.36 ms)
+2025-11-09 14:42:51.644 dataS/character/playerM/hairStyles/hairStyleUnkempt.i3d (34.82 ms)
+2025-11-09 14:42:51.657 dataS/character/playerM/facialHair/mHead02/goatee01.i3d (13.42 ms)
+2025-11-09 14:43:21.768 dataS/character/playerF/pants/botYogaPants.i3d (10.65 ms)
+2025-11-09 14:43:21.877 dataS/character/playerF/heads/fHead02.i3d (109.42 ms)
+2025-11-09 14:43:21.926 dataS/character/playerF/shirts/topTankTop.i3d (48.36 ms)
+2025-11-09 14:43:21.928 dataS/character/playerF/shoes/sportSneaker.i3d (2.24 ms)
+2025-11-09 14:43:21.964 dataS/character/playerF/hairStyles/hairStyleLongSideParted.i3d (34.44 ms)
+2025-11-09 14:44:04.843 dataS/character/playerM/jacket/topDenimJacket.i3d (22.67 ms)
+2025-11-09 14:44:04.876 dataS/character/playerM/hairStyles/hairStyleMidParted01.i3d (32.97 ms)
+2025-11-09 14:44:21.944   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_KroneTurbo2500/xml/kroneTurbo2500.xml): Invalid vector 3 for 'vehicle.base.components.joint(0)#rotDriveRotation'.
+2025-11-09 14:44:22.112   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_KroneTurbo2500/xml/kroneTurbo2500.xml): Unable to find material template '' in 'vehicle.wheels.hubMaterial'
+2025-11-09 14:44:22.276   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_KroneTurbo2500/xml/kroneTurbo2500.xml): Node 'scratchingFloor' has no shader parameter 'scrollPosition' for animationNode 'vehicle.trailer.trailerConfigurations.trailerConfiguration(0).trailer.tipSide(0).animationNodes.animationNode(0)'!
+2025-11-09 14:44:22.277   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_KroneTurbo2500/xml/kroneTurbo2500.xml): Node 'scratchingFloor' has no shader parameter 'scrollPosition' for animationNode 'vehicle.turnOnVehicle.animationNodes.animationNode(2)'!
+2025-11-09 14:45:27.156 M@rcin lost connection to the game
+2025-11-09 14:49:33.815 symonixprime s$&*@!#$&j lost connection to the game
+2025-11-09 14:49:39.757 Błażej lost connection to the game
+2025-11-09 14:50:13.314 Game saved successfully (savegame1).
+2025-11-09 14:54:42.477 dataS/character/playerM/pants/botLeather.i3d (17.53 ms)
+2025-11-09 14:54:42.507 dataS/character/playerM/jacket/topVest.i3d (30.00 ms)
+2025-11-09 14:54:49.176 dataS/character/playerM/fullBody/onePieceMechanic.i3d (29.78 ms)
+2025-11-09 14:54:49.192 dataS/character/playerM/heads/mHead02.i3d (15.99 ms)
+2025-11-09 14:54:49.210 dataS/character/playerM/shoes/riding.i3d (17.47 ms)
+2025-11-09 14:54:49.246 dataS/character/playerM/hairStyles/hairStyleUnkempt.i3d (36.06 ms)
+2025-11-09 14:54:49.260 dataS/character/playerM/facialHair/mHead02/goatee01.i3d (13.97 ms)
+2025-11-09 14:56:42.751 Romek lost connection to the game
+2025-11-09 14:57:07.407 M1odyHaze lost connection to the game
+2025-11-09 15:09:54.992 Figuana lost connection to the game
+2025-11-09 15:16:48.436 zone joined the game
+2025-11-09 15:16:48.465 dataS/character/playerM/heads/mHead02.i3d (15.66 ms)
+2025-11-09 15:16:48.558 dataS/character/playerM/jacket/caseIH/caseIHTop.i3d (93.26 ms)
+2025-11-09 15:16:48.564 dataS/character/playerM/attachments/caseIHhat.i3d (6.50 ms)
+2025-11-09 15:16:48.579 dataS/character/playerM/facialHair/mHead02/fullBeard.i3d (14.98 ms)
