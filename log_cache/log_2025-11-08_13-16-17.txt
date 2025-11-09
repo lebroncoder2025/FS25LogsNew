@@ -7224,3 +7224,5 @@ dataS/scripts/internalMods/FS25_precisionFarming/scripts/specializations/Precisi
 2025-11-09 23:31:22.988 data/objects/bigBag/bigBag.i3d (5.46 ms)
 2025-11-09 23:35:34.336 data/objects/bigBag/bigBag.i3d (5.51 ms)
 2025-11-09 23:35:46.550 data/objects/bigBag/bigBag.i3d (6.01 ms)
+2025-11-09 23:42:06.025 hubsonwaliszot left the game
+2025-11-09 23:50:55.859 Game saved successfully (savegame1).
