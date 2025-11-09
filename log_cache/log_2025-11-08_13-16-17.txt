@@ -7140,3 +7140,26 @@ dataS/scripts/internalMods/FS25_precisionFarming/scripts/specializations/Precisi
 2025-11-09 21:20:38.525 Game saved successfully (savegame1).
 2025-11-09 21:21:51.841   Info: Successfully set fill unit 1 of Lizard MKS 8 to Buffalo Milk with a fill level of 8,000 liters.
 2025-11-09 21:22:11.592   Info: Successfully set fill unit 1 of Lizard MKS 8 to Buffalo Milk with a fill level of 8,000 liters.
+2025-11-09 21:22:31.457   Info: Successfully set fill unit 1 of Lizard MKS 8 to Buffalo Milk with a fill level of 8,000 liters.
+2025-11-09 21:22:51.671   Info: Successfully set fill unit 1 of Lizard MKS 8 to Buffalo Milk with a fill level of 8,000 liters.
+2025-11-09 21:22:54.670 data/objects/bigBag/bigBag.i3d (6.21 ms)
+2025-11-09 21:22:54.780 data/objects/pallets/liquidTank/liquidTank.i3d (3.49 ms)
+2025-11-09 21:22:54.799 data/objects/bigBagPallet/bigBagPallet.i3d (4.31 ms)
+2025-11-09 21:24:19.059 hubsonwaliszot joined the game
+2025-11-09 21:24:19.095 dataS/character/playerM/heads/mHead02.i3d (16.62 ms)
+2025-11-09 21:24:19.383 dataS/character/playerM/shirts/poettinger/poettingerTshirt.i3d (287.25 ms)
+2025-11-09 21:24:19.432 dataS/character/playerM/gloves/strauss/glovesEsTrailLight02.i3d (48.45 ms)
+2025-11-09 21:24:19.478 dataS/character/playerM/attachments/hatWoolen.i3d (46.02 ms)
+2025-11-09 21:24:19.512 dataS/character/playerM/hairStyles/hairStyleMullet.i3d (34.09 ms)
+2025-11-09 21:24:19.524 dataS/character/playerM/facialHair/mHead02/trimmedBeard.i3d (11.30 ms)
+2025-11-09 21:25:23.050   Info: Successfully emptied fill unit 1 of Lizard MKS 8.
+2025-11-09 21:26:07.988   Info: Successfully emptied fill unit 1 of Lizard MKS 8.
+2025-11-09 21:26:14.928   Info: Successfully emptied fill unit 1 of Lizard MKS 8.
+2025-11-09 21:26:21.757   Info: Successfully emptied fill unit 1 of Lizard MKS 8.
+2025-11-09 21:26:26.213   Info: Successfully emptied fill unit 1 of Lizard MKS 8.
+2025-11-09 21:27:35.434 Next available Farm ID identified:
+2025-11-09 21:27:35.434 7.000000
+2025-11-09 21:27:35.435 FarmID => 7
+2025-11-09 21:27:35.435 newFarm FarmID => 7
+2025-11-09 21:31:40.859 M@rcin lost connection to the game
+2025-11-09 21:34:09.884   Info: Moved player to coordinates 785, 1376 successfully.
