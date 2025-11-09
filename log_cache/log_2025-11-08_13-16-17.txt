@@ -6953,3 +6953,24 @@ dataS/scripts/internalMods/FS25_precisionFarming/scripts/specializations/Precisi
 2025-11-09 19:24:57.797 data/shared/wheels/tires/continental/contiHybridHD3/245_70R19_5.i3d (2.60 ms)
 2025-11-09 19:24:57.801 data/shared/wheels/tires/mitas/FL02/6_50_R10.i3d (1.98 ms)
 2025-11-09 19:27:56.029 Romek lost connection to the game
+2025-11-09 19:50:35.455 Game saved successfully (savegame1).
+2025-11-09 19:52:54.900 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Trabi_kombi/Trabant.i3d (253.92 ms)
+2025-11-09 19:53:03.280   Info: Successfully added 'ExhaustExtension' particle system to 2 nodes of vehicle '601S Trabant original'
+2025-11-09 19:54:50.270 siejA lost connection to the game
+2025-11-09 20:09:01.843 data/objects/pallets/liquidTank/liquidTank.i3d (3.94 ms)
+2025-11-09 20:09:01.866 data/objects/bigBagPallet/bigBagPallet.i3d (5.90 ms)
+2025-11-09 20:10:03.759 data/objects/pallets/liquidTank/liquidTank.i3d (3.63 ms)
+2025-11-09 20:10:03.779 data/objects/bigBagPallet/bigBagPallet.i3d (5.14 ms)
+2025-11-09 20:10:53.969   Info: Successfully added 'ExhaustExtension' particle system to 2 nodes of vehicle '601S Trabant original'
+2025-11-09 20:10:57.329 data/objects/bigBag/bigBag.i3d (7.46 ms)
+2025-11-09 20:10:57.394 data/objects/pallets/liquidTank/liquidTank.i3d (3.79 ms)
+2025-11-09 20:10:57.412 data/objects/bigBagPallet/bigBagPallet.i3d (4.93 ms)
+2025-11-09 20:13:06.919 data/objects/bigBag/bigBag.i3d (7.19 ms)
+2025-11-09 20:13:07.001 data/objects/pallets/liquidTank/liquidTank.i3d (4.01 ms)
+2025-11-09 20:13:07.022 data/objects/bigBagPallet/bigBagPallet.i3d (4.73 ms)
+2025-11-09 20:13:10.216 data/objects/bigBag/bigBag.i3d (7.38 ms)
+2025-11-09 20:13:10.318 data/objects/pallets/liquidTank/liquidTank.i3d (4.14 ms)
+2025-11-09 20:13:10.338 data/objects/bigBagPallet/bigBagPallet.i3d (4.72 ms)
+2025-11-09 20:14:11.157 data/objects/bigBag/bigBag.i3d (5.57 ms)
+2025-11-09 20:14:11.260 data/objects/pallets/liquidTank/liquidTank.i3d (3.41 ms)
+2025-11-09 20:14:11.278 data/objects/bigBagPallet/bigBagPallet.i3d (5.03 ms)
