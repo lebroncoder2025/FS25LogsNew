@@ -6330,3 +6330,4 @@ dataS/scripts/internalMods/FS25_precisionFarming/scripts/specializations/Precisi
 2025-11-09 07:13:22.767 data/objects/bigBag/bigBag.i3d (7.27 ms)
 2025-11-09 07:18:59.431 Game saved successfully (savegame1).
 2025-11-09 07:21:39.955   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Case IH CVX 195'
+2025-11-09 07:41:38.873 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.56 ms)
