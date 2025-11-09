@@ -6923,3 +6923,33 @@ dataS/scripts/internalMods/FS25_precisionFarming/scripts/specializations/Precisi
 2025-11-09 18:30:15.851 data/shared/wheels/tires/michelin/cargoXBibHF/650_55R26_5.i3d (2.66 ms)
 2025-11-09 18:30:15.891 data/shared/assets/lights/lizard/rearLight74.i3d (2.54 ms)
 2025-11-09 18:30:15.894 data/shared/assets/lights/lizard/sideMarker09.i3d (2.45 ms)
+2025-11-09 18:48:51.425 Romek joined the game
+2025-11-09 18:48:51.445 dataS/character/playerM/pants/strauss/motion2020Pants2ndVariant.i3d (5.16 ms)
+2025-11-09 18:48:51.594 dataS/character/playerM/jacket/topVestM.i3d (148.43 ms)
+2025-11-09 18:48:51.596 dataS/character/playerM/attachments/headgearBandana.i3d (2.54 ms)
+2025-11-09 18:48:51.674 dataS/character/playerM/attachments/glassesSports02.i3d (1.78 ms)
+2025-11-09 18:48:51.708 dataS/character/playerM/hairStyles/hairStyleTopKnot.i3d (34.49 ms)
+2025-11-09 18:48:51.720 dataS/character/playerM/facialHair/mHead01/trimmedBeard.i3d (11.22 ms)
+2025-11-09 18:50:32.294 Game saved successfully (savegame1).
+2025-11-09 18:54:33.226 zwierek joined the game
+2025-11-09 18:54:33.340 dataS/character/playerM/shoes/sandalM03.i3d (96.00 ms)
+2025-11-09 18:54:33.372 dataS/character/playerM/hairStyles/hairStyleBaldTop.i3d (31.63 ms)
+2025-11-09 18:54:33.385 dataS/character/playerM/facialHair/mHead01/walrusXL.i3d (9.00 ms)
+2025-11-09 19:03:10.901 Jolero joined the game
+2025-11-09 19:04:43.988   Info: [Easy Development Controls] User Jolero has logged in as master user.
+2025-11-09 19:06:41.345 Warning: Send called with unknown target address.
+2025-11-09 19:06:41.351 Jolero left the game
+2025-11-09 19:06:42.938 Game saved successfully (savegame1).
+2025-11-09 19:12:03.987 zwierek lost connection to the game
+2025-11-09 19:12:42.002 Warning: Send called with unknown target address.
+2025-11-09 19:12:42.002 Warning: Send called with unknown target address.
+2025-11-09 19:12:42.003 Warning: Send called with unknown target address.
+2025-11-09 19:12:42.017 hubsonwaliszot left the game
+2025-11-09 19:20:35.310 Game saved successfully (savegame1).
+2025-11-09 19:21:59.110 data/objects/bigBagPallet/bigBagPallet.i3d (5.08 ms)
+2025-11-09 19:22:00.264 data/objects/bigBagPallet/bigBagPallet.i3d (5.39 ms)
+2025-11-09 19:22:46.340 data/objects/bigBagPallet/bigBagPallet.i3d (5.25 ms)
+2025-11-09 19:24:57.653 data/vehicles/kinze/planter4900/planter4900.i3d (97.77 ms)
+2025-11-09 19:24:57.797 data/shared/wheels/tires/continental/contiHybridHD3/245_70R19_5.i3d (2.60 ms)
+2025-11-09 19:24:57.801 data/shared/wheels/tires/mitas/FL02/6_50_R10.i3d (1.98 ms)
+2025-11-09 19:27:56.029 Romek lost connection to the game
