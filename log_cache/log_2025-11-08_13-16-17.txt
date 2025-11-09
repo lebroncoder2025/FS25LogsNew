@@ -6331,3 +6331,29 @@ dataS/scripts/internalMods/FS25_precisionFarming/scripts/specializations/Precisi
 2025-11-09 07:18:59.431 Game saved successfully (savegame1).
 2025-11-09 07:21:39.955   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Case IH CVX 195'
 2025-11-09 07:41:38.873 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.56 ms)
+2025-11-09 07:48:40.823 dataS/character/playerM/pants/botLeather.i3d (17.44 ms)
+2025-11-09 07:48:40.853 dataS/character/playerM/jacket/topVest.i3d (30.06 ms)
+2025-11-09 07:49:07.944 Game saved successfully (savegame1).
+2025-11-09 07:50:59.231 dataS/character/playerF/pants/botChinos.i3d (13.02 ms)
+2025-11-09 07:50:59.423 dataS/character/playerF/heads/fHead04.i3d (191.84 ms)
+2025-11-09 07:50:59.428 dataS/character/playerF/jacket/topAviatorJacket.i3d (5.08 ms)
+2025-11-09 07:50:59.503 dataS/character/playerF/shoes/laceUpSneaker.i3d (74.97 ms)
+2025-11-09 07:50:59.539 dataS/character/playerF/hairStyles/hairStylePonyTail01.i3d (35.65 ms)
+2025-11-09 07:53:02.944 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.56 ms)
+2025-11-09 08:01:08.688 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.57 ms)
+2025-11-09 08:01:08.753 data/objects/bigBag/bigBag.i3d (5.63 ms)
+2025-11-09 08:09:28.029 data/shared/assets/exhaustLicencePlateHolder.i3d (1.33 ms)
+2025-11-09 08:09:28.040 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_DeutzFahrPack/series6C.i3d (136.60 ms)
+2025-11-09 08:09:28.209 data/shared/wheels/tires/trelleborg/TM700/480_70R24.i3d (2.30 ms)
+2025-11-09 08:09:28.212 data/shared/wheels/tires/trelleborg/TM700/520_70R38.i3d (2.25 ms)
+2025-11-09 08:09:28.310 data/shared/assets/lights/lizard/workingLight21.i3d (2.70 ms)
+2025-11-09 08:09:28.494 data/vehicles/deutzFahr/shared/displays/displays.i3d (15.25 ms)
+2025-11-09 08:09:48.914   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'DEUTZ-FAHR 6115 C RVshift'
+2025-11-09 08:14:07.135 data/shared/wheels/tires/michelin/multibib/540_65R24.i3d (2.49 ms)
+2025-11-09 08:14:07.138 data/shared/wheels/tires/michelin/multibib/600_65R38.i3d (2.32 ms)
+2025-11-09 08:14:57.710   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'DEUTZ-FAHR 6115 C RVshift'
+2025-11-09 08:16:10.959 Romek lost connection to the game
+2025-11-09 08:19:08.320 Game saved successfully (savegame1).
+2025-11-09 08:19:42.628 dataS/character/playerM/pants/botLeather.i3d (18.04 ms)
+2025-11-09 08:19:42.824 dataS/character/playerM/heads/mHead03.i3d (195.36 ms)
+2025-11-09 08:19:42.857 dataS/character/playerM/hairStyles/hairStyleMidParted01.i3d (33.00 ms)
