@@ -6572,3 +6572,17 @@ dataS/scripts/internalMods/FS25_precisionFarming/scripts/specializations/Precisi
 2025-11-09 11:35:39.894 dataS/character/playerM/hairStyles/hairStyleTopKnot.i3d (34.50 ms)
 2025-11-09 11:35:39.914 dataS/character/playerM/facialHair/mHead01/goatee01.i3d (19.44 ms)
 2025-11-09 11:36:30.891   Info: [Easy Development Controls] User Jolero has logged in as master user.
+2025-11-09 11:49:37.039 Game saved successfully (savegame1).
+2025-11-09 11:51:51.974   Info: Successfully set fill unit 1 of Farmtech Fortis 3000 to Hay with a fill level of 55,000 liters.
+2025-11-09 11:52:38.137   Info: Successfully set fill unit 1 of Farmtech Fortis 3000 to Total Mixed Ration with a fill level of 55,000 liters.
+2025-11-09 11:53:04.386   Info: Successfully set fill unit 1 of Farmtech Fortis 3000 to Hay with a fill level of 55,000 liters.
+2025-11-09 11:53:23.332   Info: Successfully set fill unit 1 of Farmtech Fortis 3000 to Hay with a fill level of 55,000 liters.
+2025-11-09 11:53:47.644   Info: Successfully set fill unit 1 of Farmtech Fortis 3000 to Straw with a fill level of 55,000 liters.
+2025-11-09 12:02:28.740   Info: Successfully set fill unit 2 of Strautmann Tera-Vitesse CFS 4601 DO to Silage Additive with a fill level of 10 liters.
+2025-11-09 12:09:49.602 Figuana lost connection to the game
+2025-11-09 12:11:53.496 Błażej joined the game
+2025-11-09 12:11:53.523 dataS/character/playerM/heads/mHead02.i3d (14.45 ms)
+2025-11-09 12:11:53.621 dataS/character/playerM/shoes/sportSneaker.i3d (97.11 ms)
+2025-11-09 12:11:53.655 dataS/character/playerM/hairStyles/hairStyleFringe.i3d (34.03 ms)
+2025-11-09 12:16:21.323 siejA joined the game
+2025-11-09 12:16:21.475 dataS/character/playerM/fullBody/strauss/motion2020PantsVariant2ndVariant.i3d (139.01 ms)
