@@ -6851,3 +6851,8 @@ dataS/scripts/internalMods/FS25_precisionFarming/scripts/specializations/Precisi
 2025-11-09 15:16:48.558 dataS/character/playerM/jacket/caseIH/caseIHTop.i3d (93.26 ms)
 2025-11-09 15:16:48.564 dataS/character/playerM/attachments/caseIHhat.i3d (6.50 ms)
 2025-11-09 15:16:48.579 dataS/character/playerM/facialHair/mHead02/fullBeard.i3d (14.98 ms)
+2025-11-09 15:19:32.942 data/objects/bigBagPallet/bigBagPallet.i3d (4.47 ms)
+2025-11-09 15:19:58.573 data/objects/bigBagPallet/bigBagPallet.i3d (4.71 ms)
+2025-11-09 15:20:13.525 Game saved successfully (savegame1).
+2025-11-09 15:20:29.010 data/objects/bigBagPallet/bigBagPallet.i3d (5.01 ms)
+2025-11-09 15:21:01.085 data/objects/bigBagPallet/bigBagPallet.i3d (5.56 ms)
