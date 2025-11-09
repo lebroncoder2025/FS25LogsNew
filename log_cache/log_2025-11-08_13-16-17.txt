@@ -7207,3 +7207,20 @@ dataS/scripts/internalMods/FS25_precisionFarming/scripts/specializations/Precisi
 2025-11-09 23:17:03.186 dataS/character/playerF/shoes/laceUpSneaker.i3d (75.56 ms)
 2025-11-09 23:17:03.222 dataS/character/playerF/hairStyles/hairStylePonyTail01.i3d (35.36 ms)
 2025-11-09 23:17:09.797   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Case IH 1455 XL'
+2025-11-09 23:20:32.774 dataS/scripts/xml/XMLValueType.lua:182: Warning: Failed to parse parameter '1' into the number. (vector '- - 0')
+2025-11-09 23:20:32.853 data/shared/wheels/tires/trelleborg/TM1060/600_60R30.i3d (3.50 ms)
+2025-11-09 23:20:32.856 data/shared/wheels/tires/trelleborg/TM1060/710_60R42.i3d (2.67 ms)
+2025-11-09 23:20:38.798   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Case IH 1455 XL'
+2025-11-09 23:20:47.547 Game saved successfully (savegame1).
+2025-11-09 23:21:33.415 dataS/scripts/xml/XMLValueType.lua:182: Warning: Failed to parse parameter '1' into the number. (vector '- - 0')
+2025-11-09 23:21:38.037   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Case IH 1455 XL'
+2025-11-09 23:22:33.355 dataS/scripts/xml/XMLValueType.lua:182: Warning: Failed to parse parameter '1' into the number. (vector '- - 0')
+2025-11-09 23:22:37.302   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Case IH 1455 XL'
+2025-11-09 23:23:07.799 data/objects/bigBag/bigBag.i3d (5.25 ms)
+2025-11-09 23:25:21.815 dataS/character/playerM/fullBody/onePieceMechanic.i3d (29.63 ms)
+2025-11-09 23:25:21.833 dataS/character/playerM/shoes/riding.i3d (17.85 ms)
+2025-11-09 23:25:21.870 dataS/character/playerM/hairStyles/hairStyleUnkempt.i3d (36.94 ms)
+2025-11-09 23:25:21.889 dataS/character/playerM/facialHair/mHead02/goatee01.i3d (19.38 ms)
+2025-11-09 23:31:22.988 data/objects/bigBag/bigBag.i3d (5.46 ms)
+2025-11-09 23:35:34.336 data/objects/bigBag/bigBag.i3d (5.51 ms)
+2025-11-09 23:35:46.550 data/objects/bigBag/bigBag.i3d (6.01 ms)
