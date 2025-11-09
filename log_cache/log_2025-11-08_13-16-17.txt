@@ -6559,3 +6559,16 @@ dataS/scripts/internalMods/FS25_precisionFarming/scripts/specializations/Precisi
 2025-11-09 11:19:45.888   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_KroneTurbo2500/xml/kroneTurbo2500.xml): Unable to find material template '' in 'vehicle.wheels.hubMaterial'
 2025-11-09 11:19:45.969   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_KroneTurbo2500/xml/kroneTurbo2500.xml): Node 'scratchingFloor' has no shader parameter 'scrollPosition' for animationNode 'vehicle.trailer.trailerConfigurations.trailerConfiguration(0).trailer.tipSide(0).animationNodes.animationNode(0)'!
 2025-11-09 11:19:45.970   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_KroneTurbo2500/xml/kroneTurbo2500.xml): Node 'scratchingFloor' has no shader parameter 'scrollPosition' for animationNode 'vehicle.turnOnVehicle.animationNodes.animationNode(2)'!
+2025-11-09 11:22:37.839 Jolero left the game
+2025-11-09 11:22:38.905 Game saved successfully (savegame1).
+2025-11-09 11:23:34.612 siwa joined the game
+2025-11-09 11:24:32.351   Info: Super Strength disabled by zwierek
+2025-11-09 11:24:39.375   Info: Super Strength enabled by zwierek
+2025-11-09 11:24:45.232   Info: Super Strength disabled by zwierek
+2025-11-09 11:33:56.794 siwa lost connection to the game
+2025-11-09 11:35:23.456 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_holarasJumbo/holarasjumbo.i3d (92.50 ms)
+2025-11-09 11:35:39.843 Jolero joined the game
+2025-11-09 11:35:39.860 dataS/character/playerM/shirts/topTShirt01.i3d (2.43 ms)
+2025-11-09 11:35:39.894 dataS/character/playerM/hairStyles/hairStyleTopKnot.i3d (34.50 ms)
+2025-11-09 11:35:39.914 dataS/character/playerM/facialHair/mHead01/goatee01.i3d (19.44 ms)
+2025-11-09 11:36:30.891   Info: [Easy Development Controls] User Jolero has logged in as master user.
