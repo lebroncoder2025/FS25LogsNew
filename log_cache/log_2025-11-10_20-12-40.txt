@@ -5266,3 +5266,20 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-10 21:14:05.496 Game saved successfully (savegame1).
 2025-11-10 21:23:55.689 zone lost connection to the game
 2025-11-10 21:37:42.493   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'John Deere 6175M 50km/h'
+2025-11-10 21:44:04.007 Game saved successfully (savegame1).
+2025-11-10 21:58:40.099 Błażej joined the game
+2025-11-10 21:58:40.128 dataS/character/playerM/heads/mHead02.i3d (16.13 ms)
+2025-11-10 21:58:40.130 dataS/character/playerM/shirts/topTShirt01.i3d (2.27 ms)
+2025-11-10 21:58:40.222 dataS/character/playerM/shoes/sportSneaker.i3d (91.97 ms)
+2025-11-10 21:58:40.258 dataS/character/playerM/hairStyles/hairStyleFringe.i3d (35.35 ms)
+2025-11-10 22:05:10.157   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Case IH 160 CVX'
+2025-11-10 22:09:17.230 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_claasDiscoPack/claasDisco3600FC/disco3600FC.i3d (82.11 ms)
+2025-11-10 22:12:21.020 dataS/character/playerF/pants/botYogaPants.i3d (11.06 ms)
+2025-11-10 22:12:21.129 dataS/character/playerF/heads/fHead02.i3d (109.84 ms)
+2025-11-10 22:12:21.177 dataS/character/playerF/shirts/topTankTop.i3d (48.09 ms)
+2025-11-10 22:12:21.180 dataS/character/playerF/shoes/sportSneaker.i3d (2.31 ms)
+2025-11-10 22:12:21.215 dataS/character/playerF/hairStyles/hairStyleLongSideParted.i3d (35.06 ms)
+2025-11-10 22:14:04.532 Game saved successfully (savegame1).
+2025-11-10 22:17:05.776   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'STEYR 8130 Super Elite'
+2025-11-10 22:17:07.480 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.85 ms)
+2025-11-10 22:17:07.536 data/objects/pallets/raniWrapPallet/raniWrapPallet.i3d (3.28 ms)
