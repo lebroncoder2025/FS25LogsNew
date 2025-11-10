@@ -8518,3 +8518,15 @@ dataS/scripts/vehicles/specializations/Dashboard.lua:267: attempt to compare num
 2025-11-10 17:24:47.806 Lewy left the game
 2025-11-10 17:29:11.855 hubsonwaliszot lost connection to the game
 2025-11-10 17:35:26.586 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_RounderWrappedRoundbales/assets/roundbale150/roundbale150.i3d (7.23 ms)
+2025-11-10 17:53:49.625 Game saved successfully (savegame1).
+2025-11-10 18:01:38.713 hubsonwaliszot joined the game
+2025-11-10 18:10:01.253 xlajtt_ left the game
+2025-11-10 18:11:03.275 hubsonwaliszot left the game
+2025-11-10 18:15:06.932 zwierek joined the game
+2025-11-10 18:15:06.966 dataS/character/playerM/pants/botJeanShorts.i3d (16.66 ms)
+2025-11-10 18:15:06.967 dataS/character/playerM/attachments/glassesAviators.i3d (1.65 ms)
+2025-11-10 18:15:07.058 dataS/character/playerM/shoes/sandalM03.i3d (90.41 ms)
+2025-11-10 18:15:07.089 dataS/character/playerM/hairStyles/hairStyleBaldTop.i3d (31.55 ms)
+2025-11-10 18:15:07.098 dataS/character/playerM/facialHair/mHead01/walrusXL.i3d (8.76 ms)
+2025-11-10 18:16:47.856 hubsonwaliszot joined the game
+2025-11-10 18:17:16.979   Info: [Easy Development Controls] User zwierek has logged in as master user.
