@@ -7495,3 +7495,25 @@ dataS/scripts/internalMods/FS25_precisionFarming/scripts/specializations/Precisi
 2025-11-10 12:11:34.589 dataS/character/playerM/pants/botLeather.i3d (17.51 ms)
 2025-11-10 12:11:34.619 dataS/character/playerM/jacket/topVest.i3d (29.93 ms)
 2025-11-10 12:16:44.338 Błażej left the game
+2025-11-10 12:23:15.610 Game saved successfully (savegame1).
+2025-11-10 12:23:18.813 dataS/character/playerM/heads/mHead05.i3d (195.38 ms)
+2025-11-10 12:23:18.907 dataS/character/playerM/shirts/zipNeckPullover.i3d (94.92 ms)
+2025-11-10 12:23:18.941 dataS/character/playerM/hairStyles/hairStyleManBun.i3d (33.44 ms)
+2025-11-10 12:23:18.951 dataS/character/playerM/facialHair/mHead05/goatee02.i3d (9.76 ms)
+2025-11-10 12:23:37.048 data/objects/bigBagPallet/bigBagPallet.i3d (4.15 ms)
+2025-11-10 12:24:31.944 data/objects/bigBagPallet/bigBagPallet.i3d (4.10 ms)
+2025-11-10 12:24:55.632 dataS/character/playerF/pants/botChinos.i3d (13.38 ms)
+2025-11-10 12:24:55.742 dataS/character/playerF/heads/fHead06.i3d (109.47 ms)
+2025-11-10 12:24:55.795 dataS/character/playerF/shirts/topBlouse.i3d (53.39 ms)
+2025-11-10 12:24:55.798 dataS/character/playerF/shoes/sneaker01.i3d (2.72 ms)
+2025-11-10 12:24:55.833 dataS/character/playerF/hairStyles/hairStyleMidSideParted.i3d (35.01 ms)
+2025-11-10 12:25:15.058 data/objects/bigBagPallet/bigBagPallet.i3d (4.07 ms)
+2025-11-10 12:25:53.733 data/objects/bigBagPallet/bigBagPallet.i3d (4.32 ms)
+2025-11-10 12:26:32.009 data/objects/bigBagPallet/bigBagPallet.i3d (4.22 ms)
+2025-11-10 12:27:38.289 Błażej joined the game
+2025-11-10 12:27:38.322 dataS/character/playerM/heads/mHead02.i3d (15.14 ms)
+2025-11-10 12:27:38.324 dataS/character/playerM/shirts/topTShirt01.i3d (2.24 ms)
+2025-11-10 12:27:38.415 dataS/character/playerM/shoes/sportSneaker.i3d (91.31 ms)
+2025-11-10 12:27:38.449 dataS/character/playerM/hairStyles/hairStyleFringe.i3d (33.89 ms)
+2025-11-10 12:27:42.620 data/objects/bigBagPallet/bigBagPallet.i3d (4.17 ms)
+2025-11-10 12:34:38.943 Błażej lost connection to the game
