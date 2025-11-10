@@ -8368,3 +8368,13 @@ dataS/scripts/vehicles/specializations/Dashboard.lua:267: attempt to compare num
 2025-11-10 14:29:45.975 dataS/character/playerM/hairStyles/hairStyleMidParted01.i3d (32.82 ms)
 2025-11-10 14:29:45.976 dataS/character/playerM/facialHair/mHead01/beardStubble.i3d (1.35 ms)
 2025-11-10 14:30:10.704   Info: Successfully set fill unit 2 of Strautmann Tera-Vitesse CFS 4601 DO to Silage Additive with a fill level of 10 liters.
+2025-11-10 14:35:31.116 xlajtt_ joined the game
+2025-11-10 14:36:46.119 Figuana joined the game
+2025-11-10 14:41:08.481 zone joined the game
+2025-11-10 14:41:08.511 dataS/character/playerM/heads/mHead02.i3d (15.20 ms)
+2025-11-10 14:41:08.629 dataS/character/playerM/jacket/caseIH/caseIHTop.i3d (118.41 ms)
+2025-11-10 14:41:08.639 dataS/character/playerM/attachments/caseIHhat.i3d (9.18 ms)
+2025-11-10 14:41:08.672 dataS/character/playerM/hairStyles/hairStyleFringe.i3d (33.72 ms)
+2025-11-10 14:41:08.687 dataS/character/playerM/facialHair/mHead02/fullBeard.i3d (14.65 ms)
+2025-11-10 14:41:17.660   Info: Successfully set fill unit 1 of Ursus C-385A Fast transmission to Diesel with a fill level of 90 liters.
+2025-11-10 14:41:20.918   Info: Operating time of Ursus C-385A Fast transmission changed to 1.2 h.
