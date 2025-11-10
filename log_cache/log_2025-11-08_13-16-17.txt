@@ -7517,3 +7517,843 @@ dataS/scripts/internalMods/FS25_precisionFarming/scripts/specializations/Precisi
 2025-11-10 12:27:38.449 dataS/character/playerM/hairStyles/hairStyleFringe.i3d (33.89 ms)
 2025-11-10 12:27:42.620 data/objects/bigBagPallet/bigBagPallet.i3d (4.17 ms)
 2025-11-10 12:34:38.943 Błażej lost connection to the game
+2025-11-10 12:35:42.865 Błażej joined the game
+2025-11-10 12:35:42.893 dataS/character/playerM/heads/mHead02.i3d (15.68 ms)
+2025-11-10 12:35:42.896 dataS/character/playerM/shirts/topTShirt01.i3d (2.30 ms)
+2025-11-10 12:35:42.987 dataS/character/playerM/shoes/sportSneaker.i3d (91.08 ms)
+2025-11-10 12:35:43.021 dataS/character/playerM/hairStyles/hairStyleFringe.i3d (34.09 ms)
+2025-11-10 12:42:12.956   Info: Successfully set fill unit 1 of Farmtech Fortis 3000 to Wheat with a fill level of 40,000 liters.
+2025-11-10 12:42:41.568   Info: Successfully set fill unit 1 of Farmtech Fortis 3000 to Sorghum with a fill level of 40,000 liters.
+2025-11-10 12:46:45.258 dataS/character/playerM/pants/botLeather.i3d (17.34 ms)
+2025-11-10 12:46:45.451 dataS/character/playerM/heads/mHead03.i3d (192.62 ms)
+2025-11-10 12:46:45.484 dataS/character/playerM/hairStyles/hairStyleMidParted01.i3d (32.97 ms)
+2025-11-10 12:53:17.394 Game saved successfully (savegame1).
+2025-11-10 12:59:30.108 dataS/character/playerF/pants/botCargo.i3d (17.72 ms)
+2025-11-10 12:59:30.133 dataS/character/playerF/jacket/topVest.i3d (24.76 ms)
+2025-11-10 12:59:30.136 dataS/character/playerF/shoes/workboot02.i3d (3.04 ms)
+2025-11-10 12:59:30.170 dataS/character/playerF/hairStyles/hairStylePonyTail03.i3d (33.87 ms)
+2025-11-10 13:03:32.658 Jolero joined the game
+2025-11-10 13:03:32.708 dataS/character/playerM/hairStyles/hairStyleTopKnot.i3d (35.42 ms)
+2025-11-10 13:03:32.728 dataS/character/playerM/facialHair/mHead01/goatee01.i3d (19.02 ms)
+2025-11-10 13:04:32.721   Info: Moved player to coordinates 1533, 1514 successfully.
+2025-11-10 13:05:14.588   Info: [Easy Development Controls] User Jolero has logged in as master user.
+2025-11-10 13:09:19.604   Info: Moved player to coordinates 586, 843 successfully.
+2025-11-10 13:09:41.984   Info: Moved player to coordinates 602, 823 successfully.
+2025-11-10 13:19:10.525 data/objects/bigBagPallet/bigBagPallet.i3d (4.96 ms)
+2025-11-10 13:19:17.386 data/objects/bigBagPallet/bigBagPallet.i3d (4.95 ms)
+2025-11-10 13:21:52.398 dataS/character/playerF/pants/botJeansCapris.i3d (20.37 ms)
+2025-11-10 13:21:52.592 dataS/character/playerF/heads/fHead03.i3d (193.69 ms)
+2025-11-10 13:21:52.594 dataS/character/playerF/shirts/topTankTop.i3d (1.92 ms)
+2025-11-10 13:21:52.597 dataS/character/playerF/shoes/sneaker01.i3d (2.65 ms)
+2025-11-10 13:23:17.782 Game saved successfully (savegame1).
+2025-11-10 13:32:40.144 data/shared/assets/reflectors/lizard/redRound_04.i3d (1.27 ms)
+2025-11-10 13:32:40.145 data/shared/assets/reflectors/lizard/yellowRound_01.i3d (0.96 ms)
+2025-11-10 13:32:40.223 data/shared/assets/exhaustLicencePlateHolder.i3d (1.09 ms)
+2025-11-10 13:32:40.225 data/shared/assets/extinguisherSmall02.i3d (1.56 ms)
+2025-11-10 13:32:40.227 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_FendtVarioEvolution/i3d/vario700.i3d (231.79 ms)
+2025-11-10 13:32:40.438 data/shared/wheels/tires/trelleborg/TM900/600_70R30.i3d (2.37 ms)
+2025-11-10 13:32:40.440 data/shared/wheels/tires/trelleborg/TM900/650_85R38.i3d (2.20 ms)
+2025-11-10 13:32:40.570 data/shared/assets/lights/lizard/sideMarker10.i3d (3.32 ms)
+2025-11-10 13:32:40.574 data/shared/assets/beaconLights/lizard/beaconLight04.i3d (3.22 ms)
+2025-11-10 13:32:40.577 data/shared/assets/beaconLights/lizard/beaconLight05.i3d (3.27 ms)
+2025-11-10 13:32:40.580 data/shared/assets/beaconLights/lizard/beaconLight06.i3d (2.87 ms)
+2025-11-10 13:32:40.582 data/shared/assets/beaconLights/lizard/beaconLight10.i3d (1.82 ms)
+2025-11-10 13:32:40.585 data/shared/assets/beaconLights/lizard/beaconLight14.i3d (2.92 ms)
+2025-11-10 13:32:40.588 data/shared/assets/beaconLights/lizard/beaconLight15.i3d (3.11 ms)
+2025-11-10 13:32:40.765 data/vehicles/fendt/shared/oneDisplays.i3d (20.55 ms)
+2025-11-10 13:32:43.433 Warning: Send called with unknown target address.
+2025-11-10 13:32:43.439 Błażej left the game
+2025-11-10 13:32:43.981   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Fendt 720 Vario'
+2025-11-10 13:35:41.759 data/shared/wheels/tires/bkt/agrimaxForce/900_60R38.i3d (3.54 ms)
+2025-11-10 13:35:52.879   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Fendt 728 Vario Chip 330'
+2025-11-10 13:42:39.529   Info: Adding pallet.
+2025-11-10 13:42:39.650   Info: Adding pallet.
+2025-11-10 13:42:39.671 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/Dashboard.lua:267: attempt to compare number < nil
+2025-11-10 13:42:39.690 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AnimatedVehicle.lua:1297: attempt to get length of a nil value
+2025-11-10 13:42:39.719   Warning: Server:registerObject() object table: 0x000002b3e7f2bb98 3371 Vehicle already registered
+2025-11-10 13:42:39.788   Info: Adding pallet.
+2025-11-10 13:42:39.979   Info: Adding pallet.
+2025-11-10 13:42:40.086   Info: Adding pallet.
+2025-11-10 13:42:40.124 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/Dashboard.lua:267: attempt to compare number < nil
+2025-11-10 13:42:40.139 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/Dashboard.lua:267: attempt to compare number < nil
+2025-11-10 13:42:40.174   Warning: Server:registerObject() object table: 0x000002b3ebe6caf8 3375 Vehicle already registered
+2025-11-10 13:42:40.316   Info: Adding pallet.
+2025-11-10 13:42:40.457   Info: Adding pallet.
+2025-11-10 13:42:40.596   Info: Adding pallet.
+2025-11-10 13:42:40.734   Info: Adding pallet.
+2025-11-10 13:42:40.875   Info: Adding pallet.
+2025-11-10 13:42:40.994   Info: Adding pallet.
+2025-11-10 13:42:41.085   Info: Adding pallet.
+2025-11-10 13:42:41.207   Info: Adding pallet.
+2025-11-10 13:42:41.329   Info: Adding pallet.
+2025-11-10 13:42:41.486   Info: Adding pallet.
+2025-11-10 13:42:41.630 Warning (script): 'getTranslation': Argument 1 has wrong type. Expected: Int. Actual: Nil
+
+  D:\auto_builder\cache\svn\5e7c1a71ecbc79d8f508d9807d643f79\src\base\scripting\lua\LuauScriptSystem.cpp (1127): expectedType == Value::VoidType || expectedType == Value::ClassType2025-11-10 13:42:41.630 
+Script error: 'getTranslation': Argument 1 has wrong type. Expected: Int. Actual: Nil
+
+LUA call stack:
+  =[C]:-1 getTranslation
+  =dataS/scripts/vehicles/Vehicle.lua:1925 update
+  =dataS/scripts/network/NetworkNode.lua:181 updateActiveObjects
+  =dataS/scripts/network/Server.lua:64 update
+  =dataS/scripts/BaseMission.lua:1023 update
+  =dataS/scripts/FSBaseMission.lua:1913 update
+  =dataS/scripts/mission00.lua:684 update
+  =dataS/scripts/main.lua:1238 update
+2025-11-10 13:42:41.631 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/Vehicle.lua:1935: attempt to compare nil < number
+2025-11-10 13:42:41.648   Info: Adding pallet.
+2025-11-10 13:42:41.648 Warning (script): 'getTranslation': Argument 1 has wrong type. Expected: Int. Actual: Nil
+
+  D:\auto_builder\cache\svn\5e7c1a71ecbc79d8f508d9807d643f79\src\base\scripting\lua\LuauScriptSystem.cpp (1127): expectedType == Value::VoidType || expectedType == Value::ClassType2025-11-10 13:42:41.648 
+Script error: 'getTranslation': Argument 1 has wrong type. Expected: Int. Actual: Nil
+
+LUA call stack:
+  =[C]:-1 getTranslation
+  =dataS/scripts/vehicles/Vehicle.lua:1925 update
+  =dataS/scripts/network/NetworkNode.lua:181 updateActiveObjects
+  =dataS/scripts/network/Server.lua:64 update
+  =dataS/scripts/BaseMission.lua:1023 update
+  =dataS/scripts/FSBaseMission.lua:1913 update
+  =dataS/scripts/mission00.lua:684 update
+  =dataS/scripts/main.lua:1238 update
+2025-11-10 13:42:41.648 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/Vehicle.lua:1935: attempt to compare nil < number
+2025-11-10 13:42:41.665 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/Dashboard.lua:267: attempt to compare number < nil
+2025-11-10 13:42:41.682 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/Dashboard.lua:267: attempt to compare number < nil
+2025-11-10 13:42:41.769   Info: Adding pallet.
+2025-11-10 13:42:41.859   Info: Adding pallet.
+2025-11-10 13:42:42.121   Info: Adding pallet.
+2025-11-10 13:42:42.261   Info: Adding pallet.
+2025-11-10 13:42:42.265 Warning (script): 'getTranslation': Argument 1 has wrong type. Expected: Int. Actual: Nil
+
+  D:\auto_builder\cache\svn\5e7c1a71ecbc79d8f508d9807d643f79\src\base\scripting\lua\LuauScriptSystem.cpp (1127): expectedType == Value::VoidType || expectedType == Value::ClassType2025-11-10 13:42:42.265 
+Script error: 'getTranslation': Argument 1 has wrong type. Expected: Int. Actual: Nil
+
+LUA call stack:
+  =[C]:-1 getTranslation
+  =dataS/scripts/vehicles/Vehicle.lua:1925 update
+  =dataS/scripts/network/NetworkNode.lua:181 updateActiveObjects
+  =dataS/scripts/network/Server.lua:64 update
+  =dataS/scripts/BaseMission.lua:1023 update
+  =dataS/scripts/FSBaseMission.lua:1913 update
+  =dataS/scripts/mission00.lua:684 update
+  =dataS/scripts/main.lua:1238 update
+2025-11-10 13:42:42.265 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/Vehicle.lua:1935: attempt to compare nil < number
+2025-11-10 13:42:42.283 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/Dashboard.lua:267: attempt to compare number < nil
+2025-11-10 13:42:42.301 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/Dashboard.lua:267: attempt to compare number < nil
+2025-11-10 13:42:42.316 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/FillVolume.lua:297: invalid argument #1 to 'pairs' (table expected, got nil)
+2025-11-10 13:42:42.453   Info: Adding pallet.
+2025-11-10 13:42:42.541   Info: Adding pallet.
+2025-11-10 13:42:42.646   Info: Adding pallet.
+2025-11-10 13:42:42.687 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/Dashboard.lua:267: attempt to compare number < nil
+2025-11-10 13:42:42.703 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/Dashboard.lua:267: attempt to compare number < nil
+2025-11-10 13:42:42.735   Warning: Server:registerObject() object table: 0x000002b3f0dd8858 3396 Vehicle already registered
+2025-11-10 13:42:42.805   Info: Adding pallet.
+2025-11-10 13:42:42.944   Info: Adding pallet.
+2025-11-10 13:42:43.063   Info: Adding pallet.
+2025-11-10 13:42:43.345   Info: Adding pallet.
+2025-11-10 13:42:43.488 Warning (script): 'getTranslation': Argument 1 has wrong type. Expected: Int. Actual: Nil
+
+  D:\auto_builder\cache\svn\5e7c1a71ecbc79d8f508d9807d643f79\src\base\scripting\lua\LuauScriptSystem.cpp (1127): expectedType == Value::VoidType || expectedType == Value::ClassType2025-11-10 13:42:43.488 
+Script error: 'getTranslation': Argument 1 has wrong type. Expected: Int. Actual: Nil
+
+LUA call stack:
+  =[C]:-1 getTranslation
+  =dataS/scripts/vehicles/Vehicle.lua:1925 update
+  =dataS/scripts/network/NetworkNode.lua:181 updateActiveObjects
+  =dataS/scripts/network/Server.lua:64 update
+  =dataS/scripts/BaseMission.lua:1023 update
+  =dataS/scripts/FSBaseMission.lua:1913 update
+  =dataS/scripts/mission00.lua:684 update
+  =dataS/scripts/main.lua:1238 update
+2025-11-10 13:42:43.488 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/Vehicle.lua:1935: attempt to compare nil < number
+2025-11-10 13:42:43.501   Info: Adding pallet.
+2025-11-10 13:42:43.505 Warning (script): 'getTranslation': Argument 1 has wrong type. Expected: Int. Actual: Nil
+
+  D:\auto_builder\cache\svn\5e7c1a71ecbc79d8f508d9807d643f79\src\base\scripting\lua\LuauScriptSystem.cpp (1127): expectedType == Value::VoidType || expectedType == Value::ClassType2025-11-10 13:42:43.506 
+Script error: 'getTranslation': Argument 1 has wrong type. Expected: Int. Actual: Nil
+
+LUA call stack:
+  =[C]:-1 getTranslation
+  =dataS/scripts/vehicles/Vehicle.lua:1925 update
+  =dataS/scripts/network/NetworkNode.lua:181 updateActiveObjects
+  =dataS/scripts/network/Server.lua:64 update
+  =dataS/scripts/BaseMission.lua:1023 update
+  =dataS/scripts/FSBaseMission.lua:1913 update
+  =dataS/scripts/mission00.lua:684 update
+  =dataS/scripts/main.lua:1238 update
+2025-11-10 13:42:43.506 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/Vehicle.lua:1935: attempt to compare nil < number
+2025-11-10 13:42:43.523 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/Dashboard.lua:267: attempt to compare number < nil
+2025-11-10 13:42:43.541 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/Dashboard.lua:267: attempt to compare number < nil
+2025-11-10 13:42:43.645   Info: Adding pallet.
+2025-11-10 13:42:43.781   Info: Adding pallet.
+2025-11-10 13:42:43.901   Info: Adding pallet.
+2025-11-10 13:42:44.039   Info: Adding pallet.
+2025-11-10 13:42:44.044 Warning (script): 'getTranslation': Argument 1 has wrong type. Expected: Int. Actual: Nil
+
+  D:\auto_builder\cache\svn\5e7c1a71ecbc79d8f508d9807d643f79\src\base\scripting\lua\LuauScriptSystem.cpp (1127): expectedType == Value::VoidType || expectedType == Value::ClassType2025-11-10 13:42:44.044 
+Script error: 'getTranslation': Argument 1 has wrong type. Expected: Int. Actual: Nil
+
+LUA call stack:
+  =[C]:-1 getTranslation
+  =dataS/scripts/vehicles/Vehicle.lua:1925 update
+  =dataS/scripts/network/NetworkNode.lua:181 updateActiveObjects
+  =dataS/scripts/network/Server.lua:64 update
+  =dataS/scripts/BaseMission.lua:1023 update
+  =dataS/scripts/FSBaseMission.lua:1913 update
+  =dataS/scripts/mission00.lua:684 update
+  =dataS/scripts/main.lua:1238 update
+2025-11-10 13:42:44.044 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/Vehicle.lua:1935: attempt to compare nil < number
+2025-11-10 13:42:44.060 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/Dashboard.lua:267: attempt to compare number < nil
+2025-11-10 13:42:44.078 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/Dashboard.lua:267: attempt to compare number < nil
+2025-11-10 13:42:44.197   Info: Adding pallet.
+2025-11-10 13:42:44.324   Info: Adding pallet.
+2025-11-10 13:42:44.462   Info: Adding pallet.
+2025-11-10 13:42:44.602   Info: Adding pallet.
+2025-11-10 13:42:44.773   Info: Adding pallet.
+2025-11-10 13:42:44.928   Info: Adding pallet.
+2025-11-10 13:42:45.052   Info: Adding pallet.
+2025-11-10 13:42:45.057 Warning (script): 'getTranslation': Argument 1 has wrong type. Expected: Int. Actual: Nil
+
+  D:\auto_builder\cache\svn\5e7c1a71ecbc79d8f508d9807d643f79\src\base\scripting\lua\LuauScriptSystem.cpp (1127): expectedType == Value::VoidType || expectedType == Value::ClassType2025-11-10 13:42:45.057 
+Script error: 'getTranslation': Argument 1 has wrong type. Expected: Int. Actual: Nil
+
+LUA call stack:
+  =[C]:-1 getTranslation
+  =dataS/scripts/vehicles/Vehicle.lua:1925 update
+  =dataS/scripts/network/NetworkNode.lua:181 updateActiveObjects
+  =dataS/scripts/network/Server.lua:64 update
+  =dataS/scripts/BaseMission.lua:1023 update
+  =dataS/scripts/FSBaseMission.lua:1913 update
+  =dataS/scripts/mission00.lua:684 update
+  =dataS/scripts/main.lua:1238 update
+2025-11-10 13:42:45.057 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/Vehicle.lua:1935: attempt to compare nil < number
+2025-11-10 13:42:45.071 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/Dashboard.lua:267: attempt to compare number < nil
+2025-11-10 13:42:45.089 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AnimatedVehicle.lua:1297: attempt to get length of a nil value
+2025-11-10 13:42:45.107 Error: Running LUA method 'update'.
+dataS/scripts/internalMods/FS25_precisionFarming/scripts/specializations/PrecisionFarmingStatistic.lua:63: attempt to perform arithmetic (add) on nil and number
+2025-11-10 13:42:45.173   Info: Adding pallet.
+2025-11-10 13:42:45.311   Info: Adding pallet.
+2025-11-10 13:42:45.452   Info: Adding pallet.
+2025-11-10 13:42:45.596 Warning (script): 'getTranslation': Argument 1 has wrong type. Expected: Int. Actual: Nil
+
+  D:\auto_builder\cache\svn\5e7c1a71ecbc79d8f508d9807d643f79\src\base\scripting\lua\LuauScriptSystem.cpp (1127): expectedType == Value::VoidType || expectedType == Value::ClassType2025-11-10 13:42:45.596 
+Script error: 'getTranslation': Argument 1 has wrong type. Expected: Int. Actual: Nil
+
+LUA call stack:
+  =[C]:-1 getTranslation
+  =dataS/scripts/vehicles/Vehicle.lua:1925 update
+  =dataS/scripts/network/NetworkNode.lua:181 updateActiveObjects
+  =dataS/scripts/network/Server.lua:64 update
+  =dataS/scripts/BaseMission.lua:1023 update
+  =dataS/scripts/FSBaseMission.lua:1913 update
+  =dataS/scripts/mission00.lua:684 update
+  =dataS/scripts/main.lua:1238 update
+2025-11-10 13:42:45.596 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/Vehicle.lua:1935: attempt to compare nil < number
+2025-11-10 13:42:45.612 Warning (script): 'getTranslation': Argument 1 has wrong type. Expected: Int. Actual: Nil
+
+  D:\auto_builder\cache\svn\5e7c1a71ecbc79d8f508d9807d643f79\src\base\scripting\lua\LuauScriptSystem.cpp (1127): expectedType == Value::VoidType || expectedType == Value::ClassType2025-11-10 13:42:45.612 
+Script error: 'getTranslation': Argument 1 has wrong type. Expected: Int. Actual: Nil
+
+LUA call stack:
+  =[C]:-1 getTranslation
+  =dataS/scripts/vehicles/Vehicle.lua:1925 update
+  =dataS/scripts/network/NetworkNode.lua:181 updateActiveObjects
+  =dataS/scripts/network/Server.lua:64 update
+  =dataS/scripts/BaseMission.lua:1023 update
+  =dataS/scripts/FSBaseMission.lua:1913 update
+  =dataS/scripts/mission00.lua:684 update
+  =dataS/scripts/main.lua:1238 update
+2025-11-10 13:42:45.612 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/Vehicle.lua:1935: attempt to compare nil < number
+2025-11-10 13:42:45.625   Info: Adding pallet.
+2025-11-10 13:42:45.629 Warning (script): 'getTranslation': Argument 1 has wrong type. Expected: Int. Actual: Nil
+
+  D:\auto_builder\cache\svn\5e7c1a71ecbc79d8f508d9807d643f79\src\base\scripting\lua\LuauScriptSystem.cpp (1127): expectedType == Value::VoidType || expectedType == Value::ClassType2025-11-10 13:42:45.630 
+Script error: 'getTranslation': Argument 1 has wrong type. Expected: Int. Actual: Nil
+
+LUA call stack:
+  =[C]:-1 getTranslation
+  =dataS/scripts/vehicles/Vehicle.lua:1925 update
+  =dataS/scripts/network/NetworkNode.lua:181 updateActiveObjects
+  =dataS/scripts/network/Server.lua:64 update
+  =dataS/scripts/BaseMission.lua:1023 update
+  =dataS/scripts/FSBaseMission.lua:1913 update
+  =dataS/scripts/mission00.lua:684 update
+  =dataS/scripts/main.lua:1238 update
+2025-11-10 13:42:45.630 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/Vehicle.lua:1935: attempt to compare nil < number
+2025-11-10 13:42:45.647 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/Dashboard.lua:267: attempt to compare number < nil
+2025-11-10 13:42:45.749   Info: Adding pallet.
+2025-11-10 13:42:45.901   Info: Adding pallet.
+2025-11-10 13:42:46.044   Info: Adding pallet.
+2025-11-10 13:42:46.048 Warning (script): 'getTranslation': Argument 1 has wrong type. Expected: Int. Actual: Nil
+
+  D:\auto_builder\cache\svn\5e7c1a71ecbc79d8f508d9807d643f79\src\base\scripting\lua\LuauScriptSystem.cpp (1127): expectedType == Value::VoidType || expectedType == Value::ClassType2025-11-10 13:42:46.048 
+Script error: 'getTranslation': Argument 1 has wrong type. Expected: Int. Actual: Nil
+
+LUA call stack:
+  =[C]:-1 getTranslation
+  =dataS/scripts/vehicles/Vehicle.lua:1925 update
+  =dataS/scripts/network/NetworkNode.lua:181 updateActiveObjects
+  =dataS/scripts/network/Server.lua:64 update
+  =dataS/scripts/BaseMission.lua:1023 update
+  =dataS/scripts/FSBaseMission.lua:1913 update
+  =dataS/scripts/mission00.lua:684 update
+  =dataS/scripts/main.lua:1238 update
+2025-11-10 13:42:46.048 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/Vehicle.lua:1935: attempt to compare nil < number
+2025-11-10 13:42:46.064 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/Dashboard.lua:267: attempt to compare number < nil
+2025-11-10 13:42:46.082 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AnimatedVehicle.lua:1297: attempt to get length of a nil value
+2025-11-10 13:42:46.220   Info: Adding pallet.
+2025-11-10 13:42:46.338   Info: Adding pallet.
+2025-11-10 13:42:46.481   Info: Adding pallet.
+2025-11-10 13:42:46.485 Warning (script): 'getTranslation': Argument 1 has wrong type. Expected: Int. Actual: Nil
+
+  D:\auto_builder\cache\svn\5e7c1a71ecbc79d8f508d9807d643f79\src\base\scripting\lua\LuauScriptSystem.cpp (1127): expectedType == Value::VoidType || expectedType == Value::ClassType2025-11-10 13:42:46.485 
+Script error: 'getTranslation': Argument 1 has wrong type. Expected: Int. Actual: Nil
+
+LUA call stack:
+  =[C]:-1 getTranslation
+  =dataS/scripts/vehicles/Vehicle.lua:1925 update
+  =dataS/scripts/network/NetworkNode.lua:181 updateActiveObjects
+  =dataS/scripts/network/Server.lua:64 update
+  =dataS/scripts/BaseMission.lua:1023 update
+  =dataS/scripts/FSBaseMission.lua:1913 update
+  =dataS/scripts/mission00.lua:684 update
+  =dataS/scripts/main.lua:1238 update
+2025-11-10 13:42:46.485 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/Vehicle.lua:1935: attempt to compare nil < number
+2025-11-10 13:42:46.500 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/Dashboard.lua:267: attempt to compare number < nil
+2025-11-10 13:42:46.519 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/Dashboard.lua:267: attempt to compare number < nil
+2025-11-10 13:42:46.634   Info: Adding pallet.
+2025-11-10 13:42:46.791   Info: Adding pallet.
+2025-11-10 13:42:46.945   Info: Adding pallet.
+2025-11-10 13:42:47.086   Info: Adding pallet.
+2025-11-10 13:42:47.090 Warning (script): 'getTranslation': Argument 1 has wrong type. Expected: Int. Actual: Nil
+
+  D:\auto_builder\cache\svn\5e7c1a71ecbc79d8f508d9807d643f79\src\base\scripting\lua\LuauScriptSystem.cpp (1127): expectedType == Value::VoidType || expectedType == Value::ClassType2025-11-10 13:42:47.090 
+Script error: 'getTranslation': Argument 1 has wrong type. Expected: Int. Actual: Nil
+
+LUA call stack:
+  =[C]:-1 getTranslation
+  =dataS/scripts/vehicles/Vehicle.lua:1925 update
+  =dataS/scripts/network/NetworkNode.lua:181 updateActiveObjects
+  =dataS/scripts/network/Server.lua:64 update
+  =dataS/scripts/BaseMission.lua:1023 update
+  =dataS/scripts/FSBaseMission.lua:1913 update
+  =dataS/scripts/mission00.lua:684 update
+  =dataS/scripts/main.lua:1238 update
+2025-11-10 13:42:47.091 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/Vehicle.lua:1935: attempt to compare nil < number
+2025-11-10 13:42:47.107 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/Dashboard.lua:267: attempt to compare number < nil
+2025-11-10 13:42:47.126 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AnimatedVehicle.lua:1297: attempt to get length of a nil value
+2025-11-10 13:42:47.226   Info: Adding pallet.
+2025-11-10 13:42:47.399   Info: Adding pallet.
+2025-11-10 13:42:47.572   Info: Adding pallet.
+2025-11-10 13:42:47.696   Info: Adding pallet.
+2025-11-10 13:42:47.826 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/Dashboard.lua:267: attempt to compare number < nil
+2025-11-10 13:42:47.841 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/FillVolume.lua:297: invalid argument #1 to 'pairs' (table expected, got nil)
+2025-11-10 13:42:47.872   Warning: Server:registerObject() object table: 0x000002b3ecb2d3b8 3438 Vehicle already registered
+2025-11-10 13:42:47.942   Info: Adding pallet.
+2025-11-10 13:42:48.042   Info: Adding pallet.
+2025-11-10 13:42:48.084 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/Dashboard.lua:267: attempt to compare number < nil
+2025-11-10 13:42:48.100 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AnimatedVehicle.lua:1297: attempt to get length of a nil value
+2025-11-10 13:42:48.133   Warning: Server:registerObject() object table: 0x000002b3d0fc7178 3441 Vehicle already registered
+2025-11-10 13:42:48.203   Info: Adding pallet.
+2025-11-10 13:42:48.531   Info: Adding pallet.
+2025-11-10 13:42:48.706   Info: Adding pallet.
+2025-11-10 13:42:48.848   Info: Adding pallet.
+2025-11-10 13:42:48.995 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/Dashboard.lua:267: attempt to compare number < nil
+2025-11-10 13:42:49.011 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AnimatedVehicle.lua:1297: attempt to get length of a nil value
+2025-11-10 13:42:49.041   Warning: Server:registerObject() object table: 0x000002b417118c78 3446 Vehicle already registered
+2025-11-10 13:42:49.110   Info: Adding pallet.
+2025-11-10 13:42:49.183   Info: Adding pallet.
+2025-11-10 13:42:49.591   Info: Adding pallet.
+2025-11-10 13:42:49.735 Warning (script): 'getTranslation': Argument 1 has wrong type. Expected: Int. Actual: Nil
+
+  D:\auto_builder\cache\svn\5e7c1a71ecbc79d8f508d9807d643f79\src\base\scripting\lua\LuauScriptSystem.cpp (1127): expectedType == Value::VoidType || expectedType == Value::ClassType2025-11-10 13:42:49.735 
+Script error: 'getTranslation': Argument 1 has wrong type. Expected: Int. Actual: Nil
+
+LUA call stack:
+  =[C]:-1 getTranslation
+  =dataS/scripts/vehicles/Vehicle.lua:1925 update
+  =dataS/scripts/network/NetworkNode.lua:181 updateActiveObjects
+  =dataS/scripts/network/Server.lua:64 update
+  =dataS/scripts/BaseMission.lua:1023 update
+  =dataS/scripts/FSBaseMission.lua:1913 update
+  =dataS/scripts/mission00.lua:684 update
+  =dataS/scripts/main.lua:1238 update
+2025-11-10 13:42:49.736 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/Vehicle.lua:1935: attempt to compare nil < number
+2025-11-10 13:42:49.752 Warning (script): 'getTranslation': Argument 1 has wrong type. Expected: Int. Actual: Nil
+
+  D:\auto_builder\cache\svn\5e7c1a71ecbc79d8f508d9807d643f79\src\base\scripting\lua\LuauScriptSystem.cpp (1127): expectedType == Value::VoidType || expectedType == Value::ClassType2025-11-10 13:42:49.752 
+Script error: 'getTranslation': Argument 1 has wrong type. Expected: Int. Actual: Nil
+
+LUA call stack:
+  =[C]:-1 getTranslation
+  =dataS/scripts/vehicles/Vehicle.lua:1925 update
+  =dataS/scripts/network/NetworkNode.lua:181 updateActiveObjects
+  =dataS/scripts/network/Server.lua:64 update
+  =dataS/scripts/BaseMission.lua:1023 update
+  =dataS/scripts/FSBaseMission.lua:1913 update
+  =dataS/scripts/mission00.lua:684 update
+  =dataS/scripts/main.lua:1238 update
+2025-11-10 13:42:49.752 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/Vehicle.lua:1935: attempt to compare nil < number
+2025-11-10 13:42:49.766   Info: Adding pallet.
+2025-11-10 13:42:49.770 Warning (script): 'getTranslation': Argument 1 has wrong type. Expected: Int. Actual: Nil
+
+  D:\auto_builder\cache\svn\5e7c1a71ecbc79d8f508d9807d643f79\src\base\scripting\lua\LuauScriptSystem.cpp (1127): expectedType == Value::VoidType || expectedType == Value::ClassType2025-11-10 13:42:49.770 
+Script error: 'getTranslation': Argument 1 has wrong type. Expected: Int. Actual: Nil
+
+LUA call stack:
+  =[C]:-1 getTranslation
+  =dataS/scripts/vehicles/Vehicle.lua:1925 update
+  =dataS/scripts/network/NetworkNode.lua:181 updateActiveObjects
+  =dataS/scripts/network/Server.lua:64 update
+  =dataS/scripts/BaseMission.lua:1023 update
+  =dataS/scripts/FSBaseMission.lua:1913 update
+  =dataS/scripts/mission00.lua:684 update
+  =dataS/scripts/main.lua:1238 update
+2025-11-10 13:42:49.770 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/Vehicle.lua:1935: attempt to compare nil < number
+2025-11-10 13:42:49.787 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/Dashboard.lua:267: attempt to compare number < nil
+2025-11-10 13:42:49.890   Info: Adding pallet.
+2025-11-10 13:42:50.079   Info: Adding pallet.
+2025-11-10 13:42:50.226 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/Dashboard.lua:267: attempt to compare number < nil
+2025-11-10 13:42:50.245 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/FillVolume.lua:297: invalid argument #1 to 'pairs' (table expected, got nil)
+2025-11-10 13:42:50.275   Warning: Server:registerObject() object table: 0x000002b3e6b63cf8 3454 Vehicle already registered
+2025-11-10 13:42:50.348   Info: Adding pallet.
+2025-11-10 13:42:50.416   Info: Adding pallet.
+2025-11-10 13:42:50.539   Info: Adding pallet.
+2025-11-10 13:42:50.698   Info: Adding pallet.
+2025-11-10 13:42:50.820   Info: Adding pallet.
+2025-11-10 13:42:50.888   Info: Adding pallet.
+2025-11-10 13:42:50.959   Info: Adding pallet.
+2025-11-10 13:42:51.083   Info: Adding pallet.
+2025-11-10 13:42:51.103 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/Dashboard.lua:267: attempt to compare number < nil
+2025-11-10 13:42:51.121 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AnimatedVehicle.lua:1297: attempt to get length of a nil value
+2025-11-10 13:42:51.151   Warning: Server:registerObject() object table: 0x000002b3e864e018 3463 Vehicle already registered
+2025-11-10 13:42:51.218   Info: Adding pallet.
+2025-11-10 13:42:51.357   Info: Adding pallet.
+2025-11-10 13:42:51.566   Info: Adding pallet.
+2025-11-10 13:42:51.707   Info: Adding pallet.
+2025-11-10 13:42:51.829   Info: Adding pallet.
+2025-11-10 13:42:51.959 Warning (script): 'getTranslation': Argument 1 has wrong type. Expected: Int. Actual: Nil
+
+  D:\auto_builder\cache\svn\5e7c1a71ecbc79d8f508d9807d643f79\src\base\scripting\lua\LuauScriptSystem.cpp (1127): expectedType == Value::VoidType || expectedType == Value::ClassType2025-11-10 13:42:51.959 
+Script error: 'getTranslation': Argument 1 has wrong type. Expected: Int. Actual: Nil
+
+LUA call stack:
+  =[C]:-1 getTranslation
+  =dataS/scripts/vehicles/Vehicle.lua:1925 update
+  =dataS/scripts/network/NetworkNode.lua:181 updateActiveObjects
+  =dataS/scripts/network/Server.lua:64 update
+  =dataS/scripts/BaseMission.lua:1023 update
+  =dataS/scripts/FSBaseMission.lua:1913 update
+  =dataS/scripts/mission00.lua:684 update
+  =dataS/scripts/main.lua:1238 update
+2025-11-10 13:42:51.959 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/Vehicle.lua:1935: attempt to compare nil < number
+2025-11-10 13:42:51.973 Warning (script): 'getTranslation': Argument 1 has wrong type. Expected: Int. Actual: Nil
+
+  D:\auto_builder\cache\svn\5e7c1a71ecbc79d8f508d9807d643f79\src\base\scripting\lua\LuauScriptSystem.cpp (1127): expectedType == Value::VoidType || expectedType == Value::ClassType2025-11-10 13:42:51.973 
+Script error: 'getTranslation': Argument 1 has wrong type. Expected: Int. Actual: Nil
+
+LUA call stack:
+  =[C]:-1 getTranslation
+  =dataS/scripts/vehicles/Vehicle.lua:1925 update
+  =dataS/scripts/network/NetworkNode.lua:181 updateActiveObjects
+  =dataS/scripts/network/Server.lua:64 update
+  =dataS/scripts/BaseMission.lua:1023 update
+  =dataS/scripts/FSBaseMission.lua:1913 update
+  =dataS/scripts/mission00.lua:684 update
+  =dataS/scripts/main.lua:1238 update
+2025-11-10 13:42:51.973 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/Vehicle.lua:1935: attempt to compare nil < number
+2025-11-10 13:42:51.987   Info: Adding pallet.
+2025-11-10 13:42:51.991 Warning (script): 'getTranslation': Argument 1 has wrong type. Expected: Int. Actual: Nil
+
+  D:\auto_builder\cache\svn\5e7c1a71ecbc79d8f508d9807d643f79\src\base\scripting\lua\LuauScriptSystem.cpp (1127): expectedType == Value::VoidType || expectedType == Value::ClassType2025-11-10 13:42:51.991 
+Script error: 'getTranslation': Argument 1 has wrong type. Expected: Int. Actual: Nil
+
+LUA call stack:
+  =[C]:-1 getTranslation
+  =dataS/scripts/vehicles/Vehicle.lua:1925 update
+  =dataS/scripts/network/NetworkNode.lua:181 updateActiveObjects
+  =dataS/scripts/network/Server.lua:64 update
+  =dataS/scripts/BaseMission.lua:1023 update
+  =dataS/scripts/FSBaseMission.lua:1913 update
+  =dataS/scripts/mission00.lua:684 update
+  =dataS/scripts/main.lua:1238 update
+2025-11-10 13:42:51.991 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/Vehicle.lua:1935: attempt to compare nil < number
+2025-11-10 13:42:52.010 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/Dashboard.lua:267: attempt to compare number < nil
+2025-11-10 13:42:52.106   Info: Adding pallet.
+2025-11-10 13:42:52.131 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/Dashboard.lua:267: attempt to compare number < nil
+2025-11-10 13:42:52.147 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/Dashboard.lua:267: attempt to compare number < nil
+2025-11-10 13:42:52.165 Error: Running LUA method 'update'.
+dataS/scripts/internalMods/FS25_precisionFarming/scripts/specializations/PrecisionFarmingStatistic.lua:63: attempt to perform arithmetic (add) on nil and number
+2025-11-10 13:42:52.177   Warning: Server:registerObject() object table: 0x000002b4114d3e08 3472 Vehicle already registered
+2025-11-10 13:42:52.303 Warning (script): 'getTranslation': Argument 1 has wrong type. Expected: Int. Actual: Nil
+
+  D:\auto_builder\cache\svn\5e7c1a71ecbc79d8f508d9807d643f79\src\base\scripting\lua\LuauScriptSystem.cpp (1127): expectedType == Value::VoidType || expectedType == Value::ClassType2025-11-10 13:42:52.303 
+Script error: 'getTranslation': Argument 1 has wrong type. Expected: Int. Actual: Nil
+
+LUA call stack:
+  =[C]:-1 getTranslation
+  =dataS/scripts/vehicles/Vehicle.lua:1925 update
+  =dataS/scripts/network/NetworkNode.lua:181 updateActiveObjects
+  =dataS/scripts/network/Server.lua:64 update
+  =dataS/scripts/BaseMission.lua:1023 update
+  =dataS/scripts/FSBaseMission.lua:1913 update
+  =dataS/scripts/mission00.lua:684 update
+  =dataS/scripts/main.lua:1238 update
+2025-11-10 13:42:52.303 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/Vehicle.lua:1935: attempt to compare nil < number
+2025-11-10 13:42:52.320 Warning (script): 'getTranslation': Argument 1 has wrong type. Expected: Int. Actual: Nil
+
+  D:\auto_builder\cache\svn\5e7c1a71ecbc79d8f508d9807d643f79\src\base\scripting\lua\LuauScriptSystem.cpp (1127): expectedType == Value::VoidType || expectedType == Value::ClassType2025-11-10 13:42:52.320 
+Script error: 'getTranslation': Argument 1 has wrong type. Expected: Int. Actual: Nil
+
+LUA call stack:
+  =[C]:-1 getTranslation
+  =dataS/scripts/vehicles/Vehicle.lua:1925 update
+  =dataS/scripts/network/NetworkNode.lua:181 updateActiveObjects
+  =dataS/scripts/network/Server.lua:64 update
+  =dataS/scripts/BaseMission.lua:1023 update
+  =dataS/scripts/FSBaseMission.lua:1913 update
+  =dataS/scripts/mission00.lua:684 update
+  =dataS/scripts/main.lua:1238 update
+2025-11-10 13:42:52.320 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/Vehicle.lua:1935: attempt to compare nil < number
+2025-11-10 13:42:52.333   Info: Adding pallet.
+2025-11-10 13:42:52.338 Warning (script): 'getTranslation': Argument 1 has wrong type. Expected: Int. Actual: Nil
+
+  D:\auto_builder\cache\svn\5e7c1a71ecbc79d8f508d9807d643f79\src\base\scripting\lua\LuauScriptSystem.cpp (1127): expectedType == Value::VoidType || expectedType == Value::ClassType2025-11-10 13:42:52.338 
+Script error: 'getTranslation': Argument 1 has wrong type. Expected: Int. Actual: Nil
+
+LUA call stack:
+  =[C]:-1 getTranslation
+  =dataS/scripts/vehicles/Vehicle.lua:1925 update
+  =dataS/scripts/network/NetworkNode.lua:181 updateActiveObjects
+  =dataS/scripts/network/Server.lua:64 update
+  =dataS/scripts/BaseMission.lua:1023 update
+  =dataS/scripts/FSBaseMission.lua:1913 update
+  =dataS/scripts/mission00.lua:684 update
+  =dataS/scripts/main.lua:1238 update
+2025-11-10 13:42:52.338 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/Vehicle.lua:1935: attempt to compare nil < number
+2025-11-10 13:42:52.475   Info: Adding pallet.
+2025-11-10 13:42:52.594   Info: Adding pallet.
+2025-11-10 13:42:52.753   Info: Adding pallet.
+2025-11-10 13:42:52.872   Info: Adding pallet.
+2025-11-10 13:42:52.998   Info: Adding pallet.
+2025-11-10 13:42:53.174   Info: Adding pallet.
+2025-11-10 13:42:53.295   Info: Adding pallet.
+2025-11-10 13:42:53.424 Warning (script): 'getTranslation': Argument 1 has wrong type. Expected: Int. Actual: Nil
+
+  D:\auto_builder\cache\svn\5e7c1a71ecbc79d8f508d9807d643f79\src\base\scripting\lua\LuauScriptSystem.cpp (1127): expectedType == Value::VoidType || expectedType == Value::ClassType2025-11-10 13:42:53.424 
+Script error: 'getTranslation': Argument 1 has wrong type. Expected: Int. Actual: Nil
+
+LUA call stack:
+  =[C]:-1 getTranslation
+  =dataS/scripts/vehicles/Vehicle.lua:1925 update
+  =dataS/scripts/network/NetworkNode.lua:181 updateActiveObjects
+  =dataS/scripts/network/Server.lua:64 update
+  =dataS/scripts/BaseMission.lua:1023 update
+  =dataS/scripts/FSBaseMission.lua:1913 update
+  =dataS/scripts/mission00.lua:684 update
+  =dataS/scripts/main.lua:1238 update
+2025-11-10 13:42:53.425 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/Vehicle.lua:1935: attempt to compare nil < number
+2025-11-10 13:42:53.438 Warning (script): 'getTranslation': Argument 1 has wrong type. Expected: Int. Actual: Nil
+
+  D:\auto_builder\cache\svn\5e7c1a71ecbc79d8f508d9807d643f79\src\base\scripting\lua\LuauScriptSystem.cpp (1127): expectedType == Value::VoidType || expectedType == Value::ClassType2025-11-10 13:42:53.438 
+Script error: 'getTranslation': Argument 1 has wrong type. Expected: Int. Actual: Nil
+
+LUA call stack:
+  =[C]:-1 getTranslation
+  =dataS/scripts/vehicles/Vehicle.lua:1925 update
+  =dataS/scripts/network/NetworkNode.lua:181 updateActiveObjects
+  =dataS/scripts/network/Server.lua:64 update
+  =dataS/scripts/BaseMission.lua:1023 update
+  =dataS/scripts/FSBaseMission.lua:1913 update
+  =dataS/scripts/mission00.lua:684 update
+  =dataS/scripts/main.lua:1238 update
+2025-11-10 13:42:53.438 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/Vehicle.lua:1935: attempt to compare nil < number
+2025-11-10 13:42:53.456 Warning (script): 'getTranslation': Argument 1 has wrong type. Expected: Int. Actual: Nil
+
+  D:\auto_builder\cache\svn\5e7c1a71ecbc79d8f508d9807d643f79\src\base\scripting\lua\LuauScriptSystem.cpp (1127): expectedType == Value::VoidType || expectedType == Value::ClassType2025-11-10 13:42:53.456 
+Script error: 'getTranslation': Argument 1 has wrong type. Expected: Int. Actual: Nil
+
+LUA call stack:
+  =[C]:-1 getTranslation
+  =dataS/scripts/vehicles/Vehicle.lua:1925 update
+  =dataS/scripts/network/NetworkNode.lua:181 updateActiveObjects
+  =dataS/scripts/network/Server.lua:64 update
+  =dataS/scripts/BaseMission.lua:1023 update
+  =dataS/scripts/FSBaseMission.lua:1913 update
+  =dataS/scripts/mission00.lua:684 update
+  =dataS/scripts/main.lua:1238 update
+2025-11-10 13:42:53.457 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/Vehicle.lua:1935: attempt to compare nil < number
+2025-11-10 13:42:53.471   Info: Adding pallet.
+2025-11-10 13:42:53.475 Warning (script): 'getTranslation': Argument 1 has wrong type. Expected: Int. Actual: Nil
+
+  D:\auto_builder\cache\svn\5e7c1a71ecbc79d8f508d9807d643f79\src\base\scripting\lua\LuauScriptSystem.cpp (1127): expectedType == Value::VoidType || expectedType == Value::ClassType2025-11-10 13:42:53.475 
+Script error: 'getTranslation': Argument 1 has wrong type. Expected: Int. Actual: Nil
+
+LUA call stack:
+  =[C]:-1 getTranslation
+  =dataS/scripts/vehicles/Vehicle.lua:1925 update
+  =dataS/scripts/network/NetworkNode.lua:181 updateActiveObjects
+  =dataS/scripts/network/Server.lua:64 update
+  =dataS/scripts/BaseMission.lua:1023 update
+  =dataS/scripts/FSBaseMission.lua:1913 update
+  =dataS/scripts/mission00.lua:684 update
+  =dataS/scripts/main.lua:1238 update
+2025-11-10 13:42:53.475 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/Vehicle.lua:1935: attempt to compare nil < number
+2025-11-10 13:42:53.491 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/Dashboard.lua:267: attempt to compare number < nil
+2025-11-10 13:42:53.591   Info: Adding pallet.
+2025-11-10 13:42:53.616 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/Dashboard.lua:267: attempt to compare number < nil
+2025-11-10 13:42:53.632 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AnimatedVehicle.lua:1297: attempt to get length of a nil value
+2025-11-10 13:42:53.651 Error: Running LUA method 'update'.
+dataS/scripts/internalMods/FS25_precisionFarming/scripts/specializations/PrecisionFarmingStatistic.lua:63: attempt to perform arithmetic (add) on nil and number
+2025-11-10 13:42:53.662   Warning: Server:registerObject() object table: 0x000002b3f1c1cce8 3485 Vehicle already registered
+2025-11-10 13:42:53.735   Info: Adding pallet.
+2025-11-10 13:42:53.909   Info: Adding pallet.
+2025-11-10 13:42:54.048   Info: Adding pallet.
+2025-11-10 13:43:02.243   Info: Adding pallet.
+2025-11-10 13:43:02.420   Info: Adding pallet.
+2025-11-10 13:43:02.595   Info: Adding pallet.
+2025-11-10 13:43:02.722   Info: Adding pallet.
+2025-11-10 13:43:02.862 Warning (script): 'getTranslation': Argument 1 has wrong type. Expected: Int. Actual: Nil
+
+  D:\auto_builder\cache\svn\5e7c1a71ecbc79d8f508d9807d643f79\src\base\scripting\lua\LuauScriptSystem.cpp (1127): expectedType == Value::VoidType || expectedType == Value::ClassType2025-11-10 13:43:02.862 
+Script error: 'getTranslation': Argument 1 has wrong type. Expected: Int. Actual: Nil
+
+LUA call stack:
+  =[C]:-1 getTranslation
+  =dataS/scripts/vehicles/Vehicle.lua:1925 update
+  =dataS/scripts/network/NetworkNode.lua:181 updateActiveObjects
+  =dataS/scripts/network/Server.lua:64 update
+  =dataS/scripts/BaseMission.lua:1023 update
+  =dataS/scripts/FSBaseMission.lua:1913 update
+  =dataS/scripts/mission00.lua:684 update
+  =dataS/scripts/main.lua:1238 update
+2025-11-10 13:43:02.863 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/Vehicle.lua:1935: attempt to compare nil < number
+2025-11-10 13:43:02.876   Info: Adding pallet.
+2025-11-10 13:43:02.880 Warning (script): 'getTranslation': Argument 1 has wrong type. Expected: Int. Actual: Nil
+
+  D:\auto_builder\cache\svn\5e7c1a71ecbc79d8f508d9807d643f79\src\base\scripting\lua\LuauScriptSystem.cpp (1127): expectedType == Value::VoidType || expectedType == Value::ClassType2025-11-10 13:43:02.880 
+Script error: 'getTranslation': Argument 1 has wrong type. Expected: Int. Actual: Nil
+
+LUA call stack:
+  =[C]:-1 getTranslation
+  =dataS/scripts/vehicles/Vehicle.lua:1925 update
+  =dataS/scripts/network/NetworkNode.lua:181 updateActiveObjects
+  =dataS/scripts/network/Server.lua:64 update
+  =dataS/scripts/BaseMission.lua:1023 update
+  =dataS/scripts/FSBaseMission.lua:1913 update
+  =dataS/scripts/mission00.lua:684 update
+  =dataS/scripts/main.lua:1238 update
+2025-11-10 13:43:02.880 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/Vehicle.lua:1935: attempt to compare nil < number
+2025-11-10 13:43:02.896 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/Dashboard.lua:267: attempt to compare number < nil
+2025-11-10 13:43:02.913 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AnimatedVehicle.lua:1297: attempt to get length of a nil value
+2025-11-10 13:43:03.014   Info: Adding pallet.
+2025-11-10 13:43:03.137   Info: Adding pallet.
+2025-11-10 13:43:03.276   Info: Adding pallet.
+2025-11-10 13:43:03.416 Warning (script): 'getTranslation': Argument 1 has wrong type. Expected: Int. Actual: Nil
+
+  D:\auto_builder\cache\svn\5e7c1a71ecbc79d8f508d9807d643f79\src\base\scripting\lua\LuauScriptSystem.cpp (1127): expectedType == Value::VoidType || expectedType == Value::ClassType2025-11-10 13:43:03.416 
+Script error: 'getTranslation': Argument 1 has wrong type. Expected: Int. Actual: Nil
+
+LUA call stack:
+  =[C]:-1 getTranslation
+  =dataS/scripts/vehicles/Vehicle.lua:1925 update
+  =dataS/scripts/network/NetworkNode.lua:181 updateActiveObjects
+  =dataS/scripts/network/Server.lua:64 update
+  =dataS/scripts/BaseMission.lua:1023 update
+  =dataS/scripts/FSBaseMission.lua:1913 update
+  =dataS/scripts/mission00.lua:684 update
+  =dataS/scripts/main.lua:1238 update
+2025-11-10 13:43:03.416 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/Vehicle.lua:1935: attempt to compare nil < number
+2025-11-10 13:43:03.431   Info: Adding pallet.
+2025-11-10 13:43:03.435 Warning (script): 'getTranslation': Argument 1 has wrong type. Expected: Int. Actual: Nil
+
+  D:\auto_builder\cache\svn\5e7c1a71ecbc79d8f508d9807d643f79\src\base\scripting\lua\LuauScriptSystem.cpp (1127): expectedType == Value::VoidType || expectedType == Value::ClassType2025-11-10 13:43:03.435 
+Script error: 'getTranslation': Argument 1 has wrong type. Expected: Int. Actual: Nil
+
+LUA call stack:
+  =[C]:-1 getTranslation
+  =dataS/scripts/vehicles/Vehicle.lua:1925 update
+  =dataS/scripts/network/NetworkNode.lua:181 updateActiveObjects
+  =dataS/scripts/network/Server.lua:64 update
+  =dataS/scripts/BaseMission.lua:1023 update
+  =dataS/scripts/FSBaseMission.lua:1913 update
+  =dataS/scripts/mission00.lua:684 update
+  =dataS/scripts/main.lua:1238 update
+2025-11-10 13:43:03.435 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/Vehicle.lua:1935: attempt to compare nil < number
+2025-11-10 13:43:03.450 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/Dashboard.lua:267: attempt to compare number < nil
+2025-11-10 13:43:03.469 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/Dashboard.lua:267: attempt to compare number < nil
+2025-11-10 13:43:03.606   Info: Adding pallet.
+2025-11-10 13:43:03.748   Info: Adding pallet.
+2025-11-10 13:43:03.873   Info: Adding pallet.
+2025-11-10 13:43:04.047   Info: Adding pallet.
+2025-11-10 13:43:04.188   Info: Adding pallet.
+2025-11-10 13:43:04.325   Info: Adding pallet.
+2025-11-10 13:43:04.464   Info: Adding pallet.
+2025-11-10 13:43:04.605   Info: Adding pallet.
+2025-11-10 13:43:04.746 Warning (script): 'getTranslation': Argument 1 has wrong type. Expected: Int. Actual: Nil
+
+  D:\auto_builder\cache\svn\5e7c1a71ecbc79d8f508d9807d643f79\src\base\scripting\lua\LuauScriptSystem.cpp (1127): expectedType == Value::VoidType || expectedType == Value::ClassType2025-11-10 13:43:04.746 
+Script error: 'getTranslation': Argument 1 has wrong type. Expected: Int. Actual: Nil
+
+LUA call stack:
+  =[C]:-1 getTranslation
+  =dataS/scripts/vehicles/Vehicle.lua:1925 update
+  =dataS/scripts/network/NetworkNode.lua:181 updateActiveObjects
+  =dataS/scripts/network/Server.lua:64 update
+  =dataS/scripts/BaseMission.lua:1023 update
+  =dataS/scripts/FSBaseMission.lua:1913 update
+  =dataS/scripts/mission00.lua:684 update
+  =dataS/scripts/main.lua:1238 update
+2025-11-10 13:43:04.747 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/Vehicle.lua:1935: attempt to compare nil < number
+2025-11-10 13:43:04.759   Info: Adding pallet.
+2025-11-10 13:43:04.763 Warning (script): 'getTranslation': Argument 1 has wrong type. Expected: Int. Actual: Nil
+
+  D:\auto_builder\cache\svn\5e7c1a71ecbc79d8f508d9807d643f79\src\base\scripting\lua\LuauScriptSystem.cpp (1127): expectedType == Value::VoidType || expectedType == Value::ClassType2025-11-10 13:43:04.763 
+Script error: 'getTranslation': Argument 1 has wrong type. Expected: Int. Actual: Nil
+
+LUA call stack:
+  =[C]:-1 getTranslation
+  =dataS/scripts/vehicles/Vehicle.lua:1925 update
+  =dataS/scripts/network/NetworkNode.lua:181 updateActiveObjects
+  =dataS/scripts/network/Server.lua:64 update
+  =dataS/scripts/BaseMission.lua:1023 update
+  =dataS/scripts/FSBaseMission.lua:1913 update
+  =dataS/scripts/mission00.lua:684 update
+  =dataS/scripts/main.lua:1238 update
+2025-11-10 13:43:04.763 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/Vehicle.lua:1935: attempt to compare nil < number
+2025-11-10 13:43:04.779 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/Dashboard.lua:267: attempt to compare number < nil
+2025-11-10 13:43:04.797 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/Dashboard.lua:267: attempt to compare number < nil
+2025-11-10 13:43:04.916   Info: Adding pallet.
+2025-11-10 13:43:05.072   Info: Adding pallet.
+2025-11-10 13:43:05.195   Info: Adding pallet.
+2025-11-10 13:43:05.386   Info: Adding pallet.
+2025-11-10 13:43:05.515   Info: Adding pallet.
+2025-11-10 13:43:05.672   Info: Adding pallet.
+2025-11-10 13:43:05.832   Info: Adding pallet.
+2025-11-10 13:43:05.960 Warning (script): 'getTranslation': Argument 1 has wrong type. Expected: Int. Actual: Nil
+
+  D:\auto_builder\cache\svn\5e7c1a71ecbc79d8f508d9807d643f79\src\base\scripting\lua\LuauScriptSystem.cpp (1127): expectedType == Value::VoidType || expectedType == Value::ClassType2025-11-10 13:43:05.960 
+Script error: 'getTranslation': Argument 1 has wrong type. Expected: Int. Actual: Nil
+
+LUA call stack:
+  =[C]:-1 getTranslation
+  =dataS/scripts/vehicles/Vehicle.lua:1925 update
+  =dataS/scripts/network/NetworkNode.lua:181 updateActiveObjects
+  =dataS/scripts/network/Server.lua:64 update
+  =dataS/scripts/BaseMission.lua:1023 update
+  =dataS/scripts/FSBaseMission.lua:1913 update
+  =dataS/scripts/mission00.lua:684 update
+  =dataS/scripts/main.lua:1238 update
+2025-11-10 13:43:05.961 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/Vehicle.lua:1935: attempt to compare nil < number
+2025-11-10 13:43:05.971   Info: Adding pallet.
+2025-11-10 13:43:05.975 Warning (script): 'getTranslation': Argument 1 has wrong type. Expected: Int. Actual: Nil
+
+  D:\auto_builder\cache\svn\5e7c1a71ecbc79d8f508d9807d643f79\src\base\scripting\lua\LuauScriptSystem.cpp (1127): expectedType == Value::VoidType || expectedType == Value::ClassType2025-11-10 13:43:05.975 
+Script error: 'getTranslation': Argument 1 has wrong type. Expected: Int. Actual: Nil
+
+LUA call stack:
+  =[C]:-1 getTranslation
+  =dataS/scripts/vehicles/Vehicle.lua:1925 update
+  =dataS/scripts/network/NetworkNode.lua:181 updateActiveObjects
+  =dataS/scripts/network/Server.lua:64 update
+  =dataS/scripts/BaseMission.lua:1023 update
+  =dataS/scripts/FSBaseMission.lua:1913 update
+  =dataS/scripts/mission00.lua:684 update
+  =dataS/scripts/main.lua:1238 update
+2025-11-10 13:43:05.975 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/Vehicle.lua:1935: attempt to compare nil < number
+2025-11-10 13:43:05.991 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/Dashboard.lua:267: attempt to compare number < nil
+2025-11-10 13:43:06.011 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/Dashboard.lua:267: attempt to compare number < nil
+2025-11-10 13:43:06.128   Info: Adding pallet.
+2025-11-10 13:43:06.269   Info: Adding pallet.
+2025-11-10 13:43:06.411   Info: Adding pallet.
+2025-11-10 13:43:06.585   Info: Adding pallet.
+2025-11-10 13:43:06.726   Info: Adding pallet.
+2025-11-10 13:44:55.424 dataS/character/playerM/heads/mHead05.i3d (192.15 ms)
+2025-11-10 13:44:55.517 dataS/character/playerM/shirts/zipNeckPullover.i3d (93.54 ms)
+2025-11-10 13:44:55.551 dataS/character/playerM/hairStyles/hairStyleManBun.i3d (33.79 ms)
+2025-11-10 13:44:55.561 dataS/character/playerM/facialHair/mHead05/goatee02.i3d (9.73 ms)
+2025-11-10 13:47:20.616   Info: Successfully set fill unit 1 of Kverneland Optima RS to Seeds with a fill level of 660 liters.
