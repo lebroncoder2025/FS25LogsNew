@@ -5348,3 +5348,6 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-10 23:35:06.287 Warning: Send called with unknown target address.
 2025-11-10 23:35:06.299 Błażej left the game
 2025-11-10 23:37:26.648 Piotrek left the game
+2025-11-10 23:44:09.962 Game saved successfully (savegame1).
+2025-11-10 23:49:45.628 zwierek lost connection to the game
+2025-11-11 00:14:22.810 Game saved successfully (savegame1).
