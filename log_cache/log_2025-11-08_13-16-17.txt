@@ -7268,3 +7268,30 @@ dataS/scripts/internalMods/FS25_precisionFarming/scripts/specializations/Precisi
 2025-11-10 05:40:58.005 data/objects/bigBagPallet/bigBagPallet.i3d (4.29 ms)
 2025-11-10 05:42:28.125 data/objects/pallets/liquidTank/liquidTank.i3d (3.30 ms)
 2025-11-10 05:42:28.145 data/objects/bigBagPallet/bigBagPallet.i3d (4.27 ms)
+2025-11-10 05:45:54.803 dataS/character/playerF/pants/botChinos.i3d (13.37 ms)
+2025-11-10 05:45:54.999 dataS/character/playerF/heads/fHead04.i3d (194.87 ms)
+2025-11-10 05:45:55.004 dataS/character/playerF/jacket/topAviatorJacket.i3d (5.45 ms)
+2025-11-10 05:45:55.079 dataS/character/playerF/shoes/laceUpSneaker.i3d (75.05 ms)
+2025-11-10 05:45:55.114 dataS/character/playerF/hairStyles/hairStylePonyTail01.i3d (35.06 ms)
+2025-11-10 05:51:13.795   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Case IH 160 CVX'
+2025-11-10 05:51:45.558 data/shared/assets/reflectors/lizard/yellowRectangle_01.i3d (1.07 ms)
+2025-11-10 05:51:45.559 data/shared/assets/reflectors/lizard/redRound_02.i3d (0.84 ms)
+2025-11-10 05:51:45.566 data/vehicles/amazone/zats3200/zats3200.i3d (21.13 ms)
+2025-11-10 05:52:20.178 Game saved successfully (savegame1).
+2025-11-10 05:55:04.169 M@rcin lost connection to the game
+2025-11-10 05:59:12.070 Lewy joined the game
+2025-11-10 05:59:12.222 dataS/character/playerM/pants/poettinger/poettingerShort.i3d (139.50 ms)
+2025-11-10 05:59:12.316 dataS/character/playerM/jacket/claas/claasTop.i3d (93.51 ms)
+2025-11-10 05:59:12.320 dataS/character/playerM/attachments/headgearBeanie.i3d (4.20 ms)
+2025-11-10 05:59:12.322 dataS/character/playerM/attachments/glassesAviators.i3d (1.57 ms)
+2025-11-10 05:59:12.345 dataS/character/playerM/shoes/crok.i3d (22.96 ms)
+2025-11-10 06:04:06.075 dataS/character/playerF/pants/botCargo.i3d (23.10 ms)
+2025-11-10 06:04:06.099 dataS/character/playerF/jacket/topVest.i3d (24.56 ms)
+2025-11-10 06:04:06.103 dataS/character/playerF/shoes/workboot02.i3d (4.02 ms)
+2025-11-10 06:04:06.146 dataS/character/playerF/hairStyles/hairStylePonyTail03.i3d (42.29 ms)
+2025-11-10 06:04:23.331 dataS/character/playerF/pants/botJeansCapris.i3d (29.01 ms)
+2025-11-10 06:04:23.572 dataS/character/playerF/heads/fHead03.i3d (241.35 ms)
+2025-11-10 06:04:23.621 dataS/character/playerF/shirts/topTankTop.i3d (48.31 ms)
+2025-11-10 06:04:23.624 dataS/character/playerF/shoes/sneaker01.i3d (2.76 ms)
+2025-11-10 06:06:10.339 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_RounderWrappedRoundbales/assets/roundbale180/roundbale180.i3d (1.67 ms)
+2025-11-10 06:22:20.492 Game saved successfully (savegame1).
