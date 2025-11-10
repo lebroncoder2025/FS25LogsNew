@@ -5252,3 +5252,16 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-10 20:24:38.380 Jolero left the game
 2025-11-10 20:24:39.784 Game saved successfully (savegame1).
 2025-11-10 20:25:16.317 zwierek lost connection to the game
+2025-11-10 20:33:41.803 hubsonwaliszot lost connection to the game
+2025-11-10 20:44:03.737 Game saved successfully (savegame1).
+2025-11-10 20:51:13.034   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Case IH 160 CVX'
+2025-11-10 20:53:44.019   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Case IH 160 CVX'
+2025-11-10 20:58:18.615   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Case IH 160 CVX'
+2025-11-10 21:12:11.855 zone joined the game
+2025-11-10 21:12:11.888 dataS/character/playerM/heads/mHead02.i3d (17.33 ms)
+2025-11-10 21:12:11.983 dataS/character/playerM/jacket/caseIH/caseIHTop.i3d (94.14 ms)
+2025-11-10 21:12:11.989 dataS/character/playerM/attachments/caseIHhat.i3d (6.67 ms)
+2025-11-10 21:12:12.023 dataS/character/playerM/hairStyles/hairStyleFringe.i3d (34.05 ms)
+2025-11-10 21:12:12.038 dataS/character/playerM/facialHair/mHead02/fullBeard.i3d (14.82 ms)
+2025-11-10 21:14:05.496 Game saved successfully (savegame1).
+2025-11-10 21:23:55.689 zone lost connection to the game
