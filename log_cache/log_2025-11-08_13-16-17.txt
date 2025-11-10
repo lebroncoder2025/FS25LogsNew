@@ -7452,3 +7452,18 @@ dataS/scripts/internalMods/FS25_precisionFarming/scripts/specializations/Precisi
 2025-11-10 11:17:55.826 dataS/character/playerM/hairStyles/hairStyleManBun.i3d (34.26 ms)
 2025-11-10 11:17:55.836 dataS/character/playerM/facialHair/mHead05/goatee02.i3d (9.85 ms)
 2025-11-10 11:23:15.659 Game saved successfully (savegame1).
+2025-11-10 11:34:12.767 dataS/character/playerM/pants/botLeather.i3d (17.73 ms)
+2025-11-10 11:34:12.799 dataS/character/playerM/jacket/topVest.i3d (32.03 ms)
+2025-11-10 11:34:12.834 dataS/character/playerM/hairStyles/hairStyleFringe.i3d (34.74 ms)
+2025-11-10 11:34:22.972 dataS/character/playerF/pants/botJeansCapris.i3d (20.24 ms)
+2025-11-10 11:34:23.165 dataS/character/playerF/heads/fHead03.i3d (192.08 ms)
+2025-11-10 11:34:23.167 dataS/character/playerF/shirts/topTankTop.i3d (1.87 ms)
+2025-11-10 11:34:23.169 dataS/character/playerF/shoes/sneaker01.i3d (2.65 ms)
+2025-11-10 11:36:30.940   Info: Successfully set fill unit 1 of Kverneland Optima RS to Seeds with a fill level of 660 liters.
+2025-11-10 11:36:32.443   Info: Successfully set fill unit 2 of Kverneland Optima RS to Solid Fertilizer with a fill level of 2,000 liters.
+2025-11-10 11:37:23.705 dataS/character/playerM/fullBody/onePieceMechanic.i3d (29.02 ms)
+2025-11-10 11:37:23.719 dataS/character/playerM/heads/mHead02.i3d (14.03 ms)
+2025-11-10 11:37:23.737 dataS/character/playerM/shoes/riding.i3d (18.07 ms)
+2025-11-10 11:37:23.772 dataS/character/playerM/hairStyles/hairStyleUnkempt.i3d (34.85 ms)
+2025-11-10 11:37:23.791 dataS/character/playerM/facialHair/mHead02/goatee01.i3d (19.02 ms)
+2025-11-10 11:39:30.638 data/objects/bigBagPallet/bigBagPallet.i3d (4.88 ms)
