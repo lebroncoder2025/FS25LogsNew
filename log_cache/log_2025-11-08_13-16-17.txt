@@ -7420,3 +7420,12 @@ dataS/scripts/internalMods/FS25_precisionFarming/scripts/specializations/Precisi
 2025-11-10 10:19:58.822 dataS/character/playerM/attachments/headgearCowboy.i3d (10.89 ms)
 2025-11-10 10:19:58.823 dataS/character/playerM/shoes/sandalM02.i3d (1.03 ms)
 2025-11-10 10:23:08.379 Game saved successfully (savegame1).
+2025-11-10 10:34:23.247 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.62 ms)
+2025-11-10 10:35:29.399 dataS/character/playerF/pants/botCargo.i3d (17.84 ms)
+2025-11-10 10:35:29.424 dataS/character/playerF/jacket/topVest.i3d (24.43 ms)
+2025-11-10 10:35:29.427 dataS/character/playerF/shoes/workboot02.i3d (3.03 ms)
+2025-11-10 10:35:29.461 dataS/character/playerF/hairStyles/hairStylePonyTail03.i3d (33.82 ms)
+2025-11-10 10:35:35.262 dataS/character/playerF/pants/botJeansCapris.i3d (20.36 ms)
+2025-11-10 10:35:35.457 dataS/character/playerF/heads/fHead03.i3d (194.05 ms)
+2025-11-10 10:35:35.459 dataS/character/playerF/shirts/topTankTop.i3d (1.98 ms)
+2025-11-10 10:35:35.462 dataS/character/playerF/shoes/sneaker01.i3d (2.70 ms)
