@@ -5306,3 +5306,45 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-10 23:21:26.587 dataS/character/playerM/shoes/sandalM03.i3d (1.43 ms)
 2025-11-10 23:21:26.618 dataS/character/playerM/hairStyles/hairStyleBaldTop.i3d (31.13 ms)
 2025-11-10 23:21:26.627 dataS/character/playerM/facialHair/mHead01/walrusXL.i3d (8.82 ms)
+2025-11-10 23:23:32.457 Jolero joined the game
+2025-11-10 23:23:32.506 dataS/character/playerM/hairStyles/hairStyleTopKnot.i3d (34.38 ms)
+2025-11-10 23:23:32.526 dataS/character/playerM/facialHair/mHead01/goatee01.i3d (19.33 ms)
+2025-11-10 23:25:13.727   Info: [Easy Development Controls] User Jolero has logged in as master user.
+2025-11-10 23:25:22.594 dataS/character/playerF/pants/botJeans.i3d (4.13 ms)
+2025-11-10 23:25:22.703 dataS/character/playerF/heads/fHead06.i3d (109.41 ms)
+2025-11-10 23:25:22.705 dataS/character/playerF/shirts/topTShirt01.i3d (2.32 ms)
+2025-11-10 23:25:22.706 dataS/character/playerF/attachments/glassesClassic.i3d (1.40 ms)
+2025-11-10 23:25:22.800 dataS/character/playerF/shoes/sportSneaker.i3d (93.13 ms)
+2025-11-10 23:25:22.832 dataS/character/playerF/hairStyles/hairStyleBehindEars02.i3d (32.78 ms)
+2025-11-10 23:26:09.885   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Case IH 160 CVX'
+2025-11-10 23:26:13.688 dataS/character/playerM/shoes/sportSneaker.i3d (91.97 ms)
+2025-11-10 23:26:13.723 dataS/character/playerM/hairStyles/hairStyleFringe.i3d (34.79 ms)
+2025-11-10 23:26:16.648 dataS/character/playerF/skirts/botModernSkirt01.i3d (52.46 ms)
+2025-11-10 23:26:16.843 dataS/character/playerF/heads/fHead03.i3d (195.15 ms)
+2025-11-10 23:26:17.023 dataS/character/playerF/shirts/strauss/straussTShirtMerino.i3d (180.68 ms)
+2025-11-10 23:26:17.028 dataS/character/playerF/gloves/glovesGeneric.i3d (5.09 ms)
+2025-11-10 23:26:17.120 dataS/character/playerF/shoes/sandalF03.i3d (91.27 ms)
+2025-11-10 23:26:17.155 dataS/character/playerF/hairStyles/hairStyleLongSideParted.i3d (35.23 ms)
+2025-11-10 23:26:19.348   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Fendt 620 Vario - 50km/h'
+2025-11-10 23:26:58.514 dataS/character/playerM/pants/botCargoShorts.i3d (16.53 ms)
+2025-11-10 23:26:58.590 dataS/character/playerM/shirts/strauss/straussTShirtMerino.i3d (76.07 ms)
+2025-11-10 23:26:58.595 dataS/character/playerM/gloves/glovesGeneric.i3d (5.06 ms)
+2025-11-10 23:26:58.595 dataS/character/playerM/hairStyles/hairStyleBald.i3d (0.27 ms)
+2025-11-10 23:27:42.463   Info: Successfully set fill unit 1 of Lizard MKS 8 to Water with a fill level of 8,000 liters.
+2025-11-10 23:27:47.240 dataS/character/playerM/pants/botChinos.i3d (13.30 ms)
+2025-11-10 23:28:17.657   Info: Successfully set fill unit 1 of Lizard MKS 8 to Water with a fill level of 8,000 liters.
+2025-11-10 23:28:39.154   Info: Successfully set fill unit 1 of Lizard MKS 8 to Water with a fill level of 8,000 liters.
+2025-11-10 23:28:59.551   Info: Successfully set fill unit 1 of Lizard MKS 8 to Water with a fill level of 8,000 liters.
+2025-11-10 23:29:40.658   Info: Successfully set fill unit 1 of Lizard MKS 8 to Water with a fill level of 8,000 liters.
+2025-11-10 23:29:57.696   Info: Successfully set fill unit 1 of Lizard MKS 8 to Water with a fill level of 8,000 liters.
+2025-11-10 23:30:34.618   Info: Successfully set fill unit 1 of Lizard MKS 8 to Water with a fill level of 8,000 liters.
+2025-11-10 23:30:53.762   Info: Successfully set fill unit 1 of Lizard MKS 8 to Water with a fill level of 8,000 liters.
+2025-11-10 23:31:14.701   Info: Successfully set fill unit 1 of Lizard MKS 8 to Water with a fill level of 8,000 liters.
+2025-11-10 23:31:34.572   Info: Successfully set fill unit 1 of Lizard MKS 8 to Water with a fill level of 8,000 liters.
+2025-11-10 23:31:57.765   Info: Successfully set fill unit 1 of Lizard MKS 8 to Water with a fill level of 8,000 liters.
+2025-11-10 23:33:18.771 Warning: Send called with unknown target address.
+2025-11-10 23:33:18.779 Jolero left the game
+2025-11-10 23:33:19.351 Game saved successfully (savegame1).
+2025-11-10 23:35:06.287 Warning: Send called with unknown target address.
+2025-11-10 23:35:06.299 Błażej left the game
+2025-11-10 23:37:26.648 Piotrek left the game
