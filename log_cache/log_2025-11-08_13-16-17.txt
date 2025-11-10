@@ -7241,3 +7241,5 @@ dataS/scripts/internalMods/FS25_precisionFarming/scripts/specializations/Precisi
 2025-11-10 03:51:09.739 dataS/character/playerM/shoes/crok.i3d (22.99 ms)
 2025-11-10 03:51:09.758 dataS/character/playerM/facialHair/mHead01/goatee01.i3d (18.63 ms)
 2025-11-10 03:52:10.592 Game saved successfully (savegame1).
+2025-11-10 04:22:06.220 Game saved successfully (savegame1).
+2025-11-10 04:23:39.448 Lewy left the game
