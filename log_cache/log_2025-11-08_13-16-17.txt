@@ -8378,3 +8378,22 @@ dataS/scripts/vehicles/specializations/Dashboard.lua:267: attempt to compare num
 2025-11-10 14:41:08.687 dataS/character/playerM/facialHair/mHead02/fullBeard.i3d (14.65 ms)
 2025-11-10 14:41:17.660   Info: Successfully set fill unit 1 of Ursus C-385A Fast transmission to Diesel with a fill level of 90 liters.
 2025-11-10 14:41:20.918   Info: Operating time of Ursus C-385A Fast transmission changed to 1.2 h.
+2025-11-10 14:53:27.900 Game saved successfully (savegame1).
+2025-11-10 14:55:53.813 dataS/character/playerF/pants/botChinos.i3d (13.42 ms)
+2025-11-10 14:55:54.006 dataS/character/playerF/heads/fHead04.i3d (192.35 ms)
+2025-11-10 14:55:54.025 dataS/character/playerF/jacket/topAviatorJacket.i3d (18.97 ms)
+2025-11-10 14:55:54.100 dataS/character/playerF/shoes/laceUpSneaker.i3d (75.37 ms)
+2025-11-10 14:55:54.136 dataS/character/playerF/hairStyles/hairStylePonyTail01.i3d (36.06 ms)
+2025-11-10 14:56:03.599 Jolero left the game
+2025-11-10 14:56:05.978 Game saved successfully (savegame1).
+2025-11-10 15:06:22.037 dataS/character/playerF/pants/botJeansCapris.i3d (20.68 ms)
+2025-11-10 15:06:22.232 dataS/character/playerF/heads/fHead03.i3d (194.73 ms)
+2025-11-10 15:06:22.234 dataS/character/playerF/shirts/topTankTop.i3d (1.97 ms)
+2025-11-10 15:06:22.236 dataS/character/playerF/shoes/sneaker01.i3d (2.72 ms)
+2025-11-10 15:08:01.307 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_UniaGrudziadzUPlows/U0231.i3d (63.95 ms)
+2025-11-10 15:12:17.526   Info: Successfully set fill unit 1 of Hardi MEGA 1200L to Herbicide with a fill level of 1,200 liters.
+2025-11-10 15:14:19.248 dataS/character/playerM/pants/botLeather.i3d (17.64 ms)
+2025-11-10 15:14:19.444 dataS/character/playerM/heads/mHead03.i3d (195.58 ms)
+2025-11-10 15:14:19.478 dataS/character/playerM/hairStyles/hairStyleMidParted01.i3d (33.69 ms)
+2025-11-10 15:16:30.645 dataS/character/playerM/jacket/topDenimJacket.i3d (23.07 ms)
+2025-11-10 15:16:30.647 dataS/character/playerM/facialHair/mHead01/beardStubble.i3d (1.50 ms)
