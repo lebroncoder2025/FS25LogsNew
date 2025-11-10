@@ -8357,3 +8357,8 @@ dataS/scripts/vehicles/specializations/Dashboard.lua:267: attempt to compare num
 2025-11-10 13:44:55.551 dataS/character/playerM/hairStyles/hairStyleManBun.i3d (33.79 ms)
 2025-11-10 13:44:55.561 dataS/character/playerM/facialHair/mHead05/goatee02.i3d (9.73 ms)
 2025-11-10 13:47:20.616   Info: Successfully set fill unit 1 of Kverneland Optima RS to Seeds with a fill level of 660 liters.
+2025-11-10 13:49:49.862   Info: Operating time of Case IH 160 CVX changed to 115 h.
+2025-11-10 13:49:52.477 dataS/character/playerM/jacket/topDenimJacket.i3d (22.96 ms)
+2025-11-10 13:49:52.511 dataS/character/playerM/hairStyles/hairStyleMidParted01.i3d (33.16 ms)
+2025-11-10 13:49:52.512 dataS/character/playerM/facialHair/mHead01/beardStubble.i3d (1.42 ms)
+2025-11-10 13:53:24.148 Game saved successfully (savegame1).
