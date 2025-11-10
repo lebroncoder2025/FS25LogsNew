@@ -5283,3 +5283,26 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-10 22:17:05.776   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'STEYR 8130 Super Elite'
 2025-11-10 22:17:07.480 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.85 ms)
 2025-11-10 22:17:07.536 data/objects/pallets/raniWrapPallet/raniWrapPallet.i3d (3.28 ms)
+2025-11-10 22:44:08.262 Game saved successfully (savegame1).
+2025-11-10 23:01:46.159 data/objects/pallets/raniWrapPallet/raniWrapPallet.i3d (2.71 ms)
+2025-11-10 23:01:46.195 data/objects/pallets/liquidTank/liquidTank.i3d (3.40 ms)
+2025-11-10 23:07:16.627 Piotrek joined the game
+2025-11-10 23:07:16.662 dataS/character/playerM/pants/botJeanShorts.i3d (16.50 ms)
+2025-11-10 23:07:16.711 dataS/character/playerM/shirts/topTankTop.i3d (49.66 ms)
+2025-11-10 23:07:16.716 dataS/character/playerM/gloves/glovesGeneric.i3d (5.07 ms)
+2025-11-10 23:07:16.727 dataS/character/playerM/attachments/headgearCowboy.i3d (10.65 ms)
+2025-11-10 23:07:16.876 dataS/character/playerM/shoes/sandalM02.i3d (91.12 ms)
+2025-11-10 23:09:53.021 M@rcin lost connection to the game
+2025-11-10 23:14:08.395 Game saved successfully (savegame1).
+2025-11-10 23:14:14.352   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Zetor 10145 Fast transmission'
+2025-11-10 23:15:19.998 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.58 ms)
+2025-11-10 23:15:20.054 data/objects/pallets/liquidTank/liquidTank.i3d (3.87 ms)
+2025-11-10 23:17:10.967   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'New Holland 8340'
+2025-11-10 23:20:03.034 data/shared/wheels/tires/trelleborg/TM100/300_95R46.i3d (2.61 ms)
+2025-11-10 23:20:07.025   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'New Holland 8340'
+2025-11-10 23:20:37.492   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'New Holland 8340'
+2025-11-10 23:21:26.571 zwierek joined the game
+2025-11-10 23:21:26.586 dataS/character/playerM/attachments/glassesAviators.i3d (1.91 ms)
+2025-11-10 23:21:26.587 dataS/character/playerM/shoes/sandalM03.i3d (1.43 ms)
+2025-11-10 23:21:26.618 dataS/character/playerM/hairStyles/hairStyleBaldTop.i3d (31.13 ms)
+2025-11-10 23:21:26.627 dataS/character/playerM/facialHair/mHead01/walrusXL.i3d (8.82 ms)
