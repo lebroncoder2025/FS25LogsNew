@@ -8477,3 +8477,43 @@ dataS/scripts/vehicles/specializations/Dashboard.lua:267: attempt to compare num
 2025-11-10 16:40:26.042 siejA joined the game
 2025-11-10 16:40:26.167 dataS/character/playerM/fullBody/strauss/motion2020PantsVariant2ndVariant.i3d (108.89 ms)
 2025-11-10 16:40:26.186 dataS/character/playerM/facialHair/mHead01/goatee01.i3d (19.00 ms)
+2025-11-10 16:43:16.650 siejA lost connection to the game
+2025-11-10 16:43:43.673 siejA joined the game
+2025-11-10 16:43:43.797 dataS/character/playerM/fullBody/strauss/motion2020PantsVariant2ndVariant.i3d (109.09 ms)
+2025-11-10 16:43:43.817 dataS/character/playerM/facialHair/mHead01/goatee01.i3d (19.24 ms)
+2025-11-10 16:44:37.044 Lewy joined the game
+2025-11-10 16:44:37.197 dataS/character/playerM/pants/poettinger/poettingerShort.i3d (139.87 ms)
+2025-11-10 16:44:37.291 dataS/character/playerM/jacket/claas/claasTop.i3d (94.22 ms)
+2025-11-10 16:44:37.297 dataS/character/playerM/attachments/headgearBeanie.i3d (4.22 ms)
+2025-11-10 16:44:37.320 dataS/character/playerM/shoes/crok.i3d (23.07 ms)
+2025-11-10 16:46:41.332 data/shared/assets/reflectors/lizard/whiteRound_01.i3d (1.14 ms)
+2025-11-10 16:46:41.350 data/shared/assets/reflectors/lizard/yellowRound_02.i3d (1.12 ms)
+2025-11-10 16:46:41.368 data/shared/assets/camera_01.i3d (1.91 ms)
+2025-11-10 16:46:41.376 data/vehicles/masseyFerguson/baler4160V/baler4160V.i3d (79.42 ms)
+2025-11-10 16:46:41.770 data/shared/wheels/tires/vredestein/flotationPro/620_55R26_5.i3d (2.57 ms)
+2025-11-10 16:46:41.772 data/shared/wheels/tires/trelleborg/T510/15x6_00R6.i3d (1.66 ms)
+2025-11-10 16:50:10.652 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_ObjectBaleStorage/i3d/storageBale800.i3d (6.37 ms)
+2025-11-10 16:51:17.401 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_ObjectBaleStorage/i3d/storageBale800.i3d (5.75 ms)
+2025-11-10 16:52:31.372 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.60 ms)
+2025-11-10 16:52:31.498 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_mrhHandLiftableConsumables/barrelPlastic/barrelPlastic.i3d (20.48 ms)
+2025-11-10 16:53:04.857 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.61 ms)
+2025-11-10 16:53:44.970 Game saved successfully (savegame1).
+2025-11-10 16:55:24.957 M@rcin lost connection to the game
+2025-11-10 17:03:36.736   Info: Moved player to coordinates 647, 850 successfully.
+2025-11-10 17:04:21.489 Błażej lost connection to the game
+2025-11-10 17:06:59.739 dataS/character/playerF/pants/botYogaPants.i3d (10.74 ms)
+2025-11-10 17:06:59.848 dataS/character/playerF/heads/fHead02.i3d (108.56 ms)
+2025-11-10 17:06:59.850 dataS/character/playerF/shirts/topTankTop.i3d (1.83 ms)
+2025-11-10 17:06:59.941 dataS/character/playerF/shoes/sportSneaker.i3d (91.51 ms)
+2025-11-10 17:06:59.976 dataS/character/playerF/hairStyles/hairStyleLongSideParted.i3d (34.83 ms)
+2025-11-10 17:07:17.787 zwierek lost connection to the game
+2025-11-10 17:07:37.344 hubsonwaliszot joined the game
+2025-11-10 17:09:32.955 siejA lost connection to the game
+2025-11-10 17:12:26.743 Warning: Send called with unknown target address.
+2025-11-10 17:12:26.752 Piotrek left the game
+2025-11-10 17:12:45.657 zone lost connection to the game
+2025-11-10 17:20:32.787 hubsonwaliszot lost connection to the game
+2025-11-10 17:22:39.848 hubsonwaliszot joined the game
+2025-11-10 17:23:48.046 Game saved successfully (savegame1).
+2025-11-10 17:24:47.806 Lewy left the game
+2025-11-10 17:29:11.855 hubsonwaliszot lost connection to the game
