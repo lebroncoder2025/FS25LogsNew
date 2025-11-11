@@ -5417,3 +5417,44 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-11 09:29:47.067 data/objects/bigBag/bigBag.i3d (5.87 ms)
 2025-11-11 09:29:47.122 data/objects/bigBagPallet/bigBagPallet.i3d (4.84 ms)
 2025-11-11 09:45:52.936 Game saved successfully (savegame1).
+2025-11-11 10:00:10.953 dataS/character/playerF/pants/botYogaPants.i3d (10.66 ms)
+2025-11-11 10:00:11.062 dataS/character/playerF/heads/fHead02.i3d (108.88 ms)
+2025-11-11 10:00:11.110 dataS/character/playerF/shirts/topTankTop.i3d (48.20 ms)
+2025-11-11 10:00:11.202 dataS/character/playerF/shoes/sportSneaker.i3d (91.86 ms)
+2025-11-11 10:00:11.240 dataS/character/playerF/hairStyles/hairStyleLongSideParted.i3d (37.90 ms)
+2025-11-11 10:09:28.943 zone joined the game
+2025-11-11 10:09:28.976 dataS/character/playerM/heads/mHead02.i3d (15.23 ms)
+2025-11-11 10:09:29.072 dataS/character/playerM/jacket/caseIH/caseIHTop.i3d (95.88 ms)
+2025-11-11 10:09:29.079 dataS/character/playerM/attachments/caseIHhat.i3d (6.59 ms)
+2025-11-11 10:09:29.113 dataS/character/playerM/hairStyles/hairStyleFringe.i3d (34.64 ms)
+2025-11-11 10:09:29.128 dataS/character/playerM/facialHair/mHead02/fullBeard.i3d (14.70 ms)
+2025-11-11 10:12:33.695 data/objects/bigBagPallet/bigBagPallet.i3d (4.27 ms)
+2025-11-11 10:12:56.826 data/objects/bigBagPallet/bigBagPallet.i3d (4.39 ms)
+2025-11-11 10:13:34.590 data/objects/bigBagPallet/bigBagPallet.i3d (3.94 ms)
+2025-11-11 10:13:55.586 Błażej joined the game
+2025-11-11 10:13:55.604 dataS/character/playerM/shirts/topTShirt01.i3d (2.27 ms)
+2025-11-11 10:13:55.607 dataS/character/playerM/shoes/sportSneaker.i3d (2.33 ms)
+2025-11-11 10:13:59.331 data/objects/bigBagPallet/bigBagPallet.i3d (4.31 ms)
+2025-11-11 10:14:42.019 data/objects/bigBagPallet/bigBagPallet.i3d (5.15 ms)
+2025-11-11 10:15:02.557 symonixprime joined the game
+2025-11-11 10:15:02.664 dataS/character/playerM/shirts/topTShirt02.i3d (91.99 ms)
+2025-11-11 10:15:02.755 dataS/character/playerM/shoes/sandalM02.i3d (91.30 ms)
+2025-11-11 10:15:02.794 dataS/character/playerM/hairStyles/hairStyleTopKnot.i3d (35.14 ms)
+2025-11-11 10:15:12.957 data/objects/bigBagPallet/bigBagPallet.i3d (5.30 ms)
+2025-11-11 10:15:41.155 data/objects/bigBagPallet/bigBagPallet.i3d (5.08 ms)
+2025-11-11 10:15:53.758 Game saved successfully (savegame1).
+2025-11-11 10:16:57.501 Figuana joined the game
+2025-11-11 10:18:49.725 zwierek joined the game
+2025-11-11 10:18:49.756 dataS/character/playerM/pants/botJeanShorts.i3d (16.76 ms)
+2025-11-11 10:18:49.776 dataS/character/playerM/shoes/sandalM03.i3d (1.42 ms)
+2025-11-11 10:18:49.808 dataS/character/playerM/hairStyles/hairStyleBaldTop.i3d (31.05 ms)
+2025-11-11 10:18:49.817 dataS/character/playerM/facialHair/mHead01/walrusXL.i3d (8.94 ms)
+2025-11-11 10:19:27.039   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'CLAAS Lexion 590'
+2025-11-11 10:22:46.807 dataS/character/playerM/heads/mHead05.i3d (193.63 ms)
+2025-11-11 10:22:46.912 dataS/character/playerM/shirts/zipNeckPullover.i3d (93.72 ms)
+2025-11-11 10:22:46.945 dataS/character/playerM/hairStyles/hairStyleManBun.i3d (33.03 ms)
+2025-11-11 10:22:46.981 dataS/character/playerM/facialHair/mHead05/goatee02.i3d (9.75 ms)
+2025-11-11 10:25:08.273 dataS/character/playerF/pants/botCargo.i3d (17.69 ms)
+2025-11-11 10:25:08.298 dataS/character/playerF/jacket/topVest.i3d (24.87 ms)
+2025-11-11 10:25:08.428 dataS/character/playerF/shoes/workboot02.i3d (3.25 ms)
+2025-11-11 10:25:08.463 dataS/character/playerF/hairStyles/hairStylePonyTail03.i3d (34.97 ms)
