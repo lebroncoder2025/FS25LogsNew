@@ -5591,3 +5591,12 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-11 13:57:19.763 dataS/character/playerF/shoes/sportSneaker.i3d (91.79 ms)
 2025-11-11 13:57:19.797 dataS/character/playerF/hairStyles/hairStyleLongSideParted.i3d (34.45 ms)
 2025-11-11 14:02:43.905 xlajtt_ left the game
+2025-11-11 14:11:29.213 dataS/character/playerF/pants/botCargo.i3d (17.87 ms)
+2025-11-11 14:11:29.238 dataS/character/playerF/jacket/topVest.i3d (25.08 ms)
+2025-11-11 14:11:29.242 dataS/character/playerF/shoes/workboot02.i3d (3.25 ms)
+2025-11-11 14:11:29.276 dataS/character/playerF/hairStyles/hairStylePonyTail03.i3d (34.23 ms)
+2025-11-11 14:16:38.737 Game saved successfully (savegame1).
+2025-11-11 14:20:38.706 dataS/character/playerM/heads/mHead05.i3d (193.88 ms)
+2025-11-11 14:20:38.801 dataS/character/playerM/shirts/zipNeckPullover.i3d (94.16 ms)
+2025-11-11 14:20:38.835 dataS/character/playerM/hairStyles/hairStyleManBun.i3d (34.22 ms)
+2025-11-11 14:20:38.846 dataS/character/playerM/facialHair/mHead05/goatee02.i3d (10.32 ms)
