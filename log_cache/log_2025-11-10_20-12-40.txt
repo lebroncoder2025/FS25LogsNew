@@ -5367,3 +5367,14 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-11 03:15:18.273 Game saved successfully (savegame1).
 2025-11-11 03:45:27.945 Game saved successfully (savegame1).
 2025-11-11 04:15:36.699 Game saved successfully (savegame1).
+2025-11-11 04:45:44.963 Game saved successfully (savegame1).
+2025-11-11 04:58:52.055 Lewy joined the game
+2025-11-11 04:58:52.394 dataS/character/playerM/pants/poettinger/poettingerShort.i3d (139.81 ms)
+2025-11-11 04:58:52.488 dataS/character/playerM/jacket/claas/claasTop.i3d (93.60 ms)
+2025-11-11 04:58:52.493 dataS/character/playerM/attachments/headgearBeanie.i3d (4.30 ms)
+2025-11-11 04:58:52.494 dataS/character/playerM/attachments/glassesAviators.i3d (1.59 ms)
+2025-11-11 04:58:52.518 dataS/character/playerM/shoes/crok.i3d (23.28 ms)
+2025-11-11 04:58:52.537 dataS/character/playerM/facialHair/mHead01/goatee01.i3d (18.86 ms)
+2025-11-11 05:02:11.917   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Case IH CVX 195'
+2025-11-11 05:15:43.908 Game saved successfully (savegame1).
+2025-11-11 05:16:11.175   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'DEUTZ-FAHR 6135 C RVshift'
