@@ -5627,3 +5627,109 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-11 15:16:42.837 Game saved successfully (savegame1).
 2025-11-11 15:17:10.636   Info: [Easy Development Controls] User zwierek has logged in as master user.
 2025-11-11 15:22:30.412 data/objects/bigBag/bigBag.i3d (5.24 ms)
+2025-11-11 15:26:51.136 
+Script error in getRigidBodyType: Unknown entity id 35745120 for 'object' in method 'getRigidBodyType'.
+
+LUA call stack:
+  =[C]:-1 getRigidBodyType
+  =dataS/scripts/vehicles/specializations/BaleLoader.lua:2875 baleLoaderMoveTriggerCallback
+2025-11-11 15:26:51.137 
+Script error in getRigidBodyType: Unknown entity id 35745120 for 'object' in method 'getRigidBodyType'.
+
+LUA call stack:
+  =[C]:-1 getRigidBodyType
+  =dataS/scripts/vehicles/specializations/BaleLoader.lua:2875 baleLoaderMoveTriggerCallback
+2025-11-11 15:26:51.137 
+Script error in getHasClassId: Unknown entity id 35745120 for 'object' in method 'getHasClassId'.
+
+LUA call stack:
+  =[C]:-1 getHasClassId
+  =dataS/scripts/triggers/WoodUnloadTrigger.lua:295 woodTriggerCallback
+2025-11-11 15:26:51.137 
+Script error in getHasClassId: Unknown entity id 35745120 for 'object' in method 'getHasClassId'.
+
+LUA call stack:
+  =[C]:-1 getHasClassId
+  =dataS/scripts/triggers/WoodUnloadTrigger.lua:295 woodTriggerCallback
+2025-11-11 15:26:51.137 
+Script error in getHasClassId: Unknown entity id 35745120 for 'object' in method 'getHasClassId'.
+
+LUA call stack:
+  =[C]:-1 getHasClassId
+  =dataS/scripts/triggers/WoodUnloadTrigger.lua:295 woodTriggerCallback
+2025-11-11 15:26:51.137 
+Script error in getRigidBodyType: Unknown entity id 35745120 for 'object' in method 'getRigidBodyType'.
+
+LUA call stack:
+  =[C]:-1 getRigidBodyType
+  =dataS/scripts/vehicles/specializations/DynamicMountAttacher.lua:716 dynamicMountTriggerCallback
+2025-11-11 15:26:51.138 
+Script error in getRigidBodyType: Unknown entity id 35745120 for 'object' in method 'getRigidBodyType'.
+
+LUA call stack:
+  =[C]:-1 getRigidBodyType
+  =dataS/scripts/vehicles/specializations/BaleWrapper.lua:1141 baleGrabberTriggerCallback
+2025-11-11 15:26:51.138 
+Script error in getRigidBodyType: Unknown entity id 35745120 for 'object' in method 'getRigidBodyType'.
+
+LUA call stack:
+  =[C]:-1 getRigidBodyType
+  =dataS/scripts/vehicles/specializations/DynamicMountAttacher.lua:716 dynamicMountTriggerCallback
+2025-11-11 15:26:51.138 
+Script error in getRigidBodyType: Unknown entity id 35745120 for 'object' in method 'getRigidBodyType'.
+
+LUA call stack:
+  =[C]:-1 getRigidBodyType
+  =dataS/scripts/vehicles/specializations/BaleLoader.lua:2843 baleGrabberTriggerCallback
+2025-11-11 15:26:51.138 
+Script error in getRigidBodyType: Unknown entity id 35745120 for 'object' in method 'getRigidBodyType'.
+
+LUA call stack:
+  =[C]:-1 getRigidBodyType
+  =dataS/scripts/vehicles/specializations/DynamicMountAttacher.lua:716 dynamicMountTriggerCallback
+2025-11-11 15:26:51.138 
+Script error in getRigidBodyType: Unknown entity id 35745120 for 'object' in method 'getRigidBodyType'.
+
+LUA call stack:
+  =[C]:-1 getRigidBodyType
+  =dataS/scripts/vehicles/specializations/BaleWrapper.lua:1141 baleGrabberTriggerCallback
+2025-11-11 15:26:51.138 
+Script error in getRigidBodyType: Unknown entity id 35745120 for 'object' in method 'getRigidBodyType'.
+
+LUA call stack:
+  =[C]:-1 getRigidBodyType
+  =dataS/scripts/vehicles/specializations/BaleLoader.lua:2843 baleGrabberTriggerCallback
+2025-11-11 15:29:35.599 Figuana lost connection to the game
+2025-11-11 15:29:38.950   Info: Successfully set fill unit 1 of Pomot UPR 10 to Lime with a fill level of 7,900 liters.
+2025-11-11 15:30:40.615   Info: Successfully set fill unit 1 of HORSCH Avatar 12.25 SD to Seeds with a fill level of 3,360 liters.
+2025-11-11 15:30:41.929   Info: Successfully set fill unit 2 of HORSCH Avatar 12.25 SD to Solid Fertilizer with a fill level of 3,840 liters.
+2025-11-11 15:33:33.723   Info: Adding pallet.
+2025-11-11 15:33:33.846   Info: Adding pallet.
+2025-11-11 15:33:33.986   Info: Adding pallet.
+2025-11-11 15:33:34.213   Info: Adding pallet.
+2025-11-11 15:33:34.460   Info: Adding pallet.
+2025-11-11 15:33:34.602   Info: Adding pallet.
+2025-11-11 15:33:34.728   Info: Adding pallet.
+2025-11-11 15:33:34.971   Info: Adding pallet.
+2025-11-11 15:33:35.132   Info: Adding pallet.
+2025-11-11 15:33:35.277   Info: Adding pallet.
+2025-11-11 15:33:35.396   Info: Adding pallet.
+2025-11-11 15:33:35.517   Info: Adding pallet.
+2025-11-11 15:33:35.641   Info: Adding pallet.
+2025-11-11 15:33:35.764   Info: Adding pallet.
+2025-11-11 15:33:36.027   Info: Adding pallet.
+2025-11-11 15:33:36.153   Info: Adding pallet.
+2025-11-11 15:33:36.293   Info: Adding pallet.
+2025-11-11 15:33:36.432   Info: Adding pallet.
+2025-11-11 15:33:36.575   Info: Adding pallet.
+2025-11-11 15:33:36.715   Info: Adding pallet.
+2025-11-11 15:35:17.613 data/objects/bigBag/bigBag.i3d (6.36 ms)
+2025-11-11 15:38:03.999   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Case IH 160 CVX'
+2025-11-11 15:38:52.152 dataS/character/playerM/fullBody/onePieceMechanic.i3d (40.50 ms)
+2025-11-11 15:38:52.174 dataS/character/playerM/shoes/riding.i3d (21.69 ms)
+2025-11-11 15:38:52.216 dataS/character/playerM/hairStyles/hairStyleUnkempt.i3d (41.60 ms)
+2025-11-11 15:38:52.231 dataS/character/playerM/facialHair/mHead02/goatee01.i3d (15.65 ms)
+2025-11-11 15:41:42.975   Info: Successfully set fill unit 1 of Pomot UPR 10 to Lime with a fill level of 7,900 liters.
+2025-11-11 15:41:59.282 ShakierMoney600 joined the game
+2025-11-11 15:41:59.411 dataS/character/playerM/fullBody/strauss/motion2020PantsVariant2ndVariant.i3d (115.28 ms)
+2025-11-11 15:41:59.426 dataS/character/playerM/attachments/headgearMotorbike.i3d (14.70 ms)
