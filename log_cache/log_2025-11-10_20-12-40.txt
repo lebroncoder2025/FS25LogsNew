@@ -5600,3 +5600,30 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-11 14:20:38.801 dataS/character/playerM/shirts/zipNeckPullover.i3d (94.16 ms)
 2025-11-11 14:20:38.835 dataS/character/playerM/hairStyles/hairStyleManBun.i3d (34.22 ms)
 2025-11-11 14:20:38.846 dataS/character/playerM/facialHair/mHead05/goatee02.i3d (10.32 ms)
+2025-11-11 14:46:15.674   Info: Successfully set fill unit 1 of Farmtech Fortis 3000 to Soybeans with a fill level of 55,000 liters.
+2025-11-11 14:46:40.083 Game saved successfully (savegame1).
+2025-11-11 14:47:43.700   Info: Successfully set fill unit 1 of Farmtech Fortis 3000 to Soybeans with a fill level of 55,000 liters.
+2025-11-11 14:48:11.361 data/shared/assets/reflectors/lizard/redTriangle_02.i3d (1.16 ms)
+2025-11-11 14:48:11.362 data/shared/assets/reflectors/lizard/yellowRectangle_01.i3d (0.98 ms)
+2025-11-11 14:48:11.363 data/shared/assets/reflectors/lizard/yellowRound_03.i3d (0.88 ms)
+2025-11-11 14:48:11.418 data/vehicles/horsch/avatar1225/avatar1225.i3d (106.84 ms)
+2025-11-11 14:48:11.592 data/shared/wheels/tires/bkt/agrimaxFactor/580_70R38.i3d (4.54 ms)
+2025-11-11 14:48:11.596 data/shared/wheels/rims/implement/rim001.i3d (3.22 ms)
+2025-11-11 14:48:11.598 data/shared/wheels/tires/bkt/AS504/10_0__75__15_3.i3d (2.16 ms)
+2025-11-11 14:48:11.647 data/shared/assets/lights/lizard/workingLight23.i3d (2.62 ms)
+2025-11-11 14:54:46.646   Info: Successfully set fill unit 1 of CLAAS LEXION 8900 to Soybeans with a fill level of 18,000 liters.
+2025-11-11 14:56:13.449   Info: Moved 3 vehicles to coordinates 786, 675 successfully.
+2025-11-11 14:56:47.476 dataS/character/playerM/pants/botLeather.i3d (17.74 ms)
+2025-11-11 14:56:47.670 dataS/character/playerM/heads/mHead03.i3d (193.78 ms)
+2025-11-11 14:56:47.703 dataS/character/playerM/hairStyles/hairStyleMidParted01.i3d (33.38 ms)
+2025-11-11 14:57:16.415   Info: Adding bale.
+2025-11-11 15:02:39.709 hubsonwaliszot joined the game
+2025-11-11 15:02:39.739 dataS/character/playerM/heads/mHead02.i3d (15.60 ms)
+2025-11-11 15:02:40.109 dataS/character/playerM/shirts/poettinger/poettingerTshirt.i3d (370.48 ms)
+2025-11-11 15:02:40.170 dataS/character/playerM/gloves/strauss/glovesEsTrailLight02.i3d (60.96 ms)
+2025-11-11 15:02:40.229 dataS/character/playerM/attachments/hatWoolen.i3d (58.15 ms)
+2025-11-11 15:02:40.271 dataS/character/playerM/hairStyles/hairStyleMullet.i3d (41.84 ms)
+2025-11-11 15:02:40.284 dataS/character/playerM/facialHair/mHead02/trimmedBeard.i3d (13.32 ms)
+2025-11-11 15:16:42.837 Game saved successfully (savegame1).
+2025-11-11 15:17:10.636   Info: [Easy Development Controls] User zwierek has logged in as master user.
+2025-11-11 15:22:30.412 data/objects/bigBag/bigBag.i3d (5.24 ms)
