@@ -5395,3 +5395,17 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-11 07:45:48.876 Game saved successfully (savegame1).
 2025-11-11 08:15:31.542 M@rcin lost connection to the game
 2025-11-11 08:15:49.914 Game saved successfully (savegame1).
+2025-11-11 08:23:36.985 dataS/character/playerM/pants/botLeather.i3d (17.61 ms)
+2025-11-11 08:23:37.015 dataS/character/playerM/jacket/topVest.i3d (30.15 ms)
+2025-11-11 08:23:37.050 dataS/character/playerM/hairStyles/hairStyleFringe.i3d (34.26 ms)
+2025-11-11 08:25:35.942 dataS/character/playerM/pants/botLeather.i3d (17.66 ms)
+2025-11-11 08:25:36.136 dataS/character/playerM/heads/mHead03.i3d (193.14 ms)
+2025-11-11 08:25:36.170 dataS/character/playerM/hairStyles/hairStyleMidParted01.i3d (33.92 ms)
+2025-11-11 08:33:59.366 dataS/character/playerM/heads/mHead05.i3d (192.88 ms)
+2025-11-11 08:33:59.459 dataS/character/playerM/shirts/zipNeckPullover.i3d (93.36 ms)
+2025-11-11 08:33:59.492 dataS/character/playerM/hairStyles/hairStyleManBun.i3d (32.84 ms)
+2025-11-11 08:33:59.502 dataS/character/playerM/facialHair/mHead05/goatee02.i3d (9.94 ms)
+2025-11-11 08:37:18.463 dataS/character/playerM/heads/mHead05.i3d (196.47 ms)
+2025-11-11 08:37:18.557 dataS/character/playerM/shirts/zipNeckPullover.i3d (93.58 ms)
+2025-11-11 08:37:18.590 dataS/character/playerM/hairStyles/hairStyleManBun.i3d (33.01 ms)
+2025-11-11 08:37:18.600 dataS/character/playerM/facialHair/mHead05/goatee02.i3d (9.97 ms)
