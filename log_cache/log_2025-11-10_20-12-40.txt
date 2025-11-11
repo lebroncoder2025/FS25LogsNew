@@ -5351,3 +5351,16 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-10 23:44:09.962 Game saved successfully (savegame1).
 2025-11-10 23:49:45.628 zwierek lost connection to the game
 2025-11-11 00:14:22.810 Game saved successfully (savegame1).
+2025-11-11 00:44:31.809 Game saved successfully (savegame1).
+2025-11-11 01:06:42.312 Lewy joined the game
+2025-11-11 01:06:42.652 dataS/character/playerM/pants/poettinger/poettingerShort.i3d (139.96 ms)
+2025-11-11 01:06:42.745 dataS/character/playerM/jacket/claas/claasTop.i3d (93.03 ms)
+2025-11-11 01:06:42.749 dataS/character/playerM/attachments/headgearBeanie.i3d (4.23 ms)
+2025-11-11 01:06:42.750 dataS/character/playerM/attachments/glassesAviators.i3d (1.43 ms)
+2025-11-11 01:06:42.773 dataS/character/playerM/shoes/crok.i3d (23.09 ms)
+2025-11-11 01:06:42.793 dataS/character/playerM/facialHair/mHead01/goatee01.i3d (18.81 ms)
+2025-11-11 01:12:41.511 Lewy left the game
+2025-11-11 01:14:40.021 Game saved successfully (savegame1).
+2025-11-11 01:44:48.331 Game saved successfully (savegame1).
+2025-11-11 02:14:58.418 Game saved successfully (savegame1).
+2025-11-11 02:45:09.156 Game saved successfully (savegame1).
