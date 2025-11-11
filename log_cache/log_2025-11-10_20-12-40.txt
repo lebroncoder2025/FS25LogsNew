@@ -5783,3 +5783,24 @@ LUA call stack:
 2025-11-11 16:37:12.632 dataS/character/playerM/shirts/strauss/straussTShirtMerino.i3d (76.35 ms)
 2025-11-11 16:37:12.666 dataS/character/playerM/gloves/glovesGeneric.i3d (5.11 ms)
 2025-11-11 16:37:12.666 dataS/character/playerM/hairStyles/hairStyleBald.i3d (0.29 ms)
+2025-11-11 16:46:57.374 Game saved successfully (savegame1).
+2025-11-11 16:49:27.494 data/objects/pallets/raniWrapPallet/raniWrapPallet.i3d (2.19 ms)
+2025-11-11 16:49:27.575 data/objects/pallets/liquidTank/liquidTank.i3d (3.81 ms)
+2025-11-11 16:55:29.367 dataS/character/playerF/pants/botYogaPants.i3d (10.85 ms)
+2025-11-11 16:55:29.479 dataS/character/playerF/heads/fHead02.i3d (111.85 ms)
+2025-11-11 16:55:29.528 dataS/character/playerF/shirts/topTankTop.i3d (48.19 ms)
+2025-11-11 16:55:29.619 dataS/character/playerF/shoes/sportSneaker.i3d (91.80 ms)
+2025-11-11 16:55:29.655 dataS/character/playerF/hairStyles/hairStyleLongSideParted.i3d (35.60 ms)
+2025-11-11 17:05:52.209 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Cargo_S_Series/Cargo_S220T.i3d (250.71 ms)
+2025-11-11 17:05:52.375 data/shared/wheels/tires/trelleborg/T404/560_60R22_5.i3d (2.67 ms)
+2025-11-11 17:07:26.797 M@rcin lost connection to the game
+2025-11-11 17:14:13.116   Info: Moved 1 vehicles to coordinates 635, 855 successfully.
+2025-11-11 17:15:07.769 data/objects/bigBagPallet/bigBagPallet.i3d (4.73 ms)
+2025-11-11 17:17:02.612 Game saved successfully (savegame1).
+2025-11-11 17:17:49.589 dataS/character/playerF/pants/botJeansCapris.i3d (31.49 ms)
+2025-11-11 17:19:20.478 data/objects/bigBag/bigBag.i3d (5.78 ms)
+2025-11-11 17:20:03.186 dataS/character/playerM/pants/botLeather.i3d (20.59 ms)
+2025-11-11 17:20:03.381 dataS/character/playerM/heads/mHead03.i3d (194.33 ms)
+2025-11-11 17:20:03.415 dataS/character/playerM/hairStyles/hairStyleMidParted01.i3d (33.30 ms)
+2025-11-11 17:21:23.531   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'JCB 575-67'
+2025-11-11 17:25:39.166 data/objects/bigBag/bigBag.i3d (6.29 ms)
