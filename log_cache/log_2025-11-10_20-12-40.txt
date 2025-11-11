@@ -5393,3 +5393,5 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-11 07:15:46.469 Game saved successfully (savegame1).
 2025-11-11 07:36:57.828   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'STEYR 8130 Super Elite'
 2025-11-11 07:45:48.876 Game saved successfully (savegame1).
+2025-11-11 08:15:31.542 M@rcin lost connection to the game
+2025-11-11 08:15:49.914 Game saved successfully (savegame1).
