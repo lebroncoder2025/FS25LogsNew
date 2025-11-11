@@ -5458,3 +5458,20 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-11 10:25:08.298 dataS/character/playerF/jacket/topVest.i3d (24.87 ms)
 2025-11-11 10:25:08.428 dataS/character/playerF/shoes/workboot02.i3d (3.25 ms)
 2025-11-11 10:25:08.463 dataS/character/playerF/hairStyles/hairStylePonyTail03.i3d (34.97 ms)
+2025-11-11 10:26:38.136   Info: [Easy Development Controls] User zwierek has logged in as master user.
+2025-11-11 10:26:42.363   Info: Moved player to coordinates 660, 860 successfully.
+2025-11-11 10:29:59.228   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Fendt 728 Vario Chip 330'
+2025-11-11 10:30:03.126   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Ford 8930'
+2025-11-11 10:33:08.564 Piotrek joined the game
+2025-11-11 10:33:08.594 dataS/character/playerM/pants/botChinos.i3d (13.21 ms)
+2025-11-11 10:33:08.669 dataS/character/playerM/shirts/strauss/straussTShirtMerino.i3d (75.73 ms)
+2025-11-11 10:33:08.674 dataS/character/playerM/gloves/glovesGeneric.i3d (5.05 ms)
+2025-11-11 10:33:08.765 dataS/character/playerM/hairStyles/hairStyleBald.i3d (0.34 ms)
+2025-11-11 10:34:22.877   Info: No 'ExhaustExtension' particle system added to vehicle 'Lizard Screw conveyor' because it has no exhaust
+2025-11-11 10:34:45.455   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Case IH 160 CVX'
+2025-11-11 10:38:56.495 045 Polskinoob joined the game
+2025-11-11 10:38:56.615 dataS/character/playerM/pants/strauss/motionPants.i3d (100.82 ms)
+2025-11-11 10:38:56.789 dataS/character/playerM/shirts/ero/eroSweater.i3d (11.80 ms)
+2025-11-11 10:38:56.795 dataS/character/playerM/gloves/glovesMechanic.i3d (5.09 ms)
+2025-11-11 10:38:56.808 dataS/character/playerM/attachments/headgearMotorbike.i3d (13.22 ms)
+2025-11-11 10:38:56.832 dataS/character/playerM/shoes/newHolland/newHolland01.i3d (24.25 ms)
