@@ -5804,3 +5804,15 @@ LUA call stack:
 2025-11-11 17:20:03.415 dataS/character/playerM/hairStyles/hairStyleMidParted01.i3d (33.30 ms)
 2025-11-11 17:21:23.531   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'JCB 575-67'
 2025-11-11 17:25:39.166 data/objects/bigBag/bigBag.i3d (6.29 ms)
+2025-11-11 17:33:55.476 Warning: Send called with unknown target address.
+2025-11-11 17:33:55.485 zwierek left the game
+2025-11-11 17:35:37.302 Jolero left the game
+2025-11-11 17:39:33.972 dataS/character/playerF/pants/botChinos.i3d (3.94 ms)
+2025-11-11 17:39:34.215 dataS/character/playerF/heads/fHead04.i3d (243.36 ms)
+2025-11-11 17:39:34.235 dataS/character/playerF/jacket/topAviatorJacket.i3d (19.89 ms)
+2025-11-11 17:39:34.330 dataS/character/playerF/shoes/laceUpSneaker.i3d (94.72 ms)
+2025-11-11 17:39:34.375 dataS/character/playerF/hairStyles/hairStylePonyTail01.i3d (44.73 ms)
+2025-11-11 17:42:11.212 zwierek joined the game
+2025-11-11 17:42:11.259 dataS/character/playerM/hairStyles/hairStyleBaldTop.i3d (31.11 ms)
+2025-11-11 17:42:11.268 dataS/character/playerM/facialHair/mHead01/walrusXL.i3d (8.86 ms)
+2025-11-11 17:43:39.670   Info: [Easy Development Controls] User zwierek has logged in as master user.
