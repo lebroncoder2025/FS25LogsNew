@@ -5475,3 +5475,19 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-11 10:38:56.795 dataS/character/playerM/gloves/glovesMechanic.i3d (5.09 ms)
 2025-11-11 10:38:56.808 dataS/character/playerM/attachments/headgearMotorbike.i3d (13.22 ms)
 2025-11-11 10:38:56.832 dataS/character/playerM/shoes/newHolland/newHolland01.i3d (24.25 ms)
+2025-11-11 10:40:18.087   Info: No 'ExhaustExtension' particle system added to vehicle 'Jungheinrich EFG S50 2.4m' because it has no exhaust
+2025-11-11 10:44:31.777 Jolero joined the game
+2025-11-11 10:45:47.875 Jolero was kicked from the game
+2025-11-11 10:45:58.474 Game saved successfully (savegame1).
+2025-11-11 10:46:28.800 Jolero joined the game
+2025-11-11 10:47:36.456   Info: [Easy Development Controls] User Jolero has logged in as master user.
+2025-11-11 10:53:55.384 data/objects/bigBag/bigBag.i3d (6.37 ms)
+2025-11-11 10:56:50.748 symonixprime lost connection to the game
+2025-11-11 11:14:25.314 Warning: Send called with unknown target address.
+2025-11-11 11:14:25.332 Figuana lost connection to the game
+2025-11-11 11:16:10.890 Game saved successfully (savegame1).
+2025-11-11 11:18:39.978 data/objects/pallets/silageAdditive/silageAdditivePallet.i3d (13.95 ms)
+2025-11-11 11:18:40.056   Info: Adding pallet.
+2025-11-11 11:19:45.492   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Ford 8930'
+2025-11-11 11:20:55.548 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.67 ms)
+2025-11-11 11:22:33.079 Figuana joined the game
