@@ -5521,3 +5521,35 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-11 11:42:34.065 dataS/character/playerM/facialHair/mHead01/beardStubble.i3d (1.40 ms)
 2025-11-11 11:42:43.567 xlajtt_ joined the game
 2025-11-11 11:43:05.438 zone lost connection to the game
+2025-11-11 11:44:37.548 data/vehicles/johnDeere/frontloader600R/frontloader663R.i3d (11.67 ms)
+2025-11-11 11:44:37.615 data/shared/assets/camera_03.i3d (2.29 ms)
+2025-11-11 11:45:35.163 dataS/character/playerM/pants/botLeather.i3d (17.90 ms)
+2025-11-11 11:45:35.356 dataS/character/playerM/heads/mHead03.i3d (192.92 ms)
+2025-11-11 11:45:35.389 dataS/character/playerM/hairStyles/hairStyleMidParted01.i3d (33.06 ms)
+2025-11-11 11:46:18.553 Game saved successfully (savegame1).
+2025-11-11 11:47:01.505 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_QuickeM140/m140.i3d (13.76 ms)
+2025-11-11 11:48:31.710 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_AL_BaleForks/i3d/frontloaderBaleKing.i3d (8.35 ms)
+2025-11-11 11:48:32.462 GarbatyAlojzy lost connection to the game
+2025-11-11 11:49:21.350 GarbatyAlojzy joined the game
+2025-11-11 11:49:21.471 dataS/character/playerM/pants/strauss/motion2020Pants.i3d (101.53 ms)
+2025-11-11 11:49:21.546 dataS/character/playerM/shirts/poettinger/poettingerSweater.i3d (75.05 ms)
+2025-11-11 11:49:21.548 dataS/character/playerM/attachments/glassesSports02.i3d (1.74 ms)
+2025-11-11 11:49:21.696 dataS/character/playerM/shoes/racing.i3d (147.57 ms)
+2025-11-11 11:49:21.697 dataS/character/playerM/facialHair/mHead01/beardStubble.i3d (1.39 ms)
+2025-11-11 11:50:17.352 Warning: Send called with unknown target address.
+2025-11-11 11:50:17.364 zwierek left the game
+2025-11-11 11:50:20.526   Info: Successfully emptied fill unit 1 of Farmtech Fortis 3000.
+2025-11-11 11:50:57.298 Jolero left the game
+2025-11-11 11:54:01.882 Piotrek left the game
+2025-11-11 11:54:29.136 045 Polskinoob left the game
+2025-11-11 12:02:45.688   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Ursus C-385A Fast transmission'
+2025-11-11 12:05:09.345 Błażej lost connection to the game
+2025-11-11 12:14:26.219 data/placeables/brandless/fences/US/fence04/fence04.i3d (9.33 ms)
+2025-11-11 12:14:27.351 data/placeables/brandless/fences/US/fence04/fence04.i3d (5.24 ms)
+2025-11-11 12:15:18.943 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_MetalShed_Pack/wiata_filar.i3d (96.00 ms)
+2025-11-11 12:15:57.946 dataS/character/playerF/pants/botYogaPants.i3d (10.68 ms)
+2025-11-11 12:15:58.057 dataS/character/playerF/heads/fHead02.i3d (109.18 ms)
+2025-11-11 12:15:58.105 dataS/character/playerF/shirts/topTankTop.i3d (48.26 ms)
+2025-11-11 12:15:58.197 dataS/character/playerF/shoes/sportSneaker.i3d (91.92 ms)
+2025-11-11 12:15:58.232 dataS/character/playerF/hairStyles/hairStyleLongSideParted.i3d (35.16 ms)
+2025-11-11 12:16:23.148 Game saved successfully (savegame1).
