@@ -5882,3 +5882,8 @@ LUA call stack:
 2025-11-11 19:24:16.201 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_mrhHandLiftableConsumables/barrelPlastic/barrelPlastic.i3d (18.66 ms)
 2025-11-11 19:25:02.250 dataS/character/playerM/heads/mHead03.i3d (195.01 ms)
 2025-11-11 19:25:02.284 dataS/character/playerM/hairStyles/hairStyleMidParted01.i3d (33.84 ms)
+2025-11-11 19:33:18.896 zone lost connection to the game
+2025-11-11 19:40:43.115 Błażej joined the game
+2025-11-11 19:40:43.134 dataS/character/playerM/shirts/topTShirt01.i3d (2.44 ms)
+2025-11-11 19:40:43.226 dataS/character/playerM/shoes/sportSneaker.i3d (92.30 ms)
+2025-11-11 19:40:43.261 dataS/character/playerM/hairStyles/hairStyleFringe.i3d (34.97 ms)
