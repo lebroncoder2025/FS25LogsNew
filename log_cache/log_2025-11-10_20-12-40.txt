@@ -5891,3 +5891,106 @@ LUA call stack:
 2025-11-11 19:51:01.393 dataS/character/playerM/pants/botLeather.i3d (18.05 ms)
 2025-11-11 19:51:01.424 dataS/character/playerM/jacket/topVest.i3d (30.70 ms)
 2025-11-11 20:17:47.901 Game saved successfully (savegame1).
+2025-11-11 20:41:02.407 data/objects/bigBag/bigBag.i3d (6.62 ms)
+2025-11-11 20:42:37.040 xlajtt_ joined the game
+2025-11-11 20:44:32.687 Figuana joined the game
+2025-11-11 20:47:48.289 Game saved successfully (savegame1).
+2025-11-11 20:48:23.947 Warning: Send called with unknown target address.
+2025-11-11 20:48:23.947 Warning: Send called with unknown target address.
+2025-11-11 20:48:23.955 hubsonwaliszot lost connection to the game
+2025-11-11 20:51:51.092 Lewy joined the game
+2025-11-11 20:51:51.251 dataS/character/playerM/pants/poettinger/poettingerShort.i3d (142.40 ms)
+2025-11-11 20:51:51.344 dataS/character/playerM/jacket/claas/claasTop.i3d (93.87 ms)
+2025-11-11 20:51:51.349 dataS/character/playerM/attachments/headgearBeanie.i3d (4.43 ms)
+2025-11-11 20:51:51.372 dataS/character/playerM/shoes/crok.i3d (23.40 ms)
+2025-11-11 20:51:51.392 dataS/character/playerM/facialHair/mHead01/goatee01.i3d (19.13 ms)
+2025-11-11 20:54:35.551 hubsonwaliszot joined the game
+2025-11-11 20:54:35.588 dataS/character/playerM/pants/botJeanShorts.i3d (16.76 ms)
+2025-11-11 20:54:35.605 dataS/character/playerM/heads/mHead02.i3d (16.65 ms)
+2025-11-11 20:54:35.889 dataS/character/playerM/shirts/poettinger/poettingerTshirt.i3d (284.00 ms)
+2025-11-11 20:54:35.937 dataS/character/playerM/gloves/strauss/glovesEsTrailLight02.i3d (48.33 ms)
+2025-11-11 20:54:35.984 dataS/character/playerM/attachments/hatWoolen.i3d (46.30 ms)
+2025-11-11 20:54:36.019 dataS/character/playerM/hairStyles/hairStyleMullet.i3d (34.66 ms)
+2025-11-11 20:54:36.030 dataS/character/playerM/facialHair/mHead02/trimmedBeard.i3d (11.40 ms)
+2025-11-11 20:56:00.221 
+Script error in getRigidBodyType: Unknown entity id 62231194 for 'object' in method 'getRigidBodyType'.
+
+LUA call stack:
+  =[C]:-1 getRigidBodyType
+  =dataS/scripts/vehicles/specializations/BaleLoader.lua:2875 baleLoaderMoveTriggerCallback
+2025-11-11 20:56:00.221 
+Script error in getRigidBodyType: Unknown entity id 62231194 for 'object' in method 'getRigidBodyType'.
+
+LUA call stack:
+  =[C]:-1 getRigidBodyType
+  =dataS/scripts/vehicles/specializations/BaleLoader.lua:2875 baleLoaderMoveTriggerCallback
+2025-11-11 20:56:00.222 
+Script error in getHasClassId: Unknown entity id 62231194 for 'object' in method 'getHasClassId'.
+
+LUA call stack:
+  =[C]:-1 getHasClassId
+  =dataS/scripts/triggers/WoodUnloadTrigger.lua:295 woodTriggerCallback
+2025-11-11 20:56:00.222 
+Script error in getHasClassId: Unknown entity id 62231194 for 'object' in method 'getHasClassId'.
+
+LUA call stack:
+  =[C]:-1 getHasClassId
+  =dataS/scripts/triggers/WoodUnloadTrigger.lua:295 woodTriggerCallback
+2025-11-11 20:56:00.222 
+Script error in getHasClassId: Unknown entity id 62231194 for 'object' in method 'getHasClassId'.
+
+LUA call stack:
+  =[C]:-1 getHasClassId
+  =dataS/scripts/triggers/WoodUnloadTrigger.lua:295 woodTriggerCallback
+2025-11-11 20:56:00.222 
+Script error in getRigidBodyType: Unknown entity id 62231194 for 'object' in method 'getRigidBodyType'.
+
+LUA call stack:
+  =[C]:-1 getRigidBodyType
+  =dataS/scripts/vehicles/specializations/DynamicMountAttacher.lua:716 dynamicMountTriggerCallback
+2025-11-11 20:56:00.222 
+Script error in getRigidBodyType: Unknown entity id 62231194 for 'object' in method 'getRigidBodyType'.
+
+LUA call stack:
+  =[C]:-1 getRigidBodyType
+  =dataS/scripts/vehicles/specializations/BaleWrapper.lua:1141 baleGrabberTriggerCallback
+2025-11-11 20:56:00.223 
+Script error in getRigidBodyType: Unknown entity id 62231194 for 'object' in method 'getRigidBodyType'.
+
+LUA call stack:
+  =[C]:-1 getRigidBodyType
+  =dataS/scripts/vehicles/specializations/DynamicMountAttacher.lua:716 dynamicMountTriggerCallback
+2025-11-11 20:56:00.223 
+Script error in getRigidBodyType: Unknown entity id 62231194 for 'object' in method 'getRigidBodyType'.
+
+LUA call stack:
+  =[C]:-1 getRigidBodyType
+  =dataS/scripts/vehicles/specializations/BaleLoader.lua:2843 baleGrabberTriggerCallback
+2025-11-11 20:56:00.223 
+Script error in getRigidBodyType: Unknown entity id 62231194 for 'object' in method 'getRigidBodyType'.
+
+LUA call stack:
+  =[C]:-1 getRigidBodyType
+  =dataS/scripts/vehicles/specializations/BaleWrapper.lua:1141 baleGrabberTriggerCallback
+2025-11-11 20:56:00.223 
+Script error in getRigidBodyType: Unknown entity id 62231194 for 'object' in method 'getRigidBodyType'.
+
+LUA call stack:
+  =[C]:-1 getRigidBodyType
+  =dataS/scripts/vehicles/specializations/BaleLoader.lua:2843 baleGrabberTriggerCallback
+2025-11-11 20:56:00.223 
+Script error in getRigidBodyType: Unknown entity id 62231194 for 'object' in method 'getRigidBodyType'.
+
+LUA call stack:
+  =[C]:-1 getRigidBodyType
+  =dataS/scripts/vehicles/specializations/DynamicMountAttacher.lua:716 dynamicMountTriggerCallback
+2025-11-11 21:00:21.846 Piotrek left the game
+2025-11-11 21:01:43.559 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_HydrantPack/1.i3d (1.80 ms)
+2025-11-11 21:03:25.455 data/objects/bigBag/bigBag.i3d (5.61 ms)
+2025-11-11 21:03:25.568 data/objects/pallets/raniWrapPallet/raniWrapPallet.i3d (2.28 ms)
+2025-11-11 21:03:25.618 data/objects/pallets/liquidTank/liquidTank.i3d (3.82 ms)
+2025-11-11 21:03:25.653 data/objects/bigBagPallet/bigBagPallet.i3d (4.60 ms)
+2025-11-11 21:04:04.345 Błażej left the game
+2025-11-11 21:04:35.060         lost connection to the game
+2025-11-11 21:17:51.273 Game saved successfully (savegame1).
+2025-11-11 21:23:16.954   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Volvo F16 500'
