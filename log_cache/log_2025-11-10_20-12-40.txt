@@ -5380,3 +5380,14 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-11 05:16:11.175   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'DEUTZ-FAHR 6135 C RVshift'
 2025-11-11 05:45:45.458 Game saved successfully (savegame1).
 2025-11-11 06:15:45.846 Game saved successfully (savegame1).
+2025-11-11 06:45:23.584 M@rcin joined the game
+2025-11-11 06:45:23.622 dataS/character/playerM/jacket/topAviatorJacket.i3d (18.73 ms)
+2025-11-11 06:45:23.655 dataS/character/playerM/hairStyles/hairStyleDiablo.i3d (33.42 ms)
+2025-11-11 06:45:23.657 dataS/character/playerM/facialHair/mHead01/beardStubble.i3d (1.50 ms)
+2025-11-11 06:45:46.186 Game saved successfully (savegame1).
+2025-11-11 06:51:43.525 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_RounderWrappedRoundbales/assets/roundbale180/roundbale180.i3d (2.02 ms)
+2025-11-11 06:51:44.579 data/objects/pallets/raniWrapPallet/raniWrapPallet.i3d (1.92 ms)
+2025-11-11 06:51:44.616 data/objects/pallets/liquidTank/liquidTank.i3d (3.38 ms)
+2025-11-11 06:53:37.738 data/objects/pallets/raniWrapPallet/raniWrapPallet.i3d (1.87 ms)
+2025-11-11 06:53:37.792 data/objects/pallets/liquidTank/liquidTank.i3d (3.17 ms)
+2025-11-11 07:15:46.469 Game saved successfully (savegame1).
