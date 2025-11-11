@@ -5994,3 +5994,18 @@ LUA call stack:
 2025-11-11 21:04:35.060         lost connection to the game
 2025-11-11 21:17:51.273 Game saved successfully (savegame1).
 2025-11-11 21:23:16.954   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Volvo F16 500'
+2025-11-11 21:31:34.561 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_valmet8300_8800/valmetMEGA.i3d (316.89 ms)
+2025-11-11 21:31:34.713 data/shared/wheels/rims/rim003.i3d (3.35 ms)
+2025-11-11 21:31:34.716 data/shared/wheels/tires/trelleborg/TM600/420_85R28.i3d (3.47 ms)
+2025-11-11 21:31:34.719 data/shared/wheels/tires/trelleborg/TM600/520_85R38.i3d (2.35 ms)
+2025-11-11 21:31:43.689   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Valtra 8300'
+2025-11-11 21:34:08.181 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_valtraSeries8750/series8750.i3d (277.68 ms)
+2025-11-11 21:34:08.309 data/shared/wheels/tires/trelleborg/TM600/420_85R28.i3d (2.65 ms)
+2025-11-11 21:34:08.312 data/shared/wheels/tires/trelleborg/TM600/520_85R38.i3d (2.73 ms)
+2025-11-11 21:34:12.614   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Valtra VALMET 8750'
+2025-11-11 21:34:56.973 data/shared/wheels/tires/bkt/agrimaxVFlecto/540_65R28.i3d (4.13 ms)
+2025-11-11 21:34:56.976 data/shared/wheels/tires/bkt/agrimaxVFlecto/710_60R38.i3d (2.45 ms)
+2025-11-11 21:34:59.768   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Valtra VALMET 8750'
+2025-11-11 21:35:40.177   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Valtra VALMET 8750'
+2025-11-11 21:37:38.520 Warning: Send called with unknown target address.
+2025-11-11 21:37:38.529 Lewy left the game
