@@ -6009,3 +6009,21 @@ LUA call stack:
 2025-11-11 21:35:40.177   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Valtra VALMET 8750'
 2025-11-11 21:37:38.520 Warning: Send called with unknown target address.
 2025-11-11 21:37:38.529 Lewy left the game
+2025-11-11 21:42:25.564 Warning: Send called with unknown target address.
+2025-11-11 21:42:25.570 hubsonwaliszot left the game
+2025-11-11 21:47:55.688 Game saved successfully (savegame1).
+2025-11-11 21:49:25.092 Warning: Send called with unknown target address.
+2025-11-11 21:49:25.105 xlajtt_ left the game
+2025-11-11 21:55:09.344 M@rcin joined the game
+2025-11-11 21:55:09.380 dataS/character/playerM/jacket/topAviatorJacket.i3d (19.32 ms)
+2025-11-11 21:55:09.382 dataS/character/playerM/attachments/glassesAviators.i3d (1.82 ms)
+2025-11-11 21:55:09.415 dataS/character/playerM/hairStyles/hairStyleDiablo.i3d (33.82 ms)
+2025-11-11 21:55:09.417 dataS/character/playerM/facialHair/mHead01/beardStubble.i3d (1.49 ms)
+2025-11-11 22:02:20.826 Błażej joined the game
+2025-11-11 22:02:20.842 dataS/character/playerM/shirts/topTShirt01.i3d (2.37 ms)
+2025-11-11 22:02:20.934 dataS/character/playerM/shoes/sportSneaker.i3d (91.70 ms)
+2025-11-11 22:02:20.969 dataS/character/playerM/hairStyles/hairStyleFringe.i3d (34.98 ms)
+2025-11-11 22:08:55.771 M@rcin lost connection to the game
+2025-11-11 22:13:03.535 data/objects/bigBag/bigBag.i3d (6.47 ms)
+2025-11-11 22:13:04.736 data/objects/bigBagPallet/bigBagPallet.i3d (4.55 ms)
+2025-11-11 22:17:56.015 Game saved successfully (savegame1).
