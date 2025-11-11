@@ -5582,3 +5582,12 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-11 13:46:12.483 dataS/character/playerM/facialHair/mHead01/walrusXL.i3d (8.55 ms)
 2025-11-11 13:46:31.750 Game saved successfully (savegame1).
 2025-11-11 13:47:27.217 data/objects/bigBag/bigBag.i3d (6.32 ms)
+2025-11-11 13:48:03.282   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'CLAAS LEXION 8900'
+2025-11-11 13:48:30.192   Info: Updating all fields, please wait...
+2025-11-11 13:49:33.324 data/vehicles/fendt/weight3300/weight3300.i3d (2.01 ms)
+2025-11-11 13:57:19.512 dataS/character/playerF/pants/botYogaPants.i3d (10.71 ms)
+2025-11-11 13:57:19.623 dataS/character/playerF/heads/fHead02.i3d (110.60 ms)
+2025-11-11 13:57:19.671 dataS/character/playerF/shirts/topTankTop.i3d (48.40 ms)
+2025-11-11 13:57:19.763 dataS/character/playerF/shoes/sportSneaker.i3d (91.79 ms)
+2025-11-11 13:57:19.797 dataS/character/playerF/hairStyles/hairStyleLongSideParted.i3d (34.45 ms)
+2025-11-11 14:02:43.905 xlajtt_ left the game
