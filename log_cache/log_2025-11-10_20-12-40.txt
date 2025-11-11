@@ -5553,3 +5553,6 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-11 12:15:58.197 dataS/character/playerF/shoes/sportSneaker.i3d (91.92 ms)
 2025-11-11 12:15:58.232 dataS/character/playerF/hairStyles/hairStyleLongSideParted.i3d (35.16 ms)
 2025-11-11 12:16:23.148 Game saved successfully (savegame1).
+2025-11-11 12:21:43.531 dataS/character/playerM/jacket/topDenimJacket.i3d (29.55 ms)
+2025-11-11 12:21:43.564 dataS/character/playerM/hairStyles/hairStyleMidParted01.i3d (32.97 ms)
+2025-11-11 12:22:11.825 GarbatyAlojzy lost connection to the game
