@@ -5830,3 +5830,14 @@ LUA call stack:
 2025-11-11 18:12:01.042 dataS/character/playerF/shoes/sneaker01.i3d (2.84 ms)
 2025-11-11 18:12:01.078 dataS/character/playerF/hairStyles/hairStyleMidSideParted.i3d (35.63 ms)
 2025-11-11 18:17:21.416 Game saved successfully (savegame1).
+2025-11-11 18:25:02.543 dataS/character/playerM/pants/botLeather.i3d (17.76 ms)
+2025-11-11 18:25:02.574 dataS/character/playerM/jacket/topVest.i3d (30.75 ms)
+2025-11-11 18:25:31.753 M@rcin joined the game
+2025-11-11 18:25:31.789 dataS/character/playerM/jacket/topAviatorJacket.i3d (18.97 ms)
+2025-11-11 18:25:31.822 dataS/character/playerM/hairStyles/hairStyleDiablo.i3d (33.66 ms)
+2025-11-11 18:25:31.824 dataS/character/playerM/facialHair/mHead01/beardStubble.i3d (1.46 ms)
+2025-11-11 18:25:58.228 zone lost connection to the game
+2025-11-11 18:32:50.771 zone joined the game
+2025-11-11 18:32:50.882 dataS/character/playerM/jacket/caseIH/caseIHTop.i3d (94.80 ms)
+2025-11-11 18:32:50.889 dataS/character/playerM/attachments/caseIHhat.i3d (6.77 ms)
+2025-11-11 18:32:50.904 dataS/character/playerM/facialHair/mHead02/fullBeard.i3d (14.99 ms)
