@@ -5733,3 +5733,29 @@ LUA call stack:
 2025-11-11 15:41:59.282 ShakierMoney600 joined the game
 2025-11-11 15:41:59.411 dataS/character/playerM/fullBody/strauss/motion2020PantsVariant2ndVariant.i3d (115.28 ms)
 2025-11-11 15:41:59.426 dataS/character/playerM/attachments/headgearMotorbike.i3d (14.70 ms)
+2025-11-11 15:42:32.744   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'New Holland T6.160'
+2025-11-11 15:46:49.090 Game saved successfully (savegame1).
+2025-11-11 15:47:50.731 ShakierMoney600 lost connection to the game
+2025-11-11 15:48:14.887   Info: Moved 2 vehicles to coordinates 956, 866 successfully.
+2025-11-11 15:48:46.320   Info: Successfully set fill unit 1 of Farmtech Fortis 3000 to Soybeans with a fill level of 30,000 liters.
+2025-11-11 15:48:51.099 zone joined the game
+2025-11-11 15:48:51.207 dataS/character/playerM/jacket/caseIH/caseIHTop.i3d (93.74 ms)
+2025-11-11 15:48:51.214 dataS/character/playerM/attachments/caseIHhat.i3d (6.73 ms)
+2025-11-11 15:48:51.250 dataS/character/playerM/hairStyles/hairStyleFringe.i3d (34.64 ms)
+2025-11-11 15:48:51.265 dataS/character/playerM/facialHair/mHead02/fullBeard.i3d (15.01 ms)
+2025-11-11 15:55:25.462   Info: Set farm account balance to € 0. (6)
+2025-11-11 16:02:54.485 dataS/character/playerF/pants/botCargo.i3d (17.78 ms)
+2025-11-11 16:02:54.511 dataS/character/playerF/jacket/topVest.i3d (26.04 ms)
+2025-11-11 16:02:54.514 dataS/character/playerF/shoes/workboot02.i3d (3.21 ms)
+2025-11-11 16:02:54.548 dataS/character/playerF/hairStyles/hairStylePonyTail03.i3d (33.91 ms)
+2025-11-11 16:03:44.793 dataS/character/playerM/pants/botLeather.i3d (17.55 ms)
+2025-11-11 16:03:44.986 dataS/character/playerM/heads/mHead03.i3d (192.61 ms)
+2025-11-11 16:03:45.019 dataS/character/playerM/hairStyles/hairStyleMidParted01.i3d (33.21 ms)
+2025-11-11 16:05:05.873 data/objects/bigBagPallet/bigBagPallet.i3d (4.59 ms)
+2025-11-11 16:05:36.039 data/objects/bigBagPallet/bigBagPallet.i3d (4.48 ms)
+2025-11-11 16:15:27.178   Info: Updated field 129 successfully (3) (1)
+2025-11-11 16:16:52.857 Game saved successfully (savegame1).
+2025-11-11 16:22:26.215 M@rcin joined the game
+2025-11-11 16:22:26.249 dataS/character/playerM/jacket/topAviatorJacket.i3d (18.67 ms)
+2025-11-11 16:22:26.282 dataS/character/playerM/hairStyles/hairStyleDiablo.i3d (32.94 ms)
+2025-11-11 16:22:26.284 dataS/character/playerM/facialHair/mHead01/beardStubble.i3d (1.38 ms)
