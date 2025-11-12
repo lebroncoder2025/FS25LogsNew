@@ -6496,3 +6496,23 @@ LUA call stack:
 2025-11-12 17:28:36.279 dataS/character/playerM/pants/botLeather.i3d (17.73 ms)
 2025-11-12 17:28:36.473 dataS/character/playerM/heads/mHead03.i3d (194.36 ms)
 2025-11-12 17:28:36.506 dataS/character/playerM/hairStyles/hairStyleMidParted01.i3d (33.22 ms)
+2025-11-12 17:33:53.406 dataS/character/playerF/pants/botYogaPants.i3d (10.72 ms)
+2025-11-12 17:33:53.516 dataS/character/playerF/heads/fHead02.i3d (110.30 ms)
+2025-11-12 17:35:39.755 dataS/character/playerF/pants/botCargo.i3d (18.03 ms)
+2025-11-12 17:35:39.781 dataS/character/playerF/jacket/topVest.i3d (25.69 ms)
+2025-11-12 17:35:39.784 dataS/character/playerF/shoes/workboot02.i3d (3.18 ms)
+2025-11-12 17:35:39.819 dataS/character/playerF/hairStyles/hairStylePonyTail03.i3d (34.80 ms)
+2025-11-12 17:36:18.380 dataS/character/playerM/jacket/topDenimJacket.i3d (23.35 ms)
+2025-11-12 17:36:18.414 dataS/character/playerM/hairStyles/hairStyleMidParted01.i3d (33.11 ms)
+2025-11-12 17:36:18.415 dataS/character/playerM/facialHair/mHead01/beardStubble.i3d (1.45 ms)
+2025-11-12 17:39:14.769 Warning: Send called with unknown target address.
+2025-11-12 17:39:14.785 045 Polskinoob left the game
+2025-11-12 17:42:08.172 dataS/character/playerF/pants/botChinos.i3d (4.04 ms)
+2025-11-12 17:42:08.283 dataS/character/playerF/heads/fHead06.i3d (111.12 ms)
+2025-11-12 17:42:08.337 dataS/character/playerF/shirts/topBlouse.i3d (53.28 ms)
+2025-11-12 17:42:08.340 dataS/character/playerF/shoes/sneaker01.i3d (2.79 ms)
+2025-11-12 17:42:08.375 dataS/character/playerF/hairStyles/hairStyleMidSideParted.i3d (34.98 ms)
+2025-11-12 17:45:05.912 data/objects/bigBagPallet/bigBagPallet.i3d (5.01 ms)
+2025-11-12 17:47:14.943 Jolero left the game
+2025-11-12 17:47:21.544 dataS/character/playerM/pants/botLeather.i3d (17.72 ms)
+2025-11-12 17:47:21.575 dataS/character/playerM/jacket/topVest.i3d (30.63 ms)
