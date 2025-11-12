@@ -16190,3 +16190,33 @@ dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to i
 2025-11-12 19:43:36.319 dataS/character/playerM/attachments/hatWoolen.i3d (46.00 ms)
 2025-11-12 19:43:36.353 dataS/character/playerM/hairStyles/hairStyleMullet.i3d (34.15 ms)
 2025-11-12 19:43:36.364 dataS/character/playerM/facialHair/mHead02/trimmedBeard.i3d (11.42 ms)
+2025-11-12 19:47:42.174 dataS/character/playerF/pants/botChinos.i3d (3.87 ms)
+2025-11-12 19:47:42.367 dataS/character/playerF/heads/fHead04.i3d (192.49 ms)
+2025-11-12 19:47:42.372 dataS/character/playerF/jacket/topAviatorJacket.i3d (5.01 ms)
+2025-11-12 19:47:42.448 dataS/character/playerF/shoes/laceUpSneaker.i3d (75.37 ms)
+2025-11-12 19:47:42.484 dataS/character/playerF/hairStyles/hairStylePonyTail01.i3d (36.44 ms)
+2025-11-12 19:49:56.492 Game saved successfully (savegame1).
+2025-11-12 19:50:33.037 Figuana left the game
+2025-11-12 19:51:54.320   Info: Successfully set fill unit 2 of HORSCH Avatar 12.25 SD to Solid Fertilizer with a fill level of 3,840 liters.
+2025-11-12 19:51:55.550   Info: Successfully set fill unit 1 of HORSCH Avatar 12.25 SD to Seeds with a fill level of 3,360 liters.
+2025-11-12 19:53:53.635 dataS/character/playerF/pants/botJeansCapris.i3d (20.44 ms)
+2025-11-12 19:53:53.829 dataS/character/playerF/heads/fHead03.i3d (194.13 ms)
+2025-11-12 19:53:53.878 dataS/character/playerF/shirts/topTankTop.i3d (48.31 ms)
+2025-11-12 19:53:53.881 dataS/character/playerF/shoes/sneaker01.i3d (2.76 ms)
+2025-11-12 19:54:44.758 data/objects/pallets/raniWrapPallet/raniWrapPallet.i3d (2.04 ms)
+2025-11-12 19:54:44.831 data/objects/pallets/liquidTank/liquidTank.i3d (3.48 ms)
+2025-11-12 19:54:44.870 data/objects/bigBagPallet/bigBagPallet.i3d (3.89 ms)
+2025-11-12 20:02:06.808 Piotrek lost connection to the game
+2025-11-12 20:02:40.081 data/objects/pallets/raniWrapPallet/raniWrapPallet.i3d (1.84 ms)
+2025-11-12 20:02:40.122 data/objects/pallets/liquidTank/liquidTank.i3d (3.12 ms)
+2025-11-12 20:02:40.149 data/objects/bigBagPallet/bigBagPallet.i3d (4.87 ms)
+2025-11-12 20:02:58.434 data/objects/pallets/raniWrapPallet/raniWrapPallet.i3d (2.23 ms)
+2025-11-12 20:02:58.479 data/objects/pallets/liquidTank/liquidTank.i3d (3.73 ms)
+2025-11-12 20:02:58.509 data/objects/bigBagPallet/bigBagPallet.i3d (5.60 ms)
+2025-11-12 20:03:03.227 data/objects/pallets/raniWrapPallet/raniWrapPallet.i3d (2.27 ms)
+2025-11-12 20:03:03.271 data/objects/pallets/liquidTank/liquidTank.i3d (3.02 ms)
+2025-11-12 20:03:03.294 data/objects/bigBagPallet/bigBagPallet.i3d (4.82 ms)
+2025-11-12 20:03:26.088 zone lost connection to the game
+2025-11-12 20:10:40.106 data/objects/pallets/raniWrapPallet/raniWrapPallet.i3d (2.32 ms)
+2025-11-12 20:10:40.150 data/objects/pallets/liquidTank/liquidTank.i3d (3.48 ms)
+2025-11-12 20:10:40.179 data/objects/bigBagPallet/bigBagPallet.i3d (5.15 ms)
