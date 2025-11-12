@@ -6284,3 +6284,10 @@ LUA call stack:
 2025-11-12 11:24:20.837 dataS/character/playerM/gloves/glovesGeneric.i3d (6.02 ms)
 2025-11-12 11:24:20.929 dataS/character/playerM/shoes/sandalM03.i3d (91.16 ms)
 2025-11-12 11:24:20.929 dataS/character/playerM/hairStyles/hairStyleBald.i3d (0.44 ms)
+2025-11-12 11:30:17.545 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_RounderWrappedRoundbales/assets/roundbale180/roundbale180.i3d (2.02 ms)
+2025-11-12 11:41:50.547 zone joined the game
+2025-11-12 11:41:50.581 dataS/character/playerM/heads/mHead02.i3d (15.48 ms)
+2025-11-12 11:41:50.674 dataS/character/playerM/jacket/caseIH/caseIHTop.i3d (93.32 ms)
+2025-11-12 11:41:50.681 dataS/character/playerM/attachments/caseIHhat.i3d (6.84 ms)
+2025-11-12 11:41:50.715 dataS/character/playerM/hairStyles/hairStyleFringe.i3d (34.26 ms)
+2025-11-12 11:41:50.730 dataS/character/playerM/facialHair/mHead02/fullBeard.i3d (14.56 ms)
