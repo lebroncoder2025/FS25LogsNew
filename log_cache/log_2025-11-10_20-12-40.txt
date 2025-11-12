@@ -6360,3 +6360,34 @@ LUA call stack:
 2025-11-12 15:23:12.517 dataS/character/playerM/pants/botLeather.i3d (17.61 ms)
 2025-11-12 15:23:12.547 dataS/character/playerM/jacket/topVest.i3d (30.68 ms)
 2025-11-12 15:23:43.329 data/objects/bigBagPallet/bigBagPallet.i3d (4.68 ms)
+2025-11-12 15:27:58.112 zone left the game
+2025-11-12 15:31:12.152   Info: Savegame Setting 'economicDifficulty': NORMAL
+2025-11-12 15:31:12.296   Info: Savegame Setting 'economicDifficulty': EASY
+2025-11-12 15:31:28.439   Info: Savegame Setting 'economicDifficulty': NORMAL
+2025-11-12 15:31:28.602   Info: Savegame Setting 'economicDifficulty': HARD
+2025-11-12 15:31:45.762   Info: Moved 4 vehicles to coordinates 654, 851 successfully.
+2025-11-12 15:32:42.949 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Krone_ZX560_GD/i3d/ZX560_GD.i3d (363.01 ms)
+2025-11-12 15:32:43.127 data/shared/wheels/tires/michelin/cargoXBib/800_45R26_5.i3d (3.89 ms)
+2025-11-12 15:32:43.177 data/shared/assets/lights/lizard/rearLight07.i3d (3.35 ms)
+2025-11-12 15:32:50.447   Info: Successfully set fill unit 1 of Lizard MKS 32 to Buffalo Milk with a fill level of 32,000 liters.
+2025-11-12 15:32:57.075   Info: Moved 4 vehicles to coordinates 918, 895 successfully.
+2025-11-12 15:33:57.023 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Fendt800VarioGen5/i3d/vario800Gen5.i3d (453.51 ms)
+2025-11-12 15:33:57.245 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Fendt800VarioGen5/shared/wheels/rims/vario800Rims.i3d (19.74 ms)
+2025-11-12 15:33:57.247 data/shared/wheels/tires/bkt/agrimaxVFlecto/600_65R34.i3d (2.43 ms)
+2025-11-12 15:33:57.249 data/shared/wheels/tires/bkt/agrimaxVFlecto/710_75R42.i3d (2.18 ms)
+2025-11-12 15:33:57.397 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Fendt800VarioGen5/shared/lights/fendtUltraVisionLight.i3d (11.43 ms)
+2025-11-12 15:33:57.412 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Fendt800VarioGen5/shared/lights/fendtVisionLight.i3d (14.21 ms)
+2025-11-12 15:33:57.510 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Fendt800VarioGen5/shared/lights/fendtBeaconLightX5_01.i3d (1.51 ms)
+2025-11-12 15:33:57.664 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Fendt800VarioGen5/shared/displays/oneDisplays.i3d (47.65 ms)
+2025-11-12 15:34:02.887   Info: Successfully set fill unit 1 of Lizard MKS 32 to Buffalo Milk with a fill level of 32,000 liters.
+2025-11-12 15:34:03.180   Info: Successfully set fill unit 1 of Lizard MKS 32 to Buffalo Milk with a fill level of 32,000 liters.
+2025-11-12 15:34:25.986   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Fendt 826 Vario Gen5 - 60km/h'
+2025-11-12 15:36:50.760 data/shared/wheels/tires/vredestein/flotationTrac/800_45R26_5.i3d (3.60 ms)
+2025-11-12 15:38:04.137 data/shared/wheels/tires/bkt/agrimaxForce/710_55R34.i3d (2.61 ms)
+2025-11-12 15:38:04.140 data/shared/wheels/tires/bkt/agrimaxForce/900_60R42.i3d (2.60 ms)
+2025-11-12 15:38:07.536   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Fendt 832 Vario Gen5 - 60km/h'
+2025-11-12 15:40:24.841   Info: Successfully set fill unit 1 of Lizard MKS 32 to Water with a fill level of 32,000 liters.
+2025-11-12 15:42:25.559   Info: Successfully set fill unit 1 of Pomot UPR 10 to Lime with a fill level of 7,900 liters.
+2025-11-12 15:42:57.664 dataS/character/playerM/jacket/topDenimJacket.i3d (27.86 ms)
+2025-11-12 15:42:57.697 dataS/character/playerM/hairStyles/hairStyleMidParted01.i3d (32.91 ms)
+2025-11-12 15:42:57.698 dataS/character/playerM/facialHair/mHead01/beardStubble.i3d (1.41 ms)
