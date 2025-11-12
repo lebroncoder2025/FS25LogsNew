@@ -6299,3 +6299,14 @@ LUA call stack:
 2025-11-12 12:30:06.016 dataS/character/playerM/hairStyles/hairStyleManBun.i3d (33.76 ms)
 2025-11-12 12:30:06.026 dataS/character/playerM/facialHair/mHead05/goatee02.i3d (10.02 ms)
 2025-11-12 12:30:18.978 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.61 ms)
+2025-11-12 12:45:29.434 Piotrek left the game
+2025-11-12 12:48:51.992 Game saved successfully (savegame1).
+2025-11-12 13:19:00.920 Game saved successfully (savegame1).
+2025-11-12 13:43:50.872 siwa joined the game
+2025-11-12 13:46:13.586 zone joined the game
+2025-11-12 13:46:13.616 dataS/character/playerM/heads/mHead02.i3d (16.96 ms)
+2025-11-12 13:46:13.710 dataS/character/playerM/jacket/caseIH/caseIHTop.i3d (94.14 ms)
+2025-11-12 13:46:13.716 dataS/character/playerM/attachments/caseIHhat.i3d (6.63 ms)
+2025-11-12 13:46:13.751 dataS/character/playerM/hairStyles/hairStyleFringe.i3d (34.62 ms)
+2025-11-12 13:46:13.766 dataS/character/playerM/facialHair/mHead02/fullBeard.i3d (14.82 ms)
+2025-11-12 13:49:03.591 Game saved successfully (savegame1).
