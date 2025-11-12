@@ -6337,3 +6337,26 @@ LUA call stack:
 2025-11-12 14:39:45.683   Info: Successfully set fill unit 1 of Farmtech Fortis 3000 to Hay with a fill level of 55,000 liters.
 2025-11-12 14:39:59.332   Info: Successfully set fill unit 1 of Farmtech Fortis 3000 to Hay with a fill level of 55,000 liters.
 2025-11-12 14:40:19.750   Info: Successfully set fill unit 1 of Farmtech Fortis 3000 to Hay with a fill level of 55,000 liters.
+2025-11-12 14:49:11.080 Game saved successfully (savegame1).
+2025-11-12 14:50:30.543 dataS/character/playerF/pants/botChinos.i3d (13.49 ms)
+2025-11-12 14:50:30.777 dataS/character/playerF/heads/fHead04.i3d (233.51 ms)
+2025-11-12 14:50:30.796 dataS/character/playerF/jacket/topAviatorJacket.i3d (19.02 ms)
+2025-11-12 14:50:30.948 dataS/character/playerF/shoes/laceUpSneaker.i3d (93.84 ms)
+2025-11-12 14:50:30.989 dataS/character/playerF/hairStyles/hairStylePonyTail01.i3d (41.11 ms)
+2025-11-12 15:02:17.366   Info: Savegame Setting 'economicDifficulty': NORMAL
+2025-11-12 15:02:17.775   Info: Savegame Setting 'economicDifficulty': EASY
+2025-11-12 15:02:20.972   Info: Savegame Setting 'economicDifficulty': NORMAL
+2025-11-12 15:02:21.127   Info: Savegame Setting 'economicDifficulty': HARD
+2025-11-12 15:02:32.093 dataS/character/playerM/fullBody/onePieceMechanic.i3d (29.30 ms)
+2025-11-12 15:02:32.110 dataS/character/playerM/shoes/riding.i3d (16.75 ms)
+2025-11-12 15:02:32.255 dataS/character/playerM/hairStyles/hairStyleUnkempt.i3d (35.70 ms)
+2025-11-12 15:02:32.346 dataS/character/playerM/facialHair/mHead02/goatee01.i3d (14.21 ms)
+2025-11-12 15:14:29.276   Info: Moved 2 vehicles to coordinates 678, 766 successfully.
+2025-11-12 15:15:54.633 data/vehicles/lizard/mks32/mks32.i3d (12.61 ms)
+2025-11-12 15:16:08.249 data/vehicles/krampe/dolly10L/dolly10L.i3d (8.02 ms)
+2025-11-12 15:16:08.425 data/shared/wheels/tires/bkt/ridemaxFL693M/500_45R22_5.i3d (2.73 ms)
+2025-11-12 15:16:08.463 data/shared/assets/lights/lizard/rearLight31.i3d (3.67 ms)
+2025-11-12 15:19:14.213 Game saved successfully (savegame1).
+2025-11-12 15:23:12.517 dataS/character/playerM/pants/botLeather.i3d (17.61 ms)
+2025-11-12 15:23:12.547 dataS/character/playerM/jacket/topVest.i3d (30.68 ms)
+2025-11-12 15:23:43.329 data/objects/bigBagPallet/bigBagPallet.i3d (4.68 ms)
