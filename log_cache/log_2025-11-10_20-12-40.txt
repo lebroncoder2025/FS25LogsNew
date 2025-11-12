@@ -6310,3 +6310,4 @@ LUA call stack:
 2025-11-12 13:46:13.751 dataS/character/playerM/hairStyles/hairStyleFringe.i3d (34.62 ms)
 2025-11-12 13:46:13.766 dataS/character/playerM/facialHair/mHead02/fullBeard.i3d (14.82 ms)
 2025-11-12 13:49:03.591 Game saved successfully (savegame1).
+2025-11-12 14:06:54.311 data/placeables/mapAS/grainSilo/grainSilo.i3d (4.42 ms)
