@@ -6275,3 +6275,12 @@ LUA call stack:
 2025-11-12 09:48:33.673 Game saved successfully (savegame1).
 2025-11-12 10:12:38.155 zone lost connection to the game
 2025-11-12 10:18:34.454 Game saved successfully (savegame1).
+2025-11-12 10:48:34.763 Game saved successfully (savegame1).
+2025-11-12 11:01:58.893 symonixprime lost connection to the game
+2025-11-12 11:18:45.821 Game saved successfully (savegame1).
+2025-11-12 11:24:20.524 Piotrek joined the game
+2025-11-12 11:24:20.737 dataS/character/playerM/pants/botChinos.i3d (14.29 ms)
+2025-11-12 11:24:20.831 dataS/character/playerM/shirts/strauss/straussTShirtMerino.i3d (93.22 ms)
+2025-11-12 11:24:20.837 dataS/character/playerM/gloves/glovesGeneric.i3d (6.02 ms)
+2025-11-12 11:24:20.929 dataS/character/playerM/shoes/sandalM03.i3d (91.16 ms)
+2025-11-12 11:24:20.929 dataS/character/playerM/hairStyles/hairStyleBald.i3d (0.44 ms)
