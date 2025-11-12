@@ -16225,3 +16225,92 @@ dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to i
 2025-11-12 20:24:12.726 data/placeables/brandless/fences/AS/fence16/fence16.i3d (106.83 ms)
 2025-11-12 20:24:28.244 data/placeables/brandless/fences/AS/fence15/fence15.i3d (4.90 ms)
 2025-11-12 20:29:45.608 M@rcin lost connection to the game
+2025-11-12 20:42:53.851   Info: Successfully set fill unit 1 of HORSCH Avatar 12.25 SD to Seeds with a fill level of 3,360 liters.
+2025-11-12 20:42:54.755   Info: Successfully set fill unit 2 of HORSCH Avatar 12.25 SD to Solid Fertilizer with a fill level of 3,840 liters.
+2025-11-12 20:46:18.559 Błażej lost connection to the game
+2025-11-12 20:50:08.833 Game saved successfully (savegame1).
+2025-11-12 20:51:24.841   Info: Adding pallet.
+2025-11-12 20:51:24.978   Info: Adding pallet.
+2025-11-12 20:51:25.101   Info: Adding pallet.
+2025-11-12 20:51:25.240   Info: Adding pallet.
+2025-11-12 20:51:25.399   Info: Adding pallet.
+2025-11-12 20:51:25.492   Info: Adding pallet.
+2025-11-12 20:51:25.635   Info: Adding pallet.
+2025-11-12 20:51:25.774   Info: Adding pallet.
+2025-11-12 20:51:25.914   Info: Adding pallet.
+2025-11-12 20:51:26.038   Info: Adding pallet.
+2025-11-12 20:51:26.181   Info: Adding pallet.
+2025-11-12 20:51:29.116   Info: Super Strength enabled by Jolero
+2025-11-12 20:51:38.289   Info: Super Strength disabled by Jolero
+2025-11-12 20:51:39.976   Info: Adding pallet.
+2025-11-12 20:51:40.140   Info: Adding pallet.
+2025-11-12 20:51:40.264   Info: Adding pallet.
+2025-11-12 20:51:40.384   Info: Adding pallet.
+2025-11-12 20:51:40.527   Info: Adding pallet.
+2025-11-12 20:51:40.667   Info: Adding pallet.
+2025-11-12 20:51:40.897   Info: Adding pallet.
+2025-11-12 20:51:45.647   Info: Adding pallet.
+2025-11-12 20:51:45.761   Info: Adding pallet.
+2025-11-12 20:51:45.918   Info: Adding pallet.
+2025-11-12 20:51:46.034   Info: Adding pallet.
+2025-11-12 20:51:46.133   Info: Adding pallet.
+2025-11-12 20:51:46.261   Info: Adding pallet.
+2025-11-12 20:51:46.394   Info: Adding pallet.
+2025-11-12 20:51:46.540   Info: Adding pallet.
+2025-11-12 20:51:46.669   Info: Adding pallet.
+2025-11-12 20:51:46.800   Info: Adding pallet.
+2025-11-12 20:51:46.910   Info: Adding pallet.
+2025-11-12 20:51:47.043   Info: Adding pallet.
+2025-11-12 20:51:47.215   Info: Adding pallet.
+2025-11-12 20:51:47.448   Info: Adding pallet.
+2025-11-12 20:51:47.729   Info: Adding pallet.
+2025-11-12 20:51:47.891   Info: Adding pallet.
+2025-11-12 20:51:47.968   Info: Adding pallet.
+2025-11-12 20:51:48.119   Info: Adding pallet.
+2025-11-12 20:51:48.288   Info: Adding pallet.
+2025-11-12 20:51:48.414   Info: Adding pallet.
+2025-11-12 20:51:48.581   Info: Adding pallet.
+2025-11-12 20:51:48.779   Info: Adding pallet.
+2025-11-12 20:51:48.950   Info: Adding pallet.
+2025-11-12 20:51:49.097   Info: Adding pallet.
+2025-11-12 20:51:49.261   Info: Adding pallet.
+2025-11-12 20:51:49.429   Info: Adding pallet.
+2025-11-12 20:51:49.578   Info: Adding pallet.
+2025-11-12 20:51:49.758   Info: Adding pallet.
+2025-11-12 20:51:49.942   Info: Adding pallet.
+2025-11-12 20:51:50.086   Info: Adding pallet.
+2025-11-12 20:51:50.288   Info: Adding pallet.
+2025-11-12 20:51:50.473   Info: Adding pallet.
+2025-11-12 20:51:50.638   Info: Adding pallet.
+2025-11-12 20:51:50.807   Info: Adding pallet.
+2025-11-12 20:51:50.961   Info: Adding pallet.
+2025-11-12 20:51:51.113   Info: Adding pallet.
+2025-11-12 20:51:51.476   Info: Adding pallet.
+2025-11-12 20:51:51.645   Info: Adding pallet.
+2025-11-12 20:51:51.826   Info: Adding pallet.
+2025-11-12 20:51:52.010   Info: Adding pallet.
+2025-11-12 20:51:52.174   Info: Adding pallet.
+2025-11-12 20:51:52.357   Info: Adding pallet.
+2025-11-12 20:51:52.506   Info: Adding pallet.
+2025-11-12 20:51:52.637   Info: Adding pallet.
+2025-11-12 20:52:02.057   Info: Successfully removed 0 logs from the map.
+2025-11-12 20:52:04.744   Info: Successfully removed 0 stumps from the map.
+2025-11-12 20:53:50.281 zwierek joined the game
+2025-11-12 20:53:50.390 dataS/character/playerM/shoes/sandalM03.i3d (92.99 ms)
+2025-11-12 20:53:50.429 dataS/character/playerM/hairStyles/hairStyleBaldTop.i3d (39.15 ms)
+2025-11-12 20:53:50.439 dataS/character/playerM/facialHair/mHead01/walrusXL.i3d (10.00 ms)
+2025-11-12 20:59:14.817   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Fendt 728 Vario Chip 330'
+2025-11-12 20:59:51.002 M1odyHaze joined the game
+2025-11-12 21:00:54.287 Jolero left the game
+2025-11-12 21:00:55.635 Game saved successfully (savegame1).
+2025-11-12 21:03:54.627 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.68 ms)
+2025-11-12 21:03:54.686 data/objects/pallets/liquidTank/liquidTank.i3d (4.20 ms)
+2025-11-12 21:06:46.857 M1odyHaze lost connection to the game
+2025-11-12 21:10:59.852 M@rcin joined the game
+2025-11-12 21:10:59.887 dataS/character/playerM/jacket/topAviatorJacket.i3d (19.44 ms)
+2025-11-12 21:10:59.921 dataS/character/playerM/hairStyles/hairStyleDiablo.i3d (33.85 ms)
+2025-11-12 21:10:59.922 dataS/character/playerM/facialHair/mHead01/beardStubble.i3d (1.53 ms)
+2025-11-12 21:20:12.044 Game saved successfully (savegame1).
+2025-11-12 21:22:56.977   Info: [Easy Development Controls] User zwierek has logged in as master user.
+2025-11-12 21:23:54.854   Info: Successfully set fill unit 1 of Hardi MEGA 1200L to Herbicide with a fill level of 1,200 liters.
+2025-11-12 21:25:46.219   Info: Moved player to coordinates 611, 852 successfully.
