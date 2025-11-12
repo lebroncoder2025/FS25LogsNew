@@ -6133,3 +6133,14 @@ LUA call stack:
 2025-11-12 05:18:19.284 Game saved successfully (savegame1).
 2025-11-12 05:21:07.244 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.60 ms)
 2025-11-12 05:21:07.303 data/objects/bigBagPallet/bigBagPallet.i3d (4.59 ms)
+2025-11-12 05:31:16.196 data/shared/wheels/tires/trelleborg/TM1060/600_60R30.i3d (5.66 ms)
+2025-11-12 05:31:16.203 data/shared/wheels/weights/weight005.i3d (6.63 ms)
+2025-11-12 05:31:16.208 data/shared/wheels/tires/trelleborg/TM1060/710_60R42.i3d (4.72 ms)
+2025-11-12 05:31:18.575   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'John Deere 7810'
+2025-11-12 05:32:58.458 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.58 ms)
+2025-11-12 05:32:58.514 data/objects/bigBagPallet/bigBagPallet.i3d (4.27 ms)
+2025-11-12 05:34:11.482 data/objects/bigBag/bigBag.i3d (5.77 ms)
+2025-11-12 05:34:11.549 data/objects/pallets/raniWrapPallet/raniWrapPallet.i3d (1.93 ms)
+2025-11-12 05:34:11.587 data/objects/pallets/liquidTank/liquidTank.i3d (4.05 ms)
+2025-11-12 05:36:43.996 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_fullServiceWorkshop/chargingStation.i3d (40.15 ms)
+2025-11-12 05:36:44.012 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_fullServiceWorkshop/lights/light4.i3d (0.92 ms)
