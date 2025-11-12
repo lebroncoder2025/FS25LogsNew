@@ -6516,3 +6516,22 @@ LUA call stack:
 2025-11-12 17:47:14.943 Jolero left the game
 2025-11-12 17:47:21.544 dataS/character/playerM/pants/botLeather.i3d (17.72 ms)
 2025-11-12 17:47:21.575 dataS/character/playerM/jacket/topVest.i3d (30.63 ms)
+2025-11-12 17:48:39.886 data/objects/bigBagPallet/bigBagPallet.i3d (4.55 ms)
+2025-11-12 17:49:42.118 Game saved successfully (savegame1).
+2025-11-12 17:53:24.193 data/objects/bigBagPallet/bigBagPallet.i3d (5.07 ms)
+2025-11-12 17:53:31.542 hubsonwaliszot joined the game
+2025-11-12 17:53:31.577 dataS/character/playerM/pants/botJeanShorts.i3d (17.93 ms)
+2025-11-12 17:53:31.924 dataS/character/playerM/shirts/poettinger/poettingerTshirt.i3d (347.56 ms)
+2025-11-12 17:53:31.984 dataS/character/playerM/gloves/strauss/glovesEsTrailLight02.i3d (59.29 ms)
+2025-11-12 17:53:32.043 dataS/character/playerM/attachments/hatWoolen.i3d (59.80 ms)
+2025-11-12 17:53:32.083 dataS/character/playerM/hairStyles/hairStyleMullet.i3d (38.18 ms)
+2025-11-12 17:53:32.095 dataS/character/playerM/facialHair/mHead02/trimmedBeard.i3d (12.57 ms)
+2025-11-12 18:04:39.741 zone lost connection to the game
+2025-11-12 18:06:10.262 zone joined the game
+2025-11-12 18:06:10.372 dataS/character/playerM/jacket/caseIH/caseIHTop.i3d (93.81 ms)
+2025-11-12 18:06:10.379 dataS/character/playerM/attachments/caseIHhat.i3d (6.62 ms)
+2025-11-12 18:06:10.394 dataS/character/playerM/facialHair/mHead02/fullBeard.i3d (14.94 ms)
+2025-11-12 18:08:53.530 siwa joined the game
+2025-11-12 18:18:04.989 Warning: Send called with unknown target address.
+2025-11-12 18:18:04.997 hubsonwaliszot left the game
+2025-11-12 18:19:46.257 Game saved successfully (savegame1).
