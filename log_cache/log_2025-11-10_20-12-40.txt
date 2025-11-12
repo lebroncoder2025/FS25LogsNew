@@ -16314,3 +16314,8 @@ dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to i
 2025-11-12 21:22:56.977   Info: [Easy Development Controls] User zwierek has logged in as master user.
 2025-11-12 21:23:54.854   Info: Successfully set fill unit 1 of Hardi MEGA 1200L to Herbicide with a fill level of 1,200 liters.
 2025-11-12 21:25:46.219   Info: Moved player to coordinates 611, 852 successfully.
+2025-11-12 21:27:06.057   Info: Moved player to coordinates 1210, 1392 successfully.
+2025-11-12 21:34:43.261   Info: Moved player to coordinates 611, 847 successfully.
+2025-11-12 21:35:14.489   Info: Moved player to coordinates 1227, 1080 successfully.
+2025-11-12 21:35:30.936   Info: Successfully set fill unit 1 of Hardi MEGA 1200L to Herbicide with a fill level of 1,200 liters.
+2025-11-12 21:38:37.199 M@rcin lost connection to the game
