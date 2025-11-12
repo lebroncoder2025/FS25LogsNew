@@ -6327,3 +6327,13 @@ LUA call stack:
 2025-11-12 14:32:38.405 dataS/character/playerM/shirts/topTShirt01.i3d (2.28 ms)
 2025-11-12 14:32:38.439 dataS/character/playerM/hairStyles/hairStyleTopKnot.i3d (34.06 ms)
 2025-11-12 14:32:38.459 dataS/character/playerM/facialHair/mHead01/goatee01.i3d (20.85 ms)
+2025-11-12 14:36:47.520   Info: [Easy Development Controls] User Jolero has logged in as master user.
+2025-11-12 14:37:45.552   Info: Successfully set fill unit 1 of Farmtech Fortis 3000 to Grass with a fill level of 55,000 liters.
+2025-11-12 14:37:57.600   Info: Diesel level of Fendt 728 Vario Chip 330 changed to 450 liters.
+2025-11-12 14:38:19.270   Info: Successfully set fill unit 1 of Farmtech Fortis 3000 to Straw with a fill level of 55,000 liters.
+2025-11-12 14:38:33.676   Info: Successfully set fill unit 1 of Farmtech Fortis 3000 to Straw with a fill level of 55,000 liters.
+2025-11-12 14:39:17.257   Info: Successfully set fill unit 1 of Farmtech Fortis 3000 to Straw with a fill level of 55,000 liters.
+2025-11-12 14:39:37.264   Info: Successfully set fill unit 1 of Farmtech Fortis 3000 to Straw with a fill level of 55,000 liters.
+2025-11-12 14:39:45.683   Info: Successfully set fill unit 1 of Farmtech Fortis 3000 to Hay with a fill level of 55,000 liters.
+2025-11-12 14:39:59.332   Info: Successfully set fill unit 1 of Farmtech Fortis 3000 to Hay with a fill level of 55,000 liters.
+2025-11-12 14:40:19.750   Info: Successfully set fill unit 1 of Farmtech Fortis 3000 to Hay with a fill level of 55,000 liters.
