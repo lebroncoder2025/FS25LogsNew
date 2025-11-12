@@ -16378,3 +16378,25 @@ dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to i
 2025-11-12 23:36:05.539 dataS/character/playerM/pants/botLeather.i3d (17.70 ms)
 2025-11-12 23:36:05.569 dataS/character/playerM/jacket/topVest.i3d (30.38 ms)
 2025-11-12 23:36:05.604 dataS/character/playerM/hairStyles/hairStyleFringe.i3d (34.52 ms)
+2025-11-12 23:46:10.518 dataS/character/playerM/jacket/topDenimJacket.i3d (22.85 ms)
+2025-11-12 23:46:10.551 dataS/character/playerM/hairStyles/hairStyleMidParted01.i3d (33.28 ms)
+2025-11-12 23:46:10.553 dataS/character/playerM/facialHair/mHead01/beardStubble.i3d (1.47 ms)
+2025-11-12 23:48:24.452 data/placeables/brandless/beeHives/beehiveGeneric02/beehiveGeneric02.i3d (2.56 ms)
+2025-11-12 23:48:28.633 data/placeables/brandless/beeHives/beeHivePalletSpawner/beeHivePalletSpawner.i3d (1.31 ms)
+2025-11-12 23:50:32.533 Game saved successfully (savegame1).
+2025-11-12 23:51:43.089   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Case IH CVX 195'
+2025-11-12 23:53:37.895 dataS/character/playerF/pants/botCargo.i3d (17.78 ms)
+2025-11-12 23:53:37.920 dataS/character/playerF/jacket/topVest.i3d (24.97 ms)
+2025-11-12 23:53:37.923 dataS/character/playerF/shoes/workboot02.i3d (3.10 ms)
+2025-11-12 23:53:37.957 dataS/character/playerF/hairStyles/hairStylePonyTail03.i3d (34.04 ms)
+2025-11-13 00:05:33.810 hubsonwaliszot lost connection to the game
+2025-11-13 00:07:01.305 dataS/character/playerF/pants/botChinos.i3d (13.67 ms)
+2025-11-13 00:07:01.417 dataS/character/playerF/heads/fHead06.i3d (112.27 ms)
+2025-11-13 00:07:01.471 dataS/character/playerF/shirts/topBlouse.i3d (53.79 ms)
+2025-11-13 00:07:01.474 dataS/character/playerF/shoes/sneaker01.i3d (2.68 ms)
+2025-11-13 00:07:01.509 dataS/character/playerF/hairStyles/hairStyleMidSideParted.i3d (35.16 ms)
+2025-11-13 00:14:26.804 dataS/character/playerF/pants/botCargo.i3d (17.85 ms)
+2025-11-13 00:14:26.829 dataS/character/playerF/jacket/topVest.i3d (24.66 ms)
+2025-11-13 00:14:26.832 dataS/character/playerF/shoes/workboot02.i3d (3.20 ms)
+2025-11-13 00:14:26.866 dataS/character/playerF/hairStyles/hairStylePonyTail03.i3d (33.60 ms)
+2025-11-13 00:20:32.854 Game saved successfully (savegame1).
