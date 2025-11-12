@@ -6204,3 +6204,11 @@ LUA call stack:
 2025-11-12 07:12:59.721 dataS/character/playerM/facialHair/mHead01/beardStubble.i3d (1.43 ms)
 2025-11-12 07:18:24.535 Game saved successfully (savegame1).
 2025-11-12 07:34:28.823 M@rcin lost connection to the game
+2025-11-12 07:35:32.055 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Unia_Pilmet_Rex_2518/UniaPilmetRex2518.i3d (88.11 ms)
+2025-11-12 07:35:32.267 data/shared/wheels/tires/trelleborg/TM100/270_95R48.i3d (3.58 ms)
+2025-11-12 07:35:32.269 data/shared/assets/lights/lizard/rearLight36.i3d (2.36 ms)
+2025-11-12 07:36:58.532 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.59 ms)
+2025-11-12 07:36:58.586 data/objects/pallets/liquidTank/liquidTank.i3d (3.23 ms)
+2025-11-12 07:37:10.757 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.62 ms)
+2025-11-12 07:37:10.829 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_mrhHandLiftableConsumables/barrelPlastic/barrelPlastic.i3d (17.48 ms)
+2025-11-12 07:48:24.642 Game saved successfully (savegame1).
