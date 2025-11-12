@@ -6212,3 +6212,8 @@ LUA call stack:
 2025-11-12 07:37:10.757 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.62 ms)
 2025-11-12 07:37:10.829 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_mrhHandLiftableConsumables/barrelPlastic/barrelPlastic.i3d (17.48 ms)
 2025-11-12 07:48:24.642 Game saved successfully (savegame1).
+2025-11-12 08:08:52.220 dataS/character/playerF/pants/botCargo.i3d (22.92 ms)
+2025-11-12 08:08:52.252 dataS/character/playerF/jacket/topVest.i3d (31.75 ms)
+2025-11-12 08:08:52.256 dataS/character/playerF/shoes/workboot02.i3d (4.01 ms)
+2025-11-12 08:08:52.296 dataS/character/playerF/hairStyles/hairStylePonyTail03.i3d (39.84 ms)
+2025-11-12 08:18:26.770 Game saved successfully (savegame1).
