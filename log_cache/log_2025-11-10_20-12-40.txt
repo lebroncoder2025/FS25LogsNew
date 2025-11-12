@@ -6187,3 +6187,20 @@ LUA call stack:
 2025-11-12 06:18:55.604 data/objects/bigBagPallet/bigBagPallet.i3d (4.63 ms)
 2025-11-12 06:29:20.800 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.57 ms)
 2025-11-12 06:29:20.857 data/objects/bigBagPallet/bigBagPallet.i3d (3.90 ms)
+2025-11-12 06:42:17.482 dataS/character/playerF/pants/botChinos.i3d (13.42 ms)
+2025-11-12 06:42:17.594 dataS/character/playerF/heads/fHead06.i3d (111.70 ms)
+2025-11-12 06:42:17.647 dataS/character/playerF/shirts/topBlouse.i3d (52.89 ms)
+2025-11-12 06:42:17.650 dataS/character/playerF/shoes/sneaker01.i3d (2.85 ms)
+2025-11-12 06:42:17.685 dataS/character/playerF/hairStyles/hairStyleMidSideParted.i3d (34.99 ms)
+2025-11-12 06:48:24.231 Game saved successfully (savegame1).
+2025-11-12 06:56:51.676 dataS/character/playerM/fullBody/onePieceMechanic.i3d (29.20 ms)
+2025-11-12 06:56:51.695 dataS/character/playerM/heads/mHead02.i3d (18.16 ms)
+2025-11-12 06:56:51.712 dataS/character/playerM/shoes/riding.i3d (17.58 ms)
+2025-11-12 06:56:51.747 dataS/character/playerM/hairStyles/hairStyleUnkempt.i3d (34.93 ms)
+2025-11-12 06:56:51.761 dataS/character/playerM/facialHair/mHead02/goatee01.i3d (13.76 ms)
+2025-11-12 07:12:59.650 M@rcin joined the game
+2025-11-12 07:12:59.686 dataS/character/playerM/jacket/topAviatorJacket.i3d (18.46 ms)
+2025-11-12 07:12:59.719 dataS/character/playerM/hairStyles/hairStyleDiablo.i3d (33.24 ms)
+2025-11-12 07:12:59.721 dataS/character/playerM/facialHair/mHead01/beardStubble.i3d (1.43 ms)
+2025-11-12 07:18:24.535 Game saved successfully (savegame1).
+2025-11-12 07:34:28.823 M@rcin lost connection to the game
