@@ -5322,3 +5322,30 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-13 22:20:07.558 dataS/character/playerM/hairStyles/hairStyleUnkempt.i3d (34.85 ms)
 2025-11-13 22:20:07.572 dataS/character/playerM/facialHair/mHead02/goatee01.i3d (13.77 ms)
 2025-11-13 22:21:09.214   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Valtra VALMET 8750'
+2025-11-13 22:33:13.694   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'New Holland 8340'
+2025-11-13 22:33:48.459 Game saved successfully (savegame1).
+2025-11-13 22:34:07.687 data/objects/bigBagPallet/bigBagPallet.i3d (4.20 ms)
+2025-11-13 22:34:41.624 data/objects/bigBagPallet/bigBagPallet.i3d (4.24 ms)
+2025-11-13 22:36:50.621 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.85 ms)
+2025-11-13 22:36:50.680 data/objects/bigBag/bigBag.i3d (5.40 ms)
+2025-11-13 22:39:05.325   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'CLAAS Lexion 590'
+2025-11-13 22:41:54.067   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'JCB Fastrac 8330'
+2025-11-13 22:42:45.041 dataS/character/playerM/jacket/topDenimJacket.i3d (22.89 ms)
+2025-11-13 22:42:45.074 dataS/character/playerM/hairStyles/hairStyleMidParted01.i3d (32.77 ms)
+2025-11-13 22:42:45.075 dataS/character/playerM/facialHair/mHead01/beardStubble.i3d (1.48 ms)
+2025-11-13 22:43:28.962 Romek lost connection to the game
+2025-11-13 22:52:13.404 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.74 ms)
+2025-11-13 22:52:13.461 data/objects/bigBagPallet/bigBagPallet.i3d (4.67 ms)
+2025-11-13 23:00:33.364 dataS/character/playerF/pants/botYogaPants.i3d (10.76 ms)
+2025-11-13 23:00:33.473 dataS/character/playerF/heads/fHead02.i3d (108.62 ms)
+2025-11-13 23:00:33.521 dataS/character/playerF/shirts/topTankTop.i3d (48.22 ms)
+2025-11-13 23:00:33.612 dataS/character/playerF/shoes/sportSneaker.i3d (91.63 ms)
+2025-11-13 23:00:33.647 dataS/character/playerF/hairStyles/hairStyleLongSideParted.i3d (34.67 ms)
+2025-11-13 23:02:05.575 data/objects/bigBag/bigBag.i3d (4.92 ms)
+2025-11-13 23:02:07.531 data/objects/bigBag/bigBag.i3d (5.39 ms)
+2025-11-13 23:02:07.535 data/objects/bigBagPallet/bigBagPallet.i3d (3.77 ms)
+2025-11-13 23:03:48.965 Game saved successfully (savegame1).
+2025-11-13 23:04:56.405 data/objects/bigBagPallet/bigBagPallet.i3d (3.85 ms)
+2025-11-13 23:08:15.839   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Fendt 728 Vario Chip 330'
+2025-11-13 23:09:49.579   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Fendt 620 Vario - 50km/h'
+2025-11-13 23:17:34.450   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Ford 8930'
