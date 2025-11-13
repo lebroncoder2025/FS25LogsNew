@@ -16489,3 +16489,5 @@ dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to i
 2025-11-13 12:26:27.601 Piotrek left the game
 2025-11-13 12:53:38.902 Game saved successfully (savegame1).
 2025-11-13 13:23:48.396 Game saved successfully (savegame1).
+2025-11-13 13:51:00.671 siwa joined the game
+2025-11-13 13:53:51.697 Game saved successfully (savegame1).
