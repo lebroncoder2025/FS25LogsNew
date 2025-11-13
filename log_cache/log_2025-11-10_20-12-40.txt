@@ -16420,3 +16420,15 @@ dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to i
 2025-11-13 06:38:16.102 dataS/character/playerM/facialHair/mHead01/beardStubble.i3d (1.34 ms)
 2025-11-13 06:52:38.561 Game saved successfully (savegame1).
 2025-11-13 07:22:39.080 Game saved successfully (savegame1).
+2025-11-13 07:36:09.545   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'John Deere 7810'
+2025-11-13 07:39:24.719 data/placeables/rudolfHormann/sheepBarnBig/sheepBarnBig.i3d (17.61 ms)
+2025-11-13 07:39:24.745 data/shared/assets/lights/terraLed/switch.i3d (2.31 ms)
+2025-11-13 07:39:24.748 data/placeables/rudolfHormann/controlPanel/controlPanel.i3d (2.41 ms)
+2025-11-13 07:40:58.656 M@rcin lost connection to the game
+2025-11-13 07:49:02.297 Lewy joined the game
+2025-11-13 07:49:02.636 dataS/character/playerM/pants/poettinger/poettingerShort.i3d (139.35 ms)
+2025-11-13 07:49:02.729 dataS/character/playerM/jacket/claas/claasTop.i3d (93.13 ms)
+2025-11-13 07:49:02.733 dataS/character/playerM/attachments/headgearBeanie.i3d (4.15 ms)
+2025-11-13 07:49:02.735 dataS/character/playerM/attachments/glassesAviators.i3d (1.55 ms)
+2025-11-13 07:49:02.758 dataS/character/playerM/shoes/crok.i3d (23.15 ms)
+2025-11-13 07:49:02.777 dataS/character/playerM/facialHair/mHead01/goatee01.i3d (19.13 ms)
