@@ -16507,3 +16507,5 @@ dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to i
 2025-11-13 15:18:18.634 dataS/character/playerF/jacket/topVest.i3d (24.73 ms)
 2025-11-13 15:18:18.637 dataS/character/playerF/shoes/workboot02.i3d (3.10 ms)
 2025-11-13 15:18:18.671 dataS/character/playerF/hairStyles/hairStylePonyTail03.i3d (34.16 ms)
+2025-11-13 15:23:52.764 Game saved successfully (savegame1).
+2025-11-13 15:25:45.015 Błażej left the game
