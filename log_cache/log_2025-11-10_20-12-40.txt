@@ -16601,3 +16601,67 @@ dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to i
 2025-11-13 18:27:47.149 FTG 'D:/home/sid_8377223/farmingSim_2025/profile/savegame1/densityMap_weed.gdm' max needed CPU instances = 0.071289 MB / 3.445312 MB
 2025-11-13 18:27:47.201 FTG 'D:/home/sid_8377223/farmingSim_2025/profile/savegame1/densityMap_weed.gdm' max needed CPU instances = 0.071320 MB / 3.445312 MB
 2025-11-13 18:31:25.396 data/objects/bigBagPallet/bigBagPallet.i3d (4.15 ms)
+2025-11-13 18:44:36.272 siwa joined the game
+2025-11-13 18:50:12.729 dataS/character/playerM/fullBody/onePieceMechanic.i3d (29.59 ms)
+2025-11-13 18:50:12.744 dataS/character/playerM/heads/mHead02.i3d (15.41 ms)
+2025-11-13 18:50:12.761 dataS/character/playerM/shoes/riding.i3d (16.72 ms)
+2025-11-13 18:50:12.797 dataS/character/playerM/hairStyles/hairStyleUnkempt.i3d (35.65 ms)
+2025-11-13 18:50:12.811 dataS/character/playerM/facialHair/mHead02/goatee01.i3d (13.92 ms)
+2025-11-13 18:50:19.950 dataS/character/playerF/pants/botChinos.i3d (13.83 ms)
+2025-11-13 18:50:20.085 dataS/character/playerF/heads/fHead06.i3d (134.96 ms)
+2025-11-13 18:50:20.149 dataS/character/playerF/shirts/topBlouse.i3d (64.84 ms)
+2025-11-13 18:50:20.152 dataS/character/playerF/shoes/sneaker01.i3d (2.73 ms)
+2025-11-13 18:50:20.195 dataS/character/playerF/hairStyles/hairStyleMidSideParted.i3d (42.31 ms)
+2025-11-13 18:54:12.102 Game saved successfully (savegame1).
+2025-11-13 18:55:34.195 M@rcin joined the game
+2025-11-13 18:55:34.231 dataS/character/playerM/jacket/topAviatorJacket.i3d (18.86 ms)
+2025-11-13 18:55:34.265 dataS/character/playerM/hairStyles/hairStyleDiablo.i3d (33.37 ms)
+2025-11-13 18:55:34.266 dataS/character/playerM/facialHair/mHead01/beardStubble.i3d (1.46 ms)
+2025-11-13 19:00:41.469 dataS/character/playerF/pants/botCargo.i3d (18.14 ms)
+2025-11-13 19:00:41.494 dataS/character/playerF/jacket/topVest.i3d (25.10 ms)
+2025-11-13 19:00:41.497 dataS/character/playerF/shoes/workboot02.i3d (3.19 ms)
+2025-11-13 19:00:41.532 dataS/character/playerF/hairStyles/hairStylePonyTail03.i3d (34.93 ms)
+2025-11-13 19:00:56.887 zone joined the game
+2025-11-13 19:00:56.921 dataS/character/playerM/heads/mHead02.i3d (15.95 ms)
+2025-11-13 19:00:57.015 dataS/character/playerM/jacket/caseIH/caseIHTop.i3d (94.09 ms)
+2025-11-13 19:00:57.021 dataS/character/playerM/attachments/caseIHhat.i3d (6.67 ms)
+2025-11-13 19:00:57.057 dataS/character/playerM/hairStyles/hairStyleFringe.i3d (35.11 ms)
+2025-11-13 19:00:57.072 dataS/character/playerM/facialHair/mHead02/fullBeard.i3d (15.22 ms)
+2025-11-13 19:03:42.052 Piotrek joined the game
+2025-11-13 19:03:42.084 dataS/character/playerM/pants/botChinos.i3d (13.60 ms)
+2025-11-13 19:03:42.160 dataS/character/playerM/shirts/strauss/straussTShirtMerino.i3d (76.42 ms)
+2025-11-13 19:03:42.165 dataS/character/playerM/gloves/glovesGeneric.i3d (5.20 ms)
+2025-11-13 19:03:42.256 dataS/character/playerM/shoes/sandalM03.i3d (91.01 ms)
+2025-11-13 19:03:42.257 dataS/character/playerM/hairStyles/hairStyleBald.i3d (0.29 ms)
+2025-11-13 19:03:45.872 dataS/character/playerM/heads/mHead05.i3d (194.11 ms)
+2025-11-13 19:03:45.967 dataS/character/playerM/shirts/zipNeckPullover.i3d (94.52 ms)
+2025-11-13 19:03:46.000 dataS/character/playerM/hairStyles/hairStyleManBun.i3d (33.49 ms)
+2025-11-13 19:03:46.010 dataS/character/playerM/facialHair/mHead05/goatee02.i3d (9.89 ms)
+2025-11-13 19:04:07.978 dataS/character/playerF/pants/botJeansCapris.i3d (20.40 ms)
+2025-11-13 19:04:08.173 dataS/character/playerF/heads/fHead03.i3d (194.33 ms)
+2025-11-13 19:04:08.221 dataS/character/playerF/shirts/topTankTop.i3d (48.30 ms)
+2025-11-13 19:04:08.224 dataS/character/playerF/shoes/sneaker01.i3d (2.83 ms)
+2025-11-13 19:08:43.902 Piotrek left the game
+2025-11-13 19:09:16.949 Piotrek joined the game
+2025-11-13 19:09:16.981 dataS/character/playerM/pants/botChinos.i3d (13.52 ms)
+2025-11-13 19:09:17.058 dataS/character/playerM/shirts/strauss/straussTShirtMerino.i3d (76.41 ms)
+2025-11-13 19:09:17.063 dataS/character/playerM/gloves/glovesGeneric.i3d (4.98 ms)
+2025-11-13 19:09:17.154 dataS/character/playerM/shoes/sandalM03.i3d (90.92 ms)
+2025-11-13 19:09:17.154 dataS/character/playerM/hairStyles/hairStyleBald.i3d (0.29 ms)
+2025-11-13 19:16:10.291 data/objects/bigBag/bigBag.i3d (7.04 ms)
+2025-11-13 19:16:10.470 data/objects/pallets/raniWrapPallet/raniWrapPallet.i3d (2.28 ms)
+2025-11-13 19:16:10.543 data/objects/pallets/liquidTank/liquidTank.i3d (4.20 ms)
+2025-11-13 19:16:10.581 data/objects/bigBagPallet/bigBagPallet.i3d (5.52 ms)
+2025-11-13 19:18:01.483 data/objects/bigBag/bigBag.i3d (6.11 ms)
+2025-11-13 19:18:01.626 data/objects/pallets/raniWrapPallet/raniWrapPallet.i3d (2.50 ms)
+2025-11-13 19:18:01.768 data/objects/pallets/liquidTank/liquidTank.i3d (4.10 ms)
+2025-11-13 19:18:01.805 data/objects/bigBagPallet/bigBagPallet.i3d (4.28 ms)
+2025-11-13 19:24:17.873 Game saved successfully (savegame1).
+2025-11-13 19:27:28.581 hubsonwaliszot joined the game
+2025-11-13 19:27:28.615 dataS/character/playerM/pants/botJeanShorts.i3d (16.69 ms)
+2025-11-13 19:27:28.898 dataS/character/playerM/shirts/poettinger/poettingerTshirt.i3d (282.93 ms)
+2025-11-13 19:27:28.946 dataS/character/playerM/gloves/strauss/glovesEsTrailLight02.i3d (48.09 ms)
+2025-11-13 19:27:28.992 dataS/character/playerM/attachments/hatWoolen.i3d (45.98 ms)
+2025-11-13 19:27:29.026 dataS/character/playerM/hairStyles/hairStyleMullet.i3d (34.00 ms)
+2025-11-13 19:27:29.038 dataS/character/playerM/facialHair/mHead02/trimmedBeard.i3d (11.37 ms)
+2025-11-13 19:29:19.087   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'DEUTZ-FAHR 6135 C RVshift'
