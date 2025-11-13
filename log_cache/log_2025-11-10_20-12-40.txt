@@ -16695,3 +16695,25 @@ dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to i
 2025-11-13 20:12:52.888 siwa lost connection to the game
 2025-11-13 20:15:12.164   Info: Successfully set fill unit 1 of Lizard MKS 32 to Buffalo Milk with a fill level of 32,000 liters.
 2025-11-13 20:15:38.573   Info: Successfully emptied fill unit 1 of Lizard MKS 32.
+2025-11-13 20:19:37.375 Błażej joined the game
+2025-11-13 20:19:37.483 dataS/character/playerM/shoes/sportSneaker.i3d (91.73 ms)
+2025-11-13 20:19:37.518 dataS/character/playerM/hairStyles/hairStyleFringe.i3d (34.92 ms)
+2025-11-13 20:20:42.852 hubsonwaliszot joined the game
+2025-11-13 20:20:42.884 dataS/character/playerM/pants/botJeanShorts.i3d (16.75 ms)
+2025-11-13 20:20:42.900 dataS/character/playerM/heads/mHead02.i3d (16.30 ms)
+2025-11-13 20:20:43.184 dataS/character/playerM/shirts/poettinger/poettingerTshirt.i3d (283.16 ms)
+2025-11-13 20:20:43.233 dataS/character/playerM/gloves/strauss/glovesEsTrailLight02.i3d (48.35 ms)
+2025-11-13 20:20:43.278 dataS/character/playerM/attachments/hatWoolen.i3d (45.84 ms)
+2025-11-13 20:20:43.280 dataS/character/playerM/attachments/glassesAviators.i3d (1.95 ms)
+2025-11-13 20:20:43.315 dataS/character/playerM/hairStyles/hairStyleMullet.i3d (34.49 ms)
+2025-11-13 20:20:43.327 dataS/character/playerM/facialHair/mHead02/trimmedBeard.i3d (11.42 ms)
+2025-11-13 20:24:34.544 Game saved successfully (savegame1).
+2025-11-13 20:24:54.795 045 Polskinoob joined the game
+2025-11-13 20:24:54.912 dataS/character/playerM/pants/strauss/motionPants.i3d (101.17 ms)
+2025-11-13 20:24:54.924 dataS/character/playerM/shirts/ero/eroSweater.i3d (11.46 ms)
+2025-11-13 20:24:54.929 dataS/character/playerM/gloves/glovesMechanic.i3d (5.15 ms)
+2025-11-13 20:24:54.942 dataS/character/playerM/attachments/headgearMotorbike.i3d (13.35 ms)
+2025-11-13 20:24:54.967 dataS/character/playerM/shoes/newHolland/newHolland01.i3d (24.78 ms)
+2025-11-13 20:28:11.939 data/objects/bigBag/bigBag.i3d (6.63 ms)
+2025-11-13 20:29:59.373 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.57 ms)
+2025-11-13 20:29:59.459 data/objects/bigBag/bigBag.i3d (5.77 ms)
