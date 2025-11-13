@@ -16470,3 +16470,4 @@ dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to i
 2025-11-13 10:25:09.921 dataS/character/playerM/shirts/zipNeckPullover.i3d (93.96 ms)
 2025-11-13 10:25:09.955 dataS/character/playerM/hairStyles/hairStyleManBun.i3d (33.24 ms)
 2025-11-13 10:25:09.965 dataS/character/playerM/facialHair/mHead05/goatee02.i3d (9.94 ms)
+2025-11-13 10:36:46.546   Info: Operating time of Fendt 620 Vario - 50km/h (AI worker G) changed to 190 h.
