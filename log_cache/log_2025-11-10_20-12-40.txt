@@ -16526,3 +16526,16 @@ dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to i
 2025-11-13 16:17:02.614 dataS/character/playerM/shoes/crok.i3d (23.27 ms)
 2025-11-13 16:17:02.633 dataS/character/playerM/facialHair/mHead01/goatee01.i3d (19.22 ms)
 2025-11-13 16:24:06.078 Game saved successfully (savegame1).
+2025-11-13 16:29:58.164 045 Polskinoob joined the game
+2025-11-13 16:29:58.304 dataS/character/playerM/pants/strauss/motionPants.i3d (125.41 ms)
+2025-11-13 16:29:58.318 dataS/character/playerM/shirts/ero/eroSweater.i3d (14.35 ms)
+2025-11-13 16:29:58.324 dataS/character/playerM/gloves/glovesMechanic.i3d (5.91 ms)
+2025-11-13 16:29:58.342 dataS/character/playerM/attachments/headgearMotorbike.i3d (16.96 ms)
+2025-11-13 16:29:58.372 dataS/character/playerM/shoes/newHolland/newHolland01.i3d (29.98 ms)
+2025-11-13 16:37:22.403 hubsonwaliszot joined the game
+2025-11-13 16:37:22.435 dataS/character/playerM/pants/botJeanShorts.i3d (16.63 ms)
+2025-11-13 16:37:22.785 dataS/character/playerM/shirts/poettinger/poettingerTshirt.i3d (348.71 ms)
+2025-11-13 16:37:22.844 dataS/character/playerM/gloves/strauss/glovesEsTrailLight02.i3d (59.28 ms)
+2025-11-13 16:37:22.902 dataS/character/playerM/attachments/hatWoolen.i3d (57.86 ms)
+2025-11-13 16:37:22.985 dataS/character/playerM/hairStyles/hairStyleMullet.i3d (82.80 ms)
+2025-11-13 16:37:23.016 dataS/character/playerM/facialHair/mHead02/trimmedBeard.i3d (31.73 ms)
