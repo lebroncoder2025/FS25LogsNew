@@ -16400,3 +16400,8 @@ dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to i
 2025-11-13 00:14:26.832 dataS/character/playerF/shoes/workboot02.i3d (3.20 ms)
 2025-11-13 00:14:26.866 dataS/character/playerF/hairStyles/hairStylePonyTail03.i3d (33.60 ms)
 2025-11-13 00:20:32.854 Game saved successfully (savegame1).
+2025-11-13 00:36:48.634 Lewy left the game
+2025-11-13 00:50:43.114 Game saved successfully (savegame1).
+2025-11-13 01:20:51.638 Game saved successfully (savegame1).
+2025-11-13 01:51:01.042 Game saved successfully (savegame1).
+2025-11-13 02:21:10.259 Game saved successfully (savegame1).
