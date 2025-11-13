@@ -5366,3 +5366,5 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-13 23:29:32.437 dataS/character/playerF/shoes/sportSneaker.i3d (91.14 ms)
 2025-11-13 23:29:32.512 dataS/character/playerF/hairStyles/hairStyleLongSideParted.i3d (34.18 ms)
 2025-11-13 23:33:50.323 Game saved successfully (savegame1).
+2025-11-13 23:49:51.611   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Case IH 160 CVX'
+2025-11-14 00:03:53.304 Game saved successfully (savegame1).
