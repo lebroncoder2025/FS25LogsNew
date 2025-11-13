@@ -5349,3 +5349,20 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-13 23:08:15.839   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Fendt 728 Vario Chip 330'
 2025-11-13 23:09:49.579   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Fendt 620 Vario - 50km/h'
 2025-11-13 23:17:34.450   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Ford 8930'
+2025-11-13 23:26:41.765   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Case IH 160 CVX'
+2025-11-13 23:28:04.324 Piotrek joined the game
+2025-11-13 23:28:04.351 dataS/character/playerM/pants/botChinos.i3d (13.19 ms)
+2025-11-13 23:28:04.427 dataS/character/playerM/shirts/strauss/straussTShirtMerino.i3d (76.13 ms)
+2025-11-13 23:28:04.432 dataS/character/playerM/gloves/glovesGeneric.i3d (4.98 ms)
+2025-11-13 23:28:04.522 dataS/character/playerM/shoes/sandalM03.i3d (90.67 ms)
+2025-11-13 23:28:04.523 dataS/character/playerM/hairStyles/hairStyleBald.i3d (0.27 ms)
+2025-11-13 23:29:16.325 dataS/character/playerF/pants/botCargo.i3d (17.63 ms)
+2025-11-13 23:29:16.404 dataS/character/playerF/jacket/topVest.i3d (24.43 ms)
+2025-11-13 23:29:16.452 dataS/character/playerF/shoes/workboot02.i3d (3.20 ms)
+2025-11-13 23:29:16.486 dataS/character/playerF/hairStyles/hairStylePonyTail03.i3d (33.89 ms)
+2025-11-13 23:29:32.190 dataS/character/playerF/pants/botYogaPants.i3d (10.71 ms)
+2025-11-13 23:29:32.298 dataS/character/playerF/heads/fHead02.i3d (108.29 ms)
+2025-11-13 23:29:32.346 dataS/character/playerF/shirts/topTankTop.i3d (47.92 ms)
+2025-11-13 23:29:32.437 dataS/character/playerF/shoes/sportSneaker.i3d (91.14 ms)
+2025-11-13 23:29:32.512 dataS/character/playerF/hairStyles/hairStyleLongSideParted.i3d (34.18 ms)
+2025-11-13 23:33:50.323 Game saved successfully (savegame1).
