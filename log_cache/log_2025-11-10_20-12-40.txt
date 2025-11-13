@@ -16479,3 +16479,11 @@ dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to i
 2025-11-13 11:04:51.967 zwierek left the game
 2025-11-13 11:23:11.144 Game saved successfully (savegame1).
 2025-11-13 11:53:21.341 Game saved successfully (savegame1).
+2025-11-13 12:23:17.297 Piotrek joined the game
+2025-11-13 12:23:17.508 dataS/character/playerM/pants/botChinos.i3d (14.37 ms)
+2025-11-13 12:23:17.604 dataS/character/playerM/shirts/strauss/straussTShirtMerino.i3d (95.49 ms)
+2025-11-13 12:23:17.616 dataS/character/playerM/gloves/glovesGeneric.i3d (11.75 ms)
+2025-11-13 12:23:17.707 dataS/character/playerM/shoes/sandalM03.i3d (91.07 ms)
+2025-11-13 12:23:17.707 dataS/character/playerM/hairStyles/hairStyleBald.i3d (0.52 ms)
+2025-11-13 12:23:30.617 Game saved successfully (savegame1).
+2025-11-13 12:26:27.601 Piotrek left the game
