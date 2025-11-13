@@ -16499,3 +16499,11 @@ dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to i
 2025-11-13 14:45:13.989 siwa left the game
 2025-11-13 14:45:58.023 dataS/character/animals/domesticated/goat/goatKid/goatKid_posed.i3d (13.51 ms)
 2025-11-13 14:47:54.008 dataS/character/animals/domesticated/goat/goat/goat_posed.i3d (22.07 ms)
+2025-11-13 14:51:18.669 dataS/character/animals/domesticated/goat/goat/goat_posed.i3d (15.34 ms)
+2025-11-13 14:53:02.479 dataS/character/animals/domesticated/goat/goat/goat_posed.i3d (15.66 ms)
+2025-11-13 14:53:52.109 Game saved successfully (savegame1).
+2025-11-13 14:54:51.521 dataS/character/animals/domesticated/goat/goat/goat_posed.i3d (15.62 ms)
+2025-11-13 15:18:18.609 dataS/character/playerF/pants/botCargo.i3d (17.94 ms)
+2025-11-13 15:18:18.634 dataS/character/playerF/jacket/topVest.i3d (24.73 ms)
+2025-11-13 15:18:18.637 dataS/character/playerF/shoes/workboot02.i3d (3.10 ms)
+2025-11-13 15:18:18.671 dataS/character/playerF/hairStyles/hairStylePonyTail03.i3d (34.16 ms)
