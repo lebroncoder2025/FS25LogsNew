@@ -16547,3 +16547,14 @@ dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to i
 2025-11-13 17:07:53.076 dataS/character/playerF/shoes/sneaker01.i3d (2.85 ms)
 2025-11-13 17:09:09.002 data/objects/bigBag/bigBag.i3d (6.12 ms)
 2025-11-13 17:24:07.807 Game saved successfully (savegame1).
+2025-11-13 17:34:04.202 045 Polskinoob lost connection to the game
+2025-11-13 17:34:45.883 045 Polskinoob joined the game
+2025-11-13 17:34:45.999 dataS/character/playerM/pants/strauss/motionPants.i3d (100.88 ms)
+2025-11-13 17:34:46.011 dataS/character/playerM/shirts/ero/eroSweater.i3d (11.80 ms)
+2025-11-13 17:34:46.016 dataS/character/playerM/gloves/glovesMechanic.i3d (5.07 ms)
+2025-11-13 17:34:46.029 dataS/character/playerM/attachments/headgearMotorbike.i3d (12.86 ms)
+2025-11-13 17:34:46.053 dataS/character/playerM/shoes/newHolland/newHolland01.i3d (24.17 ms)
+2025-11-13 17:44:55.136 data/objects/bigBagPallet/bigBagPallet.i3d (4.54 ms)
+2025-11-13 17:45:00.244 data/objects/bigBagPallet/bigBagPallet.i3d (4.32 ms)
+2025-11-13 17:45:26.010 data/objects/bigBagPallet/bigBagPallet.i3d (4.66 ms)
+2025-11-13 17:45:58.639 data/objects/bigBagPallet/bigBagPallet.i3d (4.08 ms)
