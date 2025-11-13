@@ -16509,3 +16509,20 @@ dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to i
 2025-11-13 15:18:18.671 dataS/character/playerF/hairStyles/hairStylePonyTail03.i3d (34.16 ms)
 2025-11-13 15:23:52.764 Game saved successfully (savegame1).
 2025-11-13 15:25:45.015 Błażej left the game
+2025-11-13 15:54:06.526 Game saved successfully (savegame1).
+2025-11-13 16:09:08.687 zone joined the game
+2025-11-13 16:09:08.901 dataS/character/playerM/heads/mHead02.i3d (15.20 ms)
+2025-11-13 16:09:08.996 dataS/character/playerM/jacket/caseIH/caseIHTop.i3d (95.53 ms)
+2025-11-13 16:09:09.003 dataS/character/playerM/attachments/caseIHhat.i3d (6.62 ms)
+2025-11-13 16:09:09.036 dataS/character/playerM/hairStyles/hairStyleFringe.i3d (33.62 ms)
+2025-11-13 16:09:09.051 dataS/character/playerM/facialHair/mHead02/fullBeard.i3d (14.68 ms)
+2025-11-13 16:16:30.905 dataS/character/playerM/pants/botLeather.i3d (17.99 ms)
+2025-11-13 16:16:30.935 dataS/character/playerM/jacket/topVest.i3d (30.08 ms)
+2025-11-13 16:17:02.336 Lewy joined the game
+2025-11-13 16:17:02.491 dataS/character/playerM/pants/poettinger/poettingerShort.i3d (140.48 ms)
+2025-11-13 16:17:02.584 dataS/character/playerM/jacket/claas/claasTop.i3d (93.65 ms)
+2025-11-13 16:17:02.589 dataS/character/playerM/attachments/headgearBeanie.i3d (4.27 ms)
+2025-11-13 16:17:02.590 dataS/character/playerM/attachments/glassesAviators.i3d (1.62 ms)
+2025-11-13 16:17:02.614 dataS/character/playerM/shoes/crok.i3d (23.27 ms)
+2025-11-13 16:17:02.633 dataS/character/playerM/facialHair/mHead01/goatee01.i3d (19.22 ms)
+2025-11-13 16:24:06.078 Game saved successfully (savegame1).
