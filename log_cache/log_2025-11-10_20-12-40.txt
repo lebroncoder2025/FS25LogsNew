@@ -16496,3 +16496,6 @@ dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to i
 2025-11-13 14:26:32.531 dataS/character/playerM/shirts/topTShirt01.i3d (2.45 ms)
 2025-11-13 14:26:32.643 dataS/character/playerM/shoes/sportSneaker.i3d (111.85 ms)
 2025-11-13 14:26:32.677 dataS/character/playerM/hairStyles/hairStyleFringe.i3d (34.50 ms)
+2025-11-13 14:45:13.989 siwa left the game
+2025-11-13 14:45:58.023 dataS/character/animals/domesticated/goat/goatKid/goatKid_posed.i3d (13.51 ms)
+2025-11-13 14:47:54.008 dataS/character/animals/domesticated/goat/goat/goat_posed.i3d (22.07 ms)
