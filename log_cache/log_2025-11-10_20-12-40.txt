@@ -16830,3 +16830,25 @@ dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to i
 2025-11-13 21:30:22.049   Info: Successfully emptied fill unit 1 of Fendt 620 Vario - 50km/h.
 2025-11-13 21:30:26.842   Info: Successfully set fill unit 1 of Fendt 620 Vario - 50km/h to Diesel with a fill level of 347 liters.
 2025-11-13 21:30:36.506   Info: Successfully emptied fill unit 1 of Lizard MKS 32.
+2025-11-13 21:50:55.104 Game saved successfully (savegame1).
+2025-11-13 21:51:36.715 Game saved successfully (savegame1).
+2025-11-13 21:51:37.205 Warning: Send called with unknown target address.
+2025-11-13 21:51:37.206 Warning: Send called with unknown target address.
+2025-11-13 21:51:37.207 Warning: Send called with unknown target address.
+2025-11-13 21:51:37.218 Warning: Send called with unknown target address.
+2025-11-13 21:51:37.232 Jolero left the game
+2025-11-13 21:52:09.610 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_HayLoft/Dmuchawa1_4M.i3d (7.28 ms)
+2025-11-13 21:52:30.055 hubsonwaliszot left the game
+2025-11-13 21:53:25.510 zwierek lost connection to the game
+2025-11-13 21:53:27.293 M1odyHaze lost connection to the game
+2025-11-13 21:54:38.623 zwierek joined the game
+2025-11-13 21:54:38.654 dataS/character/playerM/pants/botJeanShorts.i3d (16.66 ms)
+2025-11-13 21:54:38.746 dataS/character/playerM/shoes/sandalM03.i3d (90.74 ms)
+2025-11-13 21:54:38.777 dataS/character/playerM/hairStyles/hairStyleBaldTop.i3d (31.07 ms)
+2025-11-13 21:54:38.786 dataS/character/playerM/facialHair/mHead01/walrusXL.i3d (8.87 ms)
+2025-11-13 21:54:48.030 Game saved successfully (savegame1).
+2025-11-13 21:56:13.816 M@rcin lost connection to the game
+2025-11-13 21:56:31.314 Warning: Send called with unknown target address.
+2025-11-13 21:56:31.326 Błażej left the game
+2025-11-13 21:56:34.487   Info: [Easy Development Controls] User zwierek has logged in as master user.
+2025-11-13 21:56:48.229 Game saved successfully (savegame1).
