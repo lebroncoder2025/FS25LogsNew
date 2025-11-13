@@ -5368,3 +5368,8 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-13 23:33:50.323 Game saved successfully (savegame1).
 2025-11-13 23:49:51.611   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Case IH 160 CVX'
 2025-11-14 00:03:53.304 Game saved successfully (savegame1).
+2025-11-14 00:31:15.448 dataS/character/playerF/pants/botChinos.i3d (3.56 ms)
+2025-11-14 00:31:52.311 dataS/character/playerM/fullBody/onePieceMechanic.i3d (28.87 ms)
+2025-11-14 00:31:52.327 dataS/character/playerM/shoes/riding.i3d (16.54 ms)
+2025-11-14 00:33:56.517 Game saved successfully (savegame1).
+2025-11-14 00:34:11.628 zone lost connection to the game
