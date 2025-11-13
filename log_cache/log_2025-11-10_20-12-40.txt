@@ -16826,3 +16826,7 @@ dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to i
 2025-11-13 21:14:46.614 data/objects/bigBag/bigBag.i3d (6.70 ms)
 2025-11-13 21:14:47.688 data/objects/bigBag/bigBag.i3d (5.91 ms)
 2025-11-13 21:24:43.203 Game saved successfully (savegame1).
+2025-11-13 21:27:25.558 M1odyHaze joined the game
+2025-11-13 21:30:22.049   Info: Successfully emptied fill unit 1 of Fendt 620 Vario - 50km/h.
+2025-11-13 21:30:26.842   Info: Successfully set fill unit 1 of Fendt 620 Vario - 50km/h to Diesel with a fill level of 347 liters.
+2025-11-13 21:30:36.506   Info: Successfully emptied fill unit 1 of Lizard MKS 32.
