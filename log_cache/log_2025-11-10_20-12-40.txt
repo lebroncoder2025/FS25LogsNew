@@ -16413,3 +16413,8 @@ dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to i
 2025-11-13 05:22:19.739 Game saved successfully (savegame1).
 2025-11-13 05:52:28.489 Game saved successfully (savegame1).
 2025-11-13 06:22:38.233 Game saved successfully (savegame1).
+2025-11-13 06:38:15.845 M@rcin joined the game
+2025-11-13 06:38:16.062 dataS/character/playerM/jacket/topAviatorJacket.i3d (18.37 ms)
+2025-11-13 06:38:16.068 dataS/character/playerM/attachments/glassesAviators.i3d (5.83 ms)
+2025-11-13 06:38:16.101 dataS/character/playerM/hairStyles/hairStyleDiablo.i3d (32.43 ms)
+2025-11-13 06:38:16.102 dataS/character/playerM/facialHair/mHead01/beardStubble.i3d (1.34 ms)
