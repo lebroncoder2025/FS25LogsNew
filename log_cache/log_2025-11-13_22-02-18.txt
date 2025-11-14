@@ -5582,3 +5582,21 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-14 14:12:57.615 siwa left the game
 2025-11-14 14:13:07.616 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_RounderWrappedRoundbales/assets/roundbale180/roundbale180.i3d (7.61 ms)
 2025-11-14 14:19:55.630 siwa joined the game
+2025-11-14 14:34:09.567 dataS/character/playerF/pants/botJeansCapris.i3d (26.43 ms)
+2025-11-14 14:34:09.804 dataS/character/playerF/heads/fHead03.i3d (237.39 ms)
+2025-11-14 14:34:09.871 dataS/character/playerF/shirts/topTankTop.i3d (66.75 ms)
+2025-11-14 14:34:09.874 dataS/character/playerF/shoes/sneaker01.i3d (2.69 ms)
+2025-11-14 14:34:56.856 045 Polskinoob left the game
+2025-11-14 14:35:54.422 Game saved successfully (savegame1).
+2025-11-14 14:39:18.875 dataS/character/playerF/pants/botChinos.i3d (3.49 ms)
+2025-11-14 14:39:19.070 dataS/character/playerF/heads/fHead04.i3d (194.52 ms)
+2025-11-14 14:39:19.088 dataS/character/playerF/jacket/topAviatorJacket.i3d (18.60 ms)
+2025-11-14 14:39:19.164 dataS/character/playerF/shoes/laceUpSneaker.i3d (75.78 ms)
+2025-11-14 14:39:19.200 dataS/character/playerF/hairStyles/hairStylePonyTail01.i3d (35.47 ms)
+2025-11-14 14:40:14.914 dataS/character/playerM/pants/botLeather.i3d (17.38 ms)
+2025-11-14 14:40:15.107 dataS/character/playerM/heads/mHead03.i3d (192.88 ms)
+2025-11-14 14:40:15.140 dataS/character/playerM/hairStyles/hairStyleMidParted01.i3d (33.18 ms)
+2025-11-14 14:40:17.048 dataS/character/playerF/heads/fHead06.i3d (107.97 ms)
+2025-11-14 14:40:17.101 dataS/character/playerF/shirts/topBlouse.i3d (53.19 ms)
+2025-11-14 14:40:17.104 dataS/character/playerF/shoes/sneaker01.i3d (2.72 ms)
+2025-11-14 14:40:17.138 dataS/character/playerF/hairStyles/hairStyleMidSideParted.i3d (34.49 ms)
