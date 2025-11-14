@@ -5419,3 +5419,28 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-14 05:48:49.770 M@rcin lost connection to the game
 2025-11-14 06:05:02.082 Game saved successfully (savegame1).
 2025-11-14 06:35:02.303 Game saved successfully (savegame1).
+2025-11-14 06:45:29.938 hubsonwaliszot joined the game
+2025-11-14 06:45:29.974 dataS/character/playerM/pants/botJeanShorts.i3d (16.32 ms)
+2025-11-14 06:45:29.987 dataS/character/playerM/heads/mHead02.i3d (13.44 ms)
+2025-11-14 06:45:30.268 dataS/character/playerM/shirts/poettinger/poettingerTshirt.i3d (281.62 ms)
+2025-11-14 06:45:30.316 dataS/character/playerM/gloves/strauss/glovesEsTrailLight02.i3d (47.63 ms)
+2025-11-14 06:45:30.362 dataS/character/playerM/attachments/hatWoolen.i3d (45.72 ms)
+2025-11-14 06:45:30.395 dataS/character/playerM/hairStyles/hairStyleMullet.i3d (32.83 ms)
+2025-11-14 06:45:30.406 dataS/character/playerM/facialHair/mHead02/trimmedBeard.i3d (10.92 ms)
+2025-11-14 06:59:07.415 dataS/character/playerF/pants/botChinos.i3d (13.43 ms)
+2025-11-14 06:59:07.606 dataS/character/playerF/heads/fHead04.i3d (190.75 ms)
+2025-11-14 06:59:07.624 dataS/character/playerF/jacket/topAviatorJacket.i3d (18.37 ms)
+2025-11-14 06:59:07.699 dataS/character/playerF/shoes/laceUpSneaker.i3d (75.16 ms)
+2025-11-14 06:59:07.734 dataS/character/playerF/hairStyles/hairStylePonyTail01.i3d (35.17 ms)
+2025-11-14 07:03:35.927 M@rcin joined the game
+2025-11-14 07:03:35.945 dataS/character/playerM/jacket/topAviatorJacket.i3d (4.80 ms)
+2025-11-14 07:03:35.978 dataS/character/playerM/hairStyles/hairStyleDiablo.i3d (32.55 ms)
+2025-11-14 07:03:36.009 dataS/character/playerM/facialHair/mHead01/beardStubble.i3d (1.49 ms)
+2025-11-14 07:05:05.291 Game saved successfully (savegame1).
+2025-11-14 07:27:18.270 M@rcin lost connection to the game
+2025-11-14 07:31:52.790 data/objects/bigBagPallet/bigBagPallet.i3d (3.89 ms)
+2025-11-14 07:31:53.781 data/objects/bigBag/bigBag.i3d (5.48 ms)
+2025-11-14 07:32:12.836 data/objects/bigBagPallet/bigBagPallet.i3d (3.96 ms)
+2025-11-14 07:32:13.819 data/objects/bigBag/bigBag.i3d (4.91 ms)
+2025-11-14 07:32:32.236 data/objects/bigBag/bigBag.i3d (4.89 ms)
+2025-11-14 07:32:32.240 data/objects/bigBagPallet/bigBagPallet.i3d (3.67 ms)
