@@ -5587,3 +5587,13 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-14 23:01:01.532 zone lost connection to the game
 2025-11-14 23:09:29.585 Game saved successfully (savegame1).
 2025-11-14 23:19:45.486   Info: No 'ExhaustExtension' particle system added to vehicle 'Lizard Screw conveyor' because it has no exhaust
+2025-11-14 23:35:38.152   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Ursus C-385A Fast transmission'
+2025-11-14 23:37:24.665 zwierek joined the game
+2025-11-14 23:37:24.696 dataS/character/playerM/pants/botJeanShorts.i3d (16.48 ms)
+2025-11-14 23:37:24.697 dataS/character/playerM/attachments/glassesAviators.i3d (1.45 ms)
+2025-11-14 23:37:24.699 dataS/character/playerM/shoes/sandalM03.i3d (1.35 ms)
+2025-11-14 23:37:24.730 dataS/character/playerM/hairStyles/hairStyleBaldTop.i3d (30.88 ms)
+2025-11-14 23:37:24.739 dataS/character/playerM/facialHair/mHead01/walrusXL.i3d (8.93 ms)
+2025-11-14 23:37:54.811 Jolero joined the game
+2025-11-14 23:37:54.846 dataS/character/playerM/facialHair/mHead01/goatee01.i3d (19.29 ms)
+2025-11-14 23:38:58.787   Info: [Easy Development Controls] User Jolero has logged in as master user.
