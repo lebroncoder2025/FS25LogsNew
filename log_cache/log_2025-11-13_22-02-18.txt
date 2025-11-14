@@ -5572,3 +5572,13 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-14 14:00:35.490 dataS/character/playerM/shirts/zipNeckPullover.i3d (93.36 ms)
 2025-11-14 14:00:35.523 dataS/character/playerM/hairStyles/hairStyleManBun.i3d (32.96 ms)
 2025-11-14 14:00:35.533 dataS/character/playerM/facialHair/mHead05/goatee02.i3d (9.73 ms)
+2025-11-14 14:05:49.983 Game saved successfully (savegame1).
+2025-11-14 14:06:59.688 dataS/character/playerM/heads/mHead05.i3d (191.40 ms)
+2025-11-14 14:06:59.781 dataS/character/playerM/shirts/zipNeckPullover.i3d (93.45 ms)
+2025-11-14 14:06:59.814 dataS/character/playerM/hairStyles/hairStyleManBun.i3d (32.91 ms)
+2025-11-14 14:06:59.824 dataS/character/playerM/facialHair/mHead05/goatee02.i3d (9.84 ms)
+2025-11-14 14:08:06.443 siwa lost connection to the game
+2025-11-14 14:09:50.925 siwa joined the game
+2025-11-14 14:12:57.615 siwa left the game
+2025-11-14 14:13:07.616 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_RounderWrappedRoundbales/assets/roundbale180/roundbale180.i3d (7.61 ms)
+2025-11-14 14:19:55.630 siwa joined the game
