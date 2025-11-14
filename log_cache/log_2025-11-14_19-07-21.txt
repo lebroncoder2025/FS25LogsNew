@@ -5325,3 +5325,21 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-14 19:29:47.506   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'New Holland 8340'
 2025-11-14 19:30:35.333 data/objects/bigBagPallet/bigBagPallet.i3d (3.95 ms)
 2025-11-14 19:31:04.982 data/objects/bigBagPallet/bigBagPallet.i3d (4.01 ms)
+2025-11-14 19:34:25.286   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'DEUTZ-FAHR 6135 C RVshift'
+2025-11-14 19:35:17.501   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'JCB Fastrac 8330'
+2025-11-14 19:37:40.310 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_RounderWrappedRoundbales/assets/roundbale180/roundbale180.i3d (1.75 ms)
+2025-11-14 19:38:08.646   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Fendt 620 Vario - 50km/h'
+2025-11-14 19:38:46.166 dataS/character/playerF/pants/botCargo.i3d (18.15 ms)
+2025-11-14 19:38:46.191 dataS/character/playerF/jacket/topVest.i3d (25.14 ms)
+2025-11-14 19:38:46.248 dataS/character/playerF/shoes/workboot02.i3d (3.21 ms)
+2025-11-14 19:38:46.282 dataS/character/playerF/hairStyles/hairStylePonyTail03.i3d (34.48 ms)
+2025-11-14 19:38:53.733 Game saved successfully (savegame1).
+2025-11-14 19:43:21.866   Info: [Easy Development Controls] User zwierek has logged in as master user.
+2025-11-14 19:43:27.286   Info: Moved player to coordinates 645, 849 successfully.
+2025-11-14 19:46:14.174 Jolero joined the game
+2025-11-14 19:46:14.192 dataS/character/playerM/shirts/topTShirt01.i3d (2.30 ms)
+2025-11-14 19:47:06.961   Info: Moved player to coordinates 717, 929 successfully.
+2025-11-14 19:47:09.039   Info: [Easy Development Controls] User Jolero has logged in as master user.
+2025-11-14 19:47:41.019   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Fendt 832 Vario Gen5 - 60km/h'
+2025-11-14 19:48:15.306 zone lost connection to the game
+2025-11-14 19:49:00.149   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Fendt 728 Vario Chip 330'
