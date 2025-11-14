@@ -5373,3 +5373,25 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-14 00:31:52.327 dataS/character/playerM/shoes/riding.i3d (16.54 ms)
 2025-11-14 00:33:56.517 Game saved successfully (savegame1).
 2025-11-14 00:34:11.628 zone lost connection to the game
+2025-11-14 00:35:14.289 zone joined the game
+2025-11-14 00:35:14.398 dataS/character/playerM/jacket/caseIH/caseIHTop.i3d (93.77 ms)
+2025-11-14 00:35:14.405 dataS/character/playerM/attachments/caseIHhat.i3d (6.55 ms)
+2025-11-14 00:35:14.438 dataS/character/playerM/hairStyles/hairStyleFringe.i3d (33.62 ms)
+2025-11-14 00:35:14.453 dataS/character/playerM/facialHair/mHead02/fullBeard.i3d (14.63 ms)
+2025-11-14 00:41:46.733   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Case IH 160 CVX'
+2025-11-14 00:52:56.585 data/objects/bigBag/bigBag.i3d (5.23 ms)
+2025-11-14 00:54:48.542 Piotrek left the game
+2025-11-14 00:55:55.029 Piotrek joined the game
+2025-11-14 00:55:55.057 dataS/character/playerM/pants/botChinos.i3d (13.06 ms)
+2025-11-14 00:55:55.133 dataS/character/playerM/shirts/strauss/straussTShirtMerino.i3d (75.33 ms)
+2025-11-14 00:55:55.138 dataS/character/playerM/gloves/glovesGeneric.i3d (4.87 ms)
+2025-11-14 00:55:55.228 dataS/character/playerM/shoes/sandalM03.i3d (90.79 ms)
+2025-11-14 00:55:55.229 dataS/character/playerM/hairStyles/hairStyleBald.i3d (0.27 ms)
+2025-11-14 01:03:59.772 Game saved successfully (savegame1).
+2025-11-14 01:10:37.729 zone lost connection to the game
+2025-11-14 01:11:27.819 Piotrek left the game
+2025-11-14 01:16:00.914 hubsonwaliszot left the game
+2025-11-14 01:24:36.823 Lewy left the game
+2025-11-14 01:34:08.333 Game saved successfully (savegame1).
+2025-11-14 02:04:17.682 Game saved successfully (savegame1).
+2025-11-14 02:34:26.635 Game saved successfully (savegame1).
