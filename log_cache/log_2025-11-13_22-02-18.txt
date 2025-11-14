@@ -5530,3 +5530,30 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-14 12:18:35.546 data/objects/bigBagPallet/bigBagPallet.i3d (4.25 ms)
 2025-11-14 12:23:55.151 dataS/character/playerM/pants/botLeather.i3d (17.58 ms)
 2025-11-14 12:23:55.183 dataS/character/playerM/jacket/topVest.i3d (32.90 ms)
+2025-11-14 12:35:28.699 Game saved successfully (savegame1).
+2025-11-14 12:37:03.933 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.73 ms)
+2025-11-14 12:43:45.159 dataS/character/playerM/pants/botLeather.i3d (17.29 ms)
+2025-11-14 12:43:45.188 dataS/character/playerM/jacket/topVest.i3d (29.68 ms)
+2025-11-14 12:52:36.014 dataS/character/playerF/pants/botChinos.i3d (3.56 ms)
+2025-11-14 12:52:36.121 dataS/character/playerF/heads/fHead06.i3d (107.30 ms)
+2025-11-14 12:52:36.185 dataS/character/playerF/shirts/topBlouse.i3d (64.34 ms)
+2025-11-14 12:52:36.189 dataS/character/playerF/shoes/sneaker01.i3d (3.48 ms)
+2025-11-14 12:52:36.230 dataS/character/playerF/hairStyles/hairStyleMidSideParted.i3d (41.26 ms)
+2025-11-14 12:57:52.786 siwa joined the game
+2025-11-14 13:00:54.637   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'John Deere 6195M Chiptuning 50km/h'
+2025-11-14 13:05:37.013 Game saved successfully (savegame1).
+2025-11-14 13:07:25.548   Info: Successfully set fill unit 2 of HORSCH Avatar 12.25 SD to Solid Fertilizer with a fill level of 3,840 liters.
+2025-11-14 13:14:02.499 dataS/character/playerF/pants/botChinos.i3d (3.78 ms)
+2025-11-14 13:14:02.690 dataS/character/playerF/heads/fHead04.i3d (191.26 ms)
+2025-11-14 13:14:02.709 dataS/character/playerF/jacket/topAviatorJacket.i3d (18.36 ms)
+2025-11-14 13:14:02.784 dataS/character/playerF/shoes/laceUpSneaker.i3d (75.03 ms)
+2025-11-14 13:14:02.819 dataS/character/playerF/hairStyles/hairStylePonyTail01.i3d (35.51 ms)
+2025-11-14 13:35:46.209 Game saved successfully (savegame1).
+2025-11-14 13:40:54.506   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'JCB 575-67'
+2025-11-14 13:45:45.437   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'New Holland T6.160'
+2025-11-14 13:45:45.581 045 Polskinoob joined the game
+2025-11-14 13:45:45.726 dataS/character/playerM/pants/strauss/motionPants.i3d (127.41 ms)
+2025-11-14 13:45:45.741 dataS/character/playerM/shirts/ero/eroSweater.i3d (14.58 ms)
+2025-11-14 13:45:45.748 dataS/character/playerM/gloves/glovesMechanic.i3d (6.99 ms)
+2025-11-14 13:45:45.765 dataS/character/playerM/attachments/headgearMotorbike.i3d (17.29 ms)
+2025-11-14 13:45:45.797 dataS/character/playerM/shoes/newHolland/newHolland01.i3d (31.50 ms)
