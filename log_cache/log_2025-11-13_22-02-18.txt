@@ -5485,3 +5485,12 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-14 10:32:01.803 dataS/character/playerM/hairStyles/hairStyleFringe.i3d (33.74 ms)
 2025-11-14 10:32:01.818 dataS/character/playerM/facialHair/mHead02/fullBeard.i3d (14.59 ms)
 2025-11-14 10:35:17.242 Game saved successfully (savegame1).
+2025-11-14 10:51:48.324 Lewy lost connection to the game
+2025-11-14 10:55:22.243 Piotrek joined the game
+2025-11-14 10:55:22.269 dataS/character/playerM/pants/botChinos.i3d (12.98 ms)
+2025-11-14 10:55:22.346 dataS/character/playerM/shirts/strauss/straussTShirtMerino.i3d (75.37 ms)
+2025-11-14 10:55:22.351 dataS/character/playerM/gloves/glovesGeneric.i3d (4.89 ms)
+2025-11-14 10:55:22.440 dataS/character/playerM/shoes/sandalM03.i3d (90.49 ms)
+2025-11-14 10:55:22.441 dataS/character/playerM/hairStyles/hairStyleBald.i3d (0.30 ms)
+2025-11-14 10:56:56.030 Piotrek left the game
+2025-11-14 11:05:19.912 Game saved successfully (savegame1).
