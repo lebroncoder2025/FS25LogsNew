@@ -5528,3 +5528,5 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-14 12:17:34.146 data/objects/bigBagPallet/bigBagPallet.i3d (4.39 ms)
 2025-11-14 12:18:02.262 data/objects/bigBagPallet/bigBagPallet.i3d (4.59 ms)
 2025-11-14 12:18:35.546 data/objects/bigBagPallet/bigBagPallet.i3d (4.25 ms)
+2025-11-14 12:23:55.151 dataS/character/playerM/pants/botLeather.i3d (17.58 ms)
+2025-11-14 12:23:55.183 dataS/character/playerM/jacket/topVest.i3d (32.90 ms)
