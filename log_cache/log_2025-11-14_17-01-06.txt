@@ -5687,3 +5687,17 @@ LUA call stack:
 2025-11-14 18:37:07.818 data/shared/assets/lights/lizard/rearLight27Orange.i3d (3.61 ms)
 2025-11-14 18:37:42.650 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Holmer_TerraDos_T4_40/i3d/HR_12.i3d (77.85 ms)
 2025-11-14 18:37:43.454   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'HOLMER Terra Dos T4-40'
+2025-11-14 18:38:49.393 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Holmer_TerraDos_T4_40/i3d/HR_12Trailer.i3d (21.86 ms)
+2025-11-14 18:38:49.490 data/shared/wheels/tires/trelleborg/T404/400_55R22_5.i3d (7.68 ms)
+2025-11-14 18:46:33.657   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Case IH 160 CVX'
+2025-11-14 18:56:14.048   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'CLAAS LEXION 8900'
+2025-11-14 18:58:06.087 Jolero joined the game
+2025-11-14 18:58:06.105 dataS/character/playerM/shirts/topTShirt01.i3d (2.34 ms)
+2025-11-14 18:58:15.001 zwierek joined the game
+2025-11-14 18:58:15.050 dataS/character/playerM/hairStyles/hairStyleBaldTop.i3d (32.82 ms)
+2025-11-14 18:58:15.059 dataS/character/playerM/facialHair/mHead01/walrusXL.i3d (9.06 ms)
+2025-11-14 18:59:15.422   Info: [Easy Development Controls] User Jolero has logged in as master user.
+2025-11-14 19:02:48.919 Game saved successfully (savegame1).
+2025-11-14 19:03:37.782 zwierek lost connection to the game
+2025-11-14 19:06:30.148 Warning: Saving while already saving
+2025-11-14 19:06:32.194 Game saved successfully (savegame1).
