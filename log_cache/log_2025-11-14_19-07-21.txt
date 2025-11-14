@@ -5557,3 +5557,9 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-14 22:16:41.852 data/objects/pallets/raniWrapPallet/raniWrapPallet.i3d (2.46 ms)
 2025-11-14 22:16:42.928 data/objects/pallets/liquidTank/liquidTank.i3d (4.18 ms)
 2025-11-14 22:19:50.580 data/objects/bigBagPallet/bigBagPallet.i3d (5.01 ms)
+2025-11-14 22:22:00.746 Lewy lost connection to the game
+2025-11-14 22:31:55.616 zone joined the game
+2025-11-14 22:31:55.727 dataS/character/playerM/jacket/caseIH/caseIHTop.i3d (93.94 ms)
+2025-11-14 22:31:55.733 dataS/character/playerM/attachments/caseIHhat.i3d (6.68 ms)
+2025-11-14 22:31:55.748 dataS/character/playerM/facialHair/mHead02/fullBeard.i3d (15.07 ms)
+2025-11-14 22:35:09.122 data/objects/bigBagPallet/bigBagPallet.i3d (4.61 ms)
