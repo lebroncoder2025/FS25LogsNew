@@ -5416,3 +5416,5 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-14 05:30:19.704 data/objects/pallets/liquidTank/liquidTank.i3d (2.94 ms)
 2025-11-14 05:30:19.721 data/objects/bigBagPallet/bigBagPallet.i3d (3.73 ms)
 2025-11-14 05:35:01.540 Game saved successfully (savegame1).
+2025-11-14 05:48:49.770 M@rcin lost connection to the game
+2025-11-14 06:05:02.082 Game saved successfully (savegame1).
