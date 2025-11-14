@@ -5512,3 +5512,19 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-14 21:23:19.325 dataS/character/playerM/pants/botLeather.i3d (17.31 ms)
 2025-11-14 21:23:19.519 dataS/character/playerM/heads/mHead03.i3d (192.86 ms)
 2025-11-14 21:25:32.845 dataS/character/playerM/jacket/topDenimJacket.i3d (22.69 ms)
+2025-11-14 21:27:31.032 dataS/character/playerF/heads/fHead04.i3d (193.71 ms)
+2025-11-14 21:27:31.037 dataS/character/playerF/jacket/topAviatorJacket.i3d (4.97 ms)
+2025-11-14 21:27:31.112 dataS/character/playerF/shoes/laceUpSneaker.i3d (75.41 ms)
+2025-11-14 21:27:31.148 dataS/character/playerF/hairStyles/hairStylePonyTail01.i3d (35.78 ms)
+2025-11-14 21:28:50.548 dataS/character/playerM/pants/botLeather.i3d (17.73 ms)
+2025-11-14 21:28:50.578 dataS/character/playerM/jacket/topVest.i3d (30.21 ms)
+2025-11-14 21:28:58.736 dataS/character/playerM/pants/botLeather.i3d (17.42 ms)
+2025-11-14 21:28:58.766 dataS/character/playerM/jacket/topVest.i3d (30.16 ms)
+2025-11-14 21:31:00.514   Info: Successfully set fill unit 1 of Farmtech Fortis 3000 to Manure with a fill level of 55,000 liters.
+2025-11-14 21:31:22.946   Info: Successfully set fill unit 1 of Farmtech Fortis 3000 to Manure with a fill level of 55,000 liters.
+2025-11-14 21:31:42.954   Info: Successfully set fill unit 1 of Farmtech Fortis 3000 to Manure with a fill level of 55,000 liters.
+2025-11-14 21:34:24.208   Info: Successfully emptied fill unit 1 of Farmtech Fortis 3000.
+2025-11-14 21:35:19.451   Info: Successfully emptied fill unit 1 of Farmtech Fortis 3000.
+2025-11-14 21:35:53.727   Info: Successfully emptied fill unit 1 of Farmtech Fortis 3000.
+2025-11-14 21:38:26.804 zwierek lost connection to the game
+2025-11-14 21:39:14.403 Game saved successfully (savegame1).
