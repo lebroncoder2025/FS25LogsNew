@@ -5621,3 +5621,12 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-14 15:45:32.648 Piotrek left the game
 2025-11-14 15:47:38.024 zone lost connection to the game
 2025-11-14 16:06:00.605 Game saved successfully (savegame1).
+2025-11-14 16:22:08.564 zwierek lost connection to the game
+2025-11-14 16:25:37.870 M@rcin joined the game
+2025-11-14 16:25:38.088 dataS/character/playerM/jacket/topAviatorJacket.i3d (18.66 ms)
+2025-11-14 16:25:38.090 dataS/character/playerM/attachments/glassesAviators.i3d (1.54 ms)
+2025-11-14 16:25:38.122 dataS/character/playerM/hairStyles/hairStyleDiablo.i3d (32.88 ms)
+2025-11-14 16:25:38.124 dataS/character/playerM/facialHair/mHead01/beardStubble.i3d (1.45 ms)
+2025-11-14 16:28:01.695 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_BalePitchforkPack/widly2.i3d (21.81 ms)
+2025-11-14 16:28:05.490   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'STEYR 8130 Super Elite'
+2025-11-14 16:36:02.233 Game saved successfully (savegame1).
