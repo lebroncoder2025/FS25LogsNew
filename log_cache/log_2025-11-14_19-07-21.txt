@@ -5563,3 +5563,27 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-14 22:31:55.733 dataS/character/playerM/attachments/caseIHhat.i3d (6.68 ms)
 2025-11-14 22:31:55.748 dataS/character/playerM/facialHair/mHead02/fullBeard.i3d (15.07 ms)
 2025-11-14 22:35:09.122 data/objects/bigBagPallet/bigBagPallet.i3d (4.61 ms)
+2025-11-14 22:35:39.933 data/objects/bigBagPallet/bigBagPallet.i3d (5.07 ms)
+2025-11-14 22:35:40.932 Warning: Send called with unknown target address.
+2025-11-14 22:35:40.933 Warning: Send called with unknown target address.
+2025-11-14 22:35:40.933 Warning: Send called with unknown target address.
+2025-11-14 22:35:40.933 Warning: Send called with unknown target address.
+2025-11-14 22:35:40.934 Warning: Send called with unknown target address.
+2025-11-14 22:35:40.934 Warning: Send called with unknown target address.
+2025-11-14 22:35:40.947 Romek lost connection to the game
+2025-11-14 22:39:26.623 Game saved successfully (savegame1).
+2025-11-14 22:44:57.446   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Ford 8930'
+2025-11-14 22:49:00.964 data/objects/pallets/raniWrapPallet/raniWrapPallet.i3d (1.87 ms)
+2025-11-14 22:49:01.000 data/objects/pallets/liquidTank/liquidTank.i3d (3.92 ms)
+2025-11-14 22:49:01.020 data/objects/bigBagPallet/bigBagPallet.i3d (4.84 ms)
+2025-11-14 22:49:32.532 M@rcin lost connection to the game
+2025-11-14 22:54:12.942 data/objects/bigBagPallet/bigBagPallet.i3d (4.81 ms)
+2025-11-14 22:54:54.513 symonixprime joined the game
+2025-11-14 22:54:54.673 dataS/character/playerM/pants/poettinger/poettingerShort.i3d (146.21 ms)
+2025-11-14 22:54:54.766 dataS/character/playerM/shirts/topTShirt02.i3d (91.83 ms)
+2025-11-14 22:54:54.857 dataS/character/playerM/shoes/sandalM02.i3d (91.42 ms)
+2025-11-14 22:54:54.893 dataS/character/playerM/hairStyles/hairStyleTopKnot.i3d (35.44 ms)
+2025-11-14 22:58:44.850   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'STEYR 8130 Super Elite'
+2025-11-14 23:01:01.532 zone lost connection to the game
+2025-11-14 23:09:29.585 Game saved successfully (savegame1).
+2025-11-14 23:19:45.486   Info: No 'ExhaustExtension' particle system added to vehicle 'Lizard Screw conveyor' because it has no exhaust
