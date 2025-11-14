@@ -5467,3 +5467,15 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-14 09:14:36.240 dataS/character/playerM/heads/mHead03.i3d (190.34 ms)
 2025-11-14 09:14:36.272 dataS/character/playerM/hairStyles/hairStyleMidParted01.i3d (32.37 ms)
 2025-11-14 09:35:16.180 Game saved successfully (savegame1).
+2025-11-14 10:00:17.375 Lewy joined the game
+2025-11-14 10:00:17.529 dataS/character/playerM/pants/poettinger/poettingerShort.i3d (139.20 ms)
+2025-11-14 10:00:17.621 dataS/character/playerM/jacket/claas/claasTop.i3d (92.55 ms)
+2025-11-14 10:00:17.625 dataS/character/playerM/attachments/headgearBeanie.i3d (4.13 ms)
+2025-11-14 10:00:17.649 dataS/character/playerM/shoes/crok.i3d (23.06 ms)
+2025-11-14 10:00:17.667 dataS/character/playerM/facialHair/mHead01/goatee01.i3d (18.84 ms)
+2025-11-14 10:05:16.820 Game saved successfully (savegame1).
+2025-11-14 10:22:51.356 data/objects/bigBag/bigBag.i3d (4.81 ms)
+2025-11-14 10:24:59.821 dataS/character/playerF/pants/botCargo.i3d (17.44 ms)
+2025-11-14 10:24:59.845 dataS/character/playerF/jacket/topVest.i3d (24.33 ms)
+2025-11-14 10:24:59.849 dataS/character/playerF/shoes/workboot02.i3d (2.98 ms)
+2025-11-14 10:24:59.882 dataS/character/playerF/hairStyles/hairStylePonyTail03.i3d (33.50 ms)
