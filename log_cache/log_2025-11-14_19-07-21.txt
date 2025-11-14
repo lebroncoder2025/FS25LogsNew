@@ -5343,3 +5343,55 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-14 19:47:41.019   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Fendt 832 Vario Gen5 - 60km/h'
 2025-11-14 19:48:15.306 zone lost connection to the game
 2025-11-14 19:49:00.149   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Fendt 728 Vario Chip 330'
+2025-11-14 19:50:39.137 data/objects/bigBag/bigBag.i3d (5.89 ms)
+2025-11-14 19:50:39.141 data/objects/bigBagPallet/bigBagPallet.i3d (4.26 ms)
+2025-11-14 19:52:07.142 hubsonwaliszot joined the game
+2025-11-14 19:52:07.174 dataS/character/playerM/heads/mHead02.i3d (15.46 ms)
+2025-11-14 19:52:07.456 dataS/character/playerM/shirts/poettinger/poettingerTshirt.i3d (282.65 ms)
+2025-11-14 19:52:07.504 dataS/character/playerM/gloves/strauss/glovesEsTrailLight02.i3d (48.02 ms)
+2025-11-14 19:52:07.550 dataS/character/playerM/attachments/hatWoolen.i3d (45.86 ms)
+2025-11-14 19:52:07.583 dataS/character/playerM/hairStyles/hairStyleMullet.i3d (33.43 ms)
+2025-11-14 19:52:07.622 dataS/character/playerM/facialHair/mHead02/trimmedBeard.i3d (11.03 ms)
+2025-11-14 19:52:31.345   Info: Moved 3 vehicles to coordinates 673, 780 successfully.
+2025-11-14 19:55:49.769 Piotrek left the game
+2025-11-14 19:57:10.209 dataS/character/playerF/pants/botChinos.i3d (13.45 ms)
+2025-11-14 19:57:10.403 dataS/character/playerF/heads/fHead04.i3d (193.57 ms)
+2025-11-14 19:57:10.422 dataS/character/playerF/jacket/topAviatorJacket.i3d (18.85 ms)
+2025-11-14 19:57:10.497 dataS/character/playerF/shoes/laceUpSneaker.i3d (75.33 ms)
+2025-11-14 19:57:10.533 dataS/character/playerF/hairStyles/hairStylePonyTail01.i3d (35.78 ms)
+2025-11-14 19:57:25.609 dataS/character/playerF/pants/botChinos.i3d (13.42 ms)
+2025-11-14 19:57:25.718 dataS/character/playerF/heads/fHead06.i3d (109.49 ms)
+2025-11-14 19:57:25.771 dataS/character/playerF/shirts/topBlouse.i3d (53.21 ms)
+2025-11-14 19:57:25.774 dataS/character/playerF/shoes/sneaker01.i3d (2.73 ms)
+2025-11-14 19:57:25.809 dataS/character/playerF/hairStyles/hairStyleMidSideParted.i3d (34.74 ms)
+2025-11-14 19:58:55.214 hubsonwaliszot lost connection to the game
+2025-11-14 19:59:14.403 dataS/character/playerF/pants/botYogaPants.i3d (10.81 ms)
+2025-11-14 19:59:14.515 dataS/character/playerF/heads/fHead02.i3d (111.14 ms)
+2025-11-14 19:59:14.563 dataS/character/playerF/shirts/topTankTop.i3d (48.33 ms)
+2025-11-14 19:59:14.566 dataS/character/playerF/shoes/sportSneaker.i3d (2.54 ms)
+2025-11-14 19:59:14.601 dataS/character/playerF/hairStyles/hairStyleLongSideParted.i3d (34.99 ms)
+2025-11-14 19:59:15.289 dataS/character/playerF/pants/botYogaPants.i3d (10.64 ms)
+2025-11-14 19:59:15.400 dataS/character/playerF/heads/fHead02.i3d (110.49 ms)
+2025-11-14 19:59:15.449 dataS/character/playerF/shirts/topTankTop.i3d (48.32 ms)
+2025-11-14 19:59:15.451 dataS/character/playerF/shoes/sportSneaker.i3d (2.33 ms)
+2025-11-14 19:59:15.486 dataS/character/playerF/hairStyles/hairStyleLongSideParted.i3d (34.85 ms)
+2025-11-14 19:59:16.527 dataS/character/playerF/heads/fHead04.i3d (193.90 ms)
+2025-11-14 19:59:16.546 dataS/character/playerF/jacket/topAviatorJacket.i3d (18.76 ms)
+2025-11-14 19:59:16.621 dataS/character/playerF/shoes/laceUpSneaker.i3d (75.55 ms)
+2025-11-14 19:59:16.659 dataS/character/playerF/hairStyles/hairStylePonyTail01.i3d (37.02 ms)
+2025-11-14 20:08:55.884 Game saved successfully (savegame1).
+2025-11-14 20:09:17.591 dataS/character/playerM/pants/botLeather.i3d (18.11 ms)
+2025-11-14 20:09:17.621 dataS/character/playerM/jacket/topVest.i3d (30.19 ms)
+2025-11-14 20:09:17.655 dataS/character/playerM/hairStyles/hairStyleFringe.i3d (34.17 ms)
+2025-11-14 20:09:57.992 dataS/character/playerM/heads/mHead05.i3d (194.66 ms)
+2025-11-14 20:09:58.086 dataS/character/playerM/shirts/zipNeckPullover.i3d (94.29 ms)
+2025-11-14 20:09:58.120 dataS/character/playerM/hairStyles/hairStyleManBun.i3d (34.26 ms)
+2025-11-14 20:09:58.131 dataS/character/playerM/facialHair/mHead05/goatee02.i3d (10.18 ms)
+2025-11-14 20:12:11.997 Błażej joined the game
+2025-11-14 20:14:30.586 hubsonwaliszot joined the game
+2025-11-14 20:14:30.620 dataS/character/playerM/heads/mHead02.i3d (17.90 ms)
+2025-11-14 20:14:30.904 dataS/character/playerM/shirts/poettinger/poettingerTshirt.i3d (283.12 ms)
+2025-11-14 20:14:30.952 dataS/character/playerM/gloves/strauss/glovesEsTrailLight02.i3d (48.49 ms)
+2025-11-14 20:14:30.998 dataS/character/playerM/attachments/hatWoolen.i3d (46.04 ms)
+2025-11-14 20:14:31.033 dataS/character/playerM/hairStyles/hairStyleMullet.i3d (34.78 ms)
+2025-11-14 20:14:31.044 dataS/character/playerM/facialHair/mHead02/trimmedBeard.i3d (11.07 ms)
