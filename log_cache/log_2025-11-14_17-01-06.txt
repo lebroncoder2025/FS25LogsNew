@@ -5617,3 +5617,12 @@ LUA call stack:
 2025-11-14 17:25:46.643   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Case IH CVX 195'
 2025-11-14 17:26:00.036 Piotrek left the game
 2025-11-14 17:28:47.957 Lewy left the game
+2025-11-14 17:32:48.313 Game saved successfully (savegame1).
+2025-11-14 17:44:11.456 Romek joined the game
+2025-11-14 17:44:11.762 dataS/character/playerM/pants/strauss/motion2020Pants2ndVariant.i3d (107.21 ms)
+2025-11-14 17:44:11.907 dataS/character/playerM/jacket/topVestM.i3d (144.52 ms)
+2025-11-14 17:44:11.910 dataS/character/playerM/attachments/headgearBandana.i3d (2.64 ms)
+2025-11-14 17:44:11.912 dataS/character/playerM/attachments/glassesSports02.i3d (1.91 ms)
+2025-11-14 17:44:12.003 dataS/character/playerM/shoes/sportSneaker.i3d (91.61 ms)
+2025-11-14 17:44:12.038 dataS/character/playerM/hairStyles/hairStyleTopKnot.i3d (34.76 ms)
+2025-11-14 17:44:12.049 dataS/character/playerM/facialHair/mHead01/trimmedBeard.i3d (11.49 ms)
