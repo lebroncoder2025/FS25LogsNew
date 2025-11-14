@@ -5600,3 +5600,15 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-14 14:40:17.101 dataS/character/playerF/shirts/topBlouse.i3d (53.19 ms)
 2025-11-14 14:40:17.104 dataS/character/playerF/shoes/sneaker01.i3d (2.72 ms)
 2025-11-14 14:40:17.138 dataS/character/playerF/hairStyles/hairStyleMidSideParted.i3d (34.49 ms)
+2025-11-14 14:57:15.613   Info: Successfully set fill unit 1 of Hardi MEGA 1200L to Herbicide with a fill level of 655 liters.
+2025-11-14 14:59:12.808 dataS/character/playerF/pants/botYogaPants.i3d (16.48 ms)
+2025-11-14 14:59:12.940 dataS/character/playerF/heads/fHead02.i3d (131.58 ms)
+2025-11-14 14:59:12.988 dataS/character/playerF/shirts/topTankTop.i3d (48.13 ms)
+2025-11-14 14:59:13.100 dataS/character/playerF/shoes/sportSneaker.i3d (111.74 ms)
+2025-11-14 14:59:13.137 dataS/character/playerF/hairStyles/hairStyleLongSideParted.i3d (37.70 ms)
+2025-11-14 14:59:46.524 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Trabi_kombi/Trabant.i3d (317.78 ms)
+2025-11-14 14:59:51.995   Info: Successfully added 'ExhaustExtension' particle system to 2 nodes of vehicle '601S Trabant original'
+2025-11-14 15:06:00.002 Game saved successfully (savegame1).
+2025-11-14 15:11:59.772 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_concreteBarriersPack/i3d/concreteBlock3.i3d (5.89 ms)
+2025-11-14 15:15:11.332 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_barriersPackage/i3d/zavora8m.i3d (5.91 ms)
+2025-11-14 15:20:29.802 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_TowingChain/hook.i3d (6.62 ms)
