@@ -5612,3 +5612,7 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-14 15:11:59.772 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_concreteBarriersPack/i3d/concreteBlock3.i3d (5.89 ms)
 2025-11-14 15:15:11.332 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_barriersPackage/i3d/zavora8m.i3d (5.91 ms)
 2025-11-14 15:20:29.802 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_TowingChain/hook.i3d (6.62 ms)
+2025-11-14 15:36:00.241 Game saved successfully (savegame1).
+2025-11-14 15:39:11.433 data/objects/bigBagPallet/bigBagPallet.i3d (4.76 ms)
+2025-11-14 15:39:32.155 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Trabi_kombi/Trabant.i3d (182.51 ms)
+2025-11-14 15:39:38.945   Info: Successfully added 'ExhaustExtension' particle system to 2 nodes of vehicle '601S Trabant original'
