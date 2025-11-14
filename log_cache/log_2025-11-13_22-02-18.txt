@@ -5494,3 +5494,16 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-14 10:55:22.441 dataS/character/playerM/hairStyles/hairStyleBald.i3d (0.30 ms)
 2025-11-14 10:56:56.030 Piotrek left the game
 2025-11-14 11:05:19.912 Game saved successfully (savegame1).
+2025-11-14 11:30:52.156 Piotrek joined the game
+2025-11-14 11:30:52.181 dataS/character/playerM/pants/botChinos.i3d (12.96 ms)
+2025-11-14 11:30:52.257 dataS/character/playerM/shirts/strauss/straussTShirtMerino.i3d (75.68 ms)
+2025-11-14 11:30:52.262 dataS/character/playerM/gloves/glovesGeneric.i3d (4.76 ms)
+2025-11-14 11:30:52.352 dataS/character/playerM/shoes/sandalM03.i3d (90.01 ms)
+2025-11-14 11:30:52.352 dataS/character/playerM/hairStyles/hairStyleBald.i3d (0.26 ms)
+2025-11-14 11:32:31.662 dataS/character/playerM/heads/mHead05.i3d (190.94 ms)
+2025-11-14 11:32:31.756 dataS/character/playerM/shirts/zipNeckPullover.i3d (93.33 ms)
+2025-11-14 11:32:31.789 dataS/character/playerM/hairStyles/hairStyleManBun.i3d (32.75 ms)
+2025-11-14 11:32:31.799 dataS/character/playerM/facialHair/mHead05/goatee02.i3d (9.79 ms)
+2025-11-14 11:33:08.136 Warning: Send called with unknown target address.
+2025-11-14 11:33:08.141 zone left the game
+2025-11-14 11:35:21.900 Game saved successfully (savegame1).
