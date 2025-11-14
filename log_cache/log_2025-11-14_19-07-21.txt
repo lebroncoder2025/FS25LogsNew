@@ -5395,3 +5395,21 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-14 20:14:30.998 dataS/character/playerM/attachments/hatWoolen.i3d (46.04 ms)
 2025-11-14 20:14:31.033 dataS/character/playerM/hairStyles/hairStyleMullet.i3d (34.78 ms)
 2025-11-14 20:14:31.044 dataS/character/playerM/facialHair/mHead02/trimmedBeard.i3d (11.07 ms)
+2025-11-14 20:18:53.423 LeBrOn joined the game
+2025-11-14 20:18:53.445 dataS/character/playerM/gloves/glovesRacing.i3d (4.79 ms)
+2025-11-14 20:18:53.447 dataS/character/playerM/attachments/glassesReading.i3d (1.72 ms)
+2025-11-14 20:18:53.479 dataS/character/playerM/hairStyles/hairStyleMidParted01.i3d (33.25 ms)
+2025-11-14 20:18:53.503 dataS/character/playerM/facialHair/mHead01/muttonChops01.i3d (23.88 ms)
+2025-11-14 20:19:08.047 M@rcin joined the game
+2025-11-14 20:19:08.084 dataS/character/playerM/jacket/topAviatorJacket.i3d (19.87 ms)
+2025-11-14 20:19:08.117 dataS/character/playerM/hairStyles/hairStyleDiablo.i3d (32.62 ms)
+2025-11-14 20:19:08.141 dataS/character/playerM/facialHair/mHead01/beardStubble.i3d (1.54 ms)
+2025-11-14 20:20:39.179   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'STEYR 8130 Super Elite'
+2025-11-14 20:21:42.169   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'CLAAS LEXION 8900'
+2025-11-14 20:22:37.856   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Case IH 160 CVX'
+2025-11-14 20:22:45.745   Info: No 'ExhaustExtension' particle system added to vehicle 'Jungheinrich EFG S50 Pro' because it has no exhaust
+2025-11-14 20:24:23.540   Info: Successfully set fill unit 1 of KRONE ZX 560 GD to Grass with a fill level of 56,000 liters.
+2025-11-14 20:24:28.843   Info: Successfully emptied fill unit 1 of KRONE ZX 560 GD.
+2025-11-14 20:26:45.736   Info: The condition of Fendt 832 Vario Gen5 - 60km/h and all connected implements updated.
+2025-11-14 20:27:01.070   Info: No 'ExhaustExtension' particle system added to vehicle 'Kärcher HDS 9/18-4 M' because it has no exhaust
+2025-11-14 20:29:16.787   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Case IH 160 CVX'
