@@ -5630,3 +5630,25 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-14 16:28:01.695 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_BalePitchforkPack/widly2.i3d (21.81 ms)
 2025-11-14 16:28:05.490   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'STEYR 8130 Super Elite'
 2025-11-14 16:36:02.233 Game saved successfully (savegame1).
+2025-11-14 16:37:56.372 M@rcin lost connection to the game
+2025-11-14 16:52:21.082 zone joined the game
+2025-11-14 16:52:21.295 dataS/character/playerM/heads/mHead02.i3d (13.82 ms)
+2025-11-14 16:52:21.388 dataS/character/playerM/jacket/caseIH/caseIHTop.i3d (93.32 ms)
+2025-11-14 16:52:21.395 dataS/character/playerM/attachments/caseIHhat.i3d (6.55 ms)
+2025-11-14 16:52:21.429 dataS/character/playerM/hairStyles/hairStyleFringe.i3d (34.26 ms)
+2025-11-14 16:52:21.444 dataS/character/playerM/facialHair/mHead02/fullBeard.i3d (14.90 ms)
+2025-11-14 16:54:39.575 siwa joined the game
+2025-11-14 16:56:12.784 hubsonwaliszot joined the game
+2025-11-14 16:56:12.814 dataS/character/playerM/pants/botJeanShorts.i3d (16.57 ms)
+2025-11-14 16:56:13.097 dataS/character/playerM/shirts/poettinger/poettingerTshirt.i3d (282.67 ms)
+2025-11-14 16:56:13.145 dataS/character/playerM/gloves/strauss/glovesEsTrailLight02.i3d (48.09 ms)
+2025-11-14 16:56:13.191 dataS/character/playerM/attachments/hatWoolen.i3d (46.03 ms)
+2025-11-14 16:56:13.193 dataS/character/playerM/attachments/glassesAviators.i3d (1.49 ms)
+2025-11-14 16:56:13.226 dataS/character/playerM/hairStyles/hairStyleMullet.i3d (33.29 ms)
+2025-11-14 16:56:13.237 dataS/character/playerM/facialHair/mHead02/trimmedBeard.i3d (10.95 ms)
+2025-11-14 16:58:17.995 Jolero joined the game
+2025-11-14 16:58:18.022 dataS/character/playerM/shirts/topTShirt01.i3d (5.44 ms)
+2025-11-14 16:58:18.063 dataS/character/playerM/hairStyles/hairStyleTopKnot.i3d (40.91 ms)
+2025-11-14 16:58:18.082 dataS/character/playerM/facialHair/mHead01/goatee01.i3d (19.30 ms)
+2025-11-14 16:59:53.812   Info: [Easy Development Controls] User Jolero has logged in as master user.
+2025-11-14 16:59:56.956 Warning: Saving while already saving
