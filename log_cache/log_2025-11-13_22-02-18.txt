@@ -5479,3 +5479,9 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-14 10:24:59.845 dataS/character/playerF/jacket/topVest.i3d (24.33 ms)
 2025-11-14 10:24:59.849 dataS/character/playerF/shoes/workboot02.i3d (2.98 ms)
 2025-11-14 10:24:59.882 dataS/character/playerF/hairStyles/hairStylePonyTail03.i3d (33.50 ms)
+2025-11-14 10:32:01.652 zone joined the game
+2025-11-14 10:32:01.763 dataS/character/playerM/jacket/caseIH/caseIHTop.i3d (93.29 ms)
+2025-11-14 10:32:01.769 dataS/character/playerM/attachments/caseIHhat.i3d (6.49 ms)
+2025-11-14 10:32:01.803 dataS/character/playerM/hairStyles/hairStyleFringe.i3d (33.74 ms)
+2025-11-14 10:32:01.818 dataS/character/playerM/facialHair/mHead02/fullBeard.i3d (14.59 ms)
+2025-11-14 10:35:17.242 Game saved successfully (savegame1).
