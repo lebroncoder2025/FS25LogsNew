@@ -5405,3 +5405,9 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-14 04:24:30.300 dataS/character/playerM/attachments/glassesAviators.i3d (1.50 ms)
 2025-11-14 04:24:30.323 dataS/character/playerM/shoes/crok.i3d (23.11 ms)
 2025-11-14 04:24:30.342 dataS/character/playerM/facialHair/mHead01/goatee01.i3d (18.78 ms)
+2025-11-14 04:34:59.902 Game saved successfully (savegame1).
+2025-11-14 05:05:00.849 Game saved successfully (savegame1).
+2025-11-14 05:20:36.085 M@rcin joined the game
+2025-11-14 05:20:36.119 dataS/character/playerM/jacket/topAviatorJacket.i3d (18.29 ms)
+2025-11-14 05:20:36.152 dataS/character/playerM/hairStyles/hairStyleDiablo.i3d (32.58 ms)
+2025-11-14 05:20:36.153 dataS/character/playerM/facialHair/mHead01/beardStubble.i3d (1.44 ms)
