@@ -5461,3 +5461,24 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-15 23:14:05.936   Info: Moved player to coordinates 306, 536 successfully.
 2025-11-15 23:31:52.456 dataS/character/playerM/pants/botLeather.i3d (17.43 ms)
 2025-11-15 23:31:52.648 dataS/character/playerM/heads/mHead03.i3d (192.64 ms)
+2025-11-15 23:36:55.727   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'New Holland 8340'
+2025-11-15 23:38:29.068 dataS/character/playerM/heads/mHead05.i3d (192.30 ms)
+2025-11-15 23:38:29.161 dataS/character/playerM/shirts/zipNeckPullover.i3d (93.71 ms)
+2025-11-15 23:38:29.195 dataS/character/playerM/hairStyles/hairStyleManBun.i3d (33.17 ms)
+2025-11-15 23:38:29.205 dataS/character/playerM/facialHair/mHead05/goatee02.i3d (9.82 ms)
+2025-11-15 23:42:15.616 Game saved successfully (savegame1).
+2025-11-15 23:45:35.596 dataS/character/playerM/jacket/topDenimJacket.i3d (22.48 ms)
+2025-11-15 23:45:35.629 dataS/character/playerM/hairStyles/hairStyleMidParted01.i3d (32.83 ms)
+2025-11-15 23:45:35.630 dataS/character/playerM/facialHair/mHead01/beardStubble.i3d (1.35 ms)
+2025-11-15 23:47:41.867   Info: Moved 2 vehicles to coordinates 694, 951 successfully.
+2025-11-15 23:50:47.329   Info: Moved 2 vehicles to coordinates 695, 953 successfully.
+2025-11-15 23:54:48.110 zone left the game
+2025-11-15 23:55:18.052   Info: Moved 2 vehicles to coordinates 697, 951 successfully.
+2025-11-15 23:55:47.226 zone joined the game
+2025-11-15 23:55:47.335 dataS/character/playerM/jacket/caseIH/caseIHTop.i3d (93.61 ms)
+2025-11-15 23:55:47.342 dataS/character/playerM/attachments/caseIHhat.i3d (6.57 ms)
+2025-11-15 23:55:47.375 dataS/character/playerM/hairStyles/hairStyleFringe.i3d (33.92 ms)
+2025-11-15 23:55:47.390 dataS/character/playerM/facialHair/mHead02/fullBeard.i3d (14.64 ms)
+2025-11-15 23:56:55.915   Info: No 'ExhaustExtension' particle system added to vehicle 'Kärcher HDS 9/18-4 M' because it has no exhaust
+2025-11-16 00:12:22.051 Game saved successfully (savegame1).
+2025-11-16 00:13:41.299   Info: No 'ExhaustExtension' particle system added to vehicle 'Jungheinrich EFG S50 2.4m' because it has no exhaust
