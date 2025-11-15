@@ -5353,3 +5353,8 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-15 21:21:00.245 dataS/character/playerM/attachments/glassesSports02.i3d (1.52 ms)
 2025-11-15 21:21:00.256 dataS/character/playerM/facialHair/mHead01/trimmedBeard.i3d (11.00 ms)
 2025-11-15 21:22:31.586   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'DEUTZ-FAHR 6135 C RVshift'
+2025-11-15 21:29:30.715   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Case IH CVX 195'
+2025-11-15 21:34:06.422 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.84 ms)
+2025-11-15 21:34:11.251 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.70 ms)
+2025-11-15 21:35:09.349 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.70 ms)
+2025-11-15 21:36:02.980   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Case IH 160 CVX'
