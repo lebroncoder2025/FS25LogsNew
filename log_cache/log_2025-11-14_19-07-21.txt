@@ -6084,3 +6084,21 @@ dataS/scripts/vehicles/specializations/AnimatedVehicle.lua:1297: attempt to get 
 2025-11-15 10:20:19.261   Info: Adding pallet.
 2025-11-15 10:20:19.509   Info: Adding pallet.
 2025-11-15 10:20:19.631   Info: Adding pallet.
+2025-11-15 10:25:12.822 dataS/character/playerM/jacket/topDenimJacket.i3d (32.57 ms)
+2025-11-15 10:25:12.867 dataS/character/playerM/hairStyles/hairStyleMidParted01.i3d (44.29 ms)
+2025-11-15 10:25:12.869 dataS/character/playerM/facialHair/mHead01/beardStubble.i3d (1.46 ms)
+2025-11-15 10:25:37.428 Lewy joined the game
+2025-11-15 10:25:37.583 dataS/character/playerM/pants/poettinger/poettingerShort.i3d (140.00 ms)
+2025-11-15 10:25:37.677 dataS/character/playerM/jacket/claas/claasTop.i3d (94.41 ms)
+2025-11-15 10:25:37.679 dataS/character/playerM/attachments/glassesAviators.i3d (1.62 ms)
+2025-11-15 10:25:37.702 dataS/character/playerM/shoes/crok.i3d (23.03 ms)
+2025-11-15 10:26:20.121   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'MERLO P41.7'
+2025-11-15 10:30:28.039   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'KAMA3 6x6 740.62 ZF9'
+2025-11-15 10:30:30.397 hubsonwaliszot joined the game
+2025-11-15 10:30:30.431 dataS/character/playerM/pants/botJeanShorts.i3d (16.92 ms)
+2025-11-15 10:30:30.449 dataS/character/playerM/heads/mHead02.i3d (18.52 ms)
+2025-11-15 10:30:30.802 dataS/character/playerM/shirts/poettinger/poettingerTshirt.i3d (352.67 ms)
+2025-11-15 10:30:30.862 dataS/character/playerM/gloves/strauss/glovesEsTrailLight02.i3d (60.46 ms)
+2025-11-15 10:30:30.937 dataS/character/playerM/attachments/hatWoolen.i3d (74.49 ms)
+2025-11-15 10:30:31.034 dataS/character/playerM/hairStyles/hairStyleMullet.i3d (96.58 ms)
+2025-11-15 10:30:31.046 dataS/character/playerM/facialHair/mHead02/trimmedBeard.i3d (12.39 ms)
