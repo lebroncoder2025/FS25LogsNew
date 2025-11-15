@@ -5459,3 +5459,5 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-15 23:11:45.189 dataS/character/playerM/facialHair/mHead01/beardStubble.i3d (1.36 ms)
 2025-11-15 23:12:09.262 Game saved successfully (savegame1).
 2025-11-15 23:14:05.936   Info: Moved player to coordinates 306, 536 successfully.
+2025-11-15 23:31:52.456 dataS/character/playerM/pants/botLeather.i3d (17.43 ms)
+2025-11-15 23:31:52.648 dataS/character/playerM/heads/mHead03.i3d (192.64 ms)
