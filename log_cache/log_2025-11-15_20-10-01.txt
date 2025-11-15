@@ -5312,3 +5312,44 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-15 20:30:27.629 data/placeables/brandless/greenhouses/greenHouseMushrooms/greenHouseMushroomsSmall.i3d (17.72 ms)
 2025-11-15 20:30:27.745 data/placeables/brandless/greenhouses/vegetables/enoki/enoki.i3d (6.38 ms)
 2025-11-15 20:30:27.751 data/placeables/brandless/greenhouses/vegetables/oyster/oyster.i3d (5.95 ms)
+2025-11-15 20:36:24.033   Info: [Easy Development Controls] User Jolero has logged in as master user.
+2025-11-15 20:38:07.271   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Ford 8930'
+2025-11-15 20:41:35.785 Game saved successfully (savegame1).
+2025-11-15 20:59:08.059 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Z263/z263.i3d (317.74 ms)
+2025-11-15 20:59:08.208 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Z263/wheels/wheels.i3d (16.36 ms)
+2025-11-15 20:59:27.809 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_homemadeTrailer/przyczepa.i3d (139.10 ms)
+2025-11-15 20:59:27.929 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_homemadeTrailer/wheels/felga.i3d (18.22 ms)
+2025-11-15 20:59:27.936 data/shared/wheels/tires/bkt/i1/9_5L__15.i3d (7.05 ms)
+2025-11-15 21:00:58.739 Błażej joined the game
+2025-11-15 21:00:58.847 dataS/character/playerM/shoes/sportSneaker.i3d (91.75 ms)
+2025-11-15 21:03:09.763 zwierek joined the game
+2025-11-15 21:03:09.810 dataS/character/playerM/hairStyles/hairStyleBaldTop.i3d (31.18 ms)
+2025-11-15 21:03:09.857 dataS/character/playerM/facialHair/mHead01/walrusXL.i3d (8.76 ms)
+2025-11-15 21:05:11.882   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Case IH 160 CVX'
+2025-11-15 21:11:05.990 data/placeables/brandless/waterTanks/level01/waterTankLevel01.i3d (6.64 ms)
+2025-11-15 21:11:39.195 symonixprime lost connection to the game
+2025-11-15 21:11:40.760 Game saved successfully (savegame1).
+2025-11-15 21:12:06.705 dataS/character/playerM/heads/mHead05.i3d (191.81 ms)
+2025-11-15 21:12:06.800 dataS/character/playerM/shirts/zipNeckPullover.i3d (94.33 ms)
+2025-11-15 21:12:06.834 dataS/character/playerM/hairStyles/hairStyleManBun.i3d (34.00 ms)
+2025-11-15 21:12:06.844 dataS/character/playerM/facialHair/mHead05/goatee02.i3d (10.03 ms)
+2025-11-15 21:16:57.463 Romek joined the game
+2025-11-15 21:16:57.586 dataS/character/playerM/pants/strauss/motion2020Pants2ndVariant.i3d (107.38 ms)
+2025-11-15 21:16:57.798 dataS/character/playerM/jacket/topVestM.i3d (144.95 ms)
+2025-11-15 21:16:57.800 dataS/character/playerM/attachments/headgearBandana.i3d (2.47 ms)
+2025-11-15 21:16:57.802 dataS/character/playerM/attachments/glassesSports02.i3d (1.45 ms)
+2025-11-15 21:16:57.813 dataS/character/playerM/facialHair/mHead01/trimmedBeard.i3d (11.42 ms)
+2025-11-15 21:18:05.785 siwa lost connection to the game
+2025-11-15 21:20:09.145 Romek lost connection to the game
+2025-11-15 21:20:43.841 Lewy joined the game
+2025-11-15 21:20:43.997 dataS/character/playerM/pants/poettinger/poettingerShort.i3d (140.82 ms)
+2025-11-15 21:20:44.091 dataS/character/playerM/jacket/claas/claasTop.i3d (94.33 ms)
+2025-11-15 21:20:44.096 dataS/character/playerM/attachments/headgearBeanie.i3d (4.25 ms)
+2025-11-15 21:20:44.119 dataS/character/playerM/shoes/crok.i3d (23.38 ms)
+2025-11-15 21:20:59.912 Romek joined the game
+2025-11-15 21:21:00.035 dataS/character/playerM/pants/strauss/motion2020Pants2ndVariant.i3d (107.66 ms)
+2025-11-15 21:21:00.241 dataS/character/playerM/jacket/topVestM.i3d (145.33 ms)
+2025-11-15 21:21:00.244 dataS/character/playerM/attachments/headgearBandana.i3d (2.46 ms)
+2025-11-15 21:21:00.245 dataS/character/playerM/attachments/glassesSports02.i3d (1.52 ms)
+2025-11-15 21:21:00.256 dataS/character/playerM/facialHair/mHead01/trimmedBeard.i3d (11.00 ms)
+2025-11-15 21:22:31.586   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'DEUTZ-FAHR 6135 C RVshift'
