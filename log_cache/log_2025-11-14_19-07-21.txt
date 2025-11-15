@@ -5673,3 +5673,15 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-15 00:09:32.558 Game saved successfully (savegame1).
 2025-11-15 00:10:10.710   Info: Successfully added 'ExhaustExtension' particle system to 2 nodes of vehicle '601S Trabant original'
 2025-11-15 00:12:34.874 Figuana lost connection to the game
+2025-11-15 00:39:47.033 Game saved successfully (savegame1).
+2025-11-15 00:55:32.340 zone joined the game
+2025-11-15 00:55:32.554 dataS/character/playerM/heads/mHead02.i3d (14.04 ms)
+2025-11-15 00:55:32.647 dataS/character/playerM/jacket/caseIH/caseIHTop.i3d (93.12 ms)
+2025-11-15 00:55:32.654 dataS/character/playerM/attachments/caseIHhat.i3d (6.55 ms)
+2025-11-15 00:55:32.688 dataS/character/playerM/hairStyles/hairStyleFringe.i3d (34.04 ms)
+2025-11-15 00:55:32.703 dataS/character/playerM/facialHair/mHead02/fullBeard.i3d (14.52 ms)
+2025-11-15 00:57:26.800 zone lost connection to the game
+2025-11-15 01:09:54.197 Game saved successfully (savegame1).
+2025-11-15 01:40:03.453 Game saved successfully (savegame1).
+2025-11-15 02:10:13.634 Game saved successfully (savegame1).
+2025-11-15 02:40:21.667 Game saved successfully (savegame1).
