@@ -5482,3 +5482,13 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-15 23:56:55.915   Info: No 'ExhaustExtension' particle system added to vehicle 'Kärcher HDS 9/18-4 M' because it has no exhaust
 2025-11-16 00:12:22.051 Game saved successfully (savegame1).
 2025-11-16 00:13:41.299   Info: No 'ExhaustExtension' particle system added to vehicle 'Jungheinrich EFG S50 2.4m' because it has no exhaust
+2025-11-16 00:23:22.414 zwierek lost connection to the game
+2025-11-16 00:24:03.220   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Zetor 10145 Fast transmission'
+2025-11-16 00:24:55.805   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'New Holland TH7.42 Elite'
+2025-11-16 00:26:36.689   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'CLAAS Lexion 590'
+2025-11-16 00:27:55.057 Warning: Send called with unknown target address.
+2025-11-16 00:27:55.069 Jolero left the game
+2025-11-16 00:27:55.699 Game saved successfully (savegame1).
+2025-11-16 00:28:47.631 Piotrek left the game
+2025-11-16 00:29:24.105 zone lost connection to the game
+2025-11-16 00:32:55.790 hubsonwaliszot lost connection to the game
