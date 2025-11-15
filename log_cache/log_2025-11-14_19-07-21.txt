@@ -6102,3 +6102,124 @@ dataS/scripts/vehicles/specializations/AnimatedVehicle.lua:1297: attempt to get 
 2025-11-15 10:30:30.937 dataS/character/playerM/attachments/hatWoolen.i3d (74.49 ms)
 2025-11-15 10:30:31.034 dataS/character/playerM/hairStyles/hairStyleMullet.i3d (96.58 ms)
 2025-11-15 10:30:31.046 dataS/character/playerM/facialHair/mHead02/trimmedBeard.i3d (12.39 ms)
+2025-11-15 10:34:22.767 Lewy lost connection to the game
+2025-11-15 10:34:38.253 zwierek joined the game
+2025-11-15 10:34:38.382 dataS/character/playerM/shoes/sandalM03.i3d (112.05 ms)
+2025-11-15 10:34:38.419 dataS/character/playerM/hairStyles/hairStyleBaldTop.i3d (37.29 ms)
+2025-11-15 10:34:38.429 dataS/character/playerM/facialHair/mHead01/walrusXL.i3d (9.50 ms)
+2025-11-15 10:36:10.202 Lewy joined the game
+2025-11-15 10:36:10.357 dataS/character/playerM/pants/poettinger/poettingerShort.i3d (139.96 ms)
+2025-11-15 10:36:10.450 dataS/character/playerM/jacket/claas/claasTop.i3d (92.97 ms)
+2025-11-15 10:36:10.473 dataS/character/playerM/shoes/crok.i3d (23.12 ms)
+2025-11-15 10:36:20.117 zone joined the game
+2025-11-15 10:36:20.249 dataS/character/playerM/jacket/caseIH/caseIHTop.i3d (116.81 ms)
+2025-11-15 10:36:20.258 dataS/character/playerM/attachments/caseIHhat.i3d (8.81 ms)
+2025-11-15 10:36:20.353 dataS/character/playerM/hairStyles/hairStyleFringe.i3d (39.99 ms)
+2025-11-15 10:36:20.369 dataS/character/playerM/facialHair/mHead02/fullBeard.i3d (16.13 ms)
+2025-11-15 10:38:46.868 zone left the game
+2025-11-15 10:39:20.481 Figuana joined the game
+2025-11-15 10:39:55.556 hubsonwaliszot was kicked from the game
+2025-11-15 10:39:55.562 
+Script error in getHasTrigger: Unknown entity id 37680673 for 'triggerNodeId' in method 'getHasTrigger'.
+
+LUA call stack:
+  =[C]:-1 getHasTrigger
+  =dataS/scripts/vehicles/ai/AICollisionTriggerHandler.lua:244 onVehicleCollisionDistanceCallback
+2025-11-15 10:39:55.562 
+Script error in getRigidBodyType: Unknown entity id 37680673 for 'object' in method 'getRigidBodyType'.
+
+LUA call stack:
+  =[C]:-1 getRigidBodyType
+  =dataS/scripts/vehicles/ai/AICollisionTriggerHandler.lua:246 onVehicleCollisionDistanceCallback
+2025-11-15 10:40:00.553 zone joined the game
+2025-11-15 10:40:00.585 dataS/character/playerM/heads/mHead02.i3d (15.08 ms)
+2025-11-15 10:40:00.678 dataS/character/playerM/jacket/caseIH/caseIHTop.i3d (93.40 ms)
+2025-11-15 10:40:00.684 dataS/character/playerM/attachments/caseIHhat.i3d (6.45 ms)
+2025-11-15 10:40:00.718 dataS/character/playerM/hairStyles/hairStyleFringe.i3d (33.96 ms)
+2025-11-15 10:40:00.733 dataS/character/playerM/facialHair/mHead02/fullBeard.i3d (14.60 ms)
+2025-11-15 10:40:15.682 Lewy lost connection to the game
+2025-11-15 10:41:19.919 Game saved successfully (savegame1).
+2025-11-15 10:41:27.534   Info: No 'ExhaustExtension' particle system added to vehicle 'Jungheinrich EFG S50 2.4m' because it has no exhaust
+2025-11-15 10:42:51.868 Lewy joined the game
+2025-11-15 10:42:52.025 dataS/character/playerM/pants/poettinger/poettingerShort.i3d (139.85 ms)
+2025-11-15 10:42:52.119 dataS/character/playerM/jacket/claas/claasTop.i3d (93.49 ms)
+2025-11-15 10:42:52.142 dataS/character/playerM/shoes/crok.i3d (23.54 ms)
+2025-11-15 10:43:33.732 Figuana lost connection to the game
+2025-11-15 10:43:53.963 dataS/character/playerF/pants/botCargo.i3d (27.42 ms)
+2025-11-15 10:43:54.058 dataS/character/playerF/jacket/topVest.i3d (29.93 ms)
+2025-11-15 10:43:54.062 dataS/character/playerF/shoes/workboot02.i3d (4.01 ms)
+2025-11-15 10:43:54.180 dataS/character/playerF/hairStyles/hairStylePonyTail03.i3d (40.33 ms)
+2025-11-15 10:44:41.025 Figuana joined the game
+2025-11-15 10:46:54.685 data/objects/bigBagPallet/bigBagPallet.i3d (4.34 ms)
+2025-11-15 10:47:21.517 Lewy lost connection to the game
+2025-11-15 10:47:22.045 data/objects/bigBagPallet/bigBagPallet.i3d (4.50 ms)
+2025-11-15 10:47:49.473 data/objects/bigBagPallet/bigBagPallet.i3d (4.70 ms)
+2025-11-15 10:50:12.713 data/objects/bigBagPallet/bigBagPallet.i3d (4.65 ms)
+2025-11-15 10:51:31.073 data/objects/bigBagPallet/bigBagPallet.i3d (4.33 ms)
+2025-11-15 10:51:34.661 data/objects/bigBagPallet/bigBagPallet.i3d (4.98 ms)
+2025-11-15 10:51:38.507 data/objects/bigBagPallet/bigBagPallet.i3d (4.64 ms)
+2025-11-15 10:51:44.441 data/objects/bigBagPallet/bigBagPallet.i3d (4.41 ms)
+2025-11-15 10:51:45.811 data/objects/bigBagPallet/bigBagPallet.i3d (5.62 ms)
+2025-11-15 10:51:51.340 data/objects/bigBagPallet/bigBagPallet.i3d (4.27 ms)
+2025-11-15 10:55:47.364 dataS/character/playerM/pants/botLeather.i3d (22.08 ms)
+2025-11-15 10:55:47.397 dataS/character/playerM/jacket/topVest.i3d (33.21 ms)
+2025-11-15 10:57:53.065 hubsonwaliszot joined the game
+2025-11-15 10:57:53.368 dataS/character/playerM/shirts/poettinger/poettingerTshirt.i3d (284.84 ms)
+2025-11-15 10:57:53.417 dataS/character/playerM/gloves/strauss/glovesEsTrailLight02.i3d (48.10 ms)
+2025-11-15 10:57:53.463 dataS/character/playerM/attachments/hatWoolen.i3d (45.85 ms)
+2025-11-15 10:57:53.498 dataS/character/playerM/hairStyles/hairStyleMullet.i3d (34.16 ms)
+2025-11-15 10:57:53.585 dataS/character/playerM/facialHair/mHead02/trimmedBeard.i3d (11.11 ms)
+2025-11-15 10:58:05.287 data/objects/bigBagPallet/bigBagPallet.i3d (5.46 ms)
+2025-11-15 10:58:10.417 Warning: Send called with unknown target address.
+2025-11-15 10:58:10.417 Warning: Send called with unknown target address.
+2025-11-15 10:58:10.418 Warning: Send called with unknown target address.
+2025-11-15 10:58:10.418 Warning: Send called with unknown target address.
+2025-11-15 10:58:10.434 Warning: Send called with unknown target address.
+2025-11-15 10:58:10.449 SzaGhrat left the game
+2025-11-15 11:02:27.307 data/objects/bigBagPallet/bigBagPallet.i3d (4.81 ms)
+2025-11-15 11:04:24.648 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_FLC253/LodeKing.i3d (89.40 ms)
+2025-11-15 11:04:24.853 data/shared/wheels/tires/continental/contiCrossTracHS3/_13R22_5.i3d (3.30 ms)
+2025-11-15 11:04:24.908 data/shared/assets/lights/lizard/rearLight20.i3d (3.35 ms)
+2025-11-15 11:04:24.911 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_FLC253/rearLight20.i3d (2.43 ms)
+2025-11-15 11:04:24.914 data/shared/assets/lights/lizard/sideMarker21.i3d (2.81 ms)
+2025-11-15 11:04:30.940 dataS/character/playerF/pants/botJeansCapris.i3d (20.55 ms)
+2025-11-15 11:04:31.133 dataS/character/playerF/heads/fHead03.i3d (192.63 ms)
+2025-11-15 11:04:31.182 dataS/character/playerF/shirts/topTankTop.i3d (48.59 ms)
+2025-11-15 11:04:31.184 dataS/character/playerF/shoes/sneaker01.i3d (2.75 ms)
+2025-11-15 11:04:33.579 dataS/character/playerF/pants/botChinos.i3d (13.34 ms)
+2025-11-15 11:04:33.688 dataS/character/playerF/heads/fHead06.i3d (108.48 ms)
+2025-11-15 11:04:33.740 dataS/character/playerF/shirts/topBlouse.i3d (52.76 ms)
+2025-11-15 11:04:33.743 dataS/character/playerF/shoes/sneaker01.i3d (2.73 ms)
+2025-11-15 11:04:33.778 dataS/character/playerF/hairStyles/hairStyleMidSideParted.i3d (34.99 ms)
+2025-11-15 11:05:11.201   Info: [Easy Development Controls] User zwierek has logged in as master user.
+2025-11-15 11:05:13.922   Info: Moved 3 vehicles to coordinates 1045, 1385 successfully.
+2025-11-15 11:06:23.774 data/objects/bigBag/bigBag.i3d (5.71 ms)
+2025-11-15 11:07:28.419 data/objects/bigBagPallet/bigBagPallet.i3d (4.42 ms)
+2025-11-15 11:07:45.796   Info: Super Strength enabled by zwierek
+2025-11-15 11:07:58.128 dataS/character/playerF/pants/botYogaPants.i3d (17.15 ms)
+2025-11-15 11:07:58.261 dataS/character/playerF/heads/fHead02.i3d (133.42 ms)
+2025-11-15 11:07:58.310 dataS/character/playerF/shirts/topTankTop.i3d (48.33 ms)
+2025-11-15 11:07:58.313 dataS/character/playerF/shoes/sportSneaker.i3d (3.06 ms)
+2025-11-15 11:07:58.354 dataS/character/playerF/hairStyles/hairStyleLongSideParted.i3d (41.50 ms)
+2025-11-15 11:09:36.573 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Manitou_MLT625_MLT737/i3d/MLT_625.i3d (293.79 ms)
+2025-11-15 11:09:36.800 data/shared/wheels/tires/michelin/multibib/340_65R18.i3d (3.43 ms)
+2025-11-15 11:09:36.943 data/shared/assets/lights/lizard/rearLight37.i3d (3.87 ms)
+2025-11-15 11:10:01.057   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Manitou MLT 625-75H'
+2025-11-15 11:11:24.866 Game saved successfully (savegame1).
+2025-11-15 11:11:30.142 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_New_Holland_TH_742/i3d/TH_742.i3d (329.82 ms)
+2025-11-15 11:11:30.857 data/shared/wheels/tires/trelleborg/TH400/460_70R24.i3d (2.74 ms)
+2025-11-15 11:11:36.702   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'New Holland TH7.42 Elite'
+2025-11-15 11:13:10.930 Lewy joined the game
+2025-11-15 11:13:11.088 dataS/character/playerM/pants/poettinger/poettingerShort.i3d (140.31 ms)
+2025-11-15 11:13:11.246 dataS/character/playerM/jacket/claas/claasTop.i3d (93.25 ms)
+2025-11-15 11:13:11.303 dataS/character/playerM/attachments/headgearBeanie.i3d (4.33 ms)
+2025-11-15 11:13:11.326 dataS/character/playerM/shoes/crok.i3d (23.26 ms)
+2025-11-15 11:13:12.483 data/objects/bigBagPallet/bigBagPallet.i3d (4.49 ms)
+2025-11-15 11:13:27.708   Info: Super Strength disabled by zwierek
+2025-11-15 11:13:38.808 Warning: Send called with unknown target address.
+2025-11-15 11:13:38.826 Jolero left the game
+2025-11-15 11:13:40.353 Game saved successfully (savegame1).
+2025-11-15 11:14:21.365 data/objects/bigBagPallet/bigBagPallet.i3d (4.88 ms)
+2025-11-15 11:15:07.926   Info: Super Strength enabled by zwierek
+2025-11-15 11:15:21.107   Info: Super Strength disabled by zwierek
+2025-11-15 11:20:42.727 Lewy lost connection to the game
