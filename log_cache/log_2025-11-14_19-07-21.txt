@@ -5710,3 +5710,17 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-15 08:16:59.775 data/objects/pallets/raniWrapPallet/raniWrapPallet.i3d (1.87 ms)
 2025-11-15 08:16:59.810 data/objects/pallets/liquidTank/liquidTank.i3d (3.26 ms)
 2025-11-15 08:16:59.831 data/objects/bigBagPallet/bigBagPallet.i3d (4.80 ms)
+2025-11-15 08:41:16.208 Game saved successfully (savegame1).
+2025-11-15 08:47:03.891 M@rcin lost connection to the game
+2025-11-15 09:06:17.170 SzaGhrat joined the game
+2025-11-15 09:06:17.191 dataS/character/playerM/shirts/topTShirt01.i3d (3.10 ms)
+2025-11-15 09:06:17.193 dataS/character/playerM/attachments/glassesSports01.i3d (2.02 ms)
+2025-11-15 09:06:17.212 dataS/character/playerM/facialHair/mHead01/muttonChops03.i3d (18.90 ms)
+2025-11-15 09:09:03.171   Info: [Easy Development Controls] User SzaGhrat has logged in as master user.
+2025-11-15 09:09:41.526   Info: Successfully added 'ExhaustExtension' particle system to 2 nodes of vehicle 'Skoda Kodiaq'
+2025-11-15 09:11:16.596 Game saved successfully (savegame1).
+2025-11-15 09:12:56.211   Info: Moved player to coordinates 641, 782 successfully.
+2025-11-15 09:20:46.303   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Volvo F16 500'
+2025-11-15 09:21:23.418 Jolero joined the game
+2025-11-15 09:21:23.477 dataS/character/playerM/hairStyles/hairStyleTopKnot.i3d (40.99 ms)
+2025-11-15 09:22:29.753   Info: [Easy Development Controls] User Jolero has logged in as master user.
