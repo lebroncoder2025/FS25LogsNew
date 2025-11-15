@@ -6571,3 +6571,4 @@ LUA call stack:
 2025-11-15 18:12:43.500 dataS/character/playerF/jacket/topAviatorJacket.i3d (19.63 ms)
 2025-11-15 18:12:43.593 dataS/character/playerF/shoes/laceUpSneaker.i3d (93.08 ms)
 2025-11-15 18:12:43.637 dataS/character/playerF/hairStyles/hairStylePonyTail01.i3d (43.48 ms)
+2025-11-15 18:21:47.129 045 Polskinoob lost connection to the game
