@@ -6572,3 +6572,89 @@ LUA call stack:
 2025-11-15 18:12:43.593 dataS/character/playerF/shoes/laceUpSneaker.i3d (93.08 ms)
 2025-11-15 18:12:43.637 dataS/character/playerF/hairStyles/hairStylePonyTail01.i3d (43.48 ms)
 2025-11-15 18:21:47.129 045 Polskinoob lost connection to the game
+2025-11-15 18:38:03.507 dataS/character/playerM/fullBody/onePieceMechanic.i3d (29.11 ms)
+2025-11-15 18:38:03.523 dataS/character/playerM/shoes/riding.i3d (16.47 ms)
+2025-11-15 18:38:03.558 dataS/character/playerM/hairStyles/hairStyleUnkempt.i3d (34.51 ms)
+2025-11-15 18:38:03.571 dataS/character/playerM/facialHair/mHead02/goatee01.i3d (13.41 ms)
+2025-11-15 18:38:04.499 Jolero joined the game
+2025-11-15 18:38:04.514 dataS/character/playerM/shirts/topTShirt01.i3d (2.28 ms)
+2025-11-15 18:38:04.547 dataS/character/playerM/hairStyles/hairStyleTopKnot.i3d (33.08 ms)
+2025-11-15 18:39:10.269 data/objects/bigBag/bigBag.i3d (5.24 ms)
+2025-11-15 18:39:36.321   Info: [Easy Development Controls] User Jolero has logged in as master user.
+2025-11-15 18:39:40.302 data/objects/bigBag/bigBag.i3d (5.04 ms)
+2025-11-15 18:39:53.230 data/objects/bigBagPallet/bigBagPallet.i3d (4.48 ms)
+2025-11-15 18:39:54.247 data/objects/bigBag/bigBag.i3d (5.27 ms)
+2025-11-15 18:42:28.891 data/objects/bigBagPallet/bigBagPallet.i3d (4.76 ms)
+2025-11-15 18:42:39.092 Game saved successfully (savegame1).
+2025-11-15 18:42:54.436 data/objects/bigBagPallet/bigBagPallet.i3d (4.30 ms)
+2025-11-15 18:43:26.176 data/objects/bigBagPallet/bigBagPallet.i3d (4.73 ms)
+2025-11-15 18:44:24.491 data/objects/bigBagPallet/bigBagPallet.i3d (4.27 ms)
+2025-11-15 18:49:26.331   Info: Adding pallet.
+2025-11-15 18:49:26.508   Info: Adding pallet.
+2025-11-15 18:49:26.663   Info: Adding pallet.
+2025-11-15 18:49:26.768   Info: Adding pallet.
+2025-11-15 18:49:26.927   Info: Adding pallet.
+2025-11-15 18:49:27.031   Info: Adding pallet.
+2025-11-15 18:49:27.170   Info: Adding pallet.
+2025-11-15 18:49:27.292   Info: Adding pallet.
+2025-11-15 18:49:27.415   Info: Adding pallet.
+2025-11-15 18:49:27.569   Info: Adding pallet.
+2025-11-15 18:49:27.657   Info: Adding pallet.
+2025-11-15 18:49:27.798   Info: Adding pallet.
+2025-11-15 18:49:27.941   Info: Adding pallet.
+2025-11-15 18:49:28.097   Info: Adding pallet.
+2025-11-15 18:49:28.222   Info: Adding pallet.
+2025-11-15 18:49:28.362   Info: Adding pallet.
+2025-11-15 18:49:28.504   Info: Adding pallet.
+2025-11-15 18:49:28.673   Info: Adding pallet.
+2025-11-15 18:49:28.812   Info: Adding pallet.
+2025-11-15 18:49:28.968   Info: Adding pallet.
+2025-11-15 18:49:29.091   Info: Adding pallet.
+2025-11-15 18:49:29.265   Info: Adding pallet.
+2025-11-15 18:49:29.423   Info: Adding pallet.
+2025-11-15 18:49:29.635   Info: Adding pallet.
+2025-11-15 18:49:29.812   Info: Adding pallet.
+2025-11-15 18:49:29.951   Info: Adding pallet.
+2025-11-15 18:49:30.127   Info: Adding pallet.
+2025-11-15 18:49:30.373   Info: Adding pallet.
+2025-11-15 18:49:30.512   Info: Adding pallet.
+2025-11-15 18:49:30.757   Info: Adding pallet.
+2025-11-15 18:49:30.951   Info: Adding pallet.
+2025-11-15 18:49:31.077   Info: Adding pallet.
+2025-11-15 18:49:31.270   Info: Adding pallet.
+2025-11-15 18:49:31.462   Info: Adding pallet.
+2025-11-15 18:49:31.659   Info: Adding pallet.
+2025-11-15 18:49:31.855   Info: Adding pallet.
+2025-11-15 18:49:32.065   Info: Adding pallet.
+2025-11-15 18:49:32.331   Info: Adding pallet.
+2025-11-15 18:50:35.677   Info: Moved player to coordinates 1304, 460 successfully.
+2025-11-15 18:53:20.676   Info: Successfully set fill unit 1 of KRONE ZX 560 GD to Grass with a fill level of 56,000 liters.
+2025-11-15 18:53:29.774 data/objects/bigBagPallet/bigBagPallet.i3d (4.70 ms)
+2025-11-15 18:53:30.864 data/objects/bigBag/bigBag.i3d (5.26 ms)
+2025-11-15 18:53:41.923   Info: Successfully set fill unit 1 of KRONE ZX 560 GD to Grass with a fill level of 56,000 liters.
+2025-11-15 18:53:50.827 data/objects/bigBag/bigBag.i3d (5.03 ms)
+2025-11-15 18:54:02.782   Info: Successfully set fill unit 1 of KRONE ZX 560 GD to Grass with a fill level of 56,000 liters.
+2025-11-15 18:54:21.152   Info: Successfully set fill unit 1 of KRONE ZX 560 GD to Grass with a fill level of 56,000 liters.
+2025-11-15 18:54:37.956   Info: Successfully set fill unit 1 of KRONE ZX 560 GD to Grass with a fill level of 56,000 liters.
+2025-11-15 18:54:56.498   Info: Successfully set fill unit 1 of KRONE ZX 560 GD to Grass with a fill level of 56,000 liters.
+2025-11-15 18:55:15.972   Info: Successfully set fill unit 1 of KRONE ZX 560 GD to Hay with a fill level of 56,000 liters.
+2025-11-15 18:55:54.679   Info: Successfully set fill unit 1 of KRONE ZX 560 GD to Hay with a fill level of 56,000 liters.
+2025-11-15 18:56:10.614 data/shared/assets/reflectors/lizard/yellowRound_03.i3d (1.01 ms)
+2025-11-15 18:56:10.615 data/shared/assets/reflectors/lizard/redTriangle_02.i3d (0.90 ms)
+2025-11-15 18:56:10.616 data/vehicles/kotte/frc65/frc65.i3d (13.75 ms)
+2025-11-15 18:56:10.732 data/shared/wheels/tires/bkt/ridemaxFL693M/560_45R22_5.i3d (2.60 ms)
+2025-11-15 18:56:16.539   Info: Added € 34,000 to farm account. (3)
+2025-11-15 18:56:19.919   Info: Successfully set fill unit 1 of KRONE ZX 560 GD to Hay with a fill level of 56,000 liters.
+2025-11-15 18:57:51.948   Info: Successfully emptied fill unit 1 of Lizard MKS 32.
+2025-11-15 18:59:19.852   Info: Successfully set fill unit 1 of Lizard MKS 32 to Milk with a fill level of 20,000 liters.
+2025-11-15 19:00:08.846 siwa joined the game
+2025-11-15 19:01:39.065   Info: Successfully set fill unit 1 of Lizard MKS 32 to Milk with a fill level of 32,000 liters.
+2025-11-15 19:02:33.327   Info: Successfully set fill unit 1 of Lizard MKS 32 to Buffalo Milk with a fill level of 32,000 liters.
+2025-11-15 19:12:44.073 Game saved successfully (savegame1).
+2025-11-15 19:17:41.425 data/objects/bigBag/bigBag.i3d (6.25 ms)
+2025-11-15 19:19:05.280 dataS/character/playerF/pants/botChinos.i3d (13.15 ms)
+2025-11-15 19:19:05.473 dataS/character/playerF/heads/fHead04.i3d (193.08 ms)
+2025-11-15 19:19:05.491 dataS/character/playerF/jacket/topAviatorJacket.i3d (18.64 ms)
+2025-11-15 19:19:05.567 dataS/character/playerF/shoes/laceUpSneaker.i3d (75.06 ms)
+2025-11-15 19:19:05.602 dataS/character/playerF/hairStyles/hairStylePonyTail01.i3d (35.42 ms)
+2025-11-15 19:27:29.636   Info: Successfully set fill unit 1 of Lizard MKS 32 to Buffalo Milk with a fill level of 32,000 liters.
