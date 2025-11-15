@@ -6380,3 +6380,12 @@ LUA call stack:
 2025-11-15 13:32:55.629 zwierek lost connection to the game
 2025-11-15 13:41:55.120 Game saved successfully (savegame1).
 2025-11-15 13:45:26.629 Romek lost connection to the game
+2025-11-15 14:06:56.071 zone lost connection to the game
+2025-11-15 14:09:36.306 symonixprime joined the game
+2025-11-15 14:09:36.462 dataS/character/playerM/pants/poettinger/poettingerShort.i3d (139.61 ms)
+2025-11-15 14:09:36.553 dataS/character/playerM/shirts/topTShirt02.i3d (90.87 ms)
+2025-11-15 14:09:36.643 dataS/character/playerM/shoes/sandalM02.i3d (89.98 ms)
+2025-11-15 14:09:36.677 dataS/character/playerM/hairStyles/hairStyleTopKnot.i3d (33.63 ms)
+2025-11-15 14:09:36.691 dataS/character/playerM/facialHair/mHead02/fullBeard.i3d (14.60 ms)
+2025-11-15 14:11:55.392 Game saved successfully (savegame1).
+2025-11-15 14:13:02.561 hubsonwaliszot lost connection to the game
