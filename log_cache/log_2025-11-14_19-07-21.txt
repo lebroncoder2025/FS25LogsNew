@@ -6223,3 +6223,13 @@ LUA call stack:
 2025-11-15 11:15:07.926   Info: Super Strength enabled by zwierek
 2025-11-15 11:15:21.107   Info: Super Strength disabled by zwierek
 2025-11-15 11:20:42.727 Lewy lost connection to the game
+2025-11-15 11:22:56.435 Lewy joined the game
+2025-11-15 11:22:56.442 dataS/character/playerM/heads/mHead05.i3d (236.95 ms)
+2025-11-15 11:22:56.556 dataS/character/playerM/shirts/zipNeckPullover.i3d (114.37 ms)
+2025-11-15 11:22:56.597 dataS/character/playerM/hairStyles/hairStyleManBun.i3d (40.92 ms)
+2025-11-15 11:22:56.608 dataS/character/playerM/facialHair/mHead05/goatee02.i3d (10.41 ms)
+2025-11-15 11:22:56.748 dataS/character/playerM/pants/poettinger/poettingerShort.i3d (139.78 ms)
+2025-11-15 11:22:56.841 dataS/character/playerM/jacket/claas/claasTop.i3d (93.10 ms)
+2025-11-15 11:22:56.845 dataS/character/playerM/attachments/headgearBeanie.i3d (4.25 ms)
+2025-11-15 11:22:56.868 dataS/character/playerM/shoes/crok.i3d (23.12 ms)
+2025-11-15 11:22:56.887 dataS/character/playerM/facialHair/mHead01/goatee01.i3d (19.03 ms)
