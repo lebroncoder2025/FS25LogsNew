@@ -6271,3 +6271,11 @@ LUA call stack:
 2025-11-15 12:16:08.225 symonixprime joined the game
 2025-11-15 12:16:08.337 dataS/character/playerM/shirts/topTShirt02.i3d (91.03 ms)
 2025-11-15 12:16:08.338 dataS/character/playerM/shoes/sandalM02.i3d (1.09 ms)
+2025-11-15 12:23:33.337 symonixprime lost connection to the game
+2025-11-15 12:25:13.822 Warning: Send called with unknown target address.
+2025-11-15 12:25:13.836 siwa left the game
+2025-11-15 12:25:42.314 symonixprime joined the game
+2025-11-15 12:25:42.426 dataS/character/playerM/shirts/topTShirt02.i3d (92.25 ms)
+2025-11-15 12:25:42.427 dataS/character/playerM/shoes/sandalM02.i3d (1.11 ms)
+2025-11-15 12:30:59.847 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.54 ms)
+2025-11-15 12:30:59.983 data/objects/bigBag/bigBag.i3d (6.70 ms)
