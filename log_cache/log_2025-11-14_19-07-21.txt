@@ -6658,3 +6658,5 @@ LUA call stack:
 2025-11-15 19:19:05.567 dataS/character/playerF/shoes/laceUpSneaker.i3d (75.06 ms)
 2025-11-15 19:19:05.602 dataS/character/playerF/hairStyles/hairStylePonyTail01.i3d (35.42 ms)
 2025-11-15 19:27:29.636   Info: Successfully set fill unit 1 of Lizard MKS 32 to Buffalo Milk with a fill level of 32,000 liters.
+2025-11-15 19:35:03.341 siwa left the game
+2025-11-15 19:42:53.540 Game saved successfully (savegame1).
