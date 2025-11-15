@@ -5408,3 +5408,54 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-15 22:30:52.127 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.69 ms)
 2025-11-15 22:31:11.384 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.66 ms)
 2025-11-15 22:31:11.463 data/objects/bigBagPallet/bigBagPallet.i3d (4.64 ms)
+2025-11-15 22:34:04.817 dataS/character/playerM/pants/botLeather.i3d (17.63 ms)
+2025-11-15 22:34:04.847 dataS/character/playerM/jacket/topVest.i3d (30.02 ms)
+2025-11-15 22:34:28.129 dataS/character/playerF/pants/botJeansCapris.i3d (20.43 ms)
+2025-11-15 22:34:28.323 dataS/character/playerF/heads/fHead03.i3d (193.65 ms)
+2025-11-15 22:34:28.372 dataS/character/playerF/shirts/topTankTop.i3d (48.76 ms)
+2025-11-15 22:34:28.375 dataS/character/playerF/shoes/sneaker01.i3d (2.80 ms)
+2025-11-15 22:34:34.848   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Case IH 160 CVX'
+2025-11-15 22:39:41.298 zone left the game
+2025-11-15 22:41:12.700   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'STEYR 8130 Super Elite'
+2025-11-15 22:42:02.918 Game saved successfully (savegame1).
+2025-11-15 22:43:23.889   Info: No 'ExhaustExtension' particle system added to vehicle 'Jungheinrich EFG S50 Pro' because it has no exhaust
+2025-11-15 22:43:33.210 zone joined the game
+2025-11-15 22:43:33.318 dataS/character/playerM/jacket/caseIH/caseIHTop.i3d (94.03 ms)
+2025-11-15 22:43:33.325 dataS/character/playerM/attachments/caseIHhat.i3d (6.68 ms)
+2025-11-15 22:43:33.340 dataS/character/playerM/facialHair/mHead02/fullBeard.i3d (14.57 ms)
+2025-11-15 22:45:05.098 zone was kicked from the game
+2025-11-15 22:46:08.727 zone joined the game
+2025-11-15 22:46:08.836 dataS/character/playerM/jacket/caseIH/caseIHTop.i3d (93.73 ms)
+2025-11-15 22:46:08.843 dataS/character/playerM/attachments/caseIHhat.i3d (6.44 ms)
+2025-11-15 22:46:08.857 dataS/character/playerM/facialHair/mHead02/fullBeard.i3d (14.48 ms)
+2025-11-15 22:51:42.462 Błażej lost connection to the game
+2025-11-15 22:51:54.791 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.74 ms)
+2025-11-15 22:53:40.701 dataS/character/playerM/jacket/topDenimJacket.i3d (22.68 ms)
+2025-11-15 22:53:40.734 dataS/character/playerM/hairStyles/hairStyleMidParted01.i3d (33.01 ms)
+2025-11-15 22:54:41.554 dataS/character/playerM/heads/mHead05.i3d (191.84 ms)
+2025-11-15 22:54:41.648 dataS/character/playerM/shirts/zipNeckPullover.i3d (94.08 ms)
+2025-11-15 22:54:41.681 dataS/character/playerM/hairStyles/hairStyleManBun.i3d (32.96 ms)
+2025-11-15 22:54:41.691 dataS/character/playerM/facialHair/mHead05/goatee02.i3d (9.74 ms)
+2025-11-15 22:57:52.054   Info: The condition of Fendt 832 Vario Gen5 - 60km/h and all connected implements updated.
+2025-11-15 22:58:13.005   Info: The condition of Fendt 832 Vario Gen5 - 60km/h and all connected implements updated.
+2025-11-15 23:04:11.617 dataS/character/playerM/fullBody/onePieceMechanic.i3d (29.23 ms)
+2025-11-15 23:04:11.633 dataS/character/playerM/shoes/riding.i3d (16.64 ms)
+2025-11-15 23:04:11.668 dataS/character/playerM/hairStyles/hairStyleUnkempt.i3d (35.02 ms)
+2025-11-15 23:04:11.682 dataS/character/playerM/facialHair/mHead02/goatee01.i3d (13.63 ms)
+2025-11-15 23:04:37.861   Info: Moved 3 vehicles to coordinates 735, 988 successfully.
+2025-11-15 23:05:01.456   Info: Moved 3 vehicles to coordinates 745, 1007 successfully.
+2025-11-15 23:06:39.508 dataS/character/playerM/jacket/topDenimJacket.i3d (22.43 ms)
+2025-11-15 23:06:39.541 dataS/character/playerM/hairStyles/hairStyleMidParted01.i3d (32.77 ms)
+2025-11-15 23:09:04.840 M@rcin lost connection to the game
+2025-11-15 23:09:41.030 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.69 ms)
+2025-11-15 23:10:27.715 dataS/character/playerF/pants/botYogaPants.i3d (10.67 ms)
+2025-11-15 23:10:27.823 dataS/character/playerF/heads/fHead02.i3d (108.27 ms)
+2025-11-15 23:10:27.871 dataS/character/playerF/shirts/topTankTop.i3d (48.19 ms)
+2025-11-15 23:10:27.963 dataS/character/playerF/shoes/sportSneaker.i3d (92.00 ms)
+2025-11-15 23:10:27.998 dataS/character/playerF/hairStyles/hairStyleLongSideParted.i3d (34.04 ms)
+2025-11-15 23:10:35.338   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Case IH 160 CVX'
+2025-11-15 23:11:45.155 dataS/character/playerM/jacket/topDenimJacket.i3d (22.87 ms)
+2025-11-15 23:11:45.188 dataS/character/playerM/hairStyles/hairStyleMidParted01.i3d (32.73 ms)
+2025-11-15 23:11:45.189 dataS/character/playerM/facialHair/mHead01/beardStubble.i3d (1.36 ms)
+2025-11-15 23:12:09.262 Game saved successfully (savegame1).
+2025-11-15 23:14:05.936   Info: Moved player to coordinates 306, 536 successfully.
