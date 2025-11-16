@@ -6770,3 +6770,8 @@ dataS/scripts/vehicles/specializations/AnimatedVehicle.lua:1297: attempt to get 
 2025-11-16 20:13:16.473 dataS/character/playerM/jacket/topDenimJacket.i3d (28.10 ms)
 2025-11-16 20:13:44.202   Info: Successfully set fill unit 2 of KRONE ZX 560 GD to Silage Additive with a fill level of 10 liters.
 2025-11-16 20:16:19.780 Game saved successfully (savegame1).
+2025-11-16 20:22:33.856 zwierek joined the game
+2025-11-16 20:22:33.915 dataS/character/playerM/hairStyles/hairStyleBaldTop.i3d (38.72 ms)
+2025-11-16 20:22:33.924 dataS/character/playerM/facialHair/mHead01/walrusXL.i3d (9.62 ms)
+2025-11-16 20:29:01.660   Info: Updated field 40 successfully (3) (1)
+2025-11-16 20:32:18.639 siwa lost connection to the game
