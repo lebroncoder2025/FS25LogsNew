@@ -6843,3 +6843,10 @@ dataS/scripts/vehicles/specializations/AnimatedVehicle.lua:1297: attempt to get 
 2025-11-16 21:25:06.899 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_fullServiceWorkshop/carport2.i3d (11.68 ms)
 2025-11-16 21:26:51.409 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_barriersPackage/i3d/zavora8m.i3d (6.04 ms)
 2025-11-16 21:27:42.162   Info: Moved 2 vehicles to coordinates 1930, 487 successfully.
+2025-11-16 21:29:58.507 Ksawerow1 joined the game
+2025-11-16 21:31:00.292   Info: Updated field 132 successfully (3) (1)
+2025-11-16 21:31:02.599   Info: Updated field 132 successfully (3) (1)
+2025-11-16 21:33:09.267   Info: Updated field 129 successfully (3) (1)
+2025-11-16 21:36:52.408 Warning: Send called with unknown target address.
+2025-11-16 21:36:52.417 Jolero left the game
+2025-11-16 21:37:13.514 zwierek lost connection to the game
