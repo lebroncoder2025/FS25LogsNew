@@ -5842,3 +5842,16 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-16 13:56:17.680 Figuana joined the game
 2025-11-16 13:57:08.141 data/objects/pallets/pioneer/pioneerPallet.i3d (1.84 ms)
 2025-11-16 13:57:14.723 Błażej lost connection to the game
+2025-11-16 14:00:12.190 Piotrek joined the game
+2025-11-16 14:00:12.216 dataS/character/playerM/pants/botChinos.i3d (13.13 ms)
+2025-11-16 14:00:12.293 dataS/character/playerM/shirts/strauss/straussTShirtMerino.i3d (77.05 ms)
+2025-11-16 14:00:12.298 dataS/character/playerM/gloves/glovesGeneric.i3d (4.88 ms)
+2025-11-16 14:00:12.390 dataS/character/playerM/shoes/sandalM03.i3d (91.78 ms)
+2025-11-16 14:00:12.390 dataS/character/playerM/hairStyles/hairStyleBald.i3d (0.30 ms)
+2025-11-16 14:05:34.974 Lewy lost connection to the game
+2025-11-16 14:15:09.286 Game saved successfully (savegame1).
+2025-11-16 14:17:59.847 siwa joined the game
+2025-11-16 14:20:50.282   Info: Successfully added 'ExhaustExtension' particle system to 2 nodes of vehicle '601S Trabant original'
+2025-11-16 14:25:31.515 zwierek joined the game
+2025-11-16 14:25:31.561 dataS/character/playerM/hairStyles/hairStyleBaldTop.i3d (30.79 ms)
+2025-11-16 14:25:31.569 dataS/character/playerM/facialHair/mHead01/walrusXL.i3d (8.77 ms)
