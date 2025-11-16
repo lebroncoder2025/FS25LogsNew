@@ -5557,3 +5557,27 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-16 07:37:36.327 M@rcin lost connection to the game
 2025-11-16 07:44:05.756 Game saved successfully (savegame1).
 2025-11-16 08:14:07.502 Game saved successfully (savegame1).
+2025-11-16 08:44:07.693 Game saved successfully (savegame1).
+2025-11-16 09:11:05.593 dataS/character/playerF/pants/botJeansCapris.i3d (30.50 ms)
+2025-11-16 09:11:05.824 dataS/character/playerF/heads/fHead03.i3d (230.39 ms)
+2025-11-16 09:11:05.882 dataS/character/playerF/shirts/topTankTop.i3d (58.33 ms)
+2025-11-16 09:11:05.886 dataS/character/playerF/shoes/sneaker01.i3d (3.56 ms)
+2025-11-16 09:12:15.771 M@rcin joined the game
+2025-11-16 09:12:15.809 dataS/character/playerM/jacket/topAviatorJacket.i3d (18.46 ms)
+2025-11-16 09:12:15.842 dataS/character/playerM/hairStyles/hairStyleDiablo.i3d (33.03 ms)
+2025-11-16 09:12:15.843 dataS/character/playerM/facialHair/mHead01/beardStubble.i3d (1.43 ms)
+2025-11-16 09:12:42.225 zone joined the game
+2025-11-16 09:12:42.257 dataS/character/playerM/heads/mHead02.i3d (13.88 ms)
+2025-11-16 09:12:42.375 dataS/character/playerM/jacket/caseIH/caseIHTop.i3d (118.76 ms)
+2025-11-16 09:12:42.384 dataS/character/playerM/attachments/caseIHhat.i3d (9.03 ms)
+2025-11-16 09:12:42.424 dataS/character/playerM/hairStyles/hairStyleFringe.i3d (39.98 ms)
+2025-11-16 09:12:42.441 dataS/character/playerM/facialHair/mHead02/fullBeard.i3d (16.25 ms)
+2025-11-16 09:14:09.601 Game saved successfully (savegame1).
+2025-11-16 09:14:56.778 dataS/character/playerM/pants/botCargo.i3d (17.61 ms)
+2025-11-16 09:14:56.821 dataS/character/playerM/jacket/topConstruction.i3d (42.33 ms)
+2025-11-16 09:14:56.826 dataS/character/playerM/gloves/stihl/glovesStihl.i3d (5.59 ms)
+2025-11-16 09:14:56.835 dataS/character/playerM/attachments/headgearStihl.i3d (9.00 ms)
+2025-11-16 09:14:56.860 dataS/character/playerM/shoes/elten/arborist.i3d (25.25 ms)
+2025-11-16 09:15:32.591 dataS/character/playerM/jacket/topAviatorJacket.i3d (18.51 ms)
+2025-11-16 09:15:32.624 dataS/character/playerM/hairStyles/hairStyleDiablo.i3d (33.07 ms)
+2025-11-16 09:15:32.626 dataS/character/playerM/facialHair/mHead01/beardStubble.i3d (1.63 ms)
