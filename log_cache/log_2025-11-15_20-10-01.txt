@@ -5696,3 +5696,46 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-16 11:26:31.871 dataS/character/playerM/gloves/glovesGeneric.i3d (4.88 ms)
 2025-11-16 11:26:31.872 dataS/character/playerM/hairStyles/hairStyleBald.i3d (0.30 ms)
 2025-11-16 11:36:58.731 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.72 ms)
+2025-11-16 11:40:08.981 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.71 ms)
+2025-11-16 11:42:48.998   Info: Moved player to coordinates 652, 775 successfully.
+2025-11-16 11:43:30.503 dataS/character/playerF/pants/botYogaPants.i3d (16.54 ms)
+2025-11-16 11:43:30.636 dataS/character/playerF/heads/fHead02.i3d (132.82 ms)
+2025-11-16 11:43:30.684 dataS/character/playerF/shirts/topTankTop.i3d (48.53 ms)
+2025-11-16 11:43:30.688 dataS/character/playerF/shoes/sportSneaker.i3d (3.16 ms)
+2025-11-16 11:43:30.729 dataS/character/playerF/hairStyles/hairStyleLongSideParted.i3d (41.13 ms)
+2025-11-16 11:44:42.358 Game saved successfully (savegame1).
+2025-11-16 11:50:38.195   Info: Successfully set fill unit 2 of HORSCH Avatar 12.25 SD to Solid Fertilizer with a fill level of 1,000 liters.
+2025-11-16 11:50:39.638 dataS/character/playerM/heads/mHead05.i3d (192.24 ms)
+2025-11-16 11:50:39.732 dataS/character/playerM/shirts/zipNeckPullover.i3d (94.60 ms)
+2025-11-16 11:50:39.767 dataS/character/playerM/hairStyles/hairStyleManBun.i3d (34.44 ms)
+2025-11-16 11:50:39.777 dataS/character/playerM/facialHair/mHead05/goatee02.i3d (9.99 ms)
+2025-11-16 11:56:11.788 dataS/character/playerM/pants/botLeather.i3d (17.37 ms)
+2025-11-16 11:56:11.818 dataS/character/playerM/jacket/topVest.i3d (30.06 ms)
+2025-11-16 12:00:12.004 data/objects/pallets/raniWrapPallet/raniWrapPallet.i3d (2.62 ms)
+2025-11-16 12:00:12.078 data/objects/pallets/liquidTank/liquidTank.i3d (3.33 ms)
+2025-11-16 12:00:12.118 data/objects/bigBagPallet/bigBagPallet.i3d (4.51 ms)
+2025-11-16 12:01:36.013 dataS/character/playerF/pants/botYogaPants.i3d (10.76 ms)
+2025-11-16 12:01:36.124 dataS/character/playerF/heads/fHead02.i3d (111.30 ms)
+2025-11-16 12:01:36.173 dataS/character/playerF/shirts/topTankTop.i3d (48.90 ms)
+2025-11-16 12:01:36.175 dataS/character/playerF/shoes/sportSneaker.i3d (2.23 ms)
+2025-11-16 12:01:36.210 dataS/character/playerF/hairStyles/hairStyleLongSideParted.i3d (34.39 ms)
+2025-11-16 12:04:02.420 data/objects/pallets/pioneer/pioneerPallet.i3d (1.82 ms)
+2025-11-16 12:07:49.055 dataS/character/playerF/pants/botChinos.i3d (3.97 ms)
+2025-11-16 12:07:49.166 dataS/character/playerF/heads/fHead06.i3d (109.35 ms)
+2025-11-16 12:07:49.219 dataS/character/playerF/shirts/topBlouse.i3d (53.18 ms)
+2025-11-16 12:07:49.222 dataS/character/playerF/shoes/sneaker01.i3d (2.77 ms)
+2025-11-16 12:07:49.257 dataS/character/playerF/hairStyles/hairStyleMidSideParted.i3d (34.97 ms)
+2025-11-16 12:10:32.709 Warning: Send called with unknown target address.
+2025-11-16 12:10:32.725 Błażej left the game
+2025-11-16 12:11:02.254 data/objects/pallets/pioneer/pioneerPallet.i3d (1.75 ms)
+2025-11-16 12:11:07.847 dataS/character/playerM/fullBody/onePieceMechanic.i3d (29.34 ms)
+2025-11-16 12:11:07.863 dataS/character/playerM/shoes/riding.i3d (16.63 ms)
+2025-11-16 12:11:07.899 dataS/character/playerM/hairStyles/hairStyleUnkempt.i3d (35.20 ms)
+2025-11-16 12:11:07.985 dataS/character/playerM/facialHair/mHead02/goatee01.i3d (13.95 ms)
+2025-11-16 12:12:19.735 Romek lost connection to the game
+2025-11-16 12:12:49.399 dataS/character/playerF/pants/botCargo.i3d (982.02 ms)
+2025-11-16 12:12:49.405 dataS/character/playerF/jacket/topVest.i3d (6.66 ms)
+2025-11-16 12:12:49.409 dataS/character/playerF/shoes/workboot02.i3d (4.01 ms)
+2025-11-16 12:12:49.451 dataS/character/playerF/hairStyles/hairStylePonyTail03.i3d (41.28 ms)
+2025-11-16 12:14:54.637 Game saved successfully (savegame1).
+2025-11-16 12:15:23.177 zone lost connection to the game
