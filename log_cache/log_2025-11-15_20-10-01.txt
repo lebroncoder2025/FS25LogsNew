@@ -5929,3 +5929,4 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-16 15:14:11.729 dataS/character/playerF/shoes/sportSneaker.i3d (92.52 ms)
 2025-11-16 15:14:11.764 dataS/character/playerF/hairStyles/hairStyleLongSideParted.i3d (34.36 ms)
 2025-11-16 15:15:24.137 Game saved successfully (savegame1).
+2025-11-16 15:23:24.303   Info: No 'ExhaustExtension' particle system added to vehicle 'Kärcher HDS 9/18-4 M' because it has no exhaust
