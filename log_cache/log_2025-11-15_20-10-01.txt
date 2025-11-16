@@ -6885,3 +6885,12 @@ dataS/scripts/vehicles/specializations/AnimatedVehicle.lua:1297: attempt to get 
 2025-11-16 22:33:44.518 Piotrek lost connection to the game
 2025-11-16 22:35:54.772 Agro_Ziomek lost connection to the game
 2025-11-16 22:40:14.322 data/objects/bigBag/bigBag.i3d (4.90 ms)
+2025-11-16 22:41:47.576 data/shared/assets/reflectors/lizard/bigTriangle.i3d (1.83 ms)
+2025-11-16 22:41:47.577 data/shared/assets/reflectors/lizard/redTriangle_02.i3d (0.99 ms)
+2025-11-16 22:41:47.583 data/vehicles/dalbo/powerchain800/powerchain800.i3d (49.19 ms)
+2025-11-16 22:41:47.728 data/shared/wheels/tires/vredestein/flotationTrac/520_50R17.i3d (2.45 ms)
+2025-11-16 22:41:47.763 data/shared/assets/lights/lizard/rearLight26.i3d (5.91 ms)
+2025-11-16 22:42:54.500   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'New Holland T6.160'
+2025-11-16 22:44:56.888 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_weight2500KG/weight2500KG.i3d (60.06 ms)
+2025-11-16 22:46:41.201 data/objects/bigBag/bigBag.i3d (4.67 ms)
+2025-11-16 22:46:47.526 Game saved successfully (savegame1).
