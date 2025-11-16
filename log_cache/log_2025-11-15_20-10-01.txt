@@ -6757,3 +6757,16 @@ dataS/scripts/vehicles/specializations/AnimatedVehicle.lua:1297: attempt to get 
 2025-11-16 20:00:49.126 dataS/character/playerM/attachments/hatWoolen.i3d (46.64 ms)
 2025-11-16 20:00:49.160 dataS/character/playerM/hairStyles/hairStyleMullet.i3d (33.88 ms)
 2025-11-16 20:00:49.171 dataS/character/playerM/facialHair/mHead02/trimmedBeard.i3d (11.15 ms)
+2025-11-16 20:07:45.735 Jolero joined the game
+2025-11-16 20:07:45.785 dataS/character/playerM/hairStyles/hairStyleTopKnot.i3d (33.99 ms)
+2025-11-16 20:07:45.804 dataS/character/playerM/facialHair/mHead01/goatee01.i3d (19.16 ms)
+2025-11-16 20:08:45.111   Info: [Easy Development Controls] User Jolero has logged in as master user.
+2025-11-16 20:09:46.046 dataS/character/playerM/pants/botLeather.i3d (17.72 ms)
+2025-11-16 20:10:27.024 dataS/character/playerM/fullBody/onePieceMechanic.i3d (28.97 ms)
+2025-11-16 20:10:27.040 dataS/character/playerM/shoes/riding.i3d (16.61 ms)
+2025-11-16 20:10:27.075 dataS/character/playerM/hairStyles/hairStyleUnkempt.i3d (35.29 ms)
+2025-11-16 20:10:27.089 dataS/character/playerM/facialHair/mHead02/goatee01.i3d (13.97 ms)
+2025-11-16 20:10:48.813   Info: Moved player to coordinates 640, 840 successfully.
+2025-11-16 20:13:16.473 dataS/character/playerM/jacket/topDenimJacket.i3d (28.10 ms)
+2025-11-16 20:13:44.202   Info: Successfully set fill unit 2 of KRONE ZX 560 GD to Silage Additive with a fill level of 10 liters.
+2025-11-16 20:16:19.780 Game saved successfully (savegame1).
