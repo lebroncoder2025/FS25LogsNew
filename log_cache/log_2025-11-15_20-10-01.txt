@@ -5685,3 +5685,14 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-16 11:22:12.306   Info: No 'ExhaustExtension' particle system added to vehicle 'Lizard Screw conveyor' because it has no exhaust
 2025-11-16 11:22:15.043   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'STEYR 8130 Super Elite'
 2025-11-16 11:22:27.233   Info: Savegame Setting 'fruitDesctructionEnabled': true
+2025-11-16 11:23:42.764 dataS/character/playerM/fullBody/onePieceMechanic.i3d (28.87 ms)
+2025-11-16 11:23:42.780 dataS/character/playerM/shoes/riding.i3d (16.44 ms)
+2025-11-16 11:23:42.825 dataS/character/playerM/hairStyles/hairStyleUnkempt.i3d (45.18 ms)
+2025-11-16 11:23:42.840 dataS/character/playerM/facialHair/mHead02/goatee01.i3d (15.15 ms)
+2025-11-16 11:25:52.303 Piotrek lost connection to the game
+2025-11-16 11:26:31.768 Piotrek joined the game
+2025-11-16 11:26:31.790 dataS/character/playerM/pants/botChinos.i3d (3.66 ms)
+2025-11-16 11:26:31.866 dataS/character/playerM/shirts/strauss/straussTShirtMerino.i3d (76.11 ms)
+2025-11-16 11:26:31.871 dataS/character/playerM/gloves/glovesGeneric.i3d (4.88 ms)
+2025-11-16 11:26:31.872 dataS/character/playerM/hairStyles/hairStyleBald.i3d (0.30 ms)
+2025-11-16 11:36:58.731 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.72 ms)
