@@ -6841,3 +6841,5 @@ dataS/scripts/vehicles/specializations/AnimatedVehicle.lua:1297: attempt to get 
 2025-11-16 21:22:15.211 dataS/character/playerF/shoes/workboot02.i3d (3.11 ms)
 2025-11-16 21:22:15.245 dataS/character/playerF/hairStyles/hairStylePonyTail03.i3d (34.20 ms)
 2025-11-16 21:25:06.899 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_fullServiceWorkshop/carport2.i3d (11.68 ms)
+2025-11-16 21:26:51.409 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_barriersPackage/i3d/zavora8m.i3d (6.04 ms)
+2025-11-16 21:27:42.162   Info: Moved 2 vehicles to coordinates 1930, 487 successfully.
