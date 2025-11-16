@@ -176,10 +176,18 @@ def download_logs(DIR):
             ftp.cwd(DIR)
             entries = []
             ftp.retrlines("MLSD", entries.append)
-            files = [line.split(";")[-1].strip() for line in entries if line.endswith(".txt") or line.endswith(".log")]
+            files = []
+            for line in entries:
+                filename = line.split(";")[-1].strip()
+                if filename and (filename.lower().endswith(".txt") or filename.lower().endswith(".log")):
+                    files.append(filename)
             logging.info(f"📄 Znaleziono {len(files)} plików logów.")
             
             for filename in files:
+                if not filename or not isinstance(filename, str):
+                    logging.warning(f"⚠️ Pominięto nieprawidłową nazwę pliku: {filename}")
+                    continue
+                    
                 local_path = os.path.join(LOG_DIR, filename)
                 download = True
                 if os.path.exists(local_path):
