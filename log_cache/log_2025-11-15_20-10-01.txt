@@ -5765,3 +5765,72 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-16 12:32:26.349   Error (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_UrsusT127pack/ursusT127plus.xml): Sound template 'defaultHydraulicSound' was not found in vehicle.cylindered.sounds.hydraulic
 2025-11-16 12:32:26.385 data/shared/wheels/tires/trelleborg/T404/400_55R17_5.i3d (4.54 ms)
 2025-11-16 12:32:26.402 data/shared/assets/lights/lizard/plateNumberLight03.i3d (1.91 ms)
+2025-11-16 12:32:44.942 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_UrsusT127pack/ursusT127.i3d (44.62 ms)
+2025-11-16 12:32:45.070   Error (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_UrsusT127pack/ursusT127.xml): Sound template 'defaultHydraulicSound' was not found in vehicle.cylindered.sounds.hydraulic
+2025-11-16 12:32:45.102 data/shared/wheels/tires/trelleborg/T404/400_55R17_5.i3d (2.89 ms)
+2025-11-16 12:32:45.119 data/shared/assets/lights/lizard/plateNumberLight03.i3d (1.97 ms)
+2025-11-16 12:33:45.556 dataS/character/playerF/heads/fHead06.i3d (109.34 ms)
+2025-11-16 12:33:45.609 dataS/character/playerF/shirts/topBlouse.i3d (53.35 ms)
+2025-11-16 12:33:45.644 dataS/character/playerF/hairStyles/hairStyleMidSideParted.i3d (34.74 ms)
+2025-11-16 12:34:43.211 data/objects/pallets/silageAdditive/silageAdditivePallet.i3d (11.75 ms)
+2025-11-16 12:35:11.400 data/objects/pallets/silageAdditive/silageAdditivePallet.i3d (11.27 ms)
+2025-11-16 12:37:20.561 symonixprime lost connection to the game
+2025-11-16 12:37:34.872   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'New Holland 190 50KPH'
+2025-11-16 12:38:57.431 data/objects/pallets/pioneer/pioneerPallet.i3d (1.76 ms)
+2025-11-16 12:39:17.661 data/objects/pallets/pioneer/pioneerPallet.i3d (1.76 ms)
+2025-11-16 12:40:33.927 dataS/character/playerM/pants/botLeather.i3d (17.65 ms)
+2025-11-16 12:40:33.957 dataS/character/playerM/jacket/topVest.i3d (30.14 ms)
+2025-11-16 12:40:33.991 dataS/character/playerM/hairStyles/hairStyleFringe.i3d (34.11 ms)
+2025-11-16 12:44:58.187 Game saved successfully (savegame1).
+2025-11-16 12:45:17.177 data/objects/pallets/silageAdditive/silageAdditivePallet.i3d (11.42 ms)
+2025-11-16 12:45:29.379   Info: Moved player to coordinates 684, 900 successfully.
+2025-11-16 12:47:57.833 dataS/character/playerM/fullBody/onePieceMechanic.i3d (28.86 ms)
+2025-11-16 12:47:57.849 dataS/character/playerM/shoes/riding.i3d (16.69 ms)
+2025-11-16 12:47:57.884 dataS/character/playerM/hairStyles/hairStyleUnkempt.i3d (34.91 ms)
+2025-11-16 12:47:57.898 dataS/character/playerM/facialHair/mHead02/goatee01.i3d (13.67 ms)
+2025-11-16 12:49:04.092 data/objects/pallets/pioneer/pioneerPallet.i3d (1.80 ms)
+2025-11-16 12:49:49.329 dataS/character/playerM/heads/mHead05.i3d (193.29 ms)
+2025-11-16 12:49:49.423 dataS/character/playerM/shirts/zipNeckPullover.i3d (93.87 ms)
+2025-11-16 12:49:49.456 dataS/character/playerM/hairStyles/hairStyleManBun.i3d (33.18 ms)
+2025-11-16 12:49:49.466 dataS/character/playerM/facialHair/mHead05/goatee02.i3d (9.82 ms)
+2025-11-16 12:51:03.639 data/objects/pallets/pioneer/pioneerPallet.i3d (1.69 ms)
+2025-11-16 12:51:58.198 dataS/character/playerM/jacket/topDenimJacket.i3d (22.76 ms)
+2025-11-16 12:51:58.231 dataS/character/playerM/hairStyles/hairStyleMidParted01.i3d (32.78 ms)
+2025-11-16 12:51:58.232 dataS/character/playerM/facialHair/mHead01/beardStubble.i3d (1.34 ms)
+2025-11-16 12:53:26.214 dataS/character/playerM/pants/botLeather.i3d (17.44 ms)
+2025-11-16 12:53:26.244 dataS/character/playerM/jacket/topVest.i3d (30.15 ms)
+2025-11-16 12:53:26.279 dataS/character/playerM/hairStyles/hairStyleFringe.i3d (34.46 ms)
+2025-11-16 12:54:06.493 dataS/character/playerF/pants/botJeansCapris.i3d (20.32 ms)
+2025-11-16 12:54:06.686 dataS/character/playerF/heads/fHead03.i3d (193.35 ms)
+2025-11-16 12:54:06.689 dataS/character/playerF/shoes/sneaker01.i3d (2.78 ms)
+2025-11-16 13:02:12.594   Info: Savegame Setting 'fruitDesctructionEnabled': false
+2025-11-16 13:03:23.027   Info: Savegame Setting 'fruitDesctructionEnabled': true
+2025-11-16 13:04:09.489 dataS/character/playerM/heads/mHead03.i3d (192.99 ms)
+2025-11-16 13:04:09.523 dataS/character/playerM/hairStyles/hairStyleMidParted01.i3d (33.31 ms)
+2025-11-16 13:06:32.761 dataS/character/playerM/fullBody/onePieceMechanic.i3d (29.71 ms)
+2025-11-16 13:06:32.778 dataS/character/playerM/shoes/riding.i3d (16.82 ms)
+2025-11-16 13:06:32.814 dataS/character/playerM/hairStyles/hairStyleUnkempt.i3d (35.52 ms)
+2025-11-16 13:06:32.828 dataS/character/playerM/facialHair/mHead02/goatee01.i3d (13.91 ms)
+2025-11-16 13:07:17.552 dataS/character/playerM/heads/mHead05.i3d (192.65 ms)
+2025-11-16 13:07:17.646 dataS/character/playerM/shirts/zipNeckPullover.i3d (94.14 ms)
+2025-11-16 13:07:17.679 dataS/character/playerM/hairStyles/hairStyleManBun.i3d (33.44 ms)
+2025-11-16 13:07:17.689 dataS/character/playerM/facialHair/mHead05/goatee02.i3d (9.77 ms)
+2025-11-16 13:15:02.867 Game saved successfully (savegame1).
+2025-11-16 13:17:06.694 dataS/character/playerM/jacket/topVest.i3d (30.28 ms)
+2025-11-16 13:17:06.729 dataS/character/playerM/hairStyles/hairStyleFringe.i3d (34.47 ms)
+2025-11-16 13:19:40.753 zwierek lost connection to the game
+2025-11-16 13:21:18.396 zone joined the game
+2025-11-16 13:21:18.507 dataS/character/playerM/jacket/caseIH/caseIHTop.i3d (94.23 ms)
+2025-11-16 13:21:18.514 dataS/character/playerM/attachments/caseIHhat.i3d (6.69 ms)
+2025-11-16 13:21:18.528 dataS/character/playerM/facialHair/mHead02/fullBeard.i3d (14.71 ms)
+2025-11-16 13:22:12.271 dataS/character/playerF/pants/botChinos.i3d (13.41 ms)
+2025-11-16 13:22:12.380 dataS/character/playerF/heads/fHead06.i3d (109.53 ms)
+2025-11-16 13:22:12.433 dataS/character/playerF/shirts/topBlouse.i3d (53.38 ms)
+2025-11-16 13:22:12.436 dataS/character/playerF/shoes/sneaker01.i3d (2.78 ms)
+2025-11-16 13:22:12.471 dataS/character/playerF/hairStyles/hairStyleMidSideParted.i3d (34.77 ms)
+2025-11-16 13:25:31.153 zone left the game
+2025-11-16 13:27:16.314   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Case IH 160 CVX'
+2025-11-16 13:32:11.445 dataS/character/playerM/heads/mHead05.i3d (192.88 ms)
+2025-11-16 13:32:11.539 dataS/character/playerM/shirts/zipNeckPullover.i3d (93.90 ms)
+2025-11-16 13:32:11.572 dataS/character/playerM/hairStyles/hairStyleManBun.i3d (33.37 ms)
+2025-11-16 13:32:11.582 dataS/character/playerM/facialHair/mHead05/goatee02.i3d (9.86 ms)
