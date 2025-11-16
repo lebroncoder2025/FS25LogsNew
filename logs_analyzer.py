@@ -170,33 +170,13 @@ def parse_details(details):
 def download_logs(DIR):
     try:
         logging.info("🔄 Łączenie z FTP...")
-        # Basic validation for FTP configuration
-        if not FTP_HOST or not FTP_USER or not FTP_PASS:
-            err_msg = "Brakuje konfiguracji FTP (FTP_HOST/FTP_USER/FTP_PASS)"
-            with open(ERROR_LOG, "a", encoding="utf-8") as f:
-                f.write(f"{datetime.now()}: Błąd FTP: {err_msg}\n")
-            logging.error(f"❌ Błąd FTP: {err_msg}")
-            return
         with ftplib.FTP(timeout=10) as ftp:
             ftp.connect(FTP_HOST, FTP_PORT, timeout=10)
             ftp.login(FTP_USER, FTP_PASS)
             ftp.cwd(DIR)
             entries = []
             ftp.retrlines("MLSD", entries.append)
-            # Parse entries and extract filenames robustly
-            files = []
-            for line in entries:
-                try:
-                    # The filename should be after the last ';' or last space
-                    name = line.split(";")[-1].strip()
-                    if not name:
-                        name = line.rsplit(None, 1)[-1].strip() if line.rsplit(None, 1) else None
-                    if not name:
-                        continue
-                    if isinstance(name, str) and (name.endswith('.txt') or name.endswith('.log')):
-                        files.append(name)
-                except Exception:
-                    logging.debug(f"⚠️ Nie udało się sparsować wpisu MLSD: {line}")
+            files = [line.split(";")[-1].strip() for line in entries if line.endswith(".txt") or line.endswith(".log")]
             logging.info(f"📄 Znaleziono {len(files)} plików logów.")
             
             for filename in files:
@@ -207,9 +187,6 @@ def download_logs(DIR):
                     local_size = os.path.getsize(local_path)
                     if remote_size is not None and remote_size == local_size:
                         try:
-                            if not filename:
-                                logging.warning("⚠️ Pomijam wpis z pustą lub nieprawidłową nazwą pliku MLSD")
-                                continue
                             remote_mtime = ftp.sendcmd("MDTM " + filename)[4:].strip()
                             remote_time = datetime.strptime(remote_mtime, "%Y%m%d%H%M%S")
                             local_time = datetime.fromtimestamp(os.path.getmtime(local_path))
@@ -227,11 +204,8 @@ def download_logs(DIR):
                 
                 if download:
                     try:
-                        if not filename:
-                            logging.warning(f"⚠️ Pomijam pobieranie z pustą nazwą pliku: {filename}")
-                            continue
                         with open(local_path, "wb") as f:
-                            ftp.retrbinary("RETR " + filename, f.write)
+                            ftp.retrbinary(f"RETR " + filename, f.write)
                         logging.info(f"✅ Pobrano: {filename}")
                     except Exception as file_error:
                         logging.warning(f"⚠️ Błąd podczas pobierania {filename}: {file_error}")
