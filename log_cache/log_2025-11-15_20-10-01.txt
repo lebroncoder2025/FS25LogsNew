@@ -6883,3 +6883,5 @@ dataS/scripts/vehicles/specializations/AnimatedVehicle.lua:1297: attempt to get 
 2025-11-16 22:31:23.966 Ksawerow1 lost connection to the game
 2025-11-16 22:33:32.442 M@rcin lost connection to the game
 2025-11-16 22:33:44.518 Piotrek lost connection to the game
+2025-11-16 22:35:54.772 Agro_Ziomek lost connection to the game
+2025-11-16 22:40:14.322 data/objects/bigBag/bigBag.i3d (4.90 ms)
