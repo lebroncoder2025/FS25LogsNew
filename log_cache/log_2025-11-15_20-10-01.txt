@@ -5621,3 +5621,67 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-16 10:22:03.144 data/objects/pallets/pioneer/pioneerPallet.i3d (1.76 ms)
 2025-11-16 10:22:09.883 data/objects/pallets/pioneer/pioneerPallet.i3d (1.76 ms)
 2025-11-16 10:24:07.898 data/objects/pallets/pioneer/pioneerPallet.i3d (1.77 ms)
+2025-11-16 10:37:00.325 dataS/character/playerM/pants/botLeather.i3d (17.28 ms)
+2025-11-16 10:37:00.362 dataS/character/playerM/jacket/topVest.i3d (36.79 ms)
+2025-11-16 10:39:14.563 dataS/character/playerF/pants/botJeansCapris.i3d (20.38 ms)
+2025-11-16 10:39:14.756 dataS/character/playerF/heads/fHead03.i3d (192.91 ms)
+2025-11-16 10:39:14.806 dataS/character/playerF/shirts/topTankTop.i3d (48.28 ms)
+2025-11-16 10:39:14.809 dataS/character/playerF/shoes/sneaker01.i3d (2.80 ms)
+2025-11-16 10:40:56.872 dataS/character/playerM/jacket/topDenimJacket.i3d (30.98 ms)
+2025-11-16 10:40:56.905 dataS/character/playerM/hairStyles/hairStyleMidParted01.i3d (32.90 ms)
+2025-11-16 10:44:19.096   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Valtra VALMET 8750'
+2025-11-16 10:44:27.913 Game saved successfully (savegame1).
+2025-11-16 10:48:29.386 dataS/character/playerF/pants/botJeansCapris.i3d (20.19 ms)
+2025-11-16 10:48:29.580 dataS/character/playerF/heads/fHead03.i3d (192.91 ms)
+2025-11-16 10:48:29.628 dataS/character/playerF/shirts/topTankTop.i3d (48.22 ms)
+2025-11-16 10:48:29.631 dataS/character/playerF/shoes/sneaker01.i3d (2.65 ms)
+2025-11-16 10:50:32.366 Romek lost connection to the game
+2025-11-16 11:02:53.693 Romek joined the game
+2025-11-16 11:02:53.818 dataS/character/playerM/pants/strauss/motion2020Pants2ndVariant.i3d (106.54 ms)
+2025-11-16 11:02:53.963 dataS/character/playerM/jacket/topVestM.i3d (145.76 ms)
+2025-11-16 11:02:53.966 dataS/character/playerM/attachments/headgearBandana.i3d (2.46 ms)
+2025-11-16 11:02:53.967 dataS/character/playerM/attachments/glassesSports02.i3d (1.44 ms)
+2025-11-16 11:02:54.000 dataS/character/playerM/hairStyles/hairStyleTopKnot.i3d (33.23 ms)
+2025-11-16 11:02:54.012 dataS/character/playerM/facialHair/mHead01/trimmedBeard.i3d (11.40 ms)
+2025-11-16 11:04:26.979 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_NewHollandTM/TM.i3d (1364.95 ms)
+2025-11-16 11:04:27.400 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_NewHollandTM/wheels/TMrims.i3d (120.92 ms)
+2025-11-16 11:06:37.339 dataS/character/playerM/heads/mHead05.i3d (233.34 ms)
+2025-11-16 11:06:37.453 dataS/character/playerM/shirts/zipNeckPullover.i3d (114.80 ms)
+2025-11-16 11:06:37.494 dataS/character/playerM/hairStyles/hairStyleManBun.i3d (40.67 ms)
+2025-11-16 11:06:37.505 dataS/character/playerM/facialHair/mHead05/goatee02.i3d (10.38 ms)
+2025-11-16 11:06:40.179 symonixprime joined the game
+2025-11-16 11:06:40.313 dataS/character/playerM/shirts/topTShirt02.i3d (117.05 ms)
+2025-11-16 11:06:40.315 dataS/character/playerM/shoes/sandalM02.i3d (1.40 ms)
+2025-11-16 11:07:12.357 dataS/character/playerF/pants/botChinos.i3d (13.14 ms)
+2025-11-16 11:07:12.550 dataS/character/playerF/heads/fHead04.i3d (192.55 ms)
+2025-11-16 11:07:12.555 dataS/character/playerF/jacket/topAviatorJacket.i3d (5.06 ms)
+2025-11-16 11:07:12.631 dataS/character/playerF/shoes/laceUpSneaker.i3d (75.42 ms)
+2025-11-16 11:07:12.666 dataS/character/playerF/hairStyles/hairStylePonyTail01.i3d (35.10 ms)
+2025-11-16 11:07:41.290 data/shared/wheels/tires/trelleborg/TwinRadial/600_55R26_5.i3d (4.00 ms)
+2025-11-16 11:07:54.906   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'New Holland 175'
+2025-11-16 11:13:14.527 data/shared/wheels/tires/bkt/agrimaxVFlecto/710_70R38.i3d (2.67 ms)
+2025-11-16 11:13:22.235   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'New Holland 190 50KPH'
+2025-11-16 11:13:32.842   Info: Successfully set fill unit 1 of HORSCH Avatar 12.25 SD to Seeds with a fill level of 3,360 liters.
+2025-11-16 11:14:35.971 Game saved successfully (savegame1).
+2025-11-16 11:14:41.836 dataS/character/playerF/heads/fHead06.i3d (136.21 ms)
+2025-11-16 11:14:41.890 dataS/character/playerF/shirts/topBlouse.i3d (53.66 ms)
+2025-11-16 11:14:41.893 dataS/character/playerF/shoes/sneaker01.i3d (2.76 ms)
+2025-11-16 11:14:41.935 dataS/character/playerF/hairStyles/hairStyleMidSideParted.i3d (42.46 ms)
+2025-11-16 11:16:56.450 Piotrek joined the game
+2025-11-16 11:16:56.477 dataS/character/playerM/pants/botChinos.i3d (8.62 ms)
+2025-11-16 11:16:56.570 dataS/character/playerM/shirts/strauss/straussTShirtMerino.i3d (93.15 ms)
+2025-11-16 11:16:56.576 dataS/character/playerM/gloves/glovesGeneric.i3d (6.12 ms)
+2025-11-16 11:16:56.576 dataS/character/playerM/hairStyles/hairStyleBald.i3d (0.43 ms)
+2025-11-16 11:19:45.445 dataS/character/playerM/fullBody/onePieceMechanic.i3d (34.68 ms)
+2025-11-16 11:20:24.074 Warning: Send called with unknown target address.
+2025-11-16 11:20:24.083 Piotrek left the game
+2025-11-16 11:20:57.039 Piotrek joined the game
+2025-11-16 11:20:57.062 dataS/character/playerM/pants/botChinos.i3d (3.81 ms)
+2025-11-16 11:20:57.138 dataS/character/playerM/shirts/strauss/straussTShirtMerino.i3d (76.23 ms)
+2025-11-16 11:20:57.143 dataS/character/playerM/gloves/glovesGeneric.i3d (4.93 ms)
+2025-11-16 11:20:57.143 dataS/character/playerM/hairStyles/hairStyleBald.i3d (0.28 ms)
+2025-11-16 11:21:15.448   Info: Savegame Setting 'fruitDesctructionEnabled': false
+2025-11-16 11:22:08.709 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_ScrewConveyor/Zmijka.i3d (211.05 ms)
+2025-11-16 11:22:12.306   Info: No 'ExhaustExtension' particle system added to vehicle 'Lizard Screw conveyor' because it has no exhaust
+2025-11-16 11:22:15.043   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'STEYR 8130 Super Elite'
+2025-11-16 11:22:27.233   Info: Savegame Setting 'fruitDesctructionEnabled': true
