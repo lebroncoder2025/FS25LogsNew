@@ -5581,3 +5581,15 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-16 09:15:32.591 dataS/character/playerM/jacket/topAviatorJacket.i3d (18.51 ms)
 2025-11-16 09:15:32.624 dataS/character/playerM/hairStyles/hairStyleDiablo.i3d (33.07 ms)
 2025-11-16 09:15:32.626 dataS/character/playerM/facialHair/mHead01/beardStubble.i3d (1.63 ms)
+2025-11-16 09:32:36.769 Błażej joined the game
+2025-11-16 09:32:36.791 dataS/character/playerM/shirts/topTShirt01.i3d (7.01 ms)
+2025-11-16 09:32:36.903 dataS/character/playerM/shoes/sportSneaker.i3d (112.20 ms)
+2025-11-16 09:34:04.770 siwa joined the game
+2025-11-16 09:34:53.032 hubsonwaliszot joined the game
+2025-11-16 09:34:53.072 dataS/character/playerM/pants/botJeanShorts.i3d (25.45 ms)
+2025-11-16 09:34:53.456 dataS/character/playerM/shirts/poettinger/poettingerTshirt.i3d (383.50 ms)
+2025-11-16 09:34:53.516 dataS/character/playerM/gloves/strauss/glovesEsTrailLight02.i3d (60.21 ms)
+2025-11-16 09:34:53.575 dataS/character/playerM/attachments/hatWoolen.i3d (58.42 ms)
+2025-11-16 09:34:53.615 dataS/character/playerM/hairStyles/hairStyleMullet.i3d (40.44 ms)
+2025-11-16 09:34:53.627 dataS/character/playerM/facialHair/mHead02/trimmedBeard.i3d (12.00 ms)
+2025-11-16 09:41:12.136   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'John Deere 6195M Chiptuning 50km/h'
