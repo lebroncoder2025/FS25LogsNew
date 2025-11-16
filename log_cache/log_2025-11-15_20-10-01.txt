@@ -6850,3 +6850,27 @@ dataS/scripts/vehicles/specializations/AnimatedVehicle.lua:1297: attempt to get 
 2025-11-16 21:36:52.408 Warning: Send called with unknown target address.
 2025-11-16 21:36:52.417 Jolero left the game
 2025-11-16 21:37:13.514 zwierek lost connection to the game
+2025-11-16 21:42:15.007 symonixprime lost connection to the game
+2025-11-16 21:43:49.964 Agro_Ziomek joined the game
+2025-11-16 21:44:50.734 data/shared/assets/reflectors/lizard/redRound_01.i3d (1.14 ms)
+2025-11-16 21:44:50.735 data/shared/assets/reflectors/lizard/yellowRectangle_01.i3d (0.93 ms)
+2025-11-16 21:44:50.799 data/vehicles/horsch/maestro975RX/maestro975RX.i3d (111.16 ms)
+2025-11-16 21:44:51.064 data/shared/wheels/rims/implement/rim003.i3d (5.57 ms)
+2025-11-16 21:44:51.067 data/shared/wheels/tires/bkt/TR315/23__10_50__12.i3d (2.91 ms)
+2025-11-16 21:45:22.397 data/shared/assets/reflectors/lizard/yellowRound_03.i3d (0.96 ms)
+2025-11-16 21:45:22.411 data/vehicles/horsch/partner1600FT/partner1600FT.i3d (38.94 ms)
+2025-11-16 21:45:22.590 data/shared/wheels/tires/bkt/AS504/7_0__12.i3d (2.51 ms)
+2025-11-16 21:46:32.906 Game saved successfully (savegame1).
+2025-11-16 21:47:07.423 hubsonwaliszot lost connection to the game
+2025-11-16 21:49:41.654 hubsonwaliszot joined the game
+2025-11-16 21:49:41.685 dataS/character/playerM/pants/botJeanShorts.i3d (16.51 ms)
+2025-11-16 21:49:41.968 dataS/character/playerM/shirts/poettinger/poettingerTshirt.i3d (283.62 ms)
+2025-11-16 21:49:42.016 dataS/character/playerM/gloves/strauss/glovesEsTrailLight02.i3d (47.97 ms)
+2025-11-16 21:49:42.063 dataS/character/playerM/attachments/hatWoolen.i3d (46.42 ms)
+2025-11-16 21:49:42.096 dataS/character/playerM/hairStyles/hairStyleMullet.i3d (33.52 ms)
+2025-11-16 21:49:42.107 dataS/character/playerM/facialHair/mHead02/trimmedBeard.i3d (10.97 ms)
+2025-11-16 22:04:24.033 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.74 ms)
+2025-11-16 22:04:45.351 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.70 ms)
+2025-11-16 22:04:49.714   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'CLAAS Lexion 590'
+2025-11-16 22:14:58.182 data/objects/bigBag/bigBag.i3d (5.71 ms)
+2025-11-16 22:16:41.336 Game saved successfully (savegame1).
