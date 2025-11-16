@@ -5930,3 +5930,24 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-16 15:14:11.764 dataS/character/playerF/hairStyles/hairStyleLongSideParted.i3d (34.36 ms)
 2025-11-16 15:15:24.137 Game saved successfully (savegame1).
 2025-11-16 15:23:24.303   Info: No 'ExhaustExtension' particle system added to vehicle 'Kärcher HDS 9/18-4 M' because it has no exhaust
+2025-11-16 15:45:03.017 symonixprime joined the game
+2025-11-16 15:45:03.214 dataS/character/playerM/pants/poettinger/poettingerShort.i3d (179.17 ms)
+2025-11-16 15:45:03.307 dataS/character/playerM/shirts/topTShirt02.i3d (93.78 ms)
+2025-11-16 15:45:03.308 dataS/character/playerM/shoes/sandalM02.i3d (1.02 ms)
+2025-11-16 15:45:03.344 dataS/character/playerM/hairStyles/hairStyleTopKnot.i3d (34.24 ms)
+2025-11-16 15:45:34.176 Game saved successfully (savegame1).
+2025-11-16 15:48:28.758   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Case IH 160 CVX'
+2025-11-16 15:49:22.485 symonixprime lost connection to the game
+2025-11-16 15:51:09.877 symonixprime joined the game
+2025-11-16 15:51:10.035 dataS/character/playerM/pants/poettinger/poettingerShort.i3d (141.20 ms)
+2025-11-16 15:51:10.127 dataS/character/playerM/shirts/topTShirt02.i3d (91.96 ms)
+2025-11-16 15:51:10.128 dataS/character/playerM/shoes/sandalM02.i3d (1.03 ms)
+2025-11-16 15:51:10.162 dataS/character/playerM/hairStyles/hairStyleTopKnot.i3d (34.35 ms)
+2025-11-16 16:08:36.085 Game saved successfully (savegame1).
+2025-11-16 16:09:42.674 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.71 ms)
+2025-11-16 16:10:03.805 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.68 ms)
+2025-11-16 16:14:13.099   Info: Successfully cleared all height type at a radius of 21 m².
+2025-11-16 16:14:17.620   Info: Successfully cleared all height type at a radius of 21 m².
+2025-11-16 16:15:45.142 Game saved successfully (savegame1).
+2025-11-16 16:19:59.666 data/objects/pallets/silageAdditive/silageAdditivePallet.i3d (11.45 ms)
+2025-11-16 16:20:27.504 data/objects/pallets/silageAdditive/silageAdditivePallet.i3d (11.65 ms)
