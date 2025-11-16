@@ -6881,3 +6881,5 @@ dataS/scripts/vehicles/specializations/AnimatedVehicle.lua:1297: attempt to get 
 2025-11-16 22:28:03.679 dataS/character/playerF/shoes/sneaker01.i3d (2.72 ms)
 2025-11-16 22:28:03.745 dataS/character/playerF/hairStyles/hairStyleMidSideParted.i3d (66.22 ms)
 2025-11-16 22:31:23.966 Ksawerow1 lost connection to the game
+2025-11-16 22:33:32.442 M@rcin lost connection to the game
+2025-11-16 22:33:44.518 Piotrek lost connection to the game
