@@ -27,9 +27,30 @@ os.makedirs(REPORT_DIR, exist_ok=True)
 ERROR_LOG = os.path.join("logs", "error_log.txt")
 UNPARSED_LOG = os.path.join("logs", "unparsed_lines.txt")
 
+# Dynamiczny plik logów (każde uruchomienie w osobnym pliku z timestampem)
+START_TIME_STR = datetime.now(ZoneInfo("Europe/Warsaw")).strftime("%Y-%m-%d_%H-%M-%S")
+SOFTWARE_LOG_FILE = os.path.join("logs", f"software_logs_{START_TIME_STR}.log")
+
+# Archive or rename any legacy 'software_logs.log' to avoid very large files in the repo
+LEGACY_LOG = os.path.join("logs", "software_logs.log")
+if os.path.exists(LEGACY_LOG):
+    try:
+        # Only archive if the file is substantial to avoid cluttering
+        size = os.path.getsize(LEGACY_LOG)
+        if size > 1024 * 1024:  # if larger than 1MB
+            archived_name = os.path.join("logs", f"software_logs_archived_{START_TIME_STR}.log")
+            os.replace(LEGACY_LOG, archived_name)
+            print(f"Archiving old log to {archived_name}")
+        else:
+            # Remove small legacy log if present
+            os.remove(LEGACY_LOG)
+    except Exception:
+        # Ignore archive issues — proceed with new logging
+        pass
+
 # Konfiguracja logging
 logging.basicConfig(
-    filename="logs/software_logs.log",
+    filename=SOFTWARE_LOG_FILE,
     level=logging.INFO,
     format="%(asctime)s - %(levelname)s - %(message)s",
     encoding="utf-8"
