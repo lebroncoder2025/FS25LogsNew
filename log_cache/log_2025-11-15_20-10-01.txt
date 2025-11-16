@@ -5518,3 +5518,10 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-16 03:13:24.496 Game saved successfully (savegame1).
 2025-11-16 03:43:35.158 Game saved successfully (savegame1).
 2025-11-16 04:13:44.844 Game saved successfully (savegame1).
+2025-11-16 04:31:51.505 Lewy joined the game
+2025-11-16 04:31:51.845 dataS/character/playerM/pants/poettinger/poettingerShort.i3d (140.10 ms)
+2025-11-16 04:31:51.938 dataS/character/playerM/jacket/claas/claasTop.i3d (93.54 ms)
+2025-11-16 04:31:51.942 dataS/character/playerM/attachments/headgearBeanie.i3d (4.13 ms)
+2025-11-16 04:31:51.944 dataS/character/playerM/attachments/glassesAviators.i3d (1.40 ms)
+2025-11-16 04:31:51.967 dataS/character/playerM/shoes/crok.i3d (22.98 ms)
+2025-11-16 04:31:51.986 dataS/character/playerM/facialHair/mHead01/goatee01.i3d (18.70 ms)
