@@ -5539,3 +5539,18 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-16 06:06:28.976 data/objects/pallets/oysterBoxPallet/oysterBoxPallet.i3d (21.76 ms)
 2025-11-16 06:14:02.571 Game saved successfully (savegame1).
 2025-11-16 06:24:00.593 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_RounderWrappedRoundbales/assets/roundbale180/roundbale180.i3d (3.31 ms)
+2025-11-16 06:44:04.478 Game saved successfully (savegame1).
+2025-11-16 07:03:18.374 M@rcin joined the game
+2025-11-16 07:03:18.452 dataS/character/playerM/jacket/topAviatorJacket.i3d (61.45 ms)
+2025-11-16 07:03:18.500 dataS/character/playerM/hairStyles/hairStyleDiablo.i3d (48.23 ms)
+2025-11-16 07:03:18.501 dataS/character/playerM/facialHair/mHead01/beardStubble.i3d (1.38 ms)
+2025-11-16 07:09:49.111 data/handTools/stihl/ms261/ms261.i3d (4.05 ms)
+2025-11-16 07:09:51.599 dataS/character/playerM/pants/botCargo.i3d (26.84 ms)
+2025-11-16 07:09:51.652 dataS/character/playerM/jacket/topConstruction.i3d (53.12 ms)
+2025-11-16 07:09:51.660 dataS/character/playerM/gloves/stihl/glovesStihl.i3d (7.74 ms)
+2025-11-16 07:09:51.672 dataS/character/playerM/attachments/headgearStihl.i3d (12.49 ms)
+2025-11-16 07:09:51.705 dataS/character/playerM/shoes/elten/arborist.i3d (32.50 ms)
+2025-11-16 07:10:19.886 dataS/character/playerM/jacket/topAviatorJacket.i3d (18.50 ms)
+2025-11-16 07:10:19.919 dataS/character/playerM/hairStyles/hairStyleDiablo.i3d (32.63 ms)
+2025-11-16 07:10:19.920 dataS/character/playerM/facialHair/mHead01/beardStubble.i3d (1.40 ms)
+2025-11-16 07:14:04.461 Game saved successfully (savegame1).
