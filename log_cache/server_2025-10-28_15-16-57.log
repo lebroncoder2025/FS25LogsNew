@@ -1,0 +1,84 @@
+[28/Oct/2025:15:16:57] Startup
+[28/Oct/2025:15:16:57] Game profile path: D:\home\sid_8377223\farmingSim_2025\profile
+[28/Oct/2025:15:18:40] Initializing mod download manager... (102768.34) ms
+[28/Oct/2025:15:18:57] Build initial mod meta cache... (17281.15) ms
+[28/Oct/2025:15:18:58] Game server process started
+[28/Oct/2025:15:18:58] Game server started
+[28/Oct/2025:15:18:58] URL(s): http://195.179.226.107:8570
+[28/Oct/2025:15:24:11] Login initial admin with username 'admin'
+[28/Oct/2025:15:24:21] Game server process stopped
+[28/Oct/2025:15:24:25] Game server process started
+[28/Oct/2025:15:24:25] Game server started
+[28/Oct/2025:16:52:58] Game server process stopped
+[28/Oct/2025:16:53:32] Mod 'D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Old_Tipper.zip' deleted
+[28/Oct/2025:16:54:13] Game server process started
+[28/Oct/2025:16:54:13] Game server started
+[28/Oct/2025:17:39:09] Game server process stopped
+[28/Oct/2025:17:40:05] Game server process started
+[28/Oct/2025:17:40:05] Game server started
+[28/Oct/2025:17:44:58] Game server process stopped
+[28/Oct/2025:17:45:12] Game server process started
+[28/Oct/2025:17:45:12] Game server started
+[28/Oct/2025:17:57:45] Login initial admin with username 'admin'
+[28/Oct/2025:17:59:37] Login initial admin with username 'admin'
+[28/Oct/2025:18:00:16] Restored backup: savegame 1 (2025-10-27_00-50)
+[28/Oct/2025:18:00:23] Game server process stopped
+[28/Oct/2025:18:00:36] Restored backup: savegame 1 (2025-10-27_00-50)
+[28/Oct/2025:18:00:46] Game server process started
+[28/Oct/2025:18:00:46] Game server started
+[28/Oct/2025:18:06:02] Game server process stopped
+[28/Oct/2025:18:06:10] Restored backup: savegame 1 (2025-10-28_17-44)
+[28/Oct/2025:18:06:16] Game server process started
+[28/Oct/2025:18:06:16] Game server started
+[28/Oct/2025:20:44:27] Login initial admin with username 'admin'
+[29/Oct/2025:00:13:19] Login initial admin with username 'admin'
+[29/Oct/2025:13:41:43] Login initial admin with username 'admin'
+[29/Oct/2025:13:42:30] Game server process stopped
+[29/Oct/2025:13:42:43] Mod 'D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_InfoDisplayExtension.zip' deleted
+[29/Oct/2025:13:42:56] Uploaded mod 'FS25_InfoDisplayExtension.zip' to 'D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_InfoDisplayExtension.zip'
+[29/Oct/2025:13:43:17] Game server process started
+[29/Oct/2025:13:43:17] Game server started
+[29/Oct/2025:18:06:29] Error: Unable to stop game server process
+[29/Oct/2025:18:06:44] Game server process started
+[29/Oct/2025:18:06:44] Game server started
+[30/Oct/2025:17:14:02] Login initial admin with username 'admin'
+[31/Oct/2025:08:12:14] Login initial admin with username 'admin'
+[01/Nov/2025:10:10:49] Login initial admin with username 'admin'
+[01/Nov/2025:10:34:24] Error: Unable to stop game server process
+[01/Nov/2025:10:34:43] Game server process started
+[01/Nov/2025:10:34:43] Game server started
+[01/Nov/2025:20:17:13] Login initial admin with username 'admin'
+[01/Nov/2025:20:30:50] Error: Unable to stop game server process
+[01/Nov/2025:20:32:12] Mod 'D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_silageDieselWaterLfSa.zip' deleted
+[01/Nov/2025:20:32:35] Mod 'D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_NewHollandTX32.zip' deleted
+[01/Nov/2025:20:32:46] Mod 'D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_NewHollandTXSerie.zip' deleted
+[01/Nov/2025:20:33:24] Mod 'D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_GDR_Bunkersilo.zip' deleted
+[01/Nov/2025:20:34:11] Mod 'D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_CaseIH_340_400TSE_FL.zip' deleted
+[01/Nov/2025:20:34:22] Mod 'D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_BizonPack.zip' deleted
+[01/Nov/2025:20:34:50] Mod 'D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Amazone_Centaya_3000_Pack.zip' deleted
+[01/Nov/2025:20:35:49] Uploaded mod 'FS25_NewHollandT5.zip' to 'D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_NewHollandT5.zip'
+[01/Nov/2025:20:35:52] Uploaded mod 'FS25_Vaderstad_Tempo_L16.zip' to 'D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Vaderstad_Tempo_L16.zip'
+[01/Nov/2025:20:35:55] Uploaded mod 'FS25_Zetor_Major_CL80.zip' to 'D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Zetor_Major_CL80.zip'
+[01/Nov/2025:20:35:58] Uploaded mod 'FS25_deutzFahr_topLiner4090.zip' to 'D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_deutzFahr_topLiner4090.zip'
+[01/Nov/2025:20:36:50] Uploaded mod 'FS25_DeutzFahrPack.zip' to 'D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_DeutzFahrPack.zip'
+[01/Nov/2025:20:36:53] Uploaded mod 'FS25_NewHollandTM.zip' to 'D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_NewHollandTM.zip'
+[01/Nov/2025:20:36:57] Uploaded mod 'FS25_RodotremCurtoRandon.zip' to 'D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_RodotremCurtoRandon.zip'
+[01/Nov/2025:20:37:00] Uploaded mod 'FS25_deutz_fahr_series8.zip' to 'D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_deutz_fahr_series8.zip'
+[01/Nov/2025:20:37:03] Uploaded mod 'FS25_squareSlurryTank.zip' to 'D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_squareSlurryTank.zip'
+[01/Nov/2025:20:37:55] Uploaded mod 'FS25_NewHollandTX32.zip' to 'D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_NewHollandTX32.zip'
+[01/Nov/2025:20:37:58] Uploaded mod 'FS25_NewHollandTXSerie.zip' to 'D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_NewHollandTXSerie.zip'
+[01/Nov/2025:20:38:02] Uploaded mod 'FS25_butcherShop.zip' to 'D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_butcherShop.zip'
+[01/Nov/2025:20:38:05] Uploaded mod 'FS25_liquidsHandlingTruckTrain.zip' to 'D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_liquidsHandlingTruckTrain.zip'
+[01/Nov/2025:20:38:08] Uploaded mod 'FS25_loadingRamp.zip' to 'D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_loadingRamp.zip'
+[01/Nov/2025:20:38:11] Uploaded mod 'FS25_silageDieselWaterLfSa.zip' to 'D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_silageDieselWaterLfSa.zip'
+[01/Nov/2025:20:39:42] Game server process started
+[01/Nov/2025:20:39:42] Game server started
+[02/Nov/2025:00:01:33] Warning: Mod-List download failed... retry in 2.000041 s. 0 trail
+[02/Nov/2025:08:29:30] Login initial admin with username 'admin'
+[02/Nov/2025:08:32:49] Error: Unable to stop game server process
+[02/Nov/2025:08:33:56] Uploaded mod 'FS25_JohnDeere_6020_Premium_4cyl.zip' to 'D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_JohnDeere_6020_Premium_4cyl.zip'
+[02/Nov/2025:08:33:59] Uploaded mod 'FS25_michieletto_AM19_pack_crossplay.zip' to 'D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_michieletto_AM19_pack_crossplay.zip'
+[02/Nov/2025:08:34:02] Uploaded mod 'FS25_placeableGreenhouses.zip' to 'D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_placeableGreenhouses.zip'
+[02/Nov/2025:08:35:06] Game server process started
+[02/Nov/2025:08:35:06] Game server started
+[02/Nov/2025:08:35:11] Error: Unable to start game server: Could not save settings for gameserver start

@@ -1,0 +1,56 @@
+[05/Nov/2025:18:53:42] Startup
+[05/Nov/2025:18:53:42] Game profile path: D:\home\sid_8377223\farmingSim_2025\profile
+[05/Nov/2025:18:53:43] Initializing mod download manager... (675.29) ms
+[05/Nov/2025:19:09:00] Build initial mod meta cache... (916952.44) ms
+[05/Nov/2025:19:09:00] Game server process started
+[05/Nov/2025:19:09:00] Game server started
+[05/Nov/2025:19:09:01] URL(s): http://195.179.226.107:8570
+[05/Nov/2025:19:12:21] Login initial admin with username 'admin'
+[07/Nov/2025:16:02:27] Login initial admin with username 'admin'
+[07/Nov/2025:16:02:41] Error: Unable to stop game server process
+[07/Nov/2025:16:03:10] Mod 'D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_largeCowshed3_3.zip' deleted
+[07/Nov/2025:16:04:28] Uploaded mod 'FS25_largeCowshed3_3.zip' to 'D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_largeCowshed3_3.zip'
+[07/Nov/2025:16:06:52] Game server process started
+[07/Nov/2025:16:06:52] Game server started
+[08/Nov/2025:13:16:00] Login initial admin with username 'admin'
+[08/Nov/2025:13:16:10] Error: Unable to stop game server process
+[08/Nov/2025:13:16:18] Game server process started
+[08/Nov/2025:13:16:18] Game server started
+[10/Nov/2025:19:44:52] Login initial admin with username 'admin'
+[10/Nov/2025:19:45:10] Error: Unable to stop game server process
+[10/Nov/2025:20:00:09] Uploaded mod 'FS25_Fendt800VarioGen5.zip' to 'D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Fendt800VarioGen5.zip'
+[10/Nov/2025:20:00:42] Game server process started
+[10/Nov/2025:20:00:42] Game server started
+[10/Nov/2025:20:09:12] Game server process stopped
+[10/Nov/2025:20:10:46] Mod 'D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_silageDieselWaterLfSa.zip' deleted
+[10/Nov/2025:20:10:57] Mod 'D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_liquidsHandlingTruckTrain.zip' deleted
+[10/Nov/2025:20:12:41] Game server process started
+[10/Nov/2025:20:12:41] Game server started
+[12/Nov/2025:00:23:07] Login initial admin with username 'admin'
+[13/Nov/2025:10:27:39] Login initial admin with username 'admin'
+[13/Nov/2025:12:32:38] Login initial admin with username 'admin'
+[13/Nov/2025:15:51:54] Login initial admin with username 'admin'
+[13/Nov/2025:21:52:51] Login initial admin with username 'admin'
+[13/Nov/2025:21:56:53] Error: Unable to stop game server process
+[13/Nov/2025:21:57:00] Game server process started
+[13/Nov/2025:21:57:00] Game server started
+[13/Nov/2025:22:02:16] Login initial admin with username 'admin'
+[13/Nov/2025:22:02:19] Game server process started
+[13/Nov/2025:22:02:19] Game server started
+[14/Nov/2025:16:56:52] Login initial admin with username 'admin'
+[14/Nov/2025:16:59:59] Error: Unable to stop game server process
+[14/Nov/2025:17:00:36] Uploaded mod 'FS25_AnimalFoodCalculator.zip' to 'D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_AnimalFoodCalculator.zip'
+[14/Nov/2025:17:00:45] Uploaded mod 'FS25_manualAttach.zip' to 'D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_manualAttach.zip'
+[14/Nov/2025:17:01:06] Game server process started
+[14/Nov/2025:17:01:06] Game server started
+[14/Nov/2025:19:06:17] Login initial admin with username 'admin'
+[14/Nov/2025:19:06:34] Game server process stopped
+[14/Nov/2025:19:07:14] Mod 'D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_manualAttach.zip' deleted
+[14/Nov/2025:19:07:21] Game server process started
+[14/Nov/2025:19:07:21] Game server started
+[15/Nov/2025:05:01:17] Error: Trying to open empty xml file 'D:/home/sid_8377223/farmingSim_2025/profile/dedicated_server/gameStats.xml'.
+[15/Nov/2025:20:07:57] Login initial admin with username 'admin'
+[15/Nov/2025:20:08:32] Error: Unable to stop game server process
+[15/Nov/2025:20:10:01] Game server process started
+[15/Nov/2025:20:10:01] Game server started
+[16/Nov/2025:21:08:31] Login initial admin with username 'admin'

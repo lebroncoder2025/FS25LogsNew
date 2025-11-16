@@ -1,0 +1,77 @@
+[03/Nov/2025:16:22:01] Startup
+[03/Nov/2025:16:22:01] Game profile path: D:\home\sid_8377223\farmingSim_2025\profile
+[03/Nov/2025:16:22:02] Initializing mod download manager... (717.89) ms
+[03/Nov/2025:16:22:05] Build initial mod meta cache... (3318.80) ms
+[03/Nov/2025:16:22:08] Game server process started
+[03/Nov/2025:16:22:08] Game server started
+[03/Nov/2025:16:22:08] URL(s): http://195.179.226.107:8570
+[03/Nov/2025:16:23:15] Login initial admin with username 'admin'
+[03/Nov/2025:16:24:34] Game server process stopped
+[03/Nov/2025:16:25:49] Restored backup: savegame 1 (2025-11-03_01-08)
+[03/Nov/2025:16:25:59] Game server process started
+[03/Nov/2025:16:25:59] Game server started
+[03/Nov/2025:16:29:37] Game server process stopped
+[03/Nov/2025:16:29:54] Restored backup: savegame 1 (2025-10-31_01-13)
+[03/Nov/2025:16:30:00] Game server process started
+[03/Nov/2025:16:30:00] Game server started
+[03/Nov/2025:16:34:48] Game server process stopped
+[03/Nov/2025:17:25:35] Login initial admin with username 'admin'
+[03/Nov/2025:17:40:04] Mod 'D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Workshop_FS_UP.zip' deleted
+[03/Nov/2025:17:41:20] Mod 'D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Anna_Z644.zip' deleted
+[03/Nov/2025:17:44:00] Game server process started
+[03/Nov/2025:17:44:00] Game server started
+[03/Nov/2025:17:49:04] Game server process stopped
+[03/Nov/2025:17:49:55] Restored backup: savegame 1 (2025-11-03_13-33)
+[03/Nov/2025:17:50:11] Game server process started
+[03/Nov/2025:17:50:11] Game server started
+[03/Nov/2025:17:55:15] Game server process stopped
+[03/Nov/2025:17:55:45] Game server process started
+[03/Nov/2025:17:55:45] Game server started
+[03/Nov/2025:18:17:23] Game server process stopped
+[03/Nov/2025:18:37:18] Login initial admin with username 'admin'
+[03/Nov/2025:18:48:57] Restored backup: savegame 1 (2025-11-03_13-33)
+[03/Nov/2025:18:49:10] Game server process started
+[03/Nov/2025:18:49:10] Game server started
+[03/Nov/2025:19:22:34] Login initial admin with username 'admin'
+[03/Nov/2025:19:22:57] Game server process stopped
+[03/Nov/2025:19:25:24] Game server process started
+[03/Nov/2025:19:25:24] Game server started
+[03/Nov/2025:19:30:05] Game server process stopped
+[03/Nov/2025:19:31:15] Game server process started
+[03/Nov/2025:19:31:15] Game server started
+[03/Nov/2025:19:36:14] Game server process stopped
+[03/Nov/2025:19:37:57] Game server process started
+[03/Nov/2025:19:37:57] Game server started
+[03/Nov/2025:19:41:47] Game server process stopped
+[03/Nov/2025:19:48:23] Game server process started
+[03/Nov/2025:19:48:23] Game server started
+[03/Nov/2025:19:53:34] Game server process stopped
+[03/Nov/2025:19:53:54] Game server process started
+[03/Nov/2025:19:53:54] Game server started
+[03/Nov/2025:19:53:58] Error: Unable to clear logfile
+[03/Nov/2025:19:54:00] Error: Unable to clear logfile
+[03/Nov/2025:19:57:42] Game server process stopped
+[03/Nov/2025:20:03:48] Game server process started
+[03/Nov/2025:20:03:48] Game server started
+[03/Nov/2025:20:07:30] Game server process stopped
+[03/Nov/2025:20:07:39] Restored backup: savegame 1 (2025-10-31_01-13)
+[03/Nov/2025:20:07:47] Game server process started
+[03/Nov/2025:20:07:47] Game server started
+[03/Nov/2025:20:07:49] Error: Unable to clear logfile
+[03/Nov/2025:20:12:46] Error: Unable to clear logfile
+[03/Nov/2025:20:13:39] Game server process stopped
+[03/Nov/2025:20:14:57] Restored backup: savegame 1 (2025-11-02_01-11)
+[03/Nov/2025:20:15:11] Game server process started
+[03/Nov/2025:20:15:11] Game server started
+[03/Nov/2025:20:18:30] Game server process stopped
+[03/Nov/2025:20:18:47] Restored backup: savegame 1 (2025-10-31_01-13)
+[03/Nov/2025:20:18:56] Game server process started
+[03/Nov/2025:20:18:56] Game server started
+[04/Nov/2025:01:19:49] Login initial admin with username 'admin'
+[04/Nov/2025:09:39:21] Login initial admin with username 'admin'
+[05/Nov/2025:07:01:05] Login initial admin with username 'admin'
+[05/Nov/2025:17:37:33] Login initial admin with username 'admin'
+[05/Nov/2025:17:39:50] Login initial admin with username 'admin'
+[05/Nov/2025:17:49:12] Error: Unable to stop game server process
+[05/Nov/2025:17:49:25] Game server process started
+[05/Nov/2025:17:49:25] Game server started
