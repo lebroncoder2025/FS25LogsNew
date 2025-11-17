@@ -7093,3 +7093,59 @@ dataS/scripts/vehicles/specializations/AnimatedVehicle.lua:1297: attempt to get 
 2025-11-17 14:23:30.779 dataS/character/playerM/shoes/riding.i3d (21.53 ms)
 2025-11-17 14:23:30.821 dataS/character/playerM/hairStyles/hairStyleUnkempt.i3d (41.78 ms)
 2025-11-17 14:23:30.843 dataS/character/playerM/facialHair/mHead02/goatee01.i3d (21.75 ms)
+2025-11-17 14:46:50.687 Jolero joined the game
+2025-11-17 14:46:50.709 dataS/character/playerM/shirts/topTShirt01.i3d (7.09 ms)
+2025-11-17 14:46:50.750 dataS/character/playerM/hairStyles/hairStyleTopKnot.i3d (41.39 ms)
+2025-11-17 14:46:50.771 dataS/character/playerM/facialHair/mHead01/goatee01.i3d (20.69 ms)
+2025-11-17 14:47:54.338   Info: [Easy Development Controls] User Jolero has logged in as master user.
+2025-11-17 14:49:03.924 Game saved successfully (savegame1).
+2025-11-17 14:51:59.516   Info: Successfully set fill unit 2 of HORSCH Avatar 12.25 SD to Solid Fertilizer with a fill level of 3,840 liters.
+2025-11-17 14:52:11.094 dataS/character/playerF/pants/botChinos.i3d (3.68 ms)
+2025-11-17 14:52:11.202 dataS/character/playerF/heads/fHead06.i3d (108.14 ms)
+2025-11-17 14:52:11.255 dataS/character/playerF/shirts/topBlouse.i3d (53.17 ms)
+2025-11-17 14:52:11.258 dataS/character/playerF/shoes/sneaker01.i3d (2.67 ms)
+2025-11-17 14:52:11.293 dataS/character/playerF/hairStyles/hairStyleMidSideParted.i3d (34.85 ms)
+2025-11-17 14:52:15.459   Info: Successfully set fill unit 1 of HORSCH Avatar 12.25 SD to Seeds with a fill level of 3,360 liters.
+2025-11-17 15:00:17.309 symonixprime joined the game
+2025-11-17 15:00:17.501 dataS/character/playerM/pants/poettinger/poettingerShort.i3d (176.68 ms)
+2025-11-17 15:00:17.515 dataS/character/playerM/heads/mHead02.i3d (14.37 ms)
+2025-11-17 15:00:17.675 dataS/character/playerM/shirts/topTShirt02.i3d (160.01 ms)
+2025-11-17 15:00:17.682 dataS/character/playerM/shoes/sandalM02.i3d (6.66 ms)
+2025-11-17 15:00:17.708 dataS/character/playerM/facialHair/mHead02/fullBeard.i3d (24.97 ms)
+2025-11-17 15:12:40.286 siwa lost connection to the game
+2025-11-17 15:12:41.121 dataS/character/playerM/pants/botLeather.i3d (18.07 ms)
+2025-11-17 15:12:41.320 dataS/character/playerM/heads/mHead03.i3d (199.06 ms)
+2025-11-17 15:12:41.354 dataS/character/playerM/hairStyles/hairStyleMidParted01.i3d (33.83 ms)
+2025-11-17 15:13:52.753 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_agcoIdealPack/vehicles/fendt/ideal/ideal.i3d (377.22 ms)
+2025-11-17 15:13:53.038 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_agcoIdealPack/crawlers/idealCrawler/idealCrawler.i3d (84.72 ms)
+2025-11-17 15:14:18.378 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_agcoIdealPack/vehicles/fendt/dynaFlex9255/dynaFlex9255.i3d (179.73 ms)
+2025-11-17 15:14:27.287 dataS/character/playerF/pants/botYogaPants.i3d (10.73 ms)
+2025-11-17 15:14:27.396 dataS/character/playerF/heads/fHead02.i3d (108.89 ms)
+2025-11-17 15:14:27.445 dataS/character/playerF/shirts/topTankTop.i3d (48.30 ms)
+2025-11-17 15:14:27.537 dataS/character/playerF/shoes/sportSneaker.i3d (91.67 ms)
+2025-11-17 15:14:27.571 dataS/character/playerF/hairStyles/hairStyleLongSideParted.i3d (34.17 ms)
+2025-11-17 15:15:09.716 data/shared/assets/reflectors/lizard/yellowRound_02.i3d (1.09 ms)
+2025-11-17 15:15:09.721 data/shared/assets/reflectors/lizard/redTriangle_02.i3d (1.01 ms)
+2025-11-17 15:15:09.725 data/vehicles/nardi/n70_40/n70_40.i3d (32.39 ms)
+2025-11-17 15:15:21.180   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Fendt IDEAL 7T'
+2025-11-17 15:17:23.875 045 Polskinoob joined the game
+2025-11-17 15:17:24.015 dataS/character/playerM/pants/strauss/motionPants.i3d (124.78 ms)
+2025-11-17 15:17:24.029 dataS/character/playerM/shirts/ero/eroSweater.i3d (14.12 ms)
+2025-11-17 15:17:24.035 dataS/character/playerM/gloves/glovesMechanic.i3d (5.92 ms)
+2025-11-17 15:17:24.052 dataS/character/playerM/attachments/headgearMotorbike.i3d (16.85 ms)
+2025-11-17 15:17:24.251 dataS/character/playerM/shoes/newHolland/newHolland01.i3d (29.88 ms)
+2025-11-17 15:18:25.479 siwa joined the game
+2025-11-17 15:19:09.466 Game saved successfully (savegame1).
+2025-11-17 15:20:45.391 siwa was kicked from the game
+2025-11-17 15:20:55.253   Info: Successfully set fill unit 1 of HORSCH Avatar 12.25 SD to Seeds with a fill level of 3,360 liters.
+2025-11-17 15:20:56.305   Info: Successfully set fill unit 2 of HORSCH Avatar 12.25 SD to Solid Fertilizer with a fill level of 3,840 liters.
+2025-11-17 15:21:15.767   Info: The condition of Fendt 832 Vario Gen5 - 60km/h and all connected implements updated.
+2025-11-17 15:21:17.527   Info: The condition of Fendt 832 Vario Gen5 - 60km/h and all connected implements updated.
+2025-11-17 15:21:36.340 siwa joined the game
+2025-11-17 15:21:53.103   Info: The condition of Fendt 832 Vario Gen5 - 60km/h and all connected implements updated.
+2025-11-17 15:21:55.326   Info: The condition of Fendt 832 Vario Gen5 - 60km/h and all connected implements updated.
+2025-11-17 15:22:26.491 dataS/character/playerF/pants/botChinos.i3d (3.71 ms)
+2025-11-17 15:22:26.600 dataS/character/playerF/heads/fHead06.i3d (109.46 ms)
+2025-11-17 15:22:26.653 dataS/character/playerF/shirts/topBlouse.i3d (53.28 ms)
+2025-11-17 15:22:26.656 dataS/character/playerF/shoes/sneaker01.i3d (2.71 ms)
+2025-11-17 15:22:26.691 dataS/character/playerF/hairStyles/hairStyleMidSideParted.i3d (34.75 ms)
