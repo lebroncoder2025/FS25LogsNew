@@ -6040,3 +6040,37 @@ LUA call stack:
 2025-11-17 23:24:03.794 data/objects/bigBag/bigBag.i3d (5.69 ms)
 2025-11-17 23:24:10.057 Game saved successfully (savegame1).
 2025-11-17 23:37:39.165   Info: Successfully set fill unit 1 of BREDAL F2WS 4000 to Lime with a fill level of 4,000 liters.
+2025-11-17 23:40:36.072 zone lost connection to the game
+2025-11-17 23:42:33.735 data/objects/pallets/fermentedNapaCabbageBoxPallet/fermentedNapaCabbageBoxPallet.i3d (13.29 ms)
+2025-11-17 23:46:02.599 zwierek left the game
+2025-11-17 23:46:12.228 hubsonwaliszot left the game
+2025-11-17 23:54:19.676 Game saved successfully (savegame1).
+2025-11-18 00:02:08.858 Lewy joined the game
+2025-11-18 00:02:09.199 dataS/character/playerM/pants/poettinger/poettingerShort.i3d (141.22 ms)
+2025-11-18 00:02:09.293 dataS/character/playerM/jacket/claas/claasTop.i3d (93.60 ms)
+2025-11-18 00:02:09.297 dataS/character/playerM/attachments/headgearBeanie.i3d (4.20 ms)
+2025-11-18 00:02:09.298 dataS/character/playerM/attachments/glassesAviators.i3d (1.50 ms)
+2025-11-18 00:02:09.321 dataS/character/playerM/shoes/crok.i3d (23.02 ms)
+2025-11-18 00:02:09.340 dataS/character/playerM/facialHair/mHead01/goatee01.i3d (18.89 ms)
+2025-11-18 00:09:31.204   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Case IH CVX 195'
+2025-11-18 00:10:12.693 data/objects/bigBag/bigBag.i3d (5.59 ms)
+2025-11-18 00:10:13.928 data/objects/pallets/pioneer/pioneerPallet.i3d (1.81 ms)
+2025-11-18 00:10:13.966 data/objects/bigBagPallet/bigBagPallet.i3d (4.13 ms)
+2025-11-18 00:11:03.325 data/objects/pallets/pioneer/pioneerPallet.i3d (1.63 ms)
+2025-11-18 00:11:03.362 data/objects/bigBagPallet/bigBagPallet.i3d (4.58 ms)
+2025-11-18 00:11:07.937 data/objects/pallets/pioneer/pioneerPallet.i3d (1.50 ms)
+2025-11-18 00:11:07.978 data/objects/bigBagPallet/bigBagPallet.i3d (4.15 ms)
+2025-11-18 00:11:21.887 data/objects/bigBag/bigBag.i3d (5.36 ms)
+2025-11-18 00:11:21.902 data/objects/pallets/pioneer/pioneerPallet.i3d (1.45 ms)
+2025-11-18 00:11:21.943 data/objects/bigBagPallet/bigBagPallet.i3d (4.21 ms)
+2025-11-18 00:12:42.692 dataS/character/playerM/pants/botLeather.i3d (17.38 ms)
+2025-11-18 00:12:42.722 dataS/character/playerM/jacket/topVest.i3d (30.00 ms)
+2025-11-18 00:12:42.756 dataS/character/playerM/hairStyles/hairStyleFringe.i3d (34.15 ms)
+2025-11-18 00:17:05.853 Piotrek joined the game
+2025-11-18 00:17:05.883 dataS/character/playerM/pants/botChinos.i3d (13.36 ms)
+2025-11-18 00:17:05.961 dataS/character/playerM/shirts/strauss/straussTShirtMerino.i3d (77.63 ms)
+2025-11-18 00:17:05.966 dataS/character/playerM/gloves/glovesGeneric.i3d (5.08 ms)
+2025-11-18 00:17:06.058 dataS/character/playerM/shoes/sandalM03.i3d (91.93 ms)
+2025-11-18 00:17:06.058 dataS/character/playerM/hairStyles/hairStyleBald.i3d (0.27 ms)
+2025-11-18 00:17:30.616   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'New Holland 190 50KPH'
+2025-11-18 00:20:09.012 Piotrek lost connection to the game
