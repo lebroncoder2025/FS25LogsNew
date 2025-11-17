@@ -7282,3 +7282,51 @@ dataS/scripts/vehicles/specializations/AnimatedVehicle.lua:1297: attempt to get 
 2025-11-17 17:42:13.385 data/shared/assets/reflectors/lizard/yellowRound_02.i3d (0.91 ms)
 2025-11-17 17:42:13.674 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_ChickenTrailersPack/dpw1800.i3d (311.42 ms)
 2025-11-17 17:43:48.210   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Case IH 160 CVX'
+2025-11-17 17:49:34.644 Game saved successfully (savegame1).
+2025-11-17 17:50:11.701 Agro_Ziomek joined the game
+2025-11-17 17:58:16.695 data/objects/bigBag/bigBag.i3d (5.45 ms)
+2025-11-17 18:00:44.950 Figuana joined the game
+2025-11-17 18:02:06.447 Warning: Received user data during handshake.
+2025-11-17 18:02:06.447 Warning: Received packet with invalid app id.
+2025-11-17 18:02:06.447 Warning: Received user data during handshake.
+2025-11-17 18:02:06.447 Warning: Received packet with invalid app id.
+2025-11-17 18:06:04.281 data/objects/bigBag/bigBag.i3d (5.53 ms)
+2025-11-17 18:06:05.424 data/objects/bigBag/bigBag.i3d (5.39 ms)
+2025-11-17 18:06:05.431 data/objects/pallets/pioneer/pioneerPallet.i3d (6.54 ms)
+2025-11-17 18:06:24.589 data/objects/bigBag/bigBag.i3d (5.16 ms)
+2025-11-17 18:06:25.061 Jolero joined the game
+2025-11-17 18:06:25.100 dataS/character/playerM/facialHair/mHead01/goatee01.i3d (19.09 ms)
+2025-11-17 18:06:27.919 data/objects/pallets/pioneer/pioneerPallet.i3d (1.72 ms)
+2025-11-17 18:06:28.908 data/objects/bigBag/bigBag.i3d (5.36 ms)
+2025-11-17 18:06:51.559 siwa joined the game
+2025-11-17 18:07:38.468   Info: [Easy Development Controls] User Jolero has logged in as master user.
+2025-11-17 18:08:35.751 dataS/character/playerF/pants/botChinos.i3d (3.70 ms)
+2025-11-17 18:08:35.860 dataS/character/playerF/heads/fHead06.i3d (109.27 ms)
+2025-11-17 18:08:35.914 dataS/character/playerF/shirts/topBlouse.i3d (53.65 ms)
+2025-11-17 18:08:35.917 dataS/character/playerF/shoes/sneaker01.i3d (2.71 ms)
+2025-11-17 18:08:35.954 dataS/character/playerF/hairStyles/hairStyleMidSideParted.i3d (36.19 ms)
+2025-11-17 18:09:06.004 data/objects/bigBag/bigBag.i3d (5.81 ms)
+2025-11-17 18:09:06.006 data/objects/pallets/pioneer/pioneerPallet.i3d (1.58 ms)
+2025-11-17 18:09:38.419 data/objects/bigBag/bigBag.i3d (5.53 ms)
+2025-11-17 18:09:38.421 data/objects/pallets/pioneer/pioneerPallet.i3d (1.64 ms)
+2025-11-17 18:09:49.287 Jolero lost connection to the game
+2025-11-17 18:10:16.674 data/objects/bigBag/bigBag.i3d (4.74 ms)
+2025-11-17 18:13:32.160 dataS/character/playerM/pants/botLeather.i3d (17.70 ms)
+2025-11-17 18:13:32.191 dataS/character/playerM/jacket/topVest.i3d (31.01 ms)
+2025-11-17 18:13:59.520 data/objects/bigBag/bigBag.i3d (5.73 ms)
+2025-11-17 18:14:32.294 dataS/character/playerF/pants/botJeansCapris.i3d (20.46 ms)
+2025-11-17 18:14:32.486 dataS/character/playerF/heads/fHead03.i3d (193.00 ms)
+2025-11-17 18:14:32.535 dataS/character/playerF/shirts/topTankTop.i3d (48.50 ms)
+2025-11-17 18:15:35.527 data/objects/bigBag/bigBag.i3d (5.60 ms)
+2025-11-17 18:15:57.288 data/objects/bigBag/bigBag.i3d (5.80 ms)
+2025-11-17 18:17:08.516 data/objects/bigBag/bigBag.i3d (5.67 ms)
+2025-11-17 18:17:16.502 data/objects/bigBag/bigBag.i3d (5.79 ms)
+2025-11-17 18:17:20.070 data/objects/bigBag/bigBag.i3d (5.71 ms)
+2025-11-17 18:17:21.874 data/objects/bigBag/bigBag.i3d (5.16 ms)
+2025-11-17 18:18:33.349 data/objects/bigBag/bigBag.i3d (5.54 ms)
+2025-11-17 18:18:46.465 data/objects/bigBag/bigBag.i3d (5.36 ms)
+2025-11-17 18:18:58.800 data/objects/bigBag/bigBag.i3d (6.01 ms)
+2025-11-17 18:19:36.698 Game saved successfully (savegame1).
+2025-11-17 18:20:32.256 data/objects/bigBag/bigBag.i3d (5.21 ms)
+2025-11-17 18:20:55.185 data/objects/bigBag/bigBag.i3d (5.39 ms)
+2025-11-17 18:21:32.122 data/objects/bigBag/bigBag.i3d (5.95 ms)
