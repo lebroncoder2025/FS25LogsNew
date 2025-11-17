@@ -7274,3 +7274,11 @@ dataS/scripts/vehicles/specializations/AnimatedVehicle.lua:1297: attempt to get 
 2025-11-17 17:31:27.102 dataS/character/playerM/shirts/zipNeckPullover.i3d (94.21 ms)
 2025-11-17 17:31:27.136 dataS/character/playerM/hairStyles/hairStyleManBun.i3d (33.33 ms)
 2025-11-17 17:31:27.145 dataS/character/playerM/facialHair/mHead05/goatee02.i3d (9.78 ms)
+2025-11-17 17:33:12.195 data/shared/wheels/tires/michelin/cargoXBib/600_55R26_5.i3d (3.89 ms)
+2025-11-17 17:33:26.789   Info: Super Strength disabled by SzaGhrat
+2025-11-17 17:36:47.411 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.68 ms)
+2025-11-17 17:36:47.490 data/objects/bigBag/bigBag.i3d (5.28 ms)
+2025-11-17 17:42:13.383 data/shared/assets/reflectors/lizard/whiteRound_01.i3d (1.01 ms)
+2025-11-17 17:42:13.385 data/shared/assets/reflectors/lizard/yellowRound_02.i3d (0.91 ms)
+2025-11-17 17:42:13.674 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_ChickenTrailersPack/dpw1800.i3d (311.42 ms)
+2025-11-17 17:43:48.210   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Case IH 160 CVX'
