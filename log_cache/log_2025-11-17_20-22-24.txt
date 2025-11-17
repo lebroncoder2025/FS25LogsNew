@@ -6001,3 +6001,39 @@ LUA call stack:
 2025-11-17 22:36:12.269   Info: Adding pallet.
 2025-11-17 22:36:12.680   Info: Adding pallet.
 2025-11-17 22:36:57.141   Info: Super Strength enabled by zwierek
+2025-11-17 22:37:06.009   Info: Super Strength disabled by zwierek
+2025-11-17 22:38:30.844   Info: Moved 3 vehicles to coordinates 626, 848 successfully.
+2025-11-17 22:38:39.743   Info: Successfully set fill unit 1 of Farmtech Fortis 3000 to Soybeans with a fill level of 55,000 liters.
+2025-11-17 22:39:18.518   Info: Moved 3 vehicles to coordinates 1486, 1446 successfully.
+2025-11-17 22:39:58.895   Info: Super Strength enabled by zwierek
+2025-11-17 22:40:09.348   Info: Super Strength disabled by zwierek
+2025-11-17 22:41:52.650   Info: Successfully set fill unit 2 of HORSCH Avatar 12.25 SD to Solid Fertilizer with a fill level of 3,840 liters.
+2025-11-17 22:43:52.184   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Toyota D4D'
+2025-11-17 22:48:15.313   Info: Super Strength enabled by zwierek
+2025-11-17 22:48:29.197   Info: Super Strength disabled by zwierek
+2025-11-17 22:50:06.849   Info: Super Strength enabled by zwierek
+2025-11-17 22:50:17.491   Info: Super Strength disabled by zwierek
+2025-11-17 22:50:50.625 Warning: Send called with unknown target address.
+2025-11-17 22:50:50.630 zwierek left the game
+2025-11-17 22:54:08.405 Game saved successfully (savegame1).
+2025-11-17 22:54:46.106   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'New Holland T6.160'
+2025-11-17 22:58:50.788 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Tarpaulin/i3d/tarpaulinBlueStorageSmall.i3d (3.67 ms)
+2025-11-17 23:06:29.471 zwierek joined the game
+2025-11-17 23:06:29.575 dataS/character/playerM/shoes/sandalM03.i3d (90.75 ms)
+2025-11-17 23:06:29.607 dataS/character/playerM/hairStyles/hairStyleBaldTop.i3d (31.31 ms)
+2025-11-17 23:06:29.616 dataS/character/playerM/facialHair/mHead01/walrusXL.i3d (9.12 ms)
+2025-11-17 23:07:54.769   Info: [Easy Development Controls] User zwierek has logged in as master user.
+2025-11-17 23:08:17.145   Info: Successfully set fill unit 2 of HORSCH Avatar 12.25 SD to Solid Fertilizer with a fill level of 3,840 liters.
+2025-11-17 23:08:18.232 dataS/character/playerM/heads/mHead05.i3d (193.88 ms)
+2025-11-17 23:08:18.325 dataS/character/playerM/shirts/zipNeckPullover.i3d (93.65 ms)
+2025-11-17 23:08:18.359 dataS/character/playerM/hairStyles/hairStyleManBun.i3d (33.90 ms)
+2025-11-17 23:08:18.369 dataS/character/playerM/facialHair/mHead05/goatee02.i3d (9.96 ms)
+2025-11-17 23:09:32.850 zone joined the game
+2025-11-17 23:09:32.962 dataS/character/playerM/jacket/caseIH/caseIHTop.i3d (95.46 ms)
+2025-11-17 23:09:32.969 dataS/character/playerM/attachments/caseIHhat.i3d (6.59 ms)
+2025-11-17 23:09:33.003 dataS/character/playerM/hairStyles/hairStyleFringe.i3d (33.85 ms)
+2025-11-17 23:09:33.018 dataS/character/playerM/facialHair/mHead02/fullBeard.i3d (14.65 ms)
+2025-11-17 23:15:28.832   Info: Successfully set fill unit 1 of Farmtech Fortis 3000 to Soybeans with a fill level of 55,000 liters.
+2025-11-17 23:19:54.063 data/objects/bigBagPallet/bigBagPallet.i3d (5.19 ms)
+2025-11-17 23:21:37.019 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Sopema_FertilizerTrailer/trailer.i3d (57.95 ms)
+2025-11-17 23:21:37.135 data/shared/wheels/tires/trelleborg/TM700/580_70R38.i3d (2.35 ms)
