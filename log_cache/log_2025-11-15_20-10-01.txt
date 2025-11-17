@@ -7192,3 +7192,13 @@ dataS/scripts/vehicles/specializations/AnimatedVehicle.lua:1297: attempt to get 
 2025-11-17 16:15:05.246 dataS/character/playerF/shoes/sneaker01.i3d (2.72 ms)
 2025-11-17 16:15:05.281 dataS/character/playerF/hairStyles/hairStyleMidSideParted.i3d (34.93 ms)
 2025-11-17 16:19:19.897 Game saved successfully (savegame1).
+2025-11-17 16:30:25.655   Info: Moved 3 vehicles to coordinates 599, 967 successfully.
+2025-11-17 16:30:38.801 SzaGhrat joined the game
+2025-11-17 16:30:38.825 dataS/character/playerM/attachments/headgearBeanie.i3d (4.83 ms)
+2025-11-17 16:30:38.827 dataS/character/playerM/attachments/glassesSports01.i3d (2.03 ms)
+2025-11-17 16:30:38.844 dataS/character/playerM/facialHair/mHead01/muttonChops03.i3d (17.51 ms)
+2025-11-17 16:34:58.359 dataS/character/playerM/pants/botLeather.i3d (17.40 ms)
+2025-11-17 16:34:58.553 dataS/character/playerM/heads/mHead03.i3d (194.58 ms)
+2025-11-17 16:34:58.586 dataS/character/playerM/hairStyles/hairStyleMidParted01.i3d (33.14 ms)
+2025-11-17 16:39:28.340 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.71 ms)
+2025-11-17 16:39:28.425 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_mrhHandLiftableConsumables/baleNet/baleNet.i3d (0.33 ms)
