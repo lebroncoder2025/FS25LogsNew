@@ -7167,3 +7167,28 @@ dataS/scripts/vehicles/specializations/AnimatedVehicle.lua:1297: attempt to get 
 2025-11-17 15:37:22.094 dataS/character/playerM/shirts/zipNeckPullover.i3d (94.13 ms)
 2025-11-17 15:37:22.128 dataS/character/playerM/hairStyles/hairStyleManBun.i3d (33.32 ms)
 2025-11-17 15:37:22.138 dataS/character/playerM/facialHair/mHead05/goatee02.i3d (9.78 ms)
+2025-11-17 15:47:26.740 romek joined the game
+2025-11-17 15:47:26.876 dataS/character/playerM/pants/strauss/motion2020Pants2ndVariant.i3d (120.90 ms)
+2025-11-17 15:47:27.055 dataS/character/playerM/jacket/topVestM.i3d (179.29 ms)
+2025-11-17 15:47:27.059 dataS/character/playerM/attachments/headgearBandana.i3d (3.88 ms)
+2025-11-17 15:47:27.061 dataS/character/playerM/attachments/glassesSports02.i3d (1.76 ms)
+2025-11-17 15:47:27.153 dataS/character/playerM/shoes/sportSneaker.i3d (92.91 ms)
+2025-11-17 15:47:27.167 dataS/character/playerM/facialHair/mHead01/trimmedBeard.i3d (13.55 ms)
+2025-11-17 15:49:12.778 Game saved successfully (savegame1).
+2025-11-17 15:51:19.850 Warning: Saving while already saving
+2025-11-17 15:51:22.285 Game saved successfully (savegame1).
+2025-11-17 15:52:48.777   Info: Moved 2 vehicles to coordinates 680, 781 successfully.
+2025-11-17 15:55:28.680   Info: Moved 3 vehicles to coordinates 621, 890 successfully.
+2025-11-17 16:04:29.280   Info: Moved 3 vehicles to coordinates 619, 901 successfully.
+2025-11-17 16:10:15.115 hubsonwaliszot joined the game
+2025-11-17 16:10:15.486 dataS/character/playerM/shirts/poettinger/poettingerTshirt.i3d (356.28 ms)
+2025-11-17 16:10:15.557 dataS/character/playerM/gloves/strauss/glovesEsTrailLight02.i3d (71.32 ms)
+2025-11-17 16:10:15.632 dataS/character/playerM/attachments/hatWoolen.i3d (73.93 ms)
+2025-11-17 16:10:15.680 dataS/character/playerM/hairStyles/hairStyleMullet.i3d (48.36 ms)
+2025-11-17 16:10:15.701 dataS/character/playerM/facialHair/mHead02/trimmedBeard.i3d (20.76 ms)
+2025-11-17 16:15:05.082 dataS/character/playerF/pants/botChinos.i3d (3.67 ms)
+2025-11-17 16:15:05.190 dataS/character/playerF/heads/fHead06.i3d (108.72 ms)
+2025-11-17 16:15:05.243 dataS/character/playerF/shirts/topBlouse.i3d (52.96 ms)
+2025-11-17 16:15:05.246 dataS/character/playerF/shoes/sneaker01.i3d (2.72 ms)
+2025-11-17 16:15:05.281 dataS/character/playerF/hairStyles/hairStyleMidSideParted.i3d (34.93 ms)
+2025-11-17 16:19:19.897 Game saved successfully (savegame1).
