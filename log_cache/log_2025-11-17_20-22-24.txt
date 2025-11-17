@@ -5693,3 +5693,87 @@ dataS/scripts/vehicles/specializations/Dashboard.lua:267: attempt to compare num
 2025-11-17 21:24:10.635 Warning: Send called with unknown target address.
 2025-11-17 21:24:10.645 045 Polskinoob left the game
 2025-11-17 21:26:29.126 data/objects/pallets/goatMilkCanPallet/goatMilkCanPallet.i3d (2.28 ms)
+2025-11-17 21:27:15.720 data/objects/pallets/goatMilkCanPallet/goatMilkCanPallet.i3d (2.16 ms)
+2025-11-17 21:27:17.327   Info: Super Strength enabled by zwierek
+2025-11-17 21:27:39.396   Info: Super Strength disabled by zwierek
+2025-11-17 21:28:05.517   Info: Successfully removed 49 pallets from the map.
+2025-11-17 21:29:38.830 zone lost connection to the game
+2025-11-17 21:33:16.050 data/objects/pallets/goatMilkCanPallet/goatMilkCanPallet.i3d (2.18 ms)
+2025-11-17 21:33:16.101 data/objects/pallets/shared/euroPallet/euroPallet.i3d (1.45 ms)
+2025-11-17 21:33:30.354   Info: Successfully removed 220 bales from the map.
+2025-11-17 21:33:43.636 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_RounderWrappedRoundbales/assets/roundbale180/roundbale180.i3d (1.99 ms)
+2025-11-17 21:33:49.966 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_RounderWrappedRoundbales/assets/roundbale150/roundbale150.i3d (1.91 ms)
+2025-11-17 21:33:49.967   Info: Adding bale.
+2025-11-17 21:33:54.344 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_RounderWrappedRoundbales/assets/roundbale150/roundbale150.i3d (1.88 ms)
+2025-11-17 21:33:54.345   Info: Adding bale.
+2025-11-17 21:33:54.845 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_RounderWrappedRoundbales/assets/roundbale150/roundbale150.i3d (1.82 ms)
+2025-11-17 21:33:54.967   Info: Adding bale.
+2025-11-17 21:33:55.516   Info: Adding bale.
+2025-11-17 21:33:56.057   Info: Adding bale.
+2025-11-17 21:33:56.581   Info: Adding bale.
+2025-11-17 21:33:57.140   Info: Adding bale.
+2025-11-17 21:33:57.690   Info: Adding bale.
+2025-11-17 21:33:58.227   Info: Adding bale.
+2025-11-17 21:33:58.783   Info: Adding bale.
+2025-11-17 21:33:59.279   Info: Adding bale.
+2025-11-17 21:33:59.831   Info: Adding bale.
+2025-11-17 21:34:00.324   Info: Adding bale.
+2025-11-17 21:34:00.941   Info: Adding bale.
+2025-11-17 21:34:01.514   Info: Adding bale.
+2025-11-17 21:34:02.112   Info: Adding bale.
+2025-11-17 21:34:02.706   Info: Adding bale.
+2025-11-17 21:34:03.268   Info: Adding bale.
+2025-11-17 21:34:03.840   Info: Adding bale.
+2025-11-17 21:34:04.381   Info: Adding bale.
+2025-11-17 21:34:09.206   Info: Adding bale.
+2025-11-17 21:34:09.760   Info: Adding bale.
+2025-11-17 21:34:10.316   Info: Adding bale.
+2025-11-17 21:34:10.833   Info: Adding bale.
+2025-11-17 21:34:11.372   Info: Adding bale.
+2025-11-17 21:34:11.981   Info: Adding bale.
+2025-11-17 21:34:12.519   Info: Adding bale.
+2025-11-17 21:34:13.060   Info: Adding bale.
+2025-11-17 21:34:13.664   Info: Adding bale.
+2025-11-17 21:34:14.252   Info: Adding bale.
+2025-11-17 21:34:14.840   Info: Adding bale.
+2025-11-17 21:34:15.370   Info: Adding bale.
+2025-11-17 21:34:16.005   Info: Adding bale.
+2025-11-17 21:34:16.573   Info: Adding bale.
+2025-11-17 21:34:17.169   Info: Adding bale.
+2025-11-17 21:34:17.789   Info: Adding bale.
+2025-11-17 21:34:18.395   Info: Adding bale.
+2025-11-17 21:34:19.063   Info: Adding bale.
+2025-11-17 21:34:19.613   Info: Adding bale.
+2025-11-17 21:34:20.257   Info: Adding bale.
+2025-11-17 21:34:20.867   Info: Adding bale.
+2025-11-17 21:34:21.464   Info: Adding bale.
+2025-11-17 21:34:22.064   Info: Adding bale.
+2025-11-17 21:34:22.627   Info: Adding bale.
+2025-11-17 21:34:23.282   Info: Adding bale.
+2025-11-17 21:34:23.870   Info: Adding bale.
+2025-11-17 21:34:24.480   Info: Adding bale.
+2025-11-17 21:34:25.112   Info: Adding bale.
+2025-11-17 21:34:25.703   Info: Adding bale.
+2025-11-17 21:34:26.340   Info: Adding bale.
+2025-11-17 21:34:26.918   Info: Adding bale.
+2025-11-17 21:34:27.537   Info: Adding bale.
+2025-11-17 21:34:28.100   Info: Adding bale.
+2025-11-17 21:34:28.610   Info: Adding bale.
+2025-11-17 21:34:29.164   Info: Adding bale.
+2025-11-17 21:34:29.735   Info: Adding bale.
+2025-11-17 21:34:30.287   Info: Adding bale.
+2025-11-17 21:34:30.855   Info: Adding bale.
+2025-11-17 21:34:31.387   Info: Adding bale.
+2025-11-17 21:34:31.992   Info: Adding bale.
+2025-11-17 21:34:41.163   Info: Adding bale.
+2025-11-17 21:34:41.648   Info: Adding bale.
+2025-11-17 21:34:42.179   Info: Adding bale.
+2025-11-17 21:34:42.726   Info: Adding bale.
+2025-11-17 21:34:43.355   Info: Adding bale.
+2025-11-17 21:34:44.097   Info: Adding bale.
+2025-11-17 21:34:44.727   Info: Adding bale.
+2025-11-17 21:34:45.388   Info: Adding bale.
+2025-11-17 21:34:46.014   Info: Adding bale.
+2025-11-17 21:34:46.680   Info: Adding bale.
+2025-11-17 21:34:47.310   Info: Adding bale.
+2025-11-17 21:34:47.924   Info: Adding bale.
