@@ -6954,3 +6954,5 @@ dataS/scripts/vehicles/specializations/AnimatedVehicle.lua:1297: attempt to get 
 2025-11-17 10:18:45.380 Game saved successfully (savegame1).
 2025-11-17 10:48:47.134 Game saved successfully (savegame1).
 2025-11-17 11:18:47.506 Game saved successfully (savegame1).
+2025-11-17 11:48:47.843 Game saved successfully (savegame1).
+2025-11-17 12:18:48.176 Game saved successfully (savegame1).
