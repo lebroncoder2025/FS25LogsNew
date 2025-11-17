@@ -5777,3 +5777,90 @@ dataS/scripts/vehicles/specializations/Dashboard.lua:267: attempt to compare num
 2025-11-17 21:34:46.680   Info: Adding bale.
 2025-11-17 21:34:47.310   Info: Adding bale.
 2025-11-17 21:34:47.924   Info: Adding bale.
+2025-11-17 21:40:12.192   Info: No 'ExhaustExtension' particle system added to vehicle 'Kärcher HDS 9/18-4 M' because it has no exhaust
+2025-11-17 21:43:22.131   Info: Adding bale.
+2025-11-17 21:43:32.164   Info: Adding bale.
+2025-11-17 21:43:32.420   Info: Adding bale.
+2025-11-17 21:43:32.681   Info: Adding bale.
+2025-11-17 21:43:32.919   Info: Adding bale.
+2025-11-17 21:43:33.197   Info: Adding bale.
+2025-11-17 21:43:33.451   Info: Adding bale.
+2025-11-17 21:43:33.674   Info: Adding bale.
+2025-11-17 21:43:33.958   Info: Adding bale.
+2025-11-17 21:43:34.234   Info: Adding bale.
+2025-11-17 21:43:34.460   Info: Adding bale.
+2025-11-17 21:43:34.752   Info: Adding bale.
+2025-11-17 21:43:35.025   Info: Adding bale.
+2025-11-17 21:43:35.266   Info: Adding bale.
+2025-11-17 21:43:35.523   Info: Adding bale.
+2025-11-17 21:43:35.779   Info: Adding bale.
+2025-11-17 21:43:36.074   Info: Adding bale.
+2025-11-17 21:43:36.373   Info: Adding bale.
+2025-11-17 21:43:36.634   Info: Adding bale.
+2025-11-17 21:45:02.150 data/shared/assets/reflectors/lizard/redTriangle_02.i3d (1.19 ms)
+2025-11-17 21:45:02.151 data/shared/assets/reflectors/lizard/yellowRound_02.i3d (0.97 ms)
+2025-11-17 21:45:02.164 data/vehicles/andersonGroup/rbm2000/rbm2000.i3d (24.63 ms)
+2025-11-17 21:45:02.377 data/shared/assets/lights/lizard/rearLight43.i3d (3.08 ms)
+2025-11-17 21:50:49.160   Info: Super Strength enabled by zwierek
+2025-11-17 21:50:58.275   Info: Super Strength disabled by zwierek
+2025-11-17 21:51:48.935   Info: Successfully set fill unit 1 of Farmtech Fortis 3000 to Wheat with a fill level of 55,000 liters.
+2025-11-17 21:53:24.169 
+Script error in getRigidBodyType: Unknown entity id 5899790 for 'object' in method 'getRigidBodyType'.
+
+LUA call stack:
+  =[C]:-1 getRigidBodyType
+  =dataS/scripts/vehicles/specializations/BaleLoader.lua:2843 baleGrabberTriggerCallback
+2025-11-17 21:53:24.170 
+Script error in getRigidBodyType: Unknown entity id 5899790 for 'object' in method 'getRigidBodyType'.
+
+LUA call stack:
+  =[C]:-1 getRigidBodyType
+  =dataS/scripts/vehicles/specializations/BaleLoader.lua:2875 baleLoaderMoveTriggerCallback
+2025-11-17 21:53:57.696 data/objects/pallets/lettuceBoxPallet/lettuceBoxPallet.i3d (6.77 ms)
+2025-11-17 21:54:01.258 Game saved successfully (savegame1).
+2025-11-17 21:54:36.004 dataS/character/playerM/pants/botCargo.i3d (18.06 ms)
+2025-11-17 21:54:36.051 dataS/character/playerM/jacket/topConstruction.i3d (46.74 ms)
+2025-11-17 21:54:36.057 dataS/character/playerM/gloves/stihl/glovesStihl.i3d (5.71 ms)
+2025-11-17 21:54:36.066 dataS/character/playerM/attachments/headgearStihl.i3d (9.45 ms)
+2025-11-17 21:54:36.093 dataS/character/playerM/shoes/elten/arborist.i3d (26.25 ms)
+2025-11-17 21:54:49.545 dataS/character/playerM/jacket/topAviatorJacket.i3d (19.09 ms)
+2025-11-17 21:54:49.578 dataS/character/playerM/hairStyles/hairStyleDiablo.i3d (33.58 ms)
+2025-11-17 21:54:49.580 dataS/character/playerM/facialHair/mHead01/beardStubble.i3d (1.47 ms)
+2025-11-17 21:59:38.496   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Valtra VALMET 8750'
+2025-11-17 22:00:58.802   Info: Removing all snow from map
+2025-11-17 22:05:54.782   Info: Successfully set fill unit 1 of Farmtech Fortis 3000 to Wheat with a fill level of 55,000 liters.
+2025-11-17 22:06:39.165   Info: Moved 3 vehicles to coordinates 917, 887 successfully.
+2025-11-17 22:06:58.660   Info: Savegame Setting 'economicDifficulty': NORMAL
+2025-11-17 22:07:12.289   Info: Savegame Setting 'economicDifficulty': HARD
+2025-11-17 22:07:37.613   Info: Moved 3 vehicles to coordinates 656, 848 successfully.
+2025-11-17 22:07:47.548   Info: Moved 3 vehicles to coordinates 652, 849 successfully.
+2025-11-17 22:08:32.159   Info: Moved 3 vehicles to coordinates 632, 847 successfully.
+2025-11-17 22:09:51.421   Info: Moved 3 vehicles to coordinates 919, 885 successfully.
+2025-11-17 22:10:06.969   Info: Savegame Setting 'economicDifficulty': NORMAL
+2025-11-17 22:10:15.033   Info: Savegame Setting 'economicDifficulty': HARD
+2025-11-17 22:10:35.999   Info: Moved 3 vehicles to coordinates 647, 842 successfully.
+2025-11-17 22:10:41.433   Info: Moved 3 vehicles to coordinates 647, 847 successfully.
+2025-11-17 22:10:45.826   Info: Moved 3 vehicles to coordinates 616, 844 successfully.
+2025-11-17 22:11:47.051   Info: Moved 3 vehicles to coordinates 920, 882 successfully.
+2025-11-17 22:12:00.769   Info: Savegame Setting 'economicDifficulty': NORMAL
+2025-11-17 22:12:01.038   Info: Savegame Setting 'economicDifficulty': EASY
+2025-11-17 22:12:06.254   Info: Savegame Setting 'economicDifficulty': NORMAL
+2025-11-17 22:12:06.365   Info: Savegame Setting 'economicDifficulty': HARD
+2025-11-17 22:12:36.472   Info: Moved 3 vehicles to coordinates 680, 782 successfully.
+2025-11-17 22:12:43.384   Info: Successfully set fill unit 1 of Farmtech Fortis 3000 to Wheat with a fill level of 55,000 liters.
+2025-11-17 22:13:33.183 Jolero left the game
+2025-11-17 22:13:34.410 Game saved successfully (savegame1).
+2025-11-17 22:14:10.690   Info: Moved 2 vehicles to coordinates 543, 512 successfully.
+2025-11-17 22:14:20.180 dataS/character/playerF/pants/botYogaPants.i3d (11.57 ms)
+2025-11-17 22:14:20.293 dataS/character/playerF/heads/fHead02.i3d (113.10 ms)
+2025-11-17 22:14:20.344 dataS/character/playerF/shirts/topTankTop.i3d (50.89 ms)
+2025-11-17 22:14:20.346 dataS/character/playerF/shoes/sportSneaker.i3d (2.39 ms)
+2025-11-17 22:14:20.381 dataS/character/playerF/hairStyles/hairStyleLongSideParted.i3d (35.31 ms)
+2025-11-17 22:16:28.392 dataS/character/playerM/pants/botLeather.i3d (18.04 ms)
+2025-11-17 22:16:28.423 dataS/character/playerM/jacket/topVest.i3d (30.79 ms)
+2025-11-17 22:19:04.439   Info: Moved player to coordinates 1485, 1450 successfully.
+2025-11-17 22:19:23.954   Info: Savegame Setting 'fruitDesctructionEnabled': false
+2025-11-17 22:19:54.080 dataS/character/playerM/fullBody/onePieceMechanic.i3d (33.23 ms)
+2025-11-17 22:19:54.097 dataS/character/playerM/shoes/riding.i3d (16.97 ms)
+2025-11-17 22:19:54.134 dataS/character/playerM/hairStyles/hairStyleUnkempt.i3d (36.88 ms)
+2025-11-17 22:19:54.154 dataS/character/playerM/facialHair/mHead02/goatee01.i3d (19.69 ms)
