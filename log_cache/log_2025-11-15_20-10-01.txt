@@ -6912,3 +6912,16 @@ dataS/scripts/vehicles/specializations/AnimatedVehicle.lua:1297: attempt to get 
 2025-11-17 00:12:08.788 data/objects/bigBag/bigBag.i3d (4.78 ms)
 2025-11-17 00:16:24.280 zone lost connection to the game
 2025-11-17 00:17:12.349 Game saved successfully (savegame1).
+2025-11-17 00:44:07.090 Lewy joined the game
+2025-11-17 00:44:07.465 dataS/character/playerM/pants/poettinger/poettingerShort.i3d (175.41 ms)
+2025-11-17 00:44:07.579 dataS/character/playerM/jacket/claas/claasTop.i3d (114.27 ms)
+2025-11-17 00:44:07.585 dataS/character/playerM/attachments/headgearBeanie.i3d (6.01 ms)
+2025-11-17 00:44:07.587 dataS/character/playerM/attachments/glassesAviators.i3d (1.72 ms)
+2025-11-17 00:44:07.617 dataS/character/playerM/shoes/crok.i3d (29.77 ms)
+2025-11-17 00:44:07.637 dataS/character/playerM/facialHair/mHead01/goatee01.i3d (20.51 ms)
+2025-11-17 00:47:15.339 Game saved successfully (savegame1).
+2025-11-17 01:05:08.291 Lewy left the game
+2025-11-17 01:17:24.398 Game saved successfully (savegame1).
+2025-11-17 01:47:33.177 Game saved successfully (savegame1).
+2025-11-17 02:17:41.383 Game saved successfully (savegame1).
+2025-11-17 02:47:50.477 Game saved successfully (savegame1).
