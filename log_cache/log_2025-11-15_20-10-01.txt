@@ -7055,3 +7055,41 @@ dataS/scripts/vehicles/specializations/AnimatedVehicle.lua:1297: attempt to get 
 2025-11-17 14:05:20.471 dataS/character/playerM/pants/botLeather.i3d (17.31 ms)
 2025-11-17 14:05:20.664 dataS/character/playerM/heads/mHead03.i3d (193.11 ms)
 2025-11-17 14:05:20.698 dataS/character/playerM/hairStyles/hairStyleMidParted01.i3d (33.47 ms)
+2025-11-17 14:06:45.996 dataS/character/playerF/pants/botYogaPants.i3d (17.31 ms)
+2025-11-17 14:06:46.138 dataS/character/playerF/heads/fHead02.i3d (141.85 ms)
+2025-11-17 14:06:46.186 dataS/character/playerF/shirts/topTankTop.i3d (48.38 ms)
+2025-11-17 14:06:46.300 dataS/character/playerF/shoes/sportSneaker.i3d (112.76 ms)
+2025-11-17 14:06:46.341 dataS/character/playerF/hairStyles/hairStyleLongSideParted.i3d (41.57 ms)
+2025-11-17 14:08:16.990   Info: Successfully set fill unit 1 of Farmtech Fortis 3000 to Buckwheat with a fill level of 55,000 liters.
+2025-11-17 14:11:23.565   Info: Savegame Setting 'fruitDesctructionEnabled': false
+2025-11-17 14:13:19.675 dataS/character/playerM/jacket/topDenimJacket.i3d (22.66 ms)
+2025-11-17 14:13:19.708 dataS/character/playerM/hairStyles/hairStyleMidParted01.i3d (33.33 ms)
+2025-11-17 14:13:19.709 dataS/character/playerM/facialHair/mHead01/beardStubble.i3d (1.40 ms)
+2025-11-17 14:14:05.441   Info: Super Strength enabled by zwierek
+2025-11-17 14:14:14.372   Info: Super Strength disabled by zwierek
+2025-11-17 14:14:18.742   Info: Savegame Setting 'fruitDesctructionEnabled': true
+2025-11-17 14:14:25.314   Info: Savegame Setting 'fruitDesctructionEnabled': false
+2025-11-17 14:14:43.145   Info: Savegame Setting 'fruitDesctructionEnabled': true
+2025-11-17 14:14:54.248 data/objects/bigBag/bigBag.i3d (4.82 ms)
+2025-11-17 14:15:45.425 dataS/character/playerM/heads/mHead05.i3d (238.48 ms)
+2025-11-17 14:15:45.540 dataS/character/playerM/shirts/zipNeckPullover.i3d (114.93 ms)
+2025-11-17 14:15:45.579 dataS/character/playerM/hairStyles/hairStyleManBun.i3d (38.72 ms)
+2025-11-17 14:15:45.593 dataS/character/playerM/facialHair/mHead05/goatee02.i3d (13.70 ms)
+2025-11-17 14:16:53.761 dataS/character/playerF/pants/botJeansCapris.i3d (20.53 ms)
+2025-11-17 14:16:53.958 dataS/character/playerF/heads/fHead03.i3d (197.05 ms)
+2025-11-17 14:16:53.961 dataS/character/playerF/shoes/sneaker01.i3d (2.94 ms)
+2025-11-17 14:18:55.962 Game saved successfully (savegame1).
+2025-11-17 14:20:20.113 dataS/character/playerF/pants/botChinos.i3d (4.27 ms)
+2025-11-17 14:20:20.225 dataS/character/playerF/heads/fHead06.i3d (112.53 ms)
+2025-11-17 14:20:20.279 dataS/character/playerF/shirts/topBlouse.i3d (53.19 ms)
+2025-11-17 14:20:20.315 dataS/character/playerF/hairStyles/hairStyleMidSideParted.i3d (35.51 ms)
+2025-11-17 14:21:16.230 dataS/character/playerM/pants/botLeather.i3d (17.44 ms)
+2025-11-17 14:21:16.241 dataS/character/playerM/jacket/topVest.i3d (10.99 ms)
+2025-11-17 14:21:16.275 dataS/character/playerM/hairStyles/hairStyleFringe.i3d (33.99 ms)
+2025-11-17 14:22:37.361 dataS/character/playerM/heads/mHead03.i3d (193.45 ms)
+2025-11-17 14:22:37.394 dataS/character/playerM/hairStyles/hairStyleMidParted01.i3d (32.94 ms)
+2025-11-17 14:23:30.743 dataS/character/playerM/fullBody/onePieceMechanic.i3d (34.95 ms)
+2025-11-17 14:23:30.757 dataS/character/playerM/heads/mHead02.i3d (14.73 ms)
+2025-11-17 14:23:30.779 dataS/character/playerM/shoes/riding.i3d (21.53 ms)
+2025-11-17 14:23:30.821 dataS/character/playerM/hairStyles/hairStyleUnkempt.i3d (41.78 ms)
+2025-11-17 14:23:30.843 dataS/character/playerM/facialHair/mHead02/goatee01.i3d (21.75 ms)
