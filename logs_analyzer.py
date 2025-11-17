@@ -618,43 +618,56 @@ def admin_player_stats(events):
         logging.error(f"❌ Błąd w admin_player_stats: {e}")
         return pd.DataFrame(), pd.DataFrame()
 
-# Zapisane gry i dane do wykresów
-def handle_saves(events):
+# Zbieranie akcji farmy
+def collect_farm_actions(events):
+    try:
+        df = pd.DataFrame(events)
+        df_farm = df[df["EventType"] == "farm_action"].sort_values("Timestamp")
+        if not df_farm.empty:
+            logging.info(f"🌾 Znaleziono {len(df_farm)} akcji farmy.")
+        else:
+            logging.info("⚠️ Nie znaleziono akcji farmy.")
+        return df_farm
+    except Exception as e:
+        with open(ERROR_LOG, "a", encoding="utf-8") as f:
+            f.write(f"{datetime.now()}: Błąd w collect_farm_actions: {e}\n{traceback.format_exc()}\n")
+        logging.error(f"❌ Błąd w collect_farm_actions: {e}")
+        return pd.DataFrame()
+
+# Zapisane gry - tabela bez wykresów
+def collect_saves_table(events):
     try:
         df = pd.DataFrame(events)
         df_saves = df[df["EventType"] == "save_game"].sort_values("Timestamp")
-        charts = {}
         if not df_saves.empty:
             logging.info(f"💾 Znaleziono {len(df_saves)} zapisów gry.")
-            
-            df_saves["Count"] = 1
-            df_saves_per_hour = df_saves.groupby(df_saves["Timestamp"].dt.strftime("%Y-%m-%d %H:00"))["Count"].sum().reset_index()
-            charts["saves_all"] = {
-                "labels": df_saves_per_hour["Timestamp"].tolist(),
-                "data": df_saves_per_hour["Count"].tolist()
-            }
-            logging.info(f"📊 Przygotowano dane saves_all: {len(charts['saves_all']['labels'])} etykiet, {len(charts['saves_all']['data'])} wartości")
-
-            df_saves["Day"] = df_saves["Timestamp"].dt.date
-            for day in df_saves["Day"].unique():
-                df_day = df_saves[df_saves["Day"] == day].copy()
-                if not df_day.empty:
-                    df_day["Hour"] = df_day["Timestamp"].dt.strftime("%H:00")
-                    saves_per_hour = df_day.groupby("Hour")["Count"].sum().reset_index()
-                    charts[f"saves_{day}"] = {
-                        "labels": saves_per_hour["Hour"].tolist(),
-                        "data": saves_per_hour["Count"].tolist()
-                    }
-                    logging.info(f"📊 Przygotowano dane saves_{day}: {len(charts[f'saves_{day}']['labels'])} etykiet, {len(charts[f'saves_{day}']['data'])} wartości")
         else:
             logging.info("⚠️ Nie znaleziono zapisów gry.")
-            charts["saves_all"] = {"labels": [], "data": []}
-        return df_saves, charts
+        return df_saves
     except Exception as e:
         with open(ERROR_LOG, "a", encoding="utf-8") as f:
-            f.write(f"{datetime.now()}: Błąd w handle_saves: {e}\n{traceback.format_exc()}\n")
-        logging.error(f"❌ Błąd w handle_saves: {e}")
-        return pd.DataFrame(), {}
+            f.write(f"{datetime.now()}: Błąd w collect_saves_table: {e}\n{traceback.format_exc()}\n")
+        logging.error(f"❌ Błąd w collect_saves_table: {e}")
+        return pd.DataFrame()
+
+# Podsumowanie zapisów per dzień
+def generate_saves_summary(df_saves):
+    try:
+        summary_data = []
+        if not df_saves.empty:
+            df_saves_copy = df_saves.copy()
+            df_saves_copy["Timestamp"] = pd.to_datetime(df_saves_copy["Timestamp"], errors="coerce")
+            df_saves_copy["Date"] = df_saves_copy["Timestamp"].dt.strftime("%Y-%m-%d")
+            saves_per_day = df_saves_copy.groupby("Date").size().reset_index(name="Count")
+            saves_per_day = saves_per_day.sort_values("Date", ascending=False)
+            summary_data = saves_per_day.to_dict('records')
+            logging.info(f"💾 Przygotowano podsumowanie zapisów: {len(summary_data)} dni")
+        return summary_data
+    except Exception as e:
+        with open(ERROR_LOG, "a", encoding="utf-8") as f:
+            f.write(f"{datetime.now()}: Błąd w generate_saves_summary: {e}\n{traceback.format_exc()}\n")
+        logging.error(f"❌ Błąd w generate_saves_summary: {e}")
+        return []
 
 # Monitorowanie i predykcje
 def monitor_and_predict(warnings):
@@ -673,18 +686,6 @@ def monitor_and_predict(warnings):
                     "data": warn_per_hour["Count"].tolist()
                 }
                 logging.info(f"📊 Przygotowano dane warnings_per_hour: {len(charts['warnings_per_hour']['labels'])} etykiet, {len(charts['warnings_per_hour']['data'])} wartości")
-
-                df_warn["Day"] = df_warn["Timestamp"].dt.date
-                for day in df_warn["Day"].unique():
-                    df_day = df_warn[df_warn["Day"] == day].copy()
-                    if not df_day.empty:
-                        df_day["Hour"] = df_day["Timestamp"].dt.strftime("%H:00")
-                        warn_per_hour_day = df_day.groupby("Hour").size().reset_index(name="Count")
-                        charts[f"warnings_per_hour_{day}"] = {
-                            "labels": warn_per_hour_day["Hour"].tolist(),
-                            "data": warn_per_hour_day["Count"].tolist()
-                        }
-                        logging.info(f"📊 Przygotowano dane warnings_per_hour_{day}: {len(charts[f'warnings_per_hour_{day}']['labels'])} etykiet, {len(charts[f'warnings_per_hour_{day}']['data'])} wartości")
             else:
                 logging.info("⚠️ Za mało danych do predykcji.")
                 charts["warnings_per_hour"] = {"labels": [], "data": []}
@@ -696,6 +697,45 @@ def monitor_and_predict(warnings):
         with open(ERROR_LOG, "a", encoding="utf-8") as f:
             f.write(f"{datetime.now()}: Błąd w monitor_and_predict: {e}\n{traceback.format_exc()}\n")
         logging.error(f"❌ Błąd w monitor_and_predict: {e}")
+        return {}
+
+# Wykresy błędów
+def generate_error_charts(errors):
+    charts = {}
+    try:
+        if not errors.empty:
+            df_err = pd.DataFrame(errors)
+            df_err["Timestamp"] = pd.to_datetime(df_err["Timestamp"], errors="coerce")
+            df_err = df_err.dropna(subset=["Timestamp"]).sort_values("Timestamp")
+            
+            # Błędy per hour
+            df_err["DateTime"] = df_err["Timestamp"].dt.strftime("%Y-%m-%d %H:00")
+            err_per_hour = df_err.groupby("DateTime").size().reset_index(name="Count")
+            
+            if len(err_per_hour) >= 2:
+                charts["errors_per_hour"] = {
+                    "labels": err_per_hour["DateTime"].tolist(),
+                    "data": err_per_hour["Count"].tolist()
+                }
+                logging.info(f"📊 Przygotowano dane errors_per_hour: {len(charts['errors_per_hour']['labels'])} etykiet")
+            
+            # Typy błędów
+            if "EventType" in df_err.columns:
+                error_types = df_err["EventType"].value_counts()
+                if not error_types.empty:
+                    charts["error_types"] = {
+                        "labels": error_types.index.tolist(),
+                        "data": error_types.values.tolist()
+                    }
+                    logging.info(f"📊 Przygotowano dane error_types: {len(charts['error_types']['labels'])} typów")
+        else:
+            logging.info("✅ Brak błędów - serwer stabilny.")
+            
+        return charts
+    except Exception as e:
+        with open(ERROR_LOG, "a", encoding="utf-8") as f:
+            f.write(f"{datetime.now()}: Błąd w generate_error_charts: {e}\n{traceback.format_exc()}\n")
+        logging.error(f"❌ Błąd w generate_error_charts: {e}")
         return {}
 
 # Eksport danych (tylko do pamięci, bez zapisu do plików)
@@ -755,17 +795,6 @@ def generate_charts(df, sessions_df, admin_cmds):
                 "data": event_per_hour["Count"].tolist()
             }
             logging.info(f"📊 Przygotowano dane events_per_hour: {len(charts['events_per_hour']['labels'])} etykiet, {len(charts['events_per_hour']['data'])} wartości")
-
-            df["Day"] = df["Timestamp"].dt.date
-            for day in df["Day"].unique():
-                df_day = df[df["Day"] == day].copy()
-                if not df_day.empty:
-                    event_per_hour_day = df_day.groupby(df_day["Timestamp"].dt.strftime("%H:00"))["EventType"].count().reset_index(name="Count")
-                    charts[f"events_per_hour_{day}"] = {
-                        "labels": event_per_hour_day["Timestamp"].tolist(),
-                        "data": event_per_hour_day["Count"].tolist()
-                    }
-                    logging.info(f"📊 Przygotowano dane events_per_hour_{day}: {len(charts[f'events_per_hour_{day}']['labels'])} etykiet, {len(charts[f'events_per_hour_{day}']['data'])} wartości")
         else:
             charts["events_per_hour"] = {"labels": [], "data": []}
             logging.info("⚠️ Brak znaczników czasowych dla events_per_hour.")
@@ -848,8 +877,10 @@ def generate_html_report(
     mod_issues,
     sessions_df,
     admin_cmds,
-    save_charts,
+    df_saves,
+    df_farm_actions,
     warning_charts,
+    error_charts,
     other_charts
 ):
     try:
@@ -918,6 +949,30 @@ def generate_html_report(
 
         admin_summary = admin_cmds["Details"].apply(extract_admin_action).value_counts().to_dict() if not admin_cmds.empty else {}
 
+        # Przygotowanie danych saves dla tabeli
+        saves_data = []
+        saves_by_date = []
+        if not df_saves.empty:
+            try:
+                df_saves_copy = df_saves[["Timestamp"]].copy()
+                df_saves_copy["Timestamp"] = pd.to_datetime(df_saves_copy["Timestamp"], errors="coerce")
+                saves_data = format_timestamp_records(df_saves_copy.to_dict('records'))
+                # Generowanie podsumowania zapisów per dzień
+                saves_by_date = generate_saves_summary(df_saves)
+            except Exception:
+                saves_data = []
+                saves_by_date = []
+
+        # Przygotowanie danych farm actions dla tabeli
+        farm_actions_data = []
+        if not df_farm_actions.empty:
+            try:
+                df_farm_copy = df_farm_actions[["Timestamp", "Details"]].copy()
+                df_farm_copy["Timestamp"] = pd.to_datetime(df_farm_copy["Timestamp"], errors="coerce")
+                farm_actions_data = format_timestamp_records(df_farm_copy.to_dict('records'))
+            except Exception:
+                farm_actions_data = []
+
         # Generowanie HTML dla wszystkich błędów i ostrzeżeń
         html_errors = ''.join([f'<tr><td>{row.get("Timestamp","")}</td><td>{row.get("Details","")}</td><td>{row.get("EventType","")}</td></tr>' for row in errors_data])
         html_warnings = ''.join([f'<tr><td>{row.get("Timestamp","")}</td><td>{row.get("Details","")}</td><td>{row.get("EventType","")}</td></tr>' for row in warnings_data])
@@ -931,16 +986,11 @@ def generate_html_report(
 
         # Przygotowanie danych do wykresów
         cleaned_other_charts = {k: v for k, v in (other_charts or {}).items() if k != "mod_issues" and not k.startswith("mod_issues")}
-        filtered_save_charts = {k: v for k, v in (save_charts or {}).items() if k != "saves_all"}
-        filtered_warning_charts = {k: v for k, v in (warning_charts or {}).items() if k != "warnings_per_hour"}
         
         charts_data = json.dumps({
-            "other_charts": filtered_save_charts or {},
-            "warning_charts": filtered_warning_charts or {},
-            "sessions": {"sessions_total": {
-                "labels": [row.get("Player", "") for row in sessions_summary],
-                "data": [row.get("Duration", 0) for row in sessions_summary],
-            }} if sessions_summary else {},
+            "other_charts": cleaned_other_charts or {},
+            "warning_charts": warning_charts or {},
+            "error_charts": error_charts or {},
             "admin": {"admin_actions": {
                 "labels": list(admin_summary.keys()),
                 "data": list(admin_summary.values()),
@@ -1511,6 +1561,8 @@ def generate_html_report(
                 <div class="nav-tab" onclick="switchTab('charts')">📈 Wykresy</div>
                 <div class="nav-tab" onclick="switchTab('errors')">❌ Błędy</div>
                 <div class="nav-tab" onclick="switchTab('warnings')">⚠️ Ostrzeżenia</div>
+                <div class="nav-tab" onclick="switchTab('saves')">💾 Zapisy</div>
+                <div class="nav-tab" onclick="switchTab('farm')">🌾 Akcje farmy</div>
                 <div class="nav-tab" onclick="switchTab('mods')">🧩 Mody</div>
                 <div class="nav-tab" onclick="switchTab('sessions')">👥 Sesje</div>
                 <div class="nav-tab" onclick="switchTab('server')">🖥️ Serwer</div>
@@ -1661,6 +1713,59 @@ def generate_html_report(
                 </thead>
                 <tbody data-sortAsc="false">
                     {html_warnings}
+                </tbody>
+            </table>
+        </div>
+
+        <!-- Saves -->
+        <div id="saves" class="section">
+            <h1>💾 Zapisy Gry</h1>
+            
+            <h2>📊 Podsumowanie zapisów per dzień</h2>
+            <table id="savesSummaryTable">
+                <thead>
+                    <tr>
+                        <th onclick="sortTableByName('savesSummaryTable', 0)">📅 Data 🔻</th>
+                        <th onclick="sortTableByName('savesSummaryTable', 1)">💾 Liczba zapisów 🔻</th>
+                    </tr>
+                </thead>
+                <tbody data-sortAsc="false">
+                    {''.join([f'<tr><td>{row.get("Date","")}</td><td>{row.get("Count","")}</td></tr>' for row in saves_by_date])}
+                </tbody>
+            </table>
+
+            <div class="search-box">
+                <input type="text" id="savesSearch" placeholder="Szukaj..." onkeyup="filterTable('savesSearch', 'savesTable')">
+            </div>
+            <h2>📋 Lista wszystkich zapisów</h2>
+            <table id="savesTable">
+                <thead>
+                    <tr>
+                        <th onclick="sortTableByName('savesTable', 0)">📅 Data/Czas 🔻</th>
+                    </tr>
+                </thead>
+                <tbody data-sortAsc="false">
+                    {''.join([f'<tr><td>{row.get("Timestamp","")}</td></tr>' for row in saves_data])}
+                </tbody>
+            </table>
+        </div>
+
+        <!-- Farm Actions -->
+        <div id="farm" class="section">
+            <h1>🌾 Akcje Farmy</h1>
+            <div class="search-box">
+                <input type="text" id="farmSearch" placeholder="Szukaj akcji..." onkeyup="filterTable('farmSearch', 'farmTable')">
+            </div>
+            <h2>📋 Szczegóły akcji farmy</h2>
+            <table id="farmTable">
+                <thead>
+                    <tr>
+                        <th onclick="sortTableByName('farmTable', 0)">📅 Data/Czas 🔻</th>
+                        <th onclick="sortTableByName('farmTable', 1)">📝 Akcja 🔻</th>
+                    </tr>
+                </thead>
+                <tbody data-sortAsc="false">
+                    {''.join([f'<tr><td>{row.get("Timestamp","")}</td><td>{row.get("Details","")}</td></tr>' for row in farm_actions_data])}
                 </tbody>
             </table>
         </div>
@@ -1847,21 +1952,21 @@ def generate_html_report(
                 return true;
             }}
             
-            // Session Duration Chart
-            if (chartsData['sessions'] && chartsData['sessions']['sessions_total'] && chartsData['sessions']['sessions_total']['labels'].length > 0) {{
+            // Error Type Chart
+            if (chartsData['error_charts'] && chartsData['error_charts']['error_types'] && chartsData['error_charts']['error_types']['labels'].length > 0) {{
                 const canvas = document.createElement('canvas');
-                canvas.style.marginBottom = '15px';
+                canvas.style.marginBottom = '30px';
                 canvas.style.maxHeight = '360px';
                 container.appendChild(canvas);
                 new Chart(canvas, {{
                     type: 'bar',
                     data: {{
-                        labels: chartsData['sessions']['sessions_total']['labels'],
+                        labels: chartsData['error_charts']['error_types']['labels'],
                         datasets: [{{
-                            label: 'Czas sesji (min)',
-                            data: chartsData['sessions']['sessions_total']['data'],
-                            backgroundColor: 'rgba(255, 215, 0, 0.7)',
-                            borderColor: '#FFD700',
+                            label: 'Liczba błędów',
+                            data: chartsData['error_charts']['error_types']['data'],
+                            backgroundColor: 'rgba(255, 100, 100, 0.7)',
+                            borderColor: '#FF6464',
                             borderWidth: 2
                         }}]
                     }},
@@ -1870,7 +1975,40 @@ def generate_html_report(
                         indexAxis: 'y',
                         plugins: {{
                             legend: {{ labels: {{ color: '#f0f0f0' }} }},
-                            title: {{ display: true, text: '👥 Czas trwania sesji graczy', color: '#f0f0f0' }}
+                            title: {{ display: true, text: '❌ Typy błędów', color: '#f0f0f0' }}
+                        }},
+                        scales: {{
+                            x: {{ ticks: {{ color: '#f0f0f0' }} }},
+                            y: {{ ticks: {{ color: '#f0f0f0' }} }}
+                        }}
+                    }}
+                }});
+                chartCount++;
+            }}
+            
+            // Errors per Hour Chart
+            if (chartsData['error_charts'] && chartsData['error_charts']['errors_per_hour'] && chartsData['error_charts']['errors_per_hour']['labels'].length > 0) {{
+                const canvas = document.createElement('canvas');
+                canvas.style.marginBottom = '30px';
+                canvas.style.maxHeight = '360px';
+                container.appendChild(canvas);
+                new Chart(canvas, {{
+                    type: 'line',
+                    data: {{
+                        labels: chartsData['error_charts']['errors_per_hour']['labels'],
+                        datasets: [{{
+                            label: '❌ Błędy per godzina',
+                            data: chartsData['error_charts']['errors_per_hour']['data'],
+                            backgroundColor: 'rgba(255, 100, 100, 0.2)',
+                            borderColor: '#FF6464',
+                            borderWidth: 2
+                        }}]
+                    }},
+                    options: {{ 
+                        responsive: true,
+                        plugins: {{
+                            legend: {{ labels: {{ color: '#f0f0f0' }} }},
+                            title: {{ display: true, text: '❌ Błędy w czasie', color: '#f0f0f0' }}
                         }},
                         scales: {{
                             x: {{ ticks: {{ color: '#f0f0f0' }} }},
@@ -2218,13 +2356,16 @@ def main():
         
         events, event_counts = analyze_logs()
         errors, warnings, warning_types, mod_issues, sessions_df, admin_cmds = detect_errors_and_stats(events)
-        df_saves, save_charts = handle_saves(events)
+        df_saves = collect_saves_table(events)
+        df_farm_actions = collect_farm_actions(events)
         warning_charts = monitor_and_predict(warnings)
+        error_charts = generate_error_charts(errors)
         other_charts = generate_charts(pd.DataFrame(events), sessions_df, admin_cmds)
+        other_charts.update(error_charts)
         df = export_data(events, sessions_df)
         mod_charts = export_mod_issues(df, mod_issues)
         other_charts.update(mod_charts)
-        generate_html_report(events, event_counts, errors, warnings, warning_types, mod_issues, sessions_df, admin_cmds, save_charts, warning_charts, other_charts)
+        generate_html_report(events, event_counts, errors, warnings, warning_types, mod_issues, sessions_df, admin_cmds, df_saves, df_farm_actions, warning_charts, error_charts, other_charts)
         print("✅ Raport HTML wygenerowany: docs/index.html")
         logging.info("✅ Analiza zakończona pomyślnie.")
     except Exception as e:
