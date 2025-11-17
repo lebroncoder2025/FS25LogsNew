@@ -6037,3 +6037,6 @@ LUA call stack:
 2025-11-17 23:19:54.063 data/objects/bigBagPallet/bigBagPallet.i3d (5.19 ms)
 2025-11-17 23:21:37.019 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Sopema_FertilizerTrailer/trailer.i3d (57.95 ms)
 2025-11-17 23:21:37.135 data/shared/wheels/tires/trelleborg/TM700/580_70R38.i3d (2.35 ms)
+2025-11-17 23:24:03.794 data/objects/bigBag/bigBag.i3d (5.69 ms)
+2025-11-17 23:24:10.057 Game saved successfully (savegame1).
+2025-11-17 23:37:39.165   Info: Successfully set fill unit 1 of BREDAL F2WS 4000 to Lime with a fill level of 4,000 liters.
