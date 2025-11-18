@@ -6317,3 +6317,4 @@ LUA call stack:
 2025-11-18 07:57:30.986 data/shared/wheels/tires/trelleborg/T404/400_60R26_5.i3d (2.27 ms)
 2025-11-18 07:57:31.015   Error (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Modern_Classics_DLC/lizardTA18/lizardTA18.xml): Sound template 'ATTACH_01' was not found in vehicle.attacherJoints.sounds.attach
 2025-11-18 08:08:48.193 Lewy left the game
+2025-11-18 08:25:04.054 Game saved successfully (savegame1).
