@@ -6563,3 +6563,10 @@ LUA call stack:
 2025-11-18 12:15:02.584 dataS/character/playerM/gloves/glovesGeneric.i3d (4.84 ms)
 2025-11-18 12:15:02.584 dataS/character/playerM/hairStyles/hairStyleBald.i3d (0.25 ms)
 2025-11-18 12:20:55.075 data/objects/pallets/fermentedNapaCabbageBoxPallet/fermentedNapaCabbageBoxPallet.i3d (12.47 ms)
+2025-11-18 12:23:18.196 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_productionDecorationPack/plasticCrates.i3d (12.45 ms)
+2025-11-18 12:24:14.024 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_productionDecorationPack/euroPalletsMiddle.i3d (6.00 ms)
+2025-11-18 12:25:46.604 Game saved successfully (savegame1).
+2025-11-18 12:31:16.076 dataS/character/playerF/pants/botJeansCapris.i3d (20.28 ms)
+2025-11-18 12:31:16.268 dataS/character/playerF/heads/fHead03.i3d (191.65 ms)
+2025-11-18 12:31:16.316 dataS/character/playerF/shirts/topTankTop.i3d (48.04 ms)
+2025-11-18 12:31:16.319 dataS/character/playerF/shoes/sneaker01.i3d (2.66 ms)
