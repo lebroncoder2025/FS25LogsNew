@@ -5411,3 +5411,20 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-18 16:25:03.797 data/objects/bigBag/bigBag.i3d (5.85 ms)
 2025-11-18 16:25:03.811 data/objects/pallets/pioneer/pioneerPallet.i3d (1.68 ms)
 2025-11-18 16:25:03.859 data/objects/bigBagPallet/bigBagPallet.i3d (4.22 ms)
+2025-11-18 16:28:16.885 zone joined the game
+2025-11-18 16:28:16.994 dataS/character/playerM/jacket/caseIH/caseIHTop.i3d (94.51 ms)
+2025-11-18 16:28:17.000 dataS/character/playerM/attachments/caseIHhat.i3d (6.56 ms)
+2025-11-18 16:28:17.035 dataS/character/playerM/hairStyles/hairStyleFringe.i3d (34.24 ms)
+2025-11-18 16:31:19.084   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'JCB Fastrac 8330'
+2025-11-18 16:31:53.133 hubsonwaliszot joined the game
+2025-11-18 16:31:53.433 dataS/character/playerM/shirts/poettinger/poettingerTshirt.i3d (284.96 ms)
+2025-11-18 16:31:53.482 dataS/character/playerM/gloves/strauss/glovesEsTrailLight02.i3d (48.75 ms)
+2025-11-18 16:31:53.541 dataS/character/playerM/attachments/hatWoolen.i3d (46.45 ms)
+2025-11-18 16:31:53.613 dataS/character/playerM/hairStyles/hairStyleMullet.i3d (33.91 ms)
+2025-11-18 16:31:53.624 dataS/character/playerM/facialHair/mHead02/trimmedBeard.i3d (11.15 ms)
+2025-11-18 16:32:45.234 data/objects/bigBag/bigBag.i3d (5.57 ms)
+2025-11-18 16:32:45.249 data/objects/pallets/pioneer/pioneerPallet.i3d (1.63 ms)
+2025-11-18 16:32:45.295 data/objects/bigBagPallet/bigBagPallet.i3d (3.78 ms)
+2025-11-18 16:41:00.652 data/objects/bigBag/bigBag.i3d (5.25 ms)
+2025-11-18 16:41:00.667 data/objects/pallets/pioneer/pioneerPallet.i3d (1.61 ms)
+2025-11-18 16:41:00.714 data/objects/bigBagPallet/bigBagPallet.i3d (4.33 ms)
