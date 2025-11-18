@@ -301,3 +301,12 @@
 [17/Nov/2025:20:24:15] 46.148.79.105 - GET "/logs.html" 200 494246  Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 [17/Nov/2025:20:30:04] 46.105.70.190 - GET "/" 301 342  Mozilla/5.0 (compatible; ModatScanner/1.2; +https://modat.io/)
 [17/Nov/2025:20:30:04] 46.105.70.190 - GET "/index.html" 200 9936  Mozilla/5.0 (compatible; ModatScanner/1.2; +https://modat.io/)
+[18/Nov/2025:15:16:49] 37.228.242.82 - GET "/index.html" 200 1903932  Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+[18/Nov/2025:15:17:56] 37.228.242.82 -  "" 400 280 
+[18/Nov/2025:15:19:15] 37.228.242.82 - POST "/index.html" 200 1904057  Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+[18/Nov/2025:15:19:20] 37.228.242.82 - GET "/logs.html" 200 8399907  Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+[18/Nov/2025:15:20:41] 37.228.242.82 -  "" 400 280 
+[18/Nov/2025:15:20:47] 37.228.242.82 - GET "/index.html" 200 2969794  Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+[18/Nov/2025:15:20:58] 37.228.242.82 - POST "/index.html" 303 373  Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+[18/Nov/2025:15:20:58] 37.228.242.82 - GET "/index.html" 200 1903977  Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+[18/Nov/2025:15:21:03] 37.228.242.82 - GET "/logs.html" 200 12286  Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36

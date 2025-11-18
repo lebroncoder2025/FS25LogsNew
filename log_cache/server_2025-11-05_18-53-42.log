@@ -64,3 +64,8 @@
 [17/Nov/2025:20:19:00] Game server started
 [17/Nov/2025:20:22:25] Game server process started
 [17/Nov/2025:20:22:25] Game server started
+[18/Nov/2025:15:16:48] Login initial admin with username 'admin'
+[18/Nov/2025:15:19:14] Error: Unable to stop game server process
+[18/Nov/2025:15:19:14] Unable to restart game server
+[18/Nov/2025:15:20:58] Game server process started
+[18/Nov/2025:15:20:58] Game server started
