@@ -5478,3 +5478,12 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-18 17:31:40.477 dataS/character/playerF/heads/fHead03.i3d (194.58 ms)
 2025-11-18 17:31:40.526 dataS/character/playerF/shirts/topTankTop.i3d (48.85 ms)
 2025-11-18 17:31:40.529 dataS/character/playerF/shoes/sneaker01.i3d (2.70 ms)
+2025-11-18 17:36:06.043   Info: Moved player to coordinates 628, 984 successfully.
+2025-11-18 17:39:02.848 dataS/character/playerF/pants/botYogaPants.i3d (10.83 ms)
+2025-11-18 17:39:02.958 dataS/character/playerF/heads/fHead02.i3d (110.14 ms)
+2025-11-18 17:39:02.961 dataS/character/playerF/shoes/sportSneaker.i3d (2.36 ms)
+2025-11-18 17:39:02.995 dataS/character/playerF/hairStyles/hairStyleLongSideParted.i3d (34.60 ms)
+2025-11-18 17:40:15.851 dataS/character/playerF/pants/botChinos.i3d (3.78 ms)
+2025-11-18 17:40:15.962 dataS/character/playerF/heads/fHead06.i3d (111.01 ms)
+2025-11-18 17:40:16.016 dataS/character/playerF/shirts/topBlouse.i3d (53.28 ms)
+2025-11-18 17:40:16.051 dataS/character/playerF/hairStyles/hairStyleMidSideParted.i3d (35.15 ms)
