@@ -6318,3 +6318,11 @@ LUA call stack:
 2025-11-18 07:57:31.015   Error (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Modern_Classics_DLC/lizardTA18/lizardTA18.xml): Sound template 'ATTACH_01' was not found in vehicle.attacherJoints.sounds.attach
 2025-11-18 08:08:48.193 Lewy left the game
 2025-11-18 08:25:04.054 Game saved successfully (savegame1).
+2025-11-18 08:55:14.566 Game saved successfully (savegame1).
+2025-11-18 09:24:02.129 Piotrek joined the game
+2025-11-18 09:24:02.342 dataS/character/playerM/pants/botChinos.i3d (13.27 ms)
+2025-11-18 09:24:02.418 dataS/character/playerM/shirts/strauss/straussTShirtMerino.i3d (76.14 ms)
+2025-11-18 09:24:02.423 dataS/character/playerM/gloves/glovesGeneric.i3d (4.85 ms)
+2025-11-18 09:24:02.514 dataS/character/playerM/shoes/sandalM03.i3d (90.48 ms)
+2025-11-18 09:24:02.514 dataS/character/playerM/hairStyles/hairStyleBald.i3d (0.27 ms)
+2025-11-18 09:25:18.828 Game saved successfully (savegame1).
