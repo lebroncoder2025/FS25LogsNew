@@ -5666,3 +5666,55 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-18 20:29:07.636 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Volvo_FH_Pack/HRFFLicht/HRFFMBFlasher/Flasher.i3d (1.95 ms)
 2025-11-18 20:29:27.741   Info: No 'ExhaustExtension' particle system added to vehicle 'Volvo FH16 780' because it has no exhaust
 2025-11-18 20:30:21.706 data/objects/pallets/fermentedNapaCabbageBoxPallet/fermentedNapaCabbageBoxPallet.i3d (13.86 ms)
+2025-11-18 20:33:37.351 M@rcin joined the game
+2025-11-18 20:33:37.685 dataS/character/playerM/jacket/topAviatorJacket.i3d (18.68 ms)
+2025-11-18 20:33:37.719 dataS/character/playerM/hairStyles/hairStyleDiablo.i3d (33.41 ms)
+2025-11-18 20:33:37.720 dataS/character/playerM/facialHair/mHead01/beardStubble.i3d (1.43 ms)
+2025-11-18 20:35:06.162 dataS/character/playerF/pants/botChinos.i3d (3.84 ms)
+2025-11-18 20:35:06.358 dataS/character/playerF/heads/fHead04.i3d (195.63 ms)
+2025-11-18 20:35:06.363 dataS/character/playerF/jacket/topAviatorJacket.i3d (4.91 ms)
+2025-11-18 20:35:06.439 dataS/character/playerF/shoes/laceUpSneaker.i3d (76.27 ms)
+2025-11-18 20:35:06.502 dataS/character/playerF/hairStyles/hairStylePonyTail01.i3d (35.71 ms)
+2025-11-18 20:35:12.602   Info: Successfully set fill unit 1 of BREDAL F2WS 4000 to Lime with a fill level of 4,000 liters.
+2025-11-18 20:37:50.181   Info: The condition of Fendt 832 Vario Gen5 - 60km/h and all connected implements updated.
+2025-11-18 20:37:52.988   Info: The condition of Fendt 832 Vario Gen5 - 60km/h and all connected implements updated.
+2025-11-18 20:39:11.140 Błażej joined the game
+2025-11-18 20:39:11.252 dataS/character/playerM/shoes/sportSneaker.i3d (92.75 ms)
+2025-11-18 20:43:07.331 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_FRCowFarm/cowbarn.i3d (179.47 ms)
+2025-11-18 20:43:07.488 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_FRCowFarm/navMesh.i3d (0.30 ms)
+2025-11-18 20:43:45.145   Info: Moved player to coordinates 1919, 389 successfully.
+2025-11-18 20:44:29.804   Info: Moved player to coordinates 1835, 683 successfully.
+2025-11-18 20:45:21.031 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_ObjectBaleStorage/i3d/storageBale150.i3d (6.10 ms)
+2025-11-18 20:51:17.178 data/objects/pallets/preservedFoodBeetRootPallet/preservedFoodBeetRootPallet.i3d (11.79 ms)
+2025-11-18 20:51:17.194 data/objects/pallets/fermentedNapaCabbageBoxPallet/fermentedNapaCabbageBoxPallet.i3d (16.08 ms)
+2025-11-18 20:53:23.871 Game saved successfully (savegame1).
+2025-11-18 20:53:47.146 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Kverneland_C85112/i3d/C_85112.i3d (126.09 ms)
+2025-11-18 20:53:47.377 data/shared/assets/lights/lizard/frontLight06White.i3d (2.48 ms)
+2025-11-18 20:53:51.464   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'STEYR 8130 Super Elite'
+2025-11-18 20:55:15.262 data/placeables/brandless/fences/AS/fence14/fence14.i3d (2.60 ms)
+2025-11-18 20:59:01.958   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Case IH 160 CVX'
+2025-11-18 20:59:06.828 data/objects/pallets/fermentedNapaCabbageBoxPallet/fermentedNapaCabbageBoxPallet.i3d (13.55 ms)
+2025-11-18 21:00:02.702 data/objects/pallets/preservedFoodBeetRootPallet/preservedFoodBeetRootPallet.i3d (11.00 ms)
+2025-11-18 21:00:02.715 data/objects/pallets/fermentedNapaCabbageBoxPallet/fermentedNapaCabbageBoxPallet.i3d (13.14 ms)
+2025-11-18 21:00:49.216 data/objects/pallets/preservedFoodBeetRootPallet/preservedFoodBeetRootPallet.i3d (9.72 ms)
+2025-11-18 21:01:00.944   Info: Super Strength enabled by Jolero
+2025-11-18 21:01:06.748 dataS/character/playerM/heads/mHead05.i3d (195.22 ms)
+2025-11-18 21:01:06.844 dataS/character/playerM/shirts/zipNeckPullover.i3d (95.47 ms)
+2025-11-18 21:01:06.883 dataS/character/playerM/hairStyles/hairStyleManBun.i3d (38.41 ms)
+2025-11-18 21:01:06.893 dataS/character/playerM/facialHair/mHead05/goatee02.i3d (10.12 ms)
+2025-11-18 21:01:28.110   Info: Super Strength disabled by Jolero
+2025-11-18 21:02:20.205 dataS/character/playerF/pants/botCargo.i3d (17.74 ms)
+2025-11-18 21:02:20.230 dataS/character/playerF/jacket/topVest.i3d (25.34 ms)
+2025-11-18 21:02:20.234 dataS/character/playerF/shoes/workboot02.i3d (3.24 ms)
+2025-11-18 21:02:20.268 dataS/character/playerF/hairStyles/hairStylePonyTail03.i3d (34.75 ms)
+2025-11-18 21:02:54.969 data/objects/pallets/raniWrapPallet/raniWrapPallet.i3d (2.10 ms)
+2025-11-18 21:02:55.051 data/objects/pallets/liquidTank/liquidTank.i3d (3.57 ms)
+2025-11-18 21:02:55.094 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_lsfmBigBagPack/objects/bigBagFillable/bigBagFillable.i3d (8.11 ms)
+2025-11-18 21:03:41.370   Info: Added € 165,000 to farm account. (3)
+2025-11-18 21:03:45.578   Info: Removed € 165,000 from farm account. (3)
+2025-11-18 21:05:15.618   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Fendt IDEAL 10T'
+2025-11-18 21:06:00.347 Warning: Send called with unknown target address.
+2025-11-18 21:06:00.359 SzaGhrat left the game
+2025-11-18 21:20:01.883 Warning: Send called with unknown target address.
+2025-11-18 21:20:01.893 Błażej left the game
+2025-11-18 21:23:35.373 Game saved successfully (savegame1).
