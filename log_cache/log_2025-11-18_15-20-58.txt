@@ -5535,3 +5535,70 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-18 18:28:35.585 dataS/character/playerM/attachments/headgearMotorbike.i3d (13.13 ms)
 2025-11-18 18:35:45.664 data/objects/pallets/fermentedNapaCabbageBoxPallet/fermentedNapaCabbageBoxPallet.i3d (13.61 ms)
 2025-11-18 18:36:28.288   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'CLAAS LEXION 8900'
+2025-11-18 18:45:10.766 siwa joined the game
+2025-11-18 18:47:51.022   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Ford 8930'
+2025-11-18 18:49:25.707 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.73 ms)
+2025-11-18 18:49:27.583   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Valtra VALMET 8750'
+2025-11-18 18:50:24.721 dataS/character/playerF/pants/botChinos.i3d (3.61 ms)
+2025-11-18 18:50:24.913 dataS/character/playerF/heads/fHead04.i3d (192.81 ms)
+2025-11-18 18:50:24.932 dataS/character/playerF/jacket/topAviatorJacket.i3d (18.72 ms)
+2025-11-18 18:50:25.008 dataS/character/playerF/shoes/laceUpSneaker.i3d (76.00 ms)
+2025-11-18 18:50:25.044 dataS/character/playerF/hairStyles/hairStylePonyTail01.i3d (35.71 ms)
+2025-11-18 18:51:50.694 M@rcin joined the game
+2025-11-18 18:51:50.716 dataS/character/playerM/jacket/topAviatorJacket.i3d (5.15 ms)
+2025-11-18 18:51:50.749 dataS/character/playerM/hairStyles/hairStyleDiablo.i3d (33.45 ms)
+2025-11-18 18:51:50.751 dataS/character/playerM/facialHair/mHead01/beardStubble.i3d (1.65 ms)
+2025-11-18 18:52:42.841 Jolero joined the game
+2025-11-18 18:52:42.861 dataS/character/playerM/shirts/topTShirt01.i3d (2.34 ms)
+2025-11-18 18:52:42.881 dataS/character/playerM/facialHair/mHead01/goatee01.i3d (19.03 ms)
+2025-11-18 18:53:05.665 Game saved successfully (savegame1).
+2025-11-18 18:54:58.097   Info: [Easy Development Controls] User Jolero has logged in as master user.
+2025-11-18 18:59:40.769   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'STEYR 8130 Super Elite'
+2025-11-18 19:03:20.834 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_lsfmBigBagPack/objects/bigBagFillable/bigBagFillable.i3d (7.49 ms)
+2025-11-18 19:04:45.630 dataS/character/playerM/pants/botLeather.i3d (17.33 ms)
+2025-11-18 19:04:45.660 dataS/character/playerM/jacket/topVest.i3d (30.10 ms)
+2025-11-18 19:08:18.339   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Case IH 160 CVX'
+2025-11-18 19:10:34.991   Info: No 'ExhaustExtension' particle system added to vehicle 'Jungheinrich EFG S50 Pro' because it has no exhaust
+2025-11-18 19:11:34.111 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Mx_t412_fl120/Mxt412FL120.i3d (102.13 ms)
+2025-11-18 19:12:22.149 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_KroneTurbo2500/i3d/kroneTurbo2500.i3d (93.26 ms)
+2025-11-18 19:12:22.202   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_KroneTurbo2500/xml/kroneTurbo2500.xml): Invalid vector 3 for 'vehicle.base.components.joint(0)#rotDriveRotation'.
+2025-11-18 19:12:22.305   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_KroneTurbo2500/xml/kroneTurbo2500.xml): Unable to find material template '' in 'vehicle.wheels.hubMaterial'
+2025-11-18 19:12:22.479 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_KroneTurbo2500/wheels/Krone_Hub.i3d (174.09 ms)
+2025-11-18 19:12:22.483 data/shared/wheels/tires/mitas/AC70G/285_80R16.i3d (3.74 ms)
+2025-11-18 19:12:22.484 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_KroneTurbo2500/wheels/PickUpWheels.i3d (0.56 ms)
+2025-11-18 19:12:22.527   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_KroneTurbo2500/xml/kroneTurbo2500.xml): Node 'scratchingFloor' has no shader parameter 'scrollPosition' for animationNode 'vehicle.trailer.trailerConfigurations.trailerConfiguration(0).trailer.tipSide(0).animationNodes.animationNode(0)'!
+2025-11-18 19:12:22.528   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_KroneTurbo2500/xml/kroneTurbo2500.xml): Node 'scratchingFloor' has no shader parameter 'scrollPosition' for animationNode 'vehicle.turnOnVehicle.animationNodes.animationNode(2)'!
+2025-11-18 19:13:44.904 data/objects/pallets/preservedFoodBeetRootPallet/preservedFoodBeetRootPallet.i3d (10.76 ms)
+2025-11-18 19:13:45.020 dataS/character/playerF/pants/botCargo.i3d (17.72 ms)
+2025-11-18 19:13:45.044 dataS/character/playerF/jacket/topVest.i3d (24.68 ms)
+2025-11-18 19:13:45.104 dataS/character/playerF/shoes/workboot02.i3d (3.23 ms)
+2025-11-18 19:13:45.139 dataS/character/playerF/hairStyles/hairStylePonyTail03.i3d (34.17 ms)
+2025-11-18 19:22:46.763   Info: The condition of Fendt 832 Vario Gen5 - 60km/h and all connected implements updated.
+2025-11-18 19:22:49.815   Info: The condition of Fendt 832 Vario Gen5 - 60km/h and all connected implements updated.
+2025-11-18 19:22:51.408 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.73 ms)
+2025-11-18 19:23:10.063 Game saved successfully (savegame1).
+2025-11-18 19:23:24.112 dataS/character/playerF/pants/botJeansCapris.i3d (20.42 ms)
+2025-11-18 19:23:24.314 dataS/character/playerF/heads/fHead03.i3d (201.25 ms)
+2025-11-18 19:23:24.362 dataS/character/playerF/shirts/topTankTop.i3d (48.71 ms)
+2025-11-18 19:23:24.365 dataS/character/playerF/shoes/sneaker01.i3d (2.90 ms)
+2025-11-18 19:24:13.434 dataS/character/playerF/pants/botYogaPants.i3d (10.90 ms)
+2025-11-18 19:24:13.545 dataS/character/playerF/heads/fHead02.i3d (111.29 ms)
+2025-11-18 19:24:13.639 dataS/character/playerF/shoes/sportSneaker.i3d (94.54 ms)
+2025-11-18 19:24:13.675 dataS/character/playerF/hairStyles/hairStyleLongSideParted.i3d (35.49 ms)
+2025-11-18 19:26:27.660 dataS/character/playerF/pants/botChinos.i3d (3.91 ms)
+2025-11-18 19:26:27.769 dataS/character/playerF/heads/fHead06.i3d (109.55 ms)
+2025-11-18 19:26:27.822 dataS/character/playerF/shirts/topBlouse.i3d (53.54 ms)
+2025-11-18 19:26:27.858 dataS/character/playerF/hairStyles/hairStyleMidSideParted.i3d (34.85 ms)
+2025-11-18 19:27:41.482   Info: Updated field 177 successfully (3) (1)
+2025-11-18 19:28:01.430   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Zetor 10145 Fast transmission'
+2025-11-18 19:28:25.297   Info: The condition of Fendt 620 Vario - 50km/h and all connected implements updated.
+2025-11-18 19:28:29.243   Info: The condition of Fendt 620 Vario - 50km/h and all connected implements updated.
+2025-11-18 19:29:06.465   Info: Successfully emptied fill unit 1 of Lizard MKS 32.
+2025-11-18 19:29:37.975   Info: Successfully set fill unit 1 of Lizard MKS 32 to Buffalo Milk with a fill level of 32,000 liters.
+2025-11-18 19:31:19.171   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Fendt IDEAL 10T'
+2025-11-18 19:31:42.795   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Case IH 160 CVX'
+2025-11-18 19:31:45.132   Info: Moved 1 vehicles to coordinates 1202, 588 successfully.
+2025-11-18 19:33:58.617   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Toyota D4D'
+2025-11-18 19:34:12.821 data/shared/assets/reflectors/lizard/bigTriangle.i3d (1.78 ms)
+2025-11-18 19:34:12.829 data/vehicles/macDon/fd250/fd250.i3d (56.35 ms)
+2025-11-18 19:34:13.198 data/shared/wheels/tires/mitas/FL02/7_R12.i3d (2.50 ms)

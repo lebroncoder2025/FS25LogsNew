@@ -310,3 +310,6 @@
 [18/Nov/2025:15:20:58] 37.228.242.82 - POST "/index.html" 303 373  Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 [18/Nov/2025:15:20:58] 37.228.242.82 - GET "/index.html" 200 1903977  Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 [18/Nov/2025:15:21:03] 37.228.242.82 - GET "/logs.html" 200 12286  Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+[18/Nov/2025:18:54:07] 185.243.96.116 -  "" 400 0 
+[18/Nov/2025:18:54:08] 185.243.96.116 -  "" 400 0 
+[18/Nov/2025:18:54:09] 185.243.96.116 -  "" 400 0 
