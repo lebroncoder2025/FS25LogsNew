@@ -5335,3 +5335,51 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-18 15:23:40.417   Info: TreePlantManager - NumTrees 7835 (6 split) / MaxNumTrees: 10000
 2025-11-18 15:23:41.026 FTG 'D:/home/sid_8377223/farmingSim_2025/profile/savegame1/densityMap_fruits.gdm' max needed CPU instances = 4.569641 MB / 30.375000 MB
 2025-11-18 15:23:41.053 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_TowingChain/hook.i3d (1.71 ms)
+2025-11-18 15:24:19.443 SzaGhrat joined the game
+2025-11-18 15:24:59.553 dataS/character/playerM/heads/mHead01.i3d (192.72 ms)
+2025-11-18 15:24:59.561 data/objects/bigBag/bigBag.i3d (7.07 ms)
+2025-11-18 15:24:59.764 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_lsfmBigBagPack/objects/bigBagFillable/bigBagFillable.i3d (106.06 ms)
+2025-11-18 15:24:59.899 data/objects/bigBagPallet/bigBagPallet.i3d (4.41 ms)
+2025-11-18 15:24:59.910 data/objects/pallets/preservedFoodBeetRootPallet/preservedFoodBeetRootPallet.i3d (10.38 ms)
+2025-11-18 15:24:59.949 data/objects/pallets/pioneer/pioneerPallet.i3d (2.31 ms)
+2025-11-18 15:24:59.951 data/objects/pallets/raniWrapPallet/raniWrapPallet.i3d (2.64 ms)
+2025-11-18 15:24:59.955 data/objects/pallets/liquidTank/liquidTank.i3d (3.76 ms)
+2025-11-18 15:25:00.021 dataS/character/playerM/shirts/topTShirt01.i3d (2.40 ms)
+2025-11-18 15:25:00.025 dataS/character/playerM/attachments/headgearBeanie.i3d (4.35 ms)
+2025-11-18 15:25:00.027 dataS/character/playerM/attachments/glassesSports01.i3d (1.62 ms)
+2025-11-18 15:25:00.043 dataS/character/playerM/facialHair/mHead01/muttonChops03.i3d (15.65 ms)
+2025-11-18 15:27:31.267 symonixprime joined the game
+2025-11-18 15:27:31.423 dataS/character/playerM/pants/poettinger/poettingerShort.i3d (142.04 ms)
+2025-11-18 15:27:31.439 dataS/character/playerM/heads/mHead02.i3d (15.54 ms)
+2025-11-18 15:27:31.548 dataS/character/playerM/shirts/topTShirt02.i3d (93.23 ms)
+2025-11-18 15:27:31.642 dataS/character/playerM/shoes/sandalM02.i3d (91.77 ms)
+2025-11-18 15:27:31.678 dataS/character/playerM/hairStyles/hairStyleTopKnot.i3d (34.20 ms)
+2025-11-18 15:27:31.693 dataS/character/playerM/facialHair/mHead02/fullBeard.i3d (15.06 ms)
+2025-11-18 15:28:03.077 Piotrek joined the game
+2025-11-18 15:28:03.106 dataS/character/playerM/pants/botChinos.i3d (13.37 ms)
+2025-11-18 15:28:03.183 dataS/character/playerM/shirts/strauss/straussTShirtMerino.i3d (76.90 ms)
+2025-11-18 15:28:03.237 dataS/character/playerM/gloves/glovesGeneric.i3d (5.12 ms)
+2025-11-18 15:28:03.285 dataS/character/playerM/shoes/sandalM03.i3d (1.54 ms)
+2025-11-18 15:28:03.285 dataS/character/playerM/hairStyles/hairStyleBald.i3d (0.30 ms)
+2025-11-18 15:29:37.836 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_exhaustExtension/particles/smokeParticles.i3d (11.83 ms)
+2025-11-18 15:29:37.837 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_exhaustExtension/particles/smokeEmitterShape.i3d (0.15 ms)
+2025-11-18 15:29:37.837   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'HOLMER Terra Dos T4-40'
+2025-11-18 15:30:18.343   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'STEYR 8130 Super Elite'
+2025-11-18 15:32:13.626 zwierek joined the game
+2025-11-18 15:32:13.659 dataS/character/playerM/pants/botJeanShorts.i3d (16.75 ms)
+2025-11-18 15:32:13.695 dataS/character/playerM/attachments/glassesAviators.i3d (1.78 ms)
+2025-11-18 15:32:13.727 dataS/character/playerM/hairStyles/hairStyleBaldTop.i3d (31.66 ms)
+2025-11-18 15:32:13.737 dataS/character/playerM/facialHair/mHead01/walrusXL.i3d (9.08 ms)
+2025-11-18 15:33:33.600   Info: No 'ExhaustExtension' particle system added to vehicle 'Grimme SL 80-22 Quantum' because it has no exhaust
+2025-11-18 15:34:11.204   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'MERLO P41.7'
+2025-11-18 15:35:13.006   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Fendt 832 Vario Gen5 - 60km/h'
+2025-11-18 15:37:09.303 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_lsfmBigBagPack/objects/bigBagFillable/bigBagFillable.i3d (6.96 ms)
+2025-11-18 15:39:20.403 data/objects/pallets/preservedFoodBeetRootPallet/preservedFoodBeetRootPallet.i3d (9.96 ms)
+2025-11-18 15:39:40.811   Info: [Easy Development Controls] User zwierek has logged in as master user.
+2025-11-18 15:41:31.274 romek joined the game
+2025-11-18 15:41:31.398 dataS/character/playerM/pants/strauss/motion2020Pants2ndVariant.i3d (106.87 ms)
+2025-11-18 15:41:31.600 dataS/character/playerM/jacket/topVestM.i3d (145.93 ms)
+2025-11-18 15:41:31.636 dataS/character/playerM/attachments/headgearBandana.i3d (2.63 ms)
+2025-11-18 15:41:31.637 dataS/character/playerM/attachments/glassesSports02.i3d (1.54 ms)
+2025-11-18 15:41:31.730 dataS/character/playerM/shoes/sportSneaker.i3d (92.80 ms)
+2025-11-18 15:41:31.750 dataS/character/playerM/facialHair/mHead01/trimmedBeard.i3d (11.43 ms)
