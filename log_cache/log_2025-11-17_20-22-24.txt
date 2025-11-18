@@ -25804,3 +25804,22 @@ LUA call stack:
   =dataS/scripts/FSBaseMission.lua:1913 update
   =dataS/scripts/mission00.lua:684 update
   =dataS/scripts/main.lua:1238 update
+2025-11-18 13:49:38.783 Piotrek lost connection to the game
+2025-11-18 13:49:45.287 zwierek lost connection to the game
+2025-11-18 13:50:53.986 Lewy lost connection to the game
+2025-11-18 13:51:01.028 Piotrek joined the game
+2025-11-18 13:51:01.241 dataS/character/playerM/pants/botChinos.i3d (13.21 ms)
+2025-11-18 13:51:01.317 dataS/character/playerM/shirts/strauss/straussTShirtMerino.i3d (76.31 ms)
+2025-11-18 13:51:01.322 dataS/character/playerM/gloves/glovesGeneric.i3d (4.92 ms)
+2025-11-18 13:51:01.414 dataS/character/playerM/shoes/sandalM03.i3d (91.48 ms)
+2025-11-18 13:51:01.414 dataS/character/playerM/hairStyles/hairStyleBald.i3d (0.26 ms)
+2025-11-18 13:51:55.964 zwierek joined the game
+2025-11-18 13:51:55.999 dataS/character/playerM/pants/botJeanShorts.i3d (16.44 ms)
+2025-11-18 13:51:56.000 dataS/character/playerM/attachments/glassesAviators.i3d (1.48 ms)
+2025-11-18 13:51:56.031 dataS/character/playerM/hairStyles/hairStyleBaldTop.i3d (30.81 ms)
+2025-11-18 13:51:56.040 dataS/character/playerM/facialHair/mHead01/walrusXL.i3d (8.75 ms)
+2025-11-18 13:55:51.462 Game saved successfully (savegame1).
+2025-11-18 13:56:14.887   Info: [Easy Development Controls] User zwierek has logged in as master user.
+2025-11-18 13:57:58.685   Info: Moved player to coordinates 638, 824 successfully.
+2025-11-18 13:58:40.257   Info: Successfully set fill unit 1 of Lizard MKS 32 to Water with a fill level of 32,000 liters.
+2025-11-18 13:59:24.424   Info: Successfully set fill unit 1 of Lizard MKS 32 to Water with a fill level of 32,000 liters.
