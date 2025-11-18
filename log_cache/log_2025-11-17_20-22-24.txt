@@ -6209,3 +6209,53 @@ LUA call stack:
 2025-11-18 06:22:12.876 dataS/character/playerM/shirts/topTShirt01.i3d (2.31 ms)
 2025-11-18 06:22:12.878 dataS/character/playerM/attachments/glassesSports01.i3d (2.03 ms)
 2025-11-18 06:22:12.897 dataS/character/playerM/facialHair/mHead01/muttonChops03.i3d (18.88 ms)
+2025-11-18 06:24:40.285   Info: [Easy Development Controls] User SzaGhrat has logged in as master user.
+2025-11-18 06:24:49.834 Game saved successfully (savegame1).
+2025-11-18 06:24:58.603   Info: Successfully added 'ExhaustExtension' particle system to 3 nodes of vehicle 'SCANIA 770 V8 CHIP'
+2025-11-18 06:28:45.959 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_slurryTanks/smallTank.i3d (9.18 ms)
+2025-11-18 06:31:28.586 data/shared/wheels/tires/trelleborg/TwinRadial/500_60R22_5.i3d (4.00 ms)
+2025-11-18 06:31:36.582   Info: Moved player to coordinates 1512, 802 successfully.
+2025-11-18 06:31:42.278 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.63 ms)
+2025-11-18 06:31:42.329 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_mrhHandLiftableConsumables/baleNet/baleNet.i3d (0.24 ms)
+2025-11-18 06:38:57.374 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_VOLVO_FH16/Model/FH16.i3d (412.17 ms)
+2025-11-18 06:38:57.599 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_VOLVO_FH16/Wheels/Tire.i3d (48.63 ms)
+2025-11-18 06:38:57.866 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_VOLVO_FH16/Wheels/ContiHybridHD3/ContiHybridHD3.i3d (6.50 ms)
+2025-11-18 06:38:57.892 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_VOLVO_FH16/Parts/Escapamento.i3d (25.06 ms)
+2025-11-18 06:38:57.894 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_VOLVO_FH16/Parts/ProtetorFrontal.i3d (2.57 ms)
+2025-11-18 06:38:57.904 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_VOLVO_FH16/Parts/Globetrotter.i3d (9.62 ms)
+2025-11-18 06:38:57.917 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_VOLVO_FH16/Parts/Defletor.i3d (13.23 ms)
+2025-11-18 06:38:57.925 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_VOLVO_FH16/Wheels/RodasAlcoa/Rodas.i3d (7.96 ms)
+2025-11-18 06:38:57.976 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_VOLVO_FH16/Wheels/Cubos/Auxiliar.i3d (4.21 ms)
+2025-11-18 06:38:57.984 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_VOLVO_FH16/Wheels/Parafusos/Parafusos.i3d (7.30 ms)
+2025-11-18 06:38:58.040 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_VOLVO_FH16/Parts/MudFlaps.i3d (56.14 ms)
+2025-11-18 06:38:58.048 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_VOLVO_FH16/Parts/Tanques.i3d (8.00 ms)
+2025-11-18 06:38:58.049 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_VOLVO_FH16/Parts/Parachoque.i3d (0.58 ms)
+2025-11-18 06:38:58.051 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_VOLVO_FH16/Parts/Parasol.i3d (2.03 ms)
+2025-11-18 06:38:58.054 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_VOLVO_FH16/Wheels/ContiHybridHD3/Dianteiro.i3d (3.16 ms)
+2025-11-18 06:38:58.086 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_VOLVO_FH16/Wheels/Cubos/Dianteiro.i3d (4.21 ms)
+2025-11-18 06:38:58.101 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_VOLVO_FH16/Parts/Chassi.i3d (15.43 ms)
+2025-11-18 06:38:58.125 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_VOLVO_FH16/Parts/Eixos.i3d (24.19 ms)
+2025-11-18 06:38:58.136 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_VOLVO_FH16/Parts/PartesTruck.i3d (10.87 ms)
+2025-11-18 06:38:58.180 Error: Can't load resource 'gen_singleColorTexture_0_4294967295'.
+2025-11-18 06:38:58.180   DevWarning: material 'tyreMaterial' is having the albedo map removed by script. This can cause problems on consoles as the correct shader will not be built for this case.
+2025-11-18 06:38:58.180 Error: Can't load resource 'gen_singleColorTexture_0_4294967295'.
+2025-11-18 06:38:58.180   DevWarning: material 'tyreMaterial' is having the albedo map removed by script. This can cause problems on consoles as the correct shader will not be built for this case.
+2025-11-18 06:38:58.181 Error: Can't load resource 'gen_singleColorTexture_0_4294967295'.
+2025-11-18 06:38:58.181   DevWarning: material 'tyreMaterial' is having the albedo map removed by script. This can cause problems on consoles as the correct shader will not be built for this case.
+2025-11-18 06:38:58.181 Error: Can't load resource 'gen_singleColorTexture_0_4294967295'.
+2025-11-18 06:38:58.181   DevWarning: material 'tyreMaterial' is having the albedo map removed by script. This can cause problems on consoles as the correct shader will not be built for this case.
+2025-11-18 06:38:58.181 Error: Can't load resource 'gen_singleColorTexture_0_4294967295'.
+2025-11-18 06:38:58.181   DevWarning: material 'tyreMaterial' is having the albedo map removed by script. This can cause problems on consoles as the correct shader will not be built for this case.
+2025-11-18 06:38:58.181 Error: Can't load resource 'gen_singleColorTexture_0_4294967295'.
+2025-11-18 06:38:58.181   DevWarning: material 'tyreMaterial' is having the albedo map removed by script. This can cause problems on consoles as the correct shader will not be built for this case.
+2025-11-18 06:38:58.181 Error: Can't load resource 'gen_singleColorTexture_0_4294967295'.
+2025-11-18 06:38:58.181   DevWarning: material 'tyreMaterial' is having the albedo map removed by script. This can cause problems on consoles as the correct shader will not be built for this case.
+2025-11-18 06:38:58.181 Error: Can't load resource 'gen_singleColorTexture_0_4294967295'.
+2025-11-18 06:38:58.181   DevWarning: material 'tyreMaterial' is having the albedo map removed by script. This can cause problems on consoles as the correct shader will not be built for this case.
+2025-11-18 06:38:58.181 Error: Can't load resource 'gen_singleColorTexture_0_4294967295'.
+2025-11-18 06:38:58.181   DevWarning: material 'tyreMaterial' is having the albedo map removed by script. This can cause problems on consoles as the correct shader will not be built for this case.
+2025-11-18 06:38:58.181 Error: Can't load resource 'gen_singleColorTexture_0_4294967295'.
+2025-11-18 06:38:58.181   DevWarning: material 'tyreMaterial' is having the albedo map removed by script. This can cause problems on consoles as the correct shader will not be built for this case.
+2025-11-18 06:39:14.301   Info: Moved player to coordinates 1211, 581 successfully.
+2025-11-18 06:39:19.582   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Volvo FH750'
+2025-11-18 06:40:05.155   Info: Added € 145,000 to farm account. (6)
