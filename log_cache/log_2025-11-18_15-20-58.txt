@@ -5383,3 +5383,31 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-18 15:41:31.637 dataS/character/playerM/attachments/glassesSports02.i3d (1.54 ms)
 2025-11-18 15:41:31.730 dataS/character/playerM/shoes/sportSneaker.i3d (92.80 ms)
 2025-11-18 15:41:31.750 dataS/character/playerM/facialHair/mHead01/trimmedBeard.i3d (11.43 ms)
+2025-11-18 15:43:04.467 Lewy joined the game
+2025-11-18 15:43:04.577 dataS/character/playerM/jacket/claas/claasTop.i3d (94.26 ms)
+2025-11-18 15:43:04.601 dataS/character/playerM/shoes/crok.i3d (23.58 ms)
+2025-11-18 15:43:04.621 dataS/character/playerM/facialHair/mHead01/goatee01.i3d (19.59 ms)
+2025-11-18 15:46:19.965   Info: Successfully added 'ExhaustExtension' particle system to 3 nodes of vehicle 'SCANIA 770 V8 CHIP'
+2025-11-18 15:50:24.259 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_lsfmBigBagPack/objects/bigBagFillable/bigBagFillable.i3d (6.90 ms)
+2025-11-18 15:51:12.843   Info: No 'ExhaustExtension' particle system added to vehicle 'Grimme SL 80-22 Quantum' because it has no exhaust
+2025-11-18 15:51:40.139 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_RounderWrappedRoundbales/assets/roundbale125/roundbale125.i3d (1.99 ms)
+2025-11-18 15:51:40.140   Info: Adding bale.
+2025-11-18 15:52:21.962 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_lsfmBigBagPack/objects/bigBagFillable/bigBagFillable.i3d (6.68 ms)
+2025-11-18 15:52:36.272   Info: Successfully added 'ExhaustExtension' particle system to 2 nodes of vehicle 'DEUTZ-FAHR TopLiner 4090H'
+2025-11-18 15:52:40.362 Game saved successfully (savegame1).
+2025-11-18 15:53:20.843   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'New Holland 190 50KPH'
+2025-11-18 15:56:24.137 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_lsfmBigBagPack/objects/bigBagFillable/bigBagFillable.i3d (7.17 ms)
+2025-11-18 16:04:01.003   Info: No 'ExhaustExtension' particle system added to vehicle 'Kärcher HDS 9/18-4 M' because it has no exhaust
+2025-11-18 16:04:03.081 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_lsfmBigBagPack/objects/bigBagFillable/bigBagFillable.i3d (6.75 ms)
+2025-11-18 16:09:49.017 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_lsfmBigBagPack/objects/bigBagFillable/bigBagFillable.i3d (7.85 ms)
+2025-11-18 16:10:08.731   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Volvo FH750'
+2025-11-18 16:15:25.898 SzaGhrat left the game
+2025-11-18 16:17:15.904 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_RounderWrappedRoundbales/assets/roundbale125/roundbale125.i3d (1.90 ms)
+2025-11-18 16:22:43.898 Game saved successfully (savegame1).
+2025-11-18 16:23:33.931   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'DEUTZ-FAHR 6135 C RVshift'
+2025-11-18 16:24:39.789 data/objects/bigBag/bigBag.i3d (5.59 ms)
+2025-11-18 16:24:39.803 data/objects/pallets/pioneer/pioneerPallet.i3d (1.59 ms)
+2025-11-18 16:24:39.851 data/objects/bigBagPallet/bigBagPallet.i3d (3.92 ms)
+2025-11-18 16:25:03.797 data/objects/bigBag/bigBag.i3d (5.85 ms)
+2025-11-18 16:25:03.811 data/objects/pallets/pioneer/pioneerPallet.i3d (1.68 ms)
+2025-11-18 16:25:03.859 data/objects/bigBagPallet/bigBagPallet.i3d (4.22 ms)
