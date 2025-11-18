@@ -5602,3 +5602,19 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-18 19:34:12.821 data/shared/assets/reflectors/lizard/bigTriangle.i3d (1.78 ms)
 2025-11-18 19:34:12.829 data/vehicles/macDon/fd250/fd250.i3d (56.35 ms)
 2025-11-18 19:34:13.198 data/shared/wheels/tires/mitas/FL02/7_R12.i3d (2.50 ms)
+2025-11-18 19:41:13.288   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Fendt IDEAL 7T'
+2025-11-18 19:42:46.932   Info: Super Strength enabled by Jolero
+2025-11-18 19:42:57.390   Info: Super Strength disabled by Jolero
+2025-11-18 19:44:06.699 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.71 ms)
+2025-11-18 19:45:09.826 dataS/character/playerM/fullBody/onePieceMechanic.i3d (29.32 ms)
+2025-11-18 19:45:09.843 dataS/character/playerM/shoes/riding.i3d (16.68 ms)
+2025-11-18 19:45:09.878 dataS/character/playerM/hairStyles/hairStyleUnkempt.i3d (34.89 ms)
+2025-11-18 19:45:09.892 dataS/character/playerM/facialHair/mHead02/goatee01.i3d (13.87 ms)
+2025-11-18 19:45:33.398 Warning: Send called with unknown target address.
+2025-11-18 19:45:33.406 Jolero left the game
+2025-11-18 19:46:33.264 SzaGhrat joined the game
+2025-11-18 19:46:33.286 dataS/character/playerM/shirts/topTShirt01.i3d (2.31 ms)
+2025-11-18 19:46:33.290 dataS/character/playerM/attachments/headgearBeanie.i3d (4.22 ms)
+2025-11-18 19:46:33.292 dataS/character/playerM/attachments/glassesSports01.i3d (1.52 ms)
+2025-11-18 19:46:33.308 dataS/character/playerM/facialHair/mHead01/muttonChops03.i3d (15.61 ms)
+2025-11-18 19:47:29.818   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'John Deere 6195M Chiptuning 50km/h'
