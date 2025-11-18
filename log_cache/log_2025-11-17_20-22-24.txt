@@ -6326,3 +6326,6 @@ LUA call stack:
 2025-11-18 09:24:02.514 dataS/character/playerM/shoes/sandalM03.i3d (90.48 ms)
 2025-11-18 09:24:02.514 dataS/character/playerM/hairStyles/hairStyleBald.i3d (0.27 ms)
 2025-11-18 09:25:18.828 Game saved successfully (savegame1).
+2025-11-18 09:41:18.805 data/objects/pallets/fermentedNapaCabbageBoxPallet/fermentedNapaCabbageBoxPallet.i3d (13.94 ms)
+2025-11-18 09:41:51.131 Piotrek lost connection to the game
+2025-11-18 09:43:56.663 data/objects/pallets/fermentedNapaCabbageBoxPallet/fermentedNapaCabbageBoxPallet.i3d (11.89 ms)
