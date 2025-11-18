@@ -5428,3 +5428,53 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-18 16:41:00.652 data/objects/bigBag/bigBag.i3d (5.25 ms)
 2025-11-18 16:41:00.667 data/objects/pallets/pioneer/pioneerPallet.i3d (1.61 ms)
 2025-11-18 16:41:00.714 data/objects/bigBagPallet/bigBagPallet.i3d (4.33 ms)
+2025-11-18 16:42:46.009   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Fendt 728 Vario Chip 330'
+2025-11-18 16:43:17.108 Piotrek lost connection to the game
+2025-11-18 16:44:36.794 Piotrek joined the game
+2025-11-18 16:44:36.825 dataS/character/playerM/pants/botChinos.i3d (13.36 ms)
+2025-11-18 16:44:36.902 dataS/character/playerM/shirts/strauss/straussTShirtMerino.i3d (76.65 ms)
+2025-11-18 16:44:36.907 dataS/character/playerM/gloves/glovesGeneric.i3d (4.96 ms)
+2025-11-18 16:44:36.907 dataS/character/playerM/hairStyles/hairStyleBald.i3d (0.26 ms)
+2025-11-18 16:47:45.527 data/objects/bigBagPallet/bigBagPallet.i3d (4.33 ms)
+2025-11-18 16:48:11.305 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_lsfmBigBagPack/objects/bigBagFillable/bigBagFillable.i3d (7.29 ms)
+2025-11-18 16:48:36.585 data/objects/bigBag/bigBag.i3d (5.37 ms)
+2025-11-18 16:48:36.609 data/objects/pallets/pioneer/pioneerPallet.i3d (1.58 ms)
+2025-11-18 16:49:45.530 dataS/character/playerF/pants/botJeansCapris.i3d (20.48 ms)
+2025-11-18 16:49:45.723 dataS/character/playerF/heads/fHead03.i3d (193.41 ms)
+2025-11-18 16:49:45.772 dataS/character/playerF/shirts/topTankTop.i3d (48.75 ms)
+2025-11-18 16:49:45.775 dataS/character/playerF/shoes/sneaker01.i3d (2.69 ms)
+2025-11-18 16:52:48.063 Game saved successfully (savegame1).
+2025-11-18 16:53:10.880 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_lsfmBigBagPack/objects/bigBagFillable/bigBagFillable.i3d (7.48 ms)
+2025-11-18 16:57:40.212   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'New Holland 8340'
+2025-11-18 16:58:54.895 data/objects/pallets/fermentedNapaCabbageBoxPallet/fermentedNapaCabbageBoxPallet.i3d (12.95 ms)
+2025-11-18 16:58:54.905 data/objects/pallets/preservedFoodBeetRootPallet/preservedFoodBeetRootPallet.i3d (9.93 ms)
+2025-11-18 16:59:48.925   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Case IH 160 CVX'
+2025-11-18 17:00:01.922 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_lsfmBigBagPack/objects/bigBagFillable/bigBagFillable.i3d (7.31 ms)
+2025-11-18 17:02:39.535 symonixprime lost connection to the game
+2025-11-18 17:05:49.770 data/objects/bigBag/bigBag.i3d (4.91 ms)
+2025-11-18 17:06:19.746 data/objects/bigBag/bigBag.i3d (5.43 ms)
+2025-11-18 17:08:14.684   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Case IH CVX 195'
+2025-11-18 17:09:49.756 data/objects/pallets/fermentedNapaCabbageBoxPallet/fermentedNapaCabbageBoxPallet.i3d (13.86 ms)
+2025-11-18 17:10:53.583 data/objects/bigBag/bigBag.i3d (5.38 ms)
+2025-11-18 17:10:55.050 data/objects/pallets/pioneer/pioneerPallet.i3d (1.62 ms)
+2025-11-18 17:11:24.238   Info: Moved player to coordinates 620, 979 successfully.
+2025-11-18 17:13:24.398 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.86 ms)
+2025-11-18 17:13:24.464 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_lsfmBigBagPack/objects/bigBag/bigBag.i3d (4.85 ms)
+2025-11-18 17:13:30.591 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.72 ms)
+2025-11-18 17:15:00.329 symonixprime joined the game
+2025-11-18 17:15:00.438 dataS/character/playerM/shirts/topTShirt02.i3d (93.15 ms)
+2025-11-18 17:15:00.439 dataS/character/playerM/shoes/sandalM02.i3d (1.16 ms)
+2025-11-18 17:18:07.610 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_lsfmBigBagPack/objects/bigBagFillable/bigBagFillable.i3d (7.06 ms)
+2025-11-18 17:22:50.984 Game saved successfully (savegame1).
+2025-11-18 17:24:35.249 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_lsfmBigBagPack/objects/bigBagFillable/bigBagFillable.i3d (8.02 ms)
+2025-11-18 17:25:49.430 data/objects/pallets/pioneer/pioneerPallet.i3d (1.74 ms)
+2025-11-18 17:26:13.611 data/objects/pallets/pioneer/pioneerPallet.i3d (1.65 ms)
+2025-11-18 17:26:39.799 data/objects/pallets/pioneer/pioneerPallet.i3d (1.65 ms)
+2025-11-18 17:26:48.712 data/objects/pallets/preservedFoodBeetRootPallet/preservedFoodBeetRootPallet.i3d (10.34 ms)
+2025-11-18 17:31:07.601 dataS/character/playerM/pants/botLeather.i3d (17.52 ms)
+2025-11-18 17:31:07.796 dataS/character/playerM/heads/mHead03.i3d (194.41 ms)
+2025-11-18 17:31:07.829 dataS/character/playerM/hairStyles/hairStyleMidParted01.i3d (33.18 ms)
+2025-11-18 17:31:40.283 dataS/character/playerF/pants/botJeansCapris.i3d (20.57 ms)
+2025-11-18 17:31:40.477 dataS/character/playerF/heads/fHead03.i3d (194.58 ms)
+2025-11-18 17:31:40.526 dataS/character/playerF/shirts/topTankTop.i3d (48.85 ms)
+2025-11-18 17:31:40.529 dataS/character/playerF/shoes/sneaker01.i3d (2.70 ms)
