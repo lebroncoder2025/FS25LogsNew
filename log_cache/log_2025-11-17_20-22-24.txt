@@ -25823,3 +25823,5 @@ LUA call stack:
 2025-11-18 13:57:58.685   Info: Moved player to coordinates 638, 824 successfully.
 2025-11-18 13:58:40.257   Info: Successfully set fill unit 1 of Lizard MKS 32 to Water with a fill level of 32,000 liters.
 2025-11-18 13:59:24.424   Info: Successfully set fill unit 1 of Lizard MKS 32 to Water with a fill level of 32,000 liters.
+2025-11-18 14:14:39.523   Info: Successfully set fill unit 1 of Farmtech Fortis 3000 to Soybeans with a fill level of 55,000 liters.
+2025-11-18 14:25:52.369 Game saved successfully (savegame1).
