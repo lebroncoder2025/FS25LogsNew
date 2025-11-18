@@ -140206,3 +140206,11 @@ LUA call stack:
 2025-11-19 00:01:10.109 dataS/character/playerF/shoes/sportSneaker.i3d (93.01 ms)
 2025-11-19 00:01:10.145 dataS/character/playerF/hairStyles/hairStyleLongSideParted.i3d (36.44 ms)
 2025-11-19 00:06:42.614 hubsonwaliszot left the game
+2025-11-19 00:22:57.585 Lewy joined the game
+2025-11-19 00:22:57.963 dataS/character/playerM/pants/poettinger/poettingerShort.i3d (178.03 ms)
+2025-11-19 00:22:58.077 dataS/character/playerM/jacket/claas/claasTop.i3d (114.54 ms)
+2025-11-19 00:22:58.082 dataS/character/playerM/attachments/headgearBeanie.i3d (4.23 ms)
+2025-11-19 00:22:58.083 dataS/character/playerM/attachments/glassesAviators.i3d (1.52 ms)
+2025-11-19 00:22:58.113 dataS/character/playerM/shoes/crok.i3d (29.77 ms)
+2025-11-19 00:22:58.132 dataS/character/playerM/facialHair/mHead01/goatee01.i3d (19.00 ms)
+2025-11-19 00:24:10.920 Game saved successfully (savegame1).
