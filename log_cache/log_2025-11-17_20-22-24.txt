@@ -6331,3 +6331,185 @@ LUA call stack:
 2025-11-18 09:43:56.663 data/objects/pallets/fermentedNapaCabbageBoxPallet/fermentedNapaCabbageBoxPallet.i3d (11.89 ms)
 2025-11-18 09:55:29.108 Game saved successfully (savegame1).
 2025-11-18 10:25:39.466 Game saved successfully (savegame1).
+2025-11-18 10:49:24.353 Jolero joined the game
+2025-11-18 10:49:24.557 dataS/character/playerM/shirts/topTShirt01.i3d (2.35 ms)
+2025-11-18 10:49:24.590 dataS/character/playerM/hairStyles/hairStyleTopKnot.i3d (33.30 ms)
+2025-11-18 10:49:24.609 dataS/character/playerM/facialHair/mHead01/goatee01.i3d (18.92 ms)
+2025-11-18 10:50:33.259   Info: [Easy Development Controls] User Jolero has logged in as master user.
+2025-11-18 10:51:26.352   Info: Successfully set fill unit 1 of Lizard MKS 32 to Buffalo Milk with a fill level of 32,000 liters.
+2025-11-18 10:51:32.903   Info: Moved 4 vehicles to coordinates 922, 913 successfully.
+2025-11-18 10:51:46.592   Info: Savegame Setting 'economicDifficulty': NORMAL
+2025-11-18 10:51:46.748   Info: Savegame Setting 'economicDifficulty': EASY
+2025-11-18 10:52:23.716   Info: Successfully set fill unit 1 of Lizard MKS 32 to Buffalo Milk with a fill level of 32,000 liters.
+2025-11-18 10:53:00.456   Info: Savegame Setting 'economicDifficulty': NORMAL
+2025-11-18 10:53:00.618   Info: Savegame Setting 'economicDifficulty': HARD
+2025-11-18 10:53:08.699   Info: Moved 4 vehicles to coordinates 720, 924 successfully.
+2025-11-18 10:53:21.067   Info: Successfully set fill unit 1 of Lizard MKS 32 to Water with a fill level of 7,878 liters.
+2025-11-18 10:54:37.803   Info: Super Strength enabled by Jolero
+2025-11-18 10:55:43.874 Game saved successfully (savegame1).
+2025-11-18 10:56:34.791   Info: Super Strength disabled by Jolero
+2025-11-18 10:58:40.126   Info: Adding pallet.
+2025-11-18 10:58:40.638   Info: Adding pallet.
+2025-11-18 10:58:40.780   Info: Adding pallet.
+2025-11-18 10:58:40.921   Info: Adding pallet.
+2025-11-18 10:58:41.045   Info: Adding pallet.
+2025-11-18 10:58:41.169   Info: Adding pallet.
+2025-11-18 10:58:41.293   Info: Adding pallet.
+2025-11-18 10:58:41.419   Info: Adding pallet.
+2025-11-18 10:58:41.526   Info: Adding pallet.
+2025-11-18 10:58:41.648   Info: Adding pallet.
+2025-11-18 10:58:41.789   Info: Adding pallet.
+2025-11-18 10:58:41.909   Info: Adding pallet.
+2025-11-18 10:58:42.178   Info: Adding pallet.
+2025-11-18 10:58:42.319   Info: Adding pallet.
+2025-11-18 10:58:42.567   Info: Adding pallet.
+2025-11-18 10:58:42.727   Info: Adding pallet.
+2025-11-18 10:58:42.908   Info: Adding pallet.
+2025-11-18 10:58:43.066   Info: Adding pallet.
+2025-11-18 10:58:43.207   Info: Adding pallet.
+2025-11-18 10:58:43.401   Info: Adding pallet.
+2025-11-18 10:58:43.526   Info: Adding pallet.
+2025-11-18 10:58:43.650   Info: Adding pallet.
+2025-11-18 10:58:43.792   Info: Adding pallet.
+2025-11-18 10:58:43.936   Info: Adding pallet.
+2025-11-18 10:58:44.092   Info: Adding pallet.
+2025-11-18 10:58:44.235   Info: Adding pallet.
+2025-11-18 10:58:44.394   Info: Adding pallet.
+2025-11-18 10:58:44.553   Info: Adding pallet.
+2025-11-18 10:58:44.693   Info: Adding pallet.
+2025-11-18 10:58:44.852   Info: Adding pallet.
+2025-11-18 10:58:45.011   Info: Adding pallet.
+2025-11-18 10:58:45.167   Info: Adding pallet.
+2025-11-18 10:58:45.326   Info: Adding pallet.
+2025-11-18 10:58:45.501   Info: Adding pallet.
+2025-11-18 10:58:45.610   Info: Adding pallet.
+2025-11-18 10:58:45.751   Info: Adding pallet.
+2025-11-18 10:58:45.875   Info: Adding pallet.
+2025-11-18 10:58:46.157   Info: Adding pallet.
+2025-11-18 10:58:46.333   Info: Adding pallet.
+2025-11-18 10:58:46.421   Info: Adding pallet.
+2025-11-18 10:58:46.581   Info: Adding pallet.
+2025-11-18 10:58:46.720   Info: Adding pallet.
+2025-11-18 10:58:46.987   Info: Adding pallet.
+2025-11-18 10:58:47.125   Info: Adding pallet.
+2025-11-18 10:58:47.285   Info: Adding pallet.
+2025-11-18 10:58:47.514   Info: Adding pallet.
+2025-11-18 10:58:47.692   Info: Adding pallet.
+2025-11-18 10:58:49.065   Info: Adding pallet.
+2025-11-18 10:58:49.222   Info: Adding pallet.
+2025-11-18 10:58:49.504   Info: Adding pallet.
+2025-11-18 10:58:49.734   Info: Adding pallet.
+2025-11-18 10:58:49.946   Info: Adding pallet.
+2025-11-18 10:58:50.086   Info: Adding pallet.
+2025-11-18 10:58:50.210   Info: Adding pallet.
+2025-11-18 10:58:50.314   Info: Adding pallet.
+2025-11-18 10:58:50.455   Info: Adding pallet.
+2025-11-18 10:58:50.581   Info: Adding pallet.
+2025-11-18 10:58:50.687   Info: Adding pallet.
+2025-11-18 10:58:50.829   Info: Adding pallet.
+2025-11-18 10:58:50.971   Info: Adding pallet.
+2025-11-18 10:58:51.075   Info: Adding pallet.
+2025-11-18 10:58:51.217   Info: Adding pallet.
+2025-11-18 10:58:51.339   Info: Adding pallet.
+2025-11-18 10:58:51.460   Info: Adding pallet.
+2025-11-18 10:58:51.583   Info: Adding pallet.
+2025-11-18 10:58:51.688   Info: Adding pallet.
+2025-11-18 10:58:51.832   Info: Adding pallet.
+2025-11-18 10:58:51.957   Info: Adding pallet.
+2025-11-18 10:58:52.080   Info: Adding pallet.
+2025-11-18 10:58:52.203   Info: Adding pallet.
+2025-11-18 10:58:52.310   Info: Adding pallet.
+2025-11-18 10:58:52.576   Info: Adding pallet.
+2025-11-18 10:58:52.700   Info: Adding pallet.
+2025-11-18 10:58:52.983   Info: Adding pallet.
+2025-11-18 10:58:53.158   Info: Adding pallet.
+2025-11-18 10:58:53.405   Info: Adding pallet.
+2025-11-18 10:58:53.528   Info: Adding pallet.
+2025-11-18 10:58:53.829   Info: Adding pallet.
+2025-11-18 10:58:53.971   Info: Adding pallet.
+2025-11-18 10:58:54.113   Info: Adding pallet.
+2025-11-18 10:58:54.237   Info: Adding pallet.
+2025-11-18 10:58:54.361   Info: Adding pallet.
+2025-11-18 10:58:54.501   Info: Adding pallet.
+2025-11-18 10:58:54.608   Info: Adding pallet.
+2025-11-18 10:58:54.750   Info: Adding pallet.
+2025-11-18 10:58:54.963   Info: Adding pallet.
+2025-11-18 10:58:55.209   Info: Adding pallet.
+2025-11-18 10:58:55.312   Info: Adding pallet.
+2025-11-18 10:58:55.488   Info: Adding pallet.
+2025-11-18 10:58:55.648   Info: Adding pallet.
+2025-11-18 10:58:55.773   Info: Adding pallet.
+2025-11-18 10:58:55.896   Info: Adding pallet.
+2025-11-18 10:58:56.037   Info: Adding pallet.
+2025-11-18 10:58:56.196   Info: Adding pallet.
+2025-11-18 10:58:56.321   Info: Adding pallet.
+2025-11-18 10:58:56.498   Info: Adding pallet.
+2025-11-18 10:58:56.586   Info: Adding pallet.
+2025-11-18 10:59:02.813   Info: Adding pallet.
+2025-11-18 10:59:02.954   Info: Adding pallet.
+2025-11-18 10:59:03.095   Info: Adding pallet.
+2025-11-18 10:59:03.184   Info: Adding pallet.
+2025-11-18 10:59:03.308   Info: Adding pallet.
+2025-11-18 10:59:03.432   Info: Adding pallet.
+2025-11-18 10:59:03.555   Info: Adding pallet.
+2025-11-18 10:59:03.677   Info: Adding pallet.
+2025-11-18 10:59:03.802   Info: Adding pallet.
+2025-11-18 10:59:03.927   Info: Adding pallet.
+2025-11-18 10:59:04.086   Info: Adding pallet.
+2025-11-18 10:59:04.209   Info: Adding pallet.
+2025-11-18 10:59:04.331   Info: Adding pallet.
+2025-11-18 10:59:04.579   Info: Adding pallet.
+2025-11-18 10:59:04.739   Info: Adding pallet.
+2025-11-18 10:59:04.881   Info: Adding pallet.
+2025-11-18 10:59:05.057   Info: Adding pallet.
+2025-11-18 10:59:05.233   Info: Adding pallet.
+2025-11-18 10:59:05.358   Info: Adding pallet.
+2025-11-18 10:59:05.550   Info: Adding pallet.
+2025-11-18 10:59:05.690   Info: Adding pallet.
+2025-11-18 10:59:05.885   Info: Adding pallet.
+2025-11-18 10:59:06.043   Info: Adding pallet.
+2025-11-18 10:59:06.202   Info: Adding pallet.
+2025-11-18 10:59:06.309   Info: Adding pallet.
+2025-11-18 10:59:06.467   Info: Adding pallet.
+2025-11-18 10:59:06.716   Info: Adding pallet.
+2025-11-18 10:59:06.894   Info: Adding pallet.
+2025-11-18 10:59:07.090   Info: Adding pallet.
+2025-11-18 10:59:07.285   Info: Adding pallet.
+2025-11-18 10:59:07.479   Info: Adding pallet.
+2025-11-18 10:59:07.672   Info: Adding pallet.
+2025-11-18 10:59:07.902   Info: Adding pallet.
+2025-11-18 10:59:08.114   Info: Adding pallet.
+2025-11-18 10:59:08.290   Info: Adding pallet.
+2025-11-18 10:59:08.449   Info: Adding pallet.
+2025-11-18 10:59:08.606   Info: Adding pallet.
+2025-11-18 10:59:08.746   Info: Adding pallet.
+2025-11-18 10:59:08.903   Info: Adding pallet.
+2025-11-18 10:59:09.080   Info: Adding pallet.
+2025-11-18 10:59:09.239   Info: Adding pallet.
+2025-11-18 10:59:09.381   Info: Adding pallet.
+2025-11-18 10:59:09.522   Info: Adding pallet.
+2025-11-18 10:59:09.646   Info: Adding pallet.
+2025-11-18 10:59:09.807   Info: Adding pallet.
+2025-11-18 10:59:09.932   Info: Adding pallet.
+2025-11-18 10:59:10.071   Info: Adding pallet.
+2025-11-18 10:59:10.195   Info: Adding pallet.
+2025-11-18 11:02:21.079 Jolero left the game
+2025-11-18 11:03:02.114 Lewy joined the game
+2025-11-18 11:03:02.454 dataS/character/playerM/pants/poettinger/poettingerShort.i3d (139.81 ms)
+2025-11-18 11:03:02.547 dataS/character/playerM/jacket/claas/claasTop.i3d (93.09 ms)
+2025-11-18 11:03:02.552 dataS/character/playerM/attachments/headgearBeanie.i3d (4.23 ms)
+2025-11-18 11:03:02.553 dataS/character/playerM/attachments/glassesAviators.i3d (1.50 ms)
+2025-11-18 11:03:02.576 dataS/character/playerM/shoes/crok.i3d (23.12 ms)
+2025-11-18 11:03:02.595 dataS/character/playerM/facialHair/mHead01/goatee01.i3d (18.84 ms)
+2025-11-18 11:11:35.510   Info: Successfully added 'ExhaustExtension' particle system to 2 nodes of vehicle 'DEUTZ-FAHR TopLiner 4090H'
+2025-11-18 11:15:30.529 zwierek joined the game
+2025-11-18 11:15:30.561 dataS/character/playerM/pants/botJeanShorts.i3d (16.39 ms)
+2025-11-18 11:15:30.651 dataS/character/playerM/shoes/sandalM03.i3d (90.39 ms)
+2025-11-18 11:15:30.682 dataS/character/playerM/hairStyles/hairStyleBaldTop.i3d (30.67 ms)
+2025-11-18 11:15:30.691 dataS/character/playerM/facialHair/mHead01/walrusXL.i3d (8.63 ms)
+2025-11-18 11:15:41.110 Lewy left the game
+2025-11-18 11:18:01.584   Info: [Easy Development Controls] User zwierek has logged in as master user.
+2025-11-18 11:18:59.485 dataS/character/playerM/pants/botLeather.i3d (17.71 ms)
+2025-11-18 11:18:59.515 dataS/character/playerM/jacket/topVest.i3d (30.27 ms)
+2025-11-18 11:18:59.550 dataS/character/playerM/hairStyles/hairStyleFringe.i3d (34.43 ms)
+2025-11-18 11:25:45.031 Game saved successfully (savegame1).
