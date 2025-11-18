@@ -6308,3 +6308,12 @@ LUA call stack:
 2025-11-18 07:44:15.720 dataS/character/playerF/shirts/topBlouse.i3d (53.15 ms)
 2025-11-18 07:44:15.723 dataS/character/playerF/shoes/sneaker01.i3d (2.65 ms)
 2025-11-18 07:44:15.758 dataS/character/playerF/hairStyles/hairStyleMidSideParted.i3d (35.05 ms)
+2025-11-18 07:54:53.106 Game saved successfully (savegame1).
+2025-11-18 07:57:30.852 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Modern_Classics_DLC/lizardTA18/lizardTA18.i3d (71.80 ms)
+2025-11-18 07:57:30.925   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Modern_Classics_DLC/lizardTA18/lizardTA18.xml): 'vehicle.baseMaterial' is not supported anymore!
+2025-11-18 07:57:30.926   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Modern_Classics_DLC/lizardTA18/lizardTA18.xml): 'vehicle.baseMaterialConfigurations' is not supported anymore, use 'vehicle.designColorConfigurations' instead!
+2025-11-18 07:57:30.926   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Modern_Classics_DLC/lizardTA18/lizardTA18.xml): 'vehicle.designMaterialConfigurations' is not supported anymore, use 'vehicle.designColorConfigurations' instead!
+2025-11-18 07:57:30.961   Error (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Modern_Classics_DLC/lizardTA18/lizardTA18.xml): Sound template 'defaultHydraulicSound' was not found in vehicle.cylindered.sounds.hydraulic
+2025-11-18 07:57:30.986 data/shared/wheels/tires/trelleborg/T404/400_60R26_5.i3d (2.27 ms)
+2025-11-18 07:57:31.015   Error (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Modern_Classics_DLC/lizardTA18/lizardTA18.xml): Sound template 'ATTACH_01' was not found in vehicle.attacherJoints.sounds.attach
+2025-11-18 08:08:48.193 Lewy left the game
