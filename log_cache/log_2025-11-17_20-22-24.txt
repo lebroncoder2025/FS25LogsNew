@@ -6515,3 +6515,51 @@ LUA call stack:
 2025-11-18 11:25:45.031 Game saved successfully (savegame1).
 2025-11-18 11:36:47.290   Info: Savegame Setting 'fruitDesctructionEnabled': false
 2025-11-18 11:38:21.492   Info: Savegame Setting 'fruitDesctructionEnabled': true
+2025-11-18 11:45:33.697 data/shared/assets/gpsReceiver/gpsReceiver01.i3d (1.74 ms)
+2025-11-18 11:45:33.735 data/vehicles/agrifac/condorEndurance2/condorEndurance2.i3d (144.41 ms)
+2025-11-18 11:45:33.900 data/shared/wheels/tires/michelin/yieldBib/480_95R50.i3d (3.68 ms)
+2025-11-18 11:46:01.204 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.62 ms)
+2025-11-18 11:46:01.260 data/objects/pallets/liquidTank/liquidTank.i3d (3.44 ms)
+2025-11-18 11:46:04.093   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'AGRIFAC Condor Endurance II'
+2025-11-18 11:48:30.609   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'AGRIFAC Condor Endurance II'
+2025-11-18 11:49:09.507 dataS/character/playerM/heads/mHead05.i3d (190.99 ms)
+2025-11-18 11:49:09.601 dataS/character/playerM/shirts/zipNeckPullover.i3d (94.00 ms)
+2025-11-18 11:49:09.635 dataS/character/playerM/hairStyles/hairStyleManBun.i3d (33.42 ms)
+2025-11-18 11:49:09.645 dataS/character/playerM/facialHair/mHead05/goatee02.i3d (9.80 ms)
+2025-11-18 11:50:43.823 data/objects/bigBag/bigBag.i3d (5.32 ms)
+2025-11-18 11:50:44.814 data/objects/bigBagPallet/bigBagPallet.i3d (4.42 ms)
+2025-11-18 11:52:42.390 dataS/character/playerF/pants/botCargo.i3d (17.45 ms)
+2025-11-18 11:52:42.415 dataS/character/playerF/jacket/topVest.i3d (24.70 ms)
+2025-11-18 11:52:42.418 dataS/character/playerF/shoes/workboot02.i3d (3.05 ms)
+2025-11-18 11:52:42.452 dataS/character/playerF/hairStyles/hairStylePonyTail03.i3d (33.96 ms)
+2025-11-18 11:55:45.377 Game saved successfully (savegame1).
+2025-11-18 11:57:05.407 dataS/character/playerF/pants/botYogaPants.i3d (10.63 ms)
+2025-11-18 11:57:05.519 dataS/character/playerF/heads/fHead02.i3d (111.46 ms)
+2025-11-18 11:57:05.567 dataS/character/playerF/shirts/topTankTop.i3d (47.80 ms)
+2025-11-18 11:57:05.658 dataS/character/playerF/shoes/sportSneaker.i3d (91.66 ms)
+2025-11-18 11:57:05.692 dataS/character/playerF/hairStyles/hairStyleLongSideParted.i3d (34.48 ms)
+2025-11-18 11:59:37.131 Lewy joined the game
+2025-11-18 11:59:37.282 dataS/character/playerM/pants/poettinger/poettingerShort.i3d (139.86 ms)
+2025-11-18 11:59:37.432 dataS/character/playerM/jacket/claas/claasTop.i3d (92.87 ms)
+2025-11-18 11:59:37.436 dataS/character/playerM/attachments/headgearBeanie.i3d (4.24 ms)
+2025-11-18 11:59:37.481 dataS/character/playerM/shoes/crok.i3d (23.20 ms)
+2025-11-18 11:59:37.556 dataS/character/playerM/facialHair/mHead01/goatee01.i3d (19.56 ms)
+2025-11-18 12:02:49.182 Lewy lost connection to the game
+2025-11-18 12:04:14.114 Lewy joined the game
+2025-11-18 12:04:14.267 dataS/character/playerM/pants/poettinger/poettingerShort.i3d (140.13 ms)
+2025-11-18 12:04:14.360 dataS/character/playerM/jacket/claas/claasTop.i3d (92.93 ms)
+2025-11-18 12:04:14.364 dataS/character/playerM/attachments/headgearBeanie.i3d (4.17 ms)
+2025-11-18 12:04:14.387 dataS/character/playerM/shoes/crok.i3d (22.94 ms)
+2025-11-18 12:04:14.463 dataS/character/playerM/facialHair/mHead01/goatee01.i3d (18.89 ms)
+2025-11-18 12:07:31.172 dataS/character/playerF/pants/botJeansCapris.i3d (20.35 ms)
+2025-11-18 12:07:31.366 dataS/character/playerF/heads/fHead03.i3d (193.93 ms)
+2025-11-18 12:07:31.368 dataS/character/playerF/shoes/sneaker01.i3d (2.74 ms)
+2025-11-18 12:07:44.888 dataS/character/playerM/jacket/topDenimJacket.i3d (22.54 ms)
+2025-11-18 12:07:44.921 dataS/character/playerM/hairStyles/hairStyleMidParted01.i3d (32.74 ms)
+2025-11-18 12:07:44.922 dataS/character/playerM/facialHair/mHead01/beardStubble.i3d (1.40 ms)
+2025-11-18 12:15:02.475 Piotrek joined the game
+2025-11-18 12:15:02.502 dataS/character/playerM/pants/botChinos.i3d (13.24 ms)
+2025-11-18 12:15:02.579 dataS/character/playerM/shirts/strauss/straussTShirtMerino.i3d (76.75 ms)
+2025-11-18 12:15:02.584 dataS/character/playerM/gloves/glovesGeneric.i3d (4.84 ms)
+2025-11-18 12:15:02.584 dataS/character/playerM/hairStyles/hairStyleBald.i3d (0.25 ms)
+2025-11-18 12:20:55.075 data/objects/pallets/fermentedNapaCabbageBoxPallet/fermentedNapaCabbageBoxPallet.i3d (12.47 ms)
