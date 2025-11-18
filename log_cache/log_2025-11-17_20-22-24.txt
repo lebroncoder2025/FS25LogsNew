@@ -6186,3 +6186,26 @@ LUA call stack:
 2025-11-18 05:41:27.123 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_SCANIA_NTG_SOUTH_AMERICA/textures/addons/blocked01.i3d (8.04 ms)
 2025-11-18 05:41:27.256 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_SCANIA_NTG_SOUTH_AMERICA/wheels/wheels.i3d (103.67 ms)
 2025-11-18 05:41:35.765   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'SCANIA 420'
+2025-11-18 05:44:29.591   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'SCANIA 770 V8 CHIP'
+2025-11-18 05:44:57.853 zone joined the game
+2025-11-18 05:44:57.884 dataS/character/playerM/heads/mHead02.i3d (14.38 ms)
+2025-11-18 05:44:57.979 dataS/character/playerM/jacket/caseIH/caseIHTop.i3d (94.71 ms)
+2025-11-18 05:44:57.986 dataS/character/playerM/attachments/caseIHhat.i3d (6.76 ms)
+2025-11-18 05:44:58.020 dataS/character/playerM/hairStyles/hairStyleFringe.i3d (33.75 ms)
+2025-11-18 05:44:58.034 dataS/character/playerM/facialHair/mHead02/fullBeard.i3d (14.45 ms)
+2025-11-18 05:51:13.008   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'SCANIA 770 V8 CHIP'
+2025-11-18 05:53:20.551 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_SCANIA_NTG_SOUTH_AMERICA/NTGsouthAmerica.i3d (363.71 ms)
+2025-11-18 05:53:20.688 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_SCANIA_NTG_SOUTH_AMERICA/textures/addons/blocked01.i3d (5.81 ms)
+2025-11-18 05:53:20.783 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_SCANIA_NTG_SOUTH_AMERICA/wheels/wheels.i3d (62.39 ms)
+2025-11-18 05:54:46.066 Game saved successfully (savegame1).
+2025-11-18 05:55:40.096 zone lost connection to the game
+2025-11-18 06:09:18.301 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_SCANIA_NTG_SOUTH_AMERICA/NTGsouthAmerica.i3d (366.71 ms)
+2025-11-18 06:09:18.436 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_SCANIA_NTG_SOUTH_AMERICA/textures/addons/blocked01.i3d (6.12 ms)
+2025-11-18 06:09:18.531 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_SCANIA_NTG_SOUTH_AMERICA/wheels/wheels.i3d (63.14 ms)
+2025-11-18 06:11:14.439 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Wielton/Wielton.i3d (228.73 ms)
+2025-11-18 06:11:14.544 data/shared/wheels/tires/lizard/implement/315_80R22_5.i3d (3.19 ms)
+2025-11-18 06:11:22.830   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'SCANIA 420'
+2025-11-18 06:22:12.856 SzaGhrat joined the game
+2025-11-18 06:22:12.876 dataS/character/playerM/shirts/topTShirt01.i3d (2.31 ms)
+2025-11-18 06:22:12.878 dataS/character/playerM/attachments/glassesSports01.i3d (2.03 ms)
+2025-11-18 06:22:12.897 dataS/character/playerM/facialHair/mHead01/muttonChops03.i3d (18.88 ms)
