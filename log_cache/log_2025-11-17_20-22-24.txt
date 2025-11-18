@@ -6182,3 +6182,7 @@ LUA call stack:
 2025-11-18 04:46:44.065   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Fendt 724 Vario SCR - 50km/h'
 2025-11-18 04:54:38.549 Game saved successfully (savegame1).
 2025-11-18 05:24:39.695 Game saved successfully (savegame1).
+2025-11-18 05:41:26.977 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_SCANIA_NTG_SOUTH_AMERICA/NTGsouthAmerica.i3d (581.92 ms)
+2025-11-18 05:41:27.123 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_SCANIA_NTG_SOUTH_AMERICA/textures/addons/blocked01.i3d (8.04 ms)
+2025-11-18 05:41:27.256 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_SCANIA_NTG_SOUTH_AMERICA/wheels/wheels.i3d (103.67 ms)
+2025-11-18 05:41:35.765   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'SCANIA 420'
