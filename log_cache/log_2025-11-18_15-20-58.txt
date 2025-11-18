@@ -5487,3 +5487,36 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-18 17:40:15.962 dataS/character/playerF/heads/fHead06.i3d (111.01 ms)
 2025-11-18 17:40:16.016 dataS/character/playerF/shirts/topBlouse.i3d (53.28 ms)
 2025-11-18 17:40:16.051 dataS/character/playerF/hairStyles/hairStyleMidSideParted.i3d (35.15 ms)
+2025-11-18 17:51:45.177 dataS/character/playerM/pants/botLeather.i3d (17.93 ms)
+2025-11-18 17:51:45.209 dataS/character/playerM/jacket/topVest.i3d (31.11 ms)
+2025-11-18 17:52:47.893 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Lizard_bigbaglift/bigbagLifter.i3d (37.65 ms)
+2025-11-18 17:52:54.597 Game saved successfully (savegame1).
+2025-11-18 17:53:20.383 dataS/character/playerM/fullBody/onePieceMechanic.i3d (29.10 ms)
+2025-11-18 17:53:20.399 dataS/character/playerM/shoes/riding.i3d (16.60 ms)
+2025-11-18 17:53:20.434 dataS/character/playerM/hairStyles/hairStyleUnkempt.i3d (35.03 ms)
+2025-11-18 17:53:20.448 dataS/character/playerM/facialHair/mHead02/goatee01.i3d (13.72 ms)
+2025-11-18 17:57:00.078 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_lsfmBigBagPack/objects/bigBagFillable/bigBagFillable.i3d (6.85 ms)
+2025-11-18 17:57:29.114 romek lost connection to the game
+2025-11-18 17:58:42.748   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'New Holland T6.160'
+2025-11-18 18:03:58.632   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Case IH 160 CVX'
+2025-11-18 18:04:45.722 dataS/character/playerF/pants/botJeansCapris.i3d (20.34 ms)
+2025-11-18 18:04:45.916 dataS/character/playerF/heads/fHead03.i3d (193.92 ms)
+2025-11-18 18:04:45.965 dataS/character/playerF/shirts/topTankTop.i3d (48.50 ms)
+2025-11-18 18:04:45.967 dataS/character/playerF/shoes/sneaker01.i3d (2.74 ms)
+2025-11-18 18:05:22.036   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'New Holland TH7.42 Elite'
+2025-11-18 18:07:03.794 data/objects/pallets/preservedFoodBeetRootPallet/preservedFoodBeetRootPallet.i3d (8.92 ms)
+2025-11-18 18:07:38.550 data/objects/pallets/fermentedNapaCabbageBoxPallet/fermentedNapaCabbageBoxPallet.i3d (12.72 ms)
+2025-11-18 18:07:38.560 data/objects/pallets/preservedFoodBeetRootPallet/preservedFoodBeetRootPallet.i3d (10.26 ms)
+2025-11-18 18:09:01.059 data/shared/wheels/tires/trelleborg/TM600/380_85R28.i3d (15.87 ms)
+2025-11-18 18:09:01.072 data/shared/wheels/tires/trelleborg/TM600/460_85R38.i3d (13.88 ms)
+2025-11-18 18:09:02.548   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'New Holland 8340'
+2025-11-18 18:10:16.701 data/objects/pallets/fermentedNapaCabbageBoxPallet/fermentedNapaCabbageBoxPallet.i3d (13.56 ms)
+2025-11-18 18:10:18.143 data/objects/pallets/preservedFoodBeetRootPallet/preservedFoodBeetRootPallet.i3d (9.34 ms)
+2025-11-18 18:11:30.240   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'AGRIFAC Condor Endurance II'
+2025-11-18 18:12:51.592   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'AGRIFAC Condor Endurance II'
+2025-11-18 18:13:56.513 data/objects/pallets/preservedFoodBeetRootPallet/preservedFoodBeetRootPallet.i3d (9.29 ms)
+2025-11-18 18:14:16.637   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Fendt 620 Vario - 50km/h'
+2025-11-18 18:16:41.110 data/objects/bigBag/bigBag.i3d (5.03 ms)
+2025-11-18 18:18:05.085 data/objects/pallets/preservedFoodBeetRootPallet/preservedFoodBeetRootPallet.i3d (9.62 ms)
+2025-11-18 18:19:22.932 Lewy lost connection to the game
+2025-11-18 18:20:16.001 data/objects/pallets/preservedFoodBeetRootPallet/preservedFoodBeetRootPallet.i3d (9.40 ms)
