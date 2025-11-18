@@ -6513,3 +6513,5 @@ LUA call stack:
 2025-11-18 11:18:59.515 dataS/character/playerM/jacket/topVest.i3d (30.27 ms)
 2025-11-18 11:18:59.550 dataS/character/playerM/hairStyles/hairStyleFringe.i3d (34.43 ms)
 2025-11-18 11:25:45.031 Game saved successfully (savegame1).
+2025-11-18 11:36:47.290   Info: Savegame Setting 'fruitDesctructionEnabled': false
+2025-11-18 11:38:21.492   Info: Savegame Setting 'fruitDesctructionEnabled': true
