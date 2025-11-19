@@ -140457,3 +140457,14 @@ LUA call stack:
 2025-11-19 09:24:10.559 dataS/character/playerM/shoes/sandalM03.i3d (112.60 ms)
 2025-11-19 09:24:10.560 dataS/character/playerM/hairStyles/hairStyleBald.i3d (0.44 ms)
 2025-11-19 09:25:23.541 Game saved successfully (savegame1).
+2025-11-19 09:35:14.350 data/objects/pallets/fermentedNapaCabbageBoxPallet/fermentedNapaCabbageBoxPallet.i3d (13.47 ms)
+2025-11-19 09:35:39.945 data/objects/pallets/preservedFoodBeetRootPallet/preservedFoodBeetRootPallet.i3d (9.59 ms)
+2025-11-19 09:35:39.957 data/objects/pallets/fermentedNapaCabbageBoxPallet/fermentedNapaCabbageBoxPallet.i3d (12.02 ms)
+2025-11-19 09:36:51.028 Piotrek lost connection to the game
+2025-11-19 09:42:18.040 Lewy joined the game
+2025-11-19 09:42:18.381 dataS/character/playerM/pants/poettinger/poettingerShort.i3d (140.14 ms)
+2025-11-19 09:42:18.475 dataS/character/playerM/jacket/claas/claasTop.i3d (93.83 ms)
+2025-11-19 09:42:18.479 dataS/character/playerM/attachments/headgearBeanie.i3d (4.14 ms)
+2025-11-19 09:42:18.480 dataS/character/playerM/attachments/glassesAviators.i3d (1.37 ms)
+2025-11-19 09:42:18.504 dataS/character/playerM/shoes/crok.i3d (23.24 ms)
+2025-11-19 09:42:18.522 dataS/character/playerM/facialHair/mHead01/goatee01.i3d (18.87 ms)
