@@ -140449,3 +140449,11 @@ LUA call stack:
 2025-11-19 07:50:48.981 siwa lost connection to the game
 2025-11-19 07:54:59.667 Game saved successfully (savegame1).
 2025-11-19 08:25:09.396 Game saved successfully (savegame1).
+2025-11-19 08:55:19.650 Game saved successfully (savegame1).
+2025-11-19 09:24:10.129 Piotrek joined the game
+2025-11-19 09:24:10.348 dataS/character/playerM/pants/botChinos.i3d (18.02 ms)
+2025-11-19 09:24:10.441 dataS/character/playerM/shirts/strauss/straussTShirtMerino.i3d (93.12 ms)
+2025-11-19 09:24:10.447 dataS/character/playerM/gloves/glovesGeneric.i3d (5.86 ms)
+2025-11-19 09:24:10.559 dataS/character/playerM/shoes/sandalM03.i3d (112.60 ms)
+2025-11-19 09:24:10.560 dataS/character/playerM/hairStyles/hairStyleBald.i3d (0.44 ms)
+2025-11-19 09:25:23.541 Game saved successfully (savegame1).

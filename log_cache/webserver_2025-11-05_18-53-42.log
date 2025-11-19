@@ -313,3 +313,5 @@
 [18/Nov/2025:18:54:07] 185.243.96.116 -  "" 400 0 
 [18/Nov/2025:18:54:08] 185.243.96.116 -  "" 400 0 
 [18/Nov/2025:18:54:09] 185.243.96.116 -  "" 400 0 
+[19/Nov/2025:09:09:54] 185.247.137.134 - GET "/" 301 342  Mozilla/5.0 (compatible; InternetMeasurement/1.0; +https://internet-measurement.com/)
+[19/Nov/2025:09:09:54] 185.247.137.134 - GET "/index.html" 200 10106  Mozilla/5.0 (compatible; InternetMeasurement/1.0; +https://internet-measurement.com/)
