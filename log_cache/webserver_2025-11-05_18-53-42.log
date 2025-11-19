@@ -316,3 +316,14 @@
 [19/Nov/2025:09:09:54] 185.247.137.134 - GET "/" 301 342  Mozilla/5.0 (compatible; InternetMeasurement/1.0; +https://internet-measurement.com/)
 [19/Nov/2025:09:09:54] 185.247.137.134 - GET "/index.html" 200 10106  Mozilla/5.0 (compatible; InternetMeasurement/1.0; +https://internet-measurement.com/)
 [19/Nov/2025:17:23:18] 146.19.24.57 -  "" 400 280 
+[19/Nov/2025:18:41:49] 87.236.176.172 - GET "/" 301 351  Mozilla/5.0 (compatible; InternetMeasurement/1.0; +https://internet-measurement.com/)
+[19/Nov/2025:18:41:50] 87.236.176.172 - GET "/index.html" 200 10105  Mozilla/5.0 (compatible; InternetMeasurement/1.0; +https://internet-measurement.com/)
+[19/Nov/2025:19:02:50] 185.16.39.136 - GET "/status" 404 316  axios/1.6.7
+[19/Nov/2025:19:08:24] 185.16.39.136 - GET "/cosmos/base/tendermint/v1beta1/node_info" 404 316  axios/1.6.7
+[19/Nov/2025:19:24:02] 185.16.39.136 - PRI "*" 501 288 
+[19/Nov/2025:19:24:03] 185.16.39.136 - PRI "*" 501 288 
+[19/Nov/2025:19:24:05] 185.16.39.136 - PRI "*" 501 288 
+[19/Nov/2025:19:24:08] 185.16.39.136 - PRI "*" 501 288 
+[19/Nov/2025:19:24:28] 185.16.39.136 - POST "/" 301 342  axios/1.6.7
+[19/Nov/2025:19:24:28] 185.16.39.136 - GET "/index.html" 200 10105  axios/1.6.7
+[19/Nov/2025:19:26:19] 185.16.39.136 - GET "/eth/v1/config/spec" 404 316  axios/1.6.7
