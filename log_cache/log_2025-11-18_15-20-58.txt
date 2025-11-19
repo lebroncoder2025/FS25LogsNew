@@ -140445,3 +140445,4 @@ LUA call stack:
 2025-11-19 06:50:52.725 Lewy left the game
 2025-11-19 06:54:42.292 Game saved successfully (savegame1).
 2025-11-19 07:24:51.911 Game saved successfully (savegame1).
+2025-11-19 07:44:08.408 siwa joined the game
