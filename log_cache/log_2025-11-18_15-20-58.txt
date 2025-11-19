@@ -140289,3 +140289,35 @@ LUA call stack:
 2025-11-19 02:56:07.819 dataS/character/playerF/heads/fHead03.i3d (191.86 ms)
 2025-11-19 02:56:07.867 dataS/character/playerF/shirts/topTankTop.i3d (48.46 ms)
 2025-11-19 02:56:07.870 dataS/character/playerF/shoes/sneaker01.i3d (2.68 ms)
+2025-11-19 03:22:13.276 dataS/character/playerF/pants/botYogaPants.i3d (10.78 ms)
+2025-11-19 03:22:13.386 dataS/character/playerF/heads/fHead02.i3d (109.40 ms)
+2025-11-19 03:22:13.435 dataS/character/playerF/shirts/topTankTop.i3d (48.60 ms)
+2025-11-19 03:22:13.527 dataS/character/playerF/shoes/sportSneaker.i3d (92.70 ms)
+2025-11-19 03:22:13.562 dataS/character/playerF/hairStyles/hairStyleLongSideParted.i3d (34.50 ms)
+2025-11-19 03:24:14.751 Game saved successfully (savegame1).
+2025-11-19 03:28:49.205 data/shared/assets/reflectors/lizard/redTriangle_02.i3d (1.04 ms)
+2025-11-19 03:28:49.206 data/shared/assets/reflectors/lizard/yellowRound_03.i3d (0.83 ms)
+2025-11-19 03:28:49.207 data/shared/assets/reflectors/lizard/whiteRound_03.i3d (0.78 ms)
+2025-11-19 03:28:49.216 data/shared/assets/reflectors/lizard/bigTriangle.i3d (1.55 ms)
+2025-11-19 03:28:49.219 data/vehicles/elho/scorpio550/scorpio550.i3d (34.27 ms)
+2025-11-19 03:31:31.309 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_JohnDeere_6300/johnDeere6300.i3d (291.50 ms)
+2025-11-19 03:31:31.435 data/vehicles/johnDeere/shared/weightSet/weightSet.i3d (7.77 ms)
+2025-11-19 03:31:31.507 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_JohnDeere_6300/wheels/wheels.i3d (38.99 ms)
+2025-11-19 03:31:31.511 data/shared/wheels/tires/trelleborg/TM600/480_80R38.i3d (3.71 ms)
+2025-11-19 03:31:41.513   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'John Deere 6300'
+2025-11-19 03:33:49.853 data/shared/wheels/rims/rim005.i3d (7.55 ms)
+2025-11-19 03:33:49.856 data/shared/wheels/tires/trelleborg/TM600/420_85R24.i3d (3.12 ms)
+2025-11-19 03:34:32.508 data/vehicles/newHolland/l318/l318.i3d (41.39 ms)
+2025-11-19 03:34:32.597 data/shared/wheels/tires/trelleborg/SK800/10_R16_5.i3d (3.23 ms)
+2025-11-19 03:34:50.129   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'New Holland L318'
+2025-11-19 03:39:03.709 data/vehicles/newHolland/l318/l318.i3d (28.92 ms)
+2025-11-19 03:39:03.810 data/shared/wheels/tires/trelleborg/SK800/10_R16_5.i3d (2.24 ms)
+2025-11-19 03:41:28.865 Lewy lost connection to the game
+2025-11-19 03:54:24.501 Game saved successfully (savegame1).
+2025-11-19 03:55:35.281 Lewy joined the game
+2025-11-19 03:55:35.623 dataS/character/playerM/pants/poettinger/poettingerShort.i3d (140.67 ms)
+2025-11-19 03:55:35.717 dataS/character/playerM/jacket/claas/claasTop.i3d (93.64 ms)
+2025-11-19 03:55:35.721 dataS/character/playerM/attachments/headgearBeanie.i3d (4.14 ms)
+2025-11-19 03:55:35.722 dataS/character/playerM/attachments/glassesAviators.i3d (1.36 ms)
+2025-11-19 03:55:35.745 dataS/character/playerM/shoes/crok.i3d (23.05 ms)
+2025-11-19 03:55:35.764 dataS/character/playerM/facialHair/mHead01/goatee01.i3d (18.76 ms)
