@@ -140446,3 +140446,5 @@ LUA call stack:
 2025-11-19 06:54:42.292 Game saved successfully (savegame1).
 2025-11-19 07:24:51.911 Game saved successfully (savegame1).
 2025-11-19 07:44:08.408 siwa joined the game
+2025-11-19 07:50:48.981 siwa lost connection to the game
+2025-11-19 07:54:59.667 Game saved successfully (savegame1).
