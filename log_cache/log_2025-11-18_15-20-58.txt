@@ -140440,3 +140440,8 @@ LUA call stack:
 2025-11-19 06:27:46.041 dataS/character/playerM/shirts/zipNeckPullover.i3d (94.27 ms)
 2025-11-19 06:27:46.074 dataS/character/playerM/hairStyles/hairStyleManBun.i3d (33.20 ms)
 2025-11-19 06:27:46.083 dataS/character/playerM/facialHair/mHead05/goatee02.i3d (9.65 ms)
+2025-11-19 06:44:52.736 data/objects/pallets/pioneer/pioneerPallet.i3d (1.77 ms)
+2025-11-19 06:50:52.710 Warning: Send called with unknown target address.
+2025-11-19 06:50:52.725 Lewy left the game
+2025-11-19 06:54:42.292 Game saved successfully (savegame1).
+2025-11-19 07:24:51.911 Game saved successfully (savegame1).
