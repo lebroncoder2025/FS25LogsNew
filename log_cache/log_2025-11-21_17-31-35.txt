@@ -5498,3 +5498,6 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-21 18:18:08.582   Info: Added € 100,000 to farm account. (3)
 2025-11-21 18:18:34.606   Info: Super Strength enabled by Jolero
 2025-11-21 18:18:40.079   Info: Super Strength disabled by Jolero
+2025-11-21 18:20:20.492 data/placeables/rudolfHormann/cargoHangarBig/cargoHangarBig.i3d (12.21 ms)
+2025-11-21 18:21:51.414   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Fendt 832 Vario Gen5 - 60km/h'
+2025-11-21 18:33:21.184 Game saved successfully (savegame1).
