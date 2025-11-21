@@ -5575,3 +5575,12 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-21 20:14:27.118 dataS/character/playerM/shoes/sportSneaker.i3d (92.84 ms)
 2025-11-21 20:14:27.152 dataS/character/playerM/hairStyles/hairStyleFringe.i3d (34.61 ms)
 2025-11-21 20:14:42.007   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Case IH AF11'
+2025-11-21 20:19:38.608 M@rcin joined the game
+2025-11-21 20:19:38.643 dataS/character/playerM/jacket/topAviatorJacket.i3d (19.16 ms)
+2025-11-21 20:19:38.677 dataS/character/playerM/hairStyles/hairStyleDiablo.i3d (33.76 ms)
+2025-11-21 20:19:38.679 dataS/character/playerM/facialHair/mHead01/beardStubble.i3d (1.47 ms)
+2025-11-21 20:23:17.043   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Case IH 160 CVX'
+2025-11-21 20:23:37.554   Info: The condition of Fendt 832 Vario Gen5 - 60km/h and all connected implements updated.
+2025-11-21 20:23:38.780   Info: The condition of Fendt 832 Vario Gen5 - 60km/h and all connected implements updated.
+2025-11-21 20:23:39.358   Info: Diesel level of Fendt 832 Vario Gen5 - 60km/h changed to 540 liters.
+2025-11-21 20:25:59.627   Info: Successfully added 'ExhaustExtension' particle system to 3 nodes of vehicle 'SCANIA 770 V8 CHIP'
