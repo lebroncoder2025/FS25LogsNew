@@ -5382,3 +5382,119 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-21 17:38:39.219 dataS/character/playerM/facialHair/mHead02/trimmedBeard.i3d (11.30 ms)
 2025-11-21 17:39:06.932 hubsonwaliszot lost connection to the game
 2025-11-21 17:40:45.773 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Cybuchowo/maps/pallets/blueberry/blueberryPallet.i3d (4.11 ms)
+2025-11-21 17:46:56.617 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.82 ms)
+2025-11-21 17:46:56.669 data/objects/pallets/pioneer/pioneerPallet.i3d (1.57 ms)
+2025-11-21 17:48:06.491 hubsonwaliszot joined the game
+2025-11-21 17:48:06.521 dataS/character/playerM/pants/botJeanShorts.i3d (16.60 ms)
+2025-11-21 17:48:06.807 dataS/character/playerM/shirts/poettinger/poettingerTshirt.i3d (285.18 ms)
+2025-11-21 17:48:06.887 dataS/character/playerM/gloves/strauss/glovesEsTrailLight02.i3d (48.39 ms)
+2025-11-21 17:48:06.933 dataS/character/playerM/attachments/hatWoolen.i3d (46.32 ms)
+2025-11-21 17:48:06.963 dataS/character/playerM/attachments/glassesAviators.i3d (1.70 ms)
+2025-11-21 17:48:06.998 dataS/character/playerM/hairStyles/hairStyleMullet.i3d (34.41 ms)
+2025-11-21 17:48:07.009 dataS/character/playerM/facialHair/mHead02/trimmedBeard.i3d (11.14 ms)
+2025-11-21 17:50:36.429 data/objects/pallets/pioneer/pioneerPallet.i3d (1.54 ms)
+2025-11-21 17:50:36.433 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Cybuchowo/maps/pallets/blueberry/blueberryPallet.i3d (4.34 ms)
+2025-11-21 17:51:24.985   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Ursus C-385A Fast transmission'
+2025-11-21 17:54:33.721 hubsonwaliszot lost connection to the game
+2025-11-21 17:58:20.736 hubsonwaliszot joined the game
+2025-11-21 17:58:20.766 dataS/character/playerM/pants/botJeanShorts.i3d (16.51 ms)
+2025-11-21 17:58:21.064 dataS/character/playerM/shirts/poettinger/poettingerTshirt.i3d (297.45 ms)
+2025-11-21 17:58:21.112 dataS/character/playerM/gloves/strauss/glovesEsTrailLight02.i3d (48.44 ms)
+2025-11-21 17:58:21.158 dataS/character/playerM/attachments/hatWoolen.i3d (46.22 ms)
+2025-11-21 17:58:21.160 dataS/character/playerM/attachments/glassesAviators.i3d (1.79 ms)
+2025-11-21 17:58:21.194 dataS/character/playerM/hairStyles/hairStyleMullet.i3d (33.92 ms)
+2025-11-21 17:58:21.205 dataS/character/playerM/facialHair/mHead02/trimmedBeard.i3d (10.99 ms)
+2025-11-21 17:59:33.983 Jolero joined the game
+2025-11-21 17:59:34.002 dataS/character/playerM/shirts/topTShirt01.i3d (2.48 ms)
+2025-11-21 17:59:34.021 dataS/character/playerM/facialHair/mHead01/goatee01.i3d (19.22 ms)
+2025-11-21 18:01:09.299   Info: [Easy Development Controls] User Jolero has logged in as master user.
+2025-11-21 18:01:29.099 Next available Farm ID identified:
+2025-11-21 18:01:29.099 7.000000
+2025-11-21 18:01:29.100 FarmID => 7
+2025-11-21 18:01:29.100 newFarm FarmID => 7
+2025-11-21 18:01:39.694   Info: Added € 999,999,999 to farm account. (7)
+2025-11-21 18:02:17.009   Info: Added € 999,999,999 to farm account. (6)
+2025-11-21 18:02:23.066 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Wheelie_Great_Workshop/i3ds/wheelieGreatShopContainer02.i3d (57.99 ms)
+2025-11-21 18:02:38.477 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_FendtFavorit800_900Series/favorit.i3d (889.53 ms)
+2025-11-21 18:02:38.683 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_FendtFavorit800_900Series/shared/rims/rimsFavo.i3d (52.65 ms)
+2025-11-21 18:02:38.726 data/shared/wheels/tires/trelleborg/TM800/540_65R34.i3d (7.60 ms)
+2025-11-21 18:02:38.760 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_FendtFavorit800_900Series/shared/lights/workingLight08.i3d (2.83 ms)
+2025-11-21 18:02:38.762 data/shared/assets/lights/lizard/workingLight35.i3d (2.24 ms)
+2025-11-21 18:02:38.814   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_FendtFavorit800_900Series/favorit800.xml): Unable to find functionName 'ATTACHERJOINT_TURN_ON_OFF' for InteractiveActorFunction 'vehicle.interactiveControl.interactiveControlConfigurations.interactiveControlConfiguration(0).interactiveControls.interactiveControl(10).function(0)'
+2025-11-21 18:02:38.814   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_FendtFavorit800_900Series/favorit800.xml): Could not load interactiveActor for 'vehicle.interactiveControl.interactiveControlConfigurations.interactiveControlConfiguration(0).interactiveControls.interactiveControl(10).function(0)'
+2025-11-21 18:02:38.815   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_FendtFavorit800_900Series/favorit800.xml): Unable to find functionName 'ATTACHERJOINT_TURN_ON_OFF' for InteractiveActorFunction 'vehicle.interactiveControl.interactiveControlConfigurations.interactiveControlConfiguration(0).interactiveControls.interactiveControl(11).function(0)'
+2025-11-21 18:02:38.815   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_FendtFavorit800_900Series/favorit800.xml): Could not load interactiveActor for 'vehicle.interactiveControl.interactiveControlConfigurations.interactiveControlConfiguration(0).interactiveControls.interactiveControl(11).function(0)'
+2025-11-21 18:02:38.815   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_FendtFavorit800_900Series/favorit800.xml): Unable to find animation 'cruiseControlAnimation' in target vehicle, ignoring actor animation!
+2025-11-21 18:02:38.815   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_FendtFavorit800_900Series/favorit800.xml): Could not load interactiveActor for 'vehicle.interactiveControl.interactiveControlConfigurations.interactiveControlConfiguration(0).interactiveControls.interactiveControl(12).animation(0)'
+2025-11-21 18:02:38.815   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_FendtFavorit800_900Series/favorit800.xml): 'vehicle.interactiveControl.interactiveControlConfigurations.interactiveControlConfiguration(0).interactiveControls.interactiveControl(13).configurationsRestrictions.restriction(0)#indicies' is not supported anymore, use 'vehicle.interactiveControl.interactiveControlConfigurations.interactiveControlConfiguration(0).interactiveControls.interactiveControl(13).configurationsRestrictions.restriction(0)#indices' instead!
+2025-11-21 18:02:38.816   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_FendtFavorit800_900Series/favorit800.xml): Unable to find functionName 'GPS_TOGGLE' for InteractiveActorFunction 'vehicle.interactiveControl.interactiveControlConfigurations.interactiveControlConfiguration(0).interactiveControls.interactiveControl(13).function(0)'
+2025-11-21 18:02:38.816   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_FendtFavorit800_900Series/favorit800.xml): Could not load interactiveActor for 'vehicle.interactiveControl.interactiveControlConfigurations.interactiveControlConfiguration(0).interactiveControls.interactiveControl(13).function(0)'
+2025-11-21 18:02:38.818   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_FendtFavorit800_900Series/favorit800.xml): Unable to find functionName 'ATTACHERJOINT_LIFT_LOWER' for InteractiveActorFunction 'vehicle.interactiveControl.interactiveControlConfigurations.interactiveControlConfiguration(0).interactiveControls.interactiveControl(24).function(0)'
+2025-11-21 18:02:38.818   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_FendtFavorit800_900Series/favorit800.xml): Could not load interactiveActor for 'vehicle.interactiveControl.interactiveControlConfigurations.interactiveControlConfiguration(0).interactiveControls.interactiveControl(24).function(0)'
+2025-11-21 18:02:38.818   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_FendtFavorit800_900Series/favorit800.xml): 'vehicle.interactiveControl.interactiveControlConfigurations.interactiveControlConfiguration(0).interactiveControls.interactiveControl(24).clickPoint(1)#forcedState' is not supported anymore, use 'vehicle.interactiveControl.interactiveControlConfigurations.interactiveControlConfiguration(0).interactiveControls.interactiveControl(24).clickPoint(1)#forcedStateValue' instead!
+2025-11-21 18:02:38.818   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_FendtFavorit800_900Series/favorit800.xml): 'vehicle.interactiveControl.interactiveControlConfigurations.interactiveControlConfiguration(0).interactiveControls.interactiveControl(24).clickPoint(2)#forcedState' is not supported anymore, use 'vehicle.interactiveControl.interactiveControlConfigurations.interactiveControlConfiguration(0).interactiveControls.interactiveControl(24).clickPoint(2)#forcedStateValue' instead!
+2025-11-21 18:02:38.818   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_FendtFavorit800_900Series/favorit800.xml): Unable to find functionName 'ATTACHERJOINT_LIFT_LOWER' for InteractiveActorFunction 'vehicle.interactiveControl.interactiveControlConfigurations.interactiveControlConfiguration(0).interactiveControls.interactiveControl(25).function(0)'
+2025-11-21 18:02:38.818   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_FendtFavorit800_900Series/favorit800.xml): Could not load interactiveActor for 'vehicle.interactiveControl.interactiveControlConfigurations.interactiveControlConfiguration(0).interactiveControls.interactiveControl(25).function(0)'
+2025-11-21 18:02:38.818   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_FendtFavorit800_900Series/favorit800.xml): 'vehicle.interactiveControl.interactiveControlConfigurations.interactiveControlConfiguration(0).interactiveControls.interactiveControl(25).clickPoint(1)#forcedState' is not supported anymore, use 'vehicle.interactiveControl.interactiveControlConfigurations.interactiveControlConfiguration(0).interactiveControls.interactiveControl(25).clickPoint(1)#forcedStateValue' instead!
+2025-11-21 18:02:38.818   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_FendtFavorit800_900Series/favorit800.xml): 'vehicle.interactiveControl.interactiveControlConfigurations.interactiveControlConfiguration(0).interactiveControls.interactiveControl(25).clickPoint(2)#forcedState' is not supported anymore, use 'vehicle.interactiveControl.interactiveControlConfigurations.interactiveControlConfiguration(0).interactiveControls.interactiveControl(25).clickPoint(2)#forcedStateValue' instead!
+2025-11-21 18:02:38.819   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_FendtFavorit800_900Series/favorit800.xml): 'vehicle.interactiveControl.interactiveControlConfigurations.interactiveControlConfiguration(0).interactiveControls.interactiveControl(25).clickPoint(3)#forcedState' is not supported anymore, use 'vehicle.interactiveControl.interactiveControlConfigurations.interactiveControlConfiguration(0).interactiveControls.interactiveControl(25).clickPoint(3)#forcedStateValue' instead!
+2025-11-21 18:02:38.819   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_FendtFavorit800_900Series/favorit800.xml): 'vehicle.interactiveControl.interactiveControlConfigurations.interactiveControlConfiguration(0).interactiveControls.interactiveControl(25).clickPoint(4)#forcedState' is not supported anymore, use 'vehicle.interactiveControl.interactiveControlConfigurations.interactiveControlConfiguration(0).interactiveControls.interactiveControl(25).clickPoint(4)#forcedStateValue' instead!
+2025-11-21 18:02:38.848 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_FendtFavorit800_900Series/shared/upperLinks/walterscheid07.i3d (2.62 ms)
+2025-11-21 18:02:38.850 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_FendtFavorit800_900Series/shared/upperLinks/walterscheid06.i3d (2.39 ms)
+2025-11-21 18:02:43.764   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Fendt 816 Turboshift 40kmh'
+2025-11-21 18:03:04.808   Info: Moved 1 vehicles to coordinates 1189, 656 successfully.
+2025-11-21 18:03:21.635 Game saved successfully (savegame1).
+2025-11-21 18:03:38.700 data/shared/wheels/tires/bkt/agrimaxVFlecto/600_65R34.i3d (2.52 ms)
+2025-11-21 18:03:38.711 data/shared/wheels/rims/dual001.i3d (10.71 ms)
+2025-11-21 18:03:38.714 data/shared/wheels/tires/bkt/agrimaxVFlecto/650_65R42.i3d (3.37 ms)
+2025-11-21 18:03:38.888   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_FendtFavorit800_900Series/favorit800.xml): Unable to find functionName 'ATTACHERJOINT_TURN_ON_OFF' for InteractiveActorFunction 'vehicle.interactiveControl.interactiveControlConfigurations.interactiveControlConfiguration(0).interactiveControls.interactiveControl(10).function(0)'
+2025-11-21 18:03:38.888   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_FendtFavorit800_900Series/favorit800.xml): Could not load interactiveActor for 'vehicle.interactiveControl.interactiveControlConfigurations.interactiveControlConfiguration(0).interactiveControls.interactiveControl(10).function(0)'
+2025-11-21 18:03:38.889   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_FendtFavorit800_900Series/favorit800.xml): Unable to find functionName 'ATTACHERJOINT_TURN_ON_OFF' for InteractiveActorFunction 'vehicle.interactiveControl.interactiveControlConfigurations.interactiveControlConfiguration(0).interactiveControls.interactiveControl(11).function(0)'
+2025-11-21 18:03:38.889   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_FendtFavorit800_900Series/favorit800.xml): Could not load interactiveActor for 'vehicle.interactiveControl.interactiveControlConfigurations.interactiveControlConfiguration(0).interactiveControls.interactiveControl(11).function(0)'
+2025-11-21 18:03:38.889   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_FendtFavorit800_900Series/favorit800.xml): Unable to find animation 'cruiseControlAnimation' in target vehicle, ignoring actor animation!
+2025-11-21 18:03:38.889   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_FendtFavorit800_900Series/favorit800.xml): Could not load interactiveActor for 'vehicle.interactiveControl.interactiveControlConfigurations.interactiveControlConfiguration(0).interactiveControls.interactiveControl(12).animation(0)'
+2025-11-21 18:03:38.889   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_FendtFavorit800_900Series/favorit800.xml): 'vehicle.interactiveControl.interactiveControlConfigurations.interactiveControlConfiguration(0).interactiveControls.interactiveControl(13).configurationsRestrictions.restriction(0)#indicies' is not supported anymore, use 'vehicle.interactiveControl.interactiveControlConfigurations.interactiveControlConfiguration(0).interactiveControls.interactiveControl(13).configurationsRestrictions.restriction(0)#indices' instead!
+2025-11-21 18:03:38.889   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_FendtFavorit800_900Series/favorit800.xml): Unable to find functionName 'GPS_TOGGLE' for InteractiveActorFunction 'vehicle.interactiveControl.interactiveControlConfigurations.interactiveControlConfiguration(0).interactiveControls.interactiveControl(13).function(0)'
+2025-11-21 18:03:38.889   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_FendtFavorit800_900Series/favorit800.xml): Could not load interactiveActor for 'vehicle.interactiveControl.interactiveControlConfigurations.interactiveControlConfiguration(0).interactiveControls.interactiveControl(13).function(0)'
+2025-11-21 18:03:38.891   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_FendtFavorit800_900Series/favorit800.xml): Unable to find functionName 'ATTACHERJOINT_LIFT_LOWER' for InteractiveActorFunction 'vehicle.interactiveControl.interactiveControlConfigurations.interactiveControlConfiguration(0).interactiveControls.interactiveControl(24).function(0)'
+2025-11-21 18:03:38.891   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_FendtFavorit800_900Series/favorit800.xml): Could not load interactiveActor for 'vehicle.interactiveControl.interactiveControlConfigurations.interactiveControlConfiguration(0).interactiveControls.interactiveControl(24).function(0)'
+2025-11-21 18:03:38.892   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_FendtFavorit800_900Series/favorit800.xml): 'vehicle.interactiveControl.interactiveControlConfigurations.interactiveControlConfiguration(0).interactiveControls.interactiveControl(24).clickPoint(1)#forcedState' is not supported anymore, use 'vehicle.interactiveControl.interactiveControlConfigurations.interactiveControlConfiguration(0).interactiveControls.interactiveControl(24).clickPoint(1)#forcedStateValue' instead!
+2025-11-21 18:03:38.892   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_FendtFavorit800_900Series/favorit800.xml): 'vehicle.interactiveControl.interactiveControlConfigurations.interactiveControlConfiguration(0).interactiveControls.interactiveControl(24).clickPoint(2)#forcedState' is not supported anymore, use 'vehicle.interactiveControl.interactiveControlConfigurations.interactiveControlConfiguration(0).interactiveControls.interactiveControl(24).clickPoint(2)#forcedStateValue' instead!
+2025-11-21 18:03:38.892   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_FendtFavorit800_900Series/favorit800.xml): Unable to find functionName 'ATTACHERJOINT_LIFT_LOWER' for InteractiveActorFunction 'vehicle.interactiveControl.interactiveControlConfigurations.interactiveControlConfiguration(0).interactiveControls.interactiveControl(25).function(0)'
+2025-11-21 18:03:38.892   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_FendtFavorit800_900Series/favorit800.xml): Could not load interactiveActor for 'vehicle.interactiveControl.interactiveControlConfigurations.interactiveControlConfiguration(0).interactiveControls.interactiveControl(25).function(0)'
+2025-11-21 18:03:38.893   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_FendtFavorit800_900Series/favorit800.xml): 'vehicle.interactiveControl.interactiveControlConfigurations.interactiveControlConfiguration(0).interactiveControls.interactiveControl(25).clickPoint(1)#forcedState' is not supported anymore, use 'vehicle.interactiveControl.interactiveControlConfigurations.interactiveControlConfiguration(0).interactiveControls.interactiveControl(25).clickPoint(1)#forcedStateValue' instead!
+2025-11-21 18:03:38.893   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_FendtFavorit800_900Series/favorit800.xml): 'vehicle.interactiveControl.interactiveControlConfigurations.interactiveControlConfiguration(0).interactiveControls.interactiveControl(25).clickPoint(2)#forcedState' is not supported anymore, use 'vehicle.interactiveControl.interactiveControlConfigurations.interactiveControlConfiguration(0).interactiveControls.interactiveControl(25).clickPoint(2)#forcedStateValue' instead!
+2025-11-21 18:03:38.893   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_FendtFavorit800_900Series/favorit800.xml): 'vehicle.interactiveControl.interactiveControlConfigurations.interactiveControlConfiguration(0).interactiveControls.interactiveControl(25).clickPoint(3)#forcedState' is not supported anymore, use 'vehicle.interactiveControl.interactiveControlConfigurations.interactiveControlConfiguration(0).interactiveControls.interactiveControl(25).clickPoint(3)#forcedStateValue' instead!
+2025-11-21 18:03:38.893   Warning (D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_FendtFavorit800_900Series/favorit800.xml): 'vehicle.interactiveControl.interactiveControlConfigurations.interactiveControlConfiguration(0).interactiveControls.interactiveControl(25).clickPoint(4)#forcedState' is not supported anymore, use 'vehicle.interactiveControl.interactiveControlConfigurations.interactiveControlConfiguration(0).interactiveControls.interactiveControl(25).clickPoint(4)#forcedStateValue' instead!
+2025-11-21 18:03:41.566   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Fendt 824 Turboshift 50kmh'
+2025-11-21 18:03:47.264   Info: Moved 1 vehicles to coordinates 1200, 572 successfully.
+2025-11-21 18:04:18.526 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_JeantilBR10430/i3d/jeantilBR10430.i3d (192.65 ms)
+2025-11-21 18:04:18.640 data/shared/wheels/tires/michelin/cargoXBib/800_45R26_5.i3d (3.35 ms)
+2025-11-21 18:04:18.661 data/shared/assets/lights/lizard/sideMarker05.i3d (2.07 ms)
+2025-11-21 18:06:08.024   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Fendt 832 Vario Gen5 - 60km/h'
+2025-11-21 18:06:20.963   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Fendt 728 Vario Chip 330'
+2025-11-21 18:06:24.895   Info: The condition of Fendt 728 Vario Chip 330 and all connected implements updated.
+2025-11-21 18:06:26.834   Info: The condition of Fendt 728 Vario Chip 330 and all connected implements updated.
+2025-11-21 18:06:56.382   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Fendt 620 Vario - 50km/h'
+2025-11-21 18:06:58.706   Info: The condition of Fendt 620 Vario - 50km/h and all connected implements updated.
+2025-11-21 18:07:00.443   Info: The condition of Fendt 620 Vario - 50km/h and all connected implements updated.
+2025-11-21 18:08:49.129 dataS/character/playerF/pants/botChinos.i3d (13.22 ms)
+2025-11-21 18:08:49.322 dataS/character/playerF/heads/fHead04.i3d (193.21 ms)
+2025-11-21 18:08:49.341 dataS/character/playerF/jacket/topAviatorJacket.i3d (18.80 ms)
+2025-11-21 18:08:49.416 dataS/character/playerF/shoes/laceUpSneaker.i3d (75.68 ms)
+2025-11-21 18:08:49.452 dataS/character/playerF/hairStyles/hairStylePonyTail01.i3d (35.97 ms)
+2025-11-21 18:09:04.018   Info: No 'ExhaustExtension' particle system added to vehicle 'Volvo FH16 780' because it has no exhaust
+2025-11-21 18:09:27.656   Info: Moved 1 vehicles to coordinates 680, 896 successfully.
+2025-11-21 18:10:27.614   Info: Successfully emptied fill unit 1 of Lizard MKS 32.
+2025-11-21 18:11:04.368   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'New Holland TH7.42 Elite'
+2025-11-21 18:11:26.356   Info: Successfully set fill unit 1 of Lizard MKS 32 to Buffalo Milk with a fill level of 32,000 liters.
+2025-11-21 18:13:27.416 data/shared/assets/reflectors/lizard/yellowRound_03.i3d (1.15 ms)
+2025-11-21 18:13:27.421 data/vehicles/siloking/trailedLine4System1000/trailedLine4System1000.i3d (57.15 ms)
+2025-11-21 18:13:27.762 data/shared/assets/powerTakeOffs/walterscheidP.i3d (4.96 ms)
+2025-11-21 18:13:44.045 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_foragePickup/foragePickup/foragePickup.i3d (136.99 ms)
+2025-11-21 18:13:47.324   Info: Successfully set fill unit 1 of Lizard MKS 32 to Buffalo Milk with a fill level of 32,000 liters.
+2025-11-21 18:15:08.259   Info: Successfully set fill unit 1 of Lizard MKS 32 to Buffalo Milk with a fill level of 32,000 liters.
+2025-11-21 18:17:54.518 data/placeables/rudolfHormann/cargoHangarBig/cargoHangarBig.i3d (12.71 ms)
+2025-11-21 18:18:08.582   Info: Added € 100,000 to farm account. (3)
+2025-11-21 18:18:34.606   Info: Super Strength enabled by Jolero
+2025-11-21 18:18:40.079   Info: Super Strength disabled by Jolero
