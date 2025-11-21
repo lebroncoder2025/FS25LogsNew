@@ -5501,3 +5501,45 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-21 18:20:20.492 data/placeables/rudolfHormann/cargoHangarBig/cargoHangarBig.i3d (12.21 ms)
 2025-11-21 18:21:51.414   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Fendt 832 Vario Gen5 - 60km/h'
 2025-11-21 18:33:21.184 Game saved successfully (savegame1).
+2025-11-21 18:46:26.799 M@rcin joined the game
+2025-11-21 18:46:26.832 dataS/character/playerM/jacket/topAviatorJacket.i3d (18.61 ms)
+2025-11-21 18:46:26.866 dataS/character/playerM/hairStyles/hairStyleDiablo.i3d (33.36 ms)
+2025-11-21 18:46:26.867 dataS/character/playerM/facialHair/mHead01/beardStubble.i3d (1.39 ms)
+2025-11-21 18:46:38.426 dataS/character/playerM/heads/mHead05.i3d (195.61 ms)
+2025-11-21 18:46:38.521 dataS/character/playerM/shirts/zipNeckPullover.i3d (94.17 ms)
+2025-11-21 18:46:38.555 dataS/character/playerM/hairStyles/hairStyleManBun.i3d (33.41 ms)
+2025-11-21 18:46:38.564 dataS/character/playerM/facialHair/mHead05/goatee02.i3d (9.86 ms)
+2025-11-21 18:51:13.045   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Case IH 160 CVX'
+2025-11-21 18:58:30.482   Info: No 'ExhaustExtension' particle system added to vehicle 'Jungheinrich EFG S50 Pro' because it has no exhaust
+2025-11-21 19:03:22.555 Game saved successfully (savegame1).
+2025-11-21 19:06:01.540   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Aprilia RX 125'
+2025-11-21 19:06:01.556 dataS/character/playerM/attachments/headgearMotorbike.i3d (13.34 ms)
+2025-11-21 19:07:52.708 dataS/character/playerM/attachments/headgearMotorbike.i3d (13.17 ms)
+2025-11-21 19:08:38.337   Info: The condition of Fendt 620 Vario - 50km/h and all connected implements updated.
+2025-11-21 19:08:40.851   Info: The condition of Fendt 620 Vario - 50km/h and all connected implements updated.
+2025-11-21 19:08:41.263   Info: Diesel level of Fendt 620 Vario - 50km/h changed to 347 liters.
+2025-11-21 19:09:11.101   Info: Moved 2 vehicles to coordinates 610, 811 successfully.
+2025-11-21 19:09:52.940 dataS/character/playerM/attachments/headgearMotorbike.i3d (13.21 ms)
+2025-11-21 19:10:57.213 dataS/character/playerF/pants/botCargo.i3d (17.78 ms)
+2025-11-21 19:10:57.238 dataS/character/playerF/jacket/topVest.i3d (24.91 ms)
+2025-11-21 19:10:57.241 dataS/character/playerF/shoes/workboot02.i3d (3.04 ms)
+2025-11-21 19:10:57.276 dataS/character/playerF/hairStyles/hairStylePonyTail03.i3d (35.23 ms)
+2025-11-21 19:12:01.364 dataS/character/playerF/pants/botChinos.i3d (13.49 ms)
+2025-11-21 19:12:01.558 dataS/character/playerF/heads/fHead04.i3d (193.78 ms)
+2025-11-21 19:12:01.563 dataS/character/playerF/jacket/topAviatorJacket.i3d (4.91 ms)
+2025-11-21 19:12:01.638 dataS/character/playerF/shoes/laceUpSneaker.i3d (75.82 ms)
+2025-11-21 19:12:01.674 dataS/character/playerF/hairStyles/hairStylePonyTail01.i3d (35.94 ms)
+2025-11-21 19:12:08.812 symonixprime lost connection to the game
+2025-11-21 19:12:51.863 dataS/character/playerF/pants/botJeansCapris.i3d (20.52 ms)
+2025-11-21 19:12:52.059 dataS/character/playerF/heads/fHead03.i3d (195.51 ms)
+2025-11-21 19:12:52.107 dataS/character/playerF/shirts/topTankTop.i3d (48.62 ms)
+2025-11-21 19:12:52.110 dataS/character/playerF/shoes/sneaker01.i3d (2.81 ms)
+2025-11-21 19:18:29.284   Info: Super Strength enabled by Jolero
+2025-11-21 19:18:36.355   Info: Super Strength disabled by Jolero
+2025-11-21 19:22:33.374   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Case IH 160 CVX'
+2025-11-21 19:22:56.551   Info: The condition of Case IH 160 CVX and all connected implements updated.
+2025-11-21 19:22:59.017   Info: The condition of Case IH 160 CVX and all connected implements updated.
+2025-11-21 19:28:11.316 zwierek joined the game
+2025-11-21 19:28:11.424 dataS/character/playerM/shoes/sandalM03.i3d (91.25 ms)
+2025-11-21 19:28:11.455 dataS/character/playerM/hairStyles/hairStyleBaldTop.i3d (31.36 ms)
+2025-11-21 19:28:11.464 dataS/character/playerM/facialHair/mHead01/walrusXL.i3d (8.93 ms)
