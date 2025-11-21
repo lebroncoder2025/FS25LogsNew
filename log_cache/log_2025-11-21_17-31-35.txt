@@ -5552,3 +5552,26 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-21 19:42:26.696 dataS/character/playerF/shirts/topBlouse.i3d (53.60 ms)
 2025-11-21 19:42:26.699 dataS/character/playerF/shoes/sneaker01.i3d (2.69 ms)
 2025-11-21 19:42:26.734 dataS/character/playerF/hairStyles/hairStyleMidSideParted.i3d (35.43 ms)
+2025-11-21 19:45:56.782 dataS/character/playerF/pants/botYogaPants.i3d (10.89 ms)
+2025-11-21 19:45:56.892 dataS/character/playerF/heads/fHead02.i3d (110.24 ms)
+2025-11-21 19:45:56.942 dataS/character/playerF/shirts/topTankTop.i3d (48.67 ms)
+2025-11-21 19:45:57.034 dataS/character/playerF/shoes/sportSneaker.i3d (92.24 ms)
+2025-11-21 19:45:57.069 dataS/character/playerF/hairStyles/hairStyleLongSideParted.i3d (34.90 ms)
+2025-11-21 19:46:04.360 dataS/character/playerM/pants/botLeather.i3d (18.01 ms)
+2025-11-21 19:46:04.391 dataS/character/playerM/jacket/topVest.i3d (30.88 ms)
+2025-11-21 19:46:04.426 dataS/character/playerM/hairStyles/hairStyleFringe.i3d (35.02 ms)
+2025-11-21 19:49:49.950 dataS/character/playerM/fullBody/onePieceMechanic.i3d (29.65 ms)
+2025-11-21 19:49:49.966 dataS/character/playerM/shoes/riding.i3d (16.63 ms)
+2025-11-21 19:49:50.002 dataS/character/playerM/hairStyles/hairStyleUnkempt.i3d (35.26 ms)
+2025-11-21 19:49:50.015 dataS/character/playerM/facialHair/mHead02/goatee01.i3d (13.81 ms)
+2025-11-21 19:49:50.699 dataS/character/playerM/fullBody/onePieceMechanic.i3d (29.54 ms)
+2025-11-21 19:49:50.716 dataS/character/playerM/shoes/riding.i3d (16.81 ms)
+2025-11-21 19:49:50.750 dataS/character/playerM/hairStyles/hairStyleUnkempt.i3d (35.38 ms)
+2025-11-21 19:49:50.765 dataS/character/playerM/facialHair/mHead02/goatee01.i3d (14.48 ms)
+2025-11-21 19:54:41.407   Info: Diesel level of Fendt 728 Vario Chip 330 changed to 450 liters.
+2025-11-21 19:56:14.491 M@rcin left the game
+2025-11-21 20:03:25.106 Game saved successfully (savegame1).
+2025-11-21 20:14:27.008 Błażej joined the game
+2025-11-21 20:14:27.118 dataS/character/playerM/shoes/sportSneaker.i3d (92.84 ms)
+2025-11-21 20:14:27.152 dataS/character/playerM/hairStyles/hairStyleFringe.i3d (34.61 ms)
+2025-11-21 20:14:42.007   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Case IH AF11'
