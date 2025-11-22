@@ -5404,3 +5404,18 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-22 12:08:06.701   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'JCB Fastrac 8330'
 2025-11-22 12:08:30.205 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_RounderWrappedRoundbales/assets/roundbale125/roundbale125.i3d (1.94 ms)
 2025-11-22 12:12:44.284 Piotrek left the game
+2025-11-22 12:18:27.987 Game saved successfully (savegame1).
+2025-11-22 12:23:15.125 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Cybuchowo/maps/pallets/blueberry/blueberryPallet.i3d (4.94 ms)
+2025-11-22 12:23:16.150 data/objects/pallets/pioneer/pioneerPallet.i3d (1.60 ms)
+2025-11-22 12:23:16.157 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_lsfmBigBagPack/objects/bigBagFillable/bigBagFillable.i3d (7.54 ms)
+2025-11-22 12:23:16.190 data/objects/bigBagPallet/bigBagPallet.i3d (4.52 ms)
+2025-11-22 12:24:29.549 data/objects/pallets/fermentedNapaCabbageBoxPallet/fermentedNapaCabbageBoxPallet.i3d (15.49 ms)
+2025-11-22 12:24:41.492 zwierek joined the game
+2025-11-22 12:24:41.522 dataS/character/playerM/pants/botJeanShorts.i3d (16.79 ms)
+2025-11-22 12:24:41.524 dataS/character/playerM/attachments/glassesAviators.i3d (1.70 ms)
+2025-11-22 12:24:41.526 dataS/character/playerM/shoes/sandalM03.i3d (1.42 ms)
+2025-11-22 12:24:41.557 dataS/character/playerM/hairStyles/hairStyleBaldTop.i3d (31.36 ms)
+2025-11-22 12:24:41.566 dataS/character/playerM/facialHair/mHead01/walrusXL.i3d (9.19 ms)
+2025-11-22 12:31:12.198 data/shared/assets/reflectors/lizard/whiteRound_01.i3d (1.10 ms)
+2025-11-22 12:31:12.205 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_SAMASZ_PACK_Dolphin_Edition/KDF_341_S_DE/kdf341S.i3d (42.09 ms)
+2025-11-22 12:31:12.416 data/shared/assets/powerTakeOffs/walterscheidW_SC25.i3d (3.54 ms)
