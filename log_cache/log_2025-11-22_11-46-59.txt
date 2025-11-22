@@ -5893,3 +5893,15 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-22 23:38:10.330 data/objects/bigBagPallet/bigBagPallet.i3d (4.08 ms)
 2025-11-22 23:38:11.735 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_lsfmBigBagPack/objects/bigBagFillable/bigBagFillable.i3d (8.51 ms)
 2025-11-22 23:38:12.721 data/objects/bigBagPallet/bigBagPallet.i3d (4.49 ms)
+2025-11-22 23:39:01.298 data/objects/bigBag/bigBag.i3d (5.98 ms)
+2025-11-22 23:39:30.084 data/objects/bigBagPallet/bigBagPallet.i3d (4.66 ms)
+2025-11-22 23:39:31.072 data/objects/bigBag/bigBag.i3d (5.15 ms)
+2025-11-22 23:40:19.822 dataS/character/playerM/heads/mHead05.i3d (193.73 ms)
+2025-11-22 23:40:19.918 dataS/character/playerM/shirts/zipNeckPullover.i3d (95.53 ms)
+2025-11-22 23:40:19.952 dataS/character/playerM/hairStyles/hairStyleManBun.i3d (34.42 ms)
+2025-11-22 23:40:19.962 dataS/character/playerM/facialHair/mHead05/goatee02.i3d (9.76 ms)
+2025-11-22 23:41:09.817 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.73 ms)
+2025-11-22 23:41:09.875 data/objects/pallets/liquidTank/liquidTank.i3d (3.60 ms)
+2025-11-22 23:49:36.876 Game saved successfully (savegame1).
+2025-11-23 00:08:52.218   Info: No 'ExhaustExtension' particle system added to vehicle 'Jungheinrich EFG S50 2.4m' because it has no exhaust
+2025-11-23 00:19:40.186 Game saved successfully (savegame1).
