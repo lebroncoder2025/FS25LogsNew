@@ -341,3 +341,5 @@
 [21/Nov/2025:23:17:01] 91.134.73.230 - GET "/" 301 342  Mozilla/5.0 (compatible; ModatScanner/1.2; +https://modat.io/)
 [22/Nov/2025:00:14:15] 5.173.158.23 - GET "/index.html" 200 10107  Mozilla/5.0 (iPhone; CPU iPhone OS 18_6_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Mobile/15E148 Safari/604.1
 [22/Nov/2025:00:14:23] 5.173.158.23 - GET "/index.html" 200 1905927  Mozilla/5.0 (iPhone; CPU iPhone OS 18_6_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Mobile/15E148 Safari/604.1
+[22/Nov/2025:11:06:50] 87.236.176.154 - GET "/" 301 342  Mozilla/5.0 (compatible; InternetMeasurement/1.0; +https://internet-measurement.com/)
+[22/Nov/2025:11:06:50] 87.236.176.154 - GET "/index.html" 200 10107  Mozilla/5.0 (compatible; InternetMeasurement/1.0; +https://internet-measurement.com/)
