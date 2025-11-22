@@ -5518,3 +5518,120 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-22 16:30:35.956   Info: Successfully set fill unit 1 of Sopema Fertilizer Trailer to Lime with a fill level of 8,500 liters.
 2025-11-22 16:31:51.968   Info: Successfully set fill unit 1 of Sopema Fertilizer Trailer to Lime with a fill level of 8,500 liters.
 2025-11-22 16:32:55.059   Info: Successfully set fill unit 1 of Sopema Fertilizer Trailer to Lime with a fill level of 8,500 liters.
+2025-11-22 16:35:54.174   Info: Successfully set fill unit 1 of Sopema Fertilizer Trailer to Lime with a fill level of 8,500 liters.
+2025-11-22 16:37:08.697   Info: Successfully set fill unit 1 of Sopema Fertilizer Trailer to Lime with a fill level of 8,500 liters.
+2025-11-22 16:38:12.454   Info: Successfully set fill unit 1 of Sopema Fertilizer Trailer to Lime with a fill level of 8,500 liters.
+2025-11-22 16:39:35.301   Info: Successfully set fill unit 1 of Sopema Fertilizer Trailer to Lime with a fill level of 8,500 liters.
+2025-11-22 16:40:14.653 M@rcin joined the game
+2025-11-22 16:40:14.688 dataS/character/playerM/jacket/topAviatorJacket.i3d (19.23 ms)
+2025-11-22 16:40:14.690 dataS/character/playerM/attachments/glassesAviators.i3d (1.78 ms)
+2025-11-22 16:40:14.723 dataS/character/playerM/hairStyles/hairStyleDiablo.i3d (33.61 ms)
+2025-11-22 16:40:14.725 dataS/character/playerM/facialHair/mHead01/beardStubble.i3d (1.54 ms)
+2025-11-22 16:41:52.571   Info: Operating time of Case IH 160 CVX changed to 40 h.
+2025-11-22 16:42:22.206   Info: Moved 3 vehicles to coordinates 746, 980 successfully.
+2025-11-22 16:43:39.688 M@rcin lost connection to the game
+2025-11-22 16:44:18.486   Info: Operating time of Case IH 160 CVX changed to 52.2 h.
+2025-11-22 16:44:28.486 M@rcin joined the game
+2025-11-22 16:44:28.523 dataS/character/playerM/jacket/topAviatorJacket.i3d (19.20 ms)
+2025-11-22 16:44:28.525 dataS/character/playerM/attachments/glassesAviators.i3d (1.90 ms)
+2025-11-22 16:44:28.559 dataS/character/playerM/hairStyles/hairStyleDiablo.i3d (33.77 ms)
+2025-11-22 16:44:28.560 dataS/character/playerM/facialHair/mHead01/beardStubble.i3d (1.54 ms)
+2025-11-22 16:45:07.820   Info: Successfully set fill unit 1 of Vence Tudo Flexxa 20300 to Seeds with a fill level of 1,720 liters.
+2025-11-22 16:45:08.967   Info: Successfully set fill unit 2 of Vence Tudo Flexxa 20300 to Solid Fertilizer with a fill level of 3,120 liters.
+2025-11-22 16:45:13.964   Info: Moved 3 vehicles to coordinates 1496, 1435 successfully.
+2025-11-22 16:45:15.381 dataS/character/playerM/jacket/topDenimJacket.i3d (23.69 ms)
+2025-11-22 16:45:15.414 dataS/character/playerM/hairStyles/hairStyleMidParted01.i3d (33.51 ms)
+2025-11-22 16:47:54.072 Piotrek lost connection to the game
+2025-11-22 16:48:25.208   Info: Successfully added 'ExhaustExtension' particle system to 3 nodes of vehicle 'SCANIA 770 V8 CHIP'
+2025-11-22 16:48:33.002   Info: Successfully set fill unit 1 of RANDON Dump Trailer with Dolly Hitch to Canola with a fill level of 40,000 liters.
+2025-11-22 16:48:35.013 Game saved successfully (savegame1).
+2025-11-22 16:48:37.385   Info: Successfully set fill unit 1 of RANDON Dump Trailer with Dolly to Canola with a fill level of 40,000 liters.
+2025-11-22 16:48:58.463   Info: Moved 3 vehicles to coordinates 1396, 1715 successfully.
+2025-11-22 16:49:44.707 Piotrek joined the game
+2025-11-22 16:49:44.738 dataS/character/playerM/pants/botChinos.i3d (13.49 ms)
+2025-11-22 16:49:44.815 dataS/character/playerM/shirts/strauss/straussTShirtMerino.i3d (76.97 ms)
+2025-11-22 16:49:44.820 dataS/character/playerM/gloves/glovesGeneric.i3d (5.11 ms)
+2025-11-22 16:49:44.916 dataS/character/playerM/shoes/sandalM03.i3d (96.42 ms)
+2025-11-22 16:49:44.917 dataS/character/playerM/hairStyles/hairStyleBald.i3d (0.30 ms)
+2025-11-22 16:49:54.944   Info: Successfully set fill unit 1 of RANDON Dump Trailer with Dolly Hitch to Canola with a fill level of 40,000 liters.
+2025-11-22 16:51:05.509   Info: Successfully set fill unit 1 of RANDON Dump Trailer with Dolly Hitch to Canola with a fill level of 40,000 liters.
+2025-11-22 16:52:09.038   Info: Moved 3 vehicles to coordinates 745, 990 successfully.
+2025-11-22 16:54:11.400   Info: Successfully set fill unit 1 of Lizard MKS 32 to Buffalo Milk with a fill level of 32,000 liters.
+2025-11-22 16:54:39.259   Info: Moved 2 vehicles to coordinates 1581, 564 successfully.
+2025-11-22 16:55:24.729   Info: Successfully set fill unit 1 of Lizard MKS 32 to Buffalo Milk with a fill level of 32,000 liters.
+2025-11-22 16:56:03.445   Info: Moved 2 vehicles to coordinates 677, 783 successfully.
+2025-11-22 16:57:48.450 data/shared/assets/extinguisherSmall02.i3d (1.41 ms)
+2025-11-22 16:57:48.457 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_FendtVario1067/vario1067.i3d (94.57 ms)
+2025-11-22 16:57:48.600 data/shared/wheels/tires/michelin/axioBib/650_65R38.i3d (2.70 ms)
+2025-11-22 16:57:48.602 data/shared/wheels/tires/michelin/axioBib/750_75R46.i3d (2.63 ms)
+2025-11-22 16:58:01.963   Info: Added € 150,000 to farm account. (3)
+2025-11-22 16:58:03.660   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'New Holland 8340'
+2025-11-22 16:58:10.379 data/vehicles/kinze/planter4900/planter4900.i3d (94.77 ms)
+2025-11-22 16:58:10.526 data/shared/wheels/tires/continental/contiHybridHD3/245_70R19_5.i3d (2.79 ms)
+2025-11-22 16:58:10.530 data/shared/wheels/tires/mitas/FL02/6_50_R10.i3d (1.98 ms)
+2025-11-22 16:58:14.113   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Fendt 1067 Vario'
+2025-11-22 16:58:31.376   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Fendt 1067 Vario'
+2025-11-22 16:59:15.835 data/objects/pallets/fermentedNapaCabbageBoxPallet/fermentedNapaCabbageBoxPallet.i3d (15.21 ms)
+2025-11-22 16:59:50.991 hubsonwaliszot joined the game
+2025-11-22 16:59:51.027 dataS/character/playerM/pants/botJeanShorts.i3d (17.79 ms)
+2025-11-22 16:59:51.100 dataS/character/playerM/heads/mHead02.i3d (15.83 ms)
+2025-11-22 16:59:51.389 dataS/character/playerM/shirts/poettinger/poettingerTshirt.i3d (289.03 ms)
+2025-11-22 16:59:51.475 dataS/character/playerM/gloves/strauss/glovesEsTrailLight02.i3d (48.62 ms)
+2025-11-22 16:59:51.551 dataS/character/playerM/attachments/hatWoolen.i3d (47.81 ms)
+2025-11-22 16:59:51.615 dataS/character/playerM/hairStyles/hairStyleMullet.i3d (34.98 ms)
+2025-11-22 16:59:51.626 dataS/character/playerM/facialHair/mHead02/trimmedBeard.i3d (11.58 ms)
+2025-11-22 16:59:52.134 data/objects/pallets/fermentedNapaCabbageBoxPallet/fermentedNapaCabbageBoxPallet.i3d (15.98 ms)
+2025-11-22 16:59:52.145 data/objects/pallets/preservedFoodBeetRootPallet/preservedFoodBeetRootPallet.i3d (11.58 ms)
+2025-11-22 17:00:16.788   Info: Moved 3 vehicles to coordinates 740, 988 successfully.
+2025-11-22 17:01:14.548   Info: Moved 3 vehicles to coordinates 630, 839 successfully.
+2025-11-22 17:01:45.121 Piotrek lost connection to the game
+2025-11-22 17:03:38.599   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Fendt 832 Vario Gen5 - 60km/h'
+2025-11-22 17:03:44.620   Info: Operating time of Fendt 832 Vario Gen5 - 60km/h changed to 0 h.
+2025-11-22 17:04:47.027 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_FendtVario1067/wheels/1067_710_60R38.i3d (11.58 ms)
+2025-11-22 17:04:47.030 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_FendtVario1067/wheels/1067_900_65R46.i3d (2.44 ms)
+2025-11-22 17:04:49.491   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Fendt 1067 Vario'
+2025-11-22 17:05:03.599   Info: Successfully set fill unit 1 of KINZE 4905 Blue Drive to Seeds with a fill level of 4,228 liters.
+2025-11-22 17:05:04.812   Info: Successfully set fill unit 2 of KINZE 4905 Blue Drive to Liquid Fertilizer with a fill level of 2,840 liters.
+2025-11-22 17:05:09.955   Info: Moved 2 vehicles to coordinates 1543, 1433 successfully.
+2025-11-22 17:05:13.674 dataS/character/playerF/pants/botYogaPants.i3d (10.95 ms)
+2025-11-22 17:05:13.787 dataS/character/playerF/heads/fHead02.i3d (112.57 ms)
+2025-11-22 17:05:13.840 dataS/character/playerF/shirts/topTankTop.i3d (53.13 ms)
+2025-11-22 17:05:13.843 dataS/character/playerF/shoes/sportSneaker.i3d (2.48 ms)
+2025-11-22 17:05:13.878 dataS/character/playerF/hairStyles/hairStyleLongSideParted.i3d (35.40 ms)
+2025-11-22 17:05:56.461 data/shared/wheels/tires/michelin/axioBib/710_60R38.i3d (2.81 ms)
+2025-11-22 17:05:56.464 data/shared/wheels/tires/michelin/axioBib/900_65R46.i3d (2.53 ms)
+2025-11-22 17:05:59.873   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Fendt 1067 Vario'
+2025-11-22 17:08:18.573 hubsonwaliszot was kicked from the game
+2025-11-22 17:09:39.643 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_RounderWrappedRoundbales/assets/roundbale180/roundbale180.i3d (2.02 ms)
+2025-11-22 17:09:57.867 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_claasDiscoPack/claasDisco3600FC/disco3600FC.i3d (83.11 ms)
+2025-11-22 17:10:45.989 data/objects/pallets/fermentedNapaCabbageBoxPallet/fermentedNapaCabbageBoxPallet.i3d (17.24 ms)
+2025-11-22 17:11:56.988 hubsonwaliszot joined the game
+2025-11-22 17:11:57.020 dataS/character/playerM/pants/botJeanShorts.i3d (16.68 ms)
+2025-11-22 17:11:57.036 dataS/character/playerM/heads/mHead02.i3d (15.67 ms)
+2025-11-22 17:11:57.322 dataS/character/playerM/shirts/poettinger/poettingerTshirt.i3d (286.38 ms)
+2025-11-22 17:11:57.370 dataS/character/playerM/gloves/strauss/glovesEsTrailLight02.i3d (48.50 ms)
+2025-11-22 17:11:57.417 dataS/character/playerM/attachments/hatWoolen.i3d (46.49 ms)
+2025-11-22 17:11:57.452 dataS/character/playerM/hairStyles/hairStyleMullet.i3d (34.58 ms)
+2025-11-22 17:11:57.463 dataS/character/playerM/facialHair/mHead02/trimmedBeard.i3d (11.09 ms)
+2025-11-22 17:18:36.527 Game saved successfully (savegame1).
+2025-11-22 17:18:53.160   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Fendt 1067 Vario'
+2025-11-22 17:21:21.680 symonixprime joined the game
+2025-11-22 17:21:21.840 dataS/character/playerM/pants/poettinger/poettingerShort.i3d (141.92 ms)
+2025-11-22 17:21:21.932 dataS/character/playerM/shirts/topTShirt02.i3d (92.56 ms)
+2025-11-22 17:21:22.024 dataS/character/playerM/shoes/sandalM02.i3d (91.41 ms)
+2025-11-22 17:21:22.039 dataS/character/playerM/facialHair/mHead02/fullBeard.i3d (15.08 ms)
+2025-11-22 17:21:31.503   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'CLAAS LEXION 8900'
+2025-11-22 17:22:32.075 Warning: Send called with unknown target address.
+2025-11-22 17:22:32.087 Jolero left the game
+2025-11-22 17:22:33.688 Game saved successfully (savegame1).
+2025-11-22 17:22:53.609 data/objects/pallets/preservedFoodBeetRootPallet/preservedFoodBeetRootPallet.i3d (12.77 ms)
+2025-11-22 17:23:08.093 dataS/character/playerM/fullBody/onePieceMechanic.i3d (30.12 ms)
+2025-11-22 17:23:08.110 dataS/character/playerM/shoes/riding.i3d (16.86 ms)
+2025-11-22 17:23:08.166 dataS/character/playerM/hairStyles/hairStyleUnkempt.i3d (37.23 ms)
+2025-11-22 17:23:08.226 dataS/character/playerM/facialHair/mHead02/goatee01.i3d (19.69 ms)
+2025-11-22 17:25:41.042   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Massey Ferguson MF 8S.305 50km/h'
+2025-11-22 17:26:13.013   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Case IH 160 CVX'
+2025-11-22 17:26:23.272 zwierek joined the game
+2025-11-22 17:26:23.291 dataS/character/playerM/shoes/sandalM03.i3d (1.52 ms)
+2025-11-22 17:26:23.322 dataS/character/playerM/hairStyles/hairStyleBaldTop.i3d (31.44 ms)
+2025-11-22 17:26:23.331 dataS/character/playerM/facialHair/mHead01/walrusXL.i3d (9.19 ms)
