@@ -5858,3 +5858,5 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-22 21:19:18.371 dataS/character/playerM/hairStyles/hairStyleManBun.i3d (34.28 ms)
 2025-11-22 21:19:18.382 dataS/character/playerM/facialHair/mHead05/goatee02.i3d (10.09 ms)
 2025-11-22 21:23:16.589   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Fendt 832 Vario Gen5 - 60km/h'
+2025-11-22 21:27:23.674   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'AGRIFAC Condor Endurance II'
+2025-11-22 21:34:49.725 hubsonwaliszot left the game
