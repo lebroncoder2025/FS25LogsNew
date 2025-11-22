@@ -5835,3 +5835,26 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-22 20:30:55.712 dataS/character/playerF/shirts/topTankTop.i3d (48.60 ms)
 2025-11-22 20:30:55.714 dataS/character/playerF/shoes/sportSneaker.i3d (2.35 ms)
 2025-11-22 20:30:55.750 dataS/character/playerF/hairStyles/hairStyleLongSideParted.i3d (35.01 ms)
+2025-11-22 20:34:08.446 dataS/character/playerM/pants/botLeather.i3d (18.26 ms)
+2025-11-22 20:34:08.644 dataS/character/playerM/heads/mHead03.i3d (198.81 ms)
+2025-11-22 20:34:08.678 dataS/character/playerM/hairStyles/hairStyleMidParted01.i3d (33.66 ms)
+2025-11-22 20:40:10.430 symonixprime lost connection to the game
+2025-11-22 20:42:37.399 data/objects/bigBag/bigBag.i3d (6.04 ms)
+2025-11-22 20:43:28.699 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_tenwinkelWeightPackage/rearWeight1450.i3d (1.77 ms)
+2025-11-22 20:49:04.922 Game saved successfully (savegame1).
+2025-11-22 20:50:40.527 dataS/character/playerF/pants/botCargo.i3d (18.03 ms)
+2025-11-22 20:50:40.553 dataS/character/playerF/jacket/topVest.i3d (25.39 ms)
+2025-11-22 20:50:40.556 dataS/character/playerF/shoes/workboot02.i3d (3.10 ms)
+2025-11-22 20:50:40.593 dataS/character/playerF/hairStyles/hairStylePonyTail03.i3d (36.93 ms)
+2025-11-22 20:53:23.993   Info: Super Strength enabled by zwierek
+2025-11-22 20:53:28.783   Info: Super Strength disabled by zwierek
+2025-11-22 20:57:07.982 zwierek lost connection to the game
+2025-11-22 20:58:16.405 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.57 ms)
+2025-11-22 20:58:16.464 data/objects/bigBagPallet/bigBagPallet.i3d (5.47 ms)
+2025-11-22 20:59:45.453 siwa lost connection to the game
+2025-11-22 21:19:08.050 Game saved successfully (savegame1).
+2025-11-22 21:19:18.241 dataS/character/playerM/heads/mHead05.i3d (197.99 ms)
+2025-11-22 21:19:18.336 dataS/character/playerM/shirts/zipNeckPullover.i3d (94.80 ms)
+2025-11-22 21:19:18.371 dataS/character/playerM/hairStyles/hairStyleManBun.i3d (34.28 ms)
+2025-11-22 21:19:18.382 dataS/character/playerM/facialHair/mHead05/goatee02.i3d (10.09 ms)
+2025-11-22 21:23:16.589   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Fendt 832 Vario Gen5 - 60km/h'
