@@ -5480,3 +5480,7 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-22 15:17:16.619 dataS/character/playerM/shoes/sandalM03.i3d (1.41 ms)
 2025-11-22 15:17:16.620 dataS/character/playerM/hairStyles/hairStyleBald.i3d (0.25 ms)
 2025-11-22 15:18:30.920 Game saved successfully (savegame1).
+2025-11-22 15:21:10.464 data/objects/pallets/fermentedNapaCabbageBoxPallet/fermentedNapaCabbageBoxPallet.i3d (15.88 ms)
+2025-11-22 15:21:26.415   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'HOLMER Terra Dos T4-40'
+2025-11-22 15:30:29.135 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Lizard_RSD4/rsd4.i3d (109.03 ms)
+2025-11-22 15:30:29.269 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Lizard_RSD4/wheels/rim.i3d (13.04 ms)
