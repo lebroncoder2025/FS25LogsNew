@@ -5419,3 +5419,23 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-22 12:31:12.198 data/shared/assets/reflectors/lizard/whiteRound_01.i3d (1.10 ms)
 2025-11-22 12:31:12.205 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_SAMASZ_PACK_Dolphin_Edition/KDF_341_S_DE/kdf341S.i3d (42.09 ms)
 2025-11-22 12:31:12.416 data/shared/assets/powerTakeOffs/walterscheidW_SC25.i3d (3.54 ms)
+2025-11-22 12:45:32.254   Info: [Easy Development Controls] User zwierek has logged in as master user.
+2025-11-22 12:48:28.865 Game saved successfully (savegame1).
+2025-11-22 13:00:24.520 zwierek lost connection to the game
+2025-11-22 13:08:38.636   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Ursus C-385A Fast transmission'
+2025-11-22 13:10:20.609 siwa joined the game
+2025-11-22 13:10:20.653 dataS/character/playerM/pants/volvo/volvoPants.i3d (26.50 ms)
+2025-11-22 13:10:20.659 dataS/character/playerM/shirts/volvo/volvoTshirt.i3d (5.89 ms)
+2025-11-22 13:10:20.660 dataS/character/playerM/attachments/glassesSports01.i3d (1.81 ms)
+2025-11-22 13:15:24.156   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'John Deere 6195M Chiptuning 50km/h'
+2025-11-22 13:15:29.751 dataS/character/playerM/heads/mHead05.i3d (194.70 ms)
+2025-11-22 13:15:29.846 dataS/character/playerM/shirts/zipNeckPullover.i3d (94.89 ms)
+2025-11-22 13:15:29.880 dataS/character/playerM/hairStyles/hairStyleManBun.i3d (34.28 ms)
+2025-11-22 13:15:29.890 dataS/character/playerM/facialHair/mHead05/goatee02.i3d (10.31 ms)
+2025-11-22 13:15:43.848   Info: No 'ExhaustExtension' particle system added to vehicle 'Volvo FH16 780' because it has no exhaust
+2025-11-22 13:18:28.951 Game saved successfully (savegame1).
+2025-11-22 13:28:38.443   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Case IH 160 CVX'
+2025-11-22 13:31:10.098   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Valtra VALMET 8750'
+2025-11-22 13:33:51.021 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_RounderWrappedRoundbales/assets/roundbale125/roundbale125.i3d (1.65 ms)
+2025-11-22 13:39:00.031 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.78 ms)
+2025-11-22 13:39:00.088 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_lsfmBigBagPack/objects/bigBag/bigBag.i3d (6.75 ms)
