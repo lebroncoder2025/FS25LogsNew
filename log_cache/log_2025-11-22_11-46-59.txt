@@ -5864,3 +5864,9 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-22 21:43:56.999 M@rcin lost connection to the game
 2025-11-22 21:49:16.207 Game saved successfully (savegame1).
 2025-11-22 22:19:25.055 Game saved successfully (savegame1).
+2025-11-22 22:31:00.177 Piotrek joined the game
+2025-11-22 22:31:00.390 dataS/character/playerM/pants/botChinos.i3d (13.63 ms)
+2025-11-22 22:31:00.466 dataS/character/playerM/shirts/strauss/straussTShirtMerino.i3d (76.84 ms)
+2025-11-22 22:31:00.472 dataS/character/playerM/gloves/glovesGeneric.i3d (5.10 ms)
+2025-11-22 22:31:00.564 dataS/character/playerM/shoes/sandalM03.i3d (91.63 ms)
+2025-11-22 22:31:00.565 dataS/character/playerM/hairStyles/hairStyleBald.i3d (0.28 ms)
