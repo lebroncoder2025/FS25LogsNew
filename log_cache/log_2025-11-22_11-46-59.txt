@@ -5508,3 +5508,13 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-22 16:18:31.723 Game saved successfully (savegame1).
 2025-11-22 16:18:36.947   Info: Successfully set fill unit 1 of Sopema Fertilizer Trailer to Lime with a fill level of 8,500 liters.
 2025-11-22 16:19:22.652   Info: Successfully set fill unit 1 of Sopema Fertilizer Trailer to Lime with a fill level of 8,500 liters.
+2025-11-22 16:22:04.457   Info: Successfully set fill unit 1 of Sopema Fertilizer Trailer to Lime with a fill level of 8,500 liters.
+2025-11-22 16:22:09.052   Info: Successfully set fill unit 1 of Sopema Fertilizer Trailer to Lime with a fill level of 8,500 liters.
+2025-11-22 16:22:25.971   Info: Successfully set fill unit 1 of Sopema Fertilizer Trailer to Lime with a fill level of 8,500 liters.
+2025-11-22 16:25:29.837   Info: Successfully set fill unit 1 of Sopema Fertilizer Trailer to Lime with a fill level of 8,500 liters.
+2025-11-22 16:25:41.232   Info: Successfully set fill unit 1 of Sopema Fertilizer Trailer to Lime with a fill level of 8,500 liters.
+2025-11-22 16:28:17.408   Info: Successfully set fill unit 1 of Sopema Fertilizer Trailer to Lime with a fill level of 8,500 liters.
+2025-11-22 16:28:55.241 data/objects/pallets/preservedFoodBeetRootPallet/preservedFoodBeetRootPallet.i3d (12.57 ms)
+2025-11-22 16:30:35.956   Info: Successfully set fill unit 1 of Sopema Fertilizer Trailer to Lime with a fill level of 8,500 liters.
+2025-11-22 16:31:51.968   Info: Successfully set fill unit 1 of Sopema Fertilizer Trailer to Lime with a fill level of 8,500 liters.
+2025-11-22 16:32:55.059   Info: Successfully set fill unit 1 of Sopema Fertilizer Trailer to Lime with a fill level of 8,500 liters.
