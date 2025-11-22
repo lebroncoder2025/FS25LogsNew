@@ -5457,3 +5457,6 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-22 14:03:29.749 dataS/character/playerM/facialHair/mHead01/beardStubble.i3d (1.47 ms)
 2025-11-22 14:14:53.263 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_RounderWrappedRoundbales/assets/roundbale180/roundbale180.i3d (2.09 ms)
 2025-11-22 14:18:30.219 Game saved successfully (savegame1).
+2025-11-22 14:26:48.689 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_RounderWrappedRoundbales/assets/roundbale180/roundbale180.i3d (2.02 ms)
+2025-11-22 14:32:43.811   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'STEYR 8130 Super Elite'
+2025-11-22 14:33:29.531 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_RounderWrappedRoundbales/assets/roundbale180/roundbale180.i3d (2.24 ms)
