@@ -5484,3 +5484,27 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-22 15:21:26.415   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'HOLMER Terra Dos T4-40'
 2025-11-22 15:30:29.135 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Lizard_RSD4/rsd4.i3d (109.03 ms)
 2025-11-22 15:30:29.269 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Lizard_RSD4/wheels/rim.i3d (13.04 ms)
+2025-11-22 15:44:32.186 data/objects/pallets/fermentedNapaCabbageBoxPallet/fermentedNapaCabbageBoxPallet.i3d (15.02 ms)
+2025-11-22 15:48:31.293 Game saved successfully (savegame1).
+2025-11-22 16:08:26.062 Jolero joined the game
+2025-11-22 16:08:26.080 dataS/character/playerM/shirts/topTShirt01.i3d (2.36 ms)
+2025-11-22 16:08:26.100 dataS/character/playerM/facialHair/mHead01/goatee01.i3d (19.61 ms)
+2025-11-22 16:09:49.016 symonixprime lost connection to the game
+2025-11-22 16:10:00.756   Info: [Easy Development Controls] User Jolero has logged in as master user.
+2025-11-22 16:11:07.808   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Fendt 832 Vario Gen5 - 60km/h'
+2025-11-22 16:11:09.554   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Fendt 728 Vario Chip 330'
+2025-11-22 16:11:43.765   Info: Successfully set fill unit 1 of Sopema Fertilizer Trailer to Lime with a fill level of 8,500 liters.
+2025-11-22 16:13:40.797   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Fendt 620 Vario - 50km/h'
+2025-11-22 16:13:52.772   Info: The condition of Fendt 620 Vario - 50km/h and all connected implements updated.
+2025-11-22 16:13:54.799   Info: The condition of Fendt 620 Vario - 50km/h and all connected implements updated.
+2025-11-22 16:15:34.370 dataS/character/playerF/pants/botCargo.i3d (17.94 ms)
+2025-11-22 16:15:34.395 dataS/character/playerF/jacket/topVest.i3d (25.08 ms)
+2025-11-22 16:15:34.398 dataS/character/playerF/shoes/workboot02.i3d (3.10 ms)
+2025-11-22 16:15:34.433 dataS/character/playerF/hairStyles/hairStylePonyTail03.i3d (34.83 ms)
+2025-11-22 16:15:57.522 Błażej joined the game
+2025-11-22 16:15:57.632 dataS/character/playerM/shoes/sportSneaker.i3d (92.83 ms)
+2025-11-22 16:15:57.667 dataS/character/playerM/hairStyles/hairStyleFringe.i3d (34.90 ms)
+2025-11-22 16:16:13.373   Info: Successfully set fill unit 1 of Sopema Fertilizer Trailer to Lime with a fill level of 8,500 liters.
+2025-11-22 16:18:31.723 Game saved successfully (savegame1).
+2025-11-22 16:18:36.947   Info: Successfully set fill unit 1 of Sopema Fertilizer Trailer to Lime with a fill level of 8,500 liters.
+2025-11-22 16:19:22.652   Info: Successfully set fill unit 1 of Sopema Fertilizer Trailer to Lime with a fill level of 8,500 liters.
