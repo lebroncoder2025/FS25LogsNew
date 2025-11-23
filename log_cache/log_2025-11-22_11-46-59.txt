@@ -15108,3 +15108,23 @@ dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to i
 2025-11-23 16:31:51.092 dataS/character/playerM/shoes/sandalM02.i3d (1.25 ms)
 2025-11-23 16:31:51.129 dataS/character/playerM/hairStyles/hairStyleTopKnot.i3d (36.79 ms)
 2025-11-23 16:31:51.146 dataS/character/playerM/facialHair/mHead02/fullBeard.i3d (16.41 ms)
+2025-11-23 16:36:21.922 dataS/character/playerM/attachments/headgearMotorbike.i3d (17.65 ms)
+2025-11-23 16:37:23.953 dataS/character/playerF/pants/botChinos.i3d (4.29 ms)
+2025-11-23 16:37:24.229 dataS/character/playerF/heads/fHead04.i3d (275.48 ms)
+2025-11-23 16:37:24.294 dataS/character/playerF/jacket/topAviatorJacket.i3d (65.47 ms)
+2025-11-23 16:37:24.395 dataS/character/playerF/shoes/laceUpSneaker.i3d (100.56 ms)
+2025-11-23 16:37:24.440 dataS/character/playerF/hairStyles/hairStylePonyTail01.i3d (45.30 ms)
+2025-11-23 16:40:08.930 dataS/character/playerM/attachments/headgearMotorbike.i3d (13.52 ms)
+2025-11-23 16:49:06.493 Piotrek lost connection to the game
+2025-11-23 16:49:53.054 Piotrek joined the game
+2025-11-23 16:49:53.083 dataS/character/playerM/pants/botChinos.i3d (13.84 ms)
+2025-11-23 16:49:53.161 dataS/character/playerM/shirts/strauss/straussTShirtMerino.i3d (77.73 ms)
+2025-11-23 16:49:53.167 dataS/character/playerM/gloves/glovesGeneric.i3d (5.28 ms)
+2025-11-23 16:49:53.168 dataS/character/playerM/shoes/sandalM03.i3d (1.49 ms)
+2025-11-23 16:49:53.168 dataS/character/playerM/hairStyles/hairStyleBald.i3d (0.26 ms)
+2025-11-23 16:52:54.972 Game saved successfully (savegame1).
+2025-11-23 17:14:06.942 Błażej joined the game
+2025-11-23 17:14:06.961 dataS/character/playerM/shirts/topTShirt01.i3d (2.44 ms)
+2025-11-23 17:14:07.074 dataS/character/playerM/shoes/sportSneaker.i3d (113.70 ms)
+2025-11-23 17:14:07.117 dataS/character/playerM/hairStyles/hairStyleFringe.i3d (42.96 ms)
+2025-11-23 17:22:57.019 Game saved successfully (savegame1).
