@@ -15058,3 +15058,11 @@ dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to i
 2025-11-23 15:11:02.185 data/placeables/brandless/riceField/riceFieldProps.i3d (23.00 ms)
 2025-11-23 15:14:04.044 hubsonwaliszot left the game
 2025-11-23 15:15:21.408 M@rcin lost connection to the game
+2025-11-23 15:21:35.874 Jolero left the game
+2025-11-23 15:22:49.968 Game saved successfully (savegame1).
+2025-11-23 15:25:55.143 Jolero joined the game
+2025-11-23 15:25:55.161 dataS/character/playerM/shirts/topTShirt01.i3d (2.40 ms)
+2025-11-23 15:25:55.196 dataS/character/playerM/hairStyles/hairStyleTopKnot.i3d (34.91 ms)
+2025-11-23 15:25:55.216 dataS/character/playerM/facialHair/mHead01/goatee01.i3d (19.76 ms)
+2025-11-23 15:26:56.379   Info: [Easy Development Controls] User Jolero has logged in as master user.
+2025-11-23 15:28:50.388 Piotrek lost connection to the game
