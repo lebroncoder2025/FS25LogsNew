@@ -15136,3 +15136,5 @@ dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to i
 2025-11-23 17:49:23.328 dataS/character/playerM/shirts/volvo/volvoTshirt.i3d (8.07 ms)
 2025-11-23 17:49:23.330 dataS/character/playerM/attachments/glassesSports01.i3d (2.02 ms)
 2025-11-23 17:52:58.587 Game saved successfully (savegame1).
+2025-11-23 18:23:01.769 Game saved successfully (savegame1).
+2025-11-23 18:31:31.422 siwa lost connection to the game
