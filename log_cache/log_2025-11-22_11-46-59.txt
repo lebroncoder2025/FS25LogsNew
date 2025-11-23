@@ -15086,3 +15086,25 @@ dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to i
 2025-11-23 16:06:40.947 dataS/character/playerM/jacket/topDenimJacket.i3d (108.51 ms)
 2025-11-23 16:06:40.992 dataS/character/playerM/hairStyles/hairStyleMidParted01.i3d (45.36 ms)
 2025-11-23 16:06:40.994 dataS/character/playerM/facialHair/mHead01/beardStubble.i3d (1.56 ms)
+2025-11-23 16:22:31.484 M@rcin joined the game
+2025-11-23 16:22:31.527 dataS/character/playerM/jacket/topAviatorJacket.i3d (26.64 ms)
+2025-11-23 16:22:31.529 dataS/character/playerM/attachments/glassesAviators.i3d (2.25 ms)
+2025-11-23 16:22:31.569 dataS/character/playerM/hairStyles/hairStyleDiablo.i3d (39.93 ms)
+2025-11-23 16:22:31.571 dataS/character/playerM/facialHair/mHead01/beardStubble.i3d (1.57 ms)
+2025-11-23 16:22:53.626 Game saved successfully (savegame1).
+2025-11-23 16:25:26.073 symonixprime joined the game
+2025-11-23 16:25:26.262 dataS/character/playerM/pants/poettinger/poettingerShort.i3d (173.54 ms)
+2025-11-23 16:25:26.279 dataS/character/playerM/heads/mHead02.i3d (17.85 ms)
+2025-11-23 16:25:26.395 dataS/character/playerM/shirts/topTShirt02.i3d (115.37 ms)
+2025-11-23 16:25:26.396 dataS/character/playerM/shoes/sandalM02.i3d (1.56 ms)
+2025-11-23 16:25:26.432 dataS/character/playerM/hairStyles/hairStyleTopKnot.i3d (35.35 ms)
+2025-11-23 16:25:26.451 dataS/character/playerM/facialHair/mHead02/fullBeard.i3d (18.93 ms)
+2025-11-23 16:27:35.408 M@rcin lost connection to the game
+2025-11-23 16:29:54.615 symonixprime lost connection to the game
+2025-11-23 16:31:50.823 symonixprime joined the game
+2025-11-23 16:31:50.982 dataS/character/playerM/pants/poettinger/poettingerShort.i3d (142.32 ms)
+2025-11-23 16:31:50.999 dataS/character/playerM/heads/mHead02.i3d (16.54 ms)
+2025-11-23 16:31:51.091 dataS/character/playerM/shirts/topTShirt02.i3d (92.48 ms)
+2025-11-23 16:31:51.092 dataS/character/playerM/shoes/sandalM02.i3d (1.25 ms)
+2025-11-23 16:31:51.129 dataS/character/playerM/hairStyles/hairStyleTopKnot.i3d (36.79 ms)
+2025-11-23 16:31:51.146 dataS/character/playerM/facialHair/mHead02/fullBeard.i3d (16.41 ms)
