@@ -15351,3 +15351,27 @@ dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to i
 2025-11-23 22:53:52.529 Game saved successfully (savegame1).
 2025-11-23 23:17:57.610 Figuana joined the game
 2025-11-23 23:23:55.137 Game saved successfully (savegame1).
+2025-11-23 23:41:17.630 data/objects/bigBag/bigBag.i3d (6.65 ms)
+2025-11-23 23:41:18.725 data/objects/bigBagPallet/bigBagPallet.i3d (5.02 ms)
+2025-11-23 23:49:27.090 Piotrek joined the game
+2025-11-23 23:49:27.119 dataS/character/playerM/pants/botChinos.i3d (13.44 ms)
+2025-11-23 23:49:27.196 dataS/character/playerM/shirts/strauss/straussTShirtMerino.i3d (77.31 ms)
+2025-11-23 23:49:27.201 dataS/character/playerM/gloves/glovesGeneric.i3d (4.87 ms)
+2025-11-23 23:49:27.316 dataS/character/playerM/shoes/sandalM03.i3d (114.91 ms)
+2025-11-23 23:49:27.317 dataS/character/playerM/hairStyles/hairStyleBald.i3d (0.27 ms)
+2025-11-23 23:50:36.157 dataS/character/playerM/jacket/topDenimJacket.i3d (28.64 ms)
+2025-11-23 23:50:36.158 dataS/character/playerM/facialHair/mHead01/beardStubble.i3d (1.44 ms)
+2025-11-23 23:53:56.206 Game saved successfully (savegame1).
+2025-11-23 23:56:57.647 data/objects/pallets/preservedFoodBeetRootPallet/preservedFoodBeetRootPallet.i3d (10.82 ms)
+2025-11-23 23:56:59.192 data/objects/pallets/preservedFoodBeetRootPallet/preservedFoodBeetRootPallet.i3d (11.03 ms)
+2025-11-23 23:56:59.206 data/objects/pallets/fermentedNapaCabbageBoxPallet/fermentedNapaCabbageBoxPallet.i3d (13.94 ms)
+2025-11-24 00:00:06.759 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_RounderWrappedRoundbales/assets/roundbale150/roundbale150.i3d (6.69 ms)
+2025-11-24 00:05:59.457 dataS/character/playerM/heads/mHead05.i3d (273.57 ms)
+2025-11-24 00:05:59.575 dataS/character/playerM/shirts/zipNeckPullover.i3d (116.76 ms)
+2025-11-24 00:05:59.616 dataS/character/playerM/hairStyles/hairStyleManBun.i3d (40.84 ms)
+2025-11-24 00:05:59.627 dataS/character/playerM/facialHair/mHead05/goatee02.i3d (10.55 ms)
+2025-11-24 00:06:31.830   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Valtra VALMET 8750'
+2025-11-24 00:07:37.973 Piotrek lost connection to the game
+2025-11-24 00:17:11.836 dataS/character/playerM/jacket/topDenimJacket.i3d (23.03 ms)
+2025-11-24 00:17:11.869 dataS/character/playerM/hairStyles/hairStyleMidParted01.i3d (33.77 ms)
+2025-11-24 00:17:11.871 dataS/character/playerM/facialHair/mHead01/beardStubble.i3d (1.43 ms)
