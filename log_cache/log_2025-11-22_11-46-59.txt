@@ -15311,3 +15311,27 @@ dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to i
 2025-11-23 21:30:06.336 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Big_Bud_747_16V/i3d/BigBud_747.i3d (396.89 ms)
 2025-11-23 21:30:06.627 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Big_Bud_747_16V/i3d/Ruedas_BigBud.i3d (99.82 ms)
 2025-11-23 21:34:29.971   Info: Successfully set fill unit 1 of Case IH AF11 to Soybeans with a fill level of 20,000 liters.
+2025-11-23 21:39:07.609   Info: Successfully set fill unit 1 of Elmer's Manufacturing HaulMaster to Soybeans with a fill level of 70,000 liters.
+2025-11-23 21:41:05.715   Info: Successfully added 'ExhaustExtension' particle system to 2 nodes of vehicle 'BigBud 747 16V (Max. Km/h 32/10)'
+2025-11-23 21:44:06.801   Info: Successfully added 'ExhaustExtension' particle system to 2 nodes of vehicle 'BigBud 747 16V (Max. Km/h 45/15)'
+2025-11-23 21:47:52.950   Info: Successfully set fill unit 1 of BOURGAULT 7950 Air Cart to Seeds with a fill level of 17,620 liters.
+2025-11-23 21:47:53.849   Info: Successfully set fill unit 2 of BOURGAULT 7950 Air Cart to Solid Fertilizer with a fill level of 15,855 liters.
+2025-11-23 21:53:27.379 Game saved successfully (savegame1).
+2025-11-23 21:56:43.436 dataS/character/playerM/pants/botCargo.i3d (18.02 ms)
+2025-11-23 21:56:43.478 dataS/character/playerM/jacket/topConstruction.i3d (42.74 ms)
+2025-11-23 21:56:43.572 dataS/character/playerM/gloves/stihl/glovesStihl.i3d (6.45 ms)
+2025-11-23 21:56:43.582 dataS/character/playerM/attachments/headgearStihl.i3d (9.90 ms)
+2025-11-23 21:56:43.608 dataS/character/playerM/shoes/elten/arborist.i3d (25.81 ms)
+2025-11-23 21:56:43.926 dataS/character/playerM/jacket/topAviatorJacket.i3d (19.19 ms)
+2025-11-23 21:56:43.960 dataS/character/playerM/hairStyles/hairStyleDiablo.i3d (33.72 ms)
+2025-11-23 21:56:43.961 dataS/character/playerM/facialHair/mHead01/beardStubble.i3d (1.49 ms)
+2025-11-23 22:00:23.300 Błażej lost connection to the game
+2025-11-23 22:02:23.700 dataS/character/playerM/pants/botLeather.i3d (25.73 ms)
+2025-11-23 22:02:23.737 dataS/character/playerM/jacket/topVest.i3d (36.92 ms)
+2025-11-23 22:02:23.772 dataS/character/playerM/hairStyles/hairStyleFringe.i3d (35.14 ms)
+2025-11-23 22:09:03.215   Info: Savegame Setting 'economicDifficulty': NORMAL
+2025-11-23 22:09:03.761   Info: Savegame Setting 'economicDifficulty': HARD
+2025-11-23 22:10:27.023 M@rcin lost connection to the game
+2025-11-23 22:19:23.682 Warning: Send called with unknown target address.
+2025-11-23 22:19:23.693 Jolero left the game
+2025-11-23 22:19:24.978 Game saved successfully (savegame1).
