@@ -14851,3 +14851,26 @@ dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to i
 2025-11-23 12:17:24.243 dataS/character/playerM/shoes/riding.i3d (16.83 ms)
 2025-11-23 12:17:24.278 dataS/character/playerM/hairStyles/hairStyleUnkempt.i3d (35.81 ms)
 2025-11-23 12:17:24.293 dataS/character/playerM/facialHair/mHead02/goatee01.i3d (14.19 ms)
+2025-11-23 12:18:15.399   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Case IH 160 CVX'
+2025-11-23 12:19:00.300 dataS/character/playerM/heads/mHead05.i3d (196.27 ms)
+2025-11-23 12:19:00.394 dataS/character/playerM/shirts/zipNeckPullover.i3d (94.52 ms)
+2025-11-23 12:19:00.463 dataS/character/playerM/hairStyles/hairStyleManBun.i3d (34.38 ms)
+2025-11-23 12:19:00.473 dataS/character/playerM/facialHair/mHead05/goatee02.i3d (10.02 ms)
+2025-11-23 12:19:45.785   Info: Successfully set fill unit 1 of BOURGAULT 7950 Air Cart to Seeds with a fill level of 17,620 liters.
+2025-11-23 12:19:46.886   Info: Successfully set fill unit 2 of BOURGAULT 7950 Air Cart to Solid Fertilizer with a fill level of 15,855 liters.
+2025-11-23 12:19:47.905 dataS/character/playerM/heads/mHead05.i3d (203.76 ms)
+2025-11-23 12:19:48.002 dataS/character/playerM/shirts/zipNeckPullover.i3d (97.35 ms)
+2025-11-23 12:19:48.036 dataS/character/playerM/hairStyles/hairStyleManBun.i3d (33.92 ms)
+2025-11-23 12:19:48.046 dataS/character/playerM/facialHair/mHead05/goatee02.i3d (10.02 ms)
+2025-11-23 12:19:59.275   Info: Super Strength enabled by Jolero
+2025-11-23 12:20:21.031   Info: Super Strength disabled by Jolero
+2025-11-23 12:22:09.260 Game saved successfully (savegame1).
+2025-11-23 12:22:28.062   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Case IH 160 CVX'
+2025-11-23 12:26:09.970 data/objects/pallets/liquidTank/liquidTank.i3d (4.05 ms)
+2025-11-23 12:26:10.024 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_lsfmBigBagPack/objects/bigBagFillable/bigBagFillable.i3d (9.15 ms)
+2025-11-23 12:26:40.242 hubsonwaliszot left the game
+2025-11-23 12:28:20.305 dataS/character/playerF/pants/botChinos.i3d (4.15 ms)
+2025-11-23 12:28:20.416 dataS/character/playerF/heads/fHead06.i3d (111.11 ms)
+2025-11-23 12:28:20.470 dataS/character/playerF/shirts/topBlouse.i3d (53.66 ms)
+2025-11-23 12:28:20.473 dataS/character/playerF/shoes/sneaker01.i3d (2.87 ms)
+2025-11-23 12:28:20.508 dataS/character/playerF/hairStyles/hairStyleMidSideParted.i3d (35.07 ms)
