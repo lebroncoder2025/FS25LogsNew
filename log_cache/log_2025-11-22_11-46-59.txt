@@ -6021,3 +6021,11 @@ LUA call stack:
 2025-11-23 07:21:02.106 Game saved successfully (savegame1).
 2025-11-23 07:51:11.045 Game saved successfully (savegame1).
 2025-11-23 08:21:20.071 Game saved successfully (savegame1).
+2025-11-23 08:51:29.139 Game saved successfully (savegame1).
+2025-11-23 09:05:15.773 M@rcin joined the game
+2025-11-23 09:05:15.999 dataS/character/playerM/jacket/topAviatorJacket.i3d (26.31 ms)
+2025-11-23 09:05:16.000 dataS/character/playerM/attachments/glassesAviators.i3d (1.42 ms)
+2025-11-23 09:05:16.042 dataS/character/playerM/hairStyles/hairStyleDiablo.i3d (41.39 ms)
+2025-11-23 09:05:16.043 dataS/character/playerM/facialHair/mHead01/beardStubble.i3d (1.49 ms)
+2025-11-23 09:12:51.490 M@rcin left the game
+2025-11-23 09:21:36.019 Game saved successfully (savegame1).
