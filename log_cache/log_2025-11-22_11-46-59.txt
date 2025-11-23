@@ -15227,3 +15227,10 @@ dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to i
 2025-11-23 19:24:42.723 dataS/character/playerM/shoes/sandalM03.i3d (1.53 ms)
 2025-11-23 19:24:42.723 dataS/character/playerM/hairStyles/hairStyleBald.i3d (0.38 ms)
 2025-11-23 19:29:20.077 symonixprime lost connection to the game
+2025-11-23 19:38:09.964 Błażej left the game
+2025-11-23 19:42:10.251 Jolero joined the game
+2025-11-23 19:42:10.272 dataS/character/playerM/shirts/topTShirt01.i3d (2.54 ms)
+2025-11-23 19:42:10.308 dataS/character/playerM/hairStyles/hairStyleTopKnot.i3d (35.80 ms)
+2025-11-23 19:42:10.332 dataS/character/playerM/facialHair/mHead01/goatee01.i3d (23.73 ms)
+2025-11-23 19:44:15.772   Info: [Easy Development Controls] User Jolero has logged in as master user.
+2025-11-23 19:44:40.504   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Ford 8930'
