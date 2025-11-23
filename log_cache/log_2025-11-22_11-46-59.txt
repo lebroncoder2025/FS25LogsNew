@@ -15308,3 +15308,6 @@ dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to i
 2025-11-23 21:22:50.729 dataS/character/playerM/hairStyles/hairStyleMullet.i3d (34.78 ms)
 2025-11-23 21:22:50.740 dataS/character/playerM/facialHair/mHead02/trimmedBeard.i3d (11.40 ms)
 2025-11-23 21:23:21.592 Game saved successfully (savegame1).
+2025-11-23 21:30:06.336 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Big_Bud_747_16V/i3d/BigBud_747.i3d (396.89 ms)
+2025-11-23 21:30:06.627 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Big_Bud_747_16V/i3d/Ruedas_BigBud.i3d (99.82 ms)
+2025-11-23 21:34:29.971   Info: Successfully set fill unit 1 of Case IH AF11 to Soybeans with a fill level of 20,000 liters.
