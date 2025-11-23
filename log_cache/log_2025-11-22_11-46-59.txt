@@ -6029,3 +6029,16 @@ LUA call stack:
 2025-11-23 09:05:16.043 dataS/character/playerM/facialHair/mHead01/beardStubble.i3d (1.49 ms)
 2025-11-23 09:12:51.490 M@rcin left the game
 2025-11-23 09:21:36.019 Game saved successfully (savegame1).
+2025-11-23 09:34:41.703 hubsonwaliszot joined the game
+2025-11-23 09:34:41.919 dataS/character/playerM/pants/botJeanShorts.i3d (17.26 ms)
+2025-11-23 09:34:41.943 dataS/character/playerM/heads/mHead02.i3d (24.20 ms)
+2025-11-23 09:34:42.318 dataS/character/playerM/shirts/poettinger/poettingerTshirt.i3d (374.52 ms)
+2025-11-23 09:34:42.378 dataS/character/playerM/gloves/strauss/glovesEsTrailLight02.i3d (60.50 ms)
+2025-11-23 09:34:42.436 dataS/character/playerM/attachments/hatWoolen.i3d (58.30 ms)
+2025-11-23 09:34:42.438 dataS/character/playerM/attachments/glassesAviators.i3d (1.64 ms)
+2025-11-23 09:34:42.477 dataS/character/playerM/hairStyles/hairStyleMullet.i3d (38.10 ms)
+2025-11-23 09:34:42.489 dataS/character/playerM/facialHair/mHead02/trimmedBeard.i3d (12.12 ms)
+2025-11-23 09:41:44.759 siwa joined the game
+2025-11-23 09:41:44.811 dataS/character/playerM/pants/volvo/volvoPants.i3d (32.85 ms)
+2025-11-23 09:41:44.819 dataS/character/playerM/shirts/volvo/volvoTshirt.i3d (8.30 ms)
+2025-11-23 09:41:44.821 dataS/character/playerM/attachments/glassesSports01.i3d (1.72 ms)
