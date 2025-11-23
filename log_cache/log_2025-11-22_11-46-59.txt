@@ -15022,3 +15022,15 @@ dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to i
 2025-11-23 14:21:47.242   Info: The condition of Fendt 728 Vario Chip 330 and all connected implements updated.
 2025-11-23 14:21:49.033   Info: The condition of Fendt 728 Vario Chip 330 and all connected implements updated.
 2025-11-23 14:22:38.646 Game saved successfully (savegame1).
+2025-11-23 14:29:58.401 dataS/character/playerM/heads/mHead05.i3d (200.25 ms)
+2025-11-23 14:29:58.496 dataS/character/playerM/shirts/zipNeckPullover.i3d (95.76 ms)
+2025-11-23 14:29:58.531 dataS/character/playerM/hairStyles/hairStyleManBun.i3d (34.56 ms)
+2025-11-23 14:29:58.541 dataS/character/playerM/facialHair/mHead05/goatee02.i3d (10.15 ms)
+2025-11-23 14:33:27.676 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_RounderWrappedRoundbales/assets/roundbale150/roundbale150.i3d (1.98 ms)
+2025-11-23 14:34:51.931   Info: No 'ExhaustExtension' particle system added to vehicle 'Kärcher HDS 9/18-4 M' because it has no exhaust
+2025-11-23 14:35:12.590   Info: Moved 3 vehicles to coordinates 620, 833 successfully.
+2025-11-23 14:35:16.806   Info: Moved 3 vehicles to coordinates 630, 836 successfully.
+2025-11-23 14:36:35.997   Info: Successfully emptied fill unit 1 of SILOKING TrailedLine 4.0 System 1000+.
+2025-11-23 14:36:39.349   Info: Successfully emptied fill unit 1 of SILOKING TrailedLine 4.0 System 1000+.
+2025-11-23 14:36:47.394   Info: Successfully set fill unit 1 of SILOKING TrailedLine 4.0 System 1000+ to Total Mixed Ration with a fill level of 45,000 liters.
+2025-11-23 14:37:10.944 symonixprime lost connection to the game
