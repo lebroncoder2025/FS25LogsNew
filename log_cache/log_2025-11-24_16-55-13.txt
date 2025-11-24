@@ -6013,3 +6013,60 @@ dataS/scripts/placeables/specializations/PlaceableObjectStorage.lua:388: attempt
 2025-11-24 22:34:01.747 data/objects/pallets/fermentedNapaCabbageBoxPallet/fermentedNapaCabbageBoxPallet.i3d (11.83 ms)
 2025-11-24 22:34:01.757 data/objects/pallets/preservedFoodBeetRootPallet/preservedFoodBeetRootPallet.i3d (9.31 ms)
 2025-11-24 22:37:18.182   Info: Successfully removed 27 pallets from the map.
+2025-11-24 22:41:15.475   Info: Moved player to coordinates 1514, 1566 successfully.
+2025-11-24 22:41:17.831 dataS/character/playerM/pants/botLeather.i3d (18.36 ms)
+2025-11-24 22:41:17.863 dataS/character/playerM/jacket/topVest.i3d (31.87 ms)
+2025-11-24 22:41:17.899 dataS/character/playerM/hairStyles/hairStyleFringe.i3d (35.86 ms)
+2025-11-24 22:41:33.269 dataS/character/playerF/pants/botChinos.i3d (3.80 ms)
+2025-11-24 22:41:33.473 dataS/character/playerF/heads/fHead04.i3d (204.03 ms)
+2025-11-24 22:41:33.493 dataS/character/playerF/jacket/topAviatorJacket.i3d (19.67 ms)
+2025-11-24 22:41:33.573 dataS/character/playerF/shoes/laceUpSneaker.i3d (80.79 ms)
+2025-11-24 22:41:33.612 dataS/character/playerF/hairStyles/hairStylePonyTail01.i3d (38.05 ms)
+2025-11-24 22:42:44.715 data/placeables/brandless/fences/AS/fence04/fence04.i3d (59.65 ms)
+2025-11-24 22:42:46.769 data/placeables/brandless/fences/AS/fence03/fence03.i3d (2.34 ms)
+2025-11-24 22:43:31.515 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Tarpaulin/i3d/tarpaulinBlueStorageSmall.i3d (3.75 ms)
+2025-11-24 22:43:58.607 data/objects/pallets/ropePallet/ropePallet.i3d (1.69 ms)
+2025-11-24 22:43:58.662 data/objects/pallets/shared/euroPallet/euroPallet.i3d (1.27 ms)
+2025-11-24 22:43:58.685   Info: Adding pallet.
+2025-11-24 22:43:58.913 data/objects/pallets/ropePallet/ropePallet.i3d (1.73 ms)
+2025-11-24 22:43:58.973 data/objects/pallets/shared/euroPallet/euroPallet.i3d (1.28 ms)
+2025-11-24 22:43:58.996   Info: Adding pallet.
+2025-11-24 22:43:59.174 data/objects/pallets/ropePallet/ropePallet.i3d (1.68 ms)
+2025-11-24 22:43:59.239 data/objects/pallets/shared/euroPallet/euroPallet.i3d (1.24 ms)
+2025-11-24 22:43:59.256   Info: Adding pallet.
+2025-11-24 22:43:59.518 data/objects/pallets/ropePallet/ropePallet.i3d (1.60 ms)
+2025-11-24 22:43:59.574 data/objects/pallets/shared/euroPallet/euroPallet.i3d (1.27 ms)
+2025-11-24 22:43:59.600   Info: Adding pallet.
+2025-11-24 22:43:59.856 data/objects/pallets/ropePallet/ropePallet.i3d (1.86 ms)
+2025-11-24 22:43:59.924 data/objects/pallets/shared/euroPallet/euroPallet.i3d (1.30 ms)
+2025-11-24 22:43:59.940   Info: Adding pallet.
+2025-11-24 22:44:00.051 data/objects/pallets/ropePallet/ropePallet.i3d (1.63 ms)
+2025-11-24 22:44:00.112 data/objects/pallets/shared/euroPallet/euroPallet.i3d (1.24 ms)
+2025-11-24 22:44:00.137   Info: Adding pallet.
+2025-11-24 22:44:00.199 data/objects/pallets/ropePallet/ropePallet.i3d (1.81 ms)
+2025-11-24 22:44:00.270 data/objects/pallets/shared/euroPallet/euroPallet.i3d (1.27 ms)
+2025-11-24 22:44:00.287   Info: Adding pallet.
+2025-11-24 22:44:01.333 data/objects/pallets/ropePallet/ropePallet.i3d (1.82 ms)
+2025-11-24 22:44:01.390 data/objects/pallets/shared/euroPallet/euroPallet.i3d (1.33 ms)
+2025-11-24 22:53:03.651 dataS/character/playerM/fullBody/onePieceMechanic.i3d (30.67 ms)
+2025-11-24 22:53:03.669 dataS/character/playerM/shoes/riding.i3d (17.51 ms)
+2025-11-24 22:53:03.706 dataS/character/playerM/hairStyles/hairStyleUnkempt.i3d (37.00 ms)
+2025-11-24 22:53:03.721 dataS/character/playerM/facialHair/mHead02/goatee01.i3d (14.61 ms)
+2025-11-24 22:54:03.624   Info: Moved 3 vehicles to coordinates 1660, 1376 successfully.
+2025-11-24 22:54:14.724 Piotrek lost connection to the game
+2025-11-24 22:56:04.772   Info: Added € 50,000 to farm account. (3)
+2025-11-24 22:57:02.443   Info: Successfully set fill unit 1 of Wielton Wielton bulk master to Flax with a fill level of 63,000 liters.
+2025-11-24 22:57:06.788 data/objects/pallets/lettuceBoxPallet/lettuceBoxPallet.i3d (6.48 ms)
+2025-11-24 22:57:06.867 data/objects/pallets/shared/euroPallet/euroPallet.i3d (1.26 ms)
+2025-11-24 22:57:34.917 data/objects/pallets/fermentedNapaCabbageBoxPallet/fermentedNapaCabbageBoxPallet.i3d (12.94 ms)
+2025-11-24 22:57:46.519 Game saved successfully (savegame1).
+2025-11-24 22:58:49.415   Info: Moved player to coordinates 1681, 1440 successfully.
+2025-11-24 22:58:59.134   Info: Moved 3 vehicles to coordinates 1668, 1682 successfully.
+2025-11-24 22:59:05.182   Info: Moved 3 vehicles to coordinates 1621, 1632 successfully.
+2025-11-24 22:59:55.376   Info: Moved 3 vehicles to coordinates 1762, 1410 successfully.
+2025-11-24 23:00:24.505   Info: Successfully set fill unit 1 of Wielton Wielton bulk master to Flax with a fill level of 63,000 liters.
+2025-11-24 23:03:19.524 hubsonwaliszot left the game
+2025-11-24 23:03:59.102 Jolero left the game
+2025-11-24 23:04:03.209 Game saved successfully (savegame1).
+2025-11-24 23:09:37.231 data/objects/pallets/preservedFoodBeetRootPallet/preservedFoodBeetRootPallet.i3d (9.29 ms)
+2025-11-24 23:19:20.391 data/objects/pallets/ropePallet/ropePallet.i3d (1.70 ms)
