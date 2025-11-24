@@ -15670,3 +15670,22 @@ dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to i
 2025-11-24 11:43:44.453 dataS/character/playerF/jacket/topVest.i3d (24.60 ms)
 2025-11-24 11:43:44.456 dataS/character/playerF/shoes/workboot02.i3d (3.12 ms)
 2025-11-24 11:43:44.491 dataS/character/playerF/hairStyles/hairStylePonyTail03.i3d (34.50 ms)
+2025-11-24 11:54:12.362 dataS/character/playerF/pants/botYogaPants.i3d (10.71 ms)
+2025-11-24 11:56:13.585 Game saved successfully (savegame1).
+2025-11-24 11:58:04.279 dataS/character/playerF/pants/botChinos.i3d (13.20 ms)
+2025-11-24 11:58:04.388 dataS/character/playerF/heads/fHead06.i3d (108.79 ms)
+2025-11-24 11:58:04.442 dataS/character/playerF/shirts/topBlouse.i3d (53.34 ms)
+2025-11-24 11:58:04.444 dataS/character/playerF/shoes/sneaker01.i3d (2.79 ms)
+2025-11-24 11:58:04.481 dataS/character/playerF/hairStyles/hairStyleMidSideParted.i3d (35.74 ms)
+2025-11-24 12:06:39.843 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_NewHolland_t7HD_edition/newHolland_t7.i3d (518.21 ms)
+2025-11-24 12:06:40.073 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_NewHolland_t7HD_edition/wheels/riceTires.i3d (76.89 ms)
+2025-11-24 12:06:40.119 data/shared/assets/lights/lizard/workingLight48.i3d (2.42 ms)
+2025-11-24 12:06:40.189 data/shared/assets/upperLinks/walterscheidHO_110_735.i3d (3.88 ms)
+2025-11-24 12:07:41.962   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'New Holland T7.275 HD'
+2025-11-24 12:11:56.390 data/shared/wheels/tires/trelleborg/TM900/710_60R34.i3d (3.40 ms)
+2025-11-24 12:11:56.392 data/shared/wheels/tires/trelleborg/TM900/900_60R42.i3d (2.18 ms)
+2025-11-24 12:12:00.678   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'New Holland T7.315 HD'
+2025-11-24 12:15:25.905 dataS/character/playerM/heads/mHead05.i3d (193.62 ms)
+2025-11-24 12:15:25.999 dataS/character/playerM/shirts/zipNeckPullover.i3d (94.43 ms)
+2025-11-24 12:15:26.033 dataS/character/playerM/hairStyles/hairStyleManBun.i3d (33.50 ms)
+2025-11-24 12:15:26.043 dataS/character/playerM/facialHair/mHead05/goatee02.i3d (9.87 ms)
