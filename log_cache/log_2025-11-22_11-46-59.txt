@@ -15664,3 +15664,9 @@ dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to i
 2025-11-24 11:26:07.227 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_mrhHandLiftableConsumables/bagsStack/bagsStack.i3d (29.03 ms)
 2025-11-24 11:26:09.001 Game saved successfully (savegame1).
 2025-11-24 11:26:30.649 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.60 ms)
+2025-11-24 11:29:01.483 dataS/character/playerM/pants/botLeather.i3d (17.46 ms)
+2025-11-24 11:29:01.677 dataS/character/playerM/heads/mHead03.i3d (193.62 ms)
+2025-11-24 11:43:44.428 dataS/character/playerF/pants/botCargo.i3d (17.52 ms)
+2025-11-24 11:43:44.453 dataS/character/playerF/jacket/topVest.i3d (24.60 ms)
+2025-11-24 11:43:44.456 dataS/character/playerF/shoes/workboot02.i3d (3.12 ms)
+2025-11-24 11:43:44.491 dataS/character/playerF/hairStyles/hairStylePonyTail03.i3d (34.50 ms)
