@@ -15958,3 +15958,16 @@ dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to i
 2025-11-24 16:40:12.244 dataS/character/playerM/attachments/glassesAviators.i3d (1.84 ms)
 2025-11-24 16:40:12.285 dataS/character/playerM/hairStyles/hairStyleDiablo.i3d (39.91 ms)
 2025-11-24 16:40:12.287 dataS/character/playerM/facialHair/mHead01/beardStubble.i3d (1.37 ms)
+2025-11-24 16:43:59.626 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_RounderWrappedRoundbales/assets/roundbale150/roundbale150.i3d (8.58 ms)
+2025-11-24 16:49:23.133 Warning: Send called with unknown target address.
+2025-11-24 16:49:23.144 siwa left the game
+2025-11-24 16:49:34.034 M@rcin lost connection to the game
+2025-11-24 16:49:40.682 Piotrek lost connection to the game
+2025-11-24 16:50:58.466   Info: Successfully removed 34 bales from the map.
+2025-11-24 16:50:59.917   Info: Successfully removed 31 pallets from the map.
+2025-11-24 16:51:00.344 data/objects/pallets/lettuceBoxPallet/lettuceBoxPallet.i3d (7.44 ms)
+2025-11-24 16:51:00.407 data/objects/pallets/shared/euroPallet/euroPallet.i3d (1.36 ms)
+2025-11-24 16:51:03.559 Warning: Saving while already saving
+2025-11-24 16:51:04.549 Warning: Saving while already saving
+2025-11-24 16:51:05.796 Game saved successfully (savegame1).
+2025-11-24 16:51:22.936 Game saved successfully (savegame1).
