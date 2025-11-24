@@ -15554,3 +15554,5 @@ dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to i
 2025-11-24 09:28:56.791 dataS/character/playerM/attachments/glassesAviators.i3d (1.54 ms)
 2025-11-24 09:28:56.828 dataS/character/playerM/hairStyles/hairStyleMullet.i3d (37.47 ms)
 2025-11-24 09:28:56.868 dataS/character/playerM/facialHair/mHead02/trimmedBeard.i3d (12.16 ms)
+2025-11-24 09:40:10.216 data/objects/pallets/preservedFoodBeetRootPallet/preservedFoodBeetRootPallet.i3d (9.55 ms)
+2025-11-24 09:44:49.440 Piotrek lost connection to the game
