@@ -5718,3 +5718,15 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-24 19:17:44.639 dataS/character/playerM/shirts/volvo/volvoTshirt.i3d (6.45 ms)
 2025-11-24 19:17:44.641 dataS/character/playerM/attachments/glassesSports01.i3d (2.06 ms)
 2025-11-24 19:27:12.372 Game saved successfully (savegame1).
+2025-11-24 19:37:02.989 Piotrek lost connection to the game
+2025-11-24 19:37:11.917 data/objects/bigBag/bigBag.i3d (4.70 ms)
+2025-11-24 19:38:03.752 Piotrek joined the game
+2025-11-24 19:38:03.783 dataS/character/playerM/pants/botChinos.i3d (13.88 ms)
+2025-11-24 19:38:03.865 dataS/character/playerM/shirts/strauss/straussTShirtMerino.i3d (81.68 ms)
+2025-11-24 19:38:03.870 dataS/character/playerM/gloves/glovesGeneric.i3d (5.14 ms)
+2025-11-24 19:38:03.870 dataS/character/playerM/hairStyles/hairStyleBald.i3d (0.28 ms)
+2025-11-24 19:39:04.710   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'JCB AgriPro'
+2025-11-24 19:43:19.567 data/objects/pallets/fermentedNapaCabbageBoxPallet/fermentedNapaCabbageBoxPallet.i3d (12.60 ms)
+2025-11-24 19:43:52.883 data/objects/pallets/preservedFoodBeetRootPallet/preservedFoodBeetRootPallet.i3d (10.41 ms)
+2025-11-24 19:43:52.898 data/objects/pallets/fermentedNapaCabbageBoxPallet/fermentedNapaCabbageBoxPallet.i3d (14.58 ms)
+2025-11-24 19:48:12.822 Figuana joined the game
