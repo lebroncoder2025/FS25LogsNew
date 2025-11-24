@@ -5594,3 +5594,11 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-24 18:19:17.701 dataS/character/playerM/shirts/zipNeckPullover.i3d (100.28 ms)
 2025-11-24 18:19:17.736 dataS/character/playerM/hairStyles/hairStyleManBun.i3d (35.26 ms)
 2025-11-24 18:19:17.747 dataS/character/playerM/facialHair/mHead05/goatee02.i3d (10.41 ms)
+2025-11-24 18:22:29.509   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Fendt 1067 Vario'
+2025-11-24 18:22:34.370 hubsonwaliszot left the game
+2025-11-24 18:27:05.228 Game saved successfully (savegame1).
+2025-11-24 18:31:30.388 M@rcin joined the game
+2025-11-24 18:31:30.423 dataS/character/playerM/jacket/topAviatorJacket.i3d (19.58 ms)
+2025-11-24 18:31:30.459 dataS/character/playerM/hairStyles/hairStyleDiablo.i3d (35.22 ms)
+2025-11-24 18:35:12.828   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Fendt 832 Vario Gen5 - 60km/h'
+2025-11-24 18:39:09.101   Info: Savegame Setting 'fruitDesctructionEnabled': false
