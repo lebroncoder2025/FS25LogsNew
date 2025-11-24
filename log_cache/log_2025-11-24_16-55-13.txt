@@ -5767,3 +5767,55 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-24 20:28:36.597   Info: Adding pallet.
 2025-11-24 20:28:51.335 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_lsfmBigBagPack/objects/bigBag/bigBag.i3d (4.91 ms)
 2025-11-24 20:29:08.772 data/objects/pallets/preservedFoodBeetRootPallet/preservedFoodBeetRootPallet.i3d (10.09 ms)
+2025-11-24 20:34:11.722 dataS/character/playerM/jacket/topDenimJacket.i3d (24.03 ms)
+2025-11-24 20:34:11.757 dataS/character/playerM/hairStyles/hairStyleMidParted01.i3d (35.17 ms)
+2025-11-24 20:37:37.595   Info: No 'ExhaustExtension' particle system added to vehicle 'Jungheinrich EFG S50 Pro' because it has no exhaust
+2025-11-24 20:38:20.449 data/shared/assets/reflectors/lizard/yellowRound_02.i3d (1.15 ms)
+2025-11-24 20:38:20.475 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_AgroLogistics/logiTrailer.i3d (57.33 ms)
+2025-11-24 20:40:54.260   Info: Successfully set fill unit 1 of SILOKING TrailedLine 4.0 System 1000+ to Forage streched with a fill level of 45,000 liters.
+2025-11-24 20:47:06.235   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'MAN TGX 18.880'
+2025-11-24 20:47:39.861 Błażej lost connection to the game
+2025-11-24 20:49:02.466 siwa left the game
+2025-11-24 20:49:44.103 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_slurryTanks/extention.i3d (1.37 ms)
+2025-11-24 20:50:11.351 M@rcin lost connection to the game
+2025-11-24 20:50:15.235 Piotrek lost connection to the game
+2025-11-24 20:50:27.195 Figuana lost connection to the game
+2025-11-24 20:50:54.658 zwierek lost connection to the game
+2025-11-24 20:57:36.857 Game saved successfully (savegame1).
+2025-11-24 21:12:28.974 Jolero joined the game
+2025-11-24 21:12:29.175 dataS/character/playerM/shirts/topTShirt01.i3d (2.51 ms)
+2025-11-24 21:12:29.211 dataS/character/playerM/hairStyles/hairStyleTopKnot.i3d (35.92 ms)
+2025-11-24 21:12:29.231 dataS/character/playerM/facialHair/mHead01/goatee01.i3d (20.24 ms)
+2025-11-24 21:13:35.465   Info: [Easy Development Controls] User Jolero has logged in as master user.
+2025-11-24 21:14:44.493   Info: Moved 2 vehicles to coordinates 1441, 1417 successfully.
+2025-11-24 21:15:07.131 dataS/character/playerF/pants/botChinos.i3d (14.18 ms)
+2025-11-24 21:15:07.335 dataS/character/playerF/heads/fHead04.i3d (204.39 ms)
+2025-11-24 21:15:07.355 dataS/character/playerF/jacket/topAviatorJacket.i3d (19.54 ms)
+2025-11-24 21:15:07.436 dataS/character/playerF/shoes/laceUpSneaker.i3d (80.96 ms)
+2025-11-24 21:15:07.473 dataS/character/playerF/hairStyles/hairStylePonyTail01.i3d (37.64 ms)
+2025-11-24 21:16:03.298   Info: Moved 2 vehicles to coordinates 1461, 1553 successfully.
+2025-11-24 21:16:37.673 dataS/character/playerF/pants/botJeansCapris.i3d (21.63 ms)
+2025-11-24 21:16:37.877 dataS/character/playerF/heads/fHead03.i3d (204.28 ms)
+2025-11-24 21:16:37.928 dataS/character/playerF/shirts/topTankTop.i3d (51.32 ms)
+2025-11-24 21:16:37.931 dataS/character/playerF/shoes/sneaker01.i3d (2.89 ms)
+2025-11-24 21:17:32.936 Błażej joined the game
+2025-11-24 21:17:33.050 dataS/character/playerM/shoes/sportSneaker.i3d (97.69 ms)
+2025-11-24 21:17:33.088 dataS/character/playerM/hairStyles/hairStyleFringe.i3d (37.42 ms)
+2025-11-24 21:23:04.994 Piotrek joined the game
+2025-11-24 21:23:05.014 dataS/character/playerM/pants/botChinos.i3d (3.98 ms)
+2025-11-24 21:23:05.095 dataS/character/playerM/shirts/strauss/straussTShirtMerino.i3d (80.98 ms)
+2025-11-24 21:23:05.100 dataS/character/playerM/gloves/glovesGeneric.i3d (5.10 ms)
+2025-11-24 21:23:05.197 dataS/character/playerM/shoes/sandalM03.i3d (97.03 ms)
+2025-11-24 21:23:05.198 dataS/character/playerM/hairStyles/hairStyleBald.i3d (0.31 ms)
+2025-11-24 21:23:09.969 M@rcin joined the game
+2025-11-24 21:23:09.991 dataS/character/playerM/jacket/topAviatorJacket.i3d (5.01 ms)
+2025-11-24 21:23:09.992 dataS/character/playerM/attachments/glassesAviators.i3d (1.53 ms)
+2025-11-24 21:23:10.027 dataS/character/playerM/hairStyles/hairStyleDiablo.i3d (35.10 ms)
+2025-11-24 21:23:10.029 dataS/character/playerM/facialHair/mHead01/beardStubble.i3d (1.52 ms)
+2025-11-24 21:24:26.397   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'New Holland 8340'
+2025-11-24 21:24:44.252 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_LSAM/LS540.i3d (43.88 ms)
+2025-11-24 21:24:44.421 data/shared/assets/lights/lizard/rearLight26.i3d (5.77 ms)
+2025-11-24 21:24:50.155   Info: Added € 170,000 to farm account. (1)
+2025-11-24 21:26:16.029 dataS/character/animals/domesticated/pig/piglet/pigPiglet_posed.i3d (8.86 ms)
+2025-11-24 21:26:20.747 dataS/character/animals/domesticated/pig/piglet/pigPiglet_posed.i3d (8.60 ms)
+2025-11-24 21:26:20.750 dataS/character/animals/domesticated/pig/sow/pigSow_posed.i3d (2.33 ms)
