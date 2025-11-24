@@ -5850,3 +5850,75 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-24 21:38:33.449 dataS/character/playerM/shoes/riding.i3d (17.54 ms)
 2025-11-24 21:38:33.487 dataS/character/playerM/hairStyles/hairStyleUnkempt.i3d (37.54 ms)
 2025-11-24 21:38:33.501 dataS/character/playerM/facialHair/mHead02/goatee01.i3d (14.47 ms)
+2025-11-24 21:39:48.496 hubsonwaliszot joined the game
+2025-11-24 21:39:48.532 dataS/character/playerM/pants/botJeanShorts.i3d (17.47 ms)
+2025-11-24 21:39:48.835 dataS/character/playerM/shirts/poettinger/poettingerTshirt.i3d (302.56 ms)
+2025-11-24 21:39:48.886 dataS/character/playerM/gloves/strauss/glovesEsTrailLight02.i3d (51.32 ms)
+2025-11-24 21:39:48.935 dataS/character/playerM/attachments/hatWoolen.i3d (48.52 ms)
+2025-11-24 21:39:48.972 dataS/character/playerM/hairStyles/hairStyleMullet.i3d (37.26 ms)
+2025-11-24 21:39:49.028 dataS/character/playerM/facialHair/mHead02/trimmedBeard.i3d (11.75 ms)
+2025-11-24 21:40:49.268 dataS/character/animals/domesticated/pig/sow/pigSow_posed.i3d (2.40 ms)
+2025-11-24 21:44:27.755 dataS/character/animals/domesticated/pig/sow/pigSow_posed.i3d (2.39 ms)
+2025-11-24 21:47:04.192 data/placeables/brandless/fences/EU/fence01/fence01.i3d (4.78 ms)
+2025-11-24 21:49:08.325 data/shared/assets/reflectors/lizard/yellowRound_02.i3d (1.09 ms)
+2025-11-24 21:49:08.359 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_AgroLogistics/storage.i3d (61.97 ms)
+2025-11-24 21:49:08.430   Warning: Server:registerObject() object table: 0x000001eb4b900868 2188 Placeable already registered
+2025-11-24 21:49:08.504 Error: Running LUA method 'update'.
+dataS/scripts/placeables/specializations/PlaceableObjectStorage.lua:388: attempt to index nil with 'isActive'
+2025-11-24 21:49:08.512   Warning: Server:registerObject() object table: 0x000001eb2fc91f48 2189 Placeable already registered
+2025-11-24 21:49:08.530   Warning: Server:registerObject() object table: 0x000001eb2fedecb8 2190 Placeable already registered
+2025-11-24 21:49:08.807   Warning: Server:registerObject() object table: 0x000001eb37350f68 2191 Placeable already registered
+2025-11-24 21:57:37.893 Game saved successfully (savegame1).
+2025-11-24 22:05:14.941 data/objects/pallets/preservedFoodBeetRootPallet/preservedFoodBeetRootPallet.i3d (9.08 ms)
+2025-11-24 22:05:14.954 data/objects/pallets/fermentedNapaCabbageBoxPallet/fermentedNapaCabbageBoxPallet.i3d (13.16 ms)
+2025-11-24 22:06:06.681   Info: Moved player to coordinates 1780, 1263 successfully.
+2025-11-24 22:06:11.824 dataS/character/playerM/jacket/topDenimJacket.i3d (23.99 ms)
+2025-11-24 22:06:11.859 dataS/character/playerM/hairStyles/hairStyleMidParted01.i3d (34.89 ms)
+2025-11-24 22:06:18.399 dataS/character/playerF/pants/botCargo.i3d (18.65 ms)
+2025-11-24 22:06:18.425 dataS/character/playerF/jacket/topVest.i3d (25.80 ms)
+2025-11-24 22:06:18.428 dataS/character/playerF/shoes/workboot02.i3d (3.23 ms)
+2025-11-24 22:06:18.464 dataS/character/playerF/hairStyles/hairStylePonyTail03.i3d (35.98 ms)
+2025-11-24 22:06:50.452 data/objects/pallets/preservedFoodBeetRootPallet/preservedFoodBeetRootPallet.i3d (9.02 ms)
+2025-11-24 22:06:51.587 data/objects/pallets/fermentedNapaCabbageBoxPallet/fermentedNapaCabbageBoxPallet.i3d (12.11 ms)
+2025-11-24 22:06:54.362 dataS/character/playerF/pants/botYogaPants.i3d (11.40 ms)
+2025-11-24 22:06:54.478 dataS/character/playerF/heads/fHead02.i3d (115.50 ms)
+2025-11-24 22:06:54.529 dataS/character/playerF/shirts/topTankTop.i3d (51.59 ms)
+2025-11-24 22:06:54.628 dataS/character/playerF/shoes/sportSneaker.i3d (97.82 ms)
+2025-11-24 22:06:54.664 dataS/character/playerF/hairStyles/hairStyleLongSideParted.i3d (36.38 ms)
+2025-11-24 22:07:24.555 data/objects/pallets/fermentedNapaCabbageBoxPallet/fermentedNapaCabbageBoxPallet.i3d (11.50 ms)
+2025-11-24 22:08:07.366   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'STEYR 8130 Super Elite'
+2025-11-24 22:09:36.038 data/objects/pallets/fermentedNapaCabbageBoxPallet/fermentedNapaCabbageBoxPallet.i3d (11.86 ms)
+2025-11-24 22:09:39.648 data/objects/pallets/fermentedNapaCabbageBoxPallet/fermentedNapaCabbageBoxPallet.i3d (12.34 ms)
+2025-11-24 22:09:42.657 data/objects/pallets/fermentedNapaCabbageBoxPallet/fermentedNapaCabbageBoxPallet.i3d (12.18 ms)
+2025-11-24 22:10:12.979 data/objects/pallets/fermentedNapaCabbageBoxPallet/fermentedNapaCabbageBoxPallet.i3d (12.69 ms)
+2025-11-24 22:14:22.946 data/placeables/unia/farma/farma800/farma800.i3d (14.70 ms)
+2025-11-24 22:14:47.561 M@rcin lost connection to the game
+2025-11-24 22:14:56.640   Info: Added € 300,000 to farm account. (1)
+2025-11-24 22:16:56.009   Info: Super Strength enabled by Jolero
+2025-11-24 22:18:27.263 data/objects/pallets/fermentedNapaCabbageBoxPallet/fermentedNapaCabbageBoxPallet.i3d (12.10 ms)
+2025-11-24 22:18:27.348   Info: Adding pallet.
+2025-11-24 22:18:27.454   Info: Adding pallet.
+2025-11-24 22:19:54.691 data/objects/pallets/fermentedNapaCabbageBoxPallet/fermentedNapaCabbageBoxPallet.i3d (14.33 ms)
+2025-11-24 22:20:02.527 data/objects/pallets/fermentedNapaCabbageBoxPallet/fermentedNapaCabbageBoxPallet.i3d (11.89 ms)
+2025-11-24 22:20:02.609   Info: Adding pallet.
+2025-11-24 22:20:02.716   Info: Adding pallet.
+2025-11-24 22:20:02.851   Info: Adding pallet.
+2025-11-24 22:20:02.985   Info: Adding pallet.
+2025-11-24 22:20:03.099   Info: Adding pallet.
+2025-11-24 22:20:42.117 data/objects/pallets/fermentedNapaCabbageBoxPallet/fermentedNapaCabbageBoxPallet.i3d (12.26 ms)
+2025-11-24 22:21:04.046 data/objects/pallets/fermentedNapaCabbageBoxPallet/fermentedNapaCabbageBoxPallet.i3d (11.90 ms)
+2025-11-24 22:21:04.128   Info: Adding pallet.
+2025-11-24 22:21:04.272   Info: Adding pallet.
+2025-11-24 22:21:04.490   Info: Adding pallet.
+2025-11-24 22:21:04.658   Info: Adding pallet.
+2025-11-24 22:21:04.853   Info: Adding pallet.
+2025-11-24 22:21:05.043   Info: Adding pallet.
+2025-11-24 22:21:05.210   Info: Adding pallet.
+2025-11-24 22:21:05.384   Info: Adding pallet.
+2025-11-24 22:21:05.571   Info: Adding pallet.
+2025-11-24 22:21:05.705   Info: Adding pallet.
+2025-11-24 22:21:05.879   Info: Adding pallet.
+2025-11-24 22:21:05.978   Info: Adding pallet.
+2025-11-24 22:21:06.115   Info: Adding pallet.
+2025-11-24 22:21:06.233   Info: Adding pallet.
+2025-11-24 22:21:06.385   Info: Adding pallet.
