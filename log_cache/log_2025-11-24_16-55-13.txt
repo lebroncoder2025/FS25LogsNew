@@ -5602,3 +5602,119 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-24 18:31:30.459 dataS/character/playerM/hairStyles/hairStyleDiablo.i3d (35.22 ms)
 2025-11-24 18:35:12.828   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Fendt 832 Vario Gen5 - 60km/h'
 2025-11-24 18:39:09.101   Info: Savegame Setting 'fruitDesctructionEnabled': false
+2025-11-24 18:40:50.699   Info: Savegame Setting 'fruitDesctructionEnabled': true
+2025-11-24 18:46:44.465   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'John Deere 6195M Chiptuning 50km/h'
+2025-11-24 18:46:56.503 Błażej joined the game
+2025-11-24 18:46:56.522 dataS/character/playerM/shirts/topTShirt01.i3d (2.46 ms)
+2025-11-24 18:46:56.620 dataS/character/playerM/shoes/sportSneaker.i3d (97.66 ms)
+2025-11-24 18:46:56.656 dataS/character/playerM/hairStyles/hairStyleFringe.i3d (36.45 ms)
+2025-11-24 18:51:59.766   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Mercedes 1800 Tuning'
+2025-11-24 18:53:08.243   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'CLAAS Lexion 590'
+2025-11-24 18:54:34.254 Figuana joined the game
+2025-11-24 18:57:08.694 Game saved successfully (savegame1).
+2025-11-24 19:01:26.113 siwa left the game
+2025-11-24 19:05:32.798   Info: Adding bale.
+2025-11-24 19:05:33.188   Info: Adding bale.
+2025-11-24 19:05:33.516   Info: Adding bale.
+2025-11-24 19:05:36.797   Info: Adding bale.
+2025-11-24 19:05:37.325   Info: Adding bale.
+2025-11-24 19:05:37.822   Info: Adding bale.
+2025-11-24 19:05:38.302   Info: Adding bale.
+2025-11-24 19:05:38.778   Info: Adding bale.
+2025-11-24 19:05:39.275   Info: Adding bale.
+2025-11-24 19:05:39.757   Info: Adding bale.
+2025-11-24 19:05:40.289   Info: Adding bale.
+2025-11-24 19:05:40.462   Info: Adding bale.
+2025-11-24 19:05:40.811   Info: Adding bale.
+2025-11-24 19:05:40.962   Info: Adding bale.
+2025-11-24 19:05:41.097   Info: Adding bale.
+2025-11-24 19:05:41.251   Info: Adding bale.
+2025-11-24 19:05:41.365   Info: Adding bale.
+2025-11-24 19:05:41.571   Info: Adding bale.
+2025-11-24 19:05:41.744   Info: Adding bale.
+2025-11-24 19:05:41.938   Info: Adding bale.
+2025-11-24 19:05:42.090   Info: Adding bale.
+2025-11-24 19:05:42.935   Info: Adding bale.
+2025-11-24 19:05:43.312   Info: Adding bale.
+2025-11-24 19:05:43.619   Info: Adding bale.
+2025-11-24 19:05:43.933   Info: Adding bale.
+2025-11-24 19:05:44.182   Info: Adding bale.
+2025-11-24 19:05:44.484   Info: Adding bale.
+2025-11-24 19:05:44.769   Info: Adding bale.
+2025-11-24 19:05:45.016   Info: Adding bale.
+2025-11-24 19:05:45.303   Info: Adding bale.
+2025-11-24 19:05:45.566   Info: Adding bale.
+2025-11-24 19:05:51.320   Info: Adding bale.
+2025-11-24 19:05:51.600   Info: Adding bale.
+2025-11-24 19:05:51.855   Info: Adding bale.
+2025-11-24 19:05:52.130   Info: Adding bale.
+2025-11-24 19:05:52.400   Info: Adding bale.
+2025-11-24 19:05:52.669   Info: Adding bale.
+2025-11-24 19:05:52.914   Info: Adding bale.
+2025-11-24 19:05:53.181   Info: Adding bale.
+2025-11-24 19:05:53.402   Info: Adding bale.
+2025-11-24 19:05:53.667   Info: Adding bale.
+2025-11-24 19:05:53.931   Info: Adding bale.
+2025-11-24 19:05:54.157   Info: Adding bale.
+2025-11-24 19:05:54.401   Info: Adding bale.
+2025-11-24 19:05:54.651   Info: Adding bale.
+2025-11-24 19:05:54.862   Info: Adding bale.
+2025-11-24 19:05:55.091   Info: Adding bale.
+2025-11-24 19:05:55.385   Info: Adding bale.
+2025-11-24 19:05:55.616   Info: Adding bale.
+2025-11-24 19:05:55.829   Info: Adding bale.
+2025-11-24 19:05:56.056   Info: Adding bale.
+2025-11-24 19:05:56.324   Info: Adding bale.
+2025-11-24 19:05:56.531   Info: Adding bale.
+2025-11-24 19:05:56.910   Info: Adding bale.
+2025-11-24 19:05:57.151   Info: Adding bale.
+2025-11-24 19:05:57.347   Info: Adding bale.
+2025-11-24 19:05:57.613   Info: Adding bale.
+2025-11-24 19:05:57.837   Info: Adding bale.
+2025-11-24 19:05:58.033   Info: Adding bale.
+2025-11-24 19:05:58.207   Info: Adding bale.
+2025-11-24 19:05:58.437   Info: Adding bale.
+2025-11-24 19:05:58.663   Info: Adding bale.
+2025-11-24 19:05:58.870   Info: Adding bale.
+2025-11-24 19:05:59.078   Info: Adding bale.
+2025-11-24 19:05:59.305   Info: Adding bale.
+2025-11-24 19:05:59.537   Info: Adding bale.
+2025-11-24 19:05:59.769   Info: Adding bale.
+2025-11-24 19:05:59.965   Info: Adding bale.
+2025-11-24 19:06:00.210   Info: Adding bale.
+2025-11-24 19:06:00.423   Info: Adding bale.
+2025-11-24 19:06:00.626   Info: Adding bale.
+2025-11-24 19:06:00.853   Info: Adding bale.
+2025-11-24 19:06:01.107   Info: Adding bale.
+2025-11-24 19:06:01.289   Info: Adding bale.
+2025-11-24 19:06:01.528   Info: Adding bale.
+2025-11-24 19:06:01.740   Info: Adding bale.
+2025-11-24 19:06:01.956   Info: Adding bale.
+2025-11-24 19:06:02.185   Info: Adding bale.
+2025-11-24 19:06:02.428   Info: Adding bale.
+2025-11-24 19:06:02.626   Info: Adding bale.
+2025-11-24 19:06:02.791   Info: Adding bale.
+2025-11-24 19:06:03.051   Info: Adding bale.
+2025-11-24 19:06:03.267   Info: Adding bale.
+2025-11-24 19:06:03.495   Info: Adding bale.
+2025-11-24 19:06:03.708   Info: Adding bale.
+2025-11-24 19:06:03.921   Info: Adding bale.
+2025-11-24 19:06:04.168   Info: Adding bale.
+2025-11-24 19:06:04.360   Info: Adding bale.
+2025-11-24 19:06:04.554   Info: Adding bale.
+2025-11-24 19:06:04.798   Info: Adding bale.
+2025-11-24 19:06:04.993   Info: Adding bale.
+2025-11-24 19:06:05.196   Info: Adding bale.
+2025-11-24 19:06:05.385   Info: Adding bale.
+2025-11-24 19:06:43.419 Piotrek joined the game
+2025-11-24 19:06:43.449 dataS/character/playerM/pants/botChinos.i3d (13.96 ms)
+2025-11-24 19:06:43.531 dataS/character/playerM/shirts/strauss/straussTShirtMerino.i3d (81.34 ms)
+2025-11-24 19:06:43.536 dataS/character/playerM/gloves/glovesGeneric.i3d (5.25 ms)
+2025-11-24 19:06:43.536 dataS/character/playerM/hairStyles/hairStyleBald.i3d (0.29 ms)
+2025-11-24 19:07:35.381 Figuana left the game
+2025-11-24 19:15:41.137   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Fendt 728 Vario Chip 330'
+2025-11-24 19:17:44.589 siwa joined the game
+2025-11-24 19:17:44.633 dataS/character/playerM/pants/volvo/volvoPants.i3d (27.23 ms)
+2025-11-24 19:17:44.639 dataS/character/playerM/shirts/volvo/volvoTshirt.i3d (6.45 ms)
+2025-11-24 19:17:44.641 dataS/character/playerM/attachments/glassesSports01.i3d (2.06 ms)
+2025-11-24 19:27:12.372 Game saved successfully (savegame1).
