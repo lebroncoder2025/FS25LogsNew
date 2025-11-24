@@ -5730,3 +5730,16 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-24 19:43:52.883 data/objects/pallets/preservedFoodBeetRootPallet/preservedFoodBeetRootPallet.i3d (10.41 ms)
 2025-11-24 19:43:52.898 data/objects/pallets/fermentedNapaCabbageBoxPallet/fermentedNapaCabbageBoxPallet.i3d (14.58 ms)
 2025-11-24 19:48:12.822 Figuana joined the game
+2025-11-24 19:54:12.313   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Case IH 160 CVX'
+2025-11-24 19:55:53.108   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'MAN TGX 18.880'
+2025-11-24 19:55:57.921   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'JCB Fastrac 8330'
+2025-11-24 19:57:19.258 Game saved successfully (savegame1).
+2025-11-24 19:58:36.636 data/objects/pallets/ropePallet/ropePallet.i3d (6.61 ms)
+2025-11-24 20:05:05.096 data/objects/bigBag/bigBag.i3d (5.34 ms)
+2025-11-24 20:05:06.173 data/objects/bigBagPallet/bigBagPallet.i3d (4.38 ms)
+2025-11-24 20:05:36.823 data/objects/pallets/fermentedNapaCabbageBoxPallet/fermentedNapaCabbageBoxPallet.i3d (13.01 ms)
+2025-11-24 20:05:37.056 data/objects/bigBagPallet/bigBagPallet.i3d (4.05 ms)
+2025-11-24 20:09:56.765 data/objects/bigBagPallet/bigBagPallet.i3d (4.28 ms)
+2025-11-24 20:09:57.772 data/objects/bigBag/bigBag.i3d (5.30 ms)
+2025-11-24 20:10:00.635 data/objects/bigBag/bigBag.i3d (5.83 ms)
+2025-11-24 20:15:48.763 data/objects/bigBag/bigBag.i3d (4.94 ms)
