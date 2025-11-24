@@ -5922,3 +5922,94 @@ dataS/scripts/placeables/specializations/PlaceableObjectStorage.lua:388: attempt
 2025-11-24 22:21:06.115   Info: Adding pallet.
 2025-11-24 22:21:06.233   Info: Adding pallet.
 2025-11-24 22:21:06.385   Info: Adding pallet.
+2025-11-24 22:23:08.980 data/objects/pallets/fermentedNapaCabbageBoxPallet/fermentedNapaCabbageBoxPallet.i3d (11.65 ms)
+2025-11-24 22:23:25.772 data/objects/pallets/fermentedNapaCabbageBoxPallet/fermentedNapaCabbageBoxPallet.i3d (11.74 ms)
+2025-11-24 22:23:25.874   Info: Adding pallet.
+2025-11-24 22:23:26.197   Info: Adding pallet.
+2025-11-24 22:23:26.363   Info: Adding pallet.
+2025-11-24 22:23:26.570   Info: Adding pallet.
+2025-11-24 22:23:26.719   Info: Adding pallet.
+2025-11-24 22:23:26.903   Info: Adding pallet.
+2025-11-24 22:23:27.032   Info: Adding pallet.
+2025-11-24 22:23:27.198   Info: Adding pallet.
+2025-11-24 22:23:27.417   Info: Adding pallet.
+2025-11-24 22:23:27.602   Info: Adding pallet.
+2025-11-24 22:23:27.732   Info: Adding pallet.
+2025-11-24 22:23:27.901   Info: Adding pallet.
+2025-11-24 22:23:28.037   Info: Adding pallet.
+2025-11-24 22:23:28.170   Info: Adding pallet.
+2025-11-24 22:23:28.327   Info: Adding pallet.
+2025-11-24 22:23:28.425   Info: Adding pallet.
+2025-11-24 22:23:28.587   Info: Adding pallet.
+2025-11-24 22:23:28.722   Info: Adding pallet.
+2025-11-24 22:23:28.839   Info: Adding pallet.
+2025-11-24 22:24:40.553   Info: Adding pallet.
+2025-11-24 22:24:40.923   Info: Adding pallet.
+2025-11-24 22:24:41.288   Info: Adding pallet.
+2025-11-24 22:24:41.600   Info: Adding pallet.
+2025-11-24 22:24:41.938   Info: Adding pallet.
+2025-11-24 22:24:42.285   Info: Adding pallet.
+2025-11-24 22:24:42.636   Info: Adding pallet.
+2025-11-24 22:24:42.878   Info: Adding pallet.
+2025-11-24 22:24:43.237   Info: Adding pallet.
+2025-11-24 22:24:43.440   Info: Adding pallet.
+2025-11-24 22:25:21.424 data/objects/pallets/fermentedNapaCabbageBoxPallet/fermentedNapaCabbageBoxPallet.i3d (11.94 ms)
+2025-11-24 22:25:39.307 data/objects/pallets/fermentedNapaCabbageBoxPallet/fermentedNapaCabbageBoxPallet.i3d (11.75 ms)
+2025-11-24 22:25:39.407   Info: Adding pallet.
+2025-11-24 22:25:39.697   Info: Adding pallet.
+2025-11-24 22:25:40.003   Info: Adding pallet.
+2025-11-24 22:25:40.327   Info: Adding pallet.
+2025-11-24 22:25:40.660   Info: Adding pallet.
+2025-11-24 22:25:40.987   Info: Adding pallet.
+2025-11-24 22:25:41.608   Info: Adding pallet.
+2025-11-24 22:25:41.907   Info: Adding pallet.
+2025-11-24 22:26:12.201 data/objects/pallets/fermentedNapaCabbageBoxPallet/fermentedNapaCabbageBoxPallet.i3d (12.39 ms)
+2025-11-24 22:26:43.043 data/objects/pallets/fermentedNapaCabbageBoxPallet/fermentedNapaCabbageBoxPallet.i3d (13.01 ms)
+2025-11-24 22:26:43.148   Info: Adding pallet.
+2025-11-24 22:26:57.787   Info: Adding pallet.
+2025-11-24 22:26:58.135   Info: Adding pallet.
+2025-11-24 22:26:58.412   Info: Adding pallet.
+2025-11-24 22:26:58.664   Info: Adding pallet.
+2025-11-24 22:26:58.953   Info: Adding pallet.
+2025-11-24 22:26:59.155   Info: Adding pallet.
+2025-11-24 22:26:59.408   Info: Adding pallet.
+2025-11-24 22:26:59.705   Info: Adding pallet.
+2025-11-24 22:27:00.098   Info: Adding pallet.
+2025-11-24 22:27:00.620 data/objects/pallets/fermentedNapaCabbageBoxPallet/fermentedNapaCabbageBoxPallet.i3d (13.38 ms)
+2025-11-24 22:27:12.093 data/objects/pallets/fermentedNapaCabbageBoxPallet/fermentedNapaCabbageBoxPallet.i3d (14.64 ms)
+2025-11-24 22:27:14.710 data/objects/pallets/fermentedNapaCabbageBoxPallet/fermentedNapaCabbageBoxPallet.i3d (15.41 ms)
+2025-11-24 22:27:29.441   Info: Adding pallet.
+2025-11-24 22:27:29.699   Info: Adding pallet.
+2025-11-24 22:27:29.970   Info: Adding pallet.
+2025-11-24 22:27:30.235   Info: Adding pallet.
+2025-11-24 22:27:30.454   Info: Adding pallet.
+2025-11-24 22:27:30.801   Info: Adding pallet.
+2025-11-24 22:27:31.114   Info: Adding pallet.
+2025-11-24 22:27:31.394   Info: Adding pallet.
+2025-11-24 22:27:31.648   Info: Adding pallet.
+2025-11-24 22:27:31.941   Info: Adding pallet.
+2025-11-24 22:27:40.728 Game saved successfully (savegame1).
+2025-11-24 22:28:03.689 data/objects/pallets/fermentedNapaCabbageBoxPallet/fermentedNapaCabbageBoxPallet.i3d (13.46 ms)
+2025-11-24 22:28:12.149   Info: Adding pallet.
+2025-11-24 22:28:12.616   Info: Adding pallet.
+2025-11-24 22:28:13.041   Info: Adding pallet.
+2025-11-24 22:28:13.337   Info: Adding pallet.
+2025-11-24 22:28:13.736   Info: Adding pallet.
+2025-11-24 22:28:14.050   Info: Adding pallet.
+2025-11-24 22:28:14.403   Info: Adding pallet.
+2025-11-24 22:28:14.658   Info: Adding pallet.
+2025-11-24 22:28:30.819 data/objects/pallets/fermentedNapaCabbageBoxPallet/fermentedNapaCabbageBoxPallet.i3d (13.95 ms)
+2025-11-24 22:28:31.806 data/objects/pallets/fermentedNapaCabbageBoxPallet/fermentedNapaCabbageBoxPallet.i3d (14.66 ms)
+2025-11-24 22:28:33.544 data/objects/pallets/fermentedNapaCabbageBoxPallet/fermentedNapaCabbageBoxPallet.i3d (13.67 ms)
+2025-11-24 22:28:45.657 data/objects/pallets/fermentedNapaCabbageBoxPallet/fermentedNapaCabbageBoxPallet.i3d (13.67 ms)
+2025-11-24 22:28:54.787 data/objects/pallets/fermentedNapaCabbageBoxPallet/fermentedNapaCabbageBoxPallet.i3d (13.70 ms)
+2025-11-24 22:28:57.420   Warning: Server:registerObject() object table: 0x000001eb0bf1eed8 2459 Placeable already registered
+2025-11-24 22:28:57.457   Warning: Server:registerObject() object table: 0x000001eb0c7752c8 2460 Placeable already registered
+2025-11-24 22:28:57.745   Info: Super Strength disabled by Jolero
+2025-11-24 22:28:59.307   Warning: Server:registerObject() object table: 0x000001eb49ee8848 2463 Placeable already registered
+2025-11-24 22:30:26.028 data/placeables/unia/farma/farma800/farma800.i3d (15.40 ms)
+2025-11-24 22:33:30.357   Info: Added € 20,000 to farm account. (1)
+2025-11-24 22:33:42.901   Info: Set farm account balance to € 20,000. (1)
+2025-11-24 22:34:01.747 data/objects/pallets/fermentedNapaCabbageBoxPallet/fermentedNapaCabbageBoxPallet.i3d (11.83 ms)
+2025-11-24 22:34:01.757 data/objects/pallets/preservedFoodBeetRootPallet/preservedFoodBeetRootPallet.i3d (9.31 ms)
+2025-11-24 22:37:18.182   Info: Successfully removed 27 pallets from the map.
