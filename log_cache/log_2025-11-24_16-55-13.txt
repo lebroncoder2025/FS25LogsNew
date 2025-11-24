@@ -5507,3 +5507,90 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-24 17:39:00.505 dataS/character/playerM/hairStyles/hairStyleMullet.i3d (35.84 ms)
 2025-11-24 17:39:00.532 dataS/character/playerM/facialHair/mHead02/trimmedBeard.i3d (11.84 ms)
 2025-11-24 17:39:07.935   Info: Added € 120,000 to farm account. (3)
+2025-11-24 17:47:56.853 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Cybuchowo/maps/placeables/defaultProductionPoints/spinneryBig.i3d (10.62 ms)
+2025-11-24 17:47:56.871 data/maps/textures/shared/props/industrialProps/container22.i3d (1.77 ms)
+2025-11-24 17:47:56.872 data/maps/textures/shared/props/industrialProps/container03.i3d (1.76 ms)
+2025-11-24 17:47:56.875 data/maps/mapAS/textures/props/airConditioner.i3d (2.00 ms)
+2025-11-24 17:47:56.876 data/maps/mapAS/textures/props/cablesElectricity/cable03.i3d (1.83 ms)
+2025-11-24 17:47:56.878 data/maps/mapAS/textures/props/pipes/pipes07.i3d (1.46 ms)
+2025-11-24 17:47:56.879 data/maps/mapAS/textures/props/pipes/pipes03.i3d (1.41 ms)
+2025-11-24 17:47:56.883 data/placeables/brandless/productionPointsGeneric/spinnery/spinneryProps.i3d (20.87 ms)
+2025-11-24 17:48:42.535 data/objects/pallets/preservedFoodBeetRootPallet/preservedFoodBeetRootPallet.i3d (9.25 ms)
+2025-11-24 17:52:03.908   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'New Holland T7.315 HD'
+2025-11-24 17:52:24.303 data/placeables/brandless/floodLights/level03/floodLight03.i3d (2.51 ms)
+2025-11-24 17:56:48.215 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_RounderWrappedRoundbales/assets/roundbale180/roundbale180.i3d (2.01 ms)
+2025-11-24 17:57:02.816 Game saved successfully (savegame1).
+2025-11-24 18:00:12.896 data/placeables/brandless/fences/AS/fence16/fence16.i3d (8.04 ms)
+2025-11-24 18:02:39.436 data/placeables/brandless/fences/AS/fence08/fence08.i3d (6.90 ms)
+2025-11-24 18:02:43.895 data/placeables/brandless/fences/AS/fence10/fence10.i3d (6.34 ms)
+2025-11-24 18:07:41.259 dataS/character/playerF/pants/botChinos.i3d (14.21 ms)
+2025-11-24 18:07:41.463 dataS/character/playerF/heads/fHead04.i3d (204.09 ms)
+2025-11-24 18:07:41.483 dataS/character/playerF/jacket/topAviatorJacket.i3d (19.94 ms)
+2025-11-24 18:07:41.563 dataS/character/playerF/shoes/laceUpSneaker.i3d (80.62 ms)
+2025-11-24 18:07:41.601 dataS/character/playerF/hairStyles/hairStylePonyTail01.i3d (37.50 ms)
+2025-11-24 18:10:37.161 dataS/character/playerF/pants/botJeansCapris.i3d (21.60 ms)
+2025-11-24 18:10:37.365 dataS/character/playerF/heads/fHead03.i3d (203.59 ms)
+2025-11-24 18:10:37.417 dataS/character/playerF/shirts/topTankTop.i3d (51.43 ms)
+2025-11-24 18:10:37.419 dataS/character/playerF/shoes/sneaker01.i3d (2.87 ms)
+2025-11-24 18:11:44.395 dataS/character/playerM/pants/botLeather.i3d (18.92 ms)
+2025-11-24 18:11:44.427 dataS/character/playerM/jacket/topVest.i3d (32.05 ms)
+2025-11-24 18:11:44.540 dataS/character/playerM/hairStyles/hairStyleFringe.i3d (36.34 ms)
+2025-11-24 18:11:58.750 dataS/character/playerF/pants/botCargo.i3d (18.90 ms)
+2025-11-24 18:11:58.820 dataS/character/playerF/jacket/topVest.i3d (6.20 ms)
+2025-11-24 18:11:58.823 dataS/character/playerF/shoes/workboot02.i3d (3.26 ms)
+2025-11-24 18:11:58.859 dataS/character/playerF/hairStyles/hairStylePonyTail03.i3d (36.17 ms)
+2025-11-24 18:13:20.817   Info: Decreased Weeds delta by 1.  ( Field No. 3 )
+2025-11-24 18:13:20.961   Info: Decreased Weeds delta by 1.  ( Field No. 3 )
+2025-11-24 18:13:21.093   Info: Decreased Weeds delta by 1.  ( Field No. 3 )
+2025-11-24 18:13:21.175   Info: Decreased Weeds delta by 1.  ( Field No. 3 )
+2025-11-24 18:13:21.312   Info: Decreased Weeds delta by 1.  ( Field No. 3 )
+2025-11-24 18:13:26.217   Info: Decreased Weeds delta by 1.  ( Field No. 2 )
+2025-11-24 18:13:26.351   Info: Decreased Weeds delta by 1.  ( Field No. 2 )
+2025-11-24 18:13:26.465   Info: Decreased Weeds delta by 1.  ( Field No. 2 )
+2025-11-24 18:13:26.580   Info: Decreased Weeds delta by 1.  ( Field No. 2 )
+2025-11-24 18:13:26.704   Info: Decreased Weeds delta by 1.  ( Field No. 2 )
+2025-11-24 18:13:26.850   Info: Decreased Weeds delta by 1.  ( Field No. 2 )
+2025-11-24 18:14:42.094 dataS/character/playerM/jacket/topDenimJacket.i3d (24.28 ms)
+2025-11-24 18:14:42.130 dataS/character/playerM/hairStyles/hairStyleMidParted01.i3d (35.22 ms)
+2025-11-24 18:14:42.131 dataS/character/playerM/facialHair/mHead01/beardStubble.i3d (1.45 ms)
+2025-11-24 18:17:04.584 dataS/character/playerM/fullBody/onePieceMechanic.i3d (31.12 ms)
+2025-11-24 18:17:04.601 dataS/character/playerM/shoes/riding.i3d (17.57 ms)
+2025-11-24 18:17:04.638 dataS/character/playerM/hairStyles/hairStyleUnkempt.i3d (37.08 ms)
+2025-11-24 18:17:04.653 dataS/character/playerM/facialHair/mHead02/goatee01.i3d (14.45 ms)
+2025-11-24 18:17:27.382   Info: Adding bale.
+2025-11-24 18:17:27.553   Info: Adding bale.
+2025-11-24 18:17:27.715   Info: Adding bale.
+2025-11-24 18:17:28.408   Info: Adding bale.
+2025-11-24 18:17:28.559   Info: Adding bale.
+2025-11-24 18:17:34.014   Info: Super Strength enabled by Jolero
+2025-11-24 18:17:41.809   Info: Super Strength disabled by Jolero
+2025-11-24 18:17:50.104   Info: Adding bale.
+2025-11-24 18:17:53.829   Info: Adding bale.
+2025-11-24 18:17:54.054   Info: Adding bale.
+2025-11-24 18:18:00.203   Info: Adding bale.
+2025-11-24 18:18:00.352   Info: Adding bale.
+2025-11-24 18:18:06.391   Info: Adding bale.
+2025-11-24 18:18:06.557   Info: Adding bale.
+2025-11-24 18:18:09.457   Info: Adding bale.
+2025-11-24 18:18:09.602   Info: Adding bale.
+2025-11-24 18:18:13.294   Info: Adding bale.
+2025-11-24 18:18:13.433   Info: Adding bale.
+2025-11-24 18:18:35.898   Info: Decreased Weeds delta by 1.  ( Field No. 4 )
+2025-11-24 18:18:36.050   Info: Decreased Weeds delta by 1.  ( Field No. 4 )
+2025-11-24 18:18:36.173   Info: Decreased Weeds delta by 1.  ( Field No. 4 )
+2025-11-24 18:18:36.302   Info: Decreased Weeds delta by 1.  ( Field No. 4 )
+2025-11-24 18:18:36.389   Info: Decreased Weeds delta by 1.  ( Field No. 4 )
+2025-11-24 18:18:39.918   Info: Decreased Weeds delta by 1.  ( Field No. 4 )
+2025-11-24 18:18:40.063   Info: Decreased Weeds delta by 1.  ( Field No. 4 )
+2025-11-24 18:18:40.196   Info: Decreased Weeds delta by 1.  ( Field No. 4 )
+2025-11-24 18:18:46.148   Info: Decreased Weeds delta by 1.  ( Field No. 5 )
+2025-11-24 18:18:46.294   Info: Decreased Weeds delta by 1.  ( Field No. 5 )
+2025-11-24 18:18:46.429   Info: Decreased Weeds delta by 1.  ( Field No. 5 )
+2025-11-24 18:18:46.553   Info: Decreased Weeds delta by 1.  ( Field No. 5 )
+2025-11-24 18:18:46.678   Info: Decreased Weeds delta by 1.  ( Field No. 5 )
+2025-11-24 18:19:06.574 Jolero left the game
+2025-11-24 18:19:08.044 Game saved successfully (savegame1).
+2025-11-24 18:19:17.601 dataS/character/playerM/heads/mHead05.i3d (204.75 ms)
+2025-11-24 18:19:17.701 dataS/character/playerM/shirts/zipNeckPullover.i3d (100.28 ms)
+2025-11-24 18:19:17.736 dataS/character/playerM/hairStyles/hairStyleManBun.i3d (35.26 ms)
+2025-11-24 18:19:17.747 dataS/character/playerM/facialHair/mHead05/goatee02.i3d (10.41 ms)
