@@ -5743,3 +5743,27 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-24 20:09:57.772 data/objects/bigBag/bigBag.i3d (5.30 ms)
 2025-11-24 20:10:00.635 data/objects/bigBag/bigBag.i3d (5.83 ms)
 2025-11-24 20:15:48.763 data/objects/bigBag/bigBag.i3d (4.94 ms)
+2025-11-24 20:22:09.998 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.89 ms)
+2025-11-24 20:22:10.127 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_lsfmBigBagPack/objects/bigBag/bigBag.i3d (5.13 ms)
+2025-11-24 20:23:19.093 data/objects/bigBagPallet/bigBagPallet.i3d (4.67 ms)
+2025-11-24 20:23:20.366 data/objects/bigBag/bigBag.i3d (5.14 ms)
+2025-11-24 20:23:20.369 data/objects/bigBagPallet/bigBagPallet.i3d (3.67 ms)
+2025-11-24 20:27:30.436 Game saved successfully (savegame1).
+2025-11-24 20:28:20.096 data/objects/bigBag/bigBag.i3d (4.75 ms)
+2025-11-24 20:28:20.244   Info: Adding pallet.
+2025-11-24 20:28:28.022   Info: Adding pallet.
+2025-11-24 20:28:30.998   Info: Adding pallet.
+2025-11-24 20:28:31.543   Info: Adding pallet.
+2025-11-24 20:28:32.028   Info: Adding pallet.
+2025-11-24 20:28:32.473   Info: Adding pallet.
+2025-11-24 20:28:32.853   Info: Adding pallet.
+2025-11-24 20:28:33.320   Info: Adding pallet.
+2025-11-24 20:28:33.760   Info: Adding pallet.
+2025-11-24 20:28:34.238   Info: Adding pallet.
+2025-11-24 20:28:34.682   Info: Adding pallet.
+2025-11-24 20:28:35.169   Info: Adding pallet.
+2025-11-24 20:28:35.696   Info: Adding pallet.
+2025-11-24 20:28:36.117   Info: Adding pallet.
+2025-11-24 20:28:36.597   Info: Adding pallet.
+2025-11-24 20:28:51.335 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_lsfmBigBagPack/objects/bigBag/bigBag.i3d (4.91 ms)
+2025-11-24 20:29:08.772 data/objects/pallets/preservedFoodBeetRootPallet/preservedFoodBeetRootPallet.i3d (10.09 ms)
