@@ -5552,3 +5552,28 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-25 16:34:56.515 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_mrhHandLiftableConsumables/bagsStack/bagsStack.i3d (46.93 ms)
 2025-11-25 16:35:29.768 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_SLMJoskinAquaTrans7300/joskinAquaTrans7300.i3d (59.95 ms)
 2025-11-25 16:41:30.910   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'CLAAS DOMINATOR 108 SL MAXI'
+2025-11-25 16:42:52.867   Info: No 'ExhaustExtension' particle system added to vehicle 'Jungheinrich EFG S50 Pro' because it has no exhaust
+2025-11-25 16:48:00.235 M@rcin lost connection to the game
+2025-11-25 16:51:21.992 Piotrek lost connection to the game
+2025-11-25 16:53:34.374 Błażej lost connection to the game
+2025-11-25 16:56:01.501 Figuana lost connection to the game
+2025-11-25 16:56:05.513 siwa lost connection to the game
+2025-11-25 16:58:18.469 Game saved successfully (savegame1).
+2025-11-25 17:02:26.453 Piotrek joined the game
+2025-11-25 17:02:26.662 dataS/character/playerM/pants/botChinos.i3d (13.35 ms)
+2025-11-25 17:02:26.740 dataS/character/playerM/shirts/strauss/straussTShirtMerino.i3d (76.65 ms)
+2025-11-25 17:02:26.745 dataS/character/playerM/gloves/glovesGeneric.i3d (4.96 ms)
+2025-11-25 17:02:26.836 dataS/character/playerM/shoes/sandalM03.i3d (91.79 ms)
+2025-11-25 17:02:26.837 dataS/character/playerM/hairStyles/hairStyleBald.i3d (0.29 ms)
+2025-11-25 17:10:19.596 dataS/character/playerF/pants/botCargo.i3d (17.86 ms)
+2025-11-25 17:10:19.621 dataS/character/playerF/jacket/topVest.i3d (24.94 ms)
+2025-11-25 17:10:19.624 dataS/character/playerF/shoes/workboot02.i3d (3.20 ms)
+2025-11-25 17:10:19.659 dataS/character/playerF/hairStyles/hairStylePonyTail03.i3d (35.17 ms)
+2025-11-25 17:12:01.196   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'MAN TGX 18.880'
+2025-11-25 17:22:25.128 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.67 ms)
+2025-11-25 17:22:25.207 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_mrhHandLiftableConsumables/bag/bag.i3d (26.24 ms)
+2025-11-25 17:24:19.570 dataS/character/playerM/pants/botLeather.i3d (17.92 ms)
+2025-11-25 17:24:19.649 dataS/character/playerM/jacket/topVest.i3d (30.46 ms)
+2025-11-25 17:24:19.723 dataS/character/playerM/hairStyles/hairStyleFringe.i3d (34.67 ms)
+2025-11-25 17:25:18.121   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'CLAAS Lexion 590'
+2025-11-25 17:28:14.585 Game saved successfully (savegame1).
