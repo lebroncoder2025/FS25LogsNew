@@ -5597,3 +5597,790 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-25 17:48:04.868   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Fendt 620 Vario - 50km/h'
 2025-11-25 17:48:33.324   Info: Moved 3 vehicles to coordinates 1494, 1479 successfully.
 2025-11-25 17:49:06.894   Info: Moved 2 vehicles to coordinates 703, 783 successfully.
+2025-11-25 17:49:42.413   Info: The condition of Case IH AF11 and all connected implements updated.
+2025-11-25 17:49:43.909   Info: The condition of Case IH AF11 and all connected implements updated.
+2025-11-25 17:49:44.725   Info: Diesel level of Case IH AF11 changed to 1500 liters.
+2025-11-25 17:50:52.063   Info: Diesel level of Case IH AF11 changed to 1500 liters.
+2025-11-25 17:50:52.460   Info: The condition of Case IH AF11 and all connected implements updated.
+2025-11-25 17:50:53.910   Info: The condition of Case IH AF11 and all connected implements updated.
+2025-11-25 17:51:24.671   Info: Moved 2 vehicles to coordinates 699, 782 successfully.
+2025-11-25 17:52:14.774   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Fendt 1067 Vario'
+2025-11-25 17:52:35.105   Info: Successfully set fill unit 1 of KINZE 4905 Blue Drive to Seeds with a fill level of 4,228 liters.
+2025-11-25 17:52:35.995   Info: Successfully set fill unit 2 of KINZE 4905 Blue Drive to Liquid Fertilizer with a fill level of 2,840 liters.
+2025-11-25 17:52:56.078 dataS/character/playerM/heads/mHead05.i3d (197.34 ms)
+2025-11-25 17:52:56.173 dataS/character/playerM/shirts/zipNeckPullover.i3d (94.18 ms)
+2025-11-25 17:52:56.206 dataS/character/playerM/hairStyles/hairStyleManBun.i3d (33.51 ms)
+2025-11-25 17:52:56.216 dataS/character/playerM/facialHair/mHead05/goatee02.i3d (10.02 ms)
+2025-11-25 17:55:26.800   Info: Successfully set fill unit 1 of Lizard MKS 32 to Buffalo Milk with a fill level of 32,000 liters.
+2025-11-25 17:55:36.283   Info: Moved 2 vehicles to coordinates 1580, 578 successfully.
+2025-11-25 17:58:17.102 Game saved successfully (savegame1).
+2025-11-25 18:02:36.843   Info: Successfully set fill unit 1 of Lizard MKS 32 to Buffalo Milk with a fill level of 32,000 liters.
+2025-11-25 18:04:41.474   Info: Successfully set fill unit 1 of Wielton Wielton bulk master to Sorghum with a fill level of 60,000 liters.
+2025-11-25 18:05:52.804   Info: Successfully set fill unit 1 of Wielton Wielton bulk master to Sorghum with a fill level of 52,000 liters.
+2025-11-25 18:06:08.306   Info: Successfully set fill unit 1 of Lizard MKS 32 to Buffalo Milk with a fill level of 32,000 liters.
+2025-11-25 18:06:49.888   Info: Moved player to coordinates 1571, 602 successfully.
+2025-11-25 18:09:24.700   Info: No 'ExhaustExtension' particle system added to vehicle 'Jungheinrich EFG S50 2.4m' because it has no exhaust
+2025-11-25 18:12:36.778 dataS/character/playerF/pants/botJeansCapris.i3d (20.50 ms)
+2025-11-25 18:12:36.973 dataS/character/playerF/heads/fHead03.i3d (194.78 ms)
+2025-11-25 18:12:37.022 dataS/character/playerF/shirts/topTankTop.i3d (48.72 ms)
+2025-11-25 18:12:37.024 dataS/character/playerF/shoes/sneaker01.i3d (2.75 ms)
+2025-11-25 18:15:01.458 Błażej joined the game
+2025-11-25 18:15:01.566 dataS/character/playerM/shoes/sportSneaker.i3d (92.76 ms)
+2025-11-25 18:15:01.601 dataS/character/playerM/hairStyles/hairStyleFringe.i3d (35.12 ms)
+2025-11-25 18:16:25.556 data/placeables/brandless/productionPointsGeneric/tailorShop/tailorShop.i3d (12.30 ms)
+2025-11-25 18:16:25.593 data/maps/mapAS/textures/props/pallet03.i3d (2.31 ms)
+2025-11-25 18:16:25.595 data/maps/mapAS/textures/props/airConditioner.i3d (2.16 ms)
+2025-11-25 18:16:25.598 data/maps/mapAS/textures/props/cablesElectricity/cable03.i3d (2.40 ms)
+2025-11-25 18:16:25.599 data/placeables/brandless/productionPointsGeneric/tailorShop/tailorShopProps.i3d (18.05 ms)
+2025-11-25 18:16:29.372 data/placeables/mapUS/tailorUS/tailorUS.i3d (17.44 ms)
+2025-11-25 18:16:29.547 data/maps/textures/shared/props/industrialProps/container23.i3d (1.34 ms)
+2025-11-25 18:16:29.549 data/maps/mapAS/textures/props/pipes/pipes06.i3d (1.29 ms)
+2025-11-25 18:16:29.550 data/maps/mapAS/textures/props/pipes/pipes07.i3d (1.13 ms)
+2025-11-25 18:16:29.558 data/placeables/mapUS/tailorUS/tailorUSProps.i3d (14.93 ms)
+2025-11-25 18:19:03.353 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:03.368 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:03.368 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:03.388 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:03.388 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:03.404 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:03.404 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:03.424 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:03.424 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:03.440 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:03.441 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:03.458 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:03.458 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:03.475 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:03.476 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:03.492 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:03.493 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:03.510 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:03.510 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:03.527 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:03.563 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:03.579 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:03.579 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:03.600 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:03.600 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:03.616 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:03.652 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:03.670 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:03.670 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:03.687 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:03.687 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:03.704 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:03.705 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:03.720 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:03.720 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:03.736 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:03.772 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:03.788 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:03.788 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:03.805 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:03.805 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:03.821 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:03.822 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:03.838 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:03.838 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:03.854 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:03.854 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:03.873 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:03.910 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:03.925 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:03.925 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:03.943 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:03.943 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:03.962 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:03.962 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:03.979 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:03.979 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:03.997 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:03.997 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:04.012 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:04.012 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:04.032 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:04.069 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:04.085 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:04.085 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:04.100 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:04.101 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:04.116 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:04.117 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:04.132 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:04.133 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:04.152 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:04.152 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:04.168 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:04.168 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:04.188 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:04.188 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:04.205 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:04.241 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:04.256 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:04.256 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:04.276 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:04.276 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:04.295 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:04.295 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:04.312 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:04.312 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:04.328 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:04.328 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:04.344 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:04.344 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:04.360 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:04.397 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:04.416 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:04.416 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:04.434 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:04.434 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:04.450 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:04.451 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:04.467 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:04.467 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:04.483 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:04.484 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:04.501 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:04.502 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:04.518 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:04.553 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:04.572 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:04.572 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:04.590 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:04.590 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:04.607 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:04.625 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:04.625 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:04.641 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:04.641 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:04.657 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:04.657 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:04.675 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:04.675 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:04.693 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:04.694 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:04.712 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:04.712 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:04.729 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:04.730 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:04.747 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:04.747 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:04.763 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:04.763 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:04.780 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:04.781 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:04.798 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:04.815 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:04.816 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:04.833 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:04.833 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:04.849 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:04.849 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:04.868 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:04.868 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:04.887 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:04.888 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:04.905 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:04.905 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:04.921 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:04.921 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:04.939 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:04.939 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:04.955 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:04.955 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:04.973 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:04.973 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:04.991 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:04.992 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:05.011 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:05.011 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:05.029 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:05.029 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:05.048 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:05.048 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:05.065 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:05.065 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:05.082 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:05.118 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:05.135 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:05.135 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:05.258 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:05.275 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:05.275 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:05.292 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:05.292 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:05.308 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:05.345 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:05.361 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:05.361 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:05.377 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:05.378 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:05.398 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:05.398 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:05.415 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:05.415 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:05.432 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:05.432 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:05.449 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:05.450 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:05.466 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:05.466 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:05.483 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:05.483 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:05.500 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:05.501 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:05.517 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:05.518 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:05.535 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:05.573 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:05.590 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:05.591 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:05.609 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:05.609 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:05.627 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:05.628 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:05.646 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:05.646 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:05.665 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:05.682 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:05.682 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:05.698 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:05.699 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:05.717 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:05.717 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:05.734 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:05.734 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:05.751 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:05.751 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:05.770 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:05.770 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:05.786 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:05.786 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:05.802 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:05.803 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:05.821 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:05.821 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:05.839 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:05.839 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:05.855 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:05.855 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:05.873 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:05.873 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:05.890 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:05.890 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:05.908 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:05.909 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:05.925 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:05.926 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:05.943 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:05.943 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:05.960 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:05.997 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:06.013 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:06.013 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:06.032 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:06.032 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:06.048 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:06.048 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:06.068 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:06.068 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:06.084 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:06.084 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:06.102 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:06.102 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:06.120 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:06.157 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:06.174 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:06.174 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:06.191 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:06.191 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:06.209 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:06.210 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:06.229 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:06.230 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:06.246 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:06.246 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:06.262 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:06.262 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:06.278 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:06.278 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:06.293 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:06.293 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:06.311 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:06.311 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:06.328 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:06.328 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:06.346 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:06.346 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:06.364 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:06.364 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:06.380 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:06.381 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:06.398 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:06.398 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:06.416 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:06.416 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:06.433 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:06.433 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:06.451 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:06.451 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:06.468 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:06.469 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:06.487 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:06.525 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:06.540 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:06.541 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:06.633 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:06.650 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:06.651 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:06.668 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:06.668 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:06.684 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:06.685 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:06.702 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:06.702 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:06.718 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:06.719 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:06.736 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:06.737 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:06.754 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:06.791 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:06.809 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:06.809 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:06.827 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:06.827 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:06.844 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:06.844 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:06.861 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:06.861 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:06.879 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:06.879 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:06.896 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:06.896 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:06.913 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:06.913 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:06.930 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:06.931 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:06.948 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:06.949 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:06.965 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:06.966 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:06.983 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:06.984 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:07.001 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:07.001 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:07.018 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:07.018 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:07.035 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:07.035 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:07.051 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:07.051 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:07.069 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:07.069 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:07.087 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:07.087 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:07.103 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:07.104 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:07.120 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:07.120 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:07.137 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:07.137 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:07.154 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:07.155 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:07.565 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:07.581 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:07.582 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:07.599 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:07.635 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:07.652 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:07.652 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:07.669 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:07.669 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:07.686 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:07.686 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:07.702 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:07.702 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:07.719 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:07.719 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:07.735 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:07.735 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:07.752 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:07.752 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:07.768 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:07.769 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:07.784 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:07.785 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:07.802 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:07.803 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:07.820 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:07.857 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:07.873 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:07.873 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:07.889 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:07.889 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:07.905 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:07.905 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:07.921 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:07.922 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:07.939 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:07.939 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:07.955 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:07.955 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:07.972 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:07.972 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:07.988 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:07.988 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:08.005 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:08.005 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:08.022 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:08.023 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:08.039 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:08.039 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:08.056 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:08.056 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:08.072 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:08.073 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:08.089 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:08.089 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:08.251 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:08.267 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:08.267 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:08.317 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:08.334 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:08.334 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:08.351 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:08.366 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:08.366 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:08.387 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:08.388 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:08.404 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:08.404 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:08.420 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:08.421 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:08.437 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:08.438 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:08.453 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:08.454 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:08.470 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:08.470 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:08.486 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:08.486 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:08.506 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:08.506 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:08.523 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:08.523 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:08.538 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:08.538 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:08.557 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:08.593 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:08.608 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:08.608 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:08.627 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:08.627 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:08.642 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:08.642 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:08.661 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:08.661 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:08.677 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:08.677 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:08.694 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:08.694 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:08.709 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:08.710 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:08.728 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:08.729 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:08.745 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:08.761 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:08.761 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:08.776 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:08.777 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:08.795 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:08.796 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:08.813 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:08.813 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:08.830 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:08.830 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:08.848 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:08.849 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:08.864 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:08.865 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:08.882 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:08.882 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:08.898 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:08.898 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:08.914 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:08.915 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:08.931 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:08.931 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:08.946 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:08.946 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:08.964 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:08.979 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:08.979 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:08.995 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:08.995 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:09.013 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:09.014 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:09.030 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:09.030 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:09.047 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:09.047 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:09.064 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:09.064 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:09.079 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:09.079 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
+2025-11-25 18:19:09.099 Warning: StreamWriteTimestamp only is allowed to be called before any other write calls.
+2025-11-25 18:19:09.099 Error: Running LUA method 'update'.
+dataS/scripts/vehicles/specializations/AIAutomaticSteering.lua:316: attempt to index nil with 'writeSegmentStatesToStream'
