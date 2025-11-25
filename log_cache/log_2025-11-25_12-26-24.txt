@@ -209242,3 +209242,19 @@ LUA call stack:
 2025-11-25 22:26:46.204 data/objects/pallets/fermentedNapaCabbageBoxPallet/fermentedNapaCabbageBoxPallet.i3d (13.92 ms)
 2025-11-25 22:29:18.728 Game saved successfully (savegame1).
 2025-11-25 22:34:02.891 data/objects/pallets/clothesBoxPallet/clothesBoxPallet.i3d (3.37 ms)
+2025-11-25 22:42:36.067   Info: Moved player to coordinates 686, 906 successfully.
+2025-11-25 22:46:21.839 data/objects/pallets/preservedFoodBeetRootPallet/preservedFoodBeetRootPallet.i3d (13.05 ms)
+2025-11-25 22:56:31.861 dataS/character/playerF/pants/botJeansCapris.i3d (20.55 ms)
+2025-11-25 22:56:32.056 dataS/character/playerF/heads/fHead03.i3d (196.02 ms)
+2025-11-25 22:56:32.105 dataS/character/playerF/shirts/topTankTop.i3d (48.79 ms)
+2025-11-25 22:56:32.108 dataS/character/playerF/shoes/sneaker01.i3d (2.82 ms)
+2025-11-25 22:56:36.233   Info: Moved 1 vehicles to coordinates 629, 854 successfully.
+2025-11-25 22:58:53.938 zwierek lost connection to the game
+2025-11-25 22:59:19.004 Game saved successfully (savegame1).
+2025-11-25 23:10:20.481 dataS/character/playerM/heads/mHead05.i3d (196.58 ms)
+2025-11-25 23:10:20.585 dataS/character/playerM/shirts/zipNeckPullover.i3d (104.85 ms)
+2025-11-25 23:10:20.621 dataS/character/playerM/hairStyles/hairStyleManBun.i3d (35.81 ms)
+2025-11-25 23:10:20.631 dataS/character/playerM/facialHair/mHead05/goatee02.i3d (9.99 ms)
+2025-11-25 23:10:53.457 Piotrek lost connection to the game
+2025-11-25 23:12:54.292 Warning: Send called with unknown target address.
+2025-11-25 23:12:54.297 hubsonwaliszot left the game
