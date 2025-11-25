@@ -5508,3 +5508,6 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-25 15:21:07.692 data/objects/pallets/fermentedNapaCabbageBoxPallet/fermentedNapaCabbageBoxPallet.i3d (17.11 ms)
 2025-11-25 15:21:07.704 data/objects/pallets/preservedFoodBeetRootPallet/preservedFoodBeetRootPallet.i3d (12.21 ms)
 2025-11-25 15:23:52.904   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'JCB Fastrac 8330'
+2025-11-25 15:28:09.782 Game saved successfully (savegame1).
+2025-11-25 15:36:26.503 Figuana joined the game
+2025-11-25 15:37:55.049 data/objects/pallets/preservedFoodBeetRootPallet/preservedFoodBeetRootPallet.i3d (12.34 ms)
