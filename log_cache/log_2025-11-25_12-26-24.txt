@@ -5378,3 +5378,75 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-25 12:34:08.018   Info: Savegame Setting 'economicDifficulty': NORMAL
 2025-11-25 12:34:08.211   Info: Savegame Setting 'economicDifficulty': HARD
 2025-11-25 12:34:19.532   Info: Moved 3 vehicles to coordinates 700, 781 successfully.
+2025-11-25 12:37:01.139   Info: Successfully added 'ExhaustExtension' particle system to 3 nodes of vehicle 'SCANIA 770 V8 CHIP'
+2025-11-25 12:37:37.677   Info: Moved 3 vehicles to coordinates 1387, 1715 successfully.
+2025-11-25 12:37:52.817   Info: Savegame Setting 'economicDifficulty': NORMAL
+2025-11-25 12:37:53.093   Info: Savegame Setting 'economicDifficulty': EASY
+2025-11-25 12:38:47.732   Info: Savegame Setting 'economicDifficulty': NORMAL
+2025-11-25 12:38:47.857   Info: Savegame Setting 'economicDifficulty': HARD
+2025-11-25 12:38:54.802   Info: Moved 3 vehicles to coordinates 685, 783 successfully.
+2025-11-25 12:38:55.648   Info: [Easy Development Controls] User zwierek has logged in as master user.
+2025-11-25 12:39:08.592   Info: Moved 2 vehicles to coordinates 1390, 1704 successfully.
+2025-11-25 12:39:17.768   Info: Moved 2 vehicles to coordinates 1395, 1715 successfully.
+2025-11-25 12:40:15.202   Info: Moved 3 vehicles to coordinates 1398, 1709 successfully.
+2025-11-25 12:43:10.660   Info: Moved 3 vehicles to coordinates 684, 780 successfully.
+2025-11-25 12:45:16.415   Info: Successfully set fill unit 1 of Wielton Wielton bulk master to Flax with a fill level of 63,000 liters.
+2025-11-25 12:45:27.459   Info: Successfully emptied fill unit 1 of Wielton Wielton bulk master.
+2025-11-25 12:45:29.444   Info: Successfully set fill unit 1 of Wielton Wielton bulk master to Flax with a fill level of 63,000 liters.
+2025-11-25 12:45:41.851   Info: Successfully emptied fill unit 1 of Wielton Wielton bulk master.
+2025-11-25 12:45:56.373   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Case IH AF11'
+2025-11-25 12:45:57.320 dataS/character/playerF/pants/botYogaPants.i3d (11.05 ms)
+2025-11-25 12:45:57.466 dataS/character/playerF/heads/fHead02.i3d (111.77 ms)
+2025-11-25 12:45:57.517 dataS/character/playerF/shirts/topTankTop.i3d (50.64 ms)
+2025-11-25 12:45:57.640 dataS/character/playerF/shoes/sportSneaker.i3d (92.22 ms)
+2025-11-25 12:45:57.676 dataS/character/playerF/hairStyles/hairStyleLongSideParted.i3d (35.56 ms)
+2025-11-25 12:46:38.750   Info: Moved 3 vehicles to coordinates 1393, 1706 successfully.
+2025-11-25 12:46:48.467   Info: Moved 3 vehicles to coordinates 1390, 1717 successfully.
+2025-11-25 12:47:33.852   Info: Successfully set fill unit 1 of RANDON Dump Trailer with Dolly Hitch to Flax with a fill level of 40,000 liters.
+2025-11-25 12:47:34.959   Info: Successfully set fill unit 1 of RANDON Dump Trailer with Dolly Hitch to Flax with a fill level of 40,000 liters.
+2025-11-25 12:48:09.636   Info: Successfully set fill unit 1 of RANDON Dump Trailer with Dolly Hitch to Flax with a fill level of 40,000 liters.
+2025-11-25 12:49:06.327   Info: Moved 3 vehicles to coordinates 1664, 1448 successfully.
+2025-11-25 12:49:47.436   Info: Super Strength enabled by Jolero
+2025-11-25 12:50:32.479   Info: Super Strength disabled by Jolero
+2025-11-25 12:50:54.812   Info: Added € 100,000 to farm account. (3)
+2025-11-25 12:51:48.159   Info: Added € 170,000 to farm account. (1)
+2025-11-25 12:52:12.918   Info: Added € 80,000 to farm account. (1)
+2025-11-25 12:54:25.230   Info: Updating all fields, please wait...
+2025-11-25 12:54:34.293   Info: Updating all fields, please wait...
+2025-11-25 12:54:53.543   Info: Updating all fields, please wait...
+2025-11-25 12:55:01.995   Info: Updating all fields, please wait...
+2025-11-25 12:55:12.857 siwa joined the game
+2025-11-25 12:55:12.900 dataS/character/playerM/pants/volvo/volvoPants.i3d (25.96 ms)
+2025-11-25 12:55:12.906 dataS/character/playerM/shirts/volvo/volvoTshirt.i3d (5.83 ms)
+2025-11-25 12:55:12.908 dataS/character/playerM/attachments/glassesSports01.i3d (2.04 ms)
+2025-11-25 12:58:06.636 Game saved successfully (savegame1).
+2025-11-25 12:58:31.555   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'John Deere 6195M Chiptuning 50km/h'
+2025-11-25 13:03:26.542 Warning: Send called with unknown target address.
+2025-11-25 13:03:26.553 Jolero left the game
+2025-11-25 13:03:27.813 Game saved successfully (savegame1).
+2025-11-25 13:03:40.005   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Case IH 160 CVX'
+2025-11-25 13:05:03.986   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Valtra VALMET 8750'
+2025-11-25 13:09:19.087   Info: Moved 3 vehicles to coordinates 629, 852 successfully.
+2025-11-25 13:09:32.630   Info: Moved player to coordinates 1361, 1755 successfully.
+2025-11-25 13:09:39.275   Info: Moved 2 vehicles to coordinates 639, 861 successfully.
+2025-11-25 13:10:36.988 zwierek lost connection to the game
+2025-11-25 13:16:29.347 Błażej joined the game
+2025-11-25 13:16:29.367 dataS/character/playerM/shirts/topTShirt01.i3d (2.46 ms)
+2025-11-25 13:16:29.459 dataS/character/playerM/shoes/sportSneaker.i3d (91.65 ms)
+2025-11-25 13:16:29.494 dataS/character/playerM/hairStyles/hairStyleFringe.i3d (35.15 ms)
+2025-11-25 13:22:03.792   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Fendt 832 Vario Gen5 - 60km/h'
+2025-11-25 13:24:14.883 dataS/character/playerF/pants/botJeansCapris.i3d (20.59 ms)
+2025-11-25 13:24:15.080 dataS/character/playerF/heads/fHead03.i3d (195.65 ms)
+2025-11-25 13:24:15.129 dataS/character/playerF/shirts/topTankTop.i3d (49.13 ms)
+2025-11-25 13:24:15.132 dataS/character/playerF/shoes/sneaker01.i3d (2.78 ms)
+2025-11-25 13:28:07.506 Game saved successfully (savegame1).
+2025-11-25 13:42:29.547 dataS/character/playerF/pants/botCargo.i3d (18.07 ms)
+2025-11-25 13:42:29.573 dataS/character/playerF/jacket/topVest.i3d (25.46 ms)
+2025-11-25 13:42:29.576 dataS/character/playerF/shoes/workboot02.i3d (3.11 ms)
+2025-11-25 13:42:29.611 dataS/character/playerF/hairStyles/hairStylePonyTail03.i3d (34.89 ms)
+2025-11-25 13:43:25.873 dataS/character/playerF/pants/botChinos.i3d (13.71 ms)
+2025-11-25 13:43:26.041 dataS/character/playerF/heads/fHead06.i3d (109.51 ms)
+2025-11-25 13:43:26.103 dataS/character/playerF/shirts/topBlouse.i3d (61.12 ms)
+2025-11-25 13:43:26.105 dataS/character/playerF/shoes/sneaker01.i3d (2.75 ms)
+2025-11-25 13:43:26.141 dataS/character/playerF/hairStyles/hairStyleMidSideParted.i3d (35.35 ms)
+2025-11-25 13:45:57.011 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_RounderWrappedRoundbales/assets/roundbale150/roundbale150.i3d (1.89 ms)
