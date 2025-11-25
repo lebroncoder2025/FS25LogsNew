@@ -6123,3 +6123,12 @@ dataS/scripts/placeables/specializations/PlaceableObjectStorage.lua:388: attempt
 2025-11-25 09:31:13.212 Game saved successfully (savegame1).
 2025-11-25 10:01:23.082 Game saved successfully (savegame1).
 2025-11-25 10:31:32.981 Game saved successfully (savegame1).
+2025-11-25 11:01:43.001 Game saved successfully (savegame1).
+2025-11-25 11:26:36.745 Figuana joined the game
+2025-11-25 11:27:34.628 symonixprime joined the game
+2025-11-25 11:27:34.976 dataS/character/playerM/pants/poettinger/poettingerShort.i3d (149.75 ms)
+2025-11-25 11:27:34.990 dataS/character/playerM/heads/mHead02.i3d (14.38 ms)
+2025-11-25 11:27:35.109 dataS/character/playerM/shirts/topTShirt02.i3d (118.77 ms)
+2025-11-25 11:27:35.227 dataS/character/playerM/shoes/sandalM02.i3d (117.34 ms)
+2025-11-25 11:27:35.269 dataS/character/playerM/hairStyles/hairStyleTopKnot.i3d (42.22 ms)
+2025-11-25 11:27:35.288 dataS/character/playerM/facialHair/mHead02/fullBeard.i3d (18.91 ms)
