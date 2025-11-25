@@ -1,0 +1,20 @@
+GIANTS Engine Runtime 10.0.0 (43034) 64bit (Build Date: Oct 31 2025)
+Copyright (c) 2008-2025, GIANTS Software GmbH (giants-software.com), All Rights Reserved.
+Copyright (c) 2003-2025, Christian Ammann and Stefan Geiger, All Rights Reserved.
+Application: profile
+PID: 29756
+Main System
+  CPU: AMD EPYC 9224 24-Core Processor                
+  Virtual Cores: 48
+  Memory: 392922 MB
+  OS: Windows NT 10.0 64-bit
+[DirectStorage] Configured for base game on a SSD drive
+[DirectStorage] No GPU decompression for GDeflate
+[DirectStorage] No GPU decompression for GDeflate
+[DirectStorage] GDeflate Compression Support for 'FileQueueHigh' : DSTORAGE_COMPRESSION_SUPPORT_CPU_FALLBACK
+[DirectStorage] GDeflate Compression Support for 'FileQueueNormal' : DSTORAGE_COMPRESSION_SUPPORT_CPU_FALLBACK
+[DirectStorage] GDeflate Compression Support for 'MemoryQueueRealtime' : DSTORAGE_COMPRESSION_SUPPORT_CPU_FALLBACK
+[DirectStorage] Init success
+Physics System
+  Version: 6.3.7
+  Thread(s): 2
