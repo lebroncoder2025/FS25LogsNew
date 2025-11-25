@@ -5577,3 +5577,23 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-25 17:24:19.723 dataS/character/playerM/hairStyles/hairStyleFringe.i3d (34.67 ms)
 2025-11-25 17:25:18.121   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'CLAAS Lexion 590'
 2025-11-25 17:28:14.585 Game saved successfully (savegame1).
+2025-11-25 17:43:05.462 Jolero joined the game
+2025-11-25 17:43:05.481 dataS/character/playerM/shirts/topTShirt01.i3d (2.41 ms)
+2025-11-25 17:43:05.516 dataS/character/playerM/hairStyles/hairStyleTopKnot.i3d (34.84 ms)
+2025-11-25 17:43:05.536 dataS/character/playerM/facialHair/mHead01/goatee01.i3d (19.36 ms)
+2025-11-25 17:43:55.715 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.72 ms)
+2025-11-25 17:43:55.784 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_mrhHandLiftableConsumables/bag/bag.i3d (25.54 ms)
+2025-11-25 17:44:40.367 Jolero lost connection to the game
+2025-11-25 17:44:45.288 dataS/character/playerM/fullBody/onePieceMechanic.i3d (29.45 ms)
+2025-11-25 17:44:45.304 dataS/character/playerM/heads/mHead02.i3d (15.39 ms)
+2025-11-25 17:44:45.321 dataS/character/playerM/shoes/riding.i3d (16.94 ms)
+2025-11-25 17:44:45.356 dataS/character/playerM/hairStyles/hairStyleUnkempt.i3d (35.33 ms)
+2025-11-25 17:44:45.376 dataS/character/playerM/facialHair/mHead02/goatee01.i3d (19.64 ms)
+2025-11-25 17:46:03.814 Jolero joined the game
+2025-11-25 17:46:03.831 dataS/character/playerM/shirts/topTShirt01.i3d (2.38 ms)
+2025-11-25 17:46:03.866 dataS/character/playerM/hairStyles/hairStyleTopKnot.i3d (35.07 ms)
+2025-11-25 17:46:03.881 dataS/character/playerM/facialHair/mHead01/goatee01.i3d (14.25 ms)
+2025-11-25 17:47:10.669   Info: [Easy Development Controls] User Jolero has logged in as master user.
+2025-11-25 17:48:04.868   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Fendt 620 Vario - 50km/h'
+2025-11-25 17:48:33.324   Info: Moved 3 vehicles to coordinates 1494, 1479 successfully.
+2025-11-25 17:49:06.894   Info: Moved 2 vehicles to coordinates 703, 783 successfully.
