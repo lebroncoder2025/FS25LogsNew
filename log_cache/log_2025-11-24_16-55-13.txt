@@ -6132,3 +6132,17 @@ dataS/scripts/placeables/specializations/PlaceableObjectStorage.lua:388: attempt
 2025-11-25 11:27:35.227 dataS/character/playerM/shoes/sandalM02.i3d (117.34 ms)
 2025-11-25 11:27:35.269 dataS/character/playerM/hairStyles/hairStyleTopKnot.i3d (42.22 ms)
 2025-11-25 11:27:35.288 dataS/character/playerM/facialHair/mHead02/fullBeard.i3d (18.91 ms)
+2025-11-25 11:29:12.800   Warning: Server:registerObject() object table: 0x000001eb06acc928 2640 Placeable already registered
+2025-11-25 11:30:37.930   Warning: Server:registerObject() object table: 0x000001eb421eb988 2641 Placeable already registered
+2025-11-25 11:31:34.846 Figuana lost connection to the game
+2025-11-25 11:31:46.501 Game saved successfully (savegame1).
+2025-11-25 11:32:03.800 symonixprime lost connection to the game
+2025-11-25 11:34:44.478 symonixprime joined the game
+2025-11-25 11:34:44.826 dataS/character/playerM/pants/poettinger/poettingerShort.i3d (148.28 ms)
+2025-11-25 11:34:44.840 dataS/character/playerM/heads/mHead02.i3d (14.08 ms)
+2025-11-25 11:34:44.936 dataS/character/playerM/shirts/topTShirt02.i3d (96.37 ms)
+2025-11-25 11:34:45.032 dataS/character/playerM/shoes/sandalM02.i3d (95.75 ms)
+2025-11-25 11:34:45.067 dataS/character/playerM/hairStyles/hairStyleTopKnot.i3d (35.29 ms)
+2025-11-25 11:34:45.083 dataS/character/playerM/facialHair/mHead02/fullBeard.i3d (15.36 ms)
+2025-11-25 11:37:39.199   Warning: Server:registerObject() object table: 0x000001eb0a28a978 2646 Placeable already registered
+2025-11-25 11:38:30.931 symonixprime lost connection to the game
