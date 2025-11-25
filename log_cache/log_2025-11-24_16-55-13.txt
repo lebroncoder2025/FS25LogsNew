@@ -6085,3 +6085,26 @@ dataS/scripts/placeables/specializations/PlaceableObjectStorage.lua:388: attempt
 2025-11-25 05:30:02.762 Game saved successfully (savegame1).
 2025-11-25 06:00:12.422 Game saved successfully (savegame1).
 2025-11-25 06:30:22.922 Game saved successfully (savegame1).
+2025-11-25 07:00:31.561 Game saved successfully (savegame1).
+2025-11-25 07:04:54.035 M@rcin joined the game
+2025-11-25 07:04:54.261 dataS/character/playerM/jacket/topAviatorJacket.i3d (27.50 ms)
+2025-11-25 07:04:54.263 dataS/character/playerM/attachments/glassesAviators.i3d (1.92 ms)
+2025-11-25 07:04:54.305 dataS/character/playerM/hairStyles/hairStyleDiablo.i3d (41.82 ms)
+2025-11-25 07:04:54.306 dataS/character/playerM/facialHair/mHead01/beardStubble.i3d (1.40 ms)
+2025-11-25 07:06:49.799   Warning: Server:registerObject() object table: 0x000001eb7272b438 2591 Placeable already registered
+2025-11-25 07:08:11.271 M@rcin lost connection to the game
+2025-11-25 07:09:15.204 M@rcin joined the game
+2025-11-25 07:09:15.423 dataS/character/playerM/jacket/topAviatorJacket.i3d (19.32 ms)
+2025-11-25 07:09:15.424 dataS/character/playerM/attachments/glassesAviators.i3d (1.45 ms)
+2025-11-25 07:09:15.459 dataS/character/playerM/hairStyles/hairStyleDiablo.i3d (34.39 ms)
+2025-11-25 07:09:15.460 dataS/character/playerM/facialHair/mHead01/beardStubble.i3d (1.40 ms)
+2025-11-25 07:10:22.660   Warning: Server:registerObject() object table: 0x000001eb7bf8d688 2595 Placeable already registered
+2025-11-25 07:20:23.497 M@rcin lost connection to the game
+2025-11-25 07:21:32.263 M@rcin joined the game
+2025-11-25 07:21:32.480 dataS/character/playerM/jacket/topAviatorJacket.i3d (19.29 ms)
+2025-11-25 07:21:32.481 dataS/character/playerM/attachments/glassesAviators.i3d (1.48 ms)
+2025-11-25 07:21:32.516 dataS/character/playerM/hairStyles/hairStyleDiablo.i3d (34.55 ms)
+2025-11-25 07:21:32.517 dataS/character/playerM/facialHair/mHead01/beardStubble.i3d (1.40 ms)
+2025-11-25 07:22:39.575   Warning: Server:registerObject() object table: 0x000001eb728b9158 2600 Placeable already registered
+2025-11-25 07:24:43.299 M@rcin lost connection to the game
+2025-11-25 07:30:36.026 Game saved successfully (savegame1).
