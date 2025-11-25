@@ -5478,3 +5478,33 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-25 14:47:31.993 dataS/character/playerM/shoes/riding.i3d (16.75 ms)
 2025-11-25 14:47:32.029 dataS/character/playerM/hairStyles/hairStyleUnkempt.i3d (35.51 ms)
 2025-11-25 14:47:32.050 dataS/character/playerM/facialHair/mHead02/goatee01.i3d (21.04 ms)
+2025-11-25 14:49:03.224 dataS/character/playerM/heads/mHead05.i3d (195.45 ms)
+2025-11-25 14:49:03.321 dataS/character/playerM/shirts/zipNeckPullover.i3d (96.60 ms)
+2025-11-25 14:49:03.354 dataS/character/playerM/hairStyles/hairStyleManBun.i3d (33.32 ms)
+2025-11-25 14:49:03.364 dataS/character/playerM/facialHair/mHead05/goatee02.i3d (10.15 ms)
+2025-11-25 14:56:06.208 dataS/character/playerF/pants/botChinos.i3d (13.59 ms)
+2025-11-25 14:56:06.319 dataS/character/playerF/heads/fHead06.i3d (110.97 ms)
+2025-11-25 14:56:06.372 dataS/character/playerF/shirts/topBlouse.i3d (53.55 ms)
+2025-11-25 14:56:06.375 dataS/character/playerF/shoes/sneaker01.i3d (2.80 ms)
+2025-11-25 14:56:06.411 dataS/character/playerF/hairStyles/hairStyleMidSideParted.i3d (35.61 ms)
+2025-11-25 14:58:09.110 Game saved successfully (savegame1).
+2025-11-25 15:00:11.263 Piotrek joined the game
+2025-11-25 15:00:11.291 dataS/character/playerM/pants/botChinos.i3d (13.59 ms)
+2025-11-25 15:00:11.369 dataS/character/playerM/shirts/strauss/straussTShirtMerino.i3d (77.08 ms)
+2025-11-25 15:00:11.374 dataS/character/playerM/gloves/glovesGeneric.i3d (4.98 ms)
+2025-11-25 15:00:11.467 dataS/character/playerM/shoes/sandalM03.i3d (93.83 ms)
+2025-11-25 15:00:11.468 dataS/character/playerM/hairStyles/hairStyleBald.i3d (0.28 ms)
+2025-11-25 15:02:06.836 dataS/character/playerF/pants/botJeansCapris.i3d (20.77 ms)
+2025-11-25 15:02:07.032 dataS/character/playerF/heads/fHead03.i3d (195.96 ms)
+2025-11-25 15:02:07.080 dataS/character/playerF/shirts/topTankTop.i3d (48.55 ms)
+2025-11-25 15:02:07.119 dataS/character/playerF/shoes/sneaker01.i3d (2.92 ms)
+2025-11-25 15:06:15.719 siwa lost connection to the game
+2025-11-25 15:12:58.067 siwa joined the game
+2025-11-25 15:12:58.108 dataS/character/playerM/pants/volvo/volvoPants.i3d (25.97 ms)
+2025-11-25 15:12:58.115 dataS/character/playerM/shirts/volvo/volvoTshirt.i3d (6.81 ms)
+2025-11-25 15:12:58.117 dataS/character/playerM/attachments/glassesSports01.i3d (1.87 ms)
+2025-11-25 15:14:00.854   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'JCB AgriPro'
+2025-11-25 15:19:34.589 data/objects/pallets/preservedFoodBeetRootPallet/preservedFoodBeetRootPallet.i3d (10.99 ms)
+2025-11-25 15:21:07.692 data/objects/pallets/fermentedNapaCabbageBoxPallet/fermentedNapaCabbageBoxPallet.i3d (17.11 ms)
+2025-11-25 15:21:07.704 data/objects/pallets/preservedFoodBeetRootPallet/preservedFoodBeetRootPallet.i3d (12.21 ms)
+2025-11-25 15:23:52.904   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'JCB Fastrac 8330'
