@@ -5450,3 +5450,11 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-25 13:43:26.105 dataS/character/playerF/shoes/sneaker01.i3d (2.75 ms)
 2025-11-25 13:43:26.141 dataS/character/playerF/hairStyles/hairStyleMidSideParted.i3d (35.35 ms)
 2025-11-25 13:45:57.011 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_RounderWrappedRoundbales/assets/roundbale150/roundbale150.i3d (1.89 ms)
+2025-11-25 13:58:07.737 Game saved successfully (savegame1).
+2025-11-25 14:00:17.446 dataS/character/playerM/pants/botLeather.i3d (18.18 ms)
+2025-11-25 14:00:17.481 dataS/character/playerM/jacket/topVest.i3d (34.10 ms)
+2025-11-25 14:02:18.761 dataS/character/playerF/pants/botChinos.i3d (13.64 ms)
+2025-11-25 14:02:18.872 dataS/character/playerF/heads/fHead06.i3d (110.11 ms)
+2025-11-25 14:02:18.925 dataS/character/playerF/shirts/topBlouse.i3d (53.44 ms)
+2025-11-25 14:02:18.928 dataS/character/playerF/shoes/sneaker01.i3d (2.68 ms)
+2025-11-25 14:02:18.963 dataS/character/playerF/hairStyles/hairStyleMidSideParted.i3d (35.07 ms)
