@@ -6758,3 +6758,59 @@ dataS/scripts/vehicles/Vehicle.lua:1935: attempt to compare nil < number
 2025-11-25 18:39:30.549   Info: Adding pallet.
 2025-11-25 18:39:33.583   Info: Adding pallet.
 2025-11-25 18:39:33.728   Info: Adding pallet.
+2025-11-25 18:41:43.718   Info: Savegame Setting 'economicDifficulty': NORMAL
+2025-11-25 18:41:43.846   Info: Savegame Setting 'economicDifficulty': EASY
+2025-11-25 18:41:47.011 data/objects/pallets/eggBoxPallet/eggBoxPallet.i3d (8.21 ms)
+2025-11-25 18:42:03.721   Info: Savegame Setting 'economicDifficulty': NORMAL
+2025-11-25 18:42:03.886   Info: Savegame Setting 'economicDifficulty': HARD
+2025-11-25 18:45:37.231 data/objects/pallets/fermentedNapaCabbageBoxPallet/fermentedNapaCabbageBoxPallet.i3d (17.98 ms)
+2025-11-25 18:45:37.244 data/objects/pallets/preservedFoodBeetRootPallet/preservedFoodBeetRootPallet.i3d (12.80 ms)
+2025-11-25 18:54:12.358   Info: Moved 3 vehicles to coordinates 1589, 278 successfully.
+2025-11-25 18:54:53.694   Info: Moved 3 vehicles to coordinates 1675, 1501 successfully.
+2025-11-25 18:56:51.296   Info: Moved player to coordinates 74, 254 successfully.
+2025-11-25 18:56:58.266   Info: Successfully set fill unit 1 of KINZE 4905 Blue Drive to Seeds with a fill level of 4,228 liters.
+2025-11-25 18:56:59.674   Info: Successfully set fill unit 2 of KINZE 4905 Blue Drive to Liquid Fertilizer with a fill level of 2,840 liters.
+2025-11-25 18:57:08.222   Info: Moved 2 vehicles to coordinates 749, 992 successfully.
+2025-11-25 18:58:21.483 Game saved successfully (savegame1).
+2025-11-25 19:00:30.414 dataS/character/playerM/fullBody/onePieceMechanic.i3d (30.01 ms)
+2025-11-25 19:00:30.430 dataS/character/playerM/heads/mHead02.i3d (16.80 ms)
+2025-11-25 19:00:30.447 dataS/character/playerM/shoes/riding.i3d (16.75 ms)
+2025-11-25 19:00:30.483 dataS/character/playerM/hairStyles/hairStyleUnkempt.i3d (35.49 ms)
+2025-11-25 19:00:30.497 dataS/character/playerM/facialHair/mHead02/goatee01.i3d (14.16 ms)
+2025-11-25 19:04:13.932 data/placeables/brandless/productionPointsGeneric/dairy/dairy.i3d (14.73 ms)
+2025-11-25 19:04:14.061 data/maps/mapAS/textures/props/barrel02.i3d (1.42 ms)
+2025-11-25 19:04:14.066 data/maps/textures/shared/props/industrialProps/container22.i3d (1.72 ms)
+2025-11-25 19:04:14.069 data/maps/mapAS/textures/props/airConditioner.i3d (2.18 ms)
+2025-11-25 19:04:14.071 data/maps/mapAS/textures/props/pipes/pipes07.i3d (1.37 ms)
+2025-11-25 19:04:14.073 data/placeables/brandless/productionPointsGeneric/dairy/dairyProps.i3d (17.22 ms)
+2025-11-25 19:05:11.507 data/objects/pallets/fermentedNapaCabbageBoxPallet/fermentedNapaCabbageBoxPallet.i3d (15.26 ms)
+2025-11-25 19:05:11.580   Info: Added € 105,000 to farm account. (2)
+2025-11-25 19:05:48.253 data/placeables/brandless/productionPointsGeneric/dairy/dairy.i3d (542.71 ms)
+2025-11-25 19:05:48.272 data/maps/mapAS/textures/props/barrel02.i3d (1.80 ms)
+2025-11-25 19:05:48.277 data/maps/textures/shared/props/industrialProps/container22.i3d (2.15 ms)
+2025-11-25 19:05:48.281 data/maps/mapAS/textures/props/airConditioner.i3d (2.36 ms)
+2025-11-25 19:05:48.283 data/maps/mapAS/textures/props/pipes/pipes07.i3d (1.66 ms)
+2025-11-25 19:05:48.284 data/placeables/brandless/productionPointsGeneric/dairy/dairyProps.i3d (17.72 ms)
+2025-11-25 19:11:10.797 data/maps/trees/beech/beech_stage03.i3d (4.13 ms)
+2025-11-25 19:11:27.021 data/objects/pallets/preservedFoodBeetRootPallet/preservedFoodBeetRootPallet.i3d (12.84 ms)
+2025-11-25 19:13:03.180 hubsonwaliszot joined the game
+2025-11-25 19:13:03.215 dataS/character/playerM/pants/botJeanShorts.i3d (18.06 ms)
+2025-11-25 19:13:03.233 dataS/character/playerM/heads/mHead02.i3d (17.54 ms)
+2025-11-25 19:13:03.554 dataS/character/playerM/shirts/poettinger/poettingerTshirt.i3d (285.56 ms)
+2025-11-25 19:13:03.602 dataS/character/playerM/gloves/strauss/glovesEsTrailLight02.i3d (48.83 ms)
+2025-11-25 19:13:03.691 dataS/character/playerM/attachments/hatWoolen.i3d (50.79 ms)
+2025-11-25 19:13:03.692 dataS/character/playerM/attachments/glassesAviators.i3d (1.70 ms)
+2025-11-25 19:13:03.727 dataS/character/playerM/hairStyles/hairStyleMullet.i3d (34.40 ms)
+2025-11-25 19:13:03.763 dataS/character/playerM/facialHair/mHead02/trimmedBeard.i3d (11.44 ms)
+2025-11-25 19:16:14.778 M@rcin joined the game
+2025-11-25 19:16:14.816 dataS/character/playerM/jacket/topAviatorJacket.i3d (19.34 ms)
+2025-11-25 19:16:14.850 dataS/character/playerM/hairStyles/hairStyleDiablo.i3d (34.27 ms)
+2025-11-25 19:16:14.885 dataS/character/playerM/facialHair/mHead01/beardStubble.i3d (1.62 ms)
+2025-11-25 19:20:04.029 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Wheelie_Great_Workshop/i3ds/wheelieGreatShopContainer02.i3d (64.28 ms)
+2025-11-25 19:23:52.056 data/maps/trees/beech/beech_stage06_var02.i3d (9.64 ms)
+2025-11-25 19:24:43.739   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'CLAAS LEXION 8900'
+2025-11-25 19:26:10.615 dataS/character/playerF/pants/botCargo.i3d (17.70 ms)
+2025-11-25 19:26:10.639 dataS/character/playerF/jacket/topVest.i3d (24.64 ms)
+2025-11-25 19:26:10.686 dataS/character/playerF/shoes/workboot02.i3d (3.25 ms)
+2025-11-25 19:26:10.719 dataS/character/playerF/hairStyles/hairStylePonyTail03.i3d (33.72 ms)
+2025-11-25 19:28:22.664 Game saved successfully (savegame1).
