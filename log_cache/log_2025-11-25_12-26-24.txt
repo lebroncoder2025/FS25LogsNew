@@ -6820,3 +6820,116 @@ dataS/scripts/vehicles/Vehicle.lua:1935: attempt to compare nil < number
 2025-11-25 19:41:05.233   Info: Successfully added 'ExhaustExtension' particle system to 3 nodes of vehicle 'SCANIA 770 V8 CHIP'
 2025-11-25 19:41:46.542   Info: Added € 8,000 to farm account. (2)
 2025-11-25 19:44:13.082   Info: Diesel level of Fendt 728 Vario Chip 330 changed to 450 liters.
+2025-11-25 19:49:35.137 siwa joined the game
+2025-11-25 19:49:35.178 dataS/character/playerM/pants/volvo/volvoPants.i3d (25.77 ms)
+2025-11-25 19:49:35.184 dataS/character/playerM/shirts/volvo/volvoTshirt.i3d (5.83 ms)
+2025-11-25 19:49:35.186 dataS/character/playerM/attachments/glassesSports01.i3d (1.82 ms)
+2025-11-25 19:58:26.208 Game saved successfully (savegame1).
+2025-11-25 20:00:46.878 dataS/character/playerF/pants/botJeansCapris.i3d (20.64 ms)
+2025-11-25 20:00:47.074 dataS/character/playerF/heads/fHead03.i3d (196.43 ms)
+2025-11-25 20:00:47.123 dataS/character/playerF/shirts/topTankTop.i3d (48.77 ms)
+2025-11-25 20:00:47.191 dataS/character/playerF/shoes/sneaker01.i3d (2.95 ms)
+2025-11-25 20:06:09.695 
+Script error in getHasClassId: Unknown entity id 28927156 for 'object' in method 'getHasClassId'.
+
+LUA call stack:
+  =[C]:-1 getHasClassId
+  =dataS/scripts/triggers/WoodUnloadTrigger.lua:295 woodTriggerCallback
+2025-11-25 20:06:09.696 
+Script error in getHasClassId: Unknown entity id 28927156 for 'object' in method 'getHasClassId'.
+
+LUA call stack:
+  =[C]:-1 getHasClassId
+  =dataS/scripts/triggers/WoodUnloadTrigger.lua:295 woodTriggerCallback
+2025-11-25 20:06:09.696 
+Script error in getRigidBodyType: Unknown entity id 28927156 for 'object' in method 'getRigidBodyType'.
+
+LUA call stack:
+  =[C]:-1 getRigidBodyType
+  =dataS/scripts/vehicles/specializations/BaleLoader.lua:2875 baleLoaderMoveTriggerCallback
+2025-11-25 20:06:09.696 
+Script error in getRigidBodyType: Unknown entity id 28927156 for 'object' in method 'getRigidBodyType'.
+
+LUA call stack:
+  =[C]:-1 getRigidBodyType
+  =dataS/scripts/vehicles/specializations/BaleLoader.lua:2875 baleLoaderMoveTriggerCallback
+2025-11-25 20:06:09.696 
+Script error in getRigidBodyType: Unknown entity id 28927156 for 'object' in method 'getRigidBodyType'.
+
+LUA call stack:
+  =[C]:-1 getRigidBodyType
+  =dataS/scripts/vehicles/specializations/BaleWrapper.lua:1141 baleGrabberTriggerCallback
+2025-11-25 20:06:09.697 
+Script error in getRigidBodyType: Unknown entity id 28927156 for 'object' in method 'getRigidBodyType'.
+
+LUA call stack:
+  =[C]:-1 getRigidBodyType
+  =dataS/scripts/vehicles/specializations/BaleLoader.lua:2843 baleGrabberTriggerCallback
+2025-11-25 20:06:09.697 
+Script error in getRigidBodyType: Unknown entity id 28927156 for 'object' in method 'getRigidBodyType'.
+
+LUA call stack:
+  =[C]:-1 getRigidBodyType
+  =dataS/scripts/vehicles/specializations/BaleLoader.lua:2843 baleGrabberTriggerCallback
+2025-11-25 20:06:09.697 
+Script error in getRigidBodyType: Unknown entity id 28927156 for 'object' in method 'getRigidBodyType'.
+
+LUA call stack:
+  =[C]:-1 getRigidBodyType
+  =dataS/scripts/vehicles/specializations/BaleLoader.lua:2843 baleGrabberTriggerCallback
+2025-11-25 20:06:09.697 
+Script error in getRigidBodyType: Unknown entity id 28927156 for 'object' in method 'getRigidBodyType'.
+
+LUA call stack:
+  =[C]:-1 getRigidBodyType
+  =dataS/scripts/vehicles/specializations/DynamicMountAttacher.lua:716 dynamicMountTriggerCallback
+2025-11-25 20:06:09.697 
+Script error in getRigidBodyType: Unknown entity id 28927156 for 'object' in method 'getRigidBodyType'.
+
+LUA call stack:
+  =[C]:-1 getRigidBodyType
+  =dataS/scripts/vehicles/specializations/BaleWrapper.lua:1141 baleGrabberTriggerCallback
+2025-11-25 20:06:09.697 
+Script error in getRigidBodyType: Unknown entity id 28927156 for 'object' in method 'getRigidBodyType'.
+
+LUA call stack:
+  =[C]:-1 getRigidBodyType
+  =dataS/scripts/vehicles/specializations/DynamicMountAttacher.lua:716 dynamicMountTriggerCallback
+2025-11-25 20:06:09.697 
+Script error in getRigidBodyType: Unknown entity id 28927156 for 'object' in method 'getRigidBodyType'.
+
+LUA call stack:
+  =[C]:-1 getRigidBodyType
+  =dataS/scripts/vehicles/specializations/DynamicMountAttacher.lua:716 dynamicMountTriggerCallback
+2025-11-25 20:06:09.697 
+Script error in getRigidBodyType: Unknown entity id 28927156 for 'object' in method 'getRigidBodyType'.
+
+LUA call stack:
+  =[C]:-1 getRigidBodyType
+  =dataS/scripts/vehicles/specializations/DynamicMountAttacher.lua:716 dynamicMountTriggerCallback
+2025-11-25 20:06:09.697 
+Script error in getRigidBodyType: Unknown entity id 28927156 for 'object' in method 'getRigidBodyType'.
+
+LUA call stack:
+  =[C]:-1 getRigidBodyType
+  =dataS/scripts/vehicles/specializations/BaleLoader.lua:2843 baleGrabberTriggerCallback
+2025-11-25 20:06:09.697 
+Script error in getRigidBodyType: Unknown entity id 28927156 for 'object' in method 'getRigidBodyType'.
+
+LUA call stack:
+  =[C]:-1 getRigidBodyType
+  =dataS/scripts/vehicles/specializations/BaleLoader.lua:2843 baleGrabberTriggerCallback
+2025-11-25 20:06:09.697 
+Script error in getRigidBodyType: Unknown entity id 28927156 for 'object' in method 'getRigidBodyType'.
+
+LUA call stack:
+  =[C]:-1 getRigidBodyType
+  =dataS/scripts/vehicles/specializations/BaleLoader.lua:2875 baleLoaderMoveTriggerCallback
+2025-11-25 20:07:02.365   Info: Moved 1 vehicles to coordinates 1205, 586 successfully.
+2025-11-25 20:07:16.667 data/objects/bigBag/bigBag.i3d (6.48 ms)
+2025-11-25 20:07:20.661   Info: Successfully set fill unit 1 of Wielton Wielton bulk master to Sorghum with a fill level of 63,000 liters.
+2025-11-25 20:07:29.311   Info: Moved 2 vehicles to coordinates 1475, 296 successfully.
+2025-11-25 20:07:36.209   Info: Moved 2 vehicles to coordinates 1479, 303 successfully.
+2025-11-25 20:07:45.495   Info: Moved 2 vehicles to coordinates 1504, 312 successfully.
+2025-11-25 20:07:54.687 data/objects/bigBag/bigBag.i3d (6.54 ms)
+2025-11-25 20:19:21.401   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'STEYR 8130 Super Elite'
