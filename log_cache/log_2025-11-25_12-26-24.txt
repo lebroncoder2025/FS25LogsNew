@@ -410169,3 +410169,9 @@ LUA call stack:
 2025-11-26 17:11:06.080 dataS/character/playerM/attachments/glassesSports01.i3d (1.91 ms)
 2025-11-26 17:14:01.729 M@rcin lost connection to the game
 2025-11-26 17:30:45.863 siwa lost connection to the game
+2025-11-26 17:32:37.331 Game saved successfully (savegame1).
+2025-11-26 17:32:39.214 siwa joined the game
+2025-11-26 17:32:39.255 dataS/character/playerM/pants/volvo/volvoPants.i3d (26.00 ms)
+2025-11-26 17:32:39.261 dataS/character/playerM/shirts/volvo/volvoTshirt.i3d (5.88 ms)
+2025-11-26 17:32:39.263 dataS/character/playerM/attachments/glassesSports01.i3d (1.81 ms)
+2025-11-26 17:35:23.668 Figuana lost connection to the game
