@@ -410185,3 +410185,5 @@ LUA call stack:
 2025-11-26 18:17:14.769 dataS/character/playerF/jacket/topAviatorJacket.i3d (20.38 ms)
 2025-11-26 18:17:14.863 dataS/character/playerF/shoes/laceUpSneaker.i3d (94.43 ms)
 2025-11-26 18:17:14.908 dataS/character/playerF/hairStyles/hairStylePonyTail01.i3d (44.91 ms)
+2025-11-26 18:26:10.422 siwa lost connection to the game
+2025-11-26 18:32:42.499 Game saved successfully (savegame1).
