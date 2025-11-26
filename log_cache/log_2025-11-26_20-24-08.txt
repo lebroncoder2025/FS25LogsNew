@@ -5542,3 +5542,11 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-26 23:34:43.395 data/placeables/brandless/fences/US/fence16/fence16.i3d (6.33 ms)
 2025-11-26 23:34:53.659 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Concrete_Fences/i3d/plotBeton05.i3d (19.79 ms)
 2025-11-26 23:35:15.642 data/placeables/brandless/fences/AS/fence08/fence08.i3d (4.91 ms)
+2025-11-26 23:39:41.111 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_slurryTanks/smallTank.i3d (3.71 ms)
+2025-11-26 23:55:45.687 dataS/character/playerF/pants/botJeansCapris.i3d (20.59 ms)
+2025-11-26 23:55:45.883 dataS/character/playerF/heads/fHead03.i3d (196.15 ms)
+2025-11-26 23:55:45.936 dataS/character/playerF/shirts/topTankTop.i3d (53.36 ms)
+2025-11-26 23:55:45.939 dataS/character/playerF/shoes/sneaker01.i3d (2.79 ms)
+2025-11-26 23:56:09.194 Game saved successfully (savegame1).
+2025-11-27 00:06:55.044 Romek lost connection to the game
+2025-11-27 00:07:24.831 Lewy lost connection to the game
