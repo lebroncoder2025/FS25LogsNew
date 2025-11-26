@@ -409997,3 +409997,43 @@ LUA call stack:
 2025-11-26 14:46:59.891 dataS/character/playerF/shirts/topTankTop.i3d (58.60 ms)
 2025-11-26 14:46:59.894 dataS/character/playerF/shoes/sneaker01.i3d (2.81 ms)
 2025-11-26 14:49:24.510 data/objects/pallets/preservedFoodBeetRootPallet/preservedFoodBeetRootPallet.i3d (10.13 ms)
+2025-11-26 14:55:05.705 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.72 ms)
+2025-11-26 14:55:19.000 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.73 ms)
+2025-11-26 14:55:32.078 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.74 ms)
+2025-11-26 14:55:44.757 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.58 ms)
+2025-11-26 14:56:53.533 dataS/character/playerF/pants/botChinos.i3d (9.01 ms)
+2025-11-26 14:56:53.666 dataS/character/playerF/heads/fHead06.i3d (132.96 ms)
+2025-11-26 14:56:53.731 dataS/character/playerF/shirts/topBlouse.i3d (65.45 ms)
+2025-11-26 14:56:53.774 dataS/character/playerF/hairStyles/hairStyleMidSideParted.i3d (43.21 ms)
+2025-11-26 14:57:54.186 Jolero joined the game
+2025-11-26 14:57:54.239 dataS/character/playerM/hairStyles/hairStyleTopKnot.i3d (35.29 ms)
+2025-11-26 14:57:54.262 dataS/character/playerM/facialHair/mHead01/goatee01.i3d (22.90 ms)
+2025-11-26 14:59:30.038   Info: [Easy Development Controls] User Jolero has logged in as master user.
+2025-11-26 14:59:31.810   Info: Super Strength enabled by Jolero
+2025-11-26 14:59:39.351 Piotrek lost connection to the game
+2025-11-26 15:00:05.668   Info: Moved player to coordinates 633, 838 successfully.
+2025-11-26 15:00:21.583   Info: Super Strength disabled by Jolero
+2025-11-26 15:00:22.145   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'AGRIFAC Condor Endurance II'
+2025-11-26 15:02:27.352 Game saved successfully (savegame1).
+2025-11-26 15:03:25.703 Warning: Send called with unknown target address.
+2025-11-26 15:03:25.711 Jolero left the game
+2025-11-26 15:04:30.847 Jolero joined the game
+2025-11-26 15:04:30.900 dataS/character/playerM/hairStyles/hairStyleTopKnot.i3d (34.79 ms)
+2025-11-26 15:04:30.919 dataS/character/playerM/facialHair/mHead01/goatee01.i3d (19.15 ms)
+2025-11-26 15:05:33.393   Info: [Easy Development Controls] User Jolero has logged in as master user.
+2025-11-26 15:10:13.316 data/objects/pallets/fabricsPallet/fabricsPallet.i3d (6.69 ms)
+2025-11-26 15:10:13.422   Info: Adding pallet.
+2025-11-26 15:10:13.484 data/objects/pallets/fabricsPallet/fabricsPallet.i3d (5.95 ms)
+2025-11-26 15:10:13.593   Info: Adding pallet.
+2025-11-26 15:10:13.699   Info: Adding pallet.
+2025-11-26 15:10:13.820   Info: Adding pallet.
+2025-11-26 15:10:13.894 data/objects/pallets/fabricsPallet/fabricsPallet.i3d (6.26 ms)
+2025-11-26 15:10:13.992   Info: Adding pallet.
+2025-11-26 15:10:14.135   Info: Adding pallet.
+2025-11-26 15:10:14.263   Info: Adding pallet.
+2025-11-26 15:10:14.436   Info: Adding pallet.
+2025-11-26 15:10:14.553   Info: Adding pallet.
+2025-11-26 15:13:05.751   Info: Moved 2 vehicles to coordinates 637, 830 successfully.
+2025-11-26 15:13:13.405   Info: Super Strength enabled by Jolero
+2025-11-26 15:13:29.831   Info: Super Strength disabled by Jolero
+2025-11-26 15:24:26.302 siwa lost connection to the game
