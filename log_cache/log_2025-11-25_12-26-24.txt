@@ -209306,3 +209306,13 @@ LUA call stack:
 2025-11-26 10:32:09.300 Game saved successfully (savegame1).
 2025-11-26 11:02:10.593 Game saved successfully (savegame1).
 2025-11-26 11:32:12.371 Game saved successfully (savegame1).
+2025-11-26 11:55:07.542 data/objects/pallets/pioneer/pioneerPallet.i3d (1.48 ms)
+2025-11-26 11:55:07.551 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_lsfmBigBagPack/objects/bigBagFillable/bigBagFillable.i3d (7.96 ms)
+2025-11-26 12:02:13.695 Game saved successfully (savegame1).
+2025-11-26 12:07:53.889 symonixprime serwerkaput lost connection to the game
+2025-11-26 12:16:59.796 Piotrek joined the game
+2025-11-26 12:17:00.017 dataS/character/playerM/pants/botChinos.i3d (22.19 ms)
+2025-11-26 12:17:00.112 dataS/character/playerM/shirts/strauss/straussTShirtMerino.i3d (94.44 ms)
+2025-11-26 12:17:00.118 dataS/character/playerM/gloves/glovesGeneric.i3d (6.62 ms)
+2025-11-26 12:17:00.262 dataS/character/playerM/shoes/sandalM03.i3d (142.98 ms)
+2025-11-26 12:17:00.265 dataS/character/playerM/hairStyles/hairStyleBald.i3d (2.74 ms)
