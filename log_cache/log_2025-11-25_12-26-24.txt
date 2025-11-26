@@ -209296,3 +209296,6 @@ LUA call stack:
 2025-11-26 08:11:26.613 dataS/character/playerM/hairStyles/hairStyleTopKnot.i3d (40.33 ms)
 2025-11-26 08:11:26.631 dataS/character/playerM/facialHair/mHead02/fullBeard.i3d (18.21 ms)
 2025-11-26 08:32:04.373 Game saved successfully (savegame1).
+2025-11-26 09:02:05.486 Game saved successfully (savegame1).
+2025-11-26 09:11:37.734   Info: No 'ExhaustExtension' particle system added to vehicle 'Kärcher HDS 9/18-4 M' because it has no exhaust
+2025-11-26 09:32:05.948 Game saved successfully (savegame1).
