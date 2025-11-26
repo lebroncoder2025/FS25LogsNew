@@ -5495,3 +5495,13 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-26 21:25:38.502 dataS/character/playerM/hairStyles/hairStyleMidParted01.i3d (33.19 ms)
 2025-11-26 21:26:00.020 Game saved successfully (savegame1).
 2025-11-26 21:28:20.357 data/objects/pallets/preservedFoodBeetRootPallet/preservedFoodBeetRootPallet.i3d (10.37 ms)
+2025-11-26 21:54:45.532 data/objects/pallets/mozzarellaBufalaBoxPallet/mozzarellaBufalaBoxPallet.i3d (27.82 ms)
+2025-11-26 21:55:56.335   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'HOLMER Terra Dos T4-40'
+2025-11-26 21:56:00.560 Game saved successfully (savegame1).
+2025-11-26 22:15:28.877 Piotrek lost connection to the game
+2025-11-26 22:20:05.472 Lewy joined the game
+2025-11-26 22:20:05.629 dataS/character/playerM/pants/poettinger/poettingerShort.i3d (141.98 ms)
+2025-11-26 22:20:05.724 dataS/character/playerM/jacket/claas/claasTop.i3d (95.75 ms)
+2025-11-26 22:20:05.729 dataS/character/playerM/attachments/headgearBeanie.i3d (4.39 ms)
+2025-11-26 22:20:05.752 dataS/character/playerM/shoes/crok.i3d (23.54 ms)
+2025-11-26 22:20:05.772 dataS/character/playerM/facialHair/mHead01/goatee01.i3d (19.57 ms)
