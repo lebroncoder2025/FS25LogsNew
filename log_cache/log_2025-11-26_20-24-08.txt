@@ -5516,3 +5516,20 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-26 22:26:18.468 dataS/character/playerM/attachments/glassesAviators.i3d (1.62 ms)
 2025-11-26 22:26:18.492 dataS/character/playerM/shoes/crok.i3d (23.34 ms)
 2025-11-26 22:26:18.511 dataS/character/playerM/facialHair/mHead01/goatee01.i3d (19.19 ms)
+2025-11-26 22:36:08.230   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'DEUTZ-FAHR 6135 C RVshift'
+2025-11-26 22:38:02.615   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'New Holland 190 50KPH'
+2025-11-26 22:41:33.488   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Fendt 832 Vario Gen5 - 60km/h'
+2025-11-26 22:45:05.088   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Case IH CVX 195'
+2025-11-26 22:46:23.414 Romek joined the game
+2025-11-26 22:46:23.542 dataS/character/playerM/pants/strauss/motion2020Pants2ndVariant.i3d (107.87 ms)
+2025-11-26 22:46:23.688 dataS/character/playerM/jacket/topVestM.i3d (145.81 ms)
+2025-11-26 22:46:23.715 dataS/character/playerM/attachments/headgearBandana.i3d (2.69 ms)
+2025-11-26 22:46:23.717 dataS/character/playerM/attachments/glassesSports02.i3d (1.72 ms)
+2025-11-26 22:46:23.813 dataS/character/playerM/shoes/sportSneaker.i3d (96.45 ms)
+2025-11-26 22:46:23.847 dataS/character/playerM/hairStyles/hairStyleTopKnot.i3d (33.90 ms)
+2025-11-26 22:46:23.859 dataS/character/playerM/facialHair/mHead01/trimmedBeard.i3d (11.25 ms)
+2025-11-26 22:47:58.049   Info: Successfully added 'ExhaustExtension' particle system to 3 nodes of vehicle 'SCANIA 770 V8 CHIP'
+2025-11-26 22:52:06.563   Info: Successfully added 'ExhaustExtension' particle system to 2 nodes of vehicle 'DEUTZ-FAHR TopLiner 4090H'
+2025-11-26 22:56:05.829 Game saved successfully (savegame1).
+2025-11-26 23:08:19.535 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_pigShedModern/pigshedModern.i3d (219.14 ms)
+2025-11-26 23:08:19.570 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_pigShedModern/navmesh.i3d (0.23 ms)
