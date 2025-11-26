@@ -209299,3 +209299,7 @@ LUA call stack:
 2025-11-26 09:02:05.486 Game saved successfully (savegame1).
 2025-11-26 09:11:37.734   Info: No 'ExhaustExtension' particle system added to vehicle 'Kärcher HDS 9/18-4 M' because it has no exhaust
 2025-11-26 09:32:05.948 Game saved successfully (savegame1).
+2025-11-26 10:02:10.218 Game saved successfully (savegame1).
+2025-11-26 10:22:24.789   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'STEYR 8130 Super Elite'
+2025-11-26 10:22:55.416 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_lsfmBigBagPack/objects/bigBagFillable/bigBagFillable.i3d (9.24 ms)
+2025-11-26 10:22:56.465 data/objects/pallets/pioneer/pioneerPallet.i3d (1.59 ms)
