@@ -410289,3 +410289,9 @@ LUA call stack:
 2025-11-26 20:18:23.009 Jolero joined the game
 2025-11-26 20:18:23.062 dataS/character/playerM/hairStyles/hairStyleTopKnot.i3d (35.19 ms)
 2025-11-26 20:18:23.082 dataS/character/playerM/facialHair/mHead01/goatee01.i3d (19.38 ms)
+2025-11-26 20:19:29.569   Info: [Easy Development Controls] User Jolero has logged in as master user.
+2025-11-26 20:22:23.711 siwa lost connection to the game
+2025-11-26 20:23:15.687 siwa joined the game
+2025-11-26 20:23:15.731 dataS/character/playerM/pants/volvo/volvoPants.i3d (25.95 ms)
+2025-11-26 20:23:15.737 dataS/character/playerM/shirts/volvo/volvoTshirt.i3d (6.05 ms)
+2025-11-26 20:23:15.739 dataS/character/playerM/attachments/glassesSports01.i3d (1.84 ms)
