@@ -209316,3 +209316,6 @@ LUA call stack:
 2025-11-26 12:17:00.118 dataS/character/playerM/gloves/glovesGeneric.i3d (6.62 ms)
 2025-11-26 12:17:00.262 dataS/character/playerM/shoes/sandalM03.i3d (142.98 ms)
 2025-11-26 12:17:00.265 dataS/character/playerM/hairStyles/hairStyleBald.i3d (2.74 ms)
+2025-11-26 12:31:15.731 data/objects/pallets/preservedFoodBeetRootPallet/preservedFoodBeetRootPallet.i3d (18.50 ms)
+2025-11-26 12:32:11.703 data/objects/pallets/preservedFoodBeetRootPallet/preservedFoodBeetRootPallet.i3d (11.82 ms)
+2025-11-26 12:32:16.453 Game saved successfully (savegame1).
