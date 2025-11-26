@@ -410175,3 +410175,13 @@ LUA call stack:
 2025-11-26 17:32:39.261 dataS/character/playerM/shirts/volvo/volvoTshirt.i3d (5.88 ms)
 2025-11-26 17:32:39.263 dataS/character/playerM/attachments/glassesSports01.i3d (1.81 ms)
 2025-11-26 17:35:23.668 Figuana lost connection to the game
+2025-11-26 17:50:35.760 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.73 ms)
+2025-11-26 17:56:33.634 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.59 ms)
+2025-11-26 18:01:20.488 data/objects/bigBag/bigBag.i3d (6.80 ms)
+2025-11-26 18:01:29.802 data/objects/bigBag/bigBag.i3d (6.06 ms)
+2025-11-26 18:02:38.551 Game saved successfully (savegame1).
+2025-11-26 18:17:14.505 dataS/character/playerF/pants/botChinos.i3d (13.41 ms)
+2025-11-26 18:17:14.748 dataS/character/playerF/heads/fHead04.i3d (243.34 ms)
+2025-11-26 18:17:14.769 dataS/character/playerF/jacket/topAviatorJacket.i3d (20.38 ms)
+2025-11-26 18:17:14.863 dataS/character/playerF/shoes/laceUpSneaker.i3d (94.43 ms)
+2025-11-26 18:17:14.908 dataS/character/playerF/hairStyles/hairStylePonyTail01.i3d (44.91 ms)
