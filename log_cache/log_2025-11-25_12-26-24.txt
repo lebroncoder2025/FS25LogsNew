@@ -209274,3 +209274,11 @@ LUA call stack:
 2025-11-26 05:31:30.730 Game saved successfully (savegame1).
 2025-11-26 06:01:40.660 Game saved successfully (savegame1).
 2025-11-26 06:31:50.523 Game saved successfully (savegame1).
+2025-11-26 06:48:44.443 M@rcin joined the game
+2025-11-26 06:48:44.668 dataS/character/playerM/jacket/topAviatorJacket.i3d (26.56 ms)
+2025-11-26 06:48:44.670 dataS/character/playerM/attachments/glassesAviators.i3d (1.75 ms)
+2025-11-26 06:48:44.716 dataS/character/playerM/hairStyles/hairStyleDiablo.i3d (46.16 ms)
+2025-11-26 06:48:44.718 dataS/character/playerM/facialHair/mHead01/beardStubble.i3d (1.42 ms)
+2025-11-26 07:01:51.166 Game saved successfully (savegame1).
+2025-11-26 07:19:57.769 M@rcin lost connection to the game
+2025-11-26 07:32:01.932 Game saved successfully (savegame1).
