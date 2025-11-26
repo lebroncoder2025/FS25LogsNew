@@ -5533,3 +5533,12 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-26 22:56:05.829 Game saved successfully (savegame1).
 2025-11-26 23:08:19.535 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_pigShedModern/pigshedModern.i3d (219.14 ms)
 2025-11-26 23:08:19.570 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_pigShedModern/navmesh.i3d (0.23 ms)
+2025-11-26 23:26:08.454 Game saved successfully (savegame1).
+2025-11-26 23:28:29.242 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Concrete_Fences/i3d/plotBeton05.i3d (29.41 ms)
+2025-11-26 23:32:40.477 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Old_Manure_Heap/Old_Manure_Heap_Small2.i3d (1.00 ms)
+2025-11-26 23:33:27.800 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Concrete_Fences/i3d/plotBeton04.i3d (29.42 ms)
+2025-11-26 23:34:19.653 data/placeables/brandless/fences/AS/fence08/fence08.i3d (7.23 ms)
+2025-11-26 23:34:36.219 data/placeables/brandless/fences/AS/fence10/fence10.i3d (6.23 ms)
+2025-11-26 23:34:43.395 data/placeables/brandless/fences/US/fence16/fence16.i3d (6.33 ms)
+2025-11-26 23:34:53.659 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Concrete_Fences/i3d/plotBeton05.i3d (19.79 ms)
+2025-11-26 23:35:15.642 data/placeables/brandless/fences/AS/fence08/fence08.i3d (4.91 ms)
