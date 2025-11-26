@@ -410145,3 +410145,27 @@ LUA call stack:
 2025-11-26 16:38:32.754 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_FendtVario1067/wheels/1067_710_60R38.i3d (3.89 ms)
 2025-11-26 16:38:32.757 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_FendtVario1067/wheels/1067_900_65R46.i3d (3.45 ms)
 2025-11-26 16:38:40.280   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Fendt 1067 Vario'
+2025-11-26 16:41:48.694   Info: Moved 3 vehicles to coordinates 643, 827 successfully.
+2025-11-26 16:43:38.964   Info: Moved 3 vehicles to coordinates 641, 835 successfully.
+2025-11-26 16:49:37.163   Info: Successfully emptied fill unit 1 of RANDON Dump Trailer with Dolly.
+2025-11-26 16:55:26.500   Info: Added € 100,000 to farm account. (3)
+2025-11-26 16:57:33.188 dataS/character/playerF/pants/botYogaPants.i3d (15.36 ms)
+2025-11-26 16:57:33.326 dataS/character/playerF/heads/fHead02.i3d (138.81 ms)
+2025-11-26 16:57:33.375 dataS/character/playerF/shirts/topTankTop.i3d (48.66 ms)
+2025-11-26 16:57:33.379 dataS/character/playerF/shoes/sportSneaker.i3d (3.89 ms)
+2025-11-26 16:57:33.422 dataS/character/playerF/hairStyles/hairStyleLongSideParted.i3d (42.70 ms)
+2025-11-26 16:59:02.521 data/placeables/brandless/riceField/riceField.i3d (0.63 ms)
+2025-11-26 16:59:02.575 data/placeables/brandless/riceField/riceFieldProps.i3d (15.11 ms)
+2025-11-26 17:00:15.237 Game saved successfully (savegame1).
+2025-11-26 17:00:36.629 Warning: Send called with unknown target address.
+2025-11-26 17:00:36.640 Jolero left the game
+2025-11-26 17:00:38.045 Game saved successfully (savegame1).
+2025-11-26 17:01:47.679 data/placeables/orchards/grape/grape.i3d (29.55 ms)
+2025-11-26 17:02:34.947 Game saved successfully (savegame1).
+2025-11-26 17:03:37.454 siwa lost connection to the game
+2025-11-26 17:11:06.029 siwa joined the game
+2025-11-26 17:11:06.072 dataS/character/playerM/pants/volvo/volvoPants.i3d (25.97 ms)
+2025-11-26 17:11:06.078 dataS/character/playerM/shirts/volvo/volvoTshirt.i3d (6.04 ms)
+2025-11-26 17:11:06.080 dataS/character/playerM/attachments/glassesSports01.i3d (1.91 ms)
+2025-11-26 17:14:01.729 M@rcin lost connection to the game
+2025-11-26 17:30:45.863 siwa lost connection to the game
