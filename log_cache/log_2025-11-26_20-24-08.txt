@@ -5493,3 +5493,5 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-26 21:25:38.274 dataS/character/playerM/pants/botLeather.i3d (17.64 ms)
 2025-11-26 21:25:38.469 dataS/character/playerM/heads/mHead03.i3d (195.16 ms)
 2025-11-26 21:25:38.502 dataS/character/playerM/hairStyles/hairStyleMidParted01.i3d (33.19 ms)
+2025-11-26 21:26:00.020 Game saved successfully (savegame1).
+2025-11-26 21:28:20.357 data/objects/pallets/preservedFoodBeetRootPallet/preservedFoodBeetRootPallet.i3d (10.37 ms)
