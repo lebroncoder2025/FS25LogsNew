@@ -5443,3 +5443,53 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-26 20:31:56.453 dataS/character/playerM/hairStyles/hairStyleMullet.i3d (35.41 ms)
 2025-11-26 20:31:56.465 dataS/character/playerM/facialHair/mHead02/trimmedBeard.i3d (11.52 ms)
 2025-11-26 20:32:10.494 Jolero lost connection to the game
+2025-11-26 20:37:36.402 Błażej lost connection to the game
+2025-11-26 20:38:30.954 Jolero joined the game
+2025-11-26 20:38:30.972 dataS/character/playerM/shirts/topTShirt01.i3d (2.49 ms)
+2025-11-26 20:38:31.007 dataS/character/playerM/hairStyles/hairStyleTopKnot.i3d (34.74 ms)
+2025-11-26 20:38:31.026 dataS/character/playerM/facialHair/mHead01/goatee01.i3d (19.48 ms)
+2025-11-26 20:39:45.563   Info: [Easy Development Controls] User Jolero has logged in as master user.
+2025-11-26 20:40:09.125 dataS/character/playerF/pants/botJeansCapris.i3d (20.95 ms)
+2025-11-26 20:40:09.322 dataS/character/playerF/heads/fHead03.i3d (196.58 ms)
+2025-11-26 20:40:09.371 dataS/character/playerF/shirts/topTankTop.i3d (48.62 ms)
+2025-11-26 20:40:09.374 dataS/character/playerF/shoes/sneaker01.i3d (2.77 ms)
+2025-11-26 20:41:51.273   Info: Updated field 117 successfully (3) (2)
+2025-11-26 20:41:56.413   Info: Updated field 117 successfully (3) (2)
+2025-11-26 20:41:58.251 dataS/character/playerF/pants/botCargo.i3d (18.40 ms)
+2025-11-26 20:41:58.277 dataS/character/playerF/jacket/topVest.i3d (25.19 ms)
+2025-11-26 20:41:58.280 dataS/character/playerF/shoes/workboot02.i3d (3.29 ms)
+2025-11-26 20:41:58.315 dataS/character/playerF/hairStyles/hairStylePonyTail03.i3d (35.47 ms)
+2025-11-26 20:42:55.834 Błażej joined the game
+2025-11-26 20:42:55.943 dataS/character/playerM/shoes/sportSneaker.i3d (92.65 ms)
+2025-11-26 20:42:55.979 dataS/character/playerM/hairStyles/hairStyleFringe.i3d (34.90 ms)
+2025-11-26 20:43:09.832 data/objects/pallets/noodleSoupPallet/noodleSoupBoxPallet.i3d (20.52 ms)
+2025-11-26 20:44:35.117 data/objects/pallets/fermentedNapaCabbageBoxPallet/fermentedNapaCabbageBoxPallet.i3d (18.47 ms)
+2025-11-26 20:44:35.128 data/objects/pallets/preservedFoodBeetRootPallet/preservedFoodBeetRootPallet.i3d (11.04 ms)
+2025-11-26 20:44:35.151 data/objects/pallets/noodleSoupPallet/noodleSoupBoxPallet.i3d (22.20 ms)
+2025-11-26 20:47:57.408 Błażej lost connection to the game
+2025-11-26 20:48:08.149 hubsonwaliszot lost connection to the game
+2025-11-26 20:48:41.978 data/objects/pallets/eggBoxPallet/eggBoxPallet.i3d (7.76 ms)
+2025-11-26 20:49:02.922 dataS/character/playerM/jacket/topDenimJacket.i3d (24.68 ms)
+2025-11-26 20:49:02.956 dataS/character/playerM/hairStyles/hairStyleMidParted01.i3d (33.64 ms)
+2025-11-26 20:49:22.416   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Case IH 160 CVX'
+2025-11-26 20:49:38.696 data/objects/pallets/fermentedNapaCabbageBoxPallet/fermentedNapaCabbageBoxPallet.i3d (12.49 ms)
+2025-11-26 20:50:25.101 Błażej joined the game
+2025-11-26 20:50:25.210 dataS/character/playerM/shoes/sportSneaker.i3d (93.10 ms)
+2025-11-26 20:50:25.245 dataS/character/playerM/hairStyles/hairStyleFringe.i3d (34.92 ms)
+2025-11-26 20:53:43.486 Game saved successfully (savegame1).
+2025-11-26 20:54:43.966   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Fendt 832 Vario Gen5 - 60km/h'
+2025-11-26 20:55:57.344 Game saved successfully (savegame1).
+2025-11-26 20:57:01.253 Game saved successfully (savegame1).
+2025-11-26 21:01:54.541 data/objects/pallets/noodleSoupPallet/noodleSoupBoxPallet.i3d (26.49 ms)
+2025-11-26 21:03:53.809   Info: Successfully removed 6 logs from the map.
+2025-11-26 21:03:55.630   Info: Successfully removed 7 stumps from the map.
+2025-11-26 21:04:07.955 Game saved successfully (savegame1).
+2025-11-26 21:04:08.502 Jolero left the game
+2025-11-26 21:07:19.052   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Ford 8930'
+2025-11-26 21:21:05.776 dataS/character/playerM/pants/botLeather.i3d (17.93 ms)
+2025-11-26 21:21:05.972 dataS/character/playerM/heads/mHead03.i3d (197.05 ms)
+2025-11-26 21:21:06.006 dataS/character/playerM/hairStyles/hairStyleMidParted01.i3d (33.54 ms)
+2025-11-26 21:22:57.389 Błażej lost connection to the game
+2025-11-26 21:25:38.274 dataS/character/playerM/pants/botLeather.i3d (17.64 ms)
+2025-11-26 21:25:38.469 dataS/character/playerM/heads/mHead03.i3d (195.16 ms)
+2025-11-26 21:25:38.502 dataS/character/playerM/hairStyles/hairStyleMidParted01.i3d (33.19 ms)
