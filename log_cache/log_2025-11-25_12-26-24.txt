@@ -209286,3 +209286,12 @@ LUA call stack:
 2025-11-26 07:41:32.013 dataS/character/playerM/pants/volvo/volvoPants.i3d (35.94 ms)
 2025-11-26 07:41:32.020 dataS/character/playerM/shirts/volvo/volvoTshirt.i3d (7.40 ms)
 2025-11-26 07:41:32.022 dataS/character/playerM/attachments/glassesSports01.i3d (1.50 ms)
+2025-11-26 08:02:00.469 Game saved successfully (savegame1).
+2025-11-26 08:03:32.613 siwa left the game
+2025-11-26 08:11:25.948 symonixprime serwerkaput joined the game
+2025-11-26 08:11:26.330 dataS/character/playerM/pants/poettinger/poettingerShort.i3d (181.82 ms)
+2025-11-26 08:11:26.345 dataS/character/playerM/heads/mHead02.i3d (15.30 ms)
+2025-11-26 08:11:26.460 dataS/character/playerM/shirts/topTShirt02.i3d (114.44 ms)
+2025-11-26 08:11:26.572 dataS/character/playerM/shoes/sandalM02.i3d (112.13 ms)
+2025-11-26 08:11:26.613 dataS/character/playerM/hairStyles/hairStyleTopKnot.i3d (40.33 ms)
+2025-11-26 08:11:26.631 dataS/character/playerM/facialHair/mHead02/fullBeard.i3d (18.21 ms)
