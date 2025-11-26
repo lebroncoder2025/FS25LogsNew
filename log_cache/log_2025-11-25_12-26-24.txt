@@ -209282,3 +209282,7 @@ LUA call stack:
 2025-11-26 07:01:51.166 Game saved successfully (savegame1).
 2025-11-26 07:19:57.769 M@rcin lost connection to the game
 2025-11-26 07:32:01.932 Game saved successfully (savegame1).
+2025-11-26 07:41:31.777 siwa joined the game
+2025-11-26 07:41:32.013 dataS/character/playerM/pants/volvo/volvoPants.i3d (35.94 ms)
+2025-11-26 07:41:32.020 dataS/character/playerM/shirts/volvo/volvoTshirt.i3d (7.40 ms)
+2025-11-26 07:41:32.022 dataS/character/playerM/attachments/glassesSports01.i3d (1.50 ms)
