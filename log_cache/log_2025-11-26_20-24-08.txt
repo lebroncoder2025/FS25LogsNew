@@ -5667,3 +5667,11 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-27 14:24:55.579 data/objects/pallets/preservedFoodBeetRootPallet/preservedFoodBeetRootPallet.i3d (10.69 ms)
 2025-11-27 14:29:16.528 Game saved successfully (savegame1).
 2025-11-27 14:30:06.450 data/objects/pallets/fermentedNapaCabbageBoxPallet/fermentedNapaCabbageBoxPallet.i3d (14.64 ms)
+2025-11-27 14:35:11.437 data/objects/pallets/noodleSoupPallet/noodleSoupBoxPallet.i3d (22.75 ms)
+2025-11-27 14:40:36.619 Jolero joined the game
+2025-11-27 14:40:36.672 dataS/character/playerM/hairStyles/hairStyleTopKnot.i3d (35.05 ms)
+2025-11-27 14:40:36.699 dataS/character/playerM/facialHair/mHead01/goatee01.i3d (26.06 ms)
+2025-11-27 14:41:58.799   Info: [Easy Development Controls] User Jolero has logged in as master user.
+2025-11-27 14:42:40.749 Piotrek lost connection to the game
+2025-11-27 14:43:44.719   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Fendt 728 Vario Chip 330'
+2025-11-27 14:44:22.968   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Case IH 160 CVX'
