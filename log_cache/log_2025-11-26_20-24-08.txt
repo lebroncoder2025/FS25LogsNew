@@ -5718,3 +5718,43 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-27 16:34:12.436 dataS/character/playerM/hairStyles/hairStyleFringe.i3d (34.43 ms)
 2025-11-27 16:34:56.111   Info: No 'ExhaustExtension' particle system added to vehicle 'Jungheinrich EFG S50 Pro' because it has no exhaust
 2025-11-27 16:38:22.413 Błażej lost connection to the game
+2025-11-27 16:40:33.165 Błażej joined the game
+2025-11-27 16:40:33.182 dataS/character/playerM/shirts/topTShirt01.i3d (2.37 ms)
+2025-11-27 16:40:33.275 dataS/character/playerM/shoes/sportSneaker.i3d (92.96 ms)
+2025-11-27 16:40:33.310 dataS/character/playerM/hairStyles/hairStyleFringe.i3d (35.43 ms)
+2025-11-27 16:43:04.662 Błażej lost connection to the game
+2025-11-27 16:43:30.908 zwierek joined the game
+2025-11-27 16:43:30.949 dataS/character/playerM/pants/botJeanShorts.i3d (26.31 ms)
+2025-11-27 16:43:31.041 dataS/character/playerM/shoes/sandalM03.i3d (91.70 ms)
+2025-11-27 16:43:31.080 dataS/character/playerM/hairStyles/hairStyleBaldTop.i3d (38.63 ms)
+2025-11-27 16:43:31.091 dataS/character/playerM/facialHair/mHead01/walrusXL.i3d (11.56 ms)
+2025-11-27 16:44:50.804 Błażej joined the game
+2025-11-27 16:44:50.822 dataS/character/playerM/shirts/topTShirt01.i3d (2.34 ms)
+2025-11-27 16:44:50.916 dataS/character/playerM/shoes/sportSneaker.i3d (93.72 ms)
+2025-11-27 16:44:50.950 dataS/character/playerM/hairStyles/hairStyleFringe.i3d (34.54 ms)
+2025-11-27 16:45:57.662   Info: [Easy Development Controls] User zwierek has logged in as master user.
+2025-11-27 16:46:22.804 dataS/character/playerM/jacket/topDenimJacket.i3d (31.83 ms)
+2025-11-27 16:46:22.838 dataS/character/playerM/hairStyles/hairStyleMidParted01.i3d (33.44 ms)
+2025-11-27 16:47:39.082   Info: Moved player to coordinates 439, 890 successfully.
+2025-11-27 16:50:29.406 dataS/character/playerF/pants/botChinos.i3d (17.05 ms)
+2025-11-27 16:50:29.654 dataS/character/playerF/heads/fHead04.i3d (247.62 ms)
+2025-11-27 16:50:29.660 dataS/character/playerF/jacket/topAviatorJacket.i3d (6.24 ms)
+2025-11-27 16:50:29.755 dataS/character/playerF/shoes/laceUpSneaker.i3d (95.31 ms)
+2025-11-27 16:50:29.801 dataS/character/playerF/hairStyles/hairStylePonyTail01.i3d (44.97 ms)
+2025-11-27 16:59:45.079 Game saved successfully (savegame1).
+2025-11-27 17:04:35.183 data/objects/pallets/sugarPallet/sugarBoxPallet.i3d (9.05 ms)
+2025-11-27 17:09:33.651   Info: Successfully added 'ExhaustExtension' particle system to 3 nodes of vehicle 'SCANIA 770 V8 CHIP'
+2025-11-27 17:11:39.536   Info: No 'ExhaustExtension' particle system added to vehicle 'Volvo FH16 780' because it has no exhaust
+2025-11-27 17:14:56.488   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'New Holland TH7.42 Elite'
+2025-11-27 17:17:20.092 M@rcin lost connection to the game
+2025-11-27 17:18:41.596 dataS/character/playerM/jacket/topDenimJacket.i3d (23.88 ms)
+2025-11-27 17:18:41.631 dataS/character/playerM/hairStyles/hairStyleMidParted01.i3d (34.58 ms)
+2025-11-27 17:18:41.632 dataS/character/playerM/facialHair/mHead01/beardStubble.i3d (1.47 ms)
+2025-11-27 17:27:03.762 Piotrek joined the game
+2025-11-27 17:27:03.791 dataS/character/playerM/pants/botChinos.i3d (13.17 ms)
+2025-11-27 17:27:03.867 dataS/character/playerM/shirts/strauss/straussTShirtMerino.i3d (76.57 ms)
+2025-11-27 17:27:03.872 dataS/character/playerM/gloves/glovesGeneric.i3d (4.88 ms)
+2025-11-27 17:27:03.873 dataS/character/playerM/hairStyles/hairStyleBald.i3d (0.28 ms)
+2025-11-27 17:28:14.184 dataS/character/playerM/jacket/topDenimJacket.i3d (22.73 ms)
+2025-11-27 17:28:14.218 dataS/character/playerM/hairStyles/hairStyleMidParted01.i3d (33.41 ms)
+2025-11-27 17:28:14.219 dataS/character/playerM/facialHair/mHead01/beardStubble.i3d (1.48 ms)
