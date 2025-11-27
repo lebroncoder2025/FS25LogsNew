@@ -5706,3 +5706,15 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-27 15:13:11.929 Błażej lost connection to the game
 2025-11-27 15:29:29.628 Game saved successfully (savegame1).
 2025-11-27 15:59:38.986 Game saved successfully (savegame1).
+2025-11-27 16:29:49.644 Game saved successfully (savegame1).
+2025-11-27 16:31:22.601 M@rcin joined the game
+2025-11-27 16:31:22.819 dataS/character/playerM/jacket/topAviatorJacket.i3d (18.55 ms)
+2025-11-27 16:31:22.821 dataS/character/playerM/attachments/glassesAviators.i3d (1.60 ms)
+2025-11-27 16:31:22.854 dataS/character/playerM/hairStyles/hairStyleDiablo.i3d (33.10 ms)
+2025-11-27 16:31:22.855 dataS/character/playerM/facialHair/mHead01/beardStubble.i3d (1.44 ms)
+2025-11-27 16:34:12.291 Błażej joined the game
+2025-11-27 16:34:12.309 dataS/character/playerM/shirts/topTShirt01.i3d (2.32 ms)
+2025-11-27 16:34:12.401 dataS/character/playerM/shoes/sportSneaker.i3d (92.08 ms)
+2025-11-27 16:34:12.436 dataS/character/playerM/hairStyles/hairStyleFringe.i3d (34.43 ms)
+2025-11-27 16:34:56.111   Info: No 'ExhaustExtension' particle system added to vehicle 'Jungheinrich EFG S50 Pro' because it has no exhaust
+2025-11-27 16:38:22.413 Błażej lost connection to the game
