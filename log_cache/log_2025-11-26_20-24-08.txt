@@ -5650,3 +5650,20 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-27 14:05:10.985 dataS/character/playerM/shirts/topTShirt01.i3d (2.41 ms)
 2025-11-27 14:05:11.102 dataS/character/playerM/shoes/sportSneaker.i3d (116.63 ms)
 2025-11-27 14:05:11.145 dataS/character/playerM/hairStyles/hairStyleFringe.i3d (42.66 ms)
+2025-11-27 14:12:27.745 Piotrek joined the game
+2025-11-27 14:12:27.775 dataS/character/playerM/pants/botChinos.i3d (14.19 ms)
+2025-11-27 14:12:27.852 dataS/character/playerM/shirts/strauss/straussTShirtMerino.i3d (76.78 ms)
+2025-11-27 14:12:27.857 dataS/character/playerM/gloves/glovesGeneric.i3d (5.15 ms)
+2025-11-27 14:12:27.949 dataS/character/playerM/shoes/sandalM03.i3d (91.91 ms)
+2025-11-27 14:12:27.950 dataS/character/playerM/hairStyles/hairStyleBald.i3d (0.28 ms)
+2025-11-27 14:16:54.507 data/objects/pallets/preservedFoodBeetRootPallet/preservedFoodBeetRootPallet.i3d (11.43 ms)
+2025-11-27 14:17:54.619 data/objects/pallets/fermentedNapaCabbageBoxPallet/fermentedNapaCabbageBoxPallet.i3d (15.80 ms)
+2025-11-27 14:17:54.630 data/objects/pallets/preservedFoodBeetRootPallet/preservedFoodBeetRootPallet.i3d (11.39 ms)
+2025-11-27 14:17:54.651 data/objects/pallets/noodleSoupPallet/noodleSoupBoxPallet.i3d (20.51 ms)
+2025-11-27 14:21:44.747 data/shared/wheels/tires/michelin/cereXBib/520_85R30.i3d (4.42 ms)
+2025-11-27 14:21:44.770 data/shared/crawlers/newHolland/crSeriesCrawler/crSeriesCrawler.i3d (14.28 ms)
+2025-11-27 14:22:19.615   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'New Holland CR11'
+2025-11-27 14:23:58.247 data/objects/pallets/eggBoxPallet/eggBoxPallet.i3d (7.74 ms)
+2025-11-27 14:24:55.579 data/objects/pallets/preservedFoodBeetRootPallet/preservedFoodBeetRootPallet.i3d (10.69 ms)
+2025-11-27 14:29:16.528 Game saved successfully (savegame1).
+2025-11-27 14:30:06.450 data/objects/pallets/fermentedNapaCabbageBoxPallet/fermentedNapaCabbageBoxPallet.i3d (14.64 ms)
