@@ -5640,3 +5640,13 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-27 13:04:57.929 data/objects/pallets/noodleSoupPallet/noodleSoupBoxPallet.i3d (19.59 ms)
 2025-11-27 13:29:12.116 Game saved successfully (savegame1).
 2025-11-27 13:31:30.725 data/objects/pallets/preservedFoodBeetRootPallet/preservedFoodBeetRootPallet.i3d (9.03 ms)
+2025-11-27 13:57:04.936 siwa joined the game
+2025-11-27 13:57:05.179 dataS/character/playerM/pants/volvo/volvoPants.i3d (42.82 ms)
+2025-11-27 13:57:05.187 dataS/character/playerM/shirts/volvo/volvoTshirt.i3d (7.67 ms)
+2025-11-27 13:57:05.193 dataS/character/playerM/attachments/glassesSports01.i3d (6.20 ms)
+2025-11-27 13:59:15.437 Game saved successfully (savegame1).
+2025-11-27 14:00:46.222   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'John Deere 6195M Chiptuning 50km/h'
+2025-11-27 14:05:10.967 Błażej joined the game
+2025-11-27 14:05:10.985 dataS/character/playerM/shirts/topTShirt01.i3d (2.41 ms)
+2025-11-27 14:05:11.102 dataS/character/playerM/shoes/sportSneaker.i3d (116.63 ms)
+2025-11-27 14:05:11.145 dataS/character/playerM/hairStyles/hairStyleFringe.i3d (42.66 ms)
