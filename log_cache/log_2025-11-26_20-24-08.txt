@@ -5839,3 +5839,6 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-27 20:14:36.679 data/objects/pallets/noodleSoupPallet/noodleSoupBoxPallet.i3d (22.15 ms)
 2025-11-27 20:14:54.290 data/objects/pallets/fermentedNapaCabbageBoxPallet/fermentedNapaCabbageBoxPallet.i3d (17.44 ms)
 2025-11-27 20:18:11.905 M@rcin lost connection to the game
+2025-11-27 20:19:42.805 Piotrek lost connection to the game
+2025-11-27 20:27:39.803 Błażej lost connection to the game
+2025-11-27 20:30:18.775 Game saved successfully (savegame1).
