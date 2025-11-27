@@ -5607,3 +5607,10 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-27 10:28:51.540 Game saved successfully (savegame1).
 2025-11-27 10:52:17.673 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_LizardKamerPack/kamer4032.i3d (163.98 ms)
 2025-11-27 10:58:51.976 Game saved successfully (savegame1).
+2025-11-27 11:28:54.799 Game saved successfully (savegame1).
+2025-11-27 11:36:22.916 Piotrek joined the game
+2025-11-27 11:36:22.952 dataS/character/playerM/pants/botChinos.i3d (21.76 ms)
+2025-11-27 11:36:23.045 dataS/character/playerM/shirts/strauss/straussTShirtMerino.i3d (93.33 ms)
+2025-11-27 11:36:23.052 dataS/character/playerM/gloves/glovesGeneric.i3d (6.09 ms)
+2025-11-27 11:36:23.053 dataS/character/playerM/shoes/sandalM03.i3d (1.80 ms)
+2025-11-27 11:36:23.054 dataS/character/playerM/hairStyles/hairStyleBald.i3d (0.40 ms)
