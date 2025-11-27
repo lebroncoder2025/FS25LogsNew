@@ -5772,3 +5772,13 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-27 17:42:10.051 dataS/character/playerF/shirts/topTankTop.i3d (49.02 ms)
 2025-11-27 17:42:10.054 dataS/character/playerF/shoes/sportSneaker.i3d (2.98 ms)
 2025-11-27 17:42:10.096 dataS/character/playerF/hairStyles/hairStyleLongSideParted.i3d (41.85 ms)
+2025-11-27 17:50:36.538 data/objects/pallets/fermentedNapaCabbageBoxPallet/fermentedNapaCabbageBoxPallet.i3d (16.04 ms)
+2025-11-27 17:55:30.256   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Fendt 1067 Vario'
+2025-11-27 17:58:46.778 data/objects/pallets/preservedFoodBeetRootPallet/preservedFoodBeetRootPallet.i3d (11.45 ms)
+2025-11-27 17:59:48.401 Game saved successfully (savegame1).
+2025-11-27 18:12:34.987 data/placeables/kaercher/hds9184M/hds9184M_placeable.i3d (0.60 ms)
+2025-11-27 18:12:46.841 data/placeables/kaercher/hds9184M/hds9184M_placeable.i3d (0.50 ms)
+2025-11-27 18:12:51.499   Info: No 'ExhaustExtension' particle system added to vehicle 'Kärcher HDS 9/18-4 M' because it has no exhaust
+2025-11-27 18:13:15.949   Info: No 'ExhaustExtension' particle system added to vehicle 'Kärcher HDS 9/18-4 M' because it has no exhaust
+2025-11-27 18:14:59.393 dataS/character/playerM/pants/botLeather.i3d (17.89 ms)
+2025-11-27 18:14:59.436 dataS/character/playerM/jacket/topVest.i3d (43.28 ms)
