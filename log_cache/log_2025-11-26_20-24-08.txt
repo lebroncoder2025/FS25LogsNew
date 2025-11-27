@@ -5758,3 +5758,17 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-27 17:28:14.184 dataS/character/playerM/jacket/topDenimJacket.i3d (22.73 ms)
 2025-11-27 17:28:14.218 dataS/character/playerM/hairStyles/hairStyleMidParted01.i3d (33.41 ms)
 2025-11-27 17:28:14.219 dataS/character/playerM/facialHair/mHead01/beardStubble.i3d (1.48 ms)
+2025-11-27 17:29:46.079 Game saved successfully (savegame1).
+2025-11-27 17:33:13.800 data/objects/pallets/fermentedNapaCabbageBoxPallet/fermentedNapaCabbageBoxPallet.i3d (13.82 ms)
+2025-11-27 17:33:13.824 data/objects/pallets/noodleSoupPallet/noodleSoupBoxPallet.i3d (20.86 ms)
+2025-11-27 17:33:45.621 data/objects/pallets/flourPallet/flourBoxPallet.i3d (7.65 ms)
+2025-11-27 17:34:07.008 data/objects/pallets/fermentedNapaCabbageBoxPallet/fermentedNapaCabbageBoxPallet.i3d (15.47 ms)
+2025-11-27 17:34:07.021 data/objects/pallets/preservedFoodBeetRootPallet/preservedFoodBeetRootPallet.i3d (11.93 ms)
+2025-11-27 17:34:07.045 data/objects/pallets/noodleSoupPallet/noodleSoupBoxPallet.i3d (24.58 ms)
+2025-11-27 17:34:19.413   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Fendt 620 Vario - 50km/h'
+2025-11-27 17:35:40.849 data/objects/pallets/noodleSoupPallet/noodleSoupBoxPallet.i3d (22.90 ms)
+2025-11-27 17:42:09.867 dataS/character/playerF/pants/botYogaPants.i3d (14.82 ms)
+2025-11-27 17:42:10.002 dataS/character/playerF/heads/fHead02.i3d (134.91 ms)
+2025-11-27 17:42:10.051 dataS/character/playerF/shirts/topTankTop.i3d (49.02 ms)
+2025-11-27 17:42:10.054 dataS/character/playerF/shoes/sportSneaker.i3d (2.98 ms)
+2025-11-27 17:42:10.096 dataS/character/playerF/hairStyles/hairStyleLongSideParted.i3d (41.85 ms)
