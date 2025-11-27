@@ -5846,3 +5846,13 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-27 20:40:21.401 data/objects/pallets/preservedFoodBeetRootPallet/preservedFoodBeetRootPallet.i3d (11.47 ms)
 2025-11-27 21:00:28.590 Game saved successfully (savegame1).
 2025-11-27 21:30:38.073 Game saved successfully (savegame1).
+2025-11-27 21:45:16.688 M@rcin joined the game
+2025-11-27 21:45:16.906 dataS/character/playerM/jacket/topAviatorJacket.i3d (18.85 ms)
+2025-11-27 21:45:16.908 dataS/character/playerM/attachments/glassesAviators.i3d (1.77 ms)
+2025-11-27 21:45:16.942 dataS/character/playerM/hairStyles/hairStyleDiablo.i3d (33.61 ms)
+2025-11-27 21:45:16.943 dataS/character/playerM/facialHair/mHead01/beardStubble.i3d (1.55 ms)
+2025-11-27 22:00:38.678 Game saved successfully (savegame1).
+2025-11-27 22:00:59.505 data/objects/pallets/chocolateBoxPallet/chocolateBoxPallet.i3d (1.44 ms)
+2025-11-27 22:09:40.935 dataS/character/playerM/pants/botLeather.i3d (17.72 ms)
+2025-11-27 22:09:40.967 dataS/character/playerM/jacket/topVest.i3d (30.55 ms)
+2025-11-27 22:09:41.002 dataS/character/playerM/hairStyles/hairStyleFringe.i3d (35.13 ms)
