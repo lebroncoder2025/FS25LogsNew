@@ -5580,3 +5580,25 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-27 07:28:27.695 Game saved successfully (savegame1).
 2025-11-27 07:58:37.261 Game saved successfully (savegame1).
 2025-11-27 08:28:46.605 Game saved successfully (savegame1).
+2025-11-27 08:51:06.435 symonixprime serwerkaput joined the game
+2025-11-27 08:51:06.807 dataS/character/playerM/pants/poettinger/poettingerShort.i3d (172.29 ms)
+2025-11-27 08:51:06.822 dataS/character/playerM/heads/mHead02.i3d (14.91 ms)
+2025-11-27 08:51:06.936 dataS/character/playerM/shirts/topTShirt02.i3d (113.90 ms)
+2025-11-27 08:51:07.049 dataS/character/playerM/shoes/sandalM02.i3d (113.28 ms)
+2025-11-27 08:51:07.088 dataS/character/playerM/hairStyles/hairStyleTopKnot.i3d (38.77 ms)
+2025-11-27 08:51:07.106 dataS/character/playerM/facialHair/mHead02/fullBeard.i3d (18.16 ms)
+2025-11-27 08:55:15.705   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'STEYR 8130 Super Elite'
+2025-11-27 08:58:49.211 Game saved successfully (savegame1).
+2025-11-27 09:03:51.514 symonixprime serwerkaput left the game
+2025-11-27 09:05:47.497 symonixprime serwerkaput joined the game
+2025-11-27 09:05:47.835 dataS/character/playerM/pants/poettinger/poettingerShort.i3d (139.97 ms)
+2025-11-27 09:05:47.849 dataS/character/playerM/heads/mHead02.i3d (13.68 ms)
+2025-11-27 09:05:47.941 dataS/character/playerM/shirts/topTShirt02.i3d (91.39 ms)
+2025-11-27 09:05:48.031 dataS/character/playerM/shoes/sandalM02.i3d (90.35 ms)
+2025-11-27 09:05:48.064 dataS/character/playerM/hairStyles/hairStyleTopKnot.i3d (33.32 ms)
+2025-11-27 09:05:48.079 dataS/character/playerM/facialHair/mHead02/fullBeard.i3d (14.67 ms)
+2025-11-27 09:09:05.572   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'CLAAS DOMINATOR 108 SL MAXI'
+2025-11-27 09:09:54.434 dataS/character/playerM/pants/botLeather.i3d (17.57 ms)
+2025-11-27 09:09:54.626 dataS/character/playerM/heads/mHead03.i3d (192.47 ms)
+2025-11-27 09:09:54.659 dataS/character/playerM/hairStyles/hairStyleMidParted01.i3d (33.16 ms)
+2025-11-27 09:28:51.732 Game saved successfully (savegame1).
