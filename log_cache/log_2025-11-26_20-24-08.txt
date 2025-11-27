@@ -5614,3 +5614,14 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-27 11:36:23.052 dataS/character/playerM/gloves/glovesGeneric.i3d (6.09 ms)
 2025-11-27 11:36:23.053 dataS/character/playerM/shoes/sandalM03.i3d (1.80 ms)
 2025-11-27 11:36:23.054 dataS/character/playerM/hairStyles/hairStyleBald.i3d (0.40 ms)
+2025-11-27 11:58:53.586 Game saved successfully (savegame1).
+2025-11-27 12:00:56.391 data/objects/pallets/preservedFoodBeetRootPallet/preservedFoodBeetRootPallet.i3d (13.23 ms)
+2025-11-27 12:01:21.557 data/objects/pallets/preservedFoodBeetRootPallet/preservedFoodBeetRootPallet.i3d (10.96 ms)
+2025-11-27 12:01:21.593 data/objects/pallets/noodleSoupPallet/noodleSoupBoxPallet.i3d (30.87 ms)
+2025-11-27 12:02:15.301 data/objects/pallets/fermentedNapaCabbageBoxPallet/fermentedNapaCabbageBoxPallet.i3d (23.47 ms)
+2025-11-27 12:02:15.311 data/objects/pallets/preservedFoodBeetRootPallet/preservedFoodBeetRootPallet.i3d (10.63 ms)
+2025-11-27 12:02:15.333 data/objects/pallets/noodleSoupPallet/noodleSoupBoxPallet.i3d (21.10 ms)
+2025-11-27 12:04:49.167 data/objects/pallets/noodleSoupPallet/noodleSoupBoxPallet.i3d (18.81 ms)
+2025-11-27 12:05:09.912 data/objects/pallets/eggBoxPallet/eggBoxPallet.i3d (7.67 ms)
+2025-11-27 12:06:52.530 data/objects/pallets/fermentedNapaCabbageBoxPallet/fermentedNapaCabbageBoxPallet.i3d (14.57 ms)
+2025-11-27 12:09:27.372   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'MAN TGX 18.880'
