@@ -526,3 +526,4 @@
 [27/Nov/2025:12:06:26] 46.105.70.190 - GET "/" 301 342  Mozilla/5.0 (compatible; ModatScanner/1.2; +https://modat.io/)
 [27/Nov/2025:12:19:45] 91.196.152.19 -  "" 400 280 
 [27/Nov/2025:12:19:48] 91.196.152.17 - GET "/" 301 342  Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:134.0) Gecko/20100101 Firefox/134.0
+[27/Nov/2025:12:26:08] 91.231.89.236 - GET "/index.html" 200 10120  Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:134.0) Gecko/20100101 Firefox/134.0

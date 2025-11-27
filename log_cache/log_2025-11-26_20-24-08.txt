@@ -5625,3 +5625,5 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-27 12:05:09.912 data/objects/pallets/eggBoxPallet/eggBoxPallet.i3d (7.67 ms)
 2025-11-27 12:06:52.530 data/objects/pallets/fermentedNapaCabbageBoxPallet/fermentedNapaCabbageBoxPallet.i3d (14.57 ms)
 2025-11-27 12:09:27.372   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'MAN TGX 18.880'
+2025-11-27 12:28:27.158 symonixprime serwerkaput lost connection to the game
+2025-11-27 12:28:54.421 Game saved successfully (savegame1).
