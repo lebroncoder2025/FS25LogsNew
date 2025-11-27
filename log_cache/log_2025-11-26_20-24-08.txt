@@ -5627,3 +5627,16 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-27 12:09:27.372   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'MAN TGX 18.880'
 2025-11-27 12:28:27.158 symonixprime serwerkaput lost connection to the game
 2025-11-27 12:28:54.421 Game saved successfully (savegame1).
+2025-11-27 12:37:53.880 data/objects/pallets/preservedFoodBeetRootPallet/preservedFoodBeetRootPallet.i3d (10.09 ms)
+2025-11-27 12:39:15.195 data/objects/pallets/fermentedNapaCabbageBoxPallet/fermentedNapaCabbageBoxPallet.i3d (13.67 ms)
+2025-11-27 12:39:15.207 data/objects/pallets/preservedFoodBeetRootPallet/preservedFoodBeetRootPallet.i3d (11.28 ms)
+2025-11-27 12:39:15.229 data/objects/pallets/noodleSoupPallet/noodleSoupBoxPallet.i3d (21.98 ms)
+2025-11-27 12:41:10.623 data/objects/pallets/eggBoxPallet/eggBoxPallet.i3d (7.30 ms)
+2025-11-27 12:41:16.645   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'JCB Fastrac 8330'
+2025-11-27 12:48:43.201 Piotrek lost connection to the game
+2025-11-27 12:52:35.909 data/objects/pallets/flourPallet/flourBoxPallet.i3d (6.69 ms)
+2025-11-27 12:59:02.895 Game saved successfully (savegame1).
+2025-11-27 13:04:10.492 data/objects/pallets/fermentedNapaCabbageBoxPallet/fermentedNapaCabbageBoxPallet.i3d (13.84 ms)
+2025-11-27 13:04:57.929 data/objects/pallets/noodleSoupPallet/noodleSoupBoxPallet.i3d (19.59 ms)
+2025-11-27 13:29:12.116 Game saved successfully (savegame1).
+2025-11-27 13:31:30.725 data/objects/pallets/preservedFoodBeetRootPallet/preservedFoodBeetRootPallet.i3d (9.03 ms)
