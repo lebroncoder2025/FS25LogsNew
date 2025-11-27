@@ -5675,3 +5675,32 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-27 14:42:40.749 Piotrek lost connection to the game
 2025-11-27 14:43:44.719   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Fendt 728 Vario Chip 330'
 2025-11-27 14:44:22.968   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Case IH 160 CVX'
+2025-11-27 14:49:28.917 data/objects/pallets/fabricsPallet/fabricsPallet.i3d (4.89 ms)
+2025-11-27 14:49:29.009   Info: Adding pallet.
+2025-11-27 14:49:29.066 data/objects/pallets/fabricsPallet/fabricsPallet.i3d (6.46 ms)
+2025-11-27 14:49:29.152   Info: Adding pallet.
+2025-11-27 14:49:29.260   Info: Adding pallet.
+2025-11-27 14:49:29.333 data/objects/pallets/fabricsPallet/fabricsPallet.i3d (5.59 ms)
+2025-11-27 14:49:29.418   Info: Adding pallet.
+2025-11-27 14:49:29.481 data/objects/pallets/fabricsPallet/fabricsPallet.i3d (5.58 ms)
+2025-11-27 14:49:29.568   Info: Adding pallet.
+2025-11-27 14:49:29.628 data/objects/pallets/fabricsPallet/fabricsPallet.i3d (5.43 ms)
+2025-11-27 14:49:29.713   Info: Adding pallet.
+2025-11-27 14:49:29.823   Info: Adding pallet.
+2025-11-27 14:49:29.884 data/objects/pallets/fabricsPallet/fabricsPallet.i3d (5.82 ms)
+2025-11-27 14:49:29.969   Info: Adding pallet.
+2025-11-27 14:49:30.049 data/objects/pallets/fabricsPallet/fabricsPallet.i3d (4.87 ms)
+2025-11-27 14:49:30.138   Info: Adding pallet.
+2025-11-27 14:50:27.219   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Case IH AF11'
+2025-11-27 14:50:29.881   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'AGRIFAC Condor Endurance II'
+2025-11-27 14:50:32.353   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Case IH AF11'
+2025-11-27 14:53:18.008   Info: Decreased Weeds delta by 1.  ( Field No. 26 )
+2025-11-27 14:53:18.158   Info: Decreased Weeds delta by 1.  ( Field No. 26 )
+2025-11-27 14:53:18.305   Info: Decreased Weeds delta by 1.  ( Field No. 26 )
+2025-11-27 14:53:18.471   Info: Decreased Weeds delta by 1.  ( Field No. 26 )
+2025-11-27 14:53:18.604   Info: Decreased Weeds delta by 1.  ( Field No. 26 )
+2025-11-27 14:59:18.364 Game saved successfully (savegame1).
+2025-11-27 15:01:08.464   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Fendt 1067 Vario'
+2025-11-27 15:12:07.087 siwa lost connection to the game
+2025-11-27 15:12:32.017 Jolero lost connection to the game
+2025-11-27 15:13:11.929 Błażej lost connection to the game
