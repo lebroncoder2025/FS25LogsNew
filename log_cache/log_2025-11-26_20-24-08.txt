@@ -5826,3 +5826,5 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-27 19:28:24.071 dataS/character/playerM/hairStyles/hairStyleMullet.i3d (40.46 ms)
 2025-11-27 19:28:24.083 dataS/character/playerM/facialHair/mHead02/trimmedBeard.i3d (12.19 ms)
 2025-11-27 19:30:12.282 Game saved successfully (savegame1).
+2025-11-27 19:36:00.804 dataS/character/playerM/pants/botLeather.i3d (17.99 ms)
+2025-11-27 19:36:00.880 dataS/character/playerM/jacket/topVest.i3d (30.67 ms)
