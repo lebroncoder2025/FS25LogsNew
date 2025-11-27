@@ -5788,3 +5788,41 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-27 18:35:36.695 dataS/character/playerF/jacket/topAviatorJacket.i3d (18.97 ms)
 2025-11-27 18:35:36.771 dataS/character/playerF/shoes/laceUpSneaker.i3d (75.96 ms)
 2025-11-27 18:35:36.807 dataS/character/playerF/hairStyles/hairStylePonyTail01.i3d (36.00 ms)
+2025-11-27 18:48:27.216 M@rcin joined the game
+2025-11-27 18:48:27.237 dataS/character/playerM/jacket/topAviatorJacket.i3d (5.48 ms)
+2025-11-27 18:48:27.271 dataS/character/playerM/hairStyles/hairStyleDiablo.i3d (33.48 ms)
+2025-11-27 18:48:27.273 dataS/character/playerM/facialHair/mHead01/beardStubble.i3d (1.50 ms)
+2025-11-27 18:51:36.908 M@rcin lost connection to the game
+2025-11-27 18:52:45.765 M@rcin joined the game
+2025-11-27 18:52:45.784 dataS/character/playerM/jacket/topAviatorJacket.i3d (4.73 ms)
+2025-11-27 18:52:45.818 dataS/character/playerM/hairStyles/hairStyleDiablo.i3d (33.93 ms)
+2025-11-27 18:52:45.820 dataS/character/playerM/facialHair/mHead01/beardStubble.i3d (1.54 ms)
+2025-11-27 18:55:13.504 M@rcin lost connection to the game
+2025-11-27 18:57:04.973 M@rcin joined the game
+2025-11-27 18:57:04.995 dataS/character/playerM/jacket/topAviatorJacket.i3d (4.96 ms)
+2025-11-27 18:57:05.028 dataS/character/playerM/hairStyles/hairStyleDiablo.i3d (33.34 ms)
+2025-11-27 18:57:05.030 dataS/character/playerM/facialHair/mHead01/beardStubble.i3d (1.44 ms)
+2025-11-27 18:59:00.380 M@rcin was kicked from the game
+2025-11-27 18:59:55.129 Game saved successfully (savegame1).
+2025-11-27 19:00:02.926 M@rcin joined the game
+2025-11-27 19:00:02.947 dataS/character/playerM/jacket/topAviatorJacket.i3d (5.17 ms)
+2025-11-27 19:00:02.980 dataS/character/playerM/hairStyles/hairStyleDiablo.i3d (33.37 ms)
+2025-11-27 19:00:02.982 dataS/character/playerM/facialHair/mHead01/beardStubble.i3d (1.43 ms)
+2025-11-27 19:02:45.581 data/objects/pallets/flourPallet/flourBoxPallet.i3d (7.62 ms)
+2025-11-27 19:11:05.333   Info: Moved player to coordinates 687, 902 successfully.
+2025-11-27 19:12:35.242   Info: Super Strength enabled by zwierek
+2025-11-27 19:12:40.359   Info: Super Strength disabled by zwierek
+2025-11-27 19:12:52.648   Info: Super Strength enabled by zwierek
+2025-11-27 19:12:56.316   Info: Super Strength disabled by zwierek
+2025-11-27 19:17:42.304   Info: Super Strength enabled by zwierek
+2025-11-27 19:17:45.960   Info: Super Strength disabled by zwierek
+2025-11-27 19:20:40.788 zwierek lost connection to the game
+2025-11-27 19:28:23.485 hubsonwaliszot joined the game
+2025-11-27 19:28:23.517 dataS/character/playerM/pants/botJeanShorts.i3d (16.77 ms)
+2025-11-27 19:28:23.534 dataS/character/playerM/heads/mHead02.i3d (17.50 ms)
+2025-11-27 19:28:23.908 dataS/character/playerM/shirts/poettinger/poettingerTshirt.i3d (372.75 ms)
+2025-11-27 19:28:23.972 dataS/character/playerM/gloves/strauss/glovesEsTrailLight02.i3d (64.11 ms)
+2025-11-27 19:28:24.030 dataS/character/playerM/attachments/hatWoolen.i3d (58.29 ms)
+2025-11-27 19:28:24.071 dataS/character/playerM/hairStyles/hairStyleMullet.i3d (40.46 ms)
+2025-11-27 19:28:24.083 dataS/character/playerM/facialHair/mHead02/trimmedBeard.i3d (12.19 ms)
+2025-11-27 19:30:12.282 Game saved successfully (savegame1).
