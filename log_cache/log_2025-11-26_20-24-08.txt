@@ -5863,3 +5863,11 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-27 22:31:15.104 dataS/character/playerM/shirts/zipNeckPullover.i3d (117.70 ms)
 2025-11-27 22:31:15.145 dataS/character/playerM/hairStyles/hairStyleManBun.i3d (40.98 ms)
 2025-11-27 22:31:15.158 dataS/character/playerM/facialHair/mHead05/goatee02.i3d (12.81 ms)
+2025-11-27 22:37:26.626 data/objects/pallets/mozzarellaBufalaBoxPallet/mozzarellaBufalaBoxPallet.i3d (28.50 ms)
+2025-11-27 22:44:21.670 dataS/character/playerF/pants/botCargo.i3d (152.34 ms)
+2025-11-27 22:44:21.696 dataS/character/playerF/jacket/topVest.i3d (26.45 ms)
+2025-11-27 22:44:21.700 dataS/character/playerF/shoes/workboot02.i3d (4.21 ms)
+2025-11-27 22:44:21.740 dataS/character/playerF/hairStyles/hairStylePonyTail03.i3d (39.54 ms)
+2025-11-27 22:59:27.093   Info: No 'ExhaustExtension' particle system added to vehicle 'Kärcher HDS 9/18-4 M' because it has no exhaust
+2025-11-27 23:00:42.549 Game saved successfully (savegame1).
+2025-11-27 23:02:56.815 M@rcin lost connection to the game
