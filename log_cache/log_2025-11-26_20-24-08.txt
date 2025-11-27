@@ -5563,3 +5563,18 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-27 05:27:58.190 Game saved successfully (savegame1).
 2025-11-27 05:58:05.934 Game saved successfully (savegame1).
 2025-11-27 06:28:15.360 Game saved successfully (savegame1).
+2025-11-27 06:49:45.023 M@rcin joined the game
+2025-11-27 06:49:45.249 dataS/character/playerM/jacket/topAviatorJacket.i3d (25.68 ms)
+2025-11-27 06:49:45.250 dataS/character/playerM/attachments/glassesAviators.i3d (1.38 ms)
+2025-11-27 06:49:45.290 dataS/character/playerM/hairStyles/hairStyleDiablo.i3d (40.07 ms)
+2025-11-27 06:49:45.292 dataS/character/playerM/facialHair/mHead01/beardStubble.i3d (1.35 ms)
+2025-11-27 06:55:02.738 dataS/character/playerM/pants/botLeather.i3d (41.63 ms)
+2025-11-27 06:55:02.984 dataS/character/playerM/heads/mHead03.i3d (246.37 ms)
+2025-11-27 06:55:03.023 dataS/character/playerM/hairStyles/hairStyleMidParted01.i3d (39.26 ms)
+2025-11-27 06:58:17.278 Game saved successfully (savegame1).
+2025-11-27 07:12:37.427 dataS/character/playerF/pants/botJeansCapris.i3d (29.04 ms)
+2025-11-27 07:12:37.659 dataS/character/playerF/heads/fHead03.i3d (231.66 ms)
+2025-11-27 07:12:37.717 dataS/character/playerF/shirts/topTankTop.i3d (58.28 ms)
+2025-11-27 07:12:37.720 dataS/character/playerF/shoes/sneaker01.i3d (2.72 ms)
+2025-11-27 07:13:30.257 M@rcin lost connection to the game
+2025-11-27 07:28:27.695 Game saved successfully (savegame1).
