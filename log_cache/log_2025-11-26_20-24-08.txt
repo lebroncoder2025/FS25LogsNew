@@ -5981,3 +5981,10 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-28 10:30:07.702 data/objects/pallets/flourPallet/flourBoxPallet.i3d (7.84 ms)
 2025-11-28 10:33:18.475 Game saved successfully (savegame1).
 2025-11-28 11:03:29.724 Game saved successfully (savegame1).
+2025-11-28 11:30:13.459 Piotrek joined the game
+2025-11-28 11:30:13.671 dataS/character/playerM/pants/botChinos.i3d (13.22 ms)
+2025-11-28 11:30:13.748 dataS/character/playerM/shirts/strauss/straussTShirtMerino.i3d (76.55 ms)
+2025-11-28 11:30:13.753 dataS/character/playerM/gloves/glovesGeneric.i3d (4.97 ms)
+2025-11-28 11:30:13.844 dataS/character/playerM/shoes/sandalM03.i3d (91.50 ms)
+2025-11-28 11:30:13.845 dataS/character/playerM/hairStyles/hairStyleBald.i3d (0.27 ms)
+2025-11-28 11:33:31.764 Game saved successfully (savegame1).
