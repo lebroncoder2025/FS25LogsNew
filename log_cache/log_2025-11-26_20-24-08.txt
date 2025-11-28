@@ -6015,3 +6015,19 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-28 14:36:29.359 siwa lost connection to the game
 2025-11-28 15:04:11.885 Game saved successfully (savegame1).
 2025-11-28 15:13:00.805 data/objects/pallets/chocolateBoxPallet/chocolateBoxPallet.i3d (1.46 ms)
+2025-11-28 15:25:09.069 Piotrek joined the game
+2025-11-28 15:25:09.280 dataS/character/playerM/pants/botChinos.i3d (13.12 ms)
+2025-11-28 15:25:09.357 dataS/character/playerM/shirts/strauss/straussTShirtMerino.i3d (76.58 ms)
+2025-11-28 15:25:09.362 dataS/character/playerM/gloves/glovesGeneric.i3d (4.89 ms)
+2025-11-28 15:25:09.453 dataS/character/playerM/shoes/sandalM03.i3d (91.32 ms)
+2025-11-28 15:25:09.453 dataS/character/playerM/hairStyles/hairStyleBald.i3d (0.28 ms)
+2025-11-28 15:29:02.389 dataS/character/playerF/pants/botJeansCapris.i3d (54.89 ms)
+2025-11-28 15:29:02.636 dataS/character/playerF/heads/fHead03.i3d (246.98 ms)
+2025-11-28 15:29:02.695 dataS/character/playerF/shirts/topTankTop.i3d (58.85 ms)
+2025-11-28 15:29:02.698 dataS/character/playerF/shoes/sneaker01.i3d (3.65 ms)
+2025-11-28 15:34:13.180 Game saved successfully (savegame1).
+2025-11-28 15:38:18.161 data/objects/pallets/fermentedNapaCabbageBoxPallet/fermentedNapaCabbageBoxPallet.i3d (13.39 ms)
+2025-11-28 15:39:14.289 data/objects/pallets/fermentedNapaCabbageBoxPallet/fermentedNapaCabbageBoxPallet.i3d (17.38 ms)
+2025-11-28 15:39:14.299 data/objects/pallets/preservedFoodBeetRootPallet/preservedFoodBeetRootPallet.i3d (9.97 ms)
+2025-11-28 15:39:14.318 data/objects/pallets/noodleSoupPallet/noodleSoupBoxPallet.i3d (18.53 ms)
+2025-11-28 15:41:04.694 data/objects/pallets/noodleSoupPallet/noodleSoupBoxPallet.i3d (19.98 ms)
