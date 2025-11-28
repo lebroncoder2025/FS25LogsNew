@@ -5930,3 +5930,26 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-28 07:18:28.194 dataS/character/playerM/facialHair/mHead01/beardStubble.i3d (1.51 ms)
 2025-11-28 07:19:18.233 M@rcin lost connection to the game
 2025-11-28 07:33:03.003 Game saved successfully (savegame1).
+2025-11-28 07:58:09.858 symonixprime serwerkaput joined the game
+2025-11-28 07:58:10.198 dataS/character/playerM/pants/poettinger/poettingerShort.i3d (140.34 ms)
+2025-11-28 07:58:10.218 dataS/character/playerM/heads/mHead02.i3d (20.23 ms)
+2025-11-28 07:58:10.349 dataS/character/playerM/shirts/topTShirt02.i3d (131.18 ms)
+2025-11-28 07:58:10.461 dataS/character/playerM/shoes/sandalM02.i3d (112.48 ms)
+2025-11-28 07:58:10.502 dataS/character/playerM/hairStyles/hairStyleTopKnot.i3d (41.07 ms)
+2025-11-28 07:58:10.520 dataS/character/playerM/facialHair/mHead02/fullBeard.i3d (17.08 ms)
+2025-11-28 08:03:05.793 Game saved successfully (savegame1).
+2025-11-28 08:03:37.873 data/objects/pallets/flourPallet/flourBoxPallet.i3d (11.57 ms)
+2025-11-28 08:05:08.368 data/objects/pallets/pioneer/pioneerPallet.i3d (1.51 ms)
+2025-11-28 08:05:09.367 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_lsfmBigBagPack/objects/bigBagFillable/bigBagFillable.i3d (7.66 ms)
+2025-11-28 08:06:33.338 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_RounderWrappedRoundbales/assets/roundbale125/roundbale125.i3d (3.70 ms)
+2025-11-28 08:10:10.207 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Lizard_RSD4/rsd4.i3d (130.95 ms)
+2025-11-28 08:10:10.357 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_Lizard_RSD4/wheels/rim.i3d (14.70 ms)
+2025-11-28 08:10:43.497 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (5.01 ms)
+2025-11-28 08:10:43.547 data/objects/pallets/pioneer/pioneerPallet.i3d (1.69 ms)
+2025-11-28 08:12:07.956 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.59 ms)
+2025-11-28 08:12:59.156 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_MTZ_2022_7/protivoves.i3d (45.20 ms)
+2025-11-28 08:17:00.978 data/objects/pallets/pioneer/pioneerPallet.i3d (1.47 ms)
+2025-11-28 08:17:01.006 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_lsfmBigBagPack/objects/bigBagFillable/bigBagFillable.i3d (10.59 ms)
+2025-11-28 08:18:27.131 data/objects/pallets/pioneer/pioneerPallet.i3d (1.46 ms)
+2025-11-28 08:18:28.139 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_lsfmBigBagPack/objects/bigBagFillable/bigBagFillable.i3d (7.23 ms)
+2025-11-28 08:18:33.638 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_lsfmBigBagPack/objects/bigBagFillable/bigBagFillable.i3d (8.32 ms)
