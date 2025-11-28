@@ -5954,3 +5954,15 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-28 08:18:28.139 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_lsfmBigBagPack/objects/bigBagFillable/bigBagFillable.i3d (7.23 ms)
 2025-11-28 08:18:33.638 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_lsfmBigBagPack/objects/bigBagFillable/bigBagFillable.i3d (8.32 ms)
 2025-11-28 08:33:06.698 Game saved successfully (savegame1).
+2025-11-28 09:02:48.495 Piotrek joined the game
+2025-11-28 09:02:48.527 dataS/character/playerM/pants/botChinos.i3d (17.82 ms)
+2025-11-28 09:02:48.622 dataS/character/playerM/shirts/strauss/straussTShirtMerino.i3d (93.71 ms)
+2025-11-28 09:02:48.628 dataS/character/playerM/gloves/glovesGeneric.i3d (5.91 ms)
+2025-11-28 09:02:48.630 dataS/character/playerM/shoes/sandalM03.i3d (1.74 ms)
+2025-11-28 09:02:48.630 dataS/character/playerM/hairStyles/hairStyleBald.i3d (0.41 ms)
+2025-11-28 09:03:08.583 Game saved successfully (savegame1).
+2025-11-28 09:27:52.050 data/objects/pallets/preservedFoodBeetRootPallet/preservedFoodBeetRootPallet.i3d (10.81 ms)
+2025-11-28 09:27:52.074 data/objects/pallets/noodleSoupPallet/noodleSoupBoxPallet.i3d (19.82 ms)
+2025-11-28 09:29:32.556 data/objects/pallets/fermentedNapaCabbageBoxPallet/fermentedNapaCabbageBoxPallet.i3d (19.21 ms)
+2025-11-28 09:29:32.565 data/objects/pallets/preservedFoodBeetRootPallet/preservedFoodBeetRootPallet.i3d (8.60 ms)
+2025-11-28 09:29:32.584 data/objects/pallets/noodleSoupPallet/noodleSoupBoxPallet.i3d (19.26 ms)
