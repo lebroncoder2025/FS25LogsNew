@@ -6011,3 +6011,5 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-28 13:33:56.617 Game saved successfully (savegame1).
 2025-11-28 14:03:57.073 Game saved successfully (savegame1).
 2025-11-28 14:14:07.528 Błażej lost connection to the game
+2025-11-28 14:33:57.274 Game saved successfully (savegame1).
+2025-11-28 14:36:29.359 siwa lost connection to the game
