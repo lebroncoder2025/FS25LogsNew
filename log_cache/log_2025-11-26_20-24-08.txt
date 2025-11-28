@@ -6281,3 +6281,24 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-28 18:32:12.432 dataS/character/playerM/hairStyles/hairStyleFringe.i3d (34.34 ms)
 2025-11-28 18:34:19.150 Game saved successfully (savegame1).
 2025-11-28 18:35:21.462 Błażej lost connection to the game
+2025-11-28 18:37:44.722 Błażej joined the game
+2025-11-28 18:37:44.831 dataS/character/playerM/shoes/sportSneaker.i3d (92.58 ms)
+2025-11-28 18:37:44.865 dataS/character/playerM/hairStyles/hairStyleFringe.i3d (33.78 ms)
+2025-11-28 18:41:48.584 data/objects/pallets/noodleSoupPallet/noodleSoupBoxPallet.i3d (19.45 ms)
+2025-11-28 18:42:27.385 data/objects/pallets/fermentedNapaCabbageBoxPallet/fermentedNapaCabbageBoxPallet.i3d (13.87 ms)
+2025-11-28 18:49:46.441 data/objects/pallets/clothesBoxPallet/clothesBoxPallet.i3d (3.29 ms)
+2025-11-28 18:51:50.350 M@rcin joined the game
+2025-11-28 18:51:50.385 dataS/character/playerM/jacket/topAviatorJacket.i3d (18.85 ms)
+2025-11-28 18:51:50.387 dataS/character/playerM/attachments/glassesAviators.i3d (1.82 ms)
+2025-11-28 18:51:50.420 dataS/character/playerM/hairStyles/hairStyleDiablo.i3d (33.59 ms)
+2025-11-28 18:51:50.422 dataS/character/playerM/facialHair/mHead01/beardStubble.i3d (1.66 ms)
+2025-11-28 18:58:17.021 data/objects/pallets/preservedFoodBeetRootPallet/preservedFoodBeetRootPallet.i3d (11.18 ms)
+2025-11-28 19:04:23.853 Game saved successfully (savegame1).
+2025-11-28 19:22:42.356 hubsonwaliszot joined the game
+2025-11-28 19:22:42.389 dataS/character/playerM/pants/botJeanShorts.i3d (16.69 ms)
+2025-11-28 19:22:42.407 dataS/character/playerM/heads/mHead02.i3d (16.97 ms)
+2025-11-28 19:22:42.693 dataS/character/playerM/shirts/poettinger/poettingerTshirt.i3d (285.68 ms)
+2025-11-28 19:22:42.741 dataS/character/playerM/gloves/strauss/glovesEsTrailLight02.i3d (48.62 ms)
+2025-11-28 19:22:42.787 dataS/character/playerM/attachments/hatWoolen.i3d (46.50 ms)
+2025-11-28 19:22:42.822 dataS/character/playerM/hairStyles/hairStyleMullet.i3d (34.53 ms)
+2025-11-28 19:22:42.833 dataS/character/playerM/facialHair/mHead02/trimmedBeard.i3d (11.22 ms)
