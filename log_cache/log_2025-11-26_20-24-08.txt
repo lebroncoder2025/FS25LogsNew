@@ -5998,3 +5998,14 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-28 12:03:41.815 Game saved successfully (savegame1).
 2025-11-28 12:10:33.354 data/objects/pallets/noodleSoupPallet/noodleSoupBoxPallet.i3d (20.10 ms)
 2025-11-28 12:33:53.647 Game saved successfully (savegame1).
+2025-11-28 12:59:09.521 siwa joined the game
+2025-11-28 12:59:09.753 dataS/character/playerM/pants/volvo/volvoPants.i3d (32.42 ms)
+2025-11-28 12:59:09.761 dataS/character/playerM/shirts/volvo/volvoTshirt.i3d (8.02 ms)
+2025-11-28 12:59:09.763 dataS/character/playerM/attachments/glassesSports01.i3d (2.02 ms)
+2025-11-28 13:02:22.813   Info: No 'ExhaustExtension' particle system added to vehicle 'Kärcher HDS 9/18-4 M' because it has no exhaust
+2025-11-28 13:03:55.680 Game saved successfully (savegame1).
+2025-11-28 13:28:21.296 Błażej joined the game
+2025-11-28 13:28:21.321 dataS/character/playerM/shirts/topTShirt01.i3d (7.20 ms)
+2025-11-28 13:28:21.434 dataS/character/playerM/shoes/sportSneaker.i3d (113.45 ms)
+2025-11-28 13:28:21.476 dataS/character/playerM/hairStyles/hairStyleFringe.i3d (41.63 ms)
+2025-11-28 13:33:56.617 Game saved successfully (savegame1).
