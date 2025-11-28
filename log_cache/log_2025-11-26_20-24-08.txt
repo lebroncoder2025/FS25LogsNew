@@ -6258,3 +6258,26 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-28 18:18:17.901   Info: Decreased Weeds delta by 1.  ( Field No. 3 )
 2025-11-28 18:18:18.016   Info: Decreased Weeds delta by 1.  ( Field No. 3 )
 2025-11-28 18:19:28.323 hubsonwaliszot lost connection to the game
+2025-11-28 18:21:26.174 hubsonwaliszot joined the game
+2025-11-28 18:21:26.206 dataS/character/playerM/pants/botJeanShorts.i3d (16.71 ms)
+2025-11-28 18:21:26.222 dataS/character/playerM/heads/mHead02.i3d (15.46 ms)
+2025-11-28 18:21:26.508 dataS/character/playerM/shirts/poettinger/poettingerTshirt.i3d (285.66 ms)
+2025-11-28 18:21:26.557 dataS/character/playerM/gloves/strauss/glovesEsTrailLight02.i3d (48.30 ms)
+2025-11-28 18:21:26.603 dataS/character/playerM/attachments/hatWoolen.i3d (46.36 ms)
+2025-11-28 18:21:26.605 dataS/character/playerM/attachments/glassesAviators.i3d (1.76 ms)
+2025-11-28 18:21:26.639 dataS/character/playerM/hairStyles/hairStyleMullet.i3d (34.23 ms)
+2025-11-28 18:21:26.651 dataS/character/playerM/facialHair/mHead02/trimmedBeard.i3d (11.18 ms)
+2025-11-28 18:25:07.171 data/objects/pallets/preservedFoodBeetRootPallet/preservedFoodBeetRootPallet.i3d (11.80 ms)
+2025-11-28 18:26:14.924 data/objects/pallets/fermentedNapaCabbageBoxPallet/fermentedNapaCabbageBoxPallet.i3d (14.31 ms)
+2025-11-28 18:26:14.935 data/objects/pallets/preservedFoodBeetRootPallet/preservedFoodBeetRootPallet.i3d (10.66 ms)
+2025-11-28 18:26:14.957 data/objects/pallets/noodleSoupPallet/noodleSoupBoxPallet.i3d (21.83 ms)
+2025-11-28 18:27:50.934 Błażej joined the game
+2025-11-28 18:27:51.043 dataS/character/playerM/shoes/sportSneaker.i3d (92.18 ms)
+2025-11-28 18:27:51.078 dataS/character/playerM/hairStyles/hairStyleFringe.i3d (34.93 ms)
+2025-11-28 18:29:07.751 hubsonwaliszot lost connection to the game
+2025-11-28 18:31:33.572 Błażej lost connection to the game
+2025-11-28 18:32:12.288 Błażej joined the game
+2025-11-28 18:32:12.397 dataS/character/playerM/shoes/sportSneaker.i3d (93.25 ms)
+2025-11-28 18:32:12.432 dataS/character/playerM/hairStyles/hairStyleFringe.i3d (34.34 ms)
+2025-11-28 18:34:19.150 Game saved successfully (savegame1).
+2025-11-28 18:35:21.462 Błażej lost connection to the game
