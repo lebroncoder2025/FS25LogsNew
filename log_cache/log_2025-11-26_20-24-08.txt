@@ -6302,3 +6302,5 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-28 19:22:42.787 dataS/character/playerM/attachments/hatWoolen.i3d (46.50 ms)
 2025-11-28 19:22:42.822 dataS/character/playerM/hairStyles/hairStyleMullet.i3d (34.53 ms)
 2025-11-28 19:22:42.833 dataS/character/playerM/facialHair/mHead02/trimmedBeard.i3d (11.22 ms)
+2025-11-28 19:33:12.571 hubsonwaliszot lost connection to the game
+2025-11-28 19:34:27.484 Game saved successfully (savegame1).
