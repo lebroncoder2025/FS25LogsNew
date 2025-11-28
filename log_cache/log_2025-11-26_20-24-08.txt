@@ -5966,3 +5966,7 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-28 09:29:32.556 data/objects/pallets/fermentedNapaCabbageBoxPallet/fermentedNapaCabbageBoxPallet.i3d (19.21 ms)
 2025-11-28 09:29:32.565 data/objects/pallets/preservedFoodBeetRootPallet/preservedFoodBeetRootPallet.i3d (8.60 ms)
 2025-11-28 09:29:32.584 data/objects/pallets/noodleSoupPallet/noodleSoupBoxPallet.i3d (19.26 ms)
+2025-11-28 09:33:09.711 Game saved successfully (savegame1).
+2025-11-28 09:37:48.606 data/objects/pallets/fermentedNapaCabbageBoxPallet/fermentedNapaCabbageBoxPallet.i3d (12.06 ms)
+2025-11-28 09:40:02.166 data/objects/pallets/noodleSoupPallet/noodleSoupBoxPallet.i3d (18.92 ms)
+2025-11-28 09:40:29.830 Piotrek lost connection to the game
