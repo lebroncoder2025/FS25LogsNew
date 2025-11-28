@@ -5386,3 +5386,74 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-28 22:23:26.843 dataS/character/playerM/attachments/glassesAviators.i3d (1.76 ms)
 2025-11-28 22:23:26.877 dataS/character/playerM/hairStyles/hairStyleMullet.i3d (34.35 ms)
 2025-11-28 22:23:26.889 dataS/character/playerM/facialHair/mHead02/trimmedBeard.i3d (11.25 ms)
+2025-11-28 22:34:23.026 Game saved successfully (savegame1).
+2025-11-28 22:38:59.099 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_exhaustExtension/particles/smokeParticles.i3d (11.97 ms)
+2025-11-28 22:38:59.099 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_exhaustExtension/particles/smokeEmitterShape.i3d (0.16 ms)
+2025-11-28 22:38:59.100   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'CLAAS LEXION 8900'
+2025-11-28 22:42:00.901 data/shared/assets/reflectors/lizard/yellowRound_01.i3d (1.22 ms)
+2025-11-28 22:42:00.928 data/shared/assets/extinguisher.i3d (1.39 ms)
+2025-11-28 22:42:00.935 data/shared/assets/reflectors/lizard/redRound_01.i3d (1.01 ms)
+2025-11-28 22:42:00.935 data/vehicles/johnDeere/seriesS7/seriesS7.i3d (117.51 ms)
+2025-11-28 22:42:01.046 data/shared/assets/wheelChocks/wheelChock04.i3d (3.40 ms)
+2025-11-28 22:42:01.092 data/shared/wheels/tires/trelleborg/TM3000/620_70R26.i3d (3.57 ms)
+2025-11-28 22:42:01.123 data/shared/crawlers/johnDeere/seriesS7Crawler/seriesS7Crawler.i3d (19.11 ms)
+2025-11-28 22:42:01.196 data/shared/assets/lights/lizard/rearLight81.i3d (3.15 ms)
+2025-11-28 22:42:01.199 data/shared/assets/lights/lizard/rearLight76.i3d (3.77 ms)
+2025-11-28 22:42:01.205 data/shared/assets/lights/johnDeere/hd50FLight.i3d (5.60 ms)
+2025-11-28 22:42:01.207 data/shared/assets/lights/lizard/workingLight16.i3d (2.23 ms)
+2025-11-28 22:42:01.211 data/shared/assets/lights/lizard/workingLight49.i3d (3.49 ms)
+2025-11-28 22:42:01.214 data/shared/assets/lights/lizard/workingLight50.i3d (2.87 ms)
+2025-11-28 22:42:01.484 data/vehicles/johnDeere/shared/displays/g5Displays.i3d (30.38 ms)
+2025-11-28 22:42:01.511 data/vehicles/johnDeere/shared/displays/g4Displays.i3d (27.07 ms)
+2025-11-28 22:43:03.902 data/vehicles/johnDeere/headerRD35F/headerRD35F.i3d (64.91 ms)
+2025-11-28 22:43:04.085 data/shared/assets/powerTakeOffs/walterscheidW_SC25.i3d (2.93 ms)
+2025-11-28 22:43:31.786 data/shared/assets/reflectors/lizard/redTriangle_02.i3d (1.05 ms)
+2025-11-28 22:43:31.787 data/shared/assets/reflectors/lizard/yellowRound_02.i3d (0.84 ms)
+2025-11-28 22:43:31.796 data/vehicles/nardi/n60_35/n60_35.i3d (17.91 ms)
+2025-11-28 22:43:31.907 data/shared/wheels/hubs/hubImperador.i3d (1.76 ms)
+2025-11-28 22:43:31.911 data/shared/wheels/tires/trelleborg/AW305/260_70R15_3.i3d (3.81 ms)
+2025-11-28 22:43:55.339   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'John Deere S7.800'
+2025-11-28 22:48:15.129 data/objects/pallets/mozzarellaBufalaBoxPallet/mozzarellaBufalaBoxPallet.i3d (28.80 ms)
+2025-11-28 22:50:15.055 Jolero joined the game
+2025-11-28 22:50:15.072 dataS/character/playerM/shirts/topTShirt01.i3d (2.38 ms)
+2025-11-28 22:50:15.107 dataS/character/playerM/hairStyles/hairStyleTopKnot.i3d (34.86 ms)
+2025-11-28 22:50:15.127 dataS/character/playerM/facialHair/mHead01/goatee01.i3d (19.60 ms)
+2025-11-28 22:50:22.916   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'MAN TGS 18.400 60 km/h'
+2025-11-28 22:51:14.191   Info: [Easy Development Controls] User Jolero has logged in as master user.
+2025-11-28 22:51:14.269   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'New Holland T7.315 HD'
+2025-11-28 22:51:36.135   Info: Successfully added 'ExhaustExtension' particle system to 3 nodes of vehicle 'SCANIA 770 V8 CHIP'
+2025-11-28 22:52:54.386   Info: Successfully set fill unit 1 of Wielton Wielton bulk master to Total Mixed Ration with a fill level of 55,000 liters.
+2025-11-28 22:53:10.185 dataS/character/playerM/pants/botLeather.i3d (18.09 ms)
+2025-11-28 22:53:10.382 dataS/character/playerM/heads/mHead03.i3d (196.53 ms)
+2025-11-28 22:53:10.417 dataS/character/playerM/hairStyles/hairStyleMidParted01.i3d (35.17 ms)
+2025-11-28 22:53:14.814   Info: Successfully set fill unit 1 of Wielton Wielton bulk master to Total Mixed Ration with a fill level of 55,000 liters.
+2025-11-28 22:53:32.034   Info: Successfully set fill unit 1 of Wielton Wielton bulk master to Total Mixed Ration with a fill level of 55,000 liters.
+2025-11-28 22:53:50.492   Info: Successfully set fill unit 1 of Wielton Wielton bulk master to Total Mixed Ration with a fill level of 55,000 liters.
+2025-11-28 22:54:47.338   Info: Successfully set fill unit 1 of Wielton Wielton bulk master to Grass with a fill level of 55,000 liters.
+2025-11-28 22:55:07.703   Info: Successfully set fill unit 1 of Wielton Wielton bulk master to Grass with a fill level of 55,000 liters.
+2025-11-28 22:55:25.459   Info: Successfully set fill unit 1 of Wielton Wielton bulk master to Grass with a fill level of 55,000 liters.
+2025-11-28 22:55:44.804   Info: Successfully set fill unit 1 of Wielton Wielton bulk master to Grass with a fill level of 55,000 liters.
+2025-11-28 22:56:02.335   Info: Successfully set fill unit 1 of Wielton Wielton bulk master to Grass with a fill level of 55,000 liters.
+2025-11-28 22:56:21.698   Info: Successfully set fill unit 1 of Wielton Wielton bulk master to Grass with a fill level of 55,000 liters.
+2025-11-28 22:56:39.085   Info: Successfully set fill unit 1 of Wielton Wielton bulk master to Grass with a fill level of 55,000 liters.
+2025-11-28 22:56:56.952   Info: Successfully set fill unit 1 of Wielton Wielton bulk master to Grass with a fill level of 55,000 liters.
+2025-11-28 22:57:24.483   Info: Successfully set fill unit 1 of Wielton Wielton bulk master to Grass with a fill level of 55,000 liters.
+2025-11-28 22:58:36.005   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Fendt 620 Vario - 50km/h'
+2025-11-28 22:59:11.800   Info: Successfully set fill unit 1 of Sopema Fertilizer Trailer to Lime with a fill level of 8,500 liters.
+2025-11-28 22:59:59.492   Info: Successfully set fill unit 1 of Sopema Fertilizer Trailer to Lime with a fill level of 8,500 liters.
+2025-11-28 23:04:40.775 Game saved successfully (savegame1).
+2025-11-28 23:05:35.788   Info: Successfully set fill unit 1 of Sopema Fertilizer Trailer to Lime with a fill level of 8,500 liters.
+2025-11-28 23:06:23.985   Info: Successfully set fill unit 1 of Sopema Fertilizer Trailer to Lime with a fill level of 8,500 liters.
+2025-11-28 23:08:05.164   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Fendt Cargo T740'
+2025-11-28 23:08:32.539   Info: Successfully set fill unit 1 of Sopema Fertilizer Trailer to Lime with a fill level of 8,500 liters.
+2025-11-28 23:08:52.070   Info: Successfully set fill unit 1 of Sopema Fertilizer Trailer to Lime with a fill level of 8,500 liters.
+2025-11-28 23:11:00.415 Warning: Send called with unknown target address.
+2025-11-28 23:11:00.422 hubsonwaliszot left the game
+2025-11-28 23:11:28.496   Info: Successfully set fill unit 1 of Sopema Fertilizer Trailer to Lime with a fill level of 8,500 liters.
+2025-11-28 23:14:23.903   Info: Successfully set fill unit 1 of Sopema Fertilizer Trailer to Lime with a fill level of 8,500 liters.
+2025-11-28 23:17:59.985   Info: The condition of Fendt 620 Vario - 50km/h and all connected implements updated.
+2025-11-28 23:18:01.677   Info: The condition of Fendt 620 Vario - 50km/h and all connected implements updated.
+2025-11-28 23:18:04.675   Info: Successfully set fill unit 1 of Sopema Fertilizer Trailer to Lime with a fill level of 8,500 liters.
+2025-11-28 23:18:35.105 Warning: Send called with unknown target address.
+2025-11-28 23:18:35.117 Jolero left the game
+2025-11-28 23:18:37.620 Game saved successfully (savegame1).
