@@ -5988,3 +5988,12 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-28 11:30:13.844 dataS/character/playerM/shoes/sandalM03.i3d (91.50 ms)
 2025-11-28 11:30:13.845 dataS/character/playerM/hairStyles/hairStyleBald.i3d (0.27 ms)
 2025-11-28 11:33:31.764 Game saved successfully (savegame1).
+2025-11-28 11:45:29.603 data/objects/pallets/preservedFoodBeetRootPallet/preservedFoodBeetRootPallet.i3d (11.82 ms)
+2025-11-28 11:47:37.290 data/objects/pallets/fermentedNapaCabbageBoxPallet/fermentedNapaCabbageBoxPallet.i3d (14.31 ms)
+2025-11-28 11:47:37.302 data/objects/pallets/preservedFoodBeetRootPallet/preservedFoodBeetRootPallet.i3d (11.87 ms)
+2025-11-28 11:47:37.321 data/objects/pallets/noodleSoupPallet/noodleSoupBoxPallet.i3d (19.62 ms)
+2025-11-28 11:50:08.128 data/objects/pallets/preservedFoodBeetRootPallet/preservedFoodBeetRootPallet.i3d (9.58 ms)
+2025-11-28 11:51:36.771 Piotrek lost connection to the game
+2025-11-28 12:01:09.889 data/objects/pallets/fermentedNapaCabbageBoxPallet/fermentedNapaCabbageBoxPallet.i3d (12.99 ms)
+2025-11-28 12:03:41.815 Game saved successfully (savegame1).
+2025-11-28 12:10:33.354 data/objects/pallets/noodleSoupPallet/noodleSoupBoxPallet.i3d (20.10 ms)
