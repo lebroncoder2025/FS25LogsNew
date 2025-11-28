@@ -5895,3 +5895,38 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-28 05:32:36.847 Game saved successfully (savegame1).
 2025-11-28 06:02:46.972 Game saved successfully (savegame1).
 2025-11-28 06:32:54.761 Game saved successfully (savegame1).
+2025-11-28 06:47:49.409 M@rcin joined the game
+2025-11-28 06:47:49.630 dataS/character/playerM/jacket/topAviatorJacket.i3d (22.81 ms)
+2025-11-28 06:47:49.632 dataS/character/playerM/attachments/glassesAviators.i3d (1.45 ms)
+2025-11-28 06:47:49.672 dataS/character/playerM/hairStyles/hairStyleDiablo.i3d (40.25 ms)
+2025-11-28 06:47:49.673 dataS/character/playerM/facialHair/mHead01/beardStubble.i3d (1.36 ms)
+2025-11-28 07:02:53.644 Game saved successfully (savegame1).
+2025-11-28 07:09:27.179 data/objects/bigBag/bigBag.i3d (10.30 ms)
+2025-11-28 07:09:27.209 data/objects/pallets/raniWrapPallet/raniWrapPallet.i3d (2.65 ms)
+2025-11-28 07:09:27.246 data/objects/pallets/liquidTank/liquidTank.i3d (3.03 ms)
+2025-11-28 07:09:27.269 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_lsfmBigBagPack/objects/bigBagFillable/bigBagFillable.i3d (9.22 ms)
+2025-11-28 07:09:29.021 data/objects/bigBag/bigBag.i3d (5.40 ms)
+2025-11-28 07:09:29.052 data/objects/pallets/raniWrapPallet/raniWrapPallet.i3d (1.97 ms)
+2025-11-28 07:09:29.088 data/objects/pallets/liquidTank/liquidTank.i3d (3.12 ms)
+2025-11-28 07:09:29.109 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_lsfmBigBagPack/objects/bigBagFillable/bigBagFillable.i3d (8.04 ms)
+2025-11-28 07:13:49.249 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_SmallHall/smallHall.i3d (75.78 ms)
+2025-11-28 07:16:16.242 dataS/character/playerM/pants/botCargo.i3d (25.09 ms)
+2025-11-28 07:16:16.295 dataS/character/playerM/jacket/topConstruction.i3d (53.11 ms)
+2025-11-28 07:16:16.303 dataS/character/playerM/gloves/stihl/glovesStihl.i3d (7.94 ms)
+2025-11-28 07:16:16.313 dataS/character/playerM/attachments/headgearStihl.i3d (9.80 ms)
+2025-11-28 07:16:16.344 dataS/character/playerM/shoes/elten/arborist.i3d (30.74 ms)
+2025-11-28 07:16:48.388 dataS/character/playerM/jacket/topAviatorJacket.i3d (19.07 ms)
+2025-11-28 07:16:48.390 dataS/character/playerM/attachments/glassesAviators.i3d (1.52 ms)
+2025-11-28 07:16:48.423 dataS/character/playerM/hairStyles/hairStyleDiablo.i3d (32.87 ms)
+2025-11-28 07:16:48.424 dataS/character/playerM/facialHair/mHead01/beardStubble.i3d (1.47 ms)
+2025-11-28 07:16:57.576 dataS/character/playerM/pants/botCargo.i3d (17.77 ms)
+2025-11-28 07:16:57.618 dataS/character/playerM/jacket/topConstruction.i3d (42.53 ms)
+2025-11-28 07:16:57.624 dataS/character/playerM/gloves/stihl/glovesStihl.i3d (5.59 ms)
+2025-11-28 07:16:57.633 dataS/character/playerM/attachments/headgearStihl.i3d (9.08 ms)
+2025-11-28 07:16:57.658 dataS/character/playerM/shoes/elten/arborist.i3d (25.23 ms)
+2025-11-28 07:18:28.158 dataS/character/playerM/jacket/topAviatorJacket.i3d (18.67 ms)
+2025-11-28 07:18:28.160 dataS/character/playerM/attachments/glassesAviators.i3d (1.59 ms)
+2025-11-28 07:18:28.192 dataS/character/playerM/hairStyles/hairStyleDiablo.i3d (32.76 ms)
+2025-11-28 07:18:28.194 dataS/character/playerM/facialHair/mHead01/beardStubble.i3d (1.51 ms)
+2025-11-28 07:19:18.233 M@rcin lost connection to the game
+2025-11-28 07:33:03.003 Game saved successfully (savegame1).
