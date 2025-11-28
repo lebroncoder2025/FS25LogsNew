@@ -6035,3 +6035,82 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-28 16:04:13.728 Game saved successfully (savegame1).
 2025-11-28 16:17:29.954 data/objects/pallets/preservedFoodBeetRootPallet/preservedFoodBeetRootPallet.i3d (10.53 ms)
 2025-11-28 16:34:13.953 Game saved successfully (savegame1).
+2025-11-28 16:41:07.074 M@rcin joined the game
+2025-11-28 16:41:07.109 dataS/character/playerM/jacket/topAviatorJacket.i3d (19.20 ms)
+2025-11-28 16:41:07.111 dataS/character/playerM/attachments/glassesAviators.i3d (1.78 ms)
+2025-11-28 16:41:07.146 dataS/character/playerM/hairStyles/hairStyleDiablo.i3d (34.80 ms)
+2025-11-28 16:41:07.147 dataS/character/playerM/facialHair/mHead01/beardStubble.i3d (1.47 ms)
+2025-11-28 16:41:18.447 Jolero joined the game
+2025-11-28 16:41:18.465 dataS/character/playerM/shirts/topTShirt01.i3d (2.32 ms)
+2025-11-28 16:41:18.500 dataS/character/playerM/hairStyles/hairStyleTopKnot.i3d (34.30 ms)
+2025-11-28 16:41:18.521 dataS/character/playerM/facialHair/mHead01/goatee01.i3d (21.27 ms)
+2025-11-28 16:50:22.451 dataS/character/playerM/fullBody/onePieceMechanic.i3d (41.49 ms)
+2025-11-28 16:50:22.468 dataS/character/playerM/heads/mHead02.i3d (16.20 ms)
+2025-11-28 16:50:22.490 dataS/character/playerM/shoes/riding.i3d (22.22 ms)
+2025-11-28 16:50:22.533 dataS/character/playerM/hairStyles/hairStyleUnkempt.i3d (43.36 ms)
+2025-11-28 16:50:22.550 dataS/character/playerM/facialHair/mHead02/goatee01.i3d (16.78 ms)
+2025-11-28 16:54:40.250   Info: [Easy Development Controls] User Jolero has logged in as master user.
+2025-11-28 16:54:52.301 Piotrek lost connection to the game
+2025-11-28 16:55:21.981   Info: Successfully set fill unit 1 of Lizard MKS 32 to Water with a fill level of 32,000 liters.
+2025-11-28 16:56:06.388   Info: Successfully set fill unit 1 of Lizard MKS 32 to Water with a fill level of 32,000 liters.
+2025-11-28 16:56:28.418 Piotrek joined the game
+2025-11-28 16:56:28.446 dataS/character/playerM/pants/botChinos.i3d (13.54 ms)
+2025-11-28 16:56:28.525 dataS/character/playerM/shirts/strauss/straussTShirtMerino.i3d (77.26 ms)
+2025-11-28 16:56:28.530 dataS/character/playerM/gloves/glovesGeneric.i3d (5.02 ms)
+2025-11-28 16:56:28.622 dataS/character/playerM/shoes/sandalM03.i3d (92.67 ms)
+2025-11-28 16:56:28.622 dataS/character/playerM/hairStyles/hairStyleBald.i3d (0.30 ms)
+2025-11-28 16:56:29.692 dataS/character/playerM/pants/botCargo.i3d (18.02 ms)
+2025-11-28 16:56:29.735 dataS/character/playerM/jacket/topConstruction.i3d (42.66 ms)
+2025-11-28 16:56:29.741 dataS/character/playerM/gloves/stihl/glovesStihl.i3d (5.90 ms)
+2025-11-28 16:56:29.750 dataS/character/playerM/attachments/headgearStihl.i3d (9.39 ms)
+2025-11-28 16:56:29.776 dataS/character/playerM/shoes/elten/arborist.i3d (25.67 ms)
+2025-11-28 16:56:30.004 dataS/character/playerM/jacket/topAviatorJacket.i3d (19.25 ms)
+2025-11-28 16:56:30.006 dataS/character/playerM/attachments/glassesAviators.i3d (1.81 ms)
+2025-11-28 16:56:30.040 dataS/character/playerM/hairStyles/hairStyleDiablo.i3d (33.68 ms)
+2025-11-28 16:56:30.041 dataS/character/playerM/facialHair/mHead01/beardStubble.i3d (1.46 ms)
+2025-11-28 16:57:03.835 data/objects/pallets/cheesePallet/cheesePallet.i3d (12.31 ms)
+2025-11-28 16:57:52.930   Info: Moved 2 vehicles to coordinates 646, 828 successfully.
+2025-11-28 16:58:16.523   Info: Successfully set fill unit 1 of Wielton Wielton bulk master to Total Mixed Ration with a fill level of 55,000 liters.
+2025-11-28 16:58:37.959   Info: Successfully set fill unit 1 of Wielton Wielton bulk master to Total Mixed Ration with a fill level of 55,000 liters.
+2025-11-28 16:58:55.156   Info: Successfully set fill unit 1 of Wielton Wielton bulk master to Total Mixed Ration with a fill level of 55,000 liters.
+2025-11-28 16:59:12.541   Info: Successfully set fill unit 1 of Wielton Wielton bulk master to Total Mixed Ration with a fill level of 55,000 liters.
+2025-11-28 16:59:30.400   Info: Successfully set fill unit 1 of Wielton Wielton bulk master to Total Mixed Ration with a fill level of 55,000 liters.
+2025-11-28 16:59:49.128   Info: Successfully set fill unit 1 of Wielton Wielton bulk master to Total Mixed Ration with a fill level of 55,000 liters.
+2025-11-28 17:00:16.468   Info: Successfully set fill unit 1 of Wielton Wielton bulk master to Total Mixed Ration with a fill level of 55,000 liters.
+2025-11-28 17:04:16.330 Game saved successfully (savegame1).
+2025-11-28 17:04:25.943 dataS/character/playerM/pants/botLeather.i3d (21.31 ms)
+2025-11-28 17:04:25.980 dataS/character/playerM/jacket/topVest.i3d (37.41 ms)
+2025-11-28 17:04:26.016 dataS/character/playerM/hairStyles/hairStyleFringe.i3d (35.14 ms)
+2025-11-28 17:05:33.264   Info: Successfully set fill unit 1 of Wielton Wielton bulk master to Grass with a fill level of 55,000 liters.
+2025-11-28 17:06:21.279   Info: Successfully set fill unit 1 of Wielton Wielton bulk master to Grass with a fill level of 55,000 liters.
+2025-11-28 17:06:42.111   Info: Successfully set fill unit 1 of Wielton Wielton bulk master to Grass with a fill level of 55,000 liters.
+2025-11-28 17:09:27.469   Info: Moved 2 vehicles to coordinates 1576, 608 successfully.
+2025-11-28 17:10:07.595   Info: Moved 2 vehicles to coordinates 690, 905 successfully.
+2025-11-28 17:10:46.419   Info: Moved 2 vehicles to coordinates 1579, 610 successfully.
+2025-11-28 17:11:25.766   Info: Moved 2 vehicles to coordinates 691, 908 successfully.
+2025-11-28 17:12:19.009   Info: Successfully set fill unit 1 of Lizard MKS 32 to Buffalo Milk with a fill level of 32,000 liters.
+2025-11-28 17:12:23.837   Info: Moved 2 vehicles to coordinates 1582, 610 successfully.
+2025-11-28 17:12:35.037   Info: Moved 2 vehicles to coordinates 1574, 612 successfully.
+2025-11-28 17:15:38.282 dataS/character/playerF/pants/botYogaPants.i3d (13.62 ms)
+2025-11-28 17:15:38.420 dataS/character/playerF/heads/fHead02.i3d (137.55 ms)
+2025-11-28 17:15:38.469 dataS/character/playerF/shirts/topTankTop.i3d (49.10 ms)
+2025-11-28 17:15:38.562 dataS/character/playerF/shoes/sportSneaker.i3d (93.48 ms)
+2025-11-28 17:15:38.605 dataS/character/playerF/hairStyles/hairStyleLongSideParted.i3d (42.92 ms)
+2025-11-28 17:15:53.207 data/shared/assets/reflectors/lizard/redRectangle_01.i3d (1.15 ms)
+2025-11-28 17:15:53.220 data/vehicles/sennebogen/g340/g340.i3d (42.40 ms)
+2025-11-28 17:15:53.361 data/shared/wheels/tires/bkt/multimaxMP527/500_70R24.i3d (2.69 ms)
+2025-11-28 17:15:53.456 data/shared/assets/lights/lizard/workingLight31.i3d (2.61 ms)
+2025-11-28 17:15:53.463 data/shared/assets/lights/lizard/rearLight26.i3d (6.81 ms)
+2025-11-28 17:15:53.466 data/shared/assets/lights/lizard/rearLight71.i3d (3.21 ms)
+2025-11-28 17:15:53.470 data/shared/assets/lights/lizard/frontLight15.i3d (3.10 ms)
+2025-11-28 17:16:12.361   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Fendt Cargo T740'
+2025-11-28 17:17:36.200 M@rcin lost connection to the game
+2025-11-28 17:20:20.426 dataS/character/playerF/pants/botChinos.i3d (10.74 ms)
+2025-11-28 17:20:20.571 dataS/character/playerF/heads/fHead06.i3d (144.53 ms)
+2025-11-28 17:20:20.625 dataS/character/playerF/shirts/topBlouse.i3d (54.17 ms)
+2025-11-28 17:20:20.628 dataS/character/playerF/shoes/sneaker01.i3d (2.87 ms)
+2025-11-28 17:20:20.671 dataS/character/playerF/hairStyles/hairStyleMidSideParted.i3d (43.59 ms)
+2025-11-28 17:26:41.929 siwa joined the game
+2025-11-28 17:26:41.971 dataS/character/playerM/pants/volvo/volvoPants.i3d (27.05 ms)
+2025-11-28 17:26:41.977 dataS/character/playerM/shirts/volvo/volvoTshirt.i3d (5.84 ms)
+2025-11-28 17:26:41.979 dataS/character/playerM/attachments/glassesSports01.i3d (1.67 ms)
