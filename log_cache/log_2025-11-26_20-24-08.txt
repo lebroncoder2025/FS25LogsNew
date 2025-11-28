@@ -6304,3 +6304,23 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-28 19:22:42.833 dataS/character/playerM/facialHair/mHead02/trimmedBeard.i3d (11.22 ms)
 2025-11-28 19:33:12.571 hubsonwaliszot lost connection to the game
 2025-11-28 19:34:27.484 Game saved successfully (savegame1).
+2025-11-28 19:55:32.551 data/objects/pallets/fermentedNapaCabbageBoxPallet/fermentedNapaCabbageBoxPallet.i3d (15.45 ms)
+2025-11-28 19:56:09.403 data/objects/pallets/fermentedNapaCabbageBoxPallet/fermentedNapaCabbageBoxPallet.i3d (18.37 ms)
+2025-11-28 19:56:09.417 data/objects/pallets/preservedFoodBeetRootPallet/preservedFoodBeetRootPallet.i3d (13.48 ms)
+2025-11-28 19:56:09.439 data/objects/pallets/noodleSoupPallet/noodleSoupBoxPallet.i3d (21.44 ms)
+2025-11-28 19:57:42.434 Błażej lost connection to the game
+2025-11-28 19:57:57.837 M@rcin lost connection to the game
+2025-11-28 19:58:10.603 siwa lost connection to the game
+2025-11-28 20:00:59.168 Piotrek lost connection to the game
+2025-11-28 20:04:29.868 Game saved successfully (savegame1).
+2025-11-28 20:09:18.337 data/objects/pallets/fermentedNapaCabbageBoxPallet/fermentedNapaCabbageBoxPallet.i3d (15.59 ms)
+2025-11-28 20:12:58.721 data/objects/pallets/noodleSoupPallet/noodleSoupBoxPallet.i3d (19.68 ms)
+2025-11-28 20:13:30.578 hubsonwaliszot joined the game
+2025-11-28 20:13:30.610 dataS/character/playerM/pants/botJeanShorts.i3d (16.68 ms)
+2025-11-28 20:13:30.628 dataS/character/playerM/heads/mHead02.i3d (18.04 ms)
+2025-11-28 20:13:30.911 dataS/character/playerM/shirts/poettinger/poettingerTshirt.i3d (283.79 ms)
+2025-11-28 20:13:30.961 dataS/character/playerM/gloves/strauss/glovesEsTrailLight02.i3d (48.92 ms)
+2025-11-28 20:13:31.007 dataS/character/playerM/attachments/hatWoolen.i3d (46.78 ms)
+2025-11-28 20:13:31.009 dataS/character/playerM/attachments/glassesAviators.i3d (1.63 ms)
+2025-11-28 20:13:31.043 dataS/character/playerM/hairStyles/hairStyleMullet.i3d (33.72 ms)
+2025-11-28 20:13:31.054 dataS/character/playerM/facialHair/mHead02/trimmedBeard.i3d (11.13 ms)
