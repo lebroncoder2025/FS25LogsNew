@@ -5977,3 +5977,6 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-28 10:24:55.671 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_lsfmBigBagPack/objects/bigBagFillable/bigBagFillable.i3d (7.26 ms)
 2025-11-28 10:25:08.351 data/objects/pallets/pioneer/pioneerPallet.i3d (1.66 ms)
 2025-11-28 10:25:08.394 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_lsfmBigBagPack/objects/bigBagFillable/bigBagFillable.i3d (8.38 ms)
+2025-11-28 10:26:21.902 symonixprime serwerkaput lost connection to the game
+2025-11-28 10:30:07.702 data/objects/pallets/flourPallet/flourBoxPallet.i3d (7.84 ms)
+2025-11-28 10:33:18.475 Game saved successfully (savegame1).
