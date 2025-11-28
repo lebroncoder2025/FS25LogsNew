@@ -5953,3 +5953,4 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-28 08:18:27.131 data/objects/pallets/pioneer/pioneerPallet.i3d (1.46 ms)
 2025-11-28 08:18:28.139 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_lsfmBigBagPack/objects/bigBagFillable/bigBagFillable.i3d (7.23 ms)
 2025-11-28 08:18:33.638 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_lsfmBigBagPack/objects/bigBagFillable/bigBagFillable.i3d (8.32 ms)
+2025-11-28 08:33:06.698 Game saved successfully (savegame1).
