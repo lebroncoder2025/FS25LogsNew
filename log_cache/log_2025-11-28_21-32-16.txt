@@ -27663,3 +27663,50 @@ LUA call stack:
 2025-11-29 20:32:31.457 dataS/character/playerM/jacket/topDenimJacket.i3d (23.29 ms)
 2025-11-29 20:32:31.490 dataS/character/playerM/hairStyles/hairStyleMidParted01.i3d (33.62 ms)
 2025-11-29 20:32:31.492 dataS/character/playerM/facialHair/mHead01/beardStubble.i3d (1.46 ms)
+2025-11-29 20:39:45.987 hubsonwaliszot left the game
+2025-11-29 20:40:04.534 Game saved successfully (savegame1).
+2025-11-29 20:40:58.271 Piotrek lost connection to the game
+2025-11-29 20:42:11.361 Błażej left the game
+2025-11-29 20:45:51.323 symonixprime serwerkaput lost connection to the game
+2025-11-29 21:10:17.692 Game saved successfully (savegame1).
+2025-11-29 21:17:19.654 Piotrek joined the game
+2025-11-29 21:17:19.868 dataS/character/playerM/pants/botChinos.i3d (13.28 ms)
+2025-11-29 21:17:19.944 dataS/character/playerM/shirts/strauss/straussTShirtMerino.i3d (76.40 ms)
+2025-11-29 21:17:19.949 dataS/character/playerM/gloves/glovesGeneric.i3d (4.89 ms)
+2025-11-29 21:17:20.040 dataS/character/playerM/shoes/sandalM03.i3d (91.21 ms)
+2025-11-29 21:17:20.041 dataS/character/playerM/hairStyles/hairStyleBald.i3d (0.28 ms)
+2025-11-29 21:18:13.018 M@rcin joined the game
+2025-11-29 21:18:13.053 dataS/character/playerM/jacket/topAviatorJacket.i3d (18.67 ms)
+2025-11-29 21:18:13.055 dataS/character/playerM/attachments/glassesAviators.i3d (1.93 ms)
+2025-11-29 21:18:13.088 dataS/character/playerM/hairStyles/hairStyleDiablo.i3d (33.44 ms)
+2025-11-29 21:18:13.090 dataS/character/playerM/facialHair/mHead01/beardStubble.i3d (1.42 ms)
+2025-11-29 21:18:51.714 symonixprime serwerkaput joined the game
+2025-11-29 21:18:51.872 dataS/character/playerM/pants/poettinger/poettingerShort.i3d (141.83 ms)
+2025-11-29 21:18:51.889 dataS/character/playerM/heads/mHead02.i3d (16.82 ms)
+2025-11-29 21:18:51.987 dataS/character/playerM/shirts/topTShirt02.i3d (97.00 ms)
+2025-11-29 21:18:51.989 dataS/character/playerM/shoes/sandalM02.i3d (1.22 ms)
+2025-11-29 21:18:52.025 dataS/character/playerM/hairStyles/hairStyleTopKnot.i3d (36.06 ms)
+2025-11-29 21:18:52.040 dataS/character/playerM/facialHair/mHead02/fullBeard.i3d (15.29 ms)
+2025-11-29 21:19:51.519 Błażej joined the game
+2025-11-29 21:19:51.538 dataS/character/playerM/shirts/topTShirt01.i3d (2.39 ms)
+2025-11-29 21:19:51.630 dataS/character/playerM/shoes/sportSneaker.i3d (92.84 ms)
+2025-11-29 21:19:51.665 dataS/character/playerM/hairStyles/hairStyleFringe.i3d (34.57 ms)
+2025-11-29 21:21:42.881 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.64 ms)
+2025-11-29 21:21:42.959 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_mrhHandLiftableConsumables/bag/bag.i3d (25.22 ms)
+2025-11-29 21:23:14.299 symonixprime serwerkaput lost connection to the game
+2025-11-29 21:23:20.995 dataS/character/playerF/pants/botJeansCapris.i3d (20.74 ms)
+2025-11-29 21:23:21.200 dataS/character/playerF/heads/fHead03.i3d (205.19 ms)
+2025-11-29 21:23:21.249 dataS/character/playerF/shirts/topTankTop.i3d (48.68 ms)
+2025-11-29 21:23:21.251 dataS/character/playerF/shoes/sneaker01.i3d (2.75 ms)
+2025-11-29 21:24:19.488 Błażej lost connection to the game
+2025-11-29 21:24:58.553 Błażej joined the game
+2025-11-29 21:24:58.571 dataS/character/playerM/shirts/topTShirt01.i3d (2.37 ms)
+2025-11-29 21:24:58.667 dataS/character/playerM/shoes/sportSneaker.i3d (96.92 ms)
+2025-11-29 21:24:58.703 dataS/character/playerM/hairStyles/hairStyleFringe.i3d (35.51 ms)
+2025-11-29 21:25:02.726 symonixprime serwerkaput joined the game
+2025-11-29 21:25:02.883 dataS/character/playerM/pants/poettinger/poettingerShort.i3d (141.36 ms)
+2025-11-29 21:25:02.899 dataS/character/playerM/heads/mHead02.i3d (15.72 ms)
+2025-11-29 21:25:02.994 dataS/character/playerM/shirts/topTShirt02.i3d (95.19 ms)
+2025-11-29 21:25:02.995 dataS/character/playerM/shoes/sandalM02.i3d (1.14 ms)
+2025-11-29 21:25:03.031 dataS/character/playerM/hairStyles/hairStyleTopKnot.i3d (35.63 ms)
+2025-11-29 21:25:03.046 dataS/character/playerM/facialHair/mHead02/fullBeard.i3d (14.85 ms)
