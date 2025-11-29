@@ -27598,3 +27598,20 @@ LUA call stack:
 2025-11-29 19:28:04.835   Info: Successfully set fill unit 1 of BREDAL F2WS 4000 to Lime with a fill level of 4,000 liters.
 2025-11-29 19:28:05.356   Info: Successfully set fill unit 1 of BREDAL F2WS 4000 to Lime with a fill level of 4,000 liters.
 2025-11-29 19:28:14.481   Info: Successfully set fill unit 1 of Sopema Fertilizer Trailer to Lime with a fill level of 8,500 liters.
+2025-11-29 19:31:36.634 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.60 ms)
+2025-11-29 19:31:36.821 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_mrhHandLiftableConsumables/bag/bag.i3d (50.07 ms)
+2025-11-29 19:32:04.913   Info: Successfully set fill unit 1 of Sopema Fertilizer Trailer to Lime with a fill level of 8,500 liters.
+2025-11-29 19:32:19.469   Info: Successfully set fill unit 1 of Sopema Fertilizer Trailer to Lime with a fill level of 8,500 liters.
+2025-11-29 19:34:18.278   Info: Successfully set fill unit 1 of Sopema Fertilizer Trailer to Lime with a fill level of 8,500 liters.
+2025-11-29 19:35:17.479 dataS/character/playerF/pants/botChinos.i3d (4.16 ms)
+2025-11-29 19:35:17.675 dataS/character/playerF/heads/fHead04.i3d (196.74 ms)
+2025-11-29 19:35:17.695 dataS/character/playerF/jacket/topAviatorJacket.i3d (19.00 ms)
+2025-11-29 19:35:17.771 dataS/character/playerF/shoes/laceUpSneaker.i3d (75.89 ms)
+2025-11-29 19:35:17.808 dataS/character/playerF/hairStyles/hairStylePonyTail01.i3d (36.46 ms)
+2025-11-29 19:37:37.197   Info: Successfully set fill unit 1 of Sopema Fertilizer Trailer to Lime with a fill level of 8,500 liters.
+2025-11-29 19:39:43.238 Game saved successfully (savegame1).
+2025-11-29 19:39:59.480 Game saved successfully (savegame1).
+2025-11-29 19:40:51.616   Info: Successfully set fill unit 1 of Sopema Fertilizer Trailer to Lime with a fill level of 8,500 liters.
+2025-11-29 19:42:53.181   Info: Successfully set fill unit 1 of Sopema Fertilizer Trailer to Lime with a fill level of 8,500 liters.
+2025-11-29 19:43:17.839   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Fendt 728 Vario Chip 330'
+2025-11-29 19:44:17.872   Info: Successfully set fill unit 1 of Sopema Fertilizer Trailer to Lime with a fill level of 8,500 liters.
