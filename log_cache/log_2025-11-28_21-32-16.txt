@@ -5585,3 +5585,9 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-29 10:31:44.148   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'JCB AgriPro'
 2025-11-29 10:33:39.964   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'JCB Fastrac 8330'
 2025-11-29 10:35:32.281 M@rcin lost connection to the game
+2025-11-29 10:37:52.960 Game saved successfully (savegame1).
+2025-11-29 11:03:30.294 dataS/character/playerF/pants/botCargo.i3d (23.19 ms)
+2025-11-29 11:03:30.337 dataS/character/playerF/jacket/topVest.i3d (42.64 ms)
+2025-11-29 11:03:30.341 dataS/character/playerF/shoes/workboot02.i3d (4.06 ms)
+2025-11-29 11:03:30.384 dataS/character/playerF/hairStyles/hairStylePonyTail03.i3d (42.50 ms)
+2025-11-29 11:07:55.102 Game saved successfully (savegame1).
