@@ -5651,3 +5651,14 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-29 13:59:04.440 data/objects/pallets/pioneer/pioneerPallet.i3d (1.58 ms)
 2025-11-29 13:59:04.468 data/objects/pallets/liquidTank/liquidTank.i3d (3.88 ms)
 2025-11-29 13:59:04.531 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_lsfmBigBagPack/objects/bigBagFillable/bigBagFillable.i3d (9.44 ms)
+2025-11-29 14:02:13.155 symonixprime serwerkaput lost connection to the game
+2025-11-29 14:02:19.760 data/shared/wheels/tires/trelleborg/AW305/480_45R17.i3d (3.84 ms)
+2025-11-29 14:08:30.713 Game saved successfully (savegame1).
+2025-11-29 14:12:04.422 Piotrek left the game
+2025-11-29 14:12:40.292 Piotrek joined the game
+2025-11-29 14:12:40.322 dataS/character/playerM/pants/botChinos.i3d (13.33 ms)
+2025-11-29 14:12:40.403 dataS/character/playerM/shirts/strauss/straussTShirtMerino.i3d (80.28 ms)
+2025-11-29 14:12:40.408 dataS/character/playerM/gloves/glovesGeneric.i3d (5.00 ms)
+2025-11-29 14:12:40.500 dataS/character/playerM/shoes/sandalM03.i3d (91.60 ms)
+2025-11-29 14:12:40.500 dataS/character/playerM/hairStyles/hairStyleBald.i3d (0.27 ms)
+2025-11-29 14:23:54.695 data/objects/bigBag/bigBag.i3d (6.20 ms)
