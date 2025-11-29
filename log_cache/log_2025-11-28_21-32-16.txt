@@ -5665,3 +5665,11 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-29 14:34:15.008   Info: Successfully added 'ExhaustExtension' particle system to 2 nodes of vehicle 'BigBud 747 16V (Max. Km/h 45/15)'
 2025-11-29 14:38:33.596 Game saved successfully (savegame1).
 2025-11-29 14:40:39.485 siwa left the game
+2025-11-29 14:48:49.766 dataS/character/playerF/pants/botChinos.i3d (4.96 ms)
+2025-11-29 14:48:49.899 dataS/character/playerF/heads/fHead06.i3d (132.84 ms)
+2025-11-29 14:48:49.966 dataS/character/playerF/shirts/topBlouse.i3d (66.95 ms)
+2025-11-29 14:48:49.970 dataS/character/playerF/shoes/sneaker01.i3d (3.65 ms)
+2025-11-29 14:48:50.014 dataS/character/playerF/hairStyles/hairStyleMidSideParted.i3d (43.03 ms)
+2025-11-29 14:50:30.872 data/objects/pallets/flourPallet/flourBoxPallet.i3d (8.90 ms)
+2025-11-29 15:07:01.638 Piotrek lost connection to the game
+2025-11-29 15:08:37.316 Game saved successfully (savegame1).
