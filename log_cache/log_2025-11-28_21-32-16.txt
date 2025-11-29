@@ -5602,3 +5602,14 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-29 11:35:18.539   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'MAN TGX 18.880'
 2025-11-29 11:37:56.877 Game saved successfully (savegame1).
 2025-11-29 11:38:35.192   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Case IH 160 CVX'
+2025-11-29 11:42:18.205 dataS/character/playerM/pants/botLeather.i3d (721.53 ms)
+2025-11-29 11:42:18.666 dataS/character/playerM/heads/mHead03.i3d (459.91 ms)
+2025-11-29 11:42:18.886 dataS/character/playerM/hairStyles/hairStyleMidParted01.i3d (220.84 ms)
+2025-11-29 11:49:52.818   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'New Holland 8340'
+2025-11-29 11:57:53.933   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Ford 8930'
+2025-11-29 12:06:15.045 data/objects/pallets/fermentedNapaCabbageBoxPallet/fermentedNapaCabbageBoxPallet.i3d (1139.10 ms)
+2025-11-29 12:06:17.115 data/objects/pallets/preservedFoodBeetRootPallet/preservedFoodBeetRootPallet.i3d (110.98 ms)
+2025-11-29 12:06:17.145 data/objects/pallets/noodleSoupPallet/noodleSoupBoxPallet.i3d (28.73 ms)
+2025-11-29 12:07:02.844 data/objects/pallets/preservedFoodBeetRootPallet/preservedFoodBeetRootPallet.i3d (11.37 ms)
+2025-11-29 12:07:02.878 data/objects/pallets/noodleSoupPallet/noodleSoupBoxPallet.i3d (21.45 ms)
+2025-11-29 12:08:05.353 Game saved successfully (savegame1).
