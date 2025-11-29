@@ -5575,3 +5575,13 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-29 10:11:34.180 data/shared/assets/reflectors/lizard/redTriangle_02.i3d (0.91 ms)
 2025-11-29 10:11:34.182 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_krassortSlurryContainer/krassortContainer.i3d (70.03 ms)
 2025-11-29 10:13:36.398   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'HOLMER Terra Dos T4-40'
+2025-11-29 10:24:03.882 Piotrek joined the game
+2025-11-29 10:24:03.917 dataS/character/playerM/pants/botChinos.i3d (22.02 ms)
+2025-11-29 10:24:04.014 dataS/character/playerM/shirts/strauss/straussTShirtMerino.i3d (97.27 ms)
+2025-11-29 10:24:04.021 dataS/character/playerM/gloves/glovesGeneric.i3d (6.96 ms)
+2025-11-29 10:24:04.114 dataS/character/playerM/shoes/sandalM03.i3d (92.74 ms)
+2025-11-29 10:24:04.115 dataS/character/playerM/hairStyles/hairStyleBald.i3d (0.46 ms)
+2025-11-29 10:25:33.520   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Mercedes 1800 Tuning'
+2025-11-29 10:31:44.148   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'JCB AgriPro'
+2025-11-29 10:33:39.964   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'JCB Fastrac 8330'
+2025-11-29 10:35:32.281 M@rcin lost connection to the game
