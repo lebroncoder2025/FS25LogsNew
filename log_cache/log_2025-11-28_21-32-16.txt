@@ -27104,3 +27104,497 @@ LUA call stack:
 2025-11-29 18:28:26.744   Info: No 'ExhaustExtension' particle system added to vehicle 'Kärcher HDS 9/18-4 M' because it has no exhaust
 2025-11-29 18:35:15.859   Info: Successfully set fill unit 1 of KINZE 4905 Blue Drive to Seeds with a fill level of 4,228 liters.
 2025-11-29 18:35:17.137   Info: Successfully set fill unit 2 of KINZE 4905 Blue Drive to Liquid Fertilizer with a fill level of 2,840 liters.
+2025-11-29 18:37:26.627 data/placeables/brandless/fences/EU/fence04/fence04.i3d (11.58 ms)
+2025-11-29 18:38:41.135 data/placeables/brandless/fences/EU/fence08/fence08.i3d (14.43 ms)
+2025-11-29 18:39:05.694 Game saved successfully (savegame1).
+2025-11-29 18:42:27.484 hubsonwaliszot joined the game
+2025-11-29 18:42:27.526 dataS/character/playerM/pants/botJeanShorts.i3d (22.00 ms)
+2025-11-29 18:42:27.881 dataS/character/playerM/shirts/poettinger/poettingerTshirt.i3d (355.71 ms)
+2025-11-29 18:42:27.944 dataS/character/playerM/gloves/strauss/glovesEsTrailLight02.i3d (62.78 ms)
+2025-11-29 18:42:28.004 dataS/character/playerM/attachments/hatWoolen.i3d (59.74 ms)
+2025-11-29 18:42:28.043 dataS/character/playerM/hairStyles/hairStyleMullet.i3d (39.59 ms)
+2025-11-29 18:42:28.056 dataS/character/playerM/facialHair/mHead02/trimmedBeard.i3d (12.23 ms)
+2025-11-29 18:45:11.553 dataS/character/playerF/pants/botYogaPants.i3d (10.78 ms)
+2025-11-29 18:45:11.665 dataS/character/playerF/heads/fHead02.i3d (111.42 ms)
+2025-11-29 18:45:11.747 dataS/character/playerF/shoes/sportSneaker.i3d (2.52 ms)
+2025-11-29 18:45:11.782 dataS/character/playerF/hairStyles/hairStyleLongSideParted.i3d (35.70 ms)
+2025-11-29 18:47:48.331 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_RounderWrappedRoundbales/assets/roundbale150/roundbale150.i3d (1.90 ms)
+2025-11-29 18:52:35.695   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'New Holland TH7.42 Elite'
+2025-11-29 18:53:02.711   Info: Moved 2 vehicles to coordinates 1976, 450 successfully.
+2025-11-29 18:53:13.430   Info: Moved 1 vehicles to coordinates 642, 833 successfully.
+2025-11-29 18:53:32.374   Info: Moved 2 vehicles to coordinates 1984, 446 successfully.
+2025-11-29 18:55:59.635   Info: Successfully set fill unit 1 of Sopema Fertilizer Trailer to Solid Fertilizer with a fill level of 8,500 liters.
+2025-11-29 18:56:05.076   Info: Successfully set fill unit 1 of BREDAL F2WS 4000 to Solid Fertilizer with a fill level of 4,000 liters.
+2025-11-29 18:59:15.615   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Case IH AF11'
+2025-11-29 19:00:49.556 dataS/character/playerF/pants/botChinos.i3d (4.11 ms)
+2025-11-29 19:00:49.795 dataS/character/playerF/heads/fHead04.i3d (238.82 ms)
+2025-11-29 19:00:49.802 dataS/character/playerF/jacket/topAviatorJacket.i3d (6.28 ms)
+2025-11-29 19:00:49.897 dataS/character/playerF/shoes/laceUpSneaker.i3d (94.77 ms)
+2025-11-29 19:00:49.941 dataS/character/playerF/hairStyles/hairStylePonyTail01.i3d (44.41 ms)
+2025-11-29 19:02:24.644 data/vehicles/geringhoff/northStar1830/northStar1830.i3d (36.44 ms)
+2025-11-29 19:02:24.833 data/shared/assets/lights/lizard/sideMarker18.i3d (2.86 ms)
+2025-11-29 19:02:25.107 data/shared/assets/powerTakeOffs/walterscheidW_SC25_oneEnd.i3d (2.42 ms)
+2025-11-29 19:02:39.490 data/shared/assets/reflectors/lizard/redTriangle_02.i3d (1.14 ms)
+2025-11-29 19:02:39.491 data/shared/assets/reflectors/lizard/redRound_03.i3d (0.98 ms)
+2025-11-29 19:02:39.492 data/shared/assets/reflectors/lizard/yellowRound_03.i3d (0.96 ms)
+2025-11-29 19:02:39.507 data/vehicles/nardi/n60_45/n60_45.i3d (25.66 ms)
+2025-11-29 19:05:22.008 
+Script error in setScale: Argument 1 is a NaN
+LUA call stack:
+  =[C]:-1 setScale
+  =dataS/scripts/vehicles/specializations/FillVolume.lua:392 onUpdate
+  =dataS/scripts/specialization/SpecializationUtil.lua:56 raiseEvent
+  =dataS/scripts/vehicles/Vehicle.lua:2041 update
+  =dataS/scripts/network/NetworkNode.lua:181 updateActiveObjects
+  =dataS/scripts/network/Server.lua:64 update
+  =dataS/scripts/BaseMission.lua:1023 update
+  =dataS/scripts/FSBaseMission.lua:1913 update
+  =dataS/scripts/mission00.lua:684 update
+  =dataS/scripts/main.lua:1238 update
+2025-11-29 19:05:22.008 
+Script error in setTranslation: Argument 1 is a NaN
+LUA call stack:
+  =[C]:-1 setTranslation
+  =dataS/scripts/vehicles/specializations/FillVolume.lua:393 onUpdate
+  =dataS/scripts/specialization/SpecializationUtil.lua:56 raiseEvent
+  =dataS/scripts/vehicles/Vehicle.lua:2041 update
+  =dataS/scripts/network/NetworkNode.lua:181 updateActiveObjects
+  =dataS/scripts/network/Server.lua:64 update
+  =dataS/scripts/BaseMission.lua:1023 update
+  =dataS/scripts/FSBaseMission.lua:1913 update
+  =dataS/scripts/mission00.lua:684 update
+  =dataS/scripts/main.lua:1238 update
+2025-11-29 19:05:22.039 
+Script error in setScale: Argument 1 is a NaN
+LUA call stack:
+  =[C]:-1 setScale
+  =dataS/scripts/vehicles/specializations/FillVolume.lua:392 onUpdate
+  =dataS/scripts/specialization/SpecializationUtil.lua:56 raiseEvent
+  =dataS/scripts/vehicles/Vehicle.lua:2041 update
+  =dataS/scripts/network/NetworkNode.lua:181 updateActiveObjects
+  =dataS/scripts/network/Server.lua:64 update
+  =dataS/scripts/BaseMission.lua:1023 update
+  =dataS/scripts/FSBaseMission.lua:1913 update
+  =dataS/scripts/mission00.lua:684 update
+  =dataS/scripts/main.lua:1238 update
+2025-11-29 19:05:22.040 
+Script error in setTranslation: Argument 1 is a NaN
+LUA call stack:
+  =[C]:-1 setTranslation
+  =dataS/scripts/vehicles/specializations/FillVolume.lua:393 onUpdate
+  =dataS/scripts/specialization/SpecializationUtil.lua:56 raiseEvent
+  =dataS/scripts/vehicles/Vehicle.lua:2041 update
+  =dataS/scripts/network/NetworkNode.lua:181 updateActiveObjects
+  =dataS/scripts/network/Server.lua:64 update
+  =dataS/scripts/BaseMission.lua:1023 update
+  =dataS/scripts/FSBaseMission.lua:1913 update
+  =dataS/scripts/mission00.lua:684 update
+  =dataS/scripts/main.lua:1238 update
+2025-11-29 19:05:22.081 
+Script error in setScale: Argument 1 is a NaN
+LUA call stack:
+  =[C]:-1 setScale
+  =dataS/scripts/vehicles/specializations/FillVolume.lua:392 onUpdate
+  =dataS/scripts/specialization/SpecializationUtil.lua:56 raiseEvent
+  =dataS/scripts/vehicles/Vehicle.lua:2041 update
+  =dataS/scripts/network/NetworkNode.lua:181 updateActiveObjects
+  =dataS/scripts/network/Server.lua:64 update
+  =dataS/scripts/BaseMission.lua:1023 update
+  =dataS/scripts/FSBaseMission.lua:1913 update
+  =dataS/scripts/mission00.lua:684 update
+  =dataS/scripts/main.lua:1238 update
+2025-11-29 19:05:22.081 
+Script error in setTranslation: Argument 1 is a NaN
+LUA call stack:
+  =[C]:-1 setTranslation
+  =dataS/scripts/vehicles/specializations/FillVolume.lua:393 onUpdate
+  =dataS/scripts/specialization/SpecializationUtil.lua:56 raiseEvent
+  =dataS/scripts/vehicles/Vehicle.lua:2041 update
+  =dataS/scripts/network/NetworkNode.lua:181 updateActiveObjects
+  =dataS/scripts/network/Server.lua:64 update
+  =dataS/scripts/BaseMission.lua:1023 update
+  =dataS/scripts/FSBaseMission.lua:1913 update
+  =dataS/scripts/mission00.lua:684 update
+  =dataS/scripts/main.lua:1238 update
+2025-11-29 19:05:22.127 
+Script error in setScale: Argument 1 is a NaN
+LUA call stack:
+  =[C]:-1 setScale
+  =dataS/scripts/vehicles/specializations/FillVolume.lua:392 onUpdate
+  =dataS/scripts/specialization/SpecializationUtil.lua:56 raiseEvent
+  =dataS/scripts/vehicles/Vehicle.lua:2041 update
+  =dataS/scripts/network/NetworkNode.lua:181 updateActiveObjects
+  =dataS/scripts/network/Server.lua:64 update
+  =dataS/scripts/BaseMission.lua:1023 update
+  =dataS/scripts/FSBaseMission.lua:1913 update
+  =dataS/scripts/mission00.lua:684 update
+  =dataS/scripts/main.lua:1238 update
+2025-11-29 19:05:22.127 
+Script error in setTranslation: Argument 1 is a NaN
+LUA call stack:
+  =[C]:-1 setTranslation
+  =dataS/scripts/vehicles/specializations/FillVolume.lua:393 onUpdate
+  =dataS/scripts/specialization/SpecializationUtil.lua:56 raiseEvent
+  =dataS/scripts/vehicles/Vehicle.lua:2041 update
+  =dataS/scripts/network/NetworkNode.lua:181 updateActiveObjects
+  =dataS/scripts/network/Server.lua:64 update
+  =dataS/scripts/BaseMission.lua:1023 update
+  =dataS/scripts/FSBaseMission.lua:1913 update
+  =dataS/scripts/mission00.lua:684 update
+  =dataS/scripts/main.lua:1238 update
+2025-11-29 19:05:22.171 
+Script error in setScale: Argument 1 is a NaN
+LUA call stack:
+  =[C]:-1 setScale
+  =dataS/scripts/vehicles/specializations/FillVolume.lua:392 onUpdate
+  =dataS/scripts/specialization/SpecializationUtil.lua:56 raiseEvent
+  =dataS/scripts/vehicles/Vehicle.lua:2041 update
+  =dataS/scripts/network/NetworkNode.lua:181 updateActiveObjects
+  =dataS/scripts/network/Server.lua:64 update
+  =dataS/scripts/BaseMission.lua:1023 update
+  =dataS/scripts/FSBaseMission.lua:1913 update
+  =dataS/scripts/mission00.lua:684 update
+  =dataS/scripts/main.lua:1238 update
+2025-11-29 19:05:22.171 
+Script error in setTranslation: Argument 1 is a NaN
+LUA call stack:
+  =[C]:-1 setTranslation
+  =dataS/scripts/vehicles/specializations/FillVolume.lua:393 onUpdate
+  =dataS/scripts/specialization/SpecializationUtil.lua:56 raiseEvent
+  =dataS/scripts/vehicles/Vehicle.lua:2041 update
+  =dataS/scripts/network/NetworkNode.lua:181 updateActiveObjects
+  =dataS/scripts/network/Server.lua:64 update
+  =dataS/scripts/BaseMission.lua:1023 update
+  =dataS/scripts/FSBaseMission.lua:1913 update
+  =dataS/scripts/mission00.lua:684 update
+  =dataS/scripts/main.lua:1238 update
+2025-11-29 19:05:22.220 
+Script error in setScale: Argument 1 is a NaN
+LUA call stack:
+  =[C]:-1 setScale
+  =dataS/scripts/vehicles/specializations/FillVolume.lua:392 onUpdate
+  =dataS/scripts/specialization/SpecializationUtil.lua:56 raiseEvent
+  =dataS/scripts/vehicles/Vehicle.lua:2041 update
+  =dataS/scripts/network/NetworkNode.lua:181 updateActiveObjects
+  =dataS/scripts/network/Server.lua:64 update
+  =dataS/scripts/BaseMission.lua:1023 update
+  =dataS/scripts/FSBaseMission.lua:1913 update
+  =dataS/scripts/mission00.lua:684 update
+  =dataS/scripts/main.lua:1238 update
+2025-11-29 19:05:22.220 
+Script error in setTranslation: Argument 1 is a NaN
+LUA call stack:
+  =[C]:-1 setTranslation
+  =dataS/scripts/vehicles/specializations/FillVolume.lua:393 onUpdate
+  =dataS/scripts/specialization/SpecializationUtil.lua:56 raiseEvent
+  =dataS/scripts/vehicles/Vehicle.lua:2041 update
+  =dataS/scripts/network/NetworkNode.lua:181 updateActiveObjects
+  =dataS/scripts/network/Server.lua:64 update
+  =dataS/scripts/BaseMission.lua:1023 update
+  =dataS/scripts/FSBaseMission.lua:1913 update
+  =dataS/scripts/mission00.lua:684 update
+  =dataS/scripts/main.lua:1238 update
+2025-11-29 19:05:22.265 
+Script error in setScale: Argument 1 is a NaN
+LUA call stack:
+  =[C]:-1 setScale
+  =dataS/scripts/vehicles/specializations/FillVolume.lua:392 onUpdate
+  =dataS/scripts/specialization/SpecializationUtil.lua:56 raiseEvent
+  =dataS/scripts/vehicles/Vehicle.lua:2041 update
+  =dataS/scripts/network/NetworkNode.lua:181 updateActiveObjects
+  =dataS/scripts/network/Server.lua:64 update
+  =dataS/scripts/BaseMission.lua:1023 update
+  =dataS/scripts/FSBaseMission.lua:1913 update
+  =dataS/scripts/mission00.lua:684 update
+  =dataS/scripts/main.lua:1238 update
+2025-11-29 19:05:22.265 
+Script error in setTranslation: Argument 1 is a NaN
+LUA call stack:
+  =[C]:-1 setTranslation
+  =dataS/scripts/vehicles/specializations/FillVolume.lua:393 onUpdate
+  =dataS/scripts/specialization/SpecializationUtil.lua:56 raiseEvent
+  =dataS/scripts/vehicles/Vehicle.lua:2041 update
+  =dataS/scripts/network/NetworkNode.lua:181 updateActiveObjects
+  =dataS/scripts/network/Server.lua:64 update
+  =dataS/scripts/BaseMission.lua:1023 update
+  =dataS/scripts/FSBaseMission.lua:1913 update
+  =dataS/scripts/mission00.lua:684 update
+  =dataS/scripts/main.lua:1238 update
+2025-11-29 19:05:22.317 
+Script error in setScale: Argument 1 is a NaN
+LUA call stack:
+  =[C]:-1 setScale
+  =dataS/scripts/vehicles/specializations/FillVolume.lua:392 onUpdate
+  =dataS/scripts/specialization/SpecializationUtil.lua:56 raiseEvent
+  =dataS/scripts/vehicles/Vehicle.lua:2041 update
+  =dataS/scripts/network/NetworkNode.lua:181 updateActiveObjects
+  =dataS/scripts/network/Server.lua:64 update
+  =dataS/scripts/BaseMission.lua:1023 update
+  =dataS/scripts/FSBaseMission.lua:1913 update
+  =dataS/scripts/mission00.lua:684 update
+  =dataS/scripts/main.lua:1238 update
+2025-11-29 19:05:22.317 
+Script error in setTranslation: Argument 1 is a NaN
+LUA call stack:
+  =[C]:-1 setTranslation
+  =dataS/scripts/vehicles/specializations/FillVolume.lua:393 onUpdate
+  =dataS/scripts/specialization/SpecializationUtil.lua:56 raiseEvent
+  =dataS/scripts/vehicles/Vehicle.lua:2041 update
+  =dataS/scripts/network/NetworkNode.lua:181 updateActiveObjects
+  =dataS/scripts/network/Server.lua:64 update
+  =dataS/scripts/BaseMission.lua:1023 update
+  =dataS/scripts/FSBaseMission.lua:1913 update
+  =dataS/scripts/mission00.lua:684 update
+  =dataS/scripts/main.lua:1238 update
+2025-11-29 19:05:22.345 
+Script error in setScale: Argument 1 is a NaN
+LUA call stack:
+  =[C]:-1 setScale
+  =dataS/scripts/vehicles/specializations/FillVolume.lua:392 onUpdate
+  =dataS/scripts/specialization/SpecializationUtil.lua:56 raiseEvent
+  =dataS/scripts/vehicles/Vehicle.lua:2041 update
+  =dataS/scripts/network/NetworkNode.lua:181 updateActiveObjects
+  =dataS/scripts/network/Server.lua:64 update
+  =dataS/scripts/BaseMission.lua:1023 update
+  =dataS/scripts/FSBaseMission.lua:1913 update
+  =dataS/scripts/mission00.lua:684 update
+  =dataS/scripts/main.lua:1238 update
+2025-11-29 19:05:22.345 
+Script error in setTranslation: Argument 1 is a NaN
+LUA call stack:
+  =[C]:-1 setTranslation
+  =dataS/scripts/vehicles/specializations/FillVolume.lua:393 onUpdate
+  =dataS/scripts/specialization/SpecializationUtil.lua:56 raiseEvent
+  =dataS/scripts/vehicles/Vehicle.lua:2041 update
+  =dataS/scripts/network/NetworkNode.lua:181 updateActiveObjects
+  =dataS/scripts/network/Server.lua:64 update
+  =dataS/scripts/BaseMission.lua:1023 update
+  =dataS/scripts/FSBaseMission.lua:1913 update
+  =dataS/scripts/mission00.lua:684 update
+  =dataS/scripts/main.lua:1238 update
+2025-11-29 19:05:22.396 
+Script error in setScale: Argument 1 is a NaN
+LUA call stack:
+  =[C]:-1 setScale
+  =dataS/scripts/vehicles/specializations/FillVolume.lua:392 onUpdate
+  =dataS/scripts/specialization/SpecializationUtil.lua:56 raiseEvent
+  =dataS/scripts/vehicles/Vehicle.lua:2041 update
+  =dataS/scripts/network/NetworkNode.lua:181 updateActiveObjects
+  =dataS/scripts/network/Server.lua:64 update
+  =dataS/scripts/BaseMission.lua:1023 update
+  =dataS/scripts/FSBaseMission.lua:1913 update
+  =dataS/scripts/mission00.lua:684 update
+  =dataS/scripts/main.lua:1238 update
+2025-11-29 19:05:22.396 
+Script error in setTranslation: Argument 1 is a NaN
+LUA call stack:
+  =[C]:-1 setTranslation
+  =dataS/scripts/vehicles/specializations/FillVolume.lua:393 onUpdate
+  =dataS/scripts/specialization/SpecializationUtil.lua:56 raiseEvent
+  =dataS/scripts/vehicles/Vehicle.lua:2041 update
+  =dataS/scripts/network/NetworkNode.lua:181 updateActiveObjects
+  =dataS/scripts/network/Server.lua:64 update
+  =dataS/scripts/BaseMission.lua:1023 update
+  =dataS/scripts/FSBaseMission.lua:1913 update
+  =dataS/scripts/mission00.lua:684 update
+  =dataS/scripts/main.lua:1238 update
+2025-11-29 19:05:22.426 
+Script error in setScale: Argument 1 is a NaN
+LUA call stack:
+  =[C]:-1 setScale
+  =dataS/scripts/vehicles/specializations/FillVolume.lua:392 onUpdate
+  =dataS/scripts/specialization/SpecializationUtil.lua:56 raiseEvent
+  =dataS/scripts/vehicles/Vehicle.lua:2041 update
+  =dataS/scripts/network/NetworkNode.lua:181 updateActiveObjects
+  =dataS/scripts/network/Server.lua:64 update
+  =dataS/scripts/BaseMission.lua:1023 update
+  =dataS/scripts/FSBaseMission.lua:1913 update
+  =dataS/scripts/mission00.lua:684 update
+  =dataS/scripts/main.lua:1238 update
+2025-11-29 19:05:22.426 
+Script error in setTranslation: Argument 1 is a NaN
+LUA call stack:
+  =[C]:-1 setTranslation
+  =dataS/scripts/vehicles/specializations/FillVolume.lua:393 onUpdate
+  =dataS/scripts/specialization/SpecializationUtil.lua:56 raiseEvent
+  =dataS/scripts/vehicles/Vehicle.lua:2041 update
+  =dataS/scripts/network/NetworkNode.lua:181 updateActiveObjects
+  =dataS/scripts/network/Server.lua:64 update
+  =dataS/scripts/BaseMission.lua:1023 update
+  =dataS/scripts/FSBaseMission.lua:1913 update
+  =dataS/scripts/mission00.lua:684 update
+  =dataS/scripts/main.lua:1238 update
+2025-11-29 19:05:22.467 
+Script error in setScale: Argument 1 is a NaN
+LUA call stack:
+  =[C]:-1 setScale
+  =dataS/scripts/vehicles/specializations/FillVolume.lua:392 onUpdate
+  =dataS/scripts/specialization/SpecializationUtil.lua:56 raiseEvent
+  =dataS/scripts/vehicles/Vehicle.lua:2041 update
+  =dataS/scripts/network/NetworkNode.lua:181 updateActiveObjects
+  =dataS/scripts/network/Server.lua:64 update
+  =dataS/scripts/BaseMission.lua:1023 update
+  =dataS/scripts/FSBaseMission.lua:1913 update
+  =dataS/scripts/mission00.lua:684 update
+  =dataS/scripts/main.lua:1238 update
+2025-11-29 19:05:22.467 
+Script error in setTranslation: Argument 1 is a NaN
+LUA call stack:
+  =[C]:-1 setTranslation
+  =dataS/scripts/vehicles/specializations/FillVolume.lua:393 onUpdate
+  =dataS/scripts/specialization/SpecializationUtil.lua:56 raiseEvent
+  =dataS/scripts/vehicles/Vehicle.lua:2041 update
+  =dataS/scripts/network/NetworkNode.lua:181 updateActiveObjects
+  =dataS/scripts/network/Server.lua:64 update
+  =dataS/scripts/BaseMission.lua:1023 update
+  =dataS/scripts/FSBaseMission.lua:1913 update
+  =dataS/scripts/mission00.lua:684 update
+  =dataS/scripts/main.lua:1238 update
+2025-11-29 19:05:22.498 
+Script error in setScale: Argument 1 is a NaN
+LUA call stack:
+  =[C]:-1 setScale
+  =dataS/scripts/vehicles/specializations/FillVolume.lua:392 onUpdate
+  =dataS/scripts/specialization/SpecializationUtil.lua:56 raiseEvent
+  =dataS/scripts/vehicles/Vehicle.lua:2041 update
+  =dataS/scripts/network/NetworkNode.lua:181 updateActiveObjects
+  =dataS/scripts/network/Server.lua:64 update
+  =dataS/scripts/BaseMission.lua:1023 update
+  =dataS/scripts/FSBaseMission.lua:1913 update
+  =dataS/scripts/mission00.lua:684 update
+  =dataS/scripts/main.lua:1238 update
+2025-11-29 19:05:22.499 
+Script error in setTranslation: Argument 1 is a NaN
+LUA call stack:
+  =[C]:-1 setTranslation
+  =dataS/scripts/vehicles/specializations/FillVolume.lua:393 onUpdate
+  =dataS/scripts/specialization/SpecializationUtil.lua:56 raiseEvent
+  =dataS/scripts/vehicles/Vehicle.lua:2041 update
+  =dataS/scripts/network/NetworkNode.lua:181 updateActiveObjects
+  =dataS/scripts/network/Server.lua:64 update
+  =dataS/scripts/BaseMission.lua:1023 update
+  =dataS/scripts/FSBaseMission.lua:1913 update
+  =dataS/scripts/mission00.lua:684 update
+  =dataS/scripts/main.lua:1238 update
+2025-11-29 19:05:22.530 
+Script error in setScale: Argument 1 is a NaN
+LUA call stack:
+  =[C]:-1 setScale
+  =dataS/scripts/vehicles/specializations/FillVolume.lua:392 onUpdate
+  =dataS/scripts/specialization/SpecializationUtil.lua:56 raiseEvent
+  =dataS/scripts/vehicles/Vehicle.lua:2041 update
+  =dataS/scripts/network/NetworkNode.lua:181 updateActiveObjects
+  =dataS/scripts/network/Server.lua:64 update
+  =dataS/scripts/BaseMission.lua:1023 update
+  =dataS/scripts/FSBaseMission.lua:1913 update
+  =dataS/scripts/mission00.lua:684 update
+  =dataS/scripts/main.lua:1238 update
+2025-11-29 19:05:22.530 
+Script error in setTranslation: Argument 1 is a NaN
+LUA call stack:
+  =[C]:-1 setTranslation
+  =dataS/scripts/vehicles/specializations/FillVolume.lua:393 onUpdate
+  =dataS/scripts/specialization/SpecializationUtil.lua:56 raiseEvent
+  =dataS/scripts/vehicles/Vehicle.lua:2041 update
+  =dataS/scripts/network/NetworkNode.lua:181 updateActiveObjects
+  =dataS/scripts/network/Server.lua:64 update
+  =dataS/scripts/BaseMission.lua:1023 update
+  =dataS/scripts/FSBaseMission.lua:1913 update
+  =dataS/scripts/mission00.lua:684 update
+  =dataS/scripts/main.lua:1238 update
+2025-11-29 19:05:22.560 
+Script error in setScale: Argument 1 is a NaN
+LUA call stack:
+  =[C]:-1 setScale
+  =dataS/scripts/vehicles/specializations/FillVolume.lua:392 onUpdate
+  =dataS/scripts/specialization/SpecializationUtil.lua:56 raiseEvent
+  =dataS/scripts/vehicles/Vehicle.lua:2041 update
+  =dataS/scripts/network/NetworkNode.lua:181 updateActiveObjects
+  =dataS/scripts/network/Server.lua:64 update
+  =dataS/scripts/BaseMission.lua:1023 update
+  =dataS/scripts/FSBaseMission.lua:1913 update
+  =dataS/scripts/mission00.lua:684 update
+  =dataS/scripts/main.lua:1238 update
+2025-11-29 19:05:22.560 
+Script error in setTranslation: Argument 1 is a NaN
+LUA call stack:
+  =[C]:-1 setTranslation
+  =dataS/scripts/vehicles/specializations/FillVolume.lua:393 onUpdate
+  =dataS/scripts/specialization/SpecializationUtil.lua:56 raiseEvent
+  =dataS/scripts/vehicles/Vehicle.lua:2041 update
+  =dataS/scripts/network/NetworkNode.lua:181 updateActiveObjects
+  =dataS/scripts/network/Server.lua:64 update
+  =dataS/scripts/BaseMission.lua:1023 update
+  =dataS/scripts/FSBaseMission.lua:1913 update
+  =dataS/scripts/mission00.lua:684 update
+  =dataS/scripts/main.lua:1238 update
+2025-11-29 19:05:22.604 
+Script error in setScale: Argument 1 is a NaN
+LUA call stack:
+  =[C]:-1 setScale
+  =dataS/scripts/vehicles/specializations/FillVolume.lua:392 onUpdate
+  =dataS/scripts/specialization/SpecializationUtil.lua:56 raiseEvent
+  =dataS/scripts/vehicles/Vehicle.lua:2041 update
+  =dataS/scripts/network/NetworkNode.lua:181 updateActiveObjects
+  =dataS/scripts/network/Server.lua:64 update
+  =dataS/scripts/BaseMission.lua:1023 update
+  =dataS/scripts/FSBaseMission.lua:1913 update
+  =dataS/scripts/mission00.lua:684 update
+  =dataS/scripts/main.lua:1238 update
+2025-11-29 19:05:22.604 
+Script error in setTranslation: Argument 1 is a NaN
+LUA call stack:
+  =[C]:-1 setTranslation
+  =dataS/scripts/vehicles/specializations/FillVolume.lua:393 onUpdate
+  =dataS/scripts/specialization/SpecializationUtil.lua:56 raiseEvent
+  =dataS/scripts/vehicles/Vehicle.lua:2041 update
+  =dataS/scripts/network/NetworkNode.lua:181 updateActiveObjects
+  =dataS/scripts/network/Server.lua:64 update
+  =dataS/scripts/BaseMission.lua:1023 update
+  =dataS/scripts/FSBaseMission.lua:1913 update
+  =dataS/scripts/mission00.lua:684 update
+  =dataS/scripts/main.lua:1238 update
+2025-11-29 19:06:21.583 dataS/character/playerM/heads/mHead05.i3d (197.06 ms)
+2025-11-29 19:06:21.681 dataS/character/playerM/shirts/zipNeckPullover.i3d (98.02 ms)
+2025-11-29 19:06:21.716 dataS/character/playerM/hairStyles/hairStyleManBun.i3d (34.75 ms)
+2025-11-29 19:06:21.726 dataS/character/playerM/facialHair/mHead05/goatee02.i3d (10.03 ms)
+2025-11-29 19:09:11.637 Game saved successfully (savegame1).
+2025-11-29 19:11:18.812   Info: Updated field 7 successfully (3) (1)
+2025-11-29 19:11:27.453   Info: Updated field 6 successfully (3) (1)
+2025-11-29 19:11:28.013 dataS/character/playerM/fullBody/onePieceMechanic.i3d (43.32 ms)
+2025-11-29 19:11:28.035 dataS/character/playerM/shoes/riding.i3d (22.45 ms)
+2025-11-29 19:11:28.078 dataS/character/playerM/hairStyles/hairStyleUnkempt.i3d (43.24 ms)
+2025-11-29 19:11:28.095 dataS/character/playerM/facialHair/mHead02/goatee01.i3d (16.56 ms)
+2025-11-29 19:11:32.818   Info: Updated field 5 successfully (3) (1)
+2025-11-29 19:11:38.344   Info: Updated field 4 successfully (3) (1)
+2025-11-29 19:11:53.556   Info: Updated field 7 successfully (3) (1)
+2025-11-29 19:11:59.543   Info: Updated field 6 successfully (3) (1)
+2025-11-29 19:12:05.756   Info: Updated field 4 successfully (3) (1)
+2025-11-29 19:12:10.367   Info: Updated field 3 successfully (3) (1)
+2025-11-29 19:12:16.549   Info: Updated field 2 successfully (3) (1)
+2025-11-29 19:12:24.738   Info: Updated field 1 successfully (3) (1)
+2025-11-29 19:12:58.971 dataS/character/playerM/pants/botLeather.i3d (17.62 ms)
+2025-11-29 19:12:59.175 dataS/character/playerM/heads/mHead03.i3d (203.17 ms)
+2025-11-29 19:12:59.209 dataS/character/playerM/hairStyles/hairStyleMidParted01.i3d (33.86 ms)
+2025-11-29 19:17:00.052 M@rcin lost connection to the game
+2025-11-29 19:19:50.574 dataS/character/playerM/heads/mHead05.i3d (194.81 ms)
+2025-11-29 19:19:50.670 dataS/character/playerM/shirts/zipNeckPullover.i3d (95.78 ms)
+2025-11-29 19:19:50.704 dataS/character/playerM/hairStyles/hairStyleManBun.i3d (33.55 ms)
+2025-11-29 19:19:50.715 dataS/character/playerM/facialHair/mHead05/goatee02.i3d (10.19 ms)
+2025-11-29 19:19:52.785 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.64 ms)
+2025-11-29 19:19:52.902 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_lsfmBigBagPack/objects/bigBag/bigBag.i3d (7.94 ms)
+2025-11-29 19:20:22.157 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.61 ms)
+2025-11-29 19:20:22.303 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_lsfmBigBagPack/objects/bigBag/bigBag.i3d (5.33 ms)
+2025-11-29 19:21:22.749 dataS/character/playerF/pants/botYogaPants.i3d (10.95 ms)
+2025-11-29 19:21:22.858 dataS/character/playerF/heads/fHead02.i3d (110.16 ms)
+2025-11-29 19:21:22.908 dataS/character/playerF/shirts/topTankTop.i3d (48.58 ms)
+2025-11-29 19:21:22.910 dataS/character/playerF/shoes/sportSneaker.i3d (2.25 ms)
+2025-11-29 19:21:22.946 dataS/character/playerF/hairStyles/hairStyleLongSideParted.i3d (35.65 ms)
+2025-11-29 19:21:33.871 dataS/character/playerF/pants/botCargo.i3d (18.04 ms)
+2025-11-29 19:21:33.897 dataS/character/playerF/jacket/topVest.i3d (25.32 ms)
+2025-11-29 19:21:33.900 dataS/character/playerF/shoes/workboot02.i3d (3.24 ms)
+2025-11-29 19:21:33.935 dataS/character/playerF/hairStyles/hairStylePonyTail03.i3d (34.85 ms)
+2025-11-29 19:22:01.680 data/objects/bigBagPallet/bigBagPallet.i3d (5.13 ms)
+2025-11-29 19:28:04.835   Info: Successfully set fill unit 1 of BREDAL F2WS 4000 to Lime with a fill level of 4,000 liters.
+2025-11-29 19:28:05.356   Info: Successfully set fill unit 1 of BREDAL F2WS 4000 to Lime with a fill level of 4,000 liters.
+2025-11-29 19:28:14.481   Info: Successfully set fill unit 1 of Sopema Fertilizer Trailer to Lime with a fill level of 8,500 liters.
