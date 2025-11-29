@@ -5674,3 +5674,28 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-29 15:07:01.638 Piotrek lost connection to the game
 2025-11-29 15:08:37.316 Game saved successfully (savegame1).
 2025-11-29 15:24:21.069 Błażej lost connection to the game
+2025-11-29 15:38:45.560 Game saved successfully (savegame1).
+2025-11-29 15:45:39.042 Piotrek joined the game
+2025-11-29 15:45:39.253 dataS/character/playerM/pants/botChinos.i3d (13.23 ms)
+2025-11-29 15:45:39.331 dataS/character/playerM/shirts/strauss/straussTShirtMerino.i3d (77.42 ms)
+2025-11-29 15:45:39.336 dataS/character/playerM/gloves/glovesGeneric.i3d (4.86 ms)
+2025-11-29 15:45:39.427 dataS/character/playerM/shoes/sandalM03.i3d (91.42 ms)
+2025-11-29 15:45:39.428 dataS/character/playerM/hairStyles/hairStyleBald.i3d (0.27 ms)
+2025-11-29 15:47:09.672 M@rcin joined the game
+2025-11-29 15:47:09.706 dataS/character/playerM/jacket/topAviatorJacket.i3d (19.13 ms)
+2025-11-29 15:47:09.708 dataS/character/playerM/attachments/glassesAviators.i3d (1.73 ms)
+2025-11-29 15:47:09.742 dataS/character/playerM/hairStyles/hairStyleDiablo.i3d (33.27 ms)
+2025-11-29 15:47:09.743 dataS/character/playerM/facialHair/mHead01/beardStubble.i3d (1.42 ms)
+2025-11-29 15:50:50.852 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.74 ms)
+2025-11-29 15:51:13.274 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.55 ms)
+2025-11-29 15:52:25.387 dataS/character/playerM/pants/botLeather.i3d (17.94 ms)
+2025-11-29 15:52:25.583 dataS/character/playerM/heads/mHead03.i3d (195.55 ms)
+2025-11-29 15:52:25.617 dataS/character/playerM/hairStyles/hairStyleMidParted01.i3d (33.53 ms)
+2025-11-29 16:06:35.161 dataS/character/playerM/heads/mHead05.i3d (194.41 ms)
+2025-11-29 16:06:35.256 dataS/character/playerM/shirts/zipNeckPullover.i3d (95.10 ms)
+2025-11-29 16:06:35.290 dataS/character/playerM/hairStyles/hairStyleManBun.i3d (33.86 ms)
+2025-11-29 16:06:35.300 dataS/character/playerM/facialHair/mHead05/goatee02.i3d (9.96 ms)
+2025-11-29 16:08:50.082 Game saved successfully (savegame1).
+2025-11-29 16:14:46.785 dataS/character/playerM/jacket/topDenimJacket.i3d (32.99 ms)
+2025-11-29 16:14:46.818 dataS/character/playerM/hairStyles/hairStyleMidParted01.i3d (33.20 ms)
+2025-11-29 16:15:23.153 M@rcin lost connection to the game
