@@ -5662,3 +5662,6 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-29 14:12:40.500 dataS/character/playerM/shoes/sandalM03.i3d (91.60 ms)
 2025-11-29 14:12:40.500 dataS/character/playerM/hairStyles/hairStyleBald.i3d (0.27 ms)
 2025-11-29 14:23:54.695 data/objects/bigBag/bigBag.i3d (6.20 ms)
+2025-11-29 14:34:15.008   Info: Successfully added 'ExhaustExtension' particle system to 2 nodes of vehicle 'BigBud 747 16V (Max. Km/h 45/15)'
+2025-11-29 14:38:33.596 Game saved successfully (savegame1).
+2025-11-29 14:40:39.485 siwa left the game
