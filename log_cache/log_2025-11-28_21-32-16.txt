@@ -27660,3 +27660,6 @@ LUA call stack:
 2025-11-29 20:07:11.917 dataS/character/playerM/pants/botLeather.i3d (17.96 ms)
 2025-11-29 20:07:11.948 dataS/character/playerM/jacket/topVest.i3d (31.47 ms)
 2025-11-29 20:10:04.034 Game saved successfully (savegame1).
+2025-11-29 20:32:31.457 dataS/character/playerM/jacket/topDenimJacket.i3d (23.29 ms)
+2025-11-29 20:32:31.490 dataS/character/playerM/hairStyles/hairStyleMidParted01.i3d (33.62 ms)
+2025-11-29 20:32:31.492 dataS/character/playerM/facialHair/mHead01/beardStubble.i3d (1.46 ms)
