@@ -5699,3 +5699,10 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-29 16:14:46.785 dataS/character/playerM/jacket/topDenimJacket.i3d (32.99 ms)
 2025-11-29 16:14:46.818 dataS/character/playerM/hairStyles/hairStyleMidParted01.i3d (33.20 ms)
 2025-11-29 16:15:23.153 M@rcin lost connection to the game
+2025-11-29 16:25:19.776 symonixprime serwerkaput joined the game
+2025-11-29 16:25:19.939 dataS/character/playerM/pants/poettinger/poettingerShort.i3d (146.45 ms)
+2025-11-29 16:25:19.954 dataS/character/playerM/heads/mHead02.i3d (14.83 ms)
+2025-11-29 16:25:20.046 dataS/character/playerM/shirts/topTShirt02.i3d (92.06 ms)
+2025-11-29 16:25:20.047 dataS/character/playerM/shoes/sandalM02.i3d (1.07 ms)
+2025-11-29 16:25:20.081 dataS/character/playerM/hairStyles/hairStyleTopKnot.i3d (34.15 ms)
+2025-11-29 16:25:20.096 dataS/character/playerM/facialHair/mHead02/fullBeard.i3d (14.97 ms)
