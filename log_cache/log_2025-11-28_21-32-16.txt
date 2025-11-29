@@ -5482,3 +5482,17 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-29 07:29:07.571   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Fendt 832 Vario Gen5 - 60km/h'
 2025-11-29 07:37:29.780 Game saved successfully (savegame1).
 2025-11-29 08:07:30.607 Game saved successfully (savegame1).
+2025-11-29 08:21:59.146 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_RounderWrappedRoundbales/assets/roundbale180/roundbale180.i3d (7.26 ms)
+2025-11-29 08:22:10.761   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'STEYR 8130 Super Elite'
+2025-11-29 08:28:36.268 symonixprime serwerkaput joined the game
+2025-11-29 08:28:36.465 dataS/character/playerM/pants/poettinger/poettingerShort.i3d (182.15 ms)
+2025-11-29 08:28:36.481 dataS/character/playerM/heads/mHead02.i3d (16.60 ms)
+2025-11-29 08:28:36.596 dataS/character/playerM/shirts/topTShirt02.i3d (114.18 ms)
+2025-11-29 08:28:36.710 dataS/character/playerM/shoes/sandalM02.i3d (113.17 ms)
+2025-11-29 08:28:36.750 dataS/character/playerM/hairStyles/hairStyleTopKnot.i3d (40.39 ms)
+2025-11-29 08:28:36.787 dataS/character/playerM/facialHair/mHead02/fullBeard.i3d (18.71 ms)
+2025-11-29 08:30:34.985 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_HydrantPack/1.i3d (1.78 ms)
+2025-11-29 08:32:19.934   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'STEYR 8130 Super Elite'
+2025-11-29 08:32:52.845   Info: No 'ExhaustExtension' particle system added to vehicle 'Jungheinrich EFG S50 Pro' because it has no exhaust
+2025-11-29 08:33:33.842 data/objects/pallets/flourPallet/flourBoxPallet.i3d (7.02 ms)
+2025-11-29 08:33:35.527 data/objects/pallets/flourPallet/flourBoxPallet.i3d (6.84 ms)
