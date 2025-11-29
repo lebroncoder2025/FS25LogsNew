@@ -5615,3 +5615,34 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-29 12:08:05.353 Game saved successfully (savegame1).
 2025-11-29 12:18:38.409 data/objects/pallets/noodleSoupPallet/noodleSoupBoxPallet.i3d (22.38 ms)
 2025-11-29 12:28:25.548 data/objects/pallets/preservedFoodBeetRootPallet/preservedFoodBeetRootPallet.i3d (12.06 ms)
+2025-11-29 12:38:12.276 Game saved successfully (savegame1).
+2025-11-29 12:44:55.642 M@rcin joined the game
+2025-11-29 12:44:55.677 dataS/character/playerM/jacket/topAviatorJacket.i3d (18.89 ms)
+2025-11-29 12:44:55.679 dataS/character/playerM/attachments/glassesAviators.i3d (1.86 ms)
+2025-11-29 12:44:55.713 dataS/character/playerM/hairStyles/hairStyleDiablo.i3d (33.36 ms)
+2025-11-29 12:44:55.714 dataS/character/playerM/facialHair/mHead01/beardStubble.i3d (1.52 ms)
+2025-11-29 13:00:53.927 symonixprime serwerkaput joined the game
+2025-11-29 13:00:54.084 dataS/character/playerM/pants/poettinger/poettingerShort.i3d (141.98 ms)
+2025-11-29 13:00:54.100 dataS/character/playerM/heads/mHead02.i3d (15.91 ms)
+2025-11-29 13:00:54.194 dataS/character/playerM/shirts/topTShirt02.i3d (92.85 ms)
+2025-11-29 13:00:54.195 dataS/character/playerM/shoes/sandalM02.i3d (1.13 ms)
+2025-11-29 13:00:54.230 dataS/character/playerM/hairStyles/hairStyleTopKnot.i3d (34.81 ms)
+2025-11-29 13:00:54.245 dataS/character/playerM/facialHair/mHead02/fullBeard.i3d (14.80 ms)
+2025-11-29 13:01:01.861   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Case IH 160 CVX'
+2025-11-29 13:08:19.961 Game saved successfully (savegame1).
+2025-11-29 13:14:34.035 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_RounderWrappedRoundbales/assets/roundbale180/roundbale180.i3d (1.88 ms)
+2025-11-29 13:15:24.072   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Fendt 1067 Vario'
+2025-11-29 13:21:19.959   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Mercedes 1800 Tuning'
+2025-11-29 13:21:39.379 M@rcin lost connection to the game
+2025-11-29 13:22:46.906 dataS/character/playerM/pants/botLeather.i3d (17.66 ms)
+2025-11-29 13:22:46.940 dataS/character/playerM/jacket/topVest.i3d (34.37 ms)
+2025-11-29 13:29:58.551 dataS/character/playerF/pants/botYogaPants.i3d (19.01 ms)
+2025-11-29 13:29:58.686 dataS/character/playerF/heads/fHead02.i3d (134.68 ms)
+2025-11-29 13:29:58.746 dataS/character/playerF/shirts/topTankTop.i3d (60.75 ms)
+2025-11-29 13:29:58.750 dataS/character/playerF/shoes/sportSneaker.i3d (3.18 ms)
+2025-11-29 13:29:58.792 dataS/character/playerF/hairStyles/hairStyleLongSideParted.i3d (42.46 ms)
+2025-11-29 13:32:07.397 data/objects/multiPurchaseItem/multiPurchaseItem.i3d (0.69 ms)
+2025-11-29 13:32:07.456 data/objects/pallets/liquidTank/liquidTank.i3d (3.47 ms)
+2025-11-29 13:34:33.870 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_LizardHS400/HS400.i3d (86.77 ms)
+2025-11-29 13:34:34.200 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_LizardHS400/cardan/carda.i3d (8.25 ms)
+2025-11-29 13:38:26.953 Game saved successfully (savegame1).
