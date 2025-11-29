@@ -27087,3 +27087,20 @@ LUA call stack:
 2025-11-29 18:12:46.192 dataS/character/playerF/hairStyles/hairStylePonyTail03.i3d (34.24 ms)
 2025-11-29 18:15:02.208 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_FLC253/FLC253.i3d (258.46 ms)
 2025-11-29 18:15:10.659   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Palfinger FLC 253'
+2025-11-29 18:19:38.587 D:/home/sid_8377223/farmingSim_2025/profile/mods/FS25_stallingShedPack/shed1aNdoorb.i3d (126.07 ms)
+2025-11-29 18:20:22.020 dataS/character/playerM/heads/mHead05.i3d (195.25 ms)
+2025-11-29 18:20:22.114 dataS/character/playerM/shirts/zipNeckPullover.i3d (94.59 ms)
+2025-11-29 18:20:22.148 dataS/character/playerM/hairStyles/hairStyleManBun.i3d (34.02 ms)
+2025-11-29 18:20:22.159 dataS/character/playerM/facialHair/mHead05/goatee02.i3d (10.03 ms)
+2025-11-29 18:22:15.130 dataS/character/playerF/pants/botCargo.i3d (17.75 ms)
+2025-11-29 18:22:15.155 dataS/character/playerF/jacket/topVest.i3d (24.69 ms)
+2025-11-29 18:22:15.158 dataS/character/playerF/shoes/workboot02.i3d (3.04 ms)
+2025-11-29 18:22:15.193 dataS/character/playerF/hairStyles/hairStylePonyTail03.i3d (35.07 ms)
+2025-11-29 18:23:01.166   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Fendt 1067 Vario'
+2025-11-29 18:27:54.580 data/placeables/kaercher/hds9184M/hds9184M_placeable.i3d (0.56 ms)
+2025-11-29 18:28:14.338 dataS/character/playerM/pants/botLeather.i3d (17.75 ms)
+2025-11-29 18:28:14.533 dataS/character/playerM/heads/mHead03.i3d (195.19 ms)
+2025-11-29 18:28:14.566 dataS/character/playerM/hairStyles/hairStyleMidParted01.i3d (33.48 ms)
+2025-11-29 18:28:26.744   Info: No 'ExhaustExtension' particle system added to vehicle 'Kärcher HDS 9/18-4 M' because it has no exhaust
+2025-11-29 18:35:15.859   Info: Successfully set fill unit 1 of KINZE 4905 Blue Drive to Seeds with a fill level of 4,228 liters.
+2025-11-29 18:35:17.137   Info: Successfully set fill unit 2 of KINZE 4905 Blue Drive to Liquid Fertilizer with a fill level of 2,840 liters.
