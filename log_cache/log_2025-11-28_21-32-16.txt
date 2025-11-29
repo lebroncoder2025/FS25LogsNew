@@ -5472,3 +5472,11 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-29 05:36:59.395 Game saved successfully (savegame1).
 2025-11-29 06:07:18.307 Game saved successfully (savegame1).
 2025-11-29 06:37:27.110 Game saved successfully (savegame1).
+2025-11-29 07:01:36.851 M@rcin joined the game
+2025-11-29 07:01:37.074 dataS/character/playerM/jacket/topAviatorJacket.i3d (24.25 ms)
+2025-11-29 07:01:37.075 dataS/character/playerM/attachments/glassesAviators.i3d (1.50 ms)
+2025-11-29 07:01:37.116 dataS/character/playerM/hairStyles/hairStyleDiablo.i3d (40.34 ms)
+2025-11-29 07:01:37.118 dataS/character/playerM/facialHair/mHead01/beardStubble.i3d (2.14 ms)
+2025-11-29 07:05:24.271   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'New Holland CR11'
+2025-11-29 07:07:29.554 Game saved successfully (savegame1).
+2025-11-29 07:29:07.571   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Fendt 832 Vario Gen5 - 60km/h'
