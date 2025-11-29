@@ -5706,3 +5706,25 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-29 16:25:20.047 dataS/character/playerM/shoes/sandalM02.i3d (1.07 ms)
 2025-11-29 16:25:20.081 dataS/character/playerM/hairStyles/hairStyleTopKnot.i3d (34.15 ms)
 2025-11-29 16:25:20.096 dataS/character/playerM/facialHair/mHead02/fullBeard.i3d (14.97 ms)
+2025-11-29 16:38:51.208 Game saved successfully (savegame1).
+2025-11-29 16:56:07.794 Piotrek lost connection to the game
+2025-11-29 16:56:50.973 Piotrek joined the game
+2025-11-29 16:56:51.002 dataS/character/playerM/pants/botChinos.i3d (13.53 ms)
+2025-11-29 16:56:51.079 dataS/character/playerM/shirts/strauss/straussTShirtMerino.i3d (77.10 ms)
+2025-11-29 16:56:51.084 dataS/character/playerM/gloves/glovesGeneric.i3d (5.08 ms)
+2025-11-29 16:56:51.085 dataS/character/playerM/shoes/sandalM03.i3d (1.48 ms)
+2025-11-29 16:56:51.086 dataS/character/playerM/hairStyles/hairStyleBald.i3d (0.26 ms)
+2025-11-29 16:57:17.016 Błażej joined the game
+2025-11-29 16:57:17.034 dataS/character/playerM/shirts/topTShirt01.i3d (2.41 ms)
+2025-11-29 16:57:17.127 dataS/character/playerM/shoes/sportSneaker.i3d (92.87 ms)
+2025-11-29 16:57:17.161 dataS/character/playerM/hairStyles/hairStyleFringe.i3d (34.39 ms)
+2025-11-29 17:08:54.263 Game saved successfully (savegame1).
+2025-11-29 17:19:43.669 M@rcin joined the game
+2025-11-29 17:19:43.703 dataS/character/playerM/jacket/topAviatorJacket.i3d (18.84 ms)
+2025-11-29 17:19:43.705 dataS/character/playerM/attachments/glassesAviators.i3d (1.69 ms)
+2025-11-29 17:19:43.739 dataS/character/playerM/hairStyles/hairStyleDiablo.i3d (33.64 ms)
+2025-11-29 17:19:43.740 dataS/character/playerM/facialHair/mHead01/beardStubble.i3d (1.46 ms)
+2025-11-29 17:25:20.760 dataS/character/playerF/pants/botJeansCapris.i3d (31.51 ms)
+2025-11-29 17:25:21.007 dataS/character/playerF/heads/fHead03.i3d (246.21 ms)
+2025-11-29 17:25:21.057 dataS/character/playerF/shirts/topTankTop.i3d (50.49 ms)
+2025-11-29 17:25:21.060 dataS/character/playerF/shoes/sneaker01.i3d (2.72 ms)
