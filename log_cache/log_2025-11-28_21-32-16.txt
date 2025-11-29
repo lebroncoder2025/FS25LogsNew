@@ -5591,3 +5591,14 @@ AdditionalGameSettings Info: Lighting configuration loaded (Cybuchowo):
 2025-11-29 11:03:30.341 dataS/character/playerF/shoes/workboot02.i3d (4.06 ms)
 2025-11-29 11:03:30.384 dataS/character/playerF/hairStyles/hairStylePonyTail03.i3d (42.50 ms)
 2025-11-29 11:07:55.102 Game saved successfully (savegame1).
+2025-11-29 11:30:54.220 siwa joined the game
+2025-11-29 11:30:54.260 dataS/character/playerM/pants/volvo/volvoPants.i3d (25.65 ms)
+2025-11-29 11:30:54.270 dataS/character/playerM/shirts/volvo/volvoTshirt.i3d (6.14 ms)
+2025-11-29 11:30:54.272 dataS/character/playerM/attachments/glassesSports01.i3d (1.70 ms)
+2025-11-29 11:34:54.263 dataS/character/playerM/heads/mHead05.i3d (239.61 ms)
+2025-11-29 11:34:54.381 dataS/character/playerM/shirts/zipNeckPullover.i3d (116.57 ms)
+2025-11-29 11:34:54.422 dataS/character/playerM/hairStyles/hairStyleManBun.i3d (41.42 ms)
+2025-11-29 11:34:54.435 dataS/character/playerM/facialHair/mHead05/goatee02.i3d (12.80 ms)
+2025-11-29 11:35:18.539   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'MAN TGX 18.880'
+2025-11-29 11:37:56.877 Game saved successfully (savegame1).
+2025-11-29 11:38:35.192   Info: Successfully added 'ExhaustExtension' particle system to 1 nodes of vehicle 'Case IH 160 CVX'
