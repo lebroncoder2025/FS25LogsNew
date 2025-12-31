@@ -50917,3 +50917,39 @@ Traceback (most recent call last):
     sock.connect(sa)
 socket.timeout: timed out
 
+2025-12-31 16:46:39.790084: Błąd FTP: timed out
+Traceback (most recent call last):
+  File "/home/runner/work/FS25LogsNew/FS25LogsNew/logs_analyzer.py", line 174, in download_logs
+    ftp.connect(FTP_HOST, FTP_PORT, timeout=10)
+  File "/opt/hostedtoolcache/Python/3.9.13/x64/lib/python3.9/ftplib.py", line 158, in connect
+    self.sock = socket.create_connection((self.host, self.port), self.timeout,
+  File "/opt/hostedtoolcache/Python/3.9.13/x64/lib/python3.9/socket.py", line 844, in create_connection
+    raise err
+  File "/opt/hostedtoolcache/Python/3.9.13/x64/lib/python3.9/socket.py", line 832, in create_connection
+    sock.connect(sa)
+socket.timeout: timed out
+
+2025-12-31 16:46:49.801636: Błąd FTP: timed out
+Traceback (most recent call last):
+  File "/home/runner/work/FS25LogsNew/FS25LogsNew/logs_analyzer.py", line 174, in download_logs
+    ftp.connect(FTP_HOST, FTP_PORT, timeout=10)
+  File "/opt/hostedtoolcache/Python/3.9.13/x64/lib/python3.9/ftplib.py", line 158, in connect
+    self.sock = socket.create_connection((self.host, self.port), self.timeout,
+  File "/opt/hostedtoolcache/Python/3.9.13/x64/lib/python3.9/socket.py", line 844, in create_connection
+    raise err
+  File "/opt/hostedtoolcache/Python/3.9.13/x64/lib/python3.9/socket.py", line 832, in create_connection
+    sock.connect(sa)
+socket.timeout: timed out
+
+2025-12-31 16:46:59.812336: Błąd FTP: timed out
+Traceback (most recent call last):
+  File "/home/runner/work/FS25LogsNew/FS25LogsNew/logs_analyzer.py", line 174, in download_logs
+    ftp.connect(FTP_HOST, FTP_PORT, timeout=10)
+  File "/opt/hostedtoolcache/Python/3.9.13/x64/lib/python3.9/ftplib.py", line 158, in connect
+    self.sock = socket.create_connection((self.host, self.port), self.timeout,
+  File "/opt/hostedtoolcache/Python/3.9.13/x64/lib/python3.9/socket.py", line 844, in create_connection
+    raise err
+  File "/opt/hostedtoolcache/Python/3.9.13/x64/lib/python3.9/socket.py", line 832, in create_connection
+    sock.connect(sa)
+socket.timeout: timed out
+
