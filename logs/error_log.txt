@@ -62545,3 +62545,39 @@ Traceback (most recent call last):
     raise error_perm(resp)
 ftplib.error_perm: 530 no such username
 
+2026-01-08 05:28:51.228997: Błąd FTP: 530 no such username
+Traceback (most recent call last):
+  File "/home/runner/work/FS25LogsNew/FS25LogsNew/logs_analyzer.py", line 175, in download_logs
+    ftp.login(FTP_USER, FTP_PASS)
+  File "/opt/hostedtoolcache/Python/3.9.13/x64/lib/python3.9/ftplib.py", line 412, in login
+    resp = self.sendcmd('USER ' + user)
+  File "/opt/hostedtoolcache/Python/3.9.13/x64/lib/python3.9/ftplib.py", line 281, in sendcmd
+    return self.getresp()
+  File "/opt/hostedtoolcache/Python/3.9.13/x64/lib/python3.9/ftplib.py", line 254, in getresp
+    raise error_perm(resp)
+ftplib.error_perm: 530 no such username
+
+2026-01-08 05:28:51.860182: Błąd FTP: 530 no such username
+Traceback (most recent call last):
+  File "/home/runner/work/FS25LogsNew/FS25LogsNew/logs_analyzer.py", line 175, in download_logs
+    ftp.login(FTP_USER, FTP_PASS)
+  File "/opt/hostedtoolcache/Python/3.9.13/x64/lib/python3.9/ftplib.py", line 412, in login
+    resp = self.sendcmd('USER ' + user)
+  File "/opt/hostedtoolcache/Python/3.9.13/x64/lib/python3.9/ftplib.py", line 281, in sendcmd
+    return self.getresp()
+  File "/opt/hostedtoolcache/Python/3.9.13/x64/lib/python3.9/ftplib.py", line 254, in getresp
+    raise error_perm(resp)
+ftplib.error_perm: 530 no such username
+
+2026-01-08 05:28:52.493080: Błąd FTP: 530 no such username
+Traceback (most recent call last):
+  File "/home/runner/work/FS25LogsNew/FS25LogsNew/logs_analyzer.py", line 175, in download_logs
+    ftp.login(FTP_USER, FTP_PASS)
+  File "/opt/hostedtoolcache/Python/3.9.13/x64/lib/python3.9/ftplib.py", line 412, in login
+    resp = self.sendcmd('USER ' + user)
+  File "/opt/hostedtoolcache/Python/3.9.13/x64/lib/python3.9/ftplib.py", line 281, in sendcmd
+    return self.getresp()
+  File "/opt/hostedtoolcache/Python/3.9.13/x64/lib/python3.9/ftplib.py", line 254, in getresp
+    raise error_perm(resp)
+ftplib.error_perm: 530 no such username
+
