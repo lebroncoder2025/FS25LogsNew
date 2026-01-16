@@ -1,0 +1,2011 @@
+2026-01-16 17:27:35,538 - WARNING - ⚠️ Plik config.json nie znaleziony. Używam zmiennych GitHub Actions.
+2026-01-16 17:27:35,538 - INFO - ✅ Konfiguracja zakończona — startuję analizę...
+2026-01-16 17:27:35,539 - INFO - ✅ Skrypt uruchomiony — zaczynam analizę...
+2026-01-16 17:27:35,539 - INFO - 🔄 Pobieranie logów z FTP...
+2026-01-16 17:27:35,539 - INFO - 🔄 Łączenie z FTP...
+2026-01-16 17:27:35,931 - ERROR - ❌ Błąd FTP: 530 no such username
+2026-01-16 17:27:35,932 - INFO - 🔄 Łączenie z FTP...
+2026-01-16 17:27:36,321 - ERROR - ❌ Błąd FTP: 530 no such username
+2026-01-16 17:27:36,321 - INFO - 🔄 Łączenie z FTP...
+2026-01-16 17:27:36,705 - ERROR - ❌ Błąd FTP: 530 no such username
+2026-01-16 17:27:36,705 - INFO - ✅ Logi pobrane z FTP
+2026-01-16 17:27:36,705 - INFO - 🔍 Analizuję: log_2025-10-17_20-20-46.txt
+2026-01-16 17:27:39,614 - INFO - 📄 Plik log_2025-10-17_20-20-46.txt: 218311 zdarzeń
+2026-01-16 17:27:39,614 - INFO - 🔍 Analizuję: log_2025-10-20_13-09-33.txt
+2026-01-16 17:27:39,790 - INFO - 📄 Plik log_2025-10-20_13-09-33.txt: 5051 zdarzeń
+2026-01-16 17:27:39,791 - INFO - 🔍 Analizuję: log_2025-10-20_13-13-37.txt
+2026-01-16 17:27:39,960 - INFO - 📄 Plik log_2025-10-20_13-13-37.txt: 5034 zdarzeń
+2026-01-16 17:27:39,960 - INFO - 🔍 Analizuję: log_2025-10-20_13-18-45.txt
+2026-01-16 17:27:40,189 - INFO - 📄 Plik log_2025-10-20_13-18-45.txt: 6639 zdarzeń
+2026-01-16 17:27:40,189 - INFO - 🔍 Analizuję: log_2025-10-21_16-36-04.txt
+2026-01-16 17:27:40,473 - INFO - 📄 Plik log_2025-10-21_16-36-04.txt: 6896 zdarzeń
+2026-01-16 17:27:40,474 - INFO - 🔍 Analizuję: log_2025-10-22_09-56-45.txt
+2026-01-16 17:27:40,691 - INFO - 📄 Plik log_2025-10-22_09-56-45.txt: 6486 zdarzeń
+2026-01-16 17:27:40,691 - INFO - 🔍 Analizuję: log_2025-10-23_19-44-32.txt
+2026-01-16 17:27:40,798 - INFO - 📄 Plik log_2025-10-23_19-44-32.txt: 3708 zdarzeń
+2026-01-16 17:27:40,798 - INFO - 🔍 Analizuję: log_2025-10-23_19-48-45.txt
+2026-01-16 17:27:40,997 - INFO - 📄 Plik log_2025-10-23_19-48-45.txt: 5883 zdarzeń
+2026-01-16 17:27:40,997 - INFO - 🔍 Analizuję: log_2025-10-24_12-34-05.txt
+2026-01-16 17:27:41,126 - INFO - 📄 Plik log_2025-10-24_12-34-05.txt: 4164 zdarzeń
+2026-01-16 17:27:41,126 - INFO - 🔍 Analizuję: log_2025-10-24_12-36-34.txt
+2026-01-16 17:27:41,389 - INFO - 📄 Plik log_2025-10-24_12-36-34.txt: 7474 zdarzeń
+2026-01-16 17:27:41,389 - INFO - 🔍 Analizuję: log_2025-10-26_10-14-29.txt
+2026-01-16 17:27:41,392 - INFO - 📄 Plik log_2025-10-26_10-14-29.txt: 132 zdarzeń
+2026-01-16 17:27:41,392 - INFO - 🔍 Analizuję: log_2025-10-26_10-16-08.txt
+2026-01-16 17:27:50,985 - INFO - 📄 Plik log_2025-10-26_10-16-08.txt: 719820 zdarzeń
+2026-01-16 17:27:50,985 - INFO - 🔍 Analizuję: log_2025-10-28_15-18-58.txt
+2026-01-16 17:27:51,180 - INFO - 📄 Plik log_2025-10-28_15-18-58.txt: 5130 zdarzeń
+2026-01-16 17:27:51,181 - INFO - 🔍 Analizuję: log_2025-10-28_15-24-24.txt
+2026-01-16 17:27:51,373 - INFO - 📄 Plik log_2025-10-28_15-24-24.txt: 5599 zdarzeń
+2026-01-16 17:27:51,373 - INFO - 🔍 Analizuję: log_2025-10-28_16-54-13.txt
+2026-01-16 17:27:51,565 - INFO - 📄 Plik log_2025-10-28_16-54-13.txt: 5579 zdarzeń
+2026-01-16 17:27:51,565 - INFO - 🔍 Analizuję: log_2025-10-28_17-40-05.txt
+2026-01-16 17:27:51,745 - INFO - 📄 Plik log_2025-10-28_17-40-05.txt: 5168 zdarzeń
+2026-01-16 17:27:51,745 - INFO - 🔍 Analizuję: log_2025-10-28_17-45-11.txt
+2026-01-16 17:27:51,925 - INFO - 📄 Plik log_2025-10-28_17-45-11.txt: 5186 zdarzeń
+2026-01-16 17:27:51,925 - INFO - 🔍 Analizuję: log_2025-10-28_18-00-46.txt
+2026-01-16 17:27:52,104 - INFO - 📄 Plik log_2025-10-28_18-00-46.txt: 5150 zdarzeń
+2026-01-16 17:27:52,104 - INFO - 🔍 Analizuję: log_2025-10-28_18-06-15.txt
+2026-01-16 17:27:52,334 - INFO - 📄 Plik log_2025-10-28_18-06-15.txt: 6686 zdarzeń
+2026-01-16 17:27:52,334 - INFO - 🔍 Analizuję: log_2025-10-29_13-43-16.txt
+2026-01-16 17:27:52,524 - INFO - 📄 Plik log_2025-10-29_13-43-16.txt: 5472 zdarzeń
+2026-01-16 17:27:52,524 - INFO - 🔍 Analizuję: log_2025-10-29_18-06-43.txt
+2026-01-16 17:27:52,807 - INFO - 📄 Plik log_2025-10-29_18-06-43.txt: 8304 zdarzeń
+2026-01-16 17:27:52,807 - INFO - 🔍 Analizuję: log_2025-11-01_10-34-43.txt
+2026-01-16 17:27:53,002 - INFO - 📄 Plik log_2025-11-01_10-34-43.txt: 5604 zdarzeń
+2026-01-16 17:27:53,002 - INFO - 🔍 Analizuję: log_2025-11-01_20-39-42.txt
+2026-01-16 17:27:53,002 - INFO - 📄 Plik log_2025-11-01_20-39-42.txt: 0 zdarzeń
+2026-01-16 17:27:53,002 - INFO - 🔍 Analizuję: log_2025-11-02_08-35-06.txt
+2026-01-16 17:27:53,250 - INFO - 📄 Plik log_2025-11-02_08-35-06.txt: 7030 zdarzeń
+2026-01-16 17:27:53,250 - INFO - 🔍 Analizuję: log_2025-11-03_12-55-39.txt
+2026-01-16 17:27:53,433 - INFO - 📄 Plik log_2025-11-03_12-55-39.txt: 5190 zdarzeń
+2026-01-16 17:27:53,433 - INFO - 🔍 Analizuję: log_2025-11-03_13-01-01.txt
+2026-01-16 17:27:53,619 - INFO - 📄 Plik log_2025-11-03_13-01-01.txt: 5310 zdarzeń
+2026-01-16 17:27:53,619 - INFO - 🔍 Analizuję: log_2025-11-03_13-36-42.txt
+2026-01-16 17:27:53,620 - INFO - 📄 Plik log_2025-11-03_13-36-42.txt: 20 zdarzeń
+2026-01-16 17:27:53,620 - INFO - 🔍 Analizuję: log_2025-11-03_13-39-51.txt
+2026-01-16 17:27:53,803 - INFO - 📄 Plik log_2025-11-03_13-39-51.txt: 5275 zdarzeń
+2026-01-16 17:27:53,803 - INFO - 🔍 Analizuję: log_2025-11-03_13-53-23.txt
+2026-01-16 17:27:53,985 - INFO - 📄 Plik log_2025-11-03_13-53-23.txt: 5237 zdarzeń
+2026-01-16 17:27:53,985 - INFO - 🔍 Analizuję: log_2025-11-03_13-57-47.txt
+2026-01-16 17:27:54,468 - INFO - 📄 Plik log_2025-11-03_13-57-47.txt: 5236 zdarzeń
+2026-01-16 17:27:54,468 - INFO - 🔍 Analizuję: log_2025-11-03_14-03-26.txt
+2026-01-16 17:27:54,623 - INFO - 📄 Plik log_2025-11-03_14-03-26.txt: 4699 zdarzeń
+2026-01-16 17:27:54,623 - INFO - 🔍 Analizuję: log_2025-11-03_14-15-00.txt
+2026-01-16 17:27:54,807 - INFO - 📄 Plik log_2025-11-03_14-15-00.txt: 5268 zdarzeń
+2026-01-16 17:27:54,807 - INFO - 🔍 Analizuję: log_2025-11-03_14-26-49.txt
+2026-01-16 17:27:54,995 - INFO - 📄 Plik log_2025-11-03_14-26-49.txt: 5354 zdarzeń
+2026-01-16 17:27:54,995 - INFO - 🔍 Analizuję: log_2025-11-03_15-20-35.txt
+2026-01-16 17:27:55,177 - INFO - 📄 Plik log_2025-11-03_15-20-35.txt: 5201 zdarzeń
+2026-01-16 17:27:55,178 - INFO - 🔍 Analizuję: log_2025-11-03_15-33-29.txt
+2026-01-16 17:27:55,356 - INFO - 📄 Plik log_2025-11-03_15-33-29.txt: 5163 zdarzeń
+2026-01-16 17:27:55,356 - INFO - 🔍 Analizuję: log_2025-11-03_15-38-22.txt
+2026-01-16 17:27:55,533 - INFO - 📄 Plik log_2025-11-03_15-38-22.txt: 5157 zdarzeń
+2026-01-16 17:27:55,534 - INFO - 🔍 Analizuję: log_2025-11-03_15-47-05.txt
+2026-01-16 17:27:55,712 - INFO - 📄 Plik log_2025-11-03_15-47-05.txt: 5156 zdarzeń
+2026-01-16 17:27:55,713 - INFO - 🔍 Analizuję: log_2025-11-03_15-51-22.txt
+2026-01-16 17:27:55,895 - INFO - 📄 Plik log_2025-11-03_15-51-22.txt: 5102 zdarzeń
+2026-01-16 17:27:55,895 - INFO - 🔍 Analizuję: log_2025-11-03_15-55-27.txt
+2026-01-16 17:27:56,076 - INFO - 📄 Plik log_2025-11-03_15-55-27.txt: 5178 zdarzeń
+2026-01-16 17:27:56,076 - INFO - 🔍 Analizuję: log_2025-11-03_16-13-18.txt
+2026-01-16 17:27:56,259 - INFO - 📄 Plik log_2025-11-03_16-13-18.txt: 5157 zdarzeń
+2026-01-16 17:27:56,259 - INFO - 🔍 Analizuję: log_2025-11-03_16-18-07.txt
+2026-01-16 17:27:56,400 - INFO - 📄 Plik log_2025-11-03_16-18-07.txt: 4415 zdarzeń
+2026-01-16 17:27:56,400 - INFO - 🔍 Analizuję: log_2025-11-03_16-22-08.txt
+2026-01-16 17:27:56,593 - INFO - 📄 Plik log_2025-11-03_16-22-08.txt: 5153 zdarzeń
+2026-01-16 17:27:56,593 - INFO - 🔍 Analizuję: log_2025-11-03_16-25-59.txt
+2026-01-16 17:27:56,774 - INFO - 📄 Plik log_2025-11-03_16-25-59.txt: 5157 zdarzeń
+2026-01-16 17:27:56,774 - INFO - 🔍 Analizuję: log_2025-11-03_16-30-00.txt
+2026-01-16 17:27:56,953 - INFO - 📄 Plik log_2025-11-03_16-30-00.txt: 5164 zdarzeń
+2026-01-16 17:27:56,953 - INFO - 🔍 Analizuję: log_2025-11-03_17-43-59.txt
+2026-01-16 17:27:57,134 - INFO - 📄 Plik log_2025-11-03_17-43-59.txt: 5145 zdarzeń
+2026-01-16 17:27:57,134 - INFO - 🔍 Analizuję: log_2025-11-03_17-50-10.txt
+2026-01-16 17:27:57,317 - INFO - 📄 Plik log_2025-11-03_17-50-10.txt: 5191 zdarzeń
+2026-01-16 17:27:57,317 - INFO - 🔍 Analizuję: log_2025-11-03_17-55-44.txt
+2026-01-16 17:27:57,499 - INFO - 📄 Plik log_2025-11-03_17-55-44.txt: 5184 zdarzeń
+2026-01-16 17:27:57,499 - INFO - 🔍 Analizuję: log_2025-11-03_18-49-09.txt
+2026-01-16 17:27:57,680 - INFO - 📄 Plik log_2025-11-03_18-49-09.txt: 5191 zdarzeń
+2026-01-16 17:27:57,680 - INFO - 🔍 Analizuję: log_2025-11-03_19-25-23.txt
+2026-01-16 17:27:57,865 - INFO - 📄 Plik log_2025-11-03_19-25-23.txt: 5179 zdarzeń
+2026-01-16 17:27:57,865 - INFO - 🔍 Analizuję: log_2025-11-03_19-31-15.txt
+2026-01-16 17:27:58,047 - INFO - 📄 Plik log_2025-11-03_19-31-15.txt: 5180 zdarzeń
+2026-01-16 17:27:58,047 - INFO - 🔍 Analizuję: log_2025-11-03_19-37-57.txt
+2026-01-16 17:27:58,229 - INFO - 📄 Plik log_2025-11-03_19-37-57.txt: 5162 zdarzeń
+2026-01-16 17:27:58,229 - INFO - 🔍 Analizuję: log_2025-11-03_19-48-23.txt
+2026-01-16 17:27:58,409 - INFO - 📄 Plik log_2025-11-03_19-48-23.txt: 5149 zdarzeń
+2026-01-16 17:27:58,409 - INFO - 🔍 Analizuję: log_2025-11-03_19-53-54.txt
+2026-01-16 17:27:58,409 - INFO - 📄 Plik log_2025-11-03_19-53-54.txt: 0 zdarzeń
+2026-01-16 17:27:58,409 - INFO - 🔍 Analizuję: log_2025-11-03_20-03-47.txt
+2026-01-16 17:27:58,590 - INFO - 📄 Plik log_2025-11-03_20-03-47.txt: 5135 zdarzeń
+2026-01-16 17:27:58,590 - INFO - 🔍 Analizuję: log_2025-11-03_20-07-46.txt
+2026-01-16 17:27:58,765 - INFO - 📄 Plik log_2025-11-03_20-07-46.txt: 5104 zdarzeń
+2026-01-16 17:27:58,765 - INFO - 🔍 Analizuję: log_2025-11-03_20-15-10.txt
+2026-01-16 17:27:58,942 - INFO - 📄 Plik log_2025-11-03_20-15-10.txt: 5076 zdarzeń
+2026-01-16 17:27:58,943 - INFO - 🔍 Analizuję: log_2025-11-03_20-18-55.txt
+2026-01-16 17:27:59,328 - INFO - 📄 Plik log_2025-11-03_20-18-55.txt: 14558 zdarzeń
+2026-01-16 17:27:59,328 - INFO - 🔍 Analizuję: log_2025-11-05_17-49-24.txt
+2026-01-16 17:27:59,513 - INFO - 📄 Plik log_2025-11-05_17-49-24.txt: 5294 zdarzeń
+2026-01-16 17:27:59,513 - INFO - 🔍 Analizuję: log_2025-11-05_19-09-00.txt
+2026-01-16 17:27:59,763 - INFO - 📄 Plik log_2025-11-05_19-09-00.txt: 7296 zdarzeń
+2026-01-16 17:27:59,763 - INFO - 🔍 Analizuję: log_2025-11-07_16-06-52.txt
+2026-01-16 17:27:59,969 - INFO - 📄 Plik log_2025-11-07_16-06-52.txt: 5831 zdarzeń
+2026-01-16 17:27:59,969 - INFO - 🔍 Analizuję: log_2025-11-08_13-16-17.txt
+2026-01-16 17:28:00,250 - INFO - 📄 Plik log_2025-11-08_13-16-17.txt: 8498 zdarzeń
+2026-01-16 17:28:00,250 - INFO - 🔍 Analizuję: log_2025-11-10_20-00-41.txt
+2026-01-16 17:28:00,460 - INFO - 📄 Plik log_2025-11-10_20-00-41.txt: 5248 zdarzeń
+2026-01-16 17:28:00,460 - INFO - 🔍 Analizuję: log_2025-11-10_20-12-40.txt
+2026-01-16 17:28:00,905 - INFO - 📄 Plik log_2025-11-10_20-12-40.txt: 16824 zdarzeń
+2026-01-16 17:28:00,905 - INFO - 🔍 Analizuję: log_2025-11-13_21-57-00.txt
+2026-01-16 17:28:01,028 - INFO - 📄 Plik log_2025-11-13_21-57-00.txt: 4057 zdarzeń
+2026-01-16 17:28:01,029 - INFO - 🔍 Analizuję: log_2025-11-13_22-02-18.txt
+2026-01-16 17:28:01,232 - INFO - 📄 Plik log_2025-11-13_22-02-18.txt: 5648 zdarzeń
+2026-01-16 17:28:01,232 - INFO - 🔍 Analizuję: log_2025-11-14_17-01-06.txt
+2026-01-16 17:28:01,430 - INFO - 📄 Plik log_2025-11-14_17-01-06.txt: 5655 zdarzeń
+2026-01-16 17:28:01,431 - INFO - 🔍 Analizuję: log_2025-11-14_19-07-21.txt
+2026-01-16 17:28:01,861 - INFO - 📄 Plik log_2025-11-14_19-07-21.txt: 18083 zdarzeń
+2026-01-16 17:28:01,861 - INFO - 🔍 Analizuję: log_2025-11-15_20-10-01.txt
+2026-01-16 17:28:02,121 - INFO - 📄 Plik log_2025-11-15_20-10-01.txt: 7447 zdarzeń
+2026-01-16 17:28:02,121 - INFO - 🔍 Analizuję: log_2025-11-17_20-19-00.txt
+2026-01-16 17:28:02,252 - INFO - 📄 Plik log_2025-11-17_20-19-00.txt: 4189 zdarzeń
+2026-01-16 17:28:02,252 - INFO - 🔍 Analizuję: log_2025-11-17_20-22-24.txt
+2026-01-16 17:28:15,645 - INFO - 📄 Plik log_2025-11-17_20-22-24.txt: 883542 zdarzeń
+2026-01-16 17:28:15,645 - INFO - 🔍 Analizuję: log_2025-11-18_15-20-58.txt
+2026-01-16 17:28:20,563 - INFO - 📄 Plik log_2025-11-18_15-20-58.txt: 366586 zdarzeń
+2026-01-16 17:28:20,563 - INFO - 🔍 Analizuję: log_2025-11-21_17-31-35.txt
+2026-01-16 17:28:34,169 - INFO - 📄 Plik log_2025-11-21_17-31-35.txt: 937744 zdarzeń
+2026-01-16 17:28:34,169 - INFO - 🔍 Analizuję: log_2025-11-22_11-41-58.txt
+2026-01-16 17:28:34,351 - INFO - 📄 Plik log_2025-11-22_11-41-58.txt: 4797 zdarzeń
+2026-01-16 17:28:34,351 - INFO - 🔍 Analizuję: log_2025-11-22_11-46-59.txt
+2026-01-16 17:28:34,787 - INFO - 📄 Plik log_2025-11-22_11-46-59.txt: 15951 zdarzeń
+2026-01-16 17:28:34,787 - INFO - 🔍 Analizuję: log_2025-11-24_16-55-13.txt
+2026-01-16 17:28:35,017 - INFO - 📄 Plik log_2025-11-24_16-55-13.txt: 6142 zdarzeń
+2026-01-16 17:28:35,017 - INFO - 🔍 Analizuję: log_2025-11-25_11-39-45.txt
+2026-01-16 17:28:35,216 - INFO - 📄 Plik log_2025-11-25_11-39-45.txt: 5431 zdarzeń
+2026-01-16 17:28:35,216 - INFO - 🔍 Analizuję: log_2025-11-25_11-45-16.txt
+2026-01-16 17:28:35,219 - INFO - 📄 Plik log_2025-11-25_11-45-16.txt: 132 zdarzeń
+2026-01-16 17:28:35,219 - INFO - 🔍 Analizuję: log_2025-11-25_11-51-53.txt
+2026-01-16 17:28:35,419 - INFO - 📄 Plik log_2025-11-25_11-51-53.txt: 5446 zdarzeń
+2026-01-16 17:28:35,419 - INFO - 🔍 Analizuję: log_2025-11-25_11-58-55.txt
+2026-01-16 17:28:35,420 - INFO - 📄 Plik log_2025-11-25_11-58-55.txt: 20 zdarzeń
+2026-01-16 17:28:35,420 - INFO - 🔍 Analizuję: log_2025-11-25_12-00-13.txt
+2026-01-16 17:28:35,615 - INFO - 📄 Plik log_2025-11-25_12-00-13.txt: 5368 zdarzeń
+2026-01-16 17:28:35,615 - INFO - 🔍 Analizuję: log_2025-11-25_12-08-13.txt
+2026-01-16 17:28:35,806 - INFO - 📄 Plik log_2025-11-25_12-08-13.txt: 5263 zdarzeń
+2026-01-16 17:28:35,806 - INFO - 🔍 Analizuję: log_2025-11-25_12-14-08.txt
+2026-01-16 17:28:36,004 - INFO - 📄 Plik log_2025-11-25_12-14-08.txt: 5482 zdarzeń
+2026-01-16 17:28:36,004 - INFO - 🔍 Analizuję: log_2025-11-25_12-19-21.txt
+2026-01-16 17:28:36,201 - INFO - 📄 Plik log_2025-11-25_12-19-21.txt: 5365 zdarzeń
+2026-01-16 17:28:36,201 - INFO - 🔍 Analizuję: log_2025-11-25_12-24-10.txt
+2026-01-16 17:28:36,321 - INFO - 📄 Plik log_2025-11-25_12-24-10.txt: 3993 zdarzeń
+2026-01-16 17:28:36,321 - INFO - 🔍 Analizuję: log_2025-11-25_12-26-24.txt
+2026-01-16 17:28:41,514 - INFO - 📄 Plik log_2025-11-25_12-26-24.txt: 410259 zdarzeń
+2026-01-16 17:28:41,515 - INFO - 🔍 Analizuję: log_2025-11-26_20-24-08.txt
+2026-01-16 17:28:43,106 - INFO - 📄 Plik log_2025-11-26_20-24-08.txt: 71722 zdarzeń
+2026-01-16 17:28:43,106 - INFO - 🔍 Analizuję: log_2025-11-28_21-32-16.txt
+2026-01-16 17:28:44,490 - INFO - 📄 Plik log_2025-11-28_21-32-16.txt: 100236 zdarzeń
+2026-01-16 17:28:44,490 - INFO - 🔍 Analizuję: server_2025-10-17_17-09-45.log
+2026-01-16 17:28:44,494 - INFO - 📄 Plik server_2025-10-17_17-09-45.log: 79 zdarzeń
+2026-01-16 17:28:44,494 - INFO - 🔍 Analizuję: server_2025-10-28_15-13-23.log
+2026-01-16 17:28:44,494 - INFO - 📄 Plik server_2025-10-28_15-13-23.log: 2 zdarzeń
+2026-01-16 17:28:44,494 - INFO - 🔍 Analizuję: server_2025-10-28_15-16-52.log
+2026-01-16 17:28:44,494 - INFO - 📄 Plik server_2025-10-28_15-16-52.log: 2 zdarzeń
+2026-01-16 17:28:44,494 - INFO - 🔍 Analizuję: server_2025-10-28_15-16-57.log
+2026-01-16 17:28:44,496 - INFO - 📄 Plik server_2025-10-28_15-16-57.log: 84 zdarzeń
+2026-01-16 17:28:44,496 - INFO - 🔍 Analizuję: server_2025-11-03_12-51-39.log
+2026-01-16 17:28:44,498 - INFO - 📄 Plik server_2025-11-03_12-51-39.log: 75 zdarzeń
+2026-01-16 17:28:44,498 - INFO - 🔍 Analizuję: server_2025-11-03_16-22-01.log
+2026-01-16 17:28:44,500 - INFO - 📄 Plik server_2025-11-03_16-22-01.log: 77 zdarzeń
+2026-01-16 17:28:44,500 - INFO - 🔍 Analizuję: server_2025-11-05_18-48-01.log
+2026-01-16 17:28:44,500 - INFO - 📄 Plik server_2025-11-05_18-48-01.log: 3 zdarzeń
+2026-01-16 17:28:44,500 - INFO - 🔍 Analizuję: server_2025-11-05_18-53-33.log
+2026-01-16 17:28:44,501 - INFO - 📄 Plik server_2025-11-05_18-53-33.log: 2 zdarzeń
+2026-01-16 17:28:44,501 - INFO - 🔍 Analizuję: server_2025-11-05_18-53-42.log
+2026-01-16 17:28:44,504 - INFO - 📄 Plik server_2025-11-05_18-53-42.log: 145 zdarzeń
+2026-01-16 17:28:44,504 - INFO - 🔍 Analizuję: webserver_2025-10-17_17-09-45.log
+2026-01-16 17:28:44,515 - INFO - 📄 Plik webserver_2025-10-17_17-09-45.log: 271 zdarzeń
+2026-01-16 17:28:44,515 - INFO - 🔍 Analizuję: webserver_2025-10-28_15-16-57.log
+2026-01-16 17:28:44,526 - INFO - 📄 Plik webserver_2025-10-28_15-16-57.log: 262 zdarzeń
+2026-01-16 17:28:44,526 - INFO - 🔍 Analizuję: webserver_2025-11-03_12-51-39.log
+2026-01-16 17:28:44,539 - INFO - 📄 Plik webserver_2025-11-03_12-51-39.log: 247 zdarzeń
+2026-01-16 17:28:44,539 - INFO - 🔍 Analizuję: webserver_2025-11-03_16-22-01.log
+2026-01-16 17:28:44,553 - INFO - 📄 Plik webserver_2025-11-03_16-22-01.log: 274 zdarzeń
+2026-01-16 17:28:44,553 - INFO - 🔍 Analizuję: webserver_2025-11-05_18-53-42.log
+2026-01-16 17:28:44,575 - INFO - 📄 Plik webserver_2025-11-05_18-53-42.log: 545 zdarzeń
+2026-01-16 17:28:44,575 - INFO - 📊 Zebrano 4152969 zdarzeń z 4271766 linii. Nieparsowanych linii: 118797.
+2026-01-16 17:28:44,575 - INFO - 📈 Rozkład typów zdarzeń:
+2026-01-16 17:28:44,575 - INFO -   - system_info: 4579
+2026-01-16 17:28:44,575 - INFO -   - direct_storage: 336
+2026-01-16 17:28:44,575 - INFO -   - other: 3624393
+2026-01-16 17:28:44,575 - INFO -   - dlc_load: 458
+2026-01-16 17:28:44,575 - INFO -   - mod_load: 73080
+2026-01-16 17:28:44,575 - INFO -   - warning: 5108
+2026-01-16 17:28:44,575 - INFO -   - duplicate_l10n: 960
+2026-01-16 17:28:44,575 - INFO -   - mod_warning: 112
+2026-01-16 17:28:44,575 - INFO -   - error: 162862
+2026-01-16 17:28:44,575 - INFO -   - file_load: 1185
+2026-01-16 17:28:44,575 - INFO -   - info_add: 1858
+2026-01-16 17:28:44,575 - INFO -   - player_connected: 1688
+2026-01-16 17:28:44,575 - INFO -   - player_disconnected: 1534
+2026-01-16 17:28:44,575 - INFO -   - save_game: 2011
+2026-01-16 17:28:44,575 - INFO -   - value_line: 25
+2026-01-16 17:28:44,575 - INFO -   - network_unknown_target: 238
+2026-01-16 17:28:44,575 - INFO -   - vehicle_action: 1664
+2026-01-16 17:28:44,575 - INFO -   - farm_action: 606
+2026-01-16 17:28:44,575 - INFO -   - script_error: 238575
+2026-01-16 17:28:44,575 - INFO -   - warning_stream: 29450
+2026-01-16 17:28:44,575 - INFO -   - pallet_action: 2247
+2026-01-16 17:28:47,700 - INFO - ❗ Wykryto 146138 błędów i 68299 ostrzeżeń.
+2026-01-16 17:28:47,705 - INFO - 📈 Statystyki ostrzeżeń:
+2026-01-16 17:28:47,705 - INFO -   - warning: 5108
+2026-01-16 17:28:47,706 - INFO -   - mod_load: 80
+2026-01-16 17:28:47,706 - INFO -   - duplicate_l10n: 960
+2026-01-16 17:28:47,706 - INFO -   - mod_warning: 112
+2026-01-16 17:28:47,706 - INFO -   - other: 32351
+2026-01-16 17:28:47,706 - INFO -   - network_unknown_target: 238
+2026-01-16 17:28:47,706 - INFO -   - warning_stream: 29450
+2026-01-16 17:28:50,727 - INFO - 🛠️ Mody z problemami:
+2026-01-16 17:28:50,727 - INFO -   - FS25_fullServiceWorkshop: 80 issues
+2026-01-16 17:28:50,728 - INFO -   - FS25_goeweilEquipmentPack: 80 issues
+2026-01-16 17:28:50,728 - INFO -   - FS25_JohnDeere8060_TJMedit: 80 issues
+2026-01-16 17:28:50,728 - INFO -   - FS25_JohnDeere_9X30T: 80 issues
+2026-01-16 17:28:50,728 - INFO -   - FS25_Landini_Serie7_SWB: 80 issues
+2026-01-16 17:28:50,728 - INFO -   - FS25_McHale_Fusion_4: 80 issues
+2026-01-16 17:28:50,728 - INFO -   - FS25_NH_T8: 80 issues
+2026-01-16 17:28:50,728 - INFO -   - FS25_Stara_Reboke_25000: 80 issues
+2026-01-16 17:28:50,728 - INFO -   - FS25_TolmetPack: 80 issues
+2026-01-16 17:28:50,728 - INFO -   - FS25_ursus1614: 80 issues
+2026-01-16 17:28:50,728 - INFO -   - FS25_ursus385_A_PL: 80 issues
+2026-01-16 17:28:50,728 - INFO -   - FS25_Ursus6v2: 112 issues
+2026-01-16 17:28:50,728 - INFO -   - FS25_zetor_Pack_80: 80 issues
+2026-01-16 17:28:51,012 - INFO - 📦 Załadowano 73080 modów i 458 DLC.
+2026-01-16 17:28:53,815 - INFO - 🔍 admin_player_stats: Total events: 4152969
+2026-01-16 17:28:54,181 - INFO - 🔍 admin_player_stats: player_connected events: 1688, player_disconnected: 1534
+2026-01-16 17:28:54,192 - WARNING - ⚠️ Gracz wiciu już połączony w czasie 2025-10-19 01:06:55.871000, ignoruję powtórne połączenie.
+2026-01-16 17:28:54,198 - WARNING - ⚠️ Gracz Jolero już połączony w czasie 2025-10-20 13:21:22.390000, ignoruję powtórne połączenie.
+2026-01-16 17:28:54,202 - WARNING - ⚠️ Gracz Piotrek już połączony w czasie 2025-10-21 16:38:26.851000, ignoruję powtórne połączenie.
+2026-01-16 17:28:54,202 - WARNING - ⚠️ Gracz zone już połączony w czasie 2025-10-21 16:38:30.467000, ignoruję powtórne połączenie.
+2026-01-16 17:28:54,203 - WARNING - ⚠️ Gracz siejA już połączony w czasie 2025-10-21 17:38:18.306000, ignoruję powtórne połączenie.
+2026-01-16 17:28:54,209 - WARNING - ⚠️ Gracz Kuno lis już połączony w czasie 2025-10-23 19:11:52.243000, ignoruję powtórne połączenie.
+2026-01-16 17:28:54,209 - WARNING - ⚠️ Gracz Jolero już połączony w czasie 2025-10-23 19:51:14.021000, ignoruję powtórne połączenie.
+2026-01-16 17:28:54,210 - WARNING - ⚠️ Gracz Daniel już połączony w czasie 2025-10-23 19:51:20.451000, ignoruję powtórne połączenie.
+2026-01-16 17:28:54,210 - WARNING - ⚠️ Gracz zone już połączony w czasie 2025-10-23 19:51:25.675000, ignoruję powtórne połączenie.
+2026-01-16 17:28:54,210 - WARNING - ⚠️ Gracz siejA już połączony w czasie 2025-10-23 19:51:35.355000, ignoruję powtórne połączenie.
+2026-01-16 17:28:54,210 - WARNING - ⚠️ Gracz szagh już połączony w czasie 2025-10-23 19:51:37.112000, ignoruję powtórne połączenie.
+2026-01-16 17:28:54,210 - WARNING - ⚠️ Gracz zwierek już połączony w czasie 2025-10-23 19:51:41.109000, ignoruję powtórne połączenie.
+2026-01-16 17:28:54,210 - WARNING - ⚠️ Gracz Kuno lis już połączony w czasie 2025-10-23 19:52:25.634000, ignoruję powtórne połączenie.
+2026-01-16 17:28:54,210 - WARNING - ⚠️ Gracz M@rcin już połączony w czasie 2025-10-23 19:52:26.207000, ignoruję powtórne połączenie.
+2026-01-16 17:28:54,210 - WARNING - ⚠️ Gracz Piotrek już połączony w czasie 2025-10-23 19:52:54.144000, ignoruję powtórne połączenie.
+2026-01-16 17:28:54,214 - WARNING - ⚠️ Gracz zone już połączony w czasie 2025-10-24 17:02:35.491000, ignoruję powtórne połączenie.
+2026-01-16 17:28:54,221 - WARNING - ⚠️ Gracz siejA już połączony w czasie 2025-10-26 10:19:46.713000, ignoruję powtórne połączenie.
+2026-01-16 17:28:54,231 - WARNING - ⚠️ Gracz Piotrek już połączony w czasie 2025-10-28 16:18:29.583000, ignoruję powtórne połączenie.
+2026-01-16 17:28:54,233 - WARNING - ⚠️ Gracz Jolero już połączony w czasie 2025-10-28 16:56:44.169000, ignoruję powtórne połączenie.
+2026-01-16 17:28:54,233 - WARNING - ⚠️ Gracz szagh już połączony w czasie 2025-10-28 16:57:09.714000, ignoruję powtórne połączenie.
+2026-01-16 17:28:54,233 - WARNING - ⚠️ Gracz hubsonwaliszot już połączony w czasie 2025-10-28 16:57:26.907000, ignoruję powtórne połączenie.
+2026-01-16 17:28:54,233 - WARNING - ⚠️ Gracz zone już połączony w czasie 2025-10-28 16:57:57.761000, ignoruję powtórne połączenie.
+2026-01-16 17:28:54,233 - WARNING - ⚠️ Gracz Piotrek już połączony w czasie 2025-10-28 17:05:07.916000, ignoruję powtórne połączenie.
+2026-01-16 17:28:54,234 - WARNING - ⚠️ Gracz Piotrek już połączony w czasie 2025-10-28 17:42:27.626000, ignoruję powtórne połączenie.
+2026-01-16 17:28:54,235 - WARNING - ⚠️ Gracz siejA już połączony w czasie 2025-10-28 17:42:33.644000, ignoruję powtórne połączenie.
+2026-01-16 17:28:54,235 - WARNING - ⚠️ Gracz zone już połączony w czasie 2025-10-28 17:43:14.542000, ignoruję powtórne połączenie.
+2026-01-16 17:28:54,235 - WARNING - ⚠️ Gracz siejA już połączony w czasie 2025-10-28 17:47:43.469000, ignoruję powtórne połączenie.
+2026-01-16 17:28:54,235 - WARNING - ⚠️ Gracz zone już połączony w czasie 2025-10-28 17:48:09.423000, ignoruję powtórne połączenie.
+2026-01-16 17:28:54,235 - WARNING - ⚠️ Gracz Piotrek już połączony w czasie 2025-10-28 17:48:25.480000, ignoruję powtórne połączenie.
+2026-01-16 17:28:54,235 - WARNING - ⚠️ Gracz hubsonwaliszot już połączony w czasie 2025-10-28 17:50:10.597000, ignoruję powtórne połączenie.
+2026-01-16 17:28:54,236 - WARNING - ⚠️ Gracz Jolero już połączony w czasie 2025-10-28 18:08:44.476000, ignoruję powtórne połączenie.
+2026-01-16 17:28:54,236 - WARNING - ⚠️ Gracz zone już połączony w czasie 2025-10-28 18:08:51.912000, ignoruję powtórne połączenie.
+2026-01-16 17:28:54,236 - WARNING - ⚠️ Gracz Piotrek już połączony w czasie 2025-10-28 18:27:36.602000, ignoruję powtórne połączenie.
+2026-01-16 17:28:54,236 - WARNING - ⚠️ Gracz hubsonwaliszot już połączony w czasie 2025-10-28 18:34:14.811000, ignoruję powtórne połączenie.
+2026-01-16 17:28:54,238 - WARNING - ⚠️ Gracz szagh już połączony w czasie 2025-10-28 19:59:07.237000, ignoruję powtórne połączenie.
+2026-01-16 17:28:54,244 - WARNING - ⚠️ Gracz Jolero już połączony w czasie 2025-10-29 13:45:56.021000, ignoruję powtórne połączenie.
+2026-01-16 17:28:54,244 - WARNING - ⚠️ Gracz Piotrek już połączony w czasie 2025-10-29 13:46:05.672000, ignoruję powtórne połączenie.
+2026-01-16 17:28:54,245 - WARNING - ⚠️ Gracz zwierek już połączony w czasie 2025-10-29 13:46:15.088000, ignoruję powtórne połączenie.
+2026-01-16 17:28:54,246 - WARNING - ⚠️ Gracz hubsonwaliszot już połączony w czasie 2025-10-29 18:57:11.561000, ignoruję powtórne połączenie.
+2026-01-16 17:28:54,247 - WARNING - ⚠️ Gracz siwa już połączony w czasie 2025-10-30 07:45:47.366000, ignoruję powtórne połączenie.
+2026-01-16 17:28:54,254 - WARNING - ⚠️ Gracz blaze już połączony w czasie 2025-10-31 22:22:18.158000, ignoruję powtórne połączenie.
+2026-01-16 17:28:54,256 - WARNING - ⚠️ Gracz Jolero już połączony w czasie 2025-11-01 10:39:12.690000, ignoruję powtórne połączenie.
+2026-01-16 17:28:54,256 - WARNING - ⚠️ Gracz zwierek już połączony w czasie 2025-11-01 10:39:25.756000, ignoruję powtórne połączenie.
+2026-01-16 17:28:54,257 - WARNING - ⚠️ Gracz symonixprime nie ten znany już połączony w czasie 2025-11-01 10:39:42.106000, ignoruję powtórne połączenie.
+2026-01-16 17:28:54,257 - WARNING - ⚠️ Gracz hubsonwaliszot już połączony w czasie 2025-11-01 10:56:53.798000, ignoruję powtórne połączenie.
+2026-01-16 17:28:54,264 - WARNING - ⚠️ Gracz zwierek już połączony w czasie 2025-11-02 22:11:41.070000, ignoruję powtórne połączenie.
+2026-01-16 17:28:54,265 - WARNING - ⚠️ Gracz Piotrek już połączony w czasie 2025-11-03 13:25:58.506000, ignoruję powtórne połączenie.
+2026-01-16 17:28:54,266 - WARNING - ⚠️ Gracz Jolero już połączony w czasie 2025-11-03 13:44:01.611000, ignoruję powtórne połączenie.
+2026-01-16 17:28:54,267 - WARNING - ⚠️ Gracz Romek już połączony w czasie 2025-11-03 13:56:38.701000, ignoruję powtórne połączenie.
+2026-01-16 17:28:54,267 - WARNING - ⚠️ Gracz Romek już połączony w czasie 2025-11-03 14:01:04.236000, ignoruję powtórne połączenie.
+2026-01-16 17:28:54,267 - WARNING - ⚠️ Gracz Jolero już połączony w czasie 2025-11-03 14:01:56.266000, ignoruję powtórne połączenie.
+2026-01-16 17:28:54,267 - WARNING - ⚠️ Gracz Romek już połączony w czasie 2025-11-03 14:05:36.554000, ignoruję powtórne połączenie.
+2026-01-16 17:28:54,267 - WARNING - ⚠️ Gracz Jolero już połączony w czasie 2025-11-03 14:05:38.967000, ignoruję powtórne połączenie.
+2026-01-16 17:28:54,267 - WARNING - ⚠️ Gracz zwierek już połączony w czasie 2025-11-03 14:05:56.459000, ignoruję powtórne połączenie.
+2026-01-16 17:28:54,268 - WARNING - ⚠️ Gracz Jolero już połączony w czasie 2025-11-03 14:29:35.451000, ignoruję powtórne połączenie.
+2026-01-16 17:28:54,268 - WARNING - ⚠️ Gracz zwierek już połączony w czasie 2025-11-03 14:30:07.360000, ignoruję powtórne połączenie.
+2026-01-16 17:28:54,269 - WARNING - ⚠️ Gracz Piotrek już połączony w czasie 2025-11-03 15:23:50.584000, ignoruję powtórne połączenie.
+2026-01-16 17:28:54,270 - WARNING - ⚠️ Gracz Jolero już połączony w czasie 2025-11-03 15:49:34.756000, ignoruję powtórne połączenie.
+2026-01-16 17:28:54,270 - WARNING - ⚠️ Gracz Jolero już połączony w czasie 2025-11-03 15:53:55.845000, ignoruję powtórne połączenie.
+2026-01-16 17:28:54,270 - WARNING - ⚠️ Gracz Jolero już połączony w czasie 2025-11-03 16:00:44.282000, ignoruję powtórne połączenie.
+2026-01-16 17:28:54,270 - WARNING - ⚠️ Gracz symonixprime już połączony w czasie 2025-11-03 16:08:29.625000, ignoruję powtórne połączenie.
+2026-01-16 17:28:54,270 - WARNING - ⚠️ Gracz Jolero już połączony w czasie 2025-11-03 16:15:48.727000, ignoruję powtórne połączenie.
+2026-01-16 17:28:54,271 - WARNING - ⚠️ Gracz Jolero już połączony w czasie 2025-11-03 16:28:44.971000, ignoruję powtórne połączenie.
+2026-01-16 17:28:54,271 - WARNING - ⚠️ Gracz w3rny już połączony w czasie 2025-11-03 16:28:47.982000, ignoruję powtórne połączenie.
+2026-01-16 17:28:54,271 - WARNING - ⚠️ Gracz Jolero już połączony w czasie 2025-11-03 16:32:39.849000, ignoruję powtórne połączenie.
+2026-01-16 17:28:54,271 - WARNING - ⚠️ Gracz szagh już połączony w czasie 2025-11-03 18:00:12.291000, ignoruję powtórne połączenie.
+2026-01-16 17:28:54,272 - WARNING - ⚠️ Gracz Jolero już połączony w czasie 2025-11-03 20:06:16.903000, ignoruję powtórne połączenie.
+2026-01-16 17:28:54,272 - WARNING - ⚠️ Gracz Jolero już połączony w czasie 2025-11-03 20:11:48.929000, ignoruję powtórne połączenie.
+2026-01-16 17:28:54,272 - WARNING - ⚠️ Gracz siwa już połączony w czasie 2025-11-03 20:13:23.436000, ignoruję powtórne połączenie.
+2026-01-16 17:28:54,273 - WARNING - ⚠️ Gracz GarbatyAlojzy już połączony w czasie 2025-11-03 20:17:35.978000, ignoruję powtórne połączenie.
+2026-01-16 17:28:54,273 - WARNING - ⚠️ Gracz Jolero już połączony w czasie 2025-11-03 20:17:44.624000, ignoruję powtórne połączenie.
+2026-01-16 17:28:54,273 - WARNING - ⚠️ Gracz Jolero już połączony w czasie 2025-11-03 20:21:31.520000, ignoruję powtórne połączenie.
+2026-01-16 17:28:54,273 - WARNING - ⚠️ Gracz hubsonwaliszot już połączony w czasie 2025-11-03 20:22:19.875000, ignoruję powtórne połączenie.
+2026-01-16 17:28:54,273 - WARNING - ⚠️ Gracz GarbatyAlojzy już połączony w czasie 2025-11-03 20:23:05.275000, ignoruję powtórne połączenie.
+2026-01-16 17:28:54,273 - WARNING - ⚠️ Gracz hubsonwaliszot już połączony w czasie 2025-11-03 20:40:09.380000, ignoruję powtórne połączenie.
+2026-01-16 17:28:54,274 - WARNING - ⚠️ Gracz hubsonwaliszot już połączony w czasie 2025-11-03 20:53:00.273000, ignoruję powtórne połączenie.
+2026-01-16 17:28:54,274 - WARNING - ⚠️ Gracz Figuana już połączony w czasie 2025-11-03 20:56:53.345000, ignoruję powtórne połączenie.
+2026-01-16 17:28:54,274 - WARNING - ⚠️ Gracz hubsonwaliszot już połączony w czasie 2025-11-03 21:12:07.900000, ignoruję powtórne połączenie.
+2026-01-16 17:28:54,275 - WARNING - ⚠️ Gracz w3rny już połączony w czasie 2025-11-03 21:36:53.649000, ignoruję powtórne połączenie.
+2026-01-16 17:28:54,277 - WARNING - ⚠️ Gracz symonixprime już połączony w czasie 2025-11-04 15:13:59.078000, ignoruję powtórne połączenie.
+2026-01-16 17:28:54,277 - WARNING - ⚠️ Sesja gracza symonixprime przekroczyła 24h (1495.05 min), ograniczam do 1440 min.
+2026-01-16 17:28:54,282 - WARNING - ⚠️ Gracz zone już połączony w czasie 2025-11-05 15:03:17.181000, ignoruję powtórne połączenie.
+2026-01-16 17:28:54,283 - WARNING - ⚠️ Gracz symonixprime już połączony w czasie 2025-11-05 17:54:24.714000, ignoruję powtórne połączenie.
+2026-01-16 17:28:54,283 - WARNING - ⚠️ Gracz Paweł już połączony w czasie 2025-11-05 18:26:39.628000, ignoruję powtórne połączenie.
+2026-01-16 17:28:54,283 - WARNING - ⚠️ Gracz Jolero już połączony w czasie 2025-11-05 19:17:59.272000, ignoruję powtórne połączenie.
+2026-01-16 17:28:54,284 - WARNING - ⚠️ Gracz hubsonwaliszot już połączony w czasie 2025-11-05 19:25:18.820000, ignoruję powtórne połączenie.
+2026-01-16 17:28:54,284 - WARNING - ⚠️ Gracz M@rcin już połączony w czasie 2025-11-05 19:27:01.901000, ignoruję powtórne połączenie.
+2026-01-16 17:28:54,284 - WARNING - ⚠️ Gracz symonixprime już połączony w czasie 2025-11-05 19:27:20.498000, ignoruję powtórne połączenie.
+2026-01-16 17:28:54,292 - WARNING - ⚠️ Gracz siwa już połączony w czasie 2025-11-07 16:09:43.173000, ignoruję powtórne połączenie.
+2026-01-16 17:28:54,292 - WARNING - ⚠️ Gracz blaze już połączony w czasie 2025-11-07 16:09:45.786000, ignoruję powtórne połączenie.
+2026-01-16 17:28:54,292 - WARNING - ⚠️ Gracz Jolero już połączony w czasie 2025-11-07 16:10:43.023000, ignoruję powtórne połączenie.
+2026-01-16 17:28:54,292 - WARNING - ⚠️ Gracz Piotrek już połączony w czasie 2025-11-07 16:13:08.058000, ignoruję powtórne połączenie.
+2026-01-16 17:28:54,293 - WARNING - ⚠️ Gracz hubsonwaliszot już połączony w czasie 2025-11-07 18:05:43.998000, ignoruję powtórne połączenie.
+2026-01-16 17:28:54,297 - WARNING - ⚠️ Gracz symonixprime już połączony w czasie 2025-11-08 13:21:15.398000, ignoruję powtórne połączenie.
+2026-01-16 17:28:54,304 - WARNING - ⚠️ Gracz hubsonwaliszot już połączony w czasie 2025-11-09 21:24:19.059000, ignoruję powtórne połączenie.
+2026-01-16 17:28:54,306 - WARNING - ⚠️ Gracz symonixprime już połączony w czasie 2025-11-10 09:09:45.728000, ignoruję powtórne połączenie.
+2026-01-16 17:28:54,308 - WARNING - ⚠️ Gracz M@rcin już połączony w czasie 2025-11-10 20:03:32.941000, ignoruję powtórne połączenie.
+2026-01-16 17:28:54,308 - WARNING - ⚠️ Gracz Jolero już połączony w czasie 2025-11-10 20:03:43.795000, ignoruję powtórne połączenie.
+2026-01-16 17:28:54,308 - WARNING - ⚠️ Gracz zwierek już połączony w czasie 2025-11-10 20:05:08.959000, ignoruję powtórne połączenie.
+2026-01-16 17:28:54,309 - WARNING - ⚠️ Gracz Jolero już połączony w czasie 2025-11-10 20:15:40.417000, ignoruję powtórne połączenie.
+2026-01-16 17:28:54,309 - WARNING - ⚠️ Gracz zwierek już połączony w czasie 2025-11-10 20:20:35.446000, ignoruję powtórne połączenie.
+2026-01-16 17:28:54,309 - WARNING - ⚠️ Gracz hubsonwaliszot już połączony w czasie 2025-11-10 20:22:20.054000, ignoruję powtórne połączenie.
+2026-01-16 17:28:54,310 - WARNING - ⚠️ Gracz Figuana już połączony w czasie 2025-11-11 10:16:57.501000, ignoruję powtórne połączenie.
+2026-01-16 17:28:54,310 - WARNING - ⚠️ Gracz 045 Polskinoob już połączony w czasie 2025-11-11 10:38:56.495000, ignoruję powtórne połączenie.
+2026-01-16 17:28:54,311 - WARNING - ⚠️ Gracz Jolero już połączony w czasie 2025-11-11 10:46:28.800000, ignoruję powtórne połączenie.
+2026-01-16 17:28:54,311 - WARNING - ⚠️ Sesja gracza 045 Polskinoob przekroczyła 24h (19894.64 min), ograniczam do 1440 min.
+2026-01-16 17:28:54,314 - WARNING - ⚠️ Gracz M@rcin już połączony w czasie 2025-11-11 21:55:09.344000, ignoruję powtórne połączenie.
+2026-01-16 17:28:54,316 - WARNING - ⚠️ Gracz siwa już połączony w czasie 2025-11-12 16:27:47.052000, ignoruję powtórne połączenie.
+2026-01-16 17:28:54,322 - WARNING - ⚠️ Gracz Romek już połączony w czasie 2025-11-13 22:04:58.555000, ignoruję powtórne połączenie.
+2026-01-16 17:28:54,323 - WARNING - ⚠️ Gracz Lewy już połączony w czasie 2025-11-13 22:05:38.732000, ignoruję powtórne połączenie.
+2026-01-16 17:28:54,324 - WARNING - ⚠️ Gracz zwierek już połączony w czasie 2025-11-14 12:02:02.615000, ignoruję powtórne połączenie.
+2026-01-16 17:28:54,325 - WARNING - ⚠️ Gracz zone już połączony w czasie 2025-11-14 17:03:56.873000, ignoruję powtórne połączenie.
+2026-01-16 17:28:54,325 - WARNING - ⚠️ Gracz siwa już połączony w czasie 2025-11-14 17:03:59.086000, ignoruję powtórne połączenie.
+2026-01-16 17:28:54,326 - WARNING - ⚠️ Gracz Jolero już połączony w czasie 2025-11-14 17:04:36.575000, ignoruję powtórne połączenie.
+2026-01-16 17:28:54,326 - WARNING - ⚠️ Gracz hubsonwaliszot już połączony w czasie 2025-11-14 17:08:12.719000, ignoruję powtórne połączenie.
+2026-01-16 17:28:54,327 - WARNING - ⚠️ Gracz Romek już połączony w czasie 2025-11-14 19:09:36.906000, ignoruję powtórne połączenie.
+2026-01-16 17:28:54,327 - WARNING - ⚠️ Gracz zone już połączony w czasie 2025-11-14 19:10:05.547000, ignoruję powtórne połączenie.
+2026-01-16 17:28:54,328 - WARNING - ⚠️ Gracz Lewy już połączony w czasie 2025-11-14 19:10:28.441000, ignoruję powtórne połączenie.
+2026-01-16 17:28:54,328 - WARNING - ⚠️ Gracz Jolero już połączony w czasie 2025-11-14 19:11:10.306000, ignoruję powtórne połączenie.
+2026-01-16 17:28:54,328 - WARNING - ⚠️ Gracz hubsonwaliszot już połączony w czasie 2025-11-14 19:11:16.291000, ignoruję powtórne połączenie.
+2026-01-16 17:28:54,328 - WARNING - ⚠️ Gracz Piotrek już połączony w czasie 2025-11-14 19:29:13.051000, ignoruję powtórne połączenie.
+2026-01-16 17:28:54,329 - WARNING - ⚠️ Gracz siwa już połączony w czasie 2025-11-14 20:55:06.278000, ignoruję powtórne połączenie.
+2026-01-16 17:28:54,332 - WARNING - ⚠️ Gracz hubsonwaliszot już połączony w czasie 2025-11-15 10:57:53.065000, ignoruję powtórne połączenie.
+2026-01-16 17:28:54,335 - WARNING - ⚠️ Gracz hubsonwaliszot już połączony w czasie 2025-11-15 20:18:21.946000, ignoruję powtórne połączenie.
+2026-01-16 17:28:54,336 - WARNING - ⚠️ Gracz Lewy już połączony w czasie 2025-11-15 21:20:43.841000, ignoruję powtórne połączenie.
+2026-01-16 17:28:54,336 - WARNING - ⚠️ Gracz zone już połączony w czasie 2025-11-15 22:46:08.727000, ignoruję powtórne połączenie.
+2026-01-16 17:28:54,344 - WARNING - ⚠️ Gracz siwa już połączony w czasie 2025-11-17 15:21:36.340000, ignoruję powtórne połączenie.
+2026-01-16 17:28:54,346 - WARNING - ⚠️ Gracz hubsonwaliszot już połączony w czasie 2025-11-17 20:26:12.334000, ignoruję powtórne połączenie.
+2026-01-16 17:28:54,346 - WARNING - ⚠️ Gracz M@rcin już połączony w czasie 2025-11-17 20:26:18.055000, ignoruję powtórne połączenie.
+2026-01-16 17:28:54,346 - WARNING - ⚠️ Gracz Piotrek już połączony w czasie 2025-11-17 20:27:01.099000, ignoruję powtórne połączenie.
+2026-01-16 17:28:54,346 - WARNING - ⚠️ Gracz zwierek już połączony w czasie 2025-11-17 20:27:32.367000, ignoruję powtórne połączenie.
+2026-01-16 17:28:54,346 - WARNING - ⚠️ Gracz 045 Polskinoob już połączony w czasie 2025-11-17 20:27:33.600000, ignoruję powtórne połączenie.
+2026-01-16 17:28:54,346 - WARNING - ⚠️ Gracz zone już połączony w czasie 2025-11-17 20:28:30.277000, ignoruję powtórne połączenie.
+2026-01-16 17:28:54,346 - WARNING - ⚠️ Gracz hubsonwaliszot już połączony w czasie 2025-11-17 20:36:10.716000, ignoruję powtórne połączenie.
+2026-01-16 17:28:54,350 - WARNING - ⚠️ Gracz zwierek już połączony w czasie 2025-11-21 19:28:11.316000, ignoruję powtórne połączenie.
+2026-01-16 17:28:54,350 - WARNING - ⚠️ Sesja gracza zwierek przekroczyła 24h (4934.14 min), ograniczam do 1440 min.
+2026-01-16 17:28:54,351 - WARNING - ⚠️ Gracz Piotrek już połączony w czasie 2025-11-22 11:49:38.302000, ignoruję powtórne połączenie.
+2026-01-16 17:28:54,351 - WARNING - ⚠️ Gracz symonixprime już połączony w czasie 2025-11-22 11:54:58.429000, ignoruję powtórne połączenie.
+2026-01-16 17:28:54,353 - WARNING - ⚠️ Gracz hubsonwaliszot już połączony w czasie 2025-11-22 17:11:56.988000, ignoruję powtórne połączenie.
+2026-01-16 17:28:54,359 - WARNING - ⚠️ Gracz Jolero już połączony w czasie 2025-11-24 16:58:38.946000, ignoruję powtórne połączenie.
+2026-01-16 17:28:54,362 - WARNING - ⚠️ Gracz Jolero już połączony w czasie 2025-11-25 12:11:56.799000, ignoruję powtórne połączenie.
+2026-01-16 17:28:54,362 - WARNING - ⚠️ Gracz Jolero już połączony w czasie 2025-11-25 12:17:08.180000, ignoruję powtórne połączenie.
+2026-01-16 17:28:54,363 - WARNING - ⚠️ Gracz Jolero już połączony w czasie 2025-11-25 12:21:57.848000, ignoruję powtórne połączenie.
+2026-01-16 17:28:54,363 - WARNING - ⚠️ Gracz Jolero już połączony w czasie 2025-11-25 12:29:16.571000, ignoruję powtórne połączenie.
+2026-01-16 17:28:54,363 - WARNING - ⚠️ Gracz zwierek już połączony w czasie 2025-11-25 12:32:17.020000, ignoruję powtórne połączenie.
+2026-01-16 17:28:54,364 - WARNING - ⚠️ Gracz Błażej już połączony w czasie 2025-11-25 18:25:33.049000, ignoruję powtórne połączenie.
+2026-01-16 17:28:54,365 - WARNING - ⚠️ Gracz symonixprime serwerkaput już połączony w czasie 2025-11-26 08:11:25.948000, ignoruję powtórne połączenie.
+2026-01-16 17:28:54,365 - WARNING - ⚠️ Sesja gracza symonixprime serwerkaput przekroczyła 24h (1453.03 min), ograniczam do 1440 min.
+2026-01-16 17:28:54,368 - WARNING - ⚠️ Gracz M@rcin już połączony w czasie 2025-11-26 20:27:17.025000, ignoruję powtórne połączenie.
+2026-01-16 17:28:54,368 - WARNING - ⚠️ Gracz siwa już połączony w czasie 2025-11-26 20:27:32.295000, ignoruję powtórne połączenie.
+2026-01-16 17:28:54,368 - WARNING - ⚠️ Gracz Jolero już połączony w czasie 2025-11-26 20:27:58.486000, ignoruję powtórne połączenie.
+2026-01-16 17:28:54,368 - WARNING - ⚠️ Gracz Błażej już połączony w czasie 2025-11-26 20:29:41.569000, ignoruję powtórne połączenie.
+2026-01-16 17:28:54,368 - WARNING - ⚠️ Gracz hubsonwaliszot już połączony w czasie 2025-11-26 20:31:55.987000, ignoruję powtórne połączenie.
+2026-01-16 17:28:54,371 - WARNING - ⚠️ Gracz M@rcin już połączony w czasie 2025-11-27 19:00:02.926000, ignoruję powtórne połączenie.
+2026-01-16 17:28:54,375 - WARNING - ⚠️ Gracz hubsonwaliszot już połączony w czasie 2025-11-28 22:23:26.215000, ignoruję powtórne połączenie.
+2026-01-16 17:28:54,375 - WARNING - ⚠️ Gracz Jolero już połączony w czasie 2025-11-28 22:50:15.055000, ignoruję powtórne połączenie.
+2026-01-16 17:28:54,378 - WARNING - ⚠️ Gracz Paweł nie ma disconnect, połączenie od 2025-11-05 15:49:03.743000.
+2026-01-16 17:28:54,378 - WARNING - ⚠️ Gracz blaze nie ma disconnect, połączenie od 2025-11-08 17:37:38.696000.
+2026-01-16 17:28:54,378 - WARNING - ⚠️ Gracz M@rcin nie ma disconnect, połączenie od 2025-11-29 21:18:13.018000.
+2026-01-16 17:28:54,378 - WARNING - ⚠️ Gracz Błażej nie ma disconnect, połączenie od 2025-11-29 21:24:58.553000.
+2026-01-16 17:28:54,378 - WARNING - ⚠️ Gracz Piotrek nie ma disconnect, połączenie od 2025-11-29 22:01:26.613000.
+2026-01-16 17:28:54,406 - INFO - 👥 Sesje graczy (min): 
+                          Player                   Start                     End     Duration
+0                         Jolero 2025-10-17 20:26:50.195 2025-10-17 20:31:29.057     4.647700
+1                        Figuana 2025-10-17 20:54:52.988 2025-10-17 21:38:38.018    43.750500
+2                         M@rcin 2025-10-17 20:32:52.759 2025-10-17 21:41:27.141    68.573033
+3                         M@rcin 2025-10-17 21:42:07.309 2025-10-17 21:47:38.093     5.513067
+4                        Figuana 2025-10-17 21:40:55.681 2025-10-17 21:50:23.180     9.458317
+5                         M@rcin 2025-10-17 21:48:40.392 2025-10-17 22:25:31.904    36.858533
+6                        Figuana 2025-10-17 21:51:03.513 2025-10-17 22:27:17.036    36.225383
+7                           zone 2025-10-17 20:28:43.673 2025-10-17 22:29:54.820   121.185783
+8                        Figuana 2025-10-17 22:28:09.406 2025-10-17 22:30:38.485     2.484650
+9                        zwierek 2025-10-17 20:34:53.697 2025-10-17 22:44:30.227   129.608833
+10                         siejA 2025-10-17 20:27:23.006 2025-10-17 22:51:46.742   144.395600
+11                       Piotrek 2025-10-17 22:52:20.742 2025-10-17 22:54:22.212     2.024500
+12                          zone 2025-10-17 22:35:27.759 2025-10-17 22:56:55.252    21.458217
+13                         siejA 2025-10-17 22:52:19.594 2025-10-17 23:00:58.368     8.646233
+14                         szagh 2025-10-17 20:33:22.254 2025-10-17 23:02:40.882   149.310467
+15                         szagh 2025-10-17 23:03:57.695 2025-10-17 23:09:31.827     5.568867
+16                       Figuana 2025-10-17 22:31:17.117 2025-10-17 23:16:42.194    45.417950
+17                       Piotrek 2025-10-17 22:55:10.906 2025-10-17 23:21:24.855    26.232483
+18                         szagh 2025-10-17 23:10:32.832 2025-10-18 00:59:54.267   109.357250
+19                          zone 2025-10-18 08:45:42.926 2025-10-18 08:54:31.397     8.807850
+20                         szagh 2025-10-18 09:21:33.022 2025-10-18 09:54:12.545    32.658717
+21                         szagh 2025-10-18 10:09:31.907 2025-10-18 10:32:33.050    23.019050
+22                          zone 2025-10-18 11:21:48.535 2025-10-18 11:31:06.423     9.298133
+23                       zwierek 2025-10-18 11:02:00.276 2025-10-18 12:26:25.083    84.413450
+24                         szagh 2025-10-18 11:53:25.052 2025-10-18 12:28:49.539    35.408117
+25                       Piotrek 2025-10-18 11:57:30.169 2025-10-18 13:06:39.418    69.154150
+26                       Piotrek 2025-10-18 13:24:55.517 2025-10-18 13:31:25.482     6.499417
+27                          zone 2025-10-18 11:51:39.432 2025-10-18 13:31:59.002   100.326167
+28                         szagh 2025-10-18 12:55:50.676 2025-10-18 13:37:30.504    41.663800
+29      symonixprime serwerkaput 2025-10-18 12:43:41.610 2025-10-18 13:40:46.576    57.082767
+30                         wiciu 2025-10-18 13:03:31.791 2025-10-18 13:48:32.872    45.018017
+31                          zone 2025-10-18 15:01:02.079 2025-10-18 15:04:19.299     3.287000
+32                         siejA 2025-10-18 15:17:50.856 2025-10-18 17:06:41.209   108.839217
+33                        M@rcin 2025-10-18 17:09:12.430 2025-10-18 17:38:39.814    29.456400
+34                        M@rcin 2025-10-18 17:42:06.895 2025-10-18 17:53:09.656    11.046017
+35                       Piotrek 2025-10-18 16:26:09.634 2025-10-18 18:00:15.194    94.092667
+36                         wiciu 2025-10-18 17:16:19.900 2025-10-18 18:05:46.132    49.437200
+37                       zwierek 2025-10-18 17:56:07.781 2025-10-18 18:36:09.349    40.026133
+38      symonixprime serwerkaput 2025-10-18 16:27:17.043 2025-10-18 18:37:02.893   129.764167
+39                        M@rcin 2025-10-18 18:32:13.722 2025-10-18 18:43:32.844    11.318700
+40                         siejA 2025-10-18 17:07:07.132 2025-10-18 19:06:55.746   119.810233
+41                       zwierek 2025-10-18 18:50:30.729 2025-10-18 19:59:12.859    68.702167
+42                          zone 2025-10-18 16:27:11.140 2025-10-18 20:12:10.061   224.982017
+43                        M@rcin 2025-10-18 20:27:41.537 2025-10-18 20:30:14.514     2.549617
+44                       Figuana 2025-10-18 19:22:45.715 2025-10-18 20:31:23.425    68.628500
+45                       Piotrek 2025-10-18 18:15:33.272 2025-10-18 21:06:49.753   171.274683
+46                          zone 2025-10-18 20:30:07.173 2025-10-18 21:07:13.904    37.112183
+47                       Figuana 2025-10-18 20:32:15.402 2025-10-18 21:15:17.577    43.036250
+48                         wiciu 2025-10-18 20:20:25.862 2025-10-18 21:16:01.548    55.594767
+49                        M@rcin 2025-10-18 20:32:44.344 2025-10-18 21:22:45.790    50.024100
+50                       Piotrek 2025-10-18 21:23:21.163 2025-10-18 21:24:23.825     1.044367
+51      symonixprime serwerkaput 2025-10-18 18:44:31.229 2025-10-18 21:56:04.336   191.551783
+52                          zone 2025-10-18 21:28:45.537 2025-10-18 22:19:33.394    50.797617
+53                        M@rcin 2025-10-18 21:32:18.562 2025-10-18 22:39:50.909    67.539117
+54                       Figuana 2025-10-18 21:23:03.126 2025-10-18 22:49:12.405    86.154650
+55                         szagh 2025-10-18 17:17:12.112 2025-10-18 23:11:40.573   354.474350
+56                       zwierek 2025-10-18 20:07:57.118 2025-10-18 23:26:47.627   198.841817
+57                        M@rcin 2025-10-18 22:50:00.275 2025-10-18 23:44:34.478    54.570050
+58                         szagh 2025-10-18 23:43:13.159 2025-10-19 00:26:32.019    43.314333
+59                         siejA 2025-10-18 19:50:22.323 2025-10-19 00:32:39.070   282.279117
+60                         siejA 2025-10-19 00:34:36.076 2025-10-19 01:00:04.329    25.470883
+61                         siejA 2025-10-19 01:00:27.461 2025-10-19 01:10:29.907    10.040767
+62                         wiciu 2025-10-18 21:29:37.745 2025-10-19 01:12:17.048   222.655050
+63                         siejA 2025-10-19 01:17:27.788 2025-10-19 01:36:06.152    18.639400
+64                         siejA 2025-10-19 01:37:09.873 2025-10-19 01:49:00.897    11.850400
+65                       Piotrek 2025-10-19 01:01:06.624 2025-10-19 02:06:49.116    65.708200
+66                        M@rcin 2025-10-19 05:14:26.850 2025-10-19 05:52:57.730    38.514667
+67                          zone 2025-10-19 08:25:15.167 2025-10-19 08:32:19.065     7.064967
+68                          zone 2025-10-19 08:32:56.227 2025-10-19 08:53:02.196    20.099483
+69                          zone 2025-10-19 08:55:19.381 2025-10-19 09:05:29.073    10.161533
+70                        M@rcin 2025-10-19 09:14:17.605 2025-10-19 09:51:27.376    37.162850
+71                         szagh 2025-10-19 09:29:15.657 2025-10-19 10:26:25.699    57.167367
+72                       Piotrek 2025-10-19 10:47:27.248 2025-10-19 10:49:09.386     1.702300
+73                       Piotrek 2025-10-19 10:49:52.397 2025-10-19 10:52:55.617     3.053667
+74                        M@rcin 2025-10-19 10:13:24.108 2025-10-19 11:35:55.806    82.528300
+75                        Jolero 2025-10-19 10:51:53.456 2025-10-19 11:37:45.836    45.873000
+76                         siejA 2025-10-19 11:55:04.832 2025-10-19 12:01:11.184     6.105867
+77                       Figuana 2025-10-19 10:17:14.509 2025-10-19 12:02:53.734   105.653750
+78                         szagh 2025-10-19 11:19:40.606 2025-10-19 12:06:16.463    46.597617
+79                         siejA 2025-10-19 12:13:43.247 2025-10-19 12:37:27.503    23.737600
+80      symonixprime serwerkaput 2025-10-19 10:16:27.568 2025-10-19 12:57:12.623   160.750917
+81                       Piotrek 2025-10-19 10:53:56.904 2025-10-19 13:04:01.393   130.074817
+82                          zone 2025-10-19 10:18:52.979 2025-10-19 13:04:20.158   165.452983
+83                         szagh 2025-10-19 12:20:07.452 2025-10-19 13:11:08.622    51.019500
+84                         siejA 2025-10-19 12:37:54.243 2025-10-19 13:19:22.274    41.467183
+85                         wiciu 2025-10-19 12:53:24.908 2025-10-19 13:49:57.682    56.546233
+86                       Figuana 2025-10-19 13:47:57.191 2025-10-19 13:52:19.936     4.379083
+87                         siejA 2025-10-19 13:20:15.504 2025-10-19 14:01:58.194    41.711500
+88                          zone 2025-10-19 13:58:02.314 2025-10-19 14:12:45.388    14.717900
+89                       zwierek 2025-10-19 10:16:16.345 2025-10-19 14:13:00.136   236.729850
+90      symonixprime serwerkaput 2025-10-19 14:10:20.454 2025-10-19 14:15:10.794     4.839000
+91                        M@rcin 2025-10-19 15:30:50.527 2025-10-19 16:08:24.092    37.559417
+92      symonixprime serwerkaput 2025-10-19 15:44:34.722 2025-10-19 16:28:03.973    43.487517
+93                         wiciu 2025-10-19 15:40:32.173 2025-10-19 17:04:36.976    84.080050
+94                        Jolero 2025-10-19 16:55:35.346 2025-10-19 17:11:00.813    15.424450
+95                        Jolero 2025-10-19 17:13:14.917 2025-10-19 17:14:19.984     1.084450
+96                       Piotrek 2025-10-19 15:30:35.742 2025-10-19 17:33:44.637   123.148250
+97                         siejA 2025-10-19 14:31:34.032 2025-10-19 17:35:16.408   183.706267
+98                        M@rcin 2025-10-19 17:13:14.985 2025-10-19 18:01:16.203    48.020300
+99                       zwierek 2025-10-19 16:39:08.362 2025-10-19 19:07:12.846   148.074733
+100                         zone 2025-10-19 15:32:08.840 2025-10-19 19:11:38.734   219.498233
+101                        wiciu 2025-10-19 18:37:10.655 2025-10-19 19:19:10.722    42.001117
+102                       M@rcin 2025-10-19 19:13:11.207 2025-10-19 19:24:16.696    11.091483
+103                       Jolero 2025-10-19 17:15:38.310 2025-10-19 19:36:49.652   141.189033
+104     symonixprime serwerkaput 2025-10-19 20:33:50.218 2025-10-19 20:51:53.273    18.050917
+105                       LeBrOn 2025-10-19 20:18:01.654 2025-10-19 20:56:07.757    38.101717
+106                         zone 2025-10-19 20:32:59.609 2025-10-19 20:56:57.696    23.968117
+107                        siejA 2025-10-19 19:09:27.235 2025-10-19 21:11:52.230   122.416583
+108                       M@rcin 2025-10-19 20:35:29.027 2025-10-19 21:28:38.635    53.160133
+109                        szagh 2025-10-19 19:43:06.766 2025-10-19 21:34:21.273   111.241783
+110                      Figuana 2025-10-19 19:00:52.236 2025-10-19 22:10:24.027   189.529850
+111                      zwierek 2025-10-19 19:09:58.708 2025-10-19 22:11:34.657   181.599150
+112                       Jolero 2025-10-19 20:08:08.758 2025-10-19 22:11:43.907   123.585817
+113                        siejA 2025-10-19 22:27:33.931 2025-10-19 22:32:58.746     5.413583
+114                        szagh 2025-10-20 10:39:48.232 2025-10-20 12:10:37.205    90.816217
+115                       Jolero 2025-10-20 13:11:54.144 2025-10-20 13:13:05.742     1.193300
+116                       Jolero 2025-10-20 13:15:20.320 2025-10-20 13:15:21.894     0.026233
+117     symonixprime serwerkaput 2025-10-20 14:46:14.531 2025-10-20 14:50:46.907     4.539600
+118     symonixprime serwerkaput 2025-10-20 14:53:03.715 2025-10-20 15:44:13.209    51.158233
+119                      Piotrek 2025-10-20 13:30:43.751 2025-10-20 15:55:27.950   144.736650
+120                        szagh 2025-10-20 14:32:38.520 2025-10-20 16:19:50.323   107.196717
+121                       Jolero 2025-10-20 13:17:19.359 2025-10-20 17:49:26.103   272.112400
+122     symonixprime serwerkaput 2025-10-20 16:21:48.774 2025-10-20 18:17:27.386   115.643533
+123                      Piotrek 2025-10-20 18:28:01.422 2025-10-20 19:25:29.891    57.474483
+124                         zone 2025-10-20 14:29:59.404 2025-10-20 19:28:14.213   298.246817
+125                       LeBrOn 2025-10-20 19:34:46.404 2025-10-20 19:48:15.676    13.487867
+126                       LeBrOn 2025-10-20 19:49:08.823 2025-10-20 20:08:02.239    18.890267
+127                      Piotrek 2025-10-20 19:27:19.815 2025-10-20 20:15:53.938    48.568717
+128     symonixprime serwerkaput 2025-10-20 19:20:02.059 2025-10-20 20:16:28.551    56.441533
+129                         zone 2025-10-20 19:30:41.322 2025-10-20 20:17:02.965    46.360717
+130                       M@rcin 2025-10-20 18:58:43.397 2025-10-20 20:17:06.429    78.383867
+131                        siejA 2025-10-20 17:51:29.944 2025-10-20 20:23:34.594   152.077500
+132                       Jolero 2025-10-20 20:21:21.868 2025-10-20 20:46:34.559    25.211517
+133                       Jolero 2025-10-20 20:47:25.068 2025-10-20 21:16:25.799    29.012183
+134                       LeBrOn 2025-10-20 20:08:50.453 2025-10-20 21:17:17.652    68.453317
+135     symonixprime serwerkaput 2025-10-20 20:43:52.788 2025-10-20 21:20:55.702    37.048567
+136                         zone 2025-10-20 21:13:35.469 2025-10-20 21:35:23.521    21.800867
+137                        szagh 2025-10-20 18:32:02.057 2025-10-20 21:37:48.436   185.772983
+138                       Jolero 2025-10-20 21:17:28.585 2025-10-20 21:55:45.614    38.283817
+139                      zwierek 2025-10-20 17:00:00.145 2025-10-20 22:05:00.262   305.001950
+140                      Figuana 2025-10-20 17:31:22.339 2025-10-20 22:17:28.295   286.099267
+141                       M@rcin 2025-10-20 21:13:58.975 2025-10-20 22:18:41.246    64.704517
+142                        siejA 2025-10-20 20:41:56.529 2025-10-20 22:53:58.447   132.031967
+143                      Piotrek 2025-10-20 21:12:34.940 2025-10-20 22:54:25.416   101.841267
+144                        szagh 2025-10-21 07:11:05.625 2025-10-21 07:20:22.792     9.286117
+145                      zwierek 2025-10-21 11:31:21.933 2025-10-21 13:06:07.552    94.760317
+146                      zwierek 2025-10-21 14:12:46.982 2025-10-21 14:30:29.800    17.713633
+147                       Jolero 2025-10-21 14:12:13.389 2025-10-21 16:34:23.837   142.174133
+148     symonixprime serwerkaput 2025-10-21 15:04:33.006 2025-10-21 16:35:10.325    90.621983
+149                       Jolero 2025-10-21 16:38:07.066 2025-10-21 16:38:12.971     0.098417
+150                     Kuno lis 2025-10-21 16:38:50.831 2025-10-21 17:09:33.639    30.713467
+151                        szagh 2025-10-21 16:55:33.408 2025-10-21 17:13:13.296    17.664800
+152     symonixprime serwerkaput 2025-10-21 16:49:14.289 2025-10-21 18:10:42.848    81.475983
+153                        siejA 2025-10-21 16:04:40.258 2025-10-21 18:47:30.090   162.830533
+154                       Jolero 2025-10-21 16:39:43.217 2025-10-21 19:20:21.474   160.637617
+155                        siejA 2025-10-21 19:10:26.271 2025-10-21 19:43:18.373    32.868367
+156                       M@rcin 2025-10-21 19:40:39.257 2025-10-21 19:59:20.436    18.686317
+157                        siejA 2025-10-21 20:42:15.667 2025-10-21 20:45:48.371     3.545067
+158                       M@rcin 2025-10-21 20:28:25.730 2025-10-21 21:17:05.697    48.666117
+159                        szagh 2025-10-21 20:38:56.783 2025-10-21 22:02:32.718    83.598917
+160                         zone 2025-10-21 15:36:54.386 2025-10-21 22:11:45.356   394.849500
+161                       M@rcin 2025-10-21 22:06:04.324 2025-10-21 22:22:23.981    16.327617
+162                      Piotrek 2025-10-21 16:25:51.732 2025-10-21 22:25:05.825   359.234883
+163                      Figuana 2025-10-21 19:19:41.627 2025-10-21 22:30:53.793   191.202767
+164                     Kuno lis 2025-10-21 21:37:38.108 2025-10-21 22:31:46.648    54.142333
+165                      zwierek 2025-10-21 17:19:25.189 2025-10-21 22:49:37.858   330.211150
+166                        siejA 2025-10-21 20:52:32.991 2025-10-21 22:50:14.068   117.684617
+167                       M@rcin 2025-10-22 07:07:52.539 2025-10-22 07:33:01.069    25.142167
+168                       Jolero 2025-10-22 09:15:30.937 2025-10-22 09:55:38.752    40.130250
+169                      zwierek 2025-10-22 12:39:30.675 2025-10-22 13:19:11.045    39.672833
+170                        szagh 2025-10-22 13:15:35.221 2025-10-22 15:08:23.097   112.797933
+171                        szagh 2025-10-22 15:24:04.657 2025-10-22 15:28:49.207     4.742500
+172                        wiciu 2025-10-22 16:45:12.666 2025-10-22 16:50:38.742     5.434600
+173                       Jolero 2025-10-22 15:35:45.837 2025-10-22 17:12:05.452    96.326917
+174                         zone 2025-10-22 16:15:56.526 2025-10-22 17:29:18.679    73.369217
+175                        siejA 2025-10-22 15:18:39.334 2025-10-22 17:34:17.718   135.639733
+176                        wiciu 2025-10-22 17:01:36.615 2025-10-22 17:52:41.008    51.073217
+177                      Figuana 2025-10-22 16:54:05.888 2025-10-22 19:21:19.896   147.233467
+178                       Jolero 2025-10-22 17:14:32.845 2025-10-22 19:22:10.302   127.624283
+179                       M@rcin 2025-10-22 19:09:49.783 2025-10-22 19:23:45.519    13.928933
+180                        szagh 2025-10-22 18:04:52.993 2025-10-22 19:27:59.445    83.107533
+181                        siejA 2025-10-22 18:25:24.934 2025-10-22 19:31:35.814    66.181333
+182                        wiciu 2025-10-22 19:14:07.550 2025-10-22 20:31:39.092    77.525700
+183                         zone 2025-10-22 18:39:52.740 2025-10-22 20:31:44.591   111.864183
+184                       Daniel 2025-10-22 19:57:04.348 2025-10-22 21:02:03.996    64.994133
+185                      zwierek 2025-10-22 16:01:27.358 2025-10-22 21:24:45.575   323.303617
+186                         zone 2025-10-22 20:46:13.158 2025-10-22 21:33:59.457    47.771650
+187                       Jolero 2025-10-22 21:26:37.030 2025-10-22 22:10:34.207    43.952950
+188                      Piotrek 2025-10-22 18:37:44.554 2025-10-22 22:20:18.484   222.565500
+189                       M@rcin 2025-10-22 19:43:23.917 2025-10-22 22:20:42.666   157.312483
+190                        siejA 2025-10-22 20:43:45.457 2025-10-22 22:28:41.280   104.930383
+191                       M@rcin 2025-10-22 22:21:28.588 2025-10-22 22:56:13.954    34.756100
+192                       Daniel 2025-10-22 22:38:44.293 2025-10-22 23:03:55.549    25.187600
+193                        szagh 2025-10-22 21:32:09.863 2025-10-22 23:22:22.001   110.202300
+194                      zwierek 2025-10-22 21:32:00.726 2025-10-22 23:24:24.453   112.395450
+195                       M@rcin 2025-10-23 01:58:07.100 2025-10-23 02:53:44.636    55.625600
+196                        siejA 2025-10-23 07:01:07.940 2025-10-23 07:12:38.478    11.508967
+197                       Jolero 2025-10-23 11:40:34.731 2025-10-23 12:33:48.683    53.232533
+198                      Piotrek 2025-10-23 11:46:18.082 2025-10-23 16:08:24.458   262.106267
+199                      zwierek 2025-10-23 10:51:29.974 2025-10-23 16:11:54.452   320.407967
+200                     Kuno lis 2025-10-23 16:14:06.836 2025-10-23 16:37:24.823    23.299783
+201                         zone 2025-10-23 16:39:22.971 2025-10-23 16:46:53.419     7.507467
+202                     Kuno lis 2025-10-23 16:38:33.549 2025-10-23 18:34:47.845   116.238267
+203                        szagh 2025-10-23 17:47:29.319 2025-10-23 19:53:45.862   126.275717
+204                         User 2025-10-23 19:54:47.155 2025-10-23 19:56:55.587     2.140533
+205                      zwierek 2025-10-23 16:23:16.439 2025-10-23 20:10:53.979   227.625667
+206                         zone 2025-10-23 16:52:39.176 2025-10-23 20:32:33.682   219.908433
+207                      Piotrek 2025-10-23 17:14:45.204 2025-10-23 20:33:13.079   198.464583
+208                       Jolero 2025-10-23 13:31:31.319 2025-10-23 20:34:58.533   423.453567
+209                     Kuno lis 2025-10-23 19:05:18.654 2025-10-23 20:46:07.001   100.805783
+210                        siejA 2025-10-23 16:53:42.630 2025-10-23 20:57:29.537   243.781783
+211                       M@rcin 2025-10-23 19:05:04.426 2025-10-23 21:31:13.003   146.142950
+212                      zwierek 2025-10-23 20:11:32.863 2025-10-23 22:01:19.687   109.780400
+213                        szagh 2025-10-23 20:29:36.283 2025-10-23 22:08:11.328    98.584083
+214               hubsonwaliszot 2025-10-23 20:02:01.222 2025-10-23 22:26:56.868   144.927433
+215               hubsonwaliszot 2025-10-23 22:30:07.653 2025-10-23 22:42:54.081    12.773800
+216                        siejA 2025-10-23 23:13:02.037 2025-10-23 23:18:50.108     5.801183
+217                       Daniel 2025-10-23 18:07:00.628 2025-10-24 00:32:01.086   385.007633
+218               hubsonwaliszot 2025-10-23 22:48:40.841 2025-10-24 00:32:07.731   103.448167
+219                       M@rcin 2025-10-24 06:52:00.781 2025-10-24 07:25:55.897    33.918600
+220                        siejA 2025-10-24 07:19:49.973 2025-10-24 07:26:22.566     6.543217
+221                        szagh 2025-10-24 08:39:34.311 2025-10-24 09:01:04.263    21.499200
+222                        szagh 2025-10-24 09:02:33.352 2025-10-24 09:44:28.621    41.921150
+223                       Jolero 2025-10-24 11:05:27.389 2025-10-24 12:20:38.623    75.187233
+224                      zwierek 2025-10-24 11:34:14.105 2025-10-24 12:22:44.521    48.506933
+225                        szagh 2025-10-24 12:20:20.660 2025-10-24 12:23:05.926     2.754433
+226                        szagh 2025-10-24 12:54:43.536 2025-10-24 13:00:56.601     6.217750
+227                       Daniel 2025-10-24 13:41:26.318 2025-10-24 14:30:01.853    48.592250
+228                        siejA 2025-10-24 15:32:43.440 2025-10-24 15:36:51.497     4.134283
+229                        siejA 2025-10-24 15:39:28.946 2025-10-24 15:41:55.821     2.447917
+230                       Jolero 2025-10-24 12:38:42.863 2025-10-24 16:11:36.493   212.893833
+231                         zone 2025-10-24 17:00:39.961 2025-10-24 17:03:43.432     3.057850
+232                       M@rcin 2025-10-24 16:50:22.454 2025-10-24 17:06:39.454    16.283333
+233                      zwierek 2025-10-24 12:50:16.404 2025-10-24 17:49:02.506   298.768367
+234                       Jolero 2025-10-24 16:13:08.686 2025-10-24 17:49:09.795    96.018483
+235               hubsonwaliszot 2025-10-24 17:40:23.542 2025-10-24 18:06:47.623    26.401350
+236                        szagh 2025-10-24 14:35:50.614 2025-10-24 19:20:20.675   284.501017
+237                         zone 2025-10-24 17:05:54.739 2025-10-24 19:36:30.692   150.599217
+238                      Piotrek 2025-10-24 16:21:31.250 2025-10-24 19:43:04.011   201.546017
+239                        szagh 2025-10-24 19:35:42.202 2025-10-24 20:20:54.590    45.206467
+240                       M@rcin 2025-10-24 20:17:19.215 2025-10-24 20:26:50.148     9.515550
+241     symonixprime serwerkaput 2025-10-24 18:43:08.121 2025-10-24 20:45:00.703   121.876367
+242                        szagh 2025-10-24 20:30:50.213 2025-10-24 20:58:02.675    27.207700
+243                       M@rcin 2025-10-24 20:52:05.027 2025-10-24 21:17:47.992    25.716083
+244                        siejA 2025-10-24 16:00:26.367 2025-10-24 21:49:08.682   348.705250
+245                       LeBrOn 2025-10-24 21:22:58.841 2025-10-24 22:28:05.710    65.114483
+246                       Daniel 2025-10-24 20:23:13.291 2025-10-24 22:39:50.191   136.615000
+247               hubsonwaliszot 2025-10-24 20:03:54.245 2025-10-24 22:42:50.439   158.936567
+248                      zwierek 2025-10-24 19:15:54.771 2025-10-24 23:07:50.882   231.935183
+249                        siejA 2025-10-24 23:10:43.827 2025-10-24 23:13:36.637     2.880167
+250                         zone 2025-10-24 23:48:35.115 2025-10-25 00:48:29.163    59.900800
+251                         zone 2025-10-25 01:32:59.488 2025-10-25 04:12:42.575   159.718117
+252                        siejA 2025-10-25 06:07:55.814 2025-10-25 06:33:28.808    25.549900
+253                       M@rcin 2025-10-25 06:40:24.363 2025-10-25 07:44:09.891    63.758800
+254                         zone 2025-10-25 09:27:34.653 2025-10-25 09:56:36.953    29.038333
+255                        szagh 2025-10-25 06:42:39.257 2025-10-25 10:28:54.114   226.247617
+256                       Jolero 2025-10-25 10:25:13.228 2025-10-25 10:55:52.434    30.653433
+257                       Jolero 2025-10-25 11:12:27.220 2025-10-25 11:26:25.219    13.966650
+258                         zone 2025-10-25 09:58:52.464 2025-10-25 12:18:48.436   139.932867
+259                       Jolero 2025-10-25 12:28:59.233 2025-10-25 13:44:20.484    75.354183
+260                      zwierek 2025-10-25 09:50:20.680 2025-10-25 14:16:52.415   266.528917
+261                       Jolero 2025-10-25 15:01:11.262 2025-10-25 15:10:49.015     9.629217
+262                         zone 2025-10-25 12:24:49.103 2025-10-25 15:34:39.409   189.838433
+263     symonixprime serwerkaput 2025-10-25 11:41:01.128 2025-10-25 16:04:38.291   263.619383
+264                       Jolero 2025-10-25 15:17:58.343 2025-10-25 16:41:03.780    83.090617
+265                       Jolero 2025-10-25 16:48:02.089 2025-10-25 17:08:36.625    20.575600
+266                      zwierek 2025-10-25 14:26:06.201 2025-10-25 17:37:00.994   190.913217
+267                         zone 2025-10-25 17:52:15.132 2025-10-25 18:01:03.573     8.807350
+268                        siejA 2025-10-25 14:34:11.433 2025-10-25 18:25:15.609   231.069600
+269                        siejA 2025-10-25 18:27:25.905 2025-10-25 18:31:38.018     4.201883
+270                        siejA 2025-10-25 18:33:04.079 2025-10-25 18:55:38.385    22.571767
+271                       Daniel 2025-10-25 19:56:35.863 2025-10-25 20:26:17.053    29.686500
+272                       M@rcin 2025-10-25 19:59:16.864 2025-10-25 20:41:53.181    42.605283
+273     symonixprime serwerkaput 2025-10-25 20:13:23.596 2025-10-25 21:02:17.538    48.899033
+274                        siejA 2025-10-25 20:02:01.967 2025-10-25 21:51:04.537   109.042833
+275                       M@rcin 2025-10-25 20:51:42.846 2025-10-25 22:11:23.521    79.677917
+276                       Daniel 2025-10-25 20:26:56.273 2025-10-25 22:53:24.464   146.469850
+277               hubsonwaliszot 2025-10-25 18:28:25.567 2025-10-25 22:57:59.470   269.565050
+278                        siejA 2025-10-25 22:59:03.636 2025-10-25 23:29:01.600    29.966067
+279                       Jolero 2025-10-25 23:27:23.486 2025-10-26 00:11:55.438    44.532533
+280                       Daniel 2025-10-25 23:06:41.413 2025-10-26 00:12:06.159    65.412433
+281               hubsonwaliszot 2025-10-25 23:03:41.779 2025-10-26 00:12:14.945    68.552767
+282                      zwierek 2025-10-25 19:14:13.162 2025-10-26 00:12:21.017   298.130917
+283                       Daniel 2025-10-26 02:30:12.454 2025-10-26 02:30:29.325     0.281183
+284                       Daniel 2025-10-26 02:33:08.817 2025-10-26 02:54:38.028    21.486850
+285               hubsonwaliszot 2025-10-26 02:31:30.065 2025-10-26 02:55:18.156    23.801517
+286     symonixprime serwerkaput 2025-10-26 07:15:28.481 2025-10-26 07:19:07.060     3.642983
+287                       M@rcin 2025-10-26 06:38:58.784 2025-10-26 07:45:30.228    66.524067
+288               hubsonwaliszot 2025-10-26 07:57:55.667 2025-10-26 08:08:32.883    10.620267
+289               hubsonwaliszot 2025-10-26 08:12:09.795 2025-10-26 08:19:26.143     7.272467
+290                         zone 2025-10-26 07:36:06.176 2025-10-26 09:07:04.042    90.964433
+291                         zone 2025-10-26 09:13:12.334 2025-10-26 09:43:54.755    30.707017
+292                       Jolero 2025-10-26 09:09:15.777 2025-10-26 10:10:54.351    61.642900
+293                      zwierek 2025-10-26 09:17:25.530 2025-10-26 10:11:00.021    53.574850
+294                         zone 2025-10-26 10:08:02.372 2025-10-26 10:11:13.342     3.182833
+295                       M@rcin 2025-10-26 09:25:25.628 2025-10-26 10:11:15.468    45.830667
+296     symonixprime serwerkaput 2025-10-26 07:21:50.054 2025-10-26 10:11:16.680   169.443767
+297                      zwierek 2025-10-26 10:34:43.140 2025-10-26 10:44:23.586     9.674100
+298                       M@rcin 2025-10-26 10:21:17.186 2025-10-26 10:44:38.735    23.359150
+299                       Jolero 2025-10-26 10:18:30.465 2025-10-26 11:44:24.453    85.899800
+300                        siejA 2025-10-26 07:14:14.485 2025-10-26 12:01:44.911   287.507100
+301                        siejA 2025-10-26 12:02:42.969 2025-10-26 12:04:20.805     1.630600
+302                        siejA 2025-10-26 12:07:10.199 2025-10-26 12:07:55.067     0.747800
+303                      zwierek 2025-10-26 11:12:12.811 2025-10-26 12:34:15.345    82.042233
+304     symonixprime serwerkaput 2025-10-26 12:10:07.666 2025-10-26 12:35:46.848    25.653033
+305                      Figuana 2025-10-26 11:41:06.142 2025-10-26 13:09:01.617    87.924583
+306                        siejA 2025-10-26 12:09:20.088 2025-10-26 13:33:19.841    83.995883
+307                       Jolero 2025-10-26 13:20:22.431 2025-10-26 13:33:20.793    12.972700
+308               hubsonwaliszot 2025-10-26 13:24:11.484 2025-10-26 13:33:31.333     9.330817
+309                         zone 2025-10-26 10:22:12.074 2025-10-26 13:36:16.166   194.068200
+310                       Daniel 2025-10-26 14:47:38.383 2025-10-26 15:15:45.142    28.112650
+311                       M@rcin 2025-10-26 14:52:35.673 2025-10-26 16:21:01.002    88.422150
+312               045 Polskinoob 2025-10-26 15:08:12.590 2025-10-26 16:28:23.008    80.173633
+313                       Daniel 2025-10-26 15:16:36.503 2025-10-26 16:45:54.525    89.300367
+314     symonixprime serwerkaput 2025-10-26 15:12:56.298 2025-10-26 17:16:28.658   123.539333
+315                       Jolero 2025-10-26 14:43:59.946 2025-10-26 17:59:35.190   195.587400
+316     symonixprime serwerkaput 2025-10-26 17:57:40.024 2025-10-26 18:01:29.173     3.819150
+317                        siejA 2025-10-26 18:23:44.745 2025-10-26 18:25:01.767     1.283700
+318               hubsonwaliszot 2025-10-26 14:47:45.642 2025-10-26 18:43:39.815   235.902883
+319                        siejA 2025-10-26 18:25:27.930 2025-10-26 18:49:30.089    24.035983
+320                       Daniel 2025-10-26 16:48:07.493 2025-10-26 18:50:32.111   122.410300
+321                         zone 2025-10-26 18:22:26.132 2025-10-26 19:07:17.119    44.849783
+322                       M@rcin 2025-10-26 17:50:33.955 2025-10-26 19:37:33.817   106.997700
+323                        siejA 2025-10-26 19:03:01.703 2025-10-26 20:12:24.665    69.382700
+324     symonixprime serwerkaput 2025-10-26 18:03:09.810 2025-10-26 20:22:07.727   138.965283
+325                         zone 2025-10-26 19:49:02.029 2025-10-26 21:01:00.852    71.980383
+326                       M@rcin 2025-10-26 20:21:58.021 2025-10-26 22:03:17.420   101.323317
+327                       M@rcin 2025-10-26 22:35:37.081 2025-10-26 22:46:02.330    10.420817
+328                        siejA 2025-10-26 20:19:27.315 2025-10-26 23:39:44.357   200.284033
+329                        szagh 2025-10-26 21:39:48.374 2025-10-26 23:39:51.216   120.047367
+330                         zone 2025-10-26 21:59:54.757 2025-10-26 23:40:09.376   100.243650
+331                       Jolero 2025-10-26 21:32:54.736 2025-10-26 23:44:39.505   131.746150
+332                      zwierek 2025-10-26 16:47:48.599 2025-10-27 00:09:48.684   442.001417
+333               hubsonwaliszot 2025-10-26 21:30:28.191 2025-10-27 00:10:01.645   159.557567
+334               hubsonwaliszot 2025-10-27 06:23:16.785 2025-10-27 06:42:32.799    19.266900
+335                       M@rcin 2025-10-27 06:57:47.304 2025-10-27 07:02:20.762     4.557633
+336                        siejA 2025-10-27 06:42:22.774 2025-10-27 07:40:29.092    58.105300
+337                      zwierek 2025-10-27 08:43:04.895 2025-10-27 09:37:41.063    54.602800
+338     symonixprime serwerkaput 2025-10-27 09:40:21.734 2025-10-27 10:09:09.871    28.802283
+339     symonixprime serwerkaput 2025-10-27 11:33:34.266 2025-10-27 11:58:49.450    25.253067
+340                      zwierek 2025-10-27 10:26:13.140 2025-10-27 14:16:17.632   230.074867
+341               hubsonwaliszot 2025-10-27 15:30:02.528 2025-10-27 15:36:45.246     6.711967
+342                      zwierek 2025-10-27 15:10:04.632 2025-10-27 16:22:30.721    72.434817
+343                       Jolero 2025-10-27 15:25:17.851 2025-10-27 16:22:47.096    57.487417
+344                      Figuana 2025-10-27 16:23:57.610 2025-10-27 16:36:09.823    12.203550
+345                      zwierek 2025-10-27 16:29:54.159 2025-10-27 16:42:26.622    12.541050
+346                        szagh 2025-10-27 17:14:25.071 2025-10-27 17:15:36.376     1.188417
+347                       Jolero 2025-10-27 16:36:17.982 2025-10-27 17:34:25.021    58.117317
+348                       Daniel 2025-10-27 17:17:04.826 2025-10-27 17:36:30.587    19.429350
+349               hubsonwaliszot 2025-10-27 15:39:13.397 2025-10-27 17:36:56.652   117.720917
+350                      zwierek 2025-10-27 17:08:27.839 2025-10-27 17:45:42.221    37.239700
+351                        szagh 2025-10-27 17:16:21.262 2025-10-27 17:50:18.377    33.951917
+352                      zwierek 2025-10-27 18:34:44.432 2025-10-27 18:38:01.486     3.284233
+353                       Jolero 2025-10-27 19:07:14.776 2025-10-27 19:34:47.019    27.537383
+354                      zwierek 2025-10-27 19:07:08.877 2025-10-27 19:35:12.529    28.060867
+355                        siejA 2025-10-27 18:48:10.642 2025-10-27 19:39:35.405    51.412717
+356                       Daniel 2025-10-27 19:09:56.748 2025-10-27 20:07:49.848    57.885000
+357                       M@rcin 2025-10-27 19:43:27.898 2025-10-27 20:25:53.657    42.429317
+358                        siejA 2025-10-27 19:54:35.835 2025-10-27 20:35:03.614    40.462983
+359                       Jolero 2025-10-27 19:56:28.779 2025-10-27 21:20:07.939    83.652667
+360                       Jolero 2025-10-27 21:21:03.051 2025-10-27 21:25:59.769     4.945300
+361                       Jolero 2025-10-27 21:27:15.968 2025-10-27 21:32:23.701     5.128883
+362                       Jolero 2025-10-27 21:33:57.044 2025-10-27 21:38:12.219     4.252917
+363                        siejA 2025-10-27 21:01:43.086 2025-10-27 21:43:57.501    42.240250
+364                       Jolero 2025-10-27 21:42:10.762 2025-10-27 21:56:22.680    14.198633
+365                       Jolero 2025-10-27 21:57:40.985 2025-10-27 22:02:30.524     4.825650
+366                      Figuana 2025-10-27 16:37:00.466 2025-10-27 22:11:52.002   334.858933
+367                       M@rcin 2025-10-27 20:39:11.710 2025-10-27 22:22:41.080   103.489500
+368                      Figuana 2025-10-27 22:23:47.548 2025-10-27 22:27:06.287     3.312317
+369                       M@rcin 2025-10-27 22:27:20.878 2025-10-27 22:43:21.461    16.009717
+370                      Piotrek 2025-10-27 16:51:54.595 2025-10-27 22:43:24.704   351.501817
+371                        siejA 2025-10-27 22:07:22.109 2025-10-27 22:43:40.879    36.312833
+372                         zone 2025-10-27 16:47:55.410 2025-10-27 22:43:44.558   355.819133
+373                       LeBrOn 2025-10-27 21:21:57.510 2025-10-27 22:44:40.118    82.710133
+374                      zwierek 2025-10-27 19:35:53.460 2025-10-27 22:51:55.380   196.032000
+375                      Figuana 2025-10-27 22:28:46.937 2025-10-27 23:01:40.377    32.890667
+376                      zwierek 2025-10-27 22:52:58.266 2025-10-27 23:50:21.870    57.393400
+377               hubsonwaliszot 2025-10-27 19:27:24.427 2025-10-28 01:32:58.944   365.575283
+378                        siejA 2025-10-28 06:42:58.454 2025-10-28 07:19:10.930    36.207933
+379                       M@rcin 2025-10-28 07:12:15.682 2025-10-28 07:26:58.509    14.713783
+380     symonixprime serwerkaput 2025-10-28 07:51:48.429 2025-10-28 09:53:25.451   121.617033
+381     symonixprime serwerkaput 2025-10-28 10:02:33.500 2025-10-28 10:17:07.106    14.560100
+382                      zwierek 2025-10-28 10:49:05.414 2025-10-28 13:41:01.076   171.927700
+383                      zwierek 2025-10-28 15:57:54.648 2025-10-28 16:02:24.803     4.502583
+384                      zwierek 2025-10-28 16:03:09.418 2025-10-28 16:05:27.290     2.297867
+385                      Piotrek 2025-10-28 13:58:00.357 2025-10-28 16:22:56.844   144.941450
+386                       Jolero 2025-10-28 16:19:24.832 2025-10-28 16:23:14.299     3.824450
+387                       Jolero 2025-10-28 16:25:46.969 2025-10-28 16:29:35.021     3.800867
+388                      zwierek 2025-10-28 16:16:28.693 2025-10-28 16:32:54.327    16.427233
+389                       Jolero 2025-10-28 16:31:35.427 2025-10-28 16:33:37.864     2.040617
+390               hubsonwaliszot 2025-10-28 16:32:43.905 2025-10-28 16:33:50.580     1.111250
+391                         zone 2025-10-28 16:26:00.495 2025-10-28 16:35:36.748     9.604217
+392                       Jolero 2025-10-28 16:37:26.017 2025-10-28 16:41:34.282     4.137750
+393                       M@rcin 2025-10-28 16:27:59.789 2025-10-28 16:41:56.266    13.941283
+394                         zone 2025-10-28 16:36:25.471 2025-10-28 16:42:21.989     5.941967
+395                       Jolero 2025-10-28 16:43:18.375 2025-10-28 16:48:25.360     5.116417
+396                       Jolero 2025-10-28 16:50:25.721 2025-10-28 17:00:53.064    10.455717
+397                       Jolero 2025-10-28 17:02:12.562 2025-10-28 17:03:41.700     1.485633
+398                      zwierek 2025-10-28 16:58:03.233 2025-10-28 17:14:13.165    16.165533
+399                      Piotrek 2025-10-28 16:23:31.593 2025-10-28 17:20:13.257    56.694400
+400                        szagh 2025-10-28 16:18:07.079 2025-10-28 17:21:42.886    63.596783
+401                         zone 2025-10-28 16:44:39.838 2025-10-28 17:23:24.407    38.742817
+402                      Piotrek 2025-10-28 17:20:43.661 2025-10-28 17:23:41.444     2.963050
+403                       Jolero 2025-10-28 17:05:00.611 2025-10-28 17:27:02.069    22.024300
+404                      zwierek 2025-10-28 17:14:58.266 2025-10-28 17:27:14.812    12.275767
+405                       Jolero 2025-10-28 17:27:44.307 2025-10-28 17:29:48.677     2.072833
+406                      zwierek 2025-10-28 17:30:58.476 2025-10-28 17:32:40.699     1.703717
+407                         zone 2025-10-28 17:25:18.296 2025-10-28 17:33:50.121     8.530417
+408                       Jolero 2025-10-28 17:42:48.397 2025-10-28 17:44:32.767     1.739500
+409                        siejA 2025-10-28 17:07:21.507 2025-10-28 17:50:40.970    43.324383
+410                        siejA 2025-10-28 17:51:09.922 2025-10-28 17:56:23.145     5.220383
+411                       Jolero 2025-10-28 18:03:28.373 2025-10-28 18:10:18.535     6.836033
+412                        siejA 2025-10-28 18:32:30.012 2025-10-28 18:34:29.333     1.988683
+413                        siejA 2025-10-28 18:34:57.053 2025-10-28 18:41:00.479     6.057100
+414                        siejA 2025-10-28 18:41:29.039 2025-10-28 18:42:34.194     1.085917
+415                       M@rcin 2025-10-28 18:36:15.835 2025-10-28 18:44:47.796     8.532683
+416                       Jolero 2025-10-28 18:29:10.827 2025-10-28 18:47:33.028    18.370017
+417                         zone 2025-10-28 17:35:05.732 2025-10-28 18:51:42.026    76.604900
+418                       Jolero 2025-10-28 18:50:44.630 2025-10-28 18:52:34.045     1.823583
+419                       M@rcin 2025-10-28 18:49:06.339 2025-10-28 18:54:15.588     5.154150
+420                         zone 2025-10-28 18:54:42.291 2025-10-28 19:05:35.049    10.879300
+421                       Jolero 2025-10-28 18:55:08.725 2025-10-28 19:08:33.248    13.408717
+422                        siejA 2025-10-28 18:43:00.542 2025-10-28 19:13:12.336    30.196567
+423                      Piotrek 2025-10-28 17:24:25.789 2025-10-28 19:28:45.686   124.331617
+424                       Jolero 2025-10-28 19:19:33.682 2025-10-28 19:28:59.747     9.434417
+425                       Jolero 2025-10-28 19:30:05.609 2025-10-28 19:35:05.021     4.990200
+426                         zone 2025-10-28 19:08:15.353 2025-10-28 19:36:00.747    27.756567
+427               hubsonwaliszot 2025-10-28 16:36:33.110 2025-10-28 19:36:43.694   180.176400
+428                      Piotrek 2025-10-28 19:30:31.151 2025-10-28 19:41:23.832    10.878017
+429                       M@rcin 2025-10-28 18:54:59.994 2025-10-28 19:42:14.690    47.244933
+430                         zone 2025-10-28 19:36:43.435 2025-10-28 19:44:30.216     7.779683
+431                        siejA 2025-10-28 19:42:21.844 2025-10-28 19:51:20.801     8.982617
+432                      zwierek 2025-10-28 19:47:40.796 2025-10-28 20:02:58.517    15.295350
+433                        szagh 2025-10-28 17:24:15.049 2025-10-28 20:09:07.944   164.881583
+434                         zone 2025-10-28 19:45:54.686 2025-10-28 20:11:30.807    25.602017
+435                       M@rcin 2025-10-28 20:46:00.328 2025-10-28 21:04:17.579    18.287517
+436                       M@rcin 2025-10-28 21:05:33.530 2025-10-28 21:08:20.011     2.774683
+437               hubsonwaliszot 2025-10-28 20:46:08.369 2025-10-28 21:38:40.560    52.536517
+438                       Jolero 2025-10-28 20:48:07.942 2025-10-28 21:39:34.928    51.449767
+439                       M@rcin 2025-10-28 21:09:37.299 2025-10-28 21:48:59.540    39.370683
+440               hubsonwaliszot 2025-10-28 21:41:57.290 2025-10-28 21:51:59.799    10.041817
+441               hubsonwaliszot 2025-10-28 21:56:53.174 2025-10-28 22:07:52.592    10.990300
+442                       Jolero 2025-10-28 21:44:26.763 2025-10-28 22:12:54.810    28.467450
+443                         zone 2025-10-28 22:17:54.970 2025-10-28 22:24:37.095     6.702083
+444               hubsonwaliszot 2025-10-28 22:09:50.798 2025-10-28 22:27:03.647    17.214150
+445                        siejA 2025-10-28 22:32:36.913 2025-10-28 22:33:15.038     0.635417
+446                        siejA 2025-10-28 22:34:18.754 2025-10-28 22:35:22.671     1.065283
+447                      zwierek 2025-10-28 22:32:29.523 2025-10-28 22:36:04.880     3.589283
+448                      Figuana 2025-10-28 21:52:57.968 2025-10-28 22:43:46.998    50.817167
+449                        siejA 2025-10-28 22:36:15.351 2025-10-28 22:53:01.544    16.769883
+450                         zone 2025-10-28 22:27:08.724 2025-10-28 22:53:25.922    26.286633
+451               hubsonwaliszot 2025-10-28 22:28:49.498 2025-10-28 23:09:32.649    40.719183
+452                         zone 2025-10-28 23:08:52.687 2025-10-28 23:10:41.112     1.807083
+453                         zone 2025-10-28 23:13:12.015 2025-10-28 23:17:07.499     3.924733
+454                      zwierek 2025-10-28 22:36:53.069 2025-10-28 23:37:06.598    60.225483
+455                      zwierek 2025-10-28 23:37:45.342 2025-10-28 23:39:22.387     1.617417
+456                       Jolero 2025-10-29 00:07:52.001 2025-10-29 00:12:08.987     4.283100
+457                       Jolero 2025-10-29 00:26:31.953 2025-10-29 00:30:35.253     4.055000
+458                      zwierek 2025-10-28 23:39:57.131 2025-10-29 00:43:07.787    63.177600
+459                       Jolero 2025-10-29 00:34:57.326 2025-10-29 00:44:37.444     9.668633
+460               hubsonwaliszot 2025-10-28 23:11:46.365 2025-10-29 00:49:32.625    97.771000
+461                      zwierek 2025-10-29 00:44:24.171 2025-10-29 01:02:55.485    18.521900
+462               hubsonwaliszot 2025-10-29 00:52:33.943 2025-10-29 01:12:00.444    19.441683
+463               hubsonwaliszot 2025-10-29 01:14:41.518 2025-10-29 01:43:38.532    28.950233
+464               hubsonwaliszot 2025-10-29 01:46:33.422 2025-10-29 01:56:03.724     9.505033
+465                        siejA 2025-10-29 06:59:45.344 2025-10-29 07:16:40.222    16.914633
+466                       M@rcin 2025-10-29 07:10:25.265 2025-10-29 07:25:23.935    14.977833
+467                      zwierek 2025-10-29 09:42:03.124 2025-10-29 10:07:31.213    25.468150
+468                       Jolero 2025-10-29 10:47:18.203 2025-10-29 10:50:03.578     2.756250
+469                      Piotrek 2025-10-29 10:51:05.867 2025-10-29 10:53:10.412     2.075750
+470                       Jolero 2025-10-29 10:50:40.954 2025-10-29 11:06:15.078    15.568733
+471                       Jolero 2025-10-29 11:06:58.083 2025-10-29 11:08:17.070     1.316450
+472                      Piotrek 2025-10-29 11:20:29.189 2025-10-29 11:23:31.696     3.041783
+473     symonixprime serwerkaput 2025-10-29 10:52:19.939 2025-10-29 11:27:03.795    34.730933
+474                       Jolero 2025-10-29 11:09:11.641 2025-10-29 11:28:02.278    18.843950
+475                      zwierek 2025-10-29 11:21:57.129 2025-10-29 11:37:57.975    16.014100
+476     symonixprime serwerkaput 2025-10-29 11:49:02.612 2025-10-29 11:54:41.559     5.649117
+477                      Piotrek 2025-10-29 12:06:39.983 2025-10-29 12:14:55.953     8.266167
+478                       Jolero 2025-10-29 11:47:35.957 2025-10-29 12:20:33.846    32.964817
+479     symonixprime serwerkaput 2025-10-29 11:55:49.210 2025-10-29 12:38:15.127    42.431950
+480                      Piotrek 2025-10-29 12:15:30.311 2025-10-29 12:42:36.752    27.107350
+481                      Piotrek 2025-10-29 12:43:07.762 2025-10-29 13:17:46.097    34.638917
+482                       Jolero 2025-10-29 13:40:07.763 2025-10-29 14:16:32.753    36.416500
+483                        siejA 2025-10-29 15:30:42.610 2025-10-29 16:06:56.168    36.225967
+484                        siejA 2025-10-29 16:17:23.486 2025-10-29 16:20:04.730     2.687400
+485                      Piotrek 2025-10-29 13:19:01.714 2025-10-29 16:50:40.640   211.648767
+486                         zone 2025-10-29 17:19:22.534 2025-10-29 17:44:55.765    25.553850
+487                      Piotrek 2025-10-29 17:20:41.946 2025-10-29 17:45:41.009    24.984383
+488                        siejA 2025-10-29 16:20:29.281 2025-10-29 17:45:52.318    85.383950
+489                      zwierek 2025-10-29 11:38:43.214 2025-10-29 18:03:55.716   385.208367
+490                       Jolero 2025-10-29 14:34:01.547 2025-10-29 18:05:57.438   211.931517
+491                      Figuana 2025-10-29 17:18:35.841 2025-10-29 18:06:21.746    47.765083
+492                       Jolero 2025-10-29 19:01:25.851 2025-10-29 20:04:02.710    62.614317
+493                        szagh 2025-10-29 19:41:39.548 2025-10-29 20:25:52.878    44.222167
+494                      Piotrek 2025-10-29 19:04:35.073 2025-10-29 20:31:46.663    87.193167
+495                        siejA 2025-10-29 20:55:58.219 2025-10-29 20:56:26.016     0.463283
+496                       M@rcin 2025-10-29 19:55:43.008 2025-10-29 21:25:47.355    90.072450
+497                       Jolero 2025-10-29 20:19:11.154 2025-10-29 21:47:20.850    88.161600
+498                      zwierek 2025-10-29 20:56:11.151 2025-10-29 21:47:45.684    51.575550
+499                      Figuana 2025-10-29 19:01:40.052 2025-10-29 22:19:09.660   197.493467
+500                         zone 2025-10-29 20:56:37.369 2025-10-29 22:40:10.950   103.559683
+501                        siejA 2025-10-29 20:56:54.724 2025-10-29 22:49:23.161   112.473950
+502     symonixprime serwerkaput 2025-10-29 22:39:09.352 2025-10-29 23:06:11.037    27.028083
+503               hubsonwaliszot 2025-10-29 17:15:58.613 2025-10-29 23:23:48.840   367.837117
+504                        siejA 2025-10-30 06:49:20.033 2025-10-30 07:06:36.535    17.275033
+505                       Jolero 2025-10-30 09:27:59.953 2025-10-30 09:44:07.603    16.127500
+506                         siwa 2025-10-29 15:39:03.394 2025-10-30 10:40:14.177  1141.179717
+507     symonixprime serwerkaput 2025-10-30 10:43:05.202 2025-10-30 11:22:30.481    39.421317
+508                       Jolero 2025-10-30 11:40:27.868 2025-10-30 15:08:47.512   208.327400
+509               hubsonwaliszot 2025-10-30 14:59:11.606 2025-10-30 15:08:53.080     9.691233
+510                         siwa 2025-10-30 11:09:55.881 2025-10-30 15:08:53.825   238.965733
+511                        szagh 2025-10-30 16:05:05.216 2025-10-30 16:08:13.652     3.140600
+512                         siwa 2025-10-30 15:58:58.915 2025-10-30 17:19:26.387    80.457867
+513                       Jolero 2025-10-30 15:38:35.399 2025-10-30 17:26:47.745   108.205767
+514               hubsonwaliszot 2025-10-30 16:54:51.083 2025-10-30 17:26:54.633    32.059167
+515                        szagh 2025-10-30 16:08:29.374 2025-10-30 17:34:45.017    86.260717
+516                      zwierek 2025-10-30 10:27:45.553 2025-10-30 18:37:58.111   490.209300
+517                         zone 2025-10-30 15:55:09.720 2025-10-30 18:44:07.525   168.963417
+518                        siejA 2025-10-30 17:49:09.985 2025-10-30 18:47:21.757    58.196200
+519                        szagh 2025-10-30 18:30:04.841 2025-10-30 19:05:38.875    35.567233
+520                       Jolero 2025-10-30 18:41:24.095 2025-10-30 20:23:31.238   102.119050
+521                      zwierek 2025-10-30 19:46:15.346 2025-10-30 21:01:58.987    75.727350
+522                       M@rcin 2025-10-30 19:35:48.942 2025-10-30 21:07:35.333    91.773183
+523                      Piotrek 2025-10-30 20:40:51.819 2025-10-30 21:12:48.015    31.936600
+524                       M@rcin 2025-10-30 21:35:07.396 2025-10-30 22:01:03.723    25.938783
+525               hubsonwaliszot 2025-10-30 18:43:26.558 2025-10-30 22:11:04.836   207.637967
+526                       M@rcin 2025-10-30 22:02:51.661 2025-10-30 22:24:01.091    21.157167
+527                         zone 2025-10-30 22:38:06.625 2025-10-30 22:47:30.651     9.400433
+528                      zwierek 2025-10-30 23:35:22.556 2025-10-30 23:38:57.199     3.577383
+529                         zone 2025-10-31 05:35:06.581 2025-10-31 05:50:20.018    15.223950
+530                       M@rcin 2025-10-31 06:28:39.855 2025-10-31 06:52:08.955    23.485000
+531                        siejA 2025-10-31 06:57:39.936 2025-10-31 07:22:01.219    24.354717
+532                       Jolero 2025-10-31 08:34:03.370 2025-10-31 08:52:43.535    18.669417
+533   symonixprime nie ten znany 2025-10-31 09:03:00.795 2025-10-31 09:06:47.113     3.771967
+534   symonixprime nie ten znany 2025-10-31 09:08:03.674 2025-10-31 09:13:46.206     5.708867
+535                      zwierek 2025-10-31 09:31:54.515 2025-10-31 10:00:36.006    28.691517
+536                      zwierek 2025-10-31 10:01:15.830 2025-10-31 10:01:23.871     0.134017
+537                      Piotrek 2025-10-31 10:05:34.194 2025-10-31 10:23:25.692    17.858300
+538                      zwierek 2025-10-31 10:13:18.703 2025-10-31 11:05:14.525    51.930367
+539                       Jolero 2025-10-31 10:11:01.721 2025-10-31 13:14:26.995   183.421233
+540                      Piotrek 2025-10-31 10:23:57.349 2025-10-31 13:15:25.853   171.475067
+541                       Jolero 2025-10-31 14:10:46.610 2025-10-31 15:38:20.009    87.556650
+542                      Piotrek 2025-10-31 14:09:36.721 2025-10-31 16:13:58.704   124.366383
+543                      zwierek 2025-10-31 11:15:30.072 2025-10-31 16:49:04.150   333.567967
+544                       Jolero 2025-10-31 18:27:38.257 2025-10-31 18:33:28.460     5.836717
+545                      Figuana 2025-10-31 17:41:52.869 2025-10-31 18:33:47.006    51.902283
+546                       Jolero 2025-10-31 18:56:02.288 2025-10-31 19:30:51.655    34.822783
+547                       M@rcin 2025-10-31 19:12:14.126 2025-10-31 19:46:59.339    34.753550
+548               hubsonwaliszot 2025-10-31 17:17:16.008 2025-10-31 20:18:50.832   181.580400
+549                         zone 2025-10-31 17:58:25.114 2025-10-31 20:30:28.598   152.058067
+550               hubsonwaliszot 2025-10-31 20:25:06.104 2025-10-31 20:46:30.205    21.401683
+551                      zwierek 2025-10-31 20:44:10.160 2025-10-31 20:52:28.645     8.308083
+552                         zone 2025-10-31 20:31:32.873 2025-10-31 21:21:10.191    49.621967
+553                        siejA 2025-10-31 19:06:33.776 2025-10-31 21:21:38.439   135.077717
+554                       M@rcin 2025-10-31 19:55:53.506 2025-10-31 21:23:14.716    87.353500
+555                      Piotrek 2025-10-31 18:57:38.336 2025-10-31 21:23:44.474   146.102300
+556                       Jolero 2025-10-31 19:32:34.788 2025-10-31 21:28:59.448   116.411000
+557                      zwierek 2025-10-31 20:54:16.786 2025-10-31 21:30:00.952    35.736100
+558                        szagh 2025-10-31 20:27:07.070 2025-10-31 21:31:39.109    64.533983
+559               hubsonwaliszot 2025-10-31 20:48:43.440 2025-10-31 21:36:30.797    47.789283
+560                       M@rcin 2025-10-31 22:16:11.599 2025-10-31 22:37:17.603    21.100067
+561                        blaze 2025-10-31 19:26:29.574 2025-10-31 22:40:55.330   194.429267
+562                      Figuana 2025-10-31 18:57:07.954 2025-10-31 23:54:32.642   297.411467
+563                       Jolero 2025-10-31 22:11:36.427 2025-11-01 00:08:58.042   117.360250
+564                        siejA 2025-11-01 00:16:31.509 2025-11-01 00:46:24.933    29.890400
+565                         zone 2025-11-01 00:17:52.480 2025-11-01 00:49:53.366    32.014767
+566               hubsonwaliszot 2025-10-31 22:15:47.379 2025-11-01 01:53:43.364   217.933083
+567                       M@rcin 2025-11-01 06:58:18.608 2025-11-01 07:32:10.255    33.860783
+568                       M@rcin 2025-11-01 08:58:25.477 2025-11-01 09:00:52.515     2.450633
+569                        siejA 2025-11-01 08:46:35.574 2025-11-01 09:00:57.800    14.370433
+570                      Figuana 2025-11-01 09:00:53.600 2025-11-01 09:02:42.276     1.811267
+571                         zone 2025-11-01 07:27:11.910 2025-11-01 09:10:18.726   103.113600
+572                       Jolero 2025-11-01 09:30:49.792 2025-11-01 09:32:15.100     1.421800
+573                       Jolero 2025-11-01 09:33:48.311 2025-11-01 09:35:24.464     1.602550
+574   symonixprime nie ten znany 2025-11-01 10:03:02.992 2025-11-01 10:07:36.319     4.555450
+575                      Figuana 2025-11-01 09:07:26.749 2025-11-01 10:33:51.769    86.417000
+576                       M@rcin 2025-11-01 09:05:36.092 2025-11-01 10:34:22.902    88.780167
+577                      zwierek 2025-11-01 08:48:46.137 2025-11-01 11:31:17.182   162.517417
+578   symonixprime nie ten znany 2025-11-01 10:09:26.594 2025-11-01 12:19:52.718   130.435400
+579                       M@rcin 2025-11-01 12:30:15.597 2025-11-01 13:06:14.954    35.989283
+580                       M@rcin 2025-11-01 13:12:19.945 2025-11-01 13:30:10.765    17.847000
+581                       Jolero 2025-11-01 09:36:48.290 2025-11-01 13:33:18.091   236.496683
+582               hubsonwaliszot 2025-11-01 09:01:31.571 2025-11-01 13:34:58.302   273.445517
+583                        blaze 2025-11-01 14:36:02.071 2025-11-01 14:47:01.628    10.992617
+584                      Figuana 2025-11-01 13:36:34.960 2025-11-01 15:47:27.916   130.882600
+585               hubsonwaliszot 2025-11-01 14:34:34.027 2025-11-01 16:04:25.274    89.854117
+586                        blaze 2025-11-01 15:37:34.306 2025-11-01 16:15:12.242    37.632267
+587                       M@rcin 2025-11-01 15:45:43.704 2025-11-01 16:29:23.068    43.656067
+588   symonixprime nie ten znany 2025-11-01 16:11:11.384 2025-11-01 16:29:53.682    18.704967
+589                      zwierek 2025-11-01 16:53:17.242 2025-11-01 16:58:08.438     4.853267
+590                         zone 2025-11-01 14:25:24.421 2025-11-01 17:05:01.342   159.615350
+591                        siejA 2025-11-01 16:08:49.800 2025-11-01 17:20:02.151    71.205850
+592                       M@rcin 2025-11-01 18:25:32.595 2025-11-01 19:23:46.552    58.232617
+593   symonixprime nie ten znany 2025-11-01 18:06:11.951 2025-11-01 19:23:57.096    77.752417
+594                        blaze 2025-11-01 18:27:29.072 2025-11-01 19:24:32.968    57.064933
+595               hubsonwaliszot 2025-11-01 17:12:43.284 2025-11-01 19:24:55.098   132.196900
+596                        szagh 2025-11-01 20:25:18.891 2025-11-01 20:27:48.247     2.489267
+597                         zone 2025-11-02 08:42:31.097 2025-11-02 09:04:46.958    22.264350
+598                        szagh 2025-11-02 08:39:24.026 2025-11-02 09:12:33.102    33.151267
+599                       Jolero 2025-11-02 09:51:28.737 2025-11-02 10:37:42.131    46.223233
+600                        blaze 2025-11-02 10:04:30.079 2025-11-02 10:53:56.238    49.435983
+601                       Jolero 2025-11-02 10:39:12.623 2025-11-02 11:05:34.084    26.357683
+602                       Jolero 2025-11-02 11:06:12.999 2025-11-02 11:12:58.776     6.762950
+603                       M@rcin 2025-11-02 09:19:15.789 2025-11-02 11:23:50.676   124.581450
+604                        szagh 2025-11-02 11:14:36.343 2025-11-02 11:57:06.254    42.498517
+605                      Figuana 2025-11-02 11:43:29.347 2025-11-02 12:06:18.048    22.811683
+606                      Piotrek 2025-11-02 12:13:19.346 2025-11-02 12:16:49.232     3.498100
+607   symonixprime nie ten znany 2025-11-02 11:06:23.842 2025-11-02 12:29:36.310    83.207800
+608                      Piotrek 2025-11-02 12:18:55.317 2025-11-02 12:32:27.047    13.528833
+609   symonixprime nie ten znany 2025-11-02 12:36:02.241 2025-11-02 12:36:27.060     0.413650
+610                        siejA 2025-11-02 13:31:36.111 2025-11-02 13:39:04.167     7.467600
+611   symonixprime nie ten znany 2025-11-02 13:24:14.485 2025-11-02 13:42:46.159    18.527900
+612                        blaze 2025-11-02 12:42:38.376 2025-11-02 13:43:46.457    61.134683
+613                         zone 2025-11-02 13:46:48.501 2025-11-02 13:49:42.215     2.895233
+614                      zwierek 2025-11-02 09:55:47.516 2025-11-02 14:13:07.972   257.340933
+615                      Figuana 2025-11-02 13:27:48.909 2025-11-02 14:58:01.229    90.205333
+616                      Figuana 2025-11-02 14:58:48.930 2025-11-02 15:30:57.315    32.139750
+617                       M@rcin 2025-11-02 14:43:03.184 2025-11-02 15:40:11.840    57.144267
+618                       M@rcin 2025-11-02 15:51:30.335 2025-11-02 15:56:06.789     4.607567
+619                        blaze 2025-11-02 14:34:15.089 2025-11-02 15:59:10.443    84.922567
+620                         siwa 2025-11-02 16:20:20.461 2025-11-02 16:22:35.896     2.257250
+621                         siwa 2025-11-02 16:23:30.113 2025-11-02 17:18:19.695    54.826367
+622                       Jolero 2025-11-02 16:41:26.261 2025-11-02 17:30:04.494    48.637217
+623                       Jolero 2025-11-02 18:18:31.818 2025-11-02 18:49:42.005    31.169783
+624               hubsonwaliszot 2025-11-02 16:32:34.764 2025-11-02 19:02:30.414   149.927500
+625                        szagh 2025-11-02 12:34:21.206 2025-11-02 19:17:01.381   402.669583
+626                      zwierek 2025-11-02 15:23:28.740 2025-11-02 19:20:30.627   237.031450
+627                         zone 2025-11-02 19:25:11.509 2025-11-02 19:29:27.392     4.264717
+628                       Jolero 2025-11-02 19:55:41.942 2025-11-02 19:56:56.085     1.235717
+629                        szagh 2025-11-02 19:54:34.947 2025-11-02 19:57:55.595     3.344133
+630                      Piotrek 2025-11-02 19:52:01.401 2025-11-02 20:24:01.900    32.008317
+631                        szagh 2025-11-02 19:58:23.202 2025-11-02 20:26:16.681    27.891317
+632                      Piotrek 2025-11-02 20:41:59.753 2025-11-02 20:42:45.131     0.756300
+633                        siejA 2025-11-02 19:51:47.747 2025-11-02 20:55:02.684    63.248950
+634                 symonixprime 2025-11-02 19:44:47.049 2025-11-02 21:09:58.465    85.190267
+635                      zwierek 2025-11-02 20:24:46.952 2025-11-02 21:39:20.686    74.562233
+636                       M@rcin 2025-11-02 19:42:35.179 2025-11-02 21:47:06.005   124.513767
+637                        blaze 2025-11-02 18:42:40.118 2025-11-02 21:48:47.719   186.126683
+638                       Jolero 2025-11-02 19:58:09.996 2025-11-02 22:19:22.837   141.214017
+639               hubsonwaliszot 2025-11-02 19:45:16.795 2025-11-02 22:31:06.693   165.831633
+640                      zwierek 2025-11-02 22:08:38.108 2025-11-02 22:48:19.564    39.690933
+641                       Jolero 2025-11-02 22:39:37.593 2025-11-02 22:49:37.908    10.005250
+642                        siejA 2025-11-02 21:02:08.758 2025-11-02 22:57:38.769   115.500183
+643                         zone 2025-11-02 19:52:43.274 2025-11-02 22:58:12.474   185.486667
+644                      Piotrek 2025-11-02 20:43:15.424 2025-11-02 22:59:07.506   135.868033
+645                      zwierek 2025-11-02 23:03:51.955 2025-11-02 23:13:07.747     9.263200
+646                      Figuana 2025-11-02 20:43:35.074 2025-11-02 23:25:14.371   161.654950
+647                       M@rcin 2025-11-03 06:44:57.621 2025-11-03 07:04:55.854    19.970550
+648                       Jolero 2025-11-03 09:05:05.034 2025-11-03 09:31:46.484    26.690833
+649                       Jolero 2025-11-03 09:32:52.622 2025-11-03 11:00:44.382    87.862667
+650                        w3rny 2025-11-03 09:40:50.120 2025-11-03 12:05:39.282   144.819367
+651                      Piotrek 2025-11-03 11:50:55.700 2025-11-03 13:27:50.468    96.912800
+652                       Jolero 2025-11-03 13:26:39.376 2025-11-03 13:28:29.842     1.841100
+653                        Romek 2025-11-03 13:27:11.569 2025-11-03 13:31:10.693     3.985400
+654                       Jolero 2025-11-03 13:30:05.130 2025-11-03 13:33:14.418     3.154800
+655                        Romek 2025-11-03 13:33:58.630 2025-11-03 13:36:38.137     2.658450
+656                      zwierek 2025-11-03 13:45:01.886 2025-11-03 13:47:38.387     2.608350
+657                       Jolero 2025-11-03 13:36:30.299 2025-11-03 13:47:44.632    11.238883
+658                        Romek 2025-11-03 13:44:10.453 2025-11-03 13:48:01.690     3.853950
+659                        Romek 2025-11-03 13:51:30.630 2025-11-03 14:08:44.897    17.237783
+660                       Jolero 2025-11-03 13:56:18.695 2025-11-03 14:14:34.918    18.270383
+661                      zwierek 2025-11-03 13:51:08.196 2025-11-03 14:14:35.693    23.458283
+662                        Romek 2025-11-03 14:09:23.602 2025-11-03 14:14:42.091     5.308150
+663                       Jolero 2025-11-03 14:18:36.955 2025-11-03 14:19:46.690     1.162250
+664                        Romek 2025-11-03 14:17:37.875 2025-11-03 14:23:17.869     5.666567
+665                        Romek 2025-11-03 14:30:07.768 2025-11-03 14:31:31.081     1.388550
+666                      zwierek 2025-11-03 14:21:15.633 2025-11-03 14:31:52.708    10.617917
+667                       Jolero 2025-11-03 14:22:17.201 2025-11-03 14:37:58.894    15.694883
+668                        Romek 2025-11-03 14:41:51.445 2025-11-03 14:43:25.246     1.563350
+669                 symonixprime 2025-11-03 14:44:19.530 2025-11-03 14:50:22.127     6.043283
+670                 symonixprime 2025-11-03 14:51:59.227 2025-11-03 15:00:55.352     8.935417
+671                      zwierek 2025-11-03 15:00:10.337 2025-11-03 15:03:13.732     3.056583
+672                 symonixprime 2025-11-03 15:02:55.457 2025-11-03 15:06:55.372     3.998583
+673                      zwierek 2025-11-03 15:04:47.438 2025-11-03 15:07:28.392     2.682567
+674                        blaze 2025-11-03 15:01:55.182 2025-11-03 15:08:13.256     6.301233
+675                      Piotrek 2025-11-03 13:28:46.274 2025-11-03 15:26:44.402   117.968800
+676                        blaze 2025-11-03 15:23:11.626 2025-11-03 15:27:50.677     4.650850
+677                       Jolero 2025-11-03 15:36:16.641 2025-11-03 15:37:39.134     1.374883
+678                       Jolero 2025-11-03 15:40:52.957 2025-11-03 16:33:41.325    52.806133
+679                        szagh 2025-11-03 17:46:56.299 2025-11-03 17:48:41.387     1.751467
+680                        szagh 2025-11-03 17:53:26.402 2025-11-03 18:02:27.008     9.010100
+681               hubsonwaliszot 2025-11-03 19:00:37.202 2025-11-03 19:09:09.389     8.536450
+682                      zwierek 2025-11-03 19:11:10.418 2025-11-03 19:14:48.327     3.631817
+683                        blaze 2025-11-03 19:10:17.947 2025-11-03 19:17:37.805     7.330967
+684               hubsonwaliszot 2025-11-03 19:12:14.344 2025-11-03 19:20:30.729     8.273083
+685                       Jolero 2025-11-03 19:28:22.195 2025-11-03 19:29:29.736     1.125683
+686                       Jolero 2025-11-03 19:34:11.803 2025-11-03 19:35:36.350     1.409117
+687                         siwa 2025-11-03 16:16:04.002 2025-11-03 20:13:36.987   237.549750
+688                      zwierek 2025-11-03 20:22:03.611 2025-11-03 20:29:02.711     6.985000
+689                GarbatyAlojzy 2025-11-03 19:33:45.736 2025-11-03 20:29:23.877    55.635683
+690               hubsonwaliszot 2025-11-03 19:35:08.679 2025-11-03 20:29:31.085    54.373433
+691                        blaze 2025-11-03 20:41:52.316 2025-11-03 20:47:50.665     5.972483
+692                       M@rcin 2025-11-03 20:42:50.859 2025-11-03 21:01:13.303    18.374067
+693                GarbatyAlojzy 2025-11-03 20:29:37.650 2025-11-03 21:29:58.215    60.342750
+694                        siejA 2025-11-03 20:59:46.639 2025-11-03 21:38:22.319    38.594667
+695                      Piotrek 2025-11-03 20:41:40.166 2025-11-03 21:38:26.943    56.779617
+696                         zone 2025-11-03 20:59:08.793 2025-11-03 21:38:28.980    39.336450
+697                       M@rcin 2025-11-03 21:02:57.223 2025-11-03 22:00:55.295    57.967867
+698                        blaze 2025-11-03 20:51:13.155 2025-11-03 22:01:07.296    69.902350
+699                      zwierek 2025-11-03 20:29:39.606 2025-11-03 22:02:22.207    92.710017
+700                       Jolero 2025-11-03 19:40:41.970 2025-11-03 22:32:23.667   171.694950
+701                      Figuana 2025-11-03 16:05:01.991 2025-11-03 23:08:19.773   423.296367
+702               hubsonwaliszot 2025-11-03 20:32:12.539 2025-11-03 23:25:58.972   173.773883
+703                      zwierek 2025-11-03 23:38:10.746 2025-11-03 23:46:25.222     8.241267
+704                      Piotrek 2025-11-03 23:55:58.125 2025-11-04 00:00:12.266     4.235683
+705                      Piotrek 2025-11-04 00:00:44.991 2025-11-04 00:15:13.736    14.479083
+706                        blaze 2025-11-03 22:47:16.398 2025-11-04 01:26:16.623   159.003750
+707                      Piotrek 2025-11-04 00:15:54.653 2025-11-04 02:17:35.517   121.681067
+708                       Jolero 2025-11-04 02:13:33.413 2025-11-04 02:24:13.283    10.664500
+709                        w3rny 2025-11-03 12:07:22.104 2025-11-04 05:11:20.098  1023.966567
+710                        Paweł 2025-11-03 21:37:15.646 2025-11-04 05:11:28.450   454.213400
+711                       M@rcin 2025-11-04 07:00:24.940 2025-11-04 07:27:18.559    26.893650
+712                       Jolero 2025-11-04 10:11:52.569 2025-11-04 11:34:51.171    82.976700
+713                      Piotrek 2025-11-04 11:47:15.223 2025-11-04 12:04:15.890    17.011117
+714                         siwa 2025-11-04 12:46:51.194 2025-11-04 14:03:43.923    76.878817
+715                        w3rny 2025-11-04 12:40:26.514 2025-11-04 14:09:22.789    88.937917
+716                       Jolero 2025-11-04 13:31:39.457 2025-11-04 14:09:24.586    37.752150
+717                        blaze 2025-11-04 13:57:24.557 2025-11-04 14:16:18.636    18.901317
+718                      zwierek 2025-11-04 10:04:45.855 2025-11-04 14:21:48.028   257.036217
+719                     SzaGhrat 2025-11-04 14:53:03.522 2025-11-04 15:00:35.386     7.531067
+720                 symonixprime 2025-11-03 15:36:33.678 2025-11-04 16:31:36.574  1440.000000
+721               hubsonwaliszot 2025-11-04 17:14:45.878 2025-11-04 17:21:08.782     6.381733
+722                      Piotrek 2025-11-04 12:16:05.678 2025-11-04 17:36:08.881   320.053383
+723                        Paweł 2025-11-04 14:16:09.377 2025-11-04 18:00:42.697   224.555333
+724                        w3rny 2025-11-04 15:32:56.167 2025-11-04 18:00:43.289   147.785367
+725               hubsonwaliszot 2025-11-04 17:23:17.443 2025-11-04 18:01:00.735    37.721533
+726                         siwa 2025-11-04 17:42:10.226 2025-11-04 18:11:59.403    29.819617
+727                GarbatyAlojzy 2025-11-04 18:08:05.658 2025-11-04 18:17:22.624     9.282767
+728                         siwa 2025-11-04 18:18:07.649 2025-11-04 18:19:27.059     1.323500
+729                        Paweł 2025-11-04 18:47:53.609 2025-11-04 18:49:25.561     1.532533
+730                         zone 2025-11-04 17:24:20.866 2025-11-04 18:56:14.489    91.893717
+731                        Paweł 2025-11-04 18:51:04.718 2025-11-04 19:14:18.698    23.233000
+732                        w3rny 2025-11-04 18:46:59.282 2025-11-04 19:14:24.045    27.412717
+733                        blaze 2025-11-04 16:49:44.372 2025-11-04 19:28:13.954   158.493033
+734                       M@rcin 2025-11-04 18:24:34.449 2025-11-04 19:28:23.838    63.823150
+735                 symonixprime 2025-11-04 17:13:33.847 2025-11-04 19:28:59.333   135.424767
+736                      Piotrek 2025-11-04 17:45:46.092 2025-11-04 19:29:53.992   104.131667
+737                      zwierek 2025-11-04 15:37:32.775 2025-11-04 19:30:15.739   232.716067
+738                        w3rny 2025-11-04 19:53:13.209 2025-11-04 20:05:24.072    12.181050
+739                        Paweł 2025-11-04 19:54:21.373 2025-11-04 20:06:33.709    12.205600
+740                        siejA 2025-11-04 20:29:47.435 2025-11-04 20:40:30.021    10.709767
+741                      Piotrek 2025-11-04 20:50:27.888 2025-11-04 21:30:37.579    40.161517
+742                       M@rcin 2025-11-04 20:51:40.531 2025-11-04 21:35:21.674    43.685717
+743                        blaze 2025-11-04 20:51:08.908 2025-11-04 22:13:02.269    81.889350
+744                       Jolero 2025-11-04 20:08:18.488 2025-11-04 22:16:00.854   127.706100
+745                      zwierek 2025-11-04 20:04:54.833 2025-11-04 22:45:43.110   160.804617
+746               hubsonwaliszot 2025-11-04 18:03:14.043 2025-11-04 22:46:50.736   283.611550
+747                      Figuana 2025-11-04 16:51:30.466 2025-11-04 22:49:51.313   358.347450
+748                        w3rny 2025-11-04 20:59:16.458 2025-11-05 04:48:46.531   469.501217
+749                        Paweł 2025-11-04 21:03:40.056 2025-11-05 04:52:01.438   468.356367
+750                       M@rcin 2025-11-05 06:51:34.085 2025-11-05 07:19:20.106    27.767017
+751               hubsonwaliszot 2025-11-05 07:18:04.465 2025-11-05 09:02:54.133   104.827800
+752                      zwierek 2025-11-05 08:56:32.987 2025-11-05 10:27:39.043    91.100933
+753               hubsonwaliszot 2025-11-05 09:57:57.134 2025-11-05 10:32:19.093    34.365983
+754                        w3rny 2025-11-05 11:43:35.162 2025-11-05 12:49:20.489    65.755450
+755                         siwa 2025-11-05 12:32:04.456 2025-11-05 12:59:33.965    27.491817
+756                         siwa 2025-11-05 13:01:14.565 2025-11-05 13:04:10.310     2.929083
+757                      zwierek 2025-11-05 12:33:51.461 2025-11-05 13:22:55.541    49.068000
+758                         siwa 2025-11-05 14:51:03.851 2025-11-05 14:51:44.956     0.685083
+759                         siwa 2025-11-05 14:55:24.250 2025-11-05 14:57:15.292     1.850700
+760                         siwa 2025-11-05 14:58:01.207 2025-11-05 15:01:38.355     3.619133
+761                       Jolero 2025-11-05 14:46:18.315 2025-11-05 15:38:04.037    51.762033
+762                         zone 2025-11-05 15:01:06.173 2025-11-05 15:57:46.088    56.665250
+763                         siwa 2025-11-05 17:03:21.342 2025-11-05 17:15:07.253    11.765183
+764                        w3rny 2025-11-05 14:50:37.801 2025-11-05 17:16:48.079   146.171300
+765                       Jolero 2025-11-05 17:43:07.759 2025-11-05 17:45:17.984     2.170417
+766                       Jolero 2025-11-05 17:46:27.246 2025-11-05 17:49:10.877     2.727183
+767                        siejA 2025-11-05 18:08:04.793 2025-11-05 18:26:36.095    18.521700
+768                       M@rcin 2025-11-05 19:20:33.526 2025-11-05 19:23:47.691     3.236083
+769                 symonixprime 2025-11-05 15:27:36.614 2025-11-05 19:46:24.463   258.797483
+770                        w3rny 2025-11-05 19:38:25.932 2025-11-05 21:21:29.626   103.061567
+771                       Jolero 2025-11-05 17:52:20.122 2025-11-05 21:52:26.468   240.105767
+772                      zwierek 2025-11-05 19:14:30.020 2025-11-05 22:06:30.479   172.007650
+773                       M@rcin 2025-11-05 19:24:48.455 2025-11-05 22:49:55.878   205.123717
+774                        blaze 2025-11-05 19:36:59.136 2025-11-05 22:50:42.935   193.729983
+775                        w3rny 2025-11-05 22:39:13.055 2025-11-05 23:02:36.270    23.386917
+776                         Lewy 2025-11-05 20:21:41.649 2025-11-05 23:02:40.704   160.984250
+777                         zone 2025-11-05 19:15:03.564 2025-11-05 23:24:06.246   249.044700
+778                      zwierek 2025-11-05 22:07:45.745 2025-11-05 23:28:16.186    80.507350
+779                        siejA 2025-11-05 22:01:57.354 2025-11-05 23:30:46.035    88.811350
+780               hubsonwaliszot 2025-11-05 19:16:47.355 2025-11-05 23:50:34.164   273.780150
+781                      Piotrek 2025-11-05 19:15:02.877 2025-11-06 00:04:55.695   289.880300
+782                        w3rny 2025-11-06 00:34:44.544 2025-11-06 02:04:10.758    89.436900
+783                         Lewy 2025-11-06 00:34:40.327 2025-11-06 02:06:49.731    92.156733
+784                       M@rcin 2025-11-06 05:25:00.366 2025-11-06 05:50:48.303    25.798950
+785                         Lewy 2025-11-06 06:26:21.910 2025-11-06 06:35:46.789     9.414650
+786                       M@rcin 2025-11-06 06:30:58.863 2025-11-06 07:17:47.066    46.803383
+787                      Piotrek 2025-11-06 11:29:00.770 2025-11-06 11:31:34.143     2.556217
+788                         siwa 2025-11-06 10:37:39.505 2025-11-06 12:57:02.231   139.378767
+789                      zwierek 2025-11-06 10:04:19.291 2025-11-06 13:32:53.775   208.574733
+790                         siwa 2025-11-06 14:43:37.063 2025-11-06 14:57:49.271    14.203467
+791                        Romek 2025-11-06 12:28:09.945 2025-11-06 15:32:17.519   184.126233
+792                         siwa 2025-11-06 15:39:48.465 2025-11-06 16:38:55.057    59.109867
+793                         Lewy 2025-11-06 16:40:19.805 2025-11-06 16:45:30.422     5.176950
+794                 symonixprime 2025-11-06 15:24:28.565 2025-11-06 17:28:56.842   124.471283
+795                       Jolero 2025-11-06 15:22:05.981 2025-11-06 17:44:47.032   142.684183
+796                       M@rcin 2025-11-06 18:19:29.050 2025-11-06 18:21:52.229     2.386317
+797                        Romek 2025-11-06 17:35:45.177 2025-11-06 18:30:02.188    54.283517
+798                         Lewy 2025-11-06 17:43:18.297 2025-11-06 18:32:31.541    49.220733
+799                         siwa 2025-11-06 17:07:23.903 2025-11-06 19:02:45.582   115.361317
+800                    M1odyHaze 2025-11-06 17:55:58.520 2025-11-06 19:11:07.708    75.153133
+801               hubsonwaliszot 2025-11-06 15:25:04.203 2025-11-06 19:11:27.726   226.392050
+802               hubsonwaliszot 2025-11-06 19:17:11.253 2025-11-06 20:18:13.673    61.040333
+803                         Lewy 2025-11-06 19:53:56.650 2025-11-06 20:26:53.499    32.947483
+804                        Romek 2025-11-06 19:54:03.657 2025-11-06 20:27:16.933    33.221267
+805                         zone 2025-11-06 17:58:29.916 2025-11-06 20:44:09.403   165.658117
+806                        siejA 2025-11-06 17:14:18.001 2025-11-06 20:45:00.848   210.714117
+807                         Lewy 2025-11-06 21:16:53.531 2025-11-06 21:21:48.345     4.913567
+808                       M@rcin 2025-11-06 18:22:59.399 2025-11-06 21:32:54.996   189.926617
+809                      zwierek 2025-11-06 15:17:51.727 2025-11-06 22:01:30.257   403.642167
+810                    M1odyHaze 2025-11-06 19:12:36.268 2025-11-06 22:03:23.785   170.791950
+811               hubsonwaliszot 2025-11-06 20:22:28.379 2025-11-06 22:20:12.444   117.734417
+812                    M1odyHaze 2025-11-06 22:28:54.451 2025-11-06 22:48:11.354    19.281717
+813                      zwierek 2025-11-06 22:27:24.470 2025-11-06 23:03:27.216    36.045767
+814                      Piotrek 2025-11-06 23:32:02.376 2025-11-06 23:43:45.659    11.721383
+815               hubsonwaliszot 2025-11-06 22:28:47.687 2025-11-07 00:34:18.102   125.506917
+816                    M1odyHaze 2025-11-06 23:32:58.825 2025-11-07 00:45:20.115    72.354833
+817                        Romek 2025-11-06 21:16:06.753 2025-11-07 02:17:10.525   301.062867
+818                        Romek 2025-11-07 02:26:51.102 2025-11-07 03:32:18.686    65.459733
+819                        Romek 2025-11-07 03:34:18.605 2025-11-07 04:48:00.666    73.701017
+820                        Romek 2025-11-07 04:48:37.473 2025-11-07 04:49:24.837     0.789400
+821                        Romek 2025-11-07 04:49:59.682 2025-11-07 04:50:22.586     0.381733
+822                       M@rcin 2025-11-07 05:25:23.404 2025-11-07 05:50:43.387    25.333050
+823                        Romek 2025-11-07 05:06:34.362 2025-11-07 06:34:55.785    88.357050
+824                       M@rcin 2025-11-07 06:40:04.879 2025-11-07 07:07:48.999    27.735333
+825                        Romek 2025-11-07 06:43:06.642 2025-11-07 07:40:20.372    57.228833
+826                         Lewy 2025-11-06 21:23:43.726 2025-11-07 10:24:05.613   780.364783
+827                      zwierek 2025-11-07 10:22:28.484 2025-11-07 11:44:45.338    82.280900
+828                      Figuana 2025-11-07 12:01:46.804 2025-11-07 12:06:50.999     5.069917
+829                      zwierek 2025-11-07 12:15:17.717 2025-11-07 12:35:13.471    19.929233
+830                         Lewy 2025-11-07 10:25:56.414 2025-11-07 13:33:17.292   187.347967
+831                        Romek 2025-11-07 10:55:08.074 2025-11-07 13:37:02.834   161.912667
+832                      Piotrek 2025-11-07 13:22:46.871 2025-11-07 14:23:32.649    60.762967
+833                    M1odyHaze 2025-11-07 09:02:26.999 2025-11-07 14:23:58.565   321.526100
+834               hubsonwaliszot 2025-11-07 14:39:10.859 2025-11-07 14:46:04.426     6.892783
+835               hubsonwaliszot 2025-11-07 14:52:11.814 2025-11-07 14:53:47.905     1.601517
+836                      zwierek 2025-11-07 14:29:14.464 2025-11-07 15:29:58.417    60.732550
+837                         siwa 2025-11-07 13:27:46.517 2025-11-07 16:41:45.191   193.977900
+838                      Piotrek 2025-11-07 14:24:04.918 2025-11-07 17:10:37.346   166.540467
+839                    M1odyHaze 2025-11-07 17:04:41.655 2025-11-07 17:41:42.244    37.009817
+840                 symonixprime 2025-11-07 17:49:52.032 2025-11-07 17:53:48.390     3.939300
+841               hubsonwaliszot 2025-11-07 17:46:56.967 2025-11-07 17:54:25.103     7.468933
+842                 symonixprime 2025-11-07 17:56:22.688 2025-11-07 18:02:01.734     5.650767
+843                         siwa 2025-11-07 17:43:14.721 2025-11-07 18:19:47.573    36.547533
+844                       Jolero 2025-11-07 16:00:00.927 2025-11-07 18:45:45.294   165.739450
+845                        siejA 2025-11-07 18:38:21.719 2025-11-07 18:52:24.512    14.046550
+846                       Jolero 2025-11-07 19:33:58.975 2025-11-07 19:35:45.380     1.773417
+847                       M@rcin 2025-11-07 19:07:12.113 2025-11-07 19:40:29.047    33.282233
+848                      zwierek 2025-11-07 17:11:46.797 2025-11-07 19:41:51.893   150.084933
+849                    M1odyHaze 2025-11-07 18:28:31.700 2025-11-07 19:45:02.471    76.512850
+850                        blaze 2025-11-07 12:38:04.925 2025-11-07 19:45:20.813   427.264800
+851               hubsonwaliszot 2025-11-07 17:58:57.335 2025-11-07 20:10:20.099   131.379400
+852                        blaze 2025-11-07 20:35:36.341 2025-11-07 21:40:25.924    64.826383
+853                         zone 2025-11-07 21:53:33.532 2025-11-07 21:54:58.381     1.414150
+854               hubsonwaliszot 2025-11-07 20:51:57.854 2025-11-07 21:59:42.323    67.741150
+855                    M1odyHaze 2025-11-07 21:06:32.190 2025-11-07 22:29:50.949    83.312650
+856                         zone 2025-11-07 21:56:17.821 2025-11-07 22:44:42.042    48.403683
+857                       M@rcin 2025-11-07 20:54:18.246 2025-11-07 23:12:19.412   138.019433
+858               hubsonwaliszot 2025-11-07 22:03:03.566 2025-11-07 23:12:42.774    69.653467
+859                       Jolero 2025-11-07 22:38:19.622 2025-11-07 23:12:48.316    34.478233
+860                        blaze 2025-11-07 21:41:08.346 2025-11-07 23:13:41.295    92.549150
+861                      zwierek 2025-11-07 21:23:44.923 2025-11-08 00:19:24.890   175.666117
+862                       Jolero 2025-11-07 23:13:34.675 2025-11-08 00:19:40.861    66.103100
+863               hubsonwaliszot 2025-11-07 23:14:58.505 2025-11-08 02:57:00.610   222.035083
+864                        siejA 2025-11-08 05:49:32.962 2025-11-08 05:55:14.621     5.694317
+865                       M@rcin 2025-11-08 06:48:00.445 2025-11-08 07:17:27.134    29.444817
+866                 symonixprime 2025-11-08 08:17:51.928 2025-11-08 09:19:44.758    61.880500
+867                      Piotrek 2025-11-08 09:28:16.236 2025-11-08 09:55:55.168    27.648867
+868                        Romek 2025-11-08 10:59:30.382 2025-11-08 11:16:31.915    17.025550
+869                      zwierek 2025-11-08 10:32:59.234 2025-11-08 11:28:20.785    55.359183
+870                         zone 2025-11-08 08:20:53.257 2025-11-08 11:38:29.710   197.607550
+871                         zone 2025-11-08 11:41:33.672 2025-11-08 12:01:06.070    19.539967
+872              ShakierMoney600 2025-11-08 12:39:53.656 2025-11-08 12:48:52.358     8.978367
+873                    M1odyHaze 2025-11-08 11:29:41.270 2025-11-08 12:53:07.389    83.435317
+874                    M1odyHaze 2025-11-08 12:54:26.048 2025-11-08 13:12:21.009    17.916017
+875              ShakierMoney600 2025-11-08 12:49:43.122 2025-11-08 13:12:37.197    22.901250
+876                    M1odyHaze 2025-11-08 13:13:44.310 2025-11-08 13:15:39.875     1.926083
+877              ShakierMoney600 2025-11-08 13:13:27.828 2025-11-08 13:15:46.282     2.307567
+878                    M1odyHaze 2025-11-08 13:26:10.640 2025-11-08 13:29:04.323     2.894717
+879                 symonixprime 2025-11-08 09:41:53.714 2025-11-08 14:27:53.725   286.000183
+880               hubsonwaliszot 2025-11-08 14:20:36.925 2025-11-08 14:54:31.973    33.917467
+881                      zwierek 2025-11-08 14:45:43.122 2025-11-08 15:35:17.792    49.577833
+882                    M1odyHaze 2025-11-08 14:55:57.947 2025-11-08 15:52:03.715    56.096133
+883                       M@rcin 2025-11-08 16:37:25.156 2025-11-08 16:50:14.238    12.818033
+884                       M@rcin 2025-11-08 16:57:08.747 2025-11-08 17:05:37.590     8.480717
+885                       Jolero 2025-11-08 16:57:28.713 2025-11-08 17:33:15.444    35.778850
+886                      zwierek 2025-11-08 16:00:18.072 2025-11-08 17:33:22.348    93.071267
+887                 symonixprime 2025-11-08 16:56:52.085 2025-11-08 19:03:33.571   126.691433
+888                    M1odyHaze 2025-11-08 18:30:15.146 2025-11-08 19:04:08.742    33.893267
+889                         siwa 2025-11-08 17:44:13.847 2025-11-08 19:12:05.305    87.857633
+890                         siwa 2025-11-08 19:15:01.527 2025-11-08 19:16:30.584     1.484283
+891                         siwa 2025-11-08 19:17:37.878 2025-11-08 19:22:12.110     4.570533
+892              ShakierMoney600 2025-11-08 20:30:31.844 2025-11-08 20:39:43.270     9.190433
+893                GarbatyAlojzy 2025-11-08 20:45:53.667 2025-11-08 20:54:03.413     8.162433
+894                        siejA 2025-11-08 19:11:40.253 2025-11-08 20:54:57.406   103.285883
+895                         zone 2025-11-08 19:12:08.508 2025-11-08 20:56:56.272   104.796067
+896                        siejA 2025-11-08 21:17:06.848 2025-11-08 21:26:37.476     9.510467
+897                       Jolero 2025-11-08 19:14:11.951 2025-11-08 21:27:17.467   133.091933
+898               hubsonwaliszot 2025-11-08 18:01:55.242 2025-11-08 21:27:28.286   205.550733
+899                        siejA 2025-11-08 21:36:17.781 2025-11-08 21:39:27.529     3.162467
+900                    M1odyHaze 2025-11-08 22:28:54.787 2025-11-08 22:51:37.170    22.706383
+901                       M@rcin 2025-11-08 19:16:27.655 2025-11-08 23:33:09.152   256.691617
+902                        Romek 2025-11-08 23:06:38.210 2025-11-08 23:40:55.977    34.296117
+903                       Jolero 2025-11-08 23:49:35.266 2025-11-08 23:51:12.045     1.612983
+904                         zone 2025-11-09 00:36:25.264 2025-11-09 00:41:27.847     5.043050
+905                        siejA 2025-11-09 00:38:37.376 2025-11-09 00:41:52.907     3.258850
+906                      Figuana 2025-11-08 17:21:09.281 2025-11-09 01:08:25.578   467.271617
+907                       Jolero 2025-11-08 23:53:17.418 2025-11-09 01:17:56.380    84.649367
+908                    M1odyHaze 2025-11-09 00:21:16.462 2025-11-09 01:38:29.834    77.222867
+909                    M1odyHaze 2025-11-09 01:50:00.083 2025-11-09 02:20:14.466    30.239717
+910                       M@rcin 2025-11-09 04:48:14.498 2025-11-09 05:54:59.883    66.756417
+911                        Romek 2025-11-08 23:50:09.431 2025-11-09 08:16:10.959   506.025467
+912                       M@rcin 2025-11-09 06:48:12.353 2025-11-09 09:03:55.587   135.720567
+913                      Piotrek 2025-11-09 09:10:09.377 2025-11-09 09:52:39.943    42.509433
+914                      Figuana 2025-11-09 09:51:37.924 2025-11-09 09:55:16.901     3.649617
+915                         zone 2025-11-09 06:51:55.723 2025-11-09 10:26:19.312   214.393150
+916               hubsonwaliszot 2025-11-09 09:59:52.453 2025-11-09 10:32:26.972    32.575317
+917                         siwa 2025-11-09 09:12:27.486 2025-11-09 11:13:45.386   121.298333
+918                       Jolero 2025-11-09 09:32:44.355 2025-11-09 11:22:37.839   109.891400
+919                         siwa 2025-11-09 11:23:34.612 2025-11-09 11:33:56.794    10.369700
+920                      Figuana 2025-11-09 09:56:18.243 2025-11-09 12:09:49.602   133.522650
+921                       Jolero 2025-11-09 11:35:39.843 2025-11-09 13:22:53.037   107.219900
+922                 symonixprime 2025-11-09 13:33:06.546 2025-11-09 13:40:15.525     7.149650
+923                      zwierek 2025-11-09 09:42:15.401 2025-11-09 14:16:43.268   274.464450
+924                       M@rcin 2025-11-09 10:19:29.914 2025-11-09 14:45:27.156   265.954033
+925                       Błażej 2025-11-09 12:11:53.496 2025-11-09 14:49:39.757   157.771017
+926                        Romek 2025-11-09 13:48:55.063 2025-11-09 14:56:42.751    67.794800
+927                    M1odyHaze 2025-11-09 13:03:57.885 2025-11-09 14:57:07.407   113.158700
+928                      Figuana 2025-11-09 13:27:36.389 2025-11-09 15:09:54.992   102.310050
+929                         zone 2025-11-09 15:16:48.436 2025-11-09 15:35:44.613    18.936283
+930                        siejA 2025-11-09 12:16:21.323 2025-11-09 15:37:09.562   200.803983
+931                    M1odyHaze 2025-11-09 17:09:51.341 2025-11-09 17:17:48.024     7.944717
+932                         zone 2025-11-09 17:44:47.907 2025-11-09 18:27:44.824    42.948617
+933                       Jolero 2025-11-09 19:03:10.901 2025-11-09 19:06:41.351     3.507500
+934                      zwierek 2025-11-09 18:54:33.226 2025-11-09 19:12:03.987    17.512683
+935               hubsonwaliszot 2025-11-09 15:49:28.041 2025-11-09 19:12:42.017   203.232933
+936                        Romek 2025-11-09 18:48:51.425 2025-11-09 19:27:56.029    39.076733
+937                        siejA 2025-11-09 17:43:00.598 2025-11-09 19:54:50.270   131.827867
+938                       Błażej 2025-11-09 18:27:33.549 2025-11-09 20:17:13.992   109.674050
+939                       Błażej 2025-11-09 20:18:04.759 2025-11-09 20:34:11.203    16.107400
+940                       M@rcin 2025-11-09 18:20:30.373 2025-11-09 21:02:52.528   162.369250
+941                       M@rcin 2025-11-09 21:13:10.841 2025-11-09 21:31:40.859    18.500300
+942               hubsonwaliszot 2025-11-09 21:10:10.114 2025-11-09 21:44:14.196    34.068033
+943                       Jolero 2025-11-09 21:13:08.264 2025-11-09 21:49:14.929    36.111083
+944                    M1odyHaze 2025-11-09 22:31:04.803 2025-11-09 22:35:24.502     4.328317
+945                      zwierek 2025-11-09 21:10:52.794 2025-11-09 22:47:19.205    96.440183
+946                         Lewy 2025-11-09 20:17:01.824 2025-11-09 23:15:46.045   178.737017
+947               hubsonwaliszot 2025-11-09 21:49:31.298 2025-11-09 23:42:06.025   112.578783
+948                         Lewy 2025-11-10 03:51:09.279 2025-11-10 04:23:39.448    32.502817
+949                       M@rcin 2025-11-10 05:06:05.165 2025-11-10 05:55:04.169    48.983400
+950                         Lewy 2025-11-10 05:59:12.070 2025-11-10 06:55:56.570    56.741667
+951                       M@rcin 2025-11-10 07:05:12.862 2025-11-10 07:18:07.224    12.906033
+952                        siejA 2025-11-10 05:04:10.656 2025-11-10 07:42:03.119   157.874383
+953                 symonixprime 2025-11-09 13:41:57.673 2025-11-10 09:29:51.592  1187.898650
+954                       Błażej 2025-11-10 12:06:58.426 2025-11-10 12:16:44.338     9.765200
+955                       Błażej 2025-11-10 12:27:38.289 2025-11-10 12:34:38.943     7.010900
+956                       Błażej 2025-11-10 12:35:42.865 2025-11-10 13:32:43.439    57.009567
+957                       Jolero 2025-11-10 13:03:32.658 2025-11-10 14:56:03.599   112.515683
+958                        siejA 2025-11-10 16:40:26.042 2025-11-10 16:43:16.650     2.843467
+959                       M@rcin 2025-11-10 16:35:45.683 2025-11-10 16:55:24.957    19.654567
+960                       Błażej 2025-11-10 16:37:02.360 2025-11-10 17:04:21.489    27.318817
+961                      zwierek 2025-11-10 10:16:20.608 2025-11-10 17:07:17.787   410.952983
+962                        siejA 2025-11-10 16:43:43.673 2025-11-10 17:09:32.955    25.821367
+963                      Piotrek 2025-11-10 10:19:58.738 2025-11-10 17:12:26.752   412.466900
+964                         zone 2025-11-10 14:41:08.481 2025-11-10 17:12:45.657   151.619600
+965               hubsonwaliszot 2025-11-10 17:07:37.344 2025-11-10 17:20:32.787    12.924050
+966                         Lewy 2025-11-10 16:44:37.044 2025-11-10 17:24:47.806    40.179367
+967               hubsonwaliszot 2025-11-10 17:22:39.848 2025-11-10 17:29:11.855     6.533450
+968                      xlajtt_ 2025-11-10 14:35:31.116 2025-11-10 18:10:01.253   214.502283
+969               hubsonwaliszot 2025-11-10 18:01:38.713 2025-11-10 18:11:03.275     9.409367
+970                       M@rcin 2025-11-10 19:22:59.627 2025-11-10 20:07:06.636    44.116817
+971                       Jolero 2025-11-10 18:28:57.906 2025-11-10 20:24:38.380   115.674567
+972                      zwierek 2025-11-10 18:15:06.932 2025-11-10 20:25:16.317   130.156417
+973               hubsonwaliszot 2025-11-10 18:16:47.856 2025-11-10 20:33:41.803   136.899117
+974                         zone 2025-11-10 21:12:11.855 2025-11-10 21:23:55.689    11.730567
+975                       M@rcin 2025-11-10 20:20:31.941 2025-11-10 23:09:53.021   169.351333
+976                       Jolero 2025-11-10 23:23:32.457 2025-11-10 23:33:18.779     9.772033
+977                       Błażej 2025-11-10 21:58:40.099 2025-11-10 23:35:06.299    96.436667
+978                      Piotrek 2025-11-10 23:07:16.627 2025-11-10 23:37:26.648    30.167017
+979                      zwierek 2025-11-10 23:21:26.571 2025-11-10 23:49:45.628    28.317617
+980                         Lewy 2025-11-11 01:06:42.312 2025-11-11 01:12:41.511     5.986650
+981                       M@rcin 2025-11-11 06:45:23.584 2025-11-11 08:15:31.542    90.132633
+982                 symonixprime 2025-11-11 10:15:02.557 2025-11-11 10:56:50.748    41.803183
+983                      Figuana 2025-11-10 14:36:46.119 2025-11-11 11:14:25.332  1237.653550
+984                         siwa 2025-11-11 09:18:51.726 2025-11-11 11:28:58.718   130.116533
+985                         zone 2025-11-11 10:09:28.943 2025-11-11 11:43:05.438    93.608250
+986                GarbatyAlojzy 2025-11-11 11:42:33.725 2025-11-11 11:48:32.462     5.978950
+987                      zwierek 2025-11-11 10:18:49.725 2025-11-11 11:50:17.364    91.460650
+988                       Jolero 2025-11-11 10:44:31.777 2025-11-11 11:50:57.298    66.425350
+989                      Piotrek 2025-11-11 10:33:08.564 2025-11-11 11:54:01.882    80.888633
+990               045 Polskinoob 2025-10-28 16:19:50.800 2025-11-11 11:54:29.136  1440.000000
+991                       Błażej 2025-11-11 10:13:55.586 2025-11-11 12:05:09.345   111.229317
+992                GarbatyAlojzy 2025-11-11 11:49:21.350 2025-11-11 12:22:11.825    32.841250
+993                      Figuana 2025-11-11 11:22:33.079 2025-11-11 12:40:04.010    77.515517
+994                         Lewy 2025-11-11 04:58:52.055 2025-11-11 13:20:26.720   501.577750
+995                      xlajtt_ 2025-11-11 11:42:43.567 2025-11-11 14:02:43.905   140.005633
+996                      Figuana 2025-11-11 12:41:08.036 2025-11-11 15:29:35.599   168.459383
+997              ShakierMoney600 2025-11-11 15:41:59.282 2025-11-11 15:47:50.731     5.857483
+998                       M@rcin 2025-11-11 16:22:26.215 2025-11-11 17:07:26.797    45.009700
+999                      zwierek 2025-11-11 13:46:12.319 2025-11-11 17:33:55.485   227.719433
+1000                      Jolero 2025-11-11 13:33:58.262 2025-11-11 17:35:37.302   241.650667
+1001                     zwierek 2025-11-11 17:42:11.212 2025-11-11 18:08:46.915    26.595050
+1002                        zone 2025-11-11 15:48:51.099 2025-11-11 18:25:58.228   157.118817
+1003                        zone 2025-11-11 18:32:50.771 2025-11-11 19:33:18.896    60.468750
+1004              hubsonwaliszot 2025-11-11 15:02:39.709 2025-11-11 20:48:23.955   345.737433
+1005                     Piotrek 2025-11-11 16:37:12.536 2025-11-11 21:00:21.846   263.155167
+1006                      Błażej 2025-11-11 19:40:43.115 2025-11-11 21:04:04.345    83.353833
+1007                        Lewy 2025-11-11 20:51:51.092 2025-11-11 21:37:38.529    45.790617
+1008              hubsonwaliszot 2025-11-11 20:54:35.551 2025-11-11 21:42:25.570    47.833650
+1009                     xlajtt_ 2025-11-11 20:42:37.040 2025-11-11 21:49:25.105    66.801083
+1010                      M@rcin 2025-11-11 18:25:31.753 2025-11-11 22:08:55.771   223.400300
+1011                 Agro_Ziomek 2025-11-11 22:32:23.511 2025-11-11 22:41:29.342     9.097183
+1012                      Błażej 2025-11-11 22:02:20.826 2025-11-11 22:51:45.670    49.414067
+1013                 Agro_Ziomek 2025-11-11 22:47:39.091 2025-11-11 22:54:59.623     7.342200
+1014                     Figuana 2025-11-11 20:44:32.687 2025-11-11 23:00:46.252   136.226083
+1015                        zone 2025-11-12 05:55:55.794 2025-11-12 06:02:31.501     6.595117
+1016                      M@rcin 2025-11-12 05:02:38.207 2025-11-12 06:06:03.494    63.421450
+1017                        zone 2025-11-12 06:08:01.646 2025-11-12 06:17:36.055     9.573483
+1018                      M@rcin 2025-11-12 07:12:59.650 2025-11-12 07:34:28.823    21.486217
+1019                        Lewy 2025-11-11 22:55:58.665 2025-11-12 09:09:00.713   613.034133
+1020                symonixprime 2025-11-12 09:06:51.095 2025-11-12 09:10:34.010     3.715250
+1021                        zone 2025-11-12 09:31:20.846 2025-11-12 10:12:38.155    41.288483
+1022                symonixprime 2025-11-12 09:12:28.549 2025-11-12 11:01:58.893   109.505733
+1023                        zone 2025-11-12 11:41:50.547 2025-11-12 11:47:55.537     6.083167
+1024                     Piotrek 2025-11-12 11:24:20.524 2025-11-12 12:45:29.434    81.148500
+1025                        zone 2025-11-12 13:46:13.586 2025-11-12 15:27:58.112   101.742100
+1026                        siwa 2025-11-12 13:43:50.872 2025-11-12 16:02:38.911   138.800650
+1027              045 Polskinoob 2025-11-12 14:15:20.178 2025-11-12 16:02:40.412   107.337233
+1028                      Jolero 2025-11-12 14:32:38.388 2025-11-12 16:04:36.904    91.975267
+1029              045 Polskinoob 2025-11-12 16:25:32.826 2025-11-12 16:27:28.510     1.928067
+1030                        siwa 2025-11-12 16:24:56.928 2025-11-12 16:38:08.751    13.197050
+1031                        siwa 2025-11-12 16:38:55.156 2025-11-12 16:42:36.388     3.687200
+1032                      M@rcin 2025-11-12 16:20:25.865 2025-11-12 16:45:11.066    24.753350
+1033              045 Polskinoob 2025-11-12 16:28:13.205 2025-11-12 17:39:14.785    71.026333
+1034                      Jolero 2025-11-12 16:16:25.689 2025-11-12 17:47:14.943    90.820900
+1035                        zone 2025-11-12 16:29:31.314 2025-11-12 18:04:39.741    95.140450
+1036              hubsonwaliszot 2025-11-12 17:53:31.542 2025-11-12 18:18:04.997    24.557583
+1037              hubsonwaliszot 2025-11-12 18:33:00.694 2025-11-12 18:49:54.005    16.888517
+1038                        Lewy 2025-11-12 17:22:38.125 2025-11-12 19:16:35.508   113.956383
+1039              hubsonwaliszot 2025-11-12 19:32:43.808 2025-11-12 19:41:35.873     8.867750
+1040                     Figuana 2025-11-12 15:56:55.793 2025-11-12 19:50:33.037   233.620733
+1041                     Piotrek 2025-11-12 17:00:49.174 2025-11-12 20:02:06.808   181.293900
+1042                        zone 2025-11-12 18:06:10.262 2025-11-12 20:03:26.088   117.263767
+1043                        siwa 2025-11-12 18:08:53.530 2025-11-12 20:23:03.203   134.161217
+1044                      M@rcin 2025-11-12 18:23:01.328 2025-11-12 20:29:45.608   126.738000
+1045                      Błażej 2025-11-12 16:52:51.710 2025-11-12 20:46:18.559   233.447483
+1046                      Jolero 2025-11-12 18:55:16.933 2025-11-12 21:00:54.287   125.622567
+1047                   M1odyHaze 2025-11-12 20:59:51.002 2025-11-12 21:06:46.857     6.930917
+1048                      M@rcin 2025-11-12 21:10:59.852 2025-11-12 21:38:37.199    27.622450
+1049                     zwierek 2025-11-12 20:53:50.281 2025-11-12 22:09:55.969    76.094800
+1050                      Błażej 2025-11-12 22:35:37.639 2025-11-12 22:39:32.860     3.920350
+1051                        zone 2025-11-12 23:02:55.144 2025-11-12 23:13:03.043    10.131650
+1052              hubsonwaliszot 2025-11-12 19:43:35.902 2025-11-13 00:05:33.810   261.965133
+1053                        Lewy 2025-11-12 22:22:43.657 2025-11-13 00:36:48.634   134.082950
+1054                      M@rcin 2025-11-13 06:38:15.845 2025-11-13 07:40:58.656    62.713517
+1055                        zone 2025-11-13 08:18:41.277 2025-11-13 08:30:30.775    11.824967
+1056                        Lewy 2025-11-13 07:49:02.297 2025-11-13 09:04:33.741    75.524067
+1057                     zwierek 2025-11-13 09:51:04.375 2025-11-13 11:04:51.967    73.793200
+1058                     Piotrek 2025-11-13 12:23:17.297 2025-11-13 12:26:27.601     3.171733
+1059                        siwa 2025-11-13 13:51:00.671 2025-11-13 14:45:13.989    54.221967
+1060                      Błażej 2025-11-13 14:26:32.514 2025-11-13 15:25:45.015    59.208350
+1061              045 Polskinoob 2025-11-13 16:29:58.164 2025-11-13 17:34:04.202    64.100633
+1062                        zone 2025-11-13 16:09:08.687 2025-11-13 17:52:48.955   103.671133
+1063              045 Polskinoob 2025-11-13 17:34:45.883 2025-11-13 17:53:13.576    18.461550
+1064              hubsonwaliszot 2025-11-13 16:37:22.403 2025-11-13 18:12:21.728    94.988750
+1065                     Piotrek 2025-11-13 19:03:42.052 2025-11-13 19:08:43.902     5.030833
+1066              hubsonwaliszot 2025-11-13 19:27:28.581 2025-11-13 19:48:48.643    21.334367
+1067                     Piotrek 2025-11-13 19:09:16.949 2025-11-13 19:48:54.955    39.633433
+1068                        zone 2025-11-13 19:00:56.887 2025-11-13 19:49:13.450    48.276050
+1069                        siwa 2025-11-13 18:44:36.272 2025-11-13 19:49:39.172    65.048333
+1070                      M@rcin 2025-11-13 18:55:34.195 2025-11-13 19:52:42.044    57.130817
+1071                       Romek 2025-11-13 18:00:53.975 2025-11-13 19:54:16.836   113.381017
+1072                        Lewy 2025-11-13 16:17:02.336 2025-11-13 19:54:35.007   217.544517
+1073                      Błażej 2025-11-13 19:42:42.165 2025-11-13 19:57:31.520    14.822583
+1074                        siwa 2025-11-13 20:04:17.399 2025-11-13 20:12:52.888     8.591483
+1075                     Piotrek 2025-11-13 20:46:34.000 2025-11-13 20:59:21.514    12.791900
+1076              045 Polskinoob 2025-11-13 20:24:54.795 2025-11-13 21:02:57.545    38.045833
+1077                        zone 2025-11-13 20:47:04.042 2025-11-13 21:04:09.829    17.096450
+1078                       Romek 2025-11-13 21:06:59.348 2025-11-13 21:07:44.369     0.750350
+1079                      Jolero 2025-11-13 20:04:22.426 2025-11-13 21:51:37.232   107.246767
+1080              hubsonwaliszot 2025-11-13 20:20:42.852 2025-11-13 21:52:30.055    91.786717
+1081                     zwierek 2025-11-13 20:43:10.244 2025-11-13 21:53:25.510    70.254433
+1082                   M1odyHaze 2025-11-13 21:27:25.558 2025-11-13 21:53:27.293    26.028917
+1083                      M@rcin 2025-11-13 20:47:02.465 2025-11-13 21:56:13.816    69.189183
+1084                      Błażej 2025-11-13 20:19:37.375 2025-11-13 21:56:31.326    96.899183
+1085                      M@rcin 2025-11-13 22:04:56.342 2025-11-13 22:16:38.451    11.701817
+1086                       Romek 2025-11-13 21:08:37.563 2025-11-13 22:43:28.962    94.856650
+1087                        zone 2025-11-13 22:07:39.084 2025-11-14 00:34:11.628   146.542400
+1088                     Piotrek 2025-11-13 23:28:04.324 2025-11-14 00:54:48.542    86.736967
+1089                        zone 2025-11-14 00:35:14.289 2025-11-14 01:10:37.729    35.390667
+1090                     Piotrek 2025-11-14 00:55:55.029 2025-11-14 01:11:27.819    15.546500
+1091              hubsonwaliszot 2025-11-13 22:05:46.046 2025-11-14 01:16:00.914   190.247800
+1092                        Lewy 2025-11-13 21:07:01.314 2025-11-14 01:24:36.823   257.591817
+1093                      M@rcin 2025-11-14 05:20:36.085 2025-11-14 05:48:49.770    28.228083
+1094                      M@rcin 2025-11-14 07:03:35.927 2025-11-14 07:27:18.270    23.705717
+1095                        Lewy 2025-11-14 04:24:29.862 2025-11-14 08:41:12.658   256.713267
+1096                        Lewy 2025-11-14 10:00:17.375 2025-11-14 10:51:48.324    51.515817
+1097                     Piotrek 2025-11-14 10:55:22.243 2025-11-14 10:56:56.030     1.563117
+1098                        zone 2025-11-14 10:32:01.652 2025-11-14 11:33:08.141    61.108150
+1099              hubsonwaliszot 2025-11-14 06:45:29.938 2025-11-14 13:51:15.406   425.757800
+1100                        siwa 2025-11-14 12:57:52.786 2025-11-14 14:08:06.443    70.227617
+1101                        siwa 2025-11-14 14:09:50.925 2025-11-14 14:12:57.615     3.111500
+1102              045 Polskinoob 2025-11-14 13:45:45.581 2025-11-14 14:34:56.856    49.187917
+1103                        siwa 2025-11-14 14:19:55.630 2025-11-14 15:45:29.784    85.569233
+1104                     Piotrek 2025-11-14 11:30:52.156 2025-11-14 15:45:32.648   254.674867
+1105                        zone 2025-11-14 12:13:24.349 2025-11-14 15:47:38.024   214.227917
+1106                     zwierek 2025-11-13 21:54:38.623 2025-11-14 16:22:08.564  1107.499017
+1107                      M@rcin 2025-11-14 16:25:37.870 2025-11-14 16:37:56.372    12.308367
+1108                        siwa 2025-11-14 16:54:39.575 2025-11-14 17:14:16.714    19.618983
+1109                        Lewy 2025-11-14 17:09:42.309 2025-11-14 17:20:00.998    10.311483
+1110                      Jolero 2025-11-14 16:58:17.995 2025-11-14 17:22:32.189    24.236567
+1111              hubsonwaliszot 2025-11-14 16:56:12.784 2025-11-14 17:23:12.010    26.987100
+1112                        zone 2025-11-14 16:52:21.082 2025-11-14 17:23:59.548    31.641100
+1113                     Piotrek 2025-11-14 17:07:39.065 2025-11-14 17:26:00.036    18.349517
+1114                        Lewy 2025-11-14 17:22:31.563 2025-11-14 17:28:47.957     6.273233
+1115                     xlajtt_ 2025-11-14 18:10:40.001 2025-11-14 18:18:11.645     7.527400
+1116                     Piotrek 2025-11-14 18:25:06.667 2025-11-14 18:31:22.972     6.271750
+1117                        siwa 2025-11-14 18:25:44.188 2025-11-14 18:35:05.057     9.347817
+1118                       Romek 2025-11-14 17:44:11.456 2025-11-14 18:35:17.129    51.094550
+1119                     zwierek 2025-11-14 18:58:15.001 2025-11-14 19:03:37.782     5.379683
+1120                      Jolero 2025-11-14 18:58:06.087 2025-11-14 19:13:50.492    15.740083
+1121              hubsonwaliszot 2025-11-14 18:24:24.965 2025-11-14 19:26:15.033    61.834467
+1122                        zone 2025-11-14 18:26:13.427 2025-11-14 19:48:15.306    82.031317
+1123                     Piotrek 2025-11-14 18:32:06.607 2025-11-14 19:55:49.769    83.719367
+1124              hubsonwaliszot 2025-11-14 19:52:07.142 2025-11-14 19:58:55.214     6.801200
+1125                      LeBrOn 2025-11-14 20:18:53.423 2025-11-14 20:52:22.448    33.483750
+1126                     Figuana 2025-11-14 20:56:05.806 2025-11-14 20:57:48.431     1.710417
+1127                      Jolero 2025-11-14 19:46:14.174 2025-11-14 21:01:47.323    75.552483
+1128                     xlajtt_ 2025-11-14 20:55:49.402 2025-11-14 21:12:35.094    16.761533
+1129                        siwa 2025-11-14 18:36:24.891 2025-11-14 21:14:17.499   157.876800
+1130                     zwierek 2025-11-14 19:11:34.548 2025-11-14 21:38:26.804   146.870933
+1131                      LeBrOn 2025-11-14 20:54:03.491 2025-11-14 21:50:28.133    56.410700
+1132              hubsonwaliszot 2025-11-14 20:14:30.586 2025-11-14 21:56:55.448   102.414367
+1133                        Lewy 2025-11-14 18:22:22.803 2025-11-14 22:22:00.746   239.632383
+1134                       Romek 2025-11-14 18:36:03.146 2025-11-14 22:35:40.947   239.630017
+1135                      M@rcin 2025-11-14 20:19:08.047 2025-11-14 22:49:32.532   150.408083
+1136                        zone 2025-11-14 22:31:55.616 2025-11-14 23:01:01.532    29.098600
+1137                      Błażej 2025-11-14 20:12:11.997 2025-11-14 23:52:04.816   219.880317
+1138                symonixprime 2025-11-14 22:54:54.513 2025-11-14 23:56:50.723    61.936833
+1139                      Jolero 2025-11-14 23:37:54.811 2025-11-15 00:06:28.640    28.563817
+1140                     zwierek 2025-11-14 23:37:24.665 2025-11-15 00:09:11.334    31.777817
+1141                     Figuana 2025-11-14 20:58:40.604 2025-11-15 00:12:34.874   193.904500
+1142                        zone 2025-11-15 00:55:32.340 2025-11-15 00:57:26.800     1.907667
+1143                      M@rcin 2025-11-15 06:59:15.239 2025-11-15 08:47:03.891   107.810867
+1144                        Lewy 2025-11-15 05:39:08.488 2025-11-15 09:44:25.035   245.275783
+1145                        Lewy 2025-11-15 10:25:37.428 2025-11-15 10:34:22.767     8.755650
+1146                        zone 2025-11-15 10:36:20.117 2025-11-15 10:38:46.868     2.445850
+1147                        Lewy 2025-11-15 10:36:10.202 2025-11-15 10:40:15.682     4.091333
+1148                     Figuana 2025-11-15 10:39:20.481 2025-11-15 10:43:33.732     4.220850
+1149                        Lewy 2025-11-15 10:42:51.868 2025-11-15 10:47:21.517     4.494150
+1150                    SzaGhrat 2025-11-15 09:06:17.170 2025-11-15 10:58:10.449   111.887983
+1151                      Jolero 2025-11-15 09:21:23.418 2025-11-15 11:13:38.826   112.256800
+1152                        Lewy 2025-11-15 11:13:10.930 2025-11-15 11:20:42.727     7.529950
+1153                symonixprime 2025-11-15 12:04:53.967 2025-11-15 12:08:39.326     3.755983
+1154                symonixprime 2025-11-15 12:10:44.928 2025-11-15 12:13:41.999     2.951183
+1155                symonixprime 2025-11-15 12:16:08.225 2025-11-15 12:23:33.337     7.418533
+1156                        siwa 2025-11-15 10:14:07.367 2025-11-15 12:25:13.836   131.107817
+1157                symonixprime 2025-11-15 12:25:42.314 2025-11-15 13:01:10.223    35.465150
+1158                        Lewy 2025-11-15 11:22:56.435 2025-11-15 13:04:35.062   101.643783
+1159                     Piotrek 2025-11-15 12:01:38.614 2025-11-15 13:13:40.253    72.027317
+1160                     Figuana 2025-11-15 10:44:41.025 2025-11-15 13:16:05.869   151.414067
+1161                     zwierek 2025-11-15 10:34:38.253 2025-11-15 13:32:55.629   178.289600
+1162                       Romek 2025-11-15 09:48:49.802 2025-11-15 13:45:26.629   236.613783
+1163                        zone 2025-11-15 10:40:00.553 2025-11-15 14:06:56.071   206.925300
+1164              hubsonwaliszot 2025-11-15 10:30:30.397 2025-11-15 14:13:02.561   222.536067
+1165                        Lewy 2025-11-15 15:38:54.254 2025-11-15 15:43:29.340     4.584767
+1166              045 Polskinoob 2025-11-15 16:08:41.877 2025-11-15 16:10:08.082     1.436750
+1167                      M@rcin 2025-11-15 15:02:25.735 2025-11-15 16:27:45.575    85.330667
+1168                      Jolero 2025-11-15 14:28:35.886 2025-11-15 16:40:53.261   132.289583
+1169                       Romek 2025-11-15 15:02:47.050 2025-11-15 17:00:34.814   117.796067
+1170                     Figuana 2025-11-15 17:19:53.594 2025-11-15 17:23:11.142     3.292467
+1171              hubsonwaliszot 2025-11-15 17:25:58.481 2025-11-15 17:27:34.996     1.608583
+1172                     Figuana 2025-11-15 17:24:58.926 2025-11-15 17:45:22.345    20.390317
+1173                        siwa 2025-11-15 16:01:01.282 2025-11-15 17:45:50.186   104.815067
+1174                symonixprime 2025-11-15 14:09:36.306 2025-11-15 17:52:22.095   222.763150
+1175                     zwierek 2025-11-15 17:51:13.899 2025-11-15 17:54:31.900     3.300017
+1176                     zwierek 2025-11-15 17:55:16.238 2025-11-15 17:58:42.476     3.437300
+1177              045 Polskinoob 2025-11-15 16:10:49.939 2025-11-15 18:21:47.129   130.953167
+1178                        siwa 2025-11-15 19:00:08.846 2025-11-15 19:35:03.341    34.908250
+1179                      Jolero 2025-11-15 18:38:04.499 2025-11-15 20:07:31.876    89.456283
+1180                        zone 2025-11-15 14:49:53.986 2025-11-15 20:07:37.017   317.717183
+1181                     Piotrek 2025-11-15 19:59:53.337 2025-11-15 20:08:07.209     8.231200
+1182                        siwa 2025-11-15 19:43:28.060 2025-11-15 20:08:13.124    24.751067
+1183                symonixprime 2025-11-15 20:16:29.539 2025-11-15 21:11:39.195    55.160933
+1184                        siwa 2025-11-15 20:19:37.466 2025-11-15 21:18:05.785    58.471983
+1185                       Romek 2025-11-15 21:16:57.463 2025-11-15 21:20:09.145     3.194700
+1186                       Romek 2025-11-15 21:20:59.912 2025-11-15 22:18:45.494    57.759700
+1187                        Lewy 2025-11-15 15:45:26.259 2025-11-15 22:22:07.211   396.682533
+1188                        zone 2025-11-15 20:18:49.250 2025-11-15 22:39:41.298   140.867467
+1189                      Błażej 2025-11-15 21:00:58.739 2025-11-15 22:51:42.462   110.728717
+1190                      M@rcin 2025-11-15 22:10:56.450 2025-11-15 23:09:04.840    58.139833
+1191                        zone 2025-11-15 22:43:33.210 2025-11-15 23:54:48.110    71.248333
+1192                     zwierek 2025-11-15 21:03:09.763 2025-11-16 00:23:22.414   200.210850
+1193                      Jolero 2025-11-15 20:12:44.441 2025-11-16 00:27:55.069   255.177133
+1194                     Piotrek 2025-11-15 20:18:44.890 2025-11-16 00:28:47.631   250.045683
+1195                        zone 2025-11-15 23:55:47.226 2025-11-16 00:29:24.105    33.614650
+1196              hubsonwaliszot 2025-11-15 17:33:54.084 2025-11-16 00:32:55.790   419.028433
+1197                        zone 2025-11-16 01:45:01.560 2025-11-16 01:49:03.121     4.026017
+1198                       Romek 2025-11-16 01:40:59.046 2025-11-16 01:51:35.936    10.614833
+1199                        Lewy 2025-11-16 04:31:51.505 2025-11-16 04:40:03.682     8.202950
+1200                      M@rcin 2025-11-16 07:03:18.374 2025-11-16 07:37:36.327    34.299217
+1201                       Romek 2025-11-16 09:54:52.784 2025-11-16 10:50:32.366    55.659700
+1202                     Piotrek 2025-11-16 11:16:56.450 2025-11-16 11:20:24.083     3.460550
+1203                     Piotrek 2025-11-16 11:20:57.039 2025-11-16 11:25:52.303     4.921067
+1204                      Błażej 2025-11-16 09:32:36.769 2025-11-16 12:10:32.725   157.932600
+1205                       Romek 2025-11-16 11:02:53.693 2025-11-16 12:12:19.735    69.434033
+1206                        zone 2025-11-16 09:12:42.225 2025-11-16 12:15:23.177   182.682533
+1207                        siwa 2025-11-16 09:34:04.770 2025-11-16 12:17:48.800   163.733833
+1208                      M@rcin 2025-11-16 09:12:15.771 2025-11-16 12:17:55.819   185.667467
+1209                     Piotrek 2025-11-16 11:26:31.768 2025-11-16 12:21:02.962    54.519900
+1210                symonixprime 2025-11-16 11:06:40.179 2025-11-16 12:37:20.561    90.673033
+1211                     zwierek 2025-11-16 09:55:33.116 2025-11-16 13:19:40.753   204.127283
+1212                        zone 2025-11-16 13:21:18.396 2025-11-16 13:25:31.153     4.212617
+1213                      Błażej 2025-11-16 13:49:06.265 2025-11-16 13:57:14.723     8.140967
+1214                        Lewy 2025-11-16 05:10:38.380 2025-11-16 14:05:34.974   534.943233
+1215                symonixprime 2025-11-16 15:45:03.017 2025-11-16 15:49:22.485     4.324467
+1216                     Figuana 2025-11-16 13:56:17.680 2025-11-16 16:22:58.065   146.673083
+1217                      M@rcin 2025-11-16 14:27:05.430 2025-11-16 16:25:38.368   118.548967
+1218                        siwa 2025-11-16 14:17:59.847 2025-11-16 16:37:47.097   139.787500
+1219                     Piotrek 2025-11-16 14:00:12.190 2025-11-16 16:40:57.574   160.756400
+1220              hubsonwaliszot 2025-11-16 09:34:53.032 2025-11-16 16:47:15.104   432.367867
+1221                        zone 2025-11-16 14:51:40.440 2025-11-16 16:48:03.961   116.392017
+1222                symonixprime 2025-11-16 15:51:09.877 2025-11-16 16:58:03.069    66.886533
+1223                      Błażej 2025-11-16 17:25:37.763 2025-11-16 17:47:39.873    22.035167
+1224                        zone 2025-11-16 17:37:56.494 2025-11-16 17:57:02.891    19.106617
+1225                      Jolero 2025-11-16 17:36:49.335 2025-11-16 18:36:18.385    59.484167
+1226                      Jolero 2025-11-16 18:44:48.525 2025-11-16 18:45:02.114     0.226483
+1227                       Romek 2025-11-16 18:07:29.394 2025-11-16 19:07:26.333    59.948983
+1228              045 Polskinoob 2025-11-16 17:37:45.699 2025-11-16 19:13:29.777    95.734633
+1229                      Jolero 2025-11-16 19:01:13.303 2025-11-16 19:16:25.470    15.202783
+1230                     zwierek 2025-11-16 14:25:31.515 2025-11-16 19:18:26.060   292.909083
+1231                        zone 2025-11-16 17:58:10.285 2025-11-16 19:19:05.315    80.917167
+1232                      M@rcin 2025-11-16 18:35:59.657 2025-11-16 19:22:06.735    46.117967
+1233                     Piotrek 2025-11-16 19:12:38.512 2025-11-16 19:23:24.081    10.759483
+1234              hubsonwaliszot 2025-11-16 17:40:37.826 2025-11-16 19:23:26.750   102.815400
+1235                        siwa 2025-11-16 17:37:44.412 2025-11-16 19:23:54.411   106.166650
+1236                        siwa 2025-11-16 19:57:04.350 2025-11-16 20:32:18.639    35.238150
+1237                    SzaGhrat 2025-11-16 18:23:40.619 2025-11-16 20:47:14.893   143.571233
+1238                      Błażej 2025-11-16 19:30:36.130 2025-11-16 21:21:40.942   111.080200
+1239                      Jolero 2025-11-16 20:07:45.735 2025-11-16 21:36:52.417    89.111367
+1240                     zwierek 2025-11-16 20:22:33.856 2025-11-16 21:37:13.514    74.660967
+1241                symonixprime 2025-11-16 20:56:47.551 2025-11-16 21:42:15.007    45.457600
+1242              hubsonwaliszot 2025-11-16 20:00:48.705 2025-11-16 21:47:07.423   106.311967
+1243                        zone 2025-11-16 19:57:48.684 2025-11-16 22:21:24.848   143.602733
+1244                   Ksawerow1 2025-11-16 21:29:58.507 2025-11-16 22:31:23.966    61.424317
+1245                      M@rcin 2025-11-16 19:57:53.756 2025-11-16 22:33:32.442   155.644767
+1246                     Piotrek 2025-11-16 19:57:13.232 2025-11-16 22:33:44.518   156.521433
+1247                 Agro_Ziomek 2025-11-16 21:43:49.964 2025-11-16 22:35:54.772    52.080133
+1248              hubsonwaliszot 2025-11-16 21:49:41.654 2025-11-16 23:05:35.081    75.890450
+1249                        zone 2025-11-17 00:08:36.318 2025-11-17 00:16:24.280     7.799367
+1250                        Lewy 2025-11-17 00:44:07.090 2025-11-17 01:05:08.291    21.020017
+1251                      M@rcin 2025-11-17 06:56:26.779 2025-11-17 07:15:31.648    19.081150
+1252                        Lewy 2025-11-17 05:22:25.210 2025-11-17 14:03:55.312   521.501700
+1253                        siwa 2025-11-17 13:49:27.409 2025-11-17 15:12:40.286    83.214617
+1254                        siwa 2025-11-17 15:18:25.479 2025-11-17 15:29:10.902    10.757050
+1255                     Piotrek 2025-11-17 14:00:58.307 2025-11-17 16:42:01.894   161.059783
+1256              045 Polskinoob 2025-11-17 15:17:23.875 2025-11-17 16:50:09.537    92.761033
+1257                      Jolero 2025-11-17 14:46:50.687 2025-11-17 17:07:01.314   140.177117
+1258                     zwierek 2025-11-17 12:23:12.091 2025-11-17 17:10:13.943   287.030867
+1259                      Jolero 2025-11-17 18:06:25.061 2025-11-17 18:09:49.287     3.403767
+1260                       romek 2025-11-17 15:47:26.740 2025-11-17 18:45:00.716   177.566267
+1261                 Agro_Ziomek 2025-11-17 17:50:11.701 2025-11-17 18:53:22.574    63.181217
+1262                    SzaGhrat 2025-11-17 16:30:38.801 2025-11-17 19:04:37.434   153.977217
+1263                       romek 2025-11-17 18:51:31.686 2025-11-17 19:07:38.882    16.119933
+1264                        siwa 2025-11-17 18:06:51.559 2025-11-17 19:16:21.574    69.500250
+1265                        siwa 2025-11-17 19:30:24.863 2025-11-17 19:32:11.238     1.772917
+1266                symonixprime 2025-11-17 15:00:17.309 2025-11-17 19:32:18.651   272.022367
+1267                        siwa 2025-11-17 19:33:36.386 2025-11-17 19:34:48.136     1.195833
+1268                        siwa 2025-11-17 19:43:05.295 2025-11-17 19:50:40.994     7.594983
+1269                     Figuana 2025-11-17 18:00:44.950 2025-11-17 20:06:23.839   125.648150
+1270                      Jolero 2025-11-17 19:01:38.876 2025-11-17 20:14:39.717    73.014017
+1271                      Błażej 2025-11-17 21:06:01.441 2025-11-17 21:13:42.778     7.688950
+1272                     Piotrek 2025-11-17 16:43:52.435 2025-11-17 21:18:29.030   274.609917
+1273              045 Polskinoob 2025-11-17 19:32:11.898 2025-11-17 21:24:10.645   111.979117
+1274                        zone 2025-11-17 17:01:41.232 2025-11-17 21:29:38.830   267.959967
+1275                      Jolero 2025-11-17 20:25:20.646 2025-11-17 22:13:33.183   108.208950
+1276                      Błażej 2025-11-17 21:14:43.267 2025-11-17 22:32:16.028    77.546017
+1277                      M@rcin 2025-11-17 19:04:15.952 2025-11-17 22:32:59.047   208.718250
+1278                     zwierek 2025-11-17 19:44:11.276 2025-11-17 22:50:50.630   186.655900
+1279                        zone 2025-11-17 23:09:32.850 2025-11-17 23:40:36.072    31.053700
+1280                     zwierek 2025-11-17 23:06:29.471 2025-11-17 23:46:02.599    39.552133
+1281              hubsonwaliszot 2025-11-17 16:10:15.115 2025-11-17 23:46:12.228   455.951883
+1282                     Piotrek 2025-11-18 00:17:05.853 2025-11-18 00:20:09.012     3.052650
+1283                        zone 2025-11-18 05:44:57.853 2025-11-18 05:55:40.096    10.704050
+1284                    SzaGhrat 2025-11-18 06:22:12.856 2025-11-18 07:10:35.186    48.372167
+1285                      M@rcin 2025-11-18 06:46:32.045 2025-11-18 07:17:20.009    30.799400
+1286                        Lewy 2025-11-18 00:02:08.858 2025-11-18 08:08:48.193   486.655583
+1287                     Piotrek 2025-11-18 09:24:02.129 2025-11-18 09:41:51.131    17.816700
+1288                      Jolero 2025-11-18 10:49:24.353 2025-11-18 11:02:21.079    12.945433
+1289                        Lewy 2025-11-18 11:03:02.114 2025-11-18 11:15:41.110    12.649933
+1290                        Lewy 2025-11-18 11:59:37.131 2025-11-18 12:02:49.182     3.200850
+1291                        siwa 2025-11-18 12:56:34.423 2025-11-18 13:24:28.360    27.898950
+1292                     Piotrek 2025-11-18 12:15:02.475 2025-11-18 13:49:38.783    94.605133
+1293                     zwierek 2025-11-18 11:15:30.529 2025-11-18 13:49:45.287   154.245967
+1294                        Lewy 2025-11-18 12:04:14.114 2025-11-18 13:50:53.986   106.664533
+1295                     Piotrek 2025-11-18 13:51:01.028 2025-11-18 15:08:15.908    77.248000
+1296                     Piotrek 2025-11-18 15:08:51.559 2025-11-18 15:14:35.281     5.728700
+1297                symonixprime 2025-11-18 15:01:55.777 2025-11-18 15:15:45.177    13.823333
+1298              hubsonwaliszot 2025-11-21 17:38:38.666 2025-11-21 17:39:06.932     0.471100
+1299              hubsonwaliszot 2025-11-21 17:48:06.491 2025-11-21 17:54:33.721     6.453833
+1300                symonixprime 2025-11-21 17:34:58.011 2025-11-21 19:12:08.812    97.180017
+1301                      M@rcin 2025-11-21 18:46:26.799 2025-11-21 19:56:14.491    69.794867
+1302                      M@rcin 2025-11-21 20:19:38.608 2025-11-21 21:50:31.965    90.889283
+1303                      Błażej 2025-11-21 20:14:27.008 2025-11-21 22:14:44.579   120.292850
+1304                      Jolero 2025-11-21 17:59:33.983 2025-11-21 23:50:30.447   350.941067
+1305                     zwierek 2025-11-18 13:51:55.964 2025-11-22 00:06:04.135  1440.000000
+1306              hubsonwaliszot 2025-11-21 17:58:20.736 2025-11-22 00:20:28.041   382.121750
+1307                      M@rcin 2025-11-22 06:09:00.082 2025-11-22 06:19:23.821    10.395650
+1308                      Jolero 2025-11-22 10:18:57.950 2025-11-22 10:46:31.692    27.562367
+1309                     zwierek 2025-11-22 10:57:43.405 2025-11-22 11:41:34.633    43.853800
+1310                        zone 2025-11-22 11:50:35.031 2025-11-22 11:55:48.124     5.218217
+1311                symonixprime 2025-11-22 11:33:00.071 2025-11-22 12:00:08.703    27.143867
+1312                     Piotrek 2025-11-22 10:59:12.254 2025-11-22 12:12:44.284    73.533833
+1313                     zwierek 2025-11-22 12:24:41.492 2025-11-22 13:00:24.520    35.717133
+1314                        siwa 2025-11-22 13:10:20.609 2025-11-22 13:59:46.209    49.426667
+1315                      M@rcin 2025-11-22 14:03:29.676 2025-11-22 14:54:53.430    51.395900
+1316                      M@rcin 2025-11-22 14:55:38.274 2025-11-22 15:04:21.763     8.724817
+1317                symonixprime 2025-11-22 12:02:12.600 2025-11-22 16:09:49.016   247.606933
+1318                      M@rcin 2025-11-22 16:40:14.653 2025-11-22 16:43:39.688     3.417250
+1319                     Piotrek 2025-11-22 15:17:16.506 2025-11-22 16:47:54.072    90.626100
+1320                     Piotrek 2025-11-22 16:49:44.707 2025-11-22 17:01:45.121    12.006900
+1321                      Jolero 2025-11-22 16:08:26.062 2025-11-22 17:22:32.087    74.100417
+1322                      M@rcin 2025-11-22 16:44:28.486 2025-11-22 17:38:39.277    54.179850
+1323                        siwa 2025-11-22 19:42:45.744 2025-11-22 19:46:29.832     3.734800
+1324                symonixprime 2025-11-22 17:21:21.680 2025-11-22 20:40:10.430   198.812500
+1325                     zwierek 2025-11-22 17:26:23.272 2025-11-22 20:57:07.982   210.745167
+1326                        siwa 2025-11-22 19:47:39.606 2025-11-22 20:59:45.453    72.097450
+1327              hubsonwaliszot 2025-11-22 16:59:50.991 2025-11-22 21:34:49.725   274.978900
+1328                      Błażej 2025-11-22 16:15:57.522 2025-11-22 21:43:55.706   327.969733
+1329                      M@rcin 2025-11-22 19:07:57.651 2025-11-22 21:43:56.999   155.989133
+1330                     Piotrek 2025-11-22 22:31:00.177 2025-11-22 22:48:27.657    17.458000
+1331              hubsonwaliszot 2025-11-22 23:29:08.651 2025-11-23 03:44:34.296   255.427417
+1332                      M@rcin 2025-11-23 09:05:15.773 2025-11-23 09:12:51.490     7.595283
+1333                      Jolero 2025-11-23 10:09:53.894 2025-11-23 11:33:02.554    83.144333
+1334                      Jolero 2025-11-23 11:34:23.080 2025-11-23 11:36:17.651     1.909517
+1335                symonixprime 2025-11-23 10:06:53.431 2025-11-23 11:43:50.488    96.950950
+1336                     Piotrek 2025-11-23 09:58:04.714 2025-11-23 12:13:11.665   135.115850
+1337                symonixprime 2025-11-23 12:08:00.156 2025-11-23 12:14:32.487     6.538850
+1338              hubsonwaliszot 2025-11-23 09:34:41.703 2025-11-23 12:26:40.242   171.975650
+1339              hubsonwaliszot 2025-11-23 13:05:58.932 2025-11-23 13:23:24.154    17.420367
+1340                        siwa 2025-11-23 09:41:44.759 2025-11-23 13:25:40.039   223.921333
+1341                symonixprime 2025-11-23 12:16:18.813 2025-11-23 14:37:10.944   140.868850
+1342                      Błażej 2025-11-23 10:17:28.772 2025-11-23 14:47:12.097   269.722083
+1343                      Jolero 2025-11-23 11:39:45.507 2025-11-23 14:50:37.384   190.864617
+1344                        siwa 2025-11-23 13:26:50.628 2025-11-23 15:09:07.832   102.286733
+1345              hubsonwaliszot 2025-11-23 13:27:01.728 2025-11-23 15:14:04.044   107.038600
+1346                      M@rcin 2025-11-23 09:42:09.724 2025-11-23 15:15:21.408   333.194733
+1347                      Jolero 2025-11-23 15:08:15.335 2025-11-23 15:21:35.874    13.342317
+1348                     Piotrek 2025-11-23 12:13:24.411 2025-11-23 15:28:50.388   195.432950
+1349                      Jolero 2025-11-23 15:25:55.143 2025-11-23 16:02:09.317    36.236233
+1350                      M@rcin 2025-11-23 16:22:31.484 2025-11-23 16:27:35.408     5.065400
+1351                symonixprime 2025-11-23 16:25:26.073 2025-11-23 16:29:54.615     4.475700
+1352                     Piotrek 2025-11-23 15:48:15.751 2025-11-23 16:49:06.493    60.845700
+1353                     Piotrek 2025-11-23 16:49:53.054 2025-11-23 17:39:03.340    49.171433
+1354                        siwa 2025-11-23 17:49:23.266 2025-11-23 18:31:31.422    42.135933
+1355                      M@rcin 2025-11-23 18:57:11.036 2025-11-23 19:13:43.352    16.538600
+1356                symonixprime 2025-11-23 16:31:50.823 2025-11-23 19:29:20.077   177.487567
+1357                      Błażej 2025-11-23 17:14:06.942 2025-11-23 19:38:09.964   144.050367
+1358                symonixprime 2025-11-23 19:59:17.188 2025-11-23 20:09:30.863    10.227917
+1359                symonixprime 2025-11-23 20:18:31.457 2025-11-23 20:23:12.983     4.692100
+1360                        siwa 2025-11-23 19:15:22.082 2025-11-23 20:45:08.104    89.767033
+1361                symonixprime 2025-11-23 20:26:42.532 2025-11-23 21:14:17.004    47.574533
+1362              hubsonwaliszot 2025-11-23 21:09:16.319 2025-11-23 21:17:29.124     8.213417
+1363                      Błażej 2025-11-23 21:03:18.782 2025-11-23 22:00:23.300    57.075300
+1364                      M@rcin 2025-11-23 19:14:57.905 2025-11-23 22:10:27.023   175.485300
+1365                      Jolero 2025-11-23 19:42:10.251 2025-11-23 22:19:23.693   157.224033
+1366              hubsonwaliszot 2025-11-23 21:22:50.276 2025-11-23 22:27:15.706    64.423833
+1367                     Piotrek 2025-11-23 19:24:42.605 2025-11-23 22:29:30.278   184.794550
+1368                     zwierek 2025-11-23 20:02:09.381 2025-11-23 22:33:56.806   151.790417
+1369                     Piotrek 2025-11-23 23:49:27.090 2025-11-24 00:07:37.973    18.181383
+1370                     Figuana 2025-11-23 23:17:57.610 2025-11-24 00:59:35.312   101.628367
+1371                      M@rcin 2025-11-24 06:44:21.817 2025-11-24 07:05:09.097    20.788000
+1372                     Piotrek 2025-11-24 08:19:02.811 2025-11-24 09:44:49.440    85.777150
+1373              hubsonwaliszot 2025-11-24 09:28:56.256 2025-11-24 09:50:24.230    21.466233
+1374              hubsonwaliszot 2025-11-24 09:52:33.516 2025-11-24 10:11:14.586    18.684500
+1375                symonixprime 2025-11-24 06:59:21.958 2025-11-24 10:49:59.972   230.633567
+1376                symonixprime 2025-11-24 11:00:31.185 2025-11-24 12:29:18.203    88.783633
+1377              hubsonwaliszot 2025-11-24 10:14:54.768 2025-11-24 16:22:47.190   367.873700
+1378                        siwa 2025-11-24 13:51:55.907 2025-11-24 16:49:23.144   177.453950
+1379                      M@rcin 2025-11-24 16:40:12.207 2025-11-24 16:49:34.034     9.363783
+1380                     Piotrek 2025-11-24 13:07:00.429 2025-11-24 16:49:40.682   222.670883
+1381                     zwierek 2025-11-24 16:59:22.946 2025-11-24 17:19:35.438    20.208200
+1382                      Jolero 2025-11-24 16:17:00.963 2025-11-24 18:19:06.574   122.093517
+1383              hubsonwaliszot 2025-11-24 17:39:00.036 2025-11-24 18:22:34.370    43.572233
+1384                        siwa 2025-11-24 16:58:14.610 2025-11-24 19:01:26.113   123.191717
+1385                     Figuana 2025-11-24 18:54:34.254 2025-11-24 19:07:35.381    13.018783
+1386                     Piotrek 2025-11-24 19:06:43.419 2025-11-24 19:37:02.989    30.326167
+1387                      Błażej 2025-11-24 18:46:56.503 2025-11-24 20:47:39.861   120.722633
+1388                        siwa 2025-11-24 19:17:44.589 2025-11-24 20:49:02.466    91.297950
+1389                      M@rcin 2025-11-24 18:31:30.388 2025-11-24 20:50:11.351   138.682717
+1390                     Piotrek 2025-11-24 19:38:03.752 2025-11-24 20:50:15.235    72.191383
+1391                     Figuana 2025-11-24 19:48:12.822 2025-11-24 20:50:27.195    62.239550
+1392                     zwierek 2025-11-24 17:20:23.341 2025-11-24 20:50:54.658   210.521950
+1393                      Błażej 2025-11-24 21:17:32.936 2025-11-24 21:30:21.505    12.809483
+1394                      M@rcin 2025-11-24 21:23:09.969 2025-11-24 22:14:47.561    51.626533
+1395                     Piotrek 2025-11-24 21:23:04.994 2025-11-24 22:54:14.724    91.162167
+1396              hubsonwaliszot 2025-11-24 21:39:48.496 2025-11-24 23:03:19.524    83.517133
+1397                      Jolero 2025-11-24 21:12:28.974 2025-11-24 23:03:59.102   111.502133
+1398                      M@rcin 2025-11-25 07:04:54.035 2025-11-25 07:08:11.271     3.287267
+1399                      M@rcin 2025-11-25 07:09:15.204 2025-11-25 07:20:23.497    11.138217
+1400                      M@rcin 2025-11-25 07:21:32.263 2025-11-25 07:24:43.299     3.183933
+1401                        Lewy 2025-11-25 09:11:09.780 2025-11-25 09:18:49.533     7.662550
+1402                     Figuana 2025-11-25 11:26:36.745 2025-11-25 11:31:34.846     4.968350
+1403                symonixprime 2025-11-25 11:27:34.628 2025-11-25 11:32:03.800     4.486200
+1404                symonixprime 2025-11-25 11:34:44.478 2025-11-25 11:38:30.931     3.774217
+1405                      Jolero 2025-11-25 12:06:28.185 2025-11-25 13:03:26.553    56.972800
+1406                     zwierek 2025-11-25 12:12:08.055 2025-11-25 13:10:36.988    58.482217
+1407                        siwa 2025-11-25 12:55:12.857 2025-11-25 15:06:15.719   131.047700
+1408                        siwa 2025-11-25 15:12:58.067 2025-11-25 15:57:03.332    44.087750
+1409                     Figuana 2025-11-25 15:36:26.503 2025-11-25 16:04:15.426    27.815383
+1410                      M@rcin 2025-11-25 16:25:46.263 2025-11-25 16:48:00.235    22.232867
+1411                     Piotrek 2025-11-25 15:00:11.263 2025-11-25 16:51:21.992   111.178817
+1412                      Błażej 2025-11-25 13:16:29.347 2025-11-25 16:53:34.374   217.083783
+1413                     Figuana 2025-11-25 16:05:10.889 2025-11-25 16:56:01.501    50.843533
+1414                        siwa 2025-11-25 16:05:39.727 2025-11-25 16:56:05.513    50.429767
+1415                      Jolero 2025-11-25 17:43:05.462 2025-11-25 17:44:40.367     1.581750
+1416                      Błażej 2025-11-25 18:15:01.458 2025-11-25 18:32:03.746    17.038133
+1417                        siwa 2025-11-25 19:49:35.137 2025-11-25 21:16:46.631    87.191567
+1418              hubsonwaliszot 2025-11-25 19:13:03.180 2025-11-25 21:49:28.437   156.420950
+1419                      M@rcin 2025-11-25 19:16:14.778 2025-11-25 21:54:20.640   158.097700
+1420                      Błażej 2025-11-25 18:36:07.281 2025-11-25 22:02:54.065   206.779733
+1421                      Jolero 2025-11-25 17:46:03.814 2025-11-25 22:23:55.491   277.861283
+1422                     zwierek 2025-11-25 21:01:39.220 2025-11-25 22:58:53.938   117.245300
+1423                     Piotrek 2025-11-25 17:02:26.453 2025-11-25 23:10:53.457   368.450067
+1424              hubsonwaliszot 2025-11-25 21:55:03.304 2025-11-25 23:12:54.297    77.849883
+1425                      M@rcin 2025-11-26 06:48:44.443 2025-11-26 07:19:57.769    31.222100
+1426                        siwa 2025-11-26 07:41:31.777 2025-11-26 08:03:32.613    22.013933
+1427    symonixprime serwerkaput 2025-11-25 11:54:52.327 2025-11-26 12:07:53.889  1440.000000
+1428                        siwa 2025-11-26 13:07:24.711 2025-11-26 13:16:05.591     8.681333
+1429                        siwa 2025-11-26 13:19:36.977 2025-11-26 13:21:43.095     2.101967
+1430                      Błażej 2025-11-26 14:24:45.922 2025-11-26 14:31:25.166     6.654067
+1431                     Piotrek 2025-11-26 12:16:59.796 2025-11-26 14:59:39.351   162.659250
+1432                      Jolero 2025-11-26 14:57:54.186 2025-11-26 15:03:25.711     5.525417
+1433                        siwa 2025-11-26 13:29:23.232 2025-11-26 15:24:26.302   115.051167
+1434                      Jolero 2025-11-26 15:04:30.847 2025-11-26 17:00:36.640   116.096550
+1435                        siwa 2025-11-26 16:09:39.867 2025-11-26 17:03:37.454    53.959783
+1436                      M@rcin 2025-11-26 16:27:50.779 2025-11-26 17:14:01.729    46.182500
+1437                        siwa 2025-11-26 17:11:06.029 2025-11-26 17:30:45.863    19.663900
+1438                     Figuana 2025-11-26 14:18:36.285 2025-11-26 17:35:23.668   196.789717
+1439                        siwa 2025-11-26 17:32:39.214 2025-11-26 18:26:10.422    53.520133
+1440                      M@rcin 2025-11-26 18:44:14.368 2025-11-26 19:06:10.215    21.930783
+1441                      Jolero 2025-11-26 19:17:15.661 2025-11-26 19:25:38.854     8.386550
+1442              hubsonwaliszot 2025-11-26 19:21:41.539 2025-11-26 19:42:59.526    21.299783
+1443                      Jolero 2025-11-26 19:26:59.665 2025-11-26 20:16:17.008    49.289050
+1444                        siwa 2025-11-26 19:33:26.159 2025-11-26 20:22:23.711    48.959200
+1445                        siwa 2025-11-26 20:23:15.687 2025-11-26 20:29:22.823     6.118933
+1446                      Jolero 2025-11-26 20:18:23.009 2025-11-26 20:32:10.494    13.791417
+1447                      Błażej 2025-11-26 14:32:47.824 2025-11-26 20:37:36.402   364.809633
+1448                      Błażej 2025-11-26 20:42:55.834 2025-11-26 20:47:57.408     5.026233
+1449              hubsonwaliszot 2025-11-26 19:48:15.204 2025-11-26 20:48:08.149    59.882417
+1450                      Jolero 2025-11-26 20:38:30.954 2025-11-26 21:04:08.502    25.625800
+1451                      Błażej 2025-11-26 20:50:25.101 2025-11-26 21:22:57.389    32.538133
+1452                     Piotrek 2025-11-26 20:30:11.386 2025-11-26 22:15:28.877   105.291517
+1453                        Lewy 2025-11-26 22:20:05.472 2025-11-26 22:22:38.002     2.542167
+1454                      M@rcin 2025-11-26 19:24:25.266 2025-11-26 22:24:35.273   180.166783
+1455                       Romek 2025-11-26 22:46:23.414 2025-11-27 00:06:55.044    80.527167
+1456                        Lewy 2025-11-26 22:26:18.028 2025-11-27 00:07:24.831   101.113383
+1457                      M@rcin 2025-11-27 06:49:45.023 2025-11-27 07:13:30.257    23.753900
+1458    symonixprime serwerkaput 2025-11-27 08:51:06.435 2025-11-27 09:03:51.514    12.751317
+1459    symonixprime serwerkaput 2025-11-27 09:05:47.497 2025-11-27 12:28:27.158   202.661017
+1460                     Piotrek 2025-11-27 11:36:22.916 2025-11-27 12:48:43.201    72.338083
+1461                     Piotrek 2025-11-27 14:12:27.745 2025-11-27 14:42:40.749    30.216733
+1462                        siwa 2025-11-27 13:57:04.936 2025-11-27 15:12:07.087    75.035850
+1463                      Jolero 2025-11-27 14:40:36.619 2025-11-27 15:12:32.017    31.923300
+1464                      Błażej 2025-11-27 14:05:10.967 2025-11-27 15:13:11.929    68.016033
+1465                      Błażej 2025-11-27 16:34:12.291 2025-11-27 16:38:22.413     4.168700
+1466                      Błażej 2025-11-27 16:40:33.165 2025-11-27 16:43:04.662     2.524950
+1467                      M@rcin 2025-11-27 16:31:22.601 2025-11-27 17:17:20.092    45.958183
+1468                      M@rcin 2025-11-27 18:48:27.216 2025-11-27 18:51:36.908     3.161533
+1469                      M@rcin 2025-11-27 18:52:45.765 2025-11-27 18:55:13.504     2.462317
+1470                     zwierek 2025-11-27 16:43:30.908 2025-11-27 19:20:40.788   157.164667
+1471              hubsonwaliszot 2025-11-27 19:28:23.485 2025-11-27 19:49:16.639    20.885900
+1472                      M@rcin 2025-11-27 18:57:04.973 2025-11-27 20:18:11.905    81.115533
+1473                     Piotrek 2025-11-27 17:27:03.762 2025-11-27 20:19:42.805   172.650717
+1474                      Błażej 2025-11-27 16:44:50.804 2025-11-27 20:27:39.803   222.816650
+1475                      M@rcin 2025-11-27 21:45:16.688 2025-11-27 23:02:56.815    77.668783
+1476                        Lewy 2025-11-28 03:14:54.928 2025-11-28 03:57:42.706    42.796300
+1477                      M@rcin 2025-11-28 06:47:49.409 2025-11-28 07:19:18.233    31.480400
+1478                     Piotrek 2025-11-28 09:02:48.495 2025-11-28 09:40:29.830    37.688917
+1479    symonixprime serwerkaput 2025-11-28 07:58:09.858 2025-11-28 10:26:21.902   148.200733
+1480                     Piotrek 2025-11-28 11:30:13.459 2025-11-28 11:51:36.771    21.388533
+1481                      Błażej 2025-11-28 13:28:21.296 2025-11-28 14:14:07.528    45.770533
+1482                        siwa 2025-11-28 12:59:09.521 2025-11-28 14:36:29.359    97.330633
+1483                     Piotrek 2025-11-28 15:25:09.069 2025-11-28 16:54:52.301    89.720533
+1484                      M@rcin 2025-11-28 16:41:07.074 2025-11-28 17:17:36.200    36.485433
+1485              hubsonwaliszot 2025-11-28 18:10:57.242 2025-11-28 18:19:28.323     8.518017
+1486              hubsonwaliszot 2025-11-28 18:21:26.174 2025-11-28 18:29:07.751     7.692950
+1487                      Błażej 2025-11-28 18:27:50.934 2025-11-28 18:31:33.572     3.710633
+1488                      Błażej 2025-11-28 18:32:12.288 2025-11-28 18:35:21.462     3.152900
+1489              hubsonwaliszot 2025-11-28 19:22:42.356 2025-11-28 19:33:12.571    10.503583
+1490                      Błażej 2025-11-28 18:37:44.722 2025-11-28 19:57:42.434    79.961867
+1491                      M@rcin 2025-11-28 18:51:50.350 2025-11-28 19:57:57.837    66.124783
+1492                        siwa 2025-11-28 17:26:41.929 2025-11-28 19:58:10.603   151.477900
+1493                     Piotrek 2025-11-28 16:56:28.418 2025-11-28 20:00:59.168   184.512500
+1494                     Piotrek 2025-11-28 20:52:16.018 2025-11-28 20:53:52.942     1.615400
+1495                      M@rcin 2025-11-28 20:50:42.901 2025-11-28 20:53:55.671     3.212833
+1496                     Piotrek 2025-11-28 20:54:28.481 2025-11-28 20:56:28.667     2.003100
+1497                      M@rcin 2025-11-28 20:55:09.358 2025-11-28 20:58:35.143     3.429750
+1498                      Błażej 2025-11-28 21:04:51.895 2025-11-28 21:10:13.119     5.353733
+1499                      M@rcin 2025-11-28 21:07:49.205 2025-11-28 21:12:18.417     4.486867
+1500                      M@rcin 2025-11-28 21:15:12.217 2025-11-28 21:18:31.096     3.314650
+1501                      M@rcin 2025-11-28 21:20:52.112 2025-11-28 21:24:15.795     3.394717
+1502                      M@rcin 2025-11-28 21:25:43.688 2025-11-28 21:28:04.392     2.345067
+1503                      M@rcin 2025-11-28 21:29:10.606 2025-11-28 21:31:13.479     2.047883
+1504              hubsonwaliszot 2025-11-28 20:13:30.578 2025-11-28 23:11:00.422   177.497400
+1505                      Jolero 2025-11-28 16:41:18.447 2025-11-28 23:18:35.117   397.277833
+1506                      M@rcin 2025-11-29 07:01:36.851 2025-11-29 08:41:42.941   100.101500
+1507                        siwa 2025-11-29 08:45:03.806 2025-11-29 08:56:50.896    11.784833
+1508    symonixprime serwerkaput 2025-11-29 08:28:36.268 2025-11-29 09:02:55.817    34.325817
+1509                      M@rcin 2025-11-29 10:01:55.472 2025-11-29 10:35:32.281    33.613483
+1510                      M@rcin 2025-11-29 12:44:55.642 2025-11-29 13:21:39.379    36.728950
+1511    symonixprime serwerkaput 2025-11-29 13:00:53.927 2025-11-29 14:02:13.155    61.320467
+1512                     Piotrek 2025-11-29 10:24:03.882 2025-11-29 14:12:04.422   228.009000
+1513                        siwa 2025-11-29 11:30:54.220 2025-11-29 14:40:39.485   189.754417
+1514                     Piotrek 2025-11-29 14:12:40.292 2025-11-29 15:07:01.638    54.355767
+1515                      Błażej 2025-11-29 10:01:01.797 2025-11-29 15:24:21.069   323.321200
+1516                      M@rcin 2025-11-29 15:47:09.672 2025-11-29 16:15:23.153    28.224683
+1517                     Piotrek 2025-11-29 15:45:39.042 2025-11-29 16:56:07.794    70.479200
+1518                      M@rcin 2025-11-29 17:19:43.669 2025-11-29 19:17:00.052   117.273050
+1519                      Jolero 2025-11-29 18:01:27.028 2025-11-29 19:56:14.753   114.795417
+1520                        siwa 2025-11-29 17:39:12.270 2025-11-29 19:56:34.985   137.378583
+1521              hubsonwaliszot 2025-11-29 18:42:27.484 2025-11-29 20:39:45.987   117.308383
+1522                     Piotrek 2025-11-29 16:56:50.973 2025-11-29 20:40:58.271   224.121633
+1523                      Błażej 2025-11-29 16:57:17.016 2025-11-29 20:42:11.361   224.905750
+1524    symonixprime serwerkaput 2025-11-29 16:25:19.776 2025-11-29 20:45:51.323   260.525783
+1525    symonixprime serwerkaput 2025-11-29 21:18:51.714 2025-11-29 21:23:14.299     4.376417
+1526                      Błażej 2025-11-29 21:19:51.519 2025-11-29 21:24:19.488     4.466150
+1527                     Piotrek 2025-11-29 21:17:19.654 2025-11-29 22:00:23.009    43.055917
+1528                      Jolero 2025-11-29 22:34:53.192 2025-11-29 22:38:49.820     3.943800
+1529    symonixprime serwerkaput 2025-11-29 21:25:02.726 2025-11-29 23:03:25.655    98.382150
+1530                      Jolero 2025-11-29 22:40:19.903 2025-11-29 23:12:50.365    32.507700
+1531                       Paweł 2025-11-05 15:49:03.743                     NaT     0.000000
+1532                       blaze 2025-11-08 17:37:38.696                     NaT     0.000000
+1533                      M@rcin 2025-11-29 21:18:13.018                     NaT     0.000000
+1534                      Błażej 2025-11-29 21:24:58.553                     NaT     0.000000
+1535                     Piotrek 2025-11-29 22:01:26.613                     NaT     0.000000
+2026-01-16 17:28:54,453 - INFO - ⚠️ Brak komend admina.
+2026-01-16 17:28:54,455 - INFO - 🚨 Problematyczni gracze (wiele disconnectów): 
+Details
+Jolero                        182
+M@rcin                        179
+zwierek                       134
+Piotrek                       128
+zone                          125
+hubsonwaliszot                120
+siejA                          95
+siwa                           85
+Figuana                        58
+szagh                          51
+Błażej                         51
+symonixprime                   47
+Lewy                           47
+symonixprime serwerkaput       41
+Romek                          38
+M1odyHaze                      22
+blaze                          21
+Daniel                         15
+045 Polskinoob                 14
+w3rny                          12
+wiciu                          10
+symonixprime nie ten znany      9
+LeBrOn                          8
+Paweł                           6
+GarbatyAlojzy                   6
+Kuno lis                        5
+SzaGhrat                        5
+ShakierMoney600                 5
+xlajtt_                         5
+Agro_Ziomek                     4
+Name: count, dtype: int64
+2026-01-16 17:28:57,526 - INFO - 💾 Znaleziono 2011 zapisów gry.
+2026-01-16 17:29:00,509 - INFO - 🌾 Znaleziono 606 akcji farmy.
+2026-01-16 17:29:00,840 - INFO - 📊 Przygotowano dane warnings_per_hour: 254 etykiet, 254 wartości
+2026-01-16 17:29:01,406 - INFO - 📊 Przygotowano dane errors_per_hour: 111 etykiet
+2026-01-16 17:29:01,410 - INFO - 📊 Przygotowano dane error_types: 2 typów
+2026-01-16 17:29:04,308 - INFO - 📊 Przygotowano dane event_types: 3 etykiet, 3 wartości
+2026-01-16 17:29:07,295 - INFO - 📊 Przygotowano dane events_per_hour: 953 etykiet, 953 wartości
+2026-01-16 17:29:07,295 - INFO - ⚠️ Brak komend admina do wykresu.
+2026-01-16 17:29:10,230 - INFO - 📊 Przygotowano dane mod_issues: 13 etykiet, 13 wartości
+2026-01-16 17:29:16,380 - INFO - ✓ summarize_sessions: Created 33 sessions summary
+2026-01-16 17:29:16,397 - INFO - 💾 Przygotowano podsumowanie zapisów: 42 dni
+2026-01-16 17:29:24,270 - INFO - 🔧 Detected server restart via time gap at 2025-11-21 16:44:10.857000
+2026-01-16 17:29:24,270 - INFO - 🖥️ Server startup: 2025-11-21 16:44:10, Uptime: 56d 0h 45m
+2026-01-16 17:29:25,172 - INFO - 📄 Raport HTML zapisany jako docs/index.html
+2026-01-16 17:29:25,291 - INFO - ✅ Raport HTML wygenerowany: docs/index.html
+2026-01-16 17:29:25,291 - INFO - ✅ Analiza zakończona pomyślnie.
